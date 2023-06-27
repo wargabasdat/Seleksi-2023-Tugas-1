@@ -1,0 +1,536 @@
+{
+    "courses": [
+        {
+            "course_id": "11.521",
+            "semester": "Spring",
+            "year": "2003",
+            "title": "Spatial Database Management and Advanced Geographic Information Systems",
+            "url": "https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/",
+            "detail": "This semester long subject (11.521) is divided into two halves. The first half focuses on learning spatial database management techniques and methods and the second half focuses on using these skills to address a \u2018real world,\u2019 client-oriented planning problem. The first half of the semester may be taken separately using the class number 11.523 and the second half may be taken separately as 11.524.In order to help shape and utilize the information infrastructure that will support the management and development of our metropolitan areas, planners need a basic understanding of the tools and technology for querying, analyzing, and sharing complex databases and maps. Managing online access to large and constantly-changing spatial datasets can be a powerful aid to planning and can facilitate inter-agency cooperation and collaboration in an increasingly decentralized world. But it requires the use of knowledge representation methods, client-server technologies and access control issues that are quite different from what are needed to model and visualize standalone datasets on a personal computer. Hence, planners should acquire basic skills in database management, digital spatial data analysis, and networking.The 11.523 portion of the semester addresses these issues while retaining a focus on planning (rather than on computer science).\u00a0This is an intensive, hands-on class that stresses learning by doing. Exercises and examples involving real-world data, maps, and images are used to develop skills with database query languages and the design development and use of structured databases. Class work utilizes web tools, GIS, and database software with lab exercises primarily on the new high-performance PC computing cluster. Specifically, we will access an Oracle 8i database using SQL (structured query language) and use ArcView for GIS. Each week there are two sixty to ninety-minute classes plus another 90+ minute hands-on lab in electronic classrooms. Class lectures will focus on concepts and case discussion, the scheduled lab time focuses on computer mechanics and skill building. Specific topics during 11.523 include:The 11.524 portion of the semester will treat the classroom like a professional planning office, working as a team to produce a two deliverables for their client, Lawrence Community Works, Inc. (LCW), a community development corporation located in the City of Lawrence, Massachusetts. LCW and DUSP recently agreed to work together for the next five years to design and implement a multi-tier web-based planning system that promotes democratic involvement and informs community development projects. Your involvement this semester is critical, because the implementation plan that you craft this semester will serve as the road map for both organizations for years to come and the simple web-based planning tool that you design will engage stakeholders by giving them a better sense of how technologies can aid decision-making processes. To assist you with the more technical aspects of the project, we hired Robert Cheetham, President of Azavea, Inc. (http://www.azavea.com/\u00a0), to provide exactly 100 hours of consultancy services. Through their project work, students will enhance important professional skills by:",
+            "lecturers": [
+                "Prof. Joseph Ferreira",
+                "Prof. Lorlene Hoyt"
+            ],
+            "department": [
+                "Urban Studies and Planning"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/1775d9a06e4323c3f0aae38d15104358_11-521s03.jpg",
+            "level": "Graduate",
+            "downloadLink": "https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/download"
+        },
+        {
+            "course_id": "15.561",
+            "semester": "Spring",
+            "year": "2005",
+            "title": "Information Technology Essentials",
+            "url": "https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/",
+            "detail": "This class offers a broad coverage of technology concepts and trends underlying current and future developments in information technology, and fundamental principles for the effective use of computer-based information systems. There will be a special emphasis on networks and distributed computing, including the World Wide Web. Other topics include: hardware and operating systems, software development tools and processes, relational databases, security and cryptography, enterprise applications, and electronic commerce. Hands-on exposure to Web, database, and graphical user interface (GUI) tools.This course is intended for students with little or no background in computer technology. Students with extensive education or work experience in computer technology should consider taking a more advanced course.",
+            "lecturers": [
+                "Prof. Thomas Malone"
+            ],
+            "department": [
+                "Sloan School of Management"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/2081e6767b6e151605bc73deb3a196fc_15-561s05.jpg",
+            "level": "Graduate",
+            "downloadLink": "https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/download"
+        },
+        {
+            "course_id": "6.849",
+            "semester": "Fall",
+            "year": "2012",
+            "title": "Geometric Folding Algorithms: Linkages, Origami, Polyhedra",
+            "url": "https://ocw.mit.edu/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/",
+            "detail": "This course focuses on the algorithms for analyzing and designing geometric foldings. Topics include reconfiguration of foldable structures, linkages made from one-dimensional rods connected by hinges, folding two-dimensional paper (origami), and unfolding and folding three-dimensional polyhedra. Applications to architecture, robotics, manufacturing, and biology are also covered in this course.Thanks to videographers Martin Demaine and Jayson Lynch.",
+            "lecturers": [
+                "Prof. Erik Demaine"
+            ],
+            "department": [
+                "Electrical Engineering and Computer Science"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/f34024b4a6e0408be2f1bad03292c841_6-849f12.jpg",
+            "level": "Graduate",
+            "downloadLink": "https://ocw.mit.edu/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/download"
+        },
+        {
+            "course_id": "ESD.86",
+            "semester": "Spring",
+            "year": "2007",
+            "title": "Models, Data and Inference for Socio-Technical Systems",
+            "url": "https://ocw.mit.edu/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/",
+            "detail": "In this class, students use data and systems knowledge to build models of complex socio-technical systems for improved system design and decision-making. Students will enhance their model-building skills, through review and extension of functions of random variables, Poisson processes, and Markov processes; move from applied probability to statistics via Chi-squared t and f tests, derived as functions of random variables; and review classical statistics, hypothesis tests, regression, correlation and causation, simple data mining techniques, and Bayesian vs. classical statistics. A class project is required.Show less",
+            "lecturers": [
+                "Prof. Daniel Frey",
+                "Richard C. Larson"
+            ],
+            "department": [
+                "Engineering Systems Division"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/b363475cd3787f4d9ff3724558579392_esd-86s07.jpg",
+            "level": "Graduate",
+            "downloadLink": "https://ocw.mit.edu/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/download"
+        },
+        {
+            "course_id": "MAS.771",
+            "semester": "Spring",
+            "year": "2011",
+            "title": "Autism Theory and Technology",
+            "url": "https://ocw.mit.edu/courses/mas-771-autism-theory-and-technology-spring-2011/",
+            "detail": "This course illuminates current theories about autism together with challenges faced by people on the autism spectrum. Theories in communicating, interacting socially, managing cognitive and affective overload, and achieving independent lifestyles are covered. In parallel, the course presents state-of-the-art technologies being developed for helping improve both theoretical understanding and practical outcomes. Participants are expected to meet and interact with people on the autism spectrum. Weekly reading, discussion, and a term project are required.Show less",
+            "lecturers": [
+                "Prof. Rosalind W. Picard",
+                "Dr. Matthew Goodwin"
+            ],
+            "department": [
+                "Media Arts and Sciences"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/mas-771-autism-theory-and-technology-spring-2011/d82a1ef249729b363656ab3592ad09ef_mas-771s11.jpg",
+            "level": "Graduate",
+            "downloadLink": "https://ocw.mit.edu/courses/mas-771-autism-theory-and-technology-spring-2011/download"
+        },
+        {
+            "course_id": "6.883",
+            "semester": "Spring",
+            "year": "2006",
+            "title": "Pervasive Human Centric Computing (SMA 5508)",
+            "url": "https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/",
+            "detail": "This course is broad, covering a wide range of topics that have to do with the post-pc era of computing. It is a hands-on project course that also includes some foundational subjects. Students will program iPAQ handheld computers, cell phones (series 60 phones), speech processing, vision, Cricket location systems, GPS, and more. Most of the programming will be using Python\u00ae, but Python\u00ae can be learned and mastered during the course.This course was also taught as part of the Singapore-MIT Alliance (SMA) programme as course number SMA 5508 (Pervasive Computing).",
+            "lecturers": [
+                "Dr. Larry Rudolph"
+            ],
+            "department": [
+                "Electrical Engineering and Computer Science"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/f6d37d09eaef7b57ce124b114839e448_6-883s06.jpg",
+            "level": "Graduate",
+            "downloadLink": "https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/download"
+        },
+        {
+            "course_id": "6.824",
+            "semester": "Spring",
+            "year": "2006",
+            "title": "Distributed Computer Systems Engineering",
+            "url": "https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/",
+            "detail": "This course covers abstractions and implementation techniques for the design of distributed systems. Topics include: server design, network programming, naming, storage systems, security, and fault tolerance. The assigned readings for the course are from current literature. This course is worth 6 Engineering Design Points.Show less",
+            "lecturers": [
+                "Prof. Robert Morris"
+            ],
+            "department": [
+                "Electrical Engineering and Computer Science"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/9ffe1cbf71c05c46cd5feed2a13db420_6-824s06.jpg",
+            "level": "Graduate",
+            "downloadLink": "https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/download"
+        },
+        {
+            "course_id": "RES.3-002",
+            "semester": "January",
+            "year": "2017",
+            "title": "Collaborative Design and Creative Expression with Arduino Microcontrollers",
+            "url": "https://ocw.mit.edu/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/",
+            "detail": "This is a 9-day hands-on workshop about collaboration, design, and electronics prototyping. No previous experience with computer programming or electronics is required. Beginning students will be taught everything they need to know and advanced students will be challenged to learn new skills. Participants will learn about microcontroller programming using Arduino, collaborative software development using GitHub, solderless electronics prototyping, electronic sensors, rapid prototyping, and small team management.This course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.",
+            "lecturers": [
+                "Kyle Keane",
+                "Andrew Ringler",
+                "Mark Vrablic",
+                "Abhinav Gandhi"
+            ],
+            "department": [
+                "Supplemental Resources"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/9bd27e18cfffe3058487e2d9507b44c7_res-3-002iap2017.jpg",
+            "level": "Non Credit",
+            "downloadLink": "https://ocw.mit.edu/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/download"
+        },
+        {
+            "course_id": "6.171",
+            "semester": "Fall",
+            "year": "2003",
+            "title": "Software Engineering for Web Applications",
+            "url": "https://ocw.mit.edu/courses/6-171-software-engineering-for-web-applications-fall-2003/",
+            "detail": "6.171\u00a0is a course for students who already have some programming and software engineering experience. The goal is to give students some experience in dealing with those challenges that are unique to Internet applications, such as:",
+            "lecturers": [
+                "Prof. Harold Abelson",
+                "Dr. Philip Greenspun"
+            ],
+            "department": [
+                "Electrical Engineering and Computer Science"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/6-171-software-engineering-for-web-applications-fall-2003/b086dd2a905e4674a28e94436d5ae02b_6-171f03.jpg",
+            "level": "Undergraduate",
+            "downloadLink": "https://ocw.mit.edu/courses/6-171-software-engineering-for-web-applications-fall-2003/download"
+        },
+        {
+            "course_id": "6.821",
+            "semester": "Fall",
+            "year": "2002",
+            "title": "Programming Languages",
+            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/",
+            "detail": "6.821 teaches the principles of functional, imperative, and logic programming languages. Topics covered include: meta-circular interpreters, semantics (operational and denotational), type systems (polymorphism, inference, and abstract types), object oriented programming, modules, and multiprocessing. The course involves substantial programming assignments and problem sets as well as a significant amount of reading. The course uses the Scheme+ programming language for all of its assignments.Show less",
+            "lecturers": [
+                "Prof. Michael Ernst"
+            ],
+            "department": [
+                "Electrical Engineering and Computer Science"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/304ad4961505862d4db115f5265a0ddd_6-821f02.jpg",
+            "level": "Graduate",
+            "downloadLink": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/download"
+        },
+        {
+            "course_id": "6.171",
+            "semester": "Fall",
+            "year": "2003",
+            "title": "Software Engineering for Web Applications",
+            "url": "https://ocw.mit.edu/courses/6-171-software-engineering-for-web-applications-fall-2003/",
+            "detail": "6.171\u00a0is a course for students who already have some programming and software engineering experience. The goal is to give students some experience in dealing with those challenges that are unique to Internet applications, such as:",
+            "lecturers": [
+                "Prof. Harold Abelson",
+                "Dr. Philip Greenspun"
+            ],
+            "department": [
+                "Electrical Engineering and Computer Science"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/6-171-software-engineering-for-web-applications-fall-2003/b086dd2a905e4674a28e94436d5ae02b_6-171f03.jpg",
+            "level": "Undergraduate",
+            "downloadLink": "https://ocw.mit.edu/courses/6-171-software-engineering-for-web-applications-fall-2003/download"
+        },
+        {
+            "course_id": "6.821",
+            "semester": "Fall",
+            "year": "2002",
+            "title": "Programming Languages",
+            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/",
+            "detail": "6.821 teaches the principles of functional, imperative, and logic programming languages. Topics covered include: meta-circular interpreters, semantics (operational and denotational), type systems (polymorphism, inference, and abstract types), object oriented programming, modules, and multiprocessing. The course involves substantial programming assignments and problem sets as well as a significant amount of reading. The course uses the Scheme+ programming language for all of its assignments.Show less",
+            "lecturers": [
+                "Prof. Michael Ernst"
+            ],
+            "department": [
+                "Electrical Engineering and Computer Science"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/304ad4961505862d4db115f5265a0ddd_6-821f02.jpg",
+            "level": "Graduate",
+            "downloadLink": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/download"
+        },
+        {
+            "course_id": "10.01",
+            "semester": "Spring",
+            "year": "2020",
+            "title": "Ethics for Engineers: Artificial Intelligence",
+            "url": "https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/",
+            "detail": "Artificial Intelligence (AI), and the algorithmic judgment at its core, is developing at breakneck speed. This version of the popular Ethics for Engineers course focuses on the ethics issues involved in the latest developments of computer science.",
+            "lecturers": [
+                "Prof. Bernhardt Trout",
+                "Daniel Doneson"
+            ],
+            "department": [],
+            "courseImage": "https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/ada7d23d0198f4fd05b613e6fb374b6c_10-01s20.jpg",
+            "level": "Undergraduate",
+            "downloadLink": "https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/download"
+        },
+        {
+            "course_id": "RES.7-003",
+            "semester": "Fall",
+            "year": "2020",
+            "title": "Brave New Planet",
+            "url": "https://ocw.mit.edu/courses/res-7-003-brave-new-planet-fall-2020/",
+            "detail": "Utopia or dystopia? It\u2019s up to us.In the 21st century, powerful technologies have been appearing at a breathtaking pace\u2014related to the internet, artificial intelligence, genetic engineering, and more. They have amazing potential upsides, but we can\u2019t ignore the serious risks that come with them.Brave New Planet is a podcast that delves deep into the most exciting and challenging scientific frontiers, helping us understand them and grapple with their implications. Dr. Eric Lander, president and founding director of the Broad Institute of MIT and Harvard, is a geneticist, molecular biologist, and mathematician who was a leader of the Human Genome Project and for eight years served as a science advisor to the White House for President Obama. He\u2019s also the host of Brave New Planet, and he\u2019s talked to leading researchers, journalists, doctors, policy makers, activists, and legal experts to illuminate how this generation\u2019s choices will shape the future as never before.Brave New Planet is a partnership between the Broad Institute, Pushkin Industries, and the Boston Globe.",
+            "lecturers": [
+                "Prof. Eric Lander"
+            ],
+            "department": [
+                "Supplemental Resources"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/res-7-003-brave-new-planet-fall-2020/24f98cd436fe0d7bac8108118827eaca_RES.7-003F20.gif",
+            "level": "Non Credit",
+            "downloadLink": "https://ocw.mit.edu/courses/res-7-003-brave-new-planet-fall-2020/download"
+        },
+        {
+            "course_id": "HST.950J",
+            "semester": "Spring",
+            "year": "2003",
+            "title": "Medical Computing",
+            "url": "https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/",
+            "detail": "The focus of the course is on medical science and practice in the age of automation and the genome, both present and future.It ncludes an analysis of the computational needs of clinical medicine, a review systems and approaches that have been used to support those needs, and an examination of new technologies.",
+            "lecturers": [
+                "Prof. Isaac Kohane",
+                "Prof. Lucila Ohno-Machado",
+                "Prof. Peter Szolovits"
+            ],
+            "department": [
+                "Health Sciences and Technology",
+                "Electrical Engineering and Computer Science"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/36abf33ed3360e593e9ece30ece018e0_hst-950js03.jpg",
+            "level": "Graduate",
+            "downloadLink": "https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/download"
+        },
+        {
+            "course_id": "6.883",
+            "semester": "Fall",
+            "year": "2005",
+            "title": "Program Analysis",
+            "url": "https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/",
+            "detail": "6.883 is a graduate seminar that investigates a variety of program analysis techniques that address software engineering tasks. Static analysis topics include abstract interpretation (dataflow), type systems, model checking, decision procedures (SAT, BDDs), theorem-proving. Dynamic analysis topics include testing, fault isolation (debugging), model inference, and visualization. While the course focuses on the design and implementation of programming tools, the material will be useful to anyone who wishes to improve his or her programming or understand the state of the art. Students are expected to read classic and current technical papers, actively participate in class discussion, perform small exercises that provide experience with a variety of tools, and complete a team research project.Show less",
+            "lecturers": [
+                "Prof. Michael Ernst"
+            ],
+            "department": [
+                "Electrical Engineering and Computer Science"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/e6f803bd7be5b998b181c261a1d93dff_6-883f05.jpg",
+            "level": "Graduate",
+            "downloadLink": "https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/download"
+        },
+        {
+            "course_id": "9.520",
+            "semester": "Spring",
+            "year": "2003",
+            "title": "Statistical Learning Theory and Applications",
+            "url": "https://ocw.mit.edu/courses/9-520-statistical-learning-theory-and-applications-spring-2003/",
+            "detail": "Focuses on the problem of supervised learning from the perspective of modern statistical learning theory starting with the theory of multivariate function approximation from sparse data. Develops basic tools such as Regularization including Support Vector Machines for regression and classification. Derives generalization bounds using both stability and VC theory. Discusses topics such as boosting and feature selection. Examines applications in several areas: computer vision, computer graphics, text classification and bioinformatics. Final projects and hands-on applications and exercises are planned, paralleling the rapidly increasing practical uses of the techniques described in the subject.Show less",
+            "lecturers": [
+                "Dr. Ryan Rifkin",
+                "Dr. Sayan Mukherjee",
+                "Prof. Tomaso Poggio",
+                "Alex Rakhlin"
+            ],
+            "department": [
+                "Brain and Cognitive Sciences"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/9-520-statistical-learning-theory-and-applications-spring-2003/486b2444cb41036fa4357f1663aa371f_9-520s03.jpg",
+            "level": "Graduate",
+            "downloadLink": "https://ocw.mit.edu/courses/9-520-statistical-learning-theory-and-applications-spring-2003/download"
+        },
+        {
+            "course_id": "6.005",
+            "semester": "Fall",
+            "year": "2008",
+            "title": "Elements of Software Construction",
+            "url": "https://ocw.mit.edu/courses/6-005-elements-of-software-construction-fall-2008/",
+            "detail": "This course provides an introduction to the fundamental principles and techniques of software development that have greatest impact on practice. Topics include capturing the essence of a problem by recognizing and inventing suitable abstractions; key paradigms, including state machines, functional programming, and object-oriented programming; use of design patterns to bridge gap between models and code; the role of interfaces and specification in achieving modularity and decoupling; reasoning about code using invariants; testing, test-case generation and coverage; and essentials of programming with objects, functions, and abstract types. The course includes exercises in modeling, design, implementation and reasoning.Show less",
+            "lecturers": [
+                "Prof. Daniel Jackson",
+                "Prof. Robert Miller"
+            ],
+            "department": [
+                "Electrical Engineering and Computer Science"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/6-005-elements-of-software-construction-fall-2008/d8a8e8172f2492649d68e37c1b102bb0_6-005f08.jpg",
+            "level": "Undergraduate",
+            "downloadLink": "https://ocw.mit.edu/courses/6-005-elements-of-software-construction-fall-2008/download"
+        },
+        {
+            "course_id": "6.092",
+            "semester": "January",
+            "year": "2006",
+            "title": "Java Preparation for 6.170",
+            "url": "https://ocw.mit.edu/courses/6-092-java-preparation-for-6-170-january-iap-2006/",
+            "detail": "This course focuses on introducing the language, libraries, tools and concepts of Java\u1d40\u1d39. The course is specifically targeted at students who intend to take 6.170 in the following term and feel they would struggle because they lack the necessary background. Topics include: Object-oriented programming, primitives, arrays, objects, inheritance, interfaces, polymorphism, hashing, data structures, collections, nested classes, floating point precision, defensive programming, and depth-first search algorithm.Show less",
+            "lecturers": [
+                "Corey McCaffrey",
+                "Justin Mazzola Paluska",
+                "Lucy Mendel"
+            ],
+            "department": [
+                "Electrical Engineering and Computer Science"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/6-092-java-preparation-for-6-170-january-iap-2006/394bf20d9f5253b45ead0715cf581fcf_6-092iap06.jpg",
+            "level": "Undergraduate",
+            "downloadLink": "https://ocw.mit.edu/courses/6-092-java-preparation-for-6-170-january-iap-2006/download"
+        },
+        {
+            "course_id": "MAS.961",
+            "semester": "Fall",
+            "year": "1998",
+            "title": "Numeric Photography",
+            "url": "https://ocw.mit.edu/courses/mas-961-numeric-photography-fall-1998/",
+            "detail": "The aim of the students from the Numeric Photography class at the MIT Media Laboratory was to present an exhibition of digital artworks which blend photography and computation, in the context of scene capture, image play, and interaction. Equipped with low end digital cameras, students created weekly software projects to explore aesthetic issues in signal processing and interaction design. The results are more than a hundred Java\u00ae applets, many of which are interactive, that suggest new avenues for image play on the computer. These weekly exercises led to the final product, an exhibition of the student work.Show less",
+            "lecturers": [
+                "Prof. John Maeda"
+            ],
+            "department": [
+                "Media Arts and Sciences"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/mas-961-numeric-photography-fall-1998/cfa783346ec143a8a9cf0742d8b6a35e_mas-961f98.jpg",
+            "level": "Graduate",
+            "downloadLink": "https://ocw.mit.edu/courses/mas-961-numeric-photography-fall-1998/download"
+        },
+        {
+            "course_id": "MAS.963",
+            "semester": "Fall",
+            "year": "2001",
+            "title": "Out of Context: A Course on Computer Systems That Adapt To, and Learn From, Context",
+            "url": "https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/",
+            "detail": "Increasingly, we are realizing that to make computer systems more intelligent and responsive to users, we will have to make them more sensitive to context. Traditional hardware and software design overlooks context because it conceptualizes systems as input-output functions. Systems take input explicitly given to them by a human, act upon that input alone and produce explicit output. But this view is too restrictive. Smart computers, intelligent agent software, and digital devices of the future will also have to operate on data that they observe or gather for themselves. They may have to sense their environment, decide which aspects of a situation are really important, and infer the user\u2019s intention from concrete actions. The system\u2019s actions may be dependent on time, place, or the history of interaction, in other words, dependent upon context.But what exactly is context? We\u2019ll look at perspectives from machine learning, sensors and embedded devices, information visualization, philosophy and psychology. We\u2019ll see how each treats the problem of context, and discuss the implications for design of context-sensitive hardware and software.Course requirements will consist of critiques of class readings (about 3 papers/week), and a final project (paper or computer implementation project).",
+            "lecturers": [
+                "Prof. Henry Lieberman"
+            ],
+            "department": [
+                "Media Arts and Sciences"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/b626878bf85dcb8eb5096231dd1c9add_mas-963f01.gif",
+            "level": "Graduate",
+            "downloadLink": "https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/download"
+        },
+        {
+            "course_id": "ES.258",
+            "semester": "Spring",
+            "year": "2007",
+            "title": "G\u00f6del, Escher, Bach",
+            "url": "https://ocw.mit.edu/courses/es-258-goedel-escher-bach-spring-2007/",
+            "detail": "How are math, art, music, and language intertwined? How does intelligent behavior arise from its component parts? Can computers think? Can brains compute? Douglas Hofstadter probes very cleverly at these questions and more in his Pulitzer Prize winning book, \u201cG\u00f6del, Escher, Bach\u201d. In this seminar, we will read and discuss the book in depth, taking the time to solve its puzzles, appreciate the Bach pieces that inspired its dialogues, and discover its hidden tricks along the way.Show less",
+            "lecturers": [
+                "Robert Speer"
+            ],
+            "department": [
+                "Experimental Study Group"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/es-258-goedel-escher-bach-spring-2007/dd2408e1e30d2fb70d485d6c35b79eb6_es-258s07.jpg",
+            "level": "Undergraduate",
+            "downloadLink": "https://ocw.mit.edu/courses/es-258-goedel-escher-bach-spring-2007/download"
+        },
+        {
+            "course_id": "1.124J",
+            "semester": "Fall",
+            "year": "2000",
+            "title": "Foundations of Software Engineering",
+            "url": "https://ocw.mit.edu/courses/1-124j-foundations-of-software-engineering-fall-2000/",
+            "detail": "This is a foundation subject in modern software development techniques for engineering and information technology. The design and development of component-based software (using C# and .NET) is covered; data structures and algorithms for modeling, analysis, and visualization; basic problem-solving techniques; web services; and the management and maintenance of software. Includes a treatment of topics such as sorting and searching algorithms; and numerical simulation techniques. Foundation for in-depth exploration of image processing, computational geometry, finite element methods, network methods and e-business applications. This course is a core requirement for the Information Technology M. Eng. program.This class was also offered in Course 13 (Department of Ocean Engineering) as 13.470J. In 2005, ocean engineering subjects became part of Course 2 (Department of Mechanical Engineering), and the 13.470J designation was dropped in lieu of 2.159J.",
+            "lecturers": [
+                "Prof. Kevin Amaratunga"
+            ],
+            "department": [
+                "Civil and Environmental Engineering",
+                "Mechanical Engineering"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/1-124j-foundations-of-software-engineering-fall-2000/8dbc5849588872a20e2e980691c5e512_1-124jf00.jpg",
+            "level": "Graduate",
+            "downloadLink": "https://ocw.mit.edu/courses/1-124j-foundations-of-software-engineering-fall-2000/download"
+        },
+        {
+            "course_id": "18.S191",
+            "semester": "Fall",
+            "year": "2022",
+            "title": "Introduction to Computational Thinking",
+            "url": "https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2022/",
+            "detail": "This class uses revolutionary programmable interactivity to combine material from three fields \u2013 Computer Science + Mathematics + Applications \u2013 creating an engaging, efficient learning solution to prepare students to be sophisticated and intuitive thinkers, programmers, and solution providers for the modern interconnected online world.Upon completion, students are well trained to be scientific \u201ctrilinguals,\u201d seeing and experimenting with mathematics interactively as math is meant to be seen, and ready to participate and contribute to open source development of large projects and ecosystems.",
+            "lecturers": [
+                "Prof. Alan Edelman",
+                "Prof. David P. Sanders",
+                "Prof. Charles Leiserson"
+            ],
+            "department": [],
+            "courseImage": "https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2022/18-s191f22.jpg",
+            "level": "Undergraduate",
+            "downloadLink": "https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2022/download"
+        },
+        {
+            "course_id": "6.096",
+            "semester": "Spring",
+            "year": "2005",
+            "title": "Algorithms for Computational Biology",
+            "url": "https://ocw.mit.edu/courses/6-096-algorithms-for-computational-biology-spring-2005/",
+            "detail": "This course is offered to undergraduates and addresses several algorithmic challenges in computational biology. The principles of algorithmic design for biological datasets are studied and existing algorithms analyzed for application to real datasets. Topics covered include: biological sequence analysis, gene identification, regulatory motif discovery, genome assembly, genome duplication and rearrangements, evolutionary theory, clustering algorithms, and scale-free networks.Show less",
+            "lecturers": [
+                "Prof. Manolis Kellis"
+            ],
+            "department": [
+                "Electrical Engineering and Computer Science"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/6-096-algorithms-for-computational-biology-spring-2005/fadd4873c4a4520288acb3753dd67fe4_6-096s05.jpg",
+            "level": "Undergraduate",
+            "downloadLink": "https://ocw.mit.edu/courses/6-096-algorithms-for-computational-biology-spring-2005/download"
+        },
+        {
+            "course_id": "6.895",
+            "semester": "Fall",
+            "year": "2003",
+            "title": "Theory of Parallel Systems (SMA 5509)",
+            "url": "https://ocw.mit.edu/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/",
+            "detail": "6.895\u00a0covers theoretical foundations of general-purpose parallel computing systems, from languages to architecture. The focus is on the algorithmic underpinnings of parallel systems. The topics for the class will vary depending on student interest, but will likely include multithreading, synchronization, race detection, load balancing, memory consistency, routing networks, message-routing algorithms, and VLSI layout theory. The class will emphasize randomized algorithms and probabilistic analysis, including high-probability arguments.This course was also taught as part of the Singapore-MIT Alliance (SMA) programme as course number SMA 5509 (Theory of Parallel Systems).",
+            "lecturers": [
+                "Dr. Bradley Kuszmaul",
+                "Prof. Charles Leiserson",
+                "Prof. Hsu Wen Jing",
+                "Prof. Michael Bender"
+            ],
+            "department": [
+                "Electrical Engineering and Computer Science"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/c19e8d19c4f5e7cd7af2ad4ade517785_6-895f03.jpg",
+            "level": "Graduate",
+            "downloadLink": "https://ocw.mit.edu/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/download"
+        },
+        {
+            "course_id": "2.086",
+            "semester": "Spring",
+            "year": "2013",
+            "title": "Numerical Computation for Mechanical Engineers",
+            "url": "https://ocw.mit.edu/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/",
+            "detail": "This class introduces elementary programming concepts including variable types, data structures, and flow control. After an introduction to linear algebra and probability, it covers numerical methods relevant to mechanical engineering, including approximation (interpolation, least squares and statistical regression), integration, solution of linear and nonlinear equations, ordinary differential equations, and deterministic and probabilistic approaches. Examples are drawn from mechanical engineering disciplines, in particular from robotics, dynamics, and structural analysis.Show less",
+            "lecturers": [
+                "Prof. Anthony T. Patera"
+            ],
+            "department": [
+                "Mechanical Engineering"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/955379b6d3a2ab98c4dcd1fabf8c3ca5_2-086s13.jpg",
+            "level": "Undergraduate",
+            "downloadLink": "https://ocw.mit.edu/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/download"
+        },
+        {
+            "course_id": "6.189",
+            "semester": "January",
+            "year": "2008",
+            "title": "A Gentle Introduction to Programming Using Python",
+            "url": "https://ocw.mit.edu/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/",
+            "detail": "This course will provide a gentle introduction to programming using Python\u2122 for highly motivated students with little or no prior experience in programming computers. The course will focus on planning and organizing programs, as well as the grammar of the Python programming language. Lectures will be interactive featuring in-class exercises with lots of support from the course staff.This course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.",
+            "lecturers": [
+                "Mihir Kedia",
+                "Aseem Kishore"
+            ],
+            "department": [
+                "Electrical Engineering and Computer Science"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/73030cb65d77bdb10ff82c37232f55d0_6-189iap08.jpg",
+            "level": "Undergraduate",
+            "downloadLink": "https://ocw.mit.edu/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/download"
+        },
+        {
+            "course_id": "6.441",
+            "semester": "Spring",
+            "year": "2010",
+            "title": "Information Theory",
+            "url": "https://ocw.mit.edu/courses/6-441-information-theory-spring-2010/",
+            "detail": "6.441 offers an introduction to the quantitative theory of information and its applications to reliable, efficient communication systems. Topics include mathematical definition and properties of information, source coding theorem, lossless compression of data, optimal lossless coding, noisy communication channels, channel coding theorem, the source channel separation theorem, multiple access channels, broadcast channels, Gaussian noise, and time-varying channels.Show less",
+            "lecturers": [
+                "Prof. Muriel M\u00e9dard"
+            ],
+            "department": [
+                "Electrical Engineering and Computer Science"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/6-441-information-theory-spring-2010/f72cccae546f0f9e94c015b30801eadb_6-441s10.jpg",
+            "level": "Graduate",
+            "downloadLink": "https://ocw.mit.edu/courses/6-441-information-theory-spring-2010/download"
+        },
+        {
+            "course_id": "6.111",
+            "semester": "Fall",
+            "year": "2002",
+            "title": "Introductory Digital Systems Laboratory",
+            "url": "https://ocw.mit.edu/courses/6-111-introductory-digital-systems-laboratory-fall-2002/",
+            "detail": "6.111 consists of lectures and labs on digital logic, flipflops, PALs, counters, timing, synchronization, finite-state machines, and microprogrammed systems. Students are expected to design and implement a final project of their choice: games, music, digital filters, graphics, etc. The course requires extensive use of VHDL for describing and implementing digital logic designs. 6.111 is worth 12 Engineering Design Points.Show less",
+            "lecturers": [
+                "Prof. Don Troxel",
+                "Prof. James L. Kirtley Jr."
+            ],
+            "department": [
+                "Electrical Engineering and Computer Science"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/6-111-introductory-digital-systems-laboratory-fall-2002/6505d2441dcbc29a1e45d0c3eaa32ce3_6-111f02.jpg",
+            "level": "Undergraduate",
+            "downloadLink": "https://ocw.mit.edu/courses/6-111-introductory-digital-systems-laboratory-fall-2002/download"
+        }
+    ]
+}

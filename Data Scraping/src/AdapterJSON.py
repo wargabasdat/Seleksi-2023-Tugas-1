@@ -7,7 +7,7 @@ class Serializer:
         self.resources = resources
 
     def serialize(self):
-        serialized_data = {
+        serialized_courses = {
             "courses": [
                 {
                     "course_id": course.course_id,
@@ -23,7 +23,10 @@ class Serializer:
                     "downloadLink": course.download
                 }
                 for course in self.courses
-            ],
+            ]
+        }
+
+        serialized_departments = {
             "departments": [
                 {
                     "name": department.name,
@@ -31,7 +34,10 @@ class Serializer:
                     "departmentWeb": department.departmentWeb
                 }
                 for department in self.departments
-            ],
+            ]
+        }
+
+        serialized_resources = {
             "resources": [
                 {
                     "name": resource.name,
@@ -45,5 +51,11 @@ class Serializer:
                 for resource in self.resources
             ]
         }
-        with open("data.json", "w") as file:
-            json.dump(serialized_data, file, indent=4)
+        with open("courses.json", "w") as file:
+            json.dump(serialized_courses, file, indent=4)
+
+        with open("departments.json", "w") as file:
+            json.dump(serialized_departments, file, indent=4)
+
+        with open("resources.json", "w") as file:
+            json.dump(serialized_resources, file, indent=4)

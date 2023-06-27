@@ -1,0 +1,134 @@
+{
+    "departments": [
+        {
+            "name": "Electrical Engineering and Computer Science",
+            "numberOfCourses": "146",
+            "departmentWeb": "https://www.eecs.mit.edu/"
+        },
+        {
+            "name": "Mathematics",
+            "numberOfCourses": "36",
+            "departmentWeb": "https://math.mit.edu/"
+        },
+        {
+            "name": "Sloan School of Management",
+            "numberOfCourses": "17",
+            "departmentWeb": "https://www.mit.edu"
+        },
+        {
+            "name": "Supplemental Resources",
+            "numberOfCourses": "17",
+            "departmentWeb": "https://www.mit.edu"
+        },
+        {
+            "name": "Aeronautics and Astronautics",
+            "numberOfCourses": "16",
+            "departmentWeb": "http://aeroastro.mit.edu/"
+        },
+        {
+            "name": "Mechanical Engineering",
+            "numberOfCourses": "16",
+            "departmentWeb": "http://meche.mit.edu/"
+        },
+        {
+            "name": "Media Arts and Sciences",
+            "numberOfCourses": "16",
+            "departmentWeb": "https://www.media.mit.edu/"
+        },
+        {
+            "name": "Civil and Environmental Engineering",
+            "numberOfCourses": "10",
+            "departmentWeb": "https://cee.mit.edu/"
+        },
+        {
+            "name": "Health Sciences and Technology",
+            "numberOfCourses": "9",
+            "departmentWeb": "https://www.mit.edu"
+        },
+        {
+            "name": "Earth, Atmospheric, and Planetary Sciences",
+            "numberOfCourses": "7",
+            "departmentWeb": "https://eapsweb.mit.edu/"
+        },
+        {
+            "name": "Urban Studies and Planning",
+            "numberOfCourses": "7",
+            "departmentWeb": "https://dusp.mit.edu/"
+        },
+        {
+            "name": "Chemical Engineering",
+            "numberOfCourses": "5",
+            "departmentWeb": "https://cheme.mit.edu/"
+        },
+        {
+            "name": "Brain and Cognitive Sciences",
+            "numberOfCourses": "4",
+            "departmentWeb": "https://bcs.mit.edu/"
+        },
+        {
+            "name": "Engineering Systems Division",
+            "numberOfCourses": "4",
+            "departmentWeb": "https://www.mit.edu"
+        },
+        {
+            "name": "Institute for Data, Systems, and Society",
+            "numberOfCourses": "4",
+            "departmentWeb": "https://www.mit.edu"
+        },
+        {
+            "name": "Biological Engineering",
+            "numberOfCourses": "3",
+            "departmentWeb": "https://be.mit.edu/"
+        },
+        {
+            "name": "Comparative Media Studies/Writing",
+            "numberOfCourses": "3",
+            "departmentWeb": "https://cmsw.mit.edu/"
+        },
+        {
+            "name": "Economics",
+            "numberOfCourses": "3",
+            "departmentWeb": "http://economics.mit.edu/"
+        },
+        {
+            "name": "Experimental Study Group",
+            "numberOfCourses": "3",
+            "departmentWeb": "https://www.mit.edu"
+        },
+        {
+            "name": "Linguistics and Philosophy",
+            "numberOfCourses": "3",
+            "departmentWeb": "https://www.mit.edu"
+        },
+        {
+            "name": "Music and Theater Arts",
+            "numberOfCourses": "3",
+            "departmentWeb": "https://mta.mit.edu/"
+        },
+        {
+            "name": "Nuclear Science and Engineering",
+            "numberOfCourses": "3",
+            "departmentWeb": "http://web.mit.edu/nse/"
+        },
+        {
+            "name": "Physics",
+            "numberOfCourses": "3",
+            "departmentWeb": "http://web.mit.edu/physics/"
+        },
+        {
+            "name": "Science, Technology, and Society",
+            "numberOfCourses": "3",
+            "departmentWeb": "http://sts-program.mit.edu/"
+        },
+        {
+            "name": "Architecture",
+            "numberOfCourses": "2",
+            "departmentWeb": "https://architecture.mit.edu/"
+        },
+        {
+            "name": "Political Science",
+            "numberOfCourses": "1",
+            "departmentWeb": "https://polisci.mit.edu/"
+        }
+    ]
+}
