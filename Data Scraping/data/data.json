@@ -1,0 +1,1566 @@
+{
+    "courses": [
+        {
+            "course_id": "7.01SC",
+            "semester": "Fall",
+            "year": "2011",
+            "title": "Fundamentals of Biology",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/",
+            "detail": "Fundamentals of Biology focuses on the basic principles of biochemistry, molecular biology, genetics, and recombinant DNA. These principles are necessary to understanding the basic mechanisms of life and anchor the biological knowledge that is required to understand many of the challenges in everyday life, from human health and disease to loss of biodiversity and environmental quality. This course has been designed for independent study. It consists of four units, one for each topic. The units can be used individually or in combination. The materials for each unit include:Eric Lander\nRobert Weinberg\nTyler Jacks\nHazel SiveGraham Walker\nSallie Chisholm\nDr. Michelle Mischke",
+            "lecturers": [
+                "Prof. Eric Lander",
+                "Prof. Robert Weinberg",
+                "Prof. Tyler Jacks"
+            ],
+            "department": [
+                "Biology"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/533499c2943939be949d7aed93782793_7-01scf11.jpg",
+            "level": "Undergraduate",
+            "downloadLink": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/download"
+        },
+        {
+            "course_id": "8.03SC",
+            "semester": "Fall",
+            "year": "2016",
+            "title": "Physics III: Vibrations and Waves",
+            "url": "https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/",
+            "detail": "Vibrations and waves are everywhere. If you take any system and disturb it from a stable equilibrium, the resultant motion will be waves and vibrations. Think of a guitar string\u2014pluck the string, and it vibrates. The sound waves generated make their way to our ears, and we hear the string\u2019s sound. Our eyes see what\u2019s happening because they receive the electromagnetic waves of the light reflected from the guitar string, so that we can recognize the beautiful sinusoidal waves on the string. In fact, without vibrations and waves, we could not recognize the universe around us at all!The amazing thing is that we can describe many fascinating phenomena arising from very different physical systems with mathematics. This course will provide you with the concepts and mathematical tools necessary to understand and explain a broad range of vibrations and waves. You will learn that waves come from many interconnected (coupled) objects when they are vibrating together. We will discuss many of these phenomena, along with related topics, including mechanical vibrations and waves, sound waves, electromagnetic waves, optics, and gravitational waves.",
+            "lecturers": [
+                "Prof. Yen-Jie Lee"
+            ],
+            "department": [
+                "Physics"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/05c7b1fd95fc1100e7528e7f1a0a2a2b_8-03scf16.jpg",
+            "level": "Undergraduate",
+            "downloadLink": "https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/download"
+        },
+        {
+            "course_id": "3.091",
+            "semester": "Fall",
+            "year": "2018",
+            "title": "Introduction to Solid-State Chemistry",
+            "url": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/",
+            "detail": "In this course, we will explore what makes things in the world the way they are and why, to understand the science and consider the engineering. We learn not only why the physical world behaves the way it does, but also how to think with chemical intuition, which can\u2019t be gained simply by observing the macroscopic world.This 2018 version of 3.091 by Jeffrey Grossman and the 2010 OCW version by Don Sadoway cover similar topics and both provide complete learning materials. This 2018 version also includes Jeffrey Grossman\u2019s innovative Goodie Bags, Why This Matters, and CHEMATLAS content, as well as additional practice problems, quizzes, and exams.",
+            "lecturers": [
+                "Prof. Jeffrey Grossman"
+            ],
+            "department": [
+                "Materials Science and Engineering"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/1bd0528076c75313960844cd7028ab92_mit3-091f18.jpg",
+            "level": "Undergraduate",
+            "downloadLink": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/download"
+        },
+        {
+            "course_id": "RES.LL-001",
+            "semester": "Spring",
+            "year": "2007",
+            "title": "Introduction to Radar Systems",
+            "url": "https://ocw.mit.edu/courses/res-ll-001-introduction-to-radar-systems-spring-2007/",
+            "detail": "This set of 10 lectures (about 11+ hours in duration) was excerpted from a three-day course developed at MIT Lincoln Laboratory to provide an understanding of radar systems concepts and technologies to military officers and DoD civilians involved in radar systems development, acquisition, and related fields. That three-day program consists of a mixture of lectures, demonstrations, laboratory sessions, and tours.Online Publication",
+            "lecturers": [
+                "Robert M. O'Donnell"
+            ],
+            "department": [
+                "Supplemental Resources"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/res-ll-001-introduction-to-radar-systems-spring-2007/d96abb2c310dc5cb5d54e1a4f95bfd85_res-ll-001s07.gif",
+            "level": "Undergraduate",
+            "downloadLink": "https://ocw.mit.edu/courses/res-ll-001-introduction-to-radar-systems-spring-2007/download"
+        },
+        {
+            "course_id": "5.069",
+            "semester": "Spring",
+            "year": "2010",
+            "title": "Crystal Structure Analysis",
+            "url": "https://ocw.mit.edu/courses/5-069-crystal-structure-analysis-spring-2010/",
+            "detail": "This course covers the following topics: X-ray diffraction: symmetry, space groups, geometry of diffraction, structure factors, phase problem, direct methods, Patterson methods, electron density maps, structure refinement, how to grow good crystals, powder methods, limits of X-ray diffraction methods, and structure data bases.Show less",
+            "lecturers": [
+                "Dr. Peter Mueller"
+            ],
+            "department": [
+                "Chemistry"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/5-069-crystal-structure-analysis-spring-2010/554135c46af1873203e11f6560f42e7c_5-069s10.jpg",
+            "level": "Graduate",
+            "downloadLink": "https://ocw.mit.edu/courses/5-069-crystal-structure-analysis-spring-2010/download"
+        },
+        {
+            "course_id": "11.366J",
+            "semester": "Spring",
+            "year": "2006",
+            "title": "Planning for Sustainable Development",
+            "url": "https://ocw.mit.edu/courses/11-366j-planning-for-sustainable-development-spring-2006/",
+            "detail": "This course explores policy and planning for sustainable development. It critically examines concept of sustainability as a process of social, organizational, and political development drawing on cases from the U.S. and Europe. It also explores pathways to sustainability through debates on ecological modernization; sustainable technology development, international and intergenerational fairness, and democratic governance.Show less",
+            "lecturers": [
+                "Prof. David Laws",
+                "Prof. Martin Rein"
+            ],
+            "department": [
+                "Urban Studies and Planning",
+                "Civil and Environmental Engineering"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/11-366j-planning-for-sustainable-development-spring-2006/bfa1234211b56196fe404888c286314c_11-366js06.jpg",
+            "level": "Graduate",
+            "downloadLink": "https://ocw.mit.edu/courses/11-366j-planning-for-sustainable-development-spring-2006/download"
+        },
+        {
+            "course_id": "5.35",
+            "semester": "Fall",
+            "year": "2012",
+            "title": "Introduction to Experimental Chemistry",
+            "url": "https://ocw.mit.edu/courses/5-35-introduction-to-experimental-chemistry-fall-2012/",
+            "detail": "This course is the first part of a modular sequence of increasingly sophisticated (and challenging) laboratory courses required of all Chemistry majors: 5.35 Introduction to Experimental Chemistry, 5.36\u00a0Biochemistry and Organic Laboratory, 5.37\u00a0Organic and Inorganic Laboratory, and 5.38\u00a0Physical Chemistry Laboratory. This course provides students with a survey of spectroscopy, and introduces synthesis of coordination compounds and kinetics.This class is part of the new laboratory curriculum in the MIT Department of Chemistry. Undergraduate Research-Inspired Experimental Chemistry Alternatives (URIECA) introduces students to cutting edge research topics in a modular format.Professor Nelson and Dr. Twardowski would like to acknowledge the contributions of MIT Professor Timothy Swager to the development of this course. Module 3 on Fabrication of a Polymeric Light Emitting Device, taught by Timothy Swager, is not currently available on OCW.",
+            "lecturers": [
+                "Prof. Keith Nelson",
+                "Dr. Mariusz Twardowski"
+            ],
+            "department": [
+                "Chemistry"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/5-35-introduction-to-experimental-chemistry-fall-2012/ce5292bdc254d0abddc90a2fb3390ecd_5-35f12.jpg",
+            "level": "Undergraduate",
+            "downloadLink": "https://ocw.mit.edu/courses/5-35-introduction-to-experimental-chemistry-fall-2012/download"
+        },
+        {
+            "course_id": "12.400",
+            "semester": "Spring",
+            "year": "2006",
+            "title": "The Solar System",
+            "url": "https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/",
+            "detail": "This is an introduction to the study of the solar system with emphasis on the latest spacecraft results. The subject covers basic principles rather than detailed mathematical and physical models. Topics include: an overview of the solar system, planetary orbits, rings, planetary formation, meteorites, asteroids, comets, planetary surfaces and cratering, planetary interiors, planetary atmospheres, and life in the solar system.Show less",
+            "lecturers": [
+                "Prof. Richard Binzel"
+            ],
+            "department": [
+                "Earth, Atmospheric, and Planetary Sciences"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/5d7737e642fc18071767cce92b7fac12_12-400s06.jpg",
+            "level": "Undergraduate",
+            "downloadLink": "https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/download"
+        },
+        {
+            "course_id": "3.080",
+            "semester": "Fall",
+            "year": "2005",
+            "title": "Economic & Environmental Issues in Materials Selection",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/",
+            "detail": "Choice of material has implications throughout the life-cycle of a product, influencing many aspects of economic and environmental performance. This course will provide a survey of methods for evaluating those implications. Lectures will cover topics in material choice concepts, fundamentals of engineering economics, manufacturing economics modeling methods, and life-cycle environmental evaluation.Show less",
+            "lecturers": [
+                "Prof. Randolph Kirchain"
+            ],
+            "department": [
+                "Materials Science and Engineering"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/de22d5ac8537cc7b8cd7732c43e234e3_3-080f05.jpg",
+            "level": "Undergraduate",
+            "downloadLink": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/download"
+        },
+        {
+            "course_id": "9.56J",
+            "semester": "Fall",
+            "year": "2004",
+            "title": "Abnormal Language",
+            "url": "https://ocw.mit.edu/courses/9-56j-abnormal-language-fall-2004/",
+            "detail": "Introduction to the linguistic study of language pathology, concentrating on experimental approaches and theoretical explanations. Discussion of Specific Language Impairment, autism, Down syndrome, Williams syndrome, normal aging, Parkinson\u2019s disease, Alzheimer\u2019s disease, hemispherectomy and aphasia. Focuses on the comparison of linguistic abilities among these syndromes, while drawing clear comparisons with first and second language acquisition. Topics include the lexicon, morphology, syntax, semantics and pragmatics. Relates the lost linguistic abilities in these syndromes to properties of the brain.Show less",
+            "lecturers": [
+                "Mr. Christopher Hirsch",
+                "Prof. Ken Wexler"
+            ],
+            "department": [
+                "Brain and Cognitive Sciences",
+                "Linguistics and Philosophy"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/9-56j-abnormal-language-fall-2004/68c2cf9eb780d32a5afeae11e6d8a6fe_9-56jf04.jpg",
+            "level": "Undergraduate",
+            "downloadLink": "https://ocw.mit.edu/courses/9-56j-abnormal-language-fall-2004/download"
+        }
+    ],
+    "departments": [
+        {
+            "name": "Earth, Atmospheric, and Planetary Sciences",
+            "numberOfCourses": "97",
+            "departmentWeb": "https://eapsweb.mit.edu/"
+        },
+        {
+            "name": "Brain and Cognitive Sciences",
+            "numberOfCourses": "88",
+            "departmentWeb": "https://bcs.mit.edu/"
+        },
+        {
+            "name": "Physics",
+            "numberOfCourses": "77",
+            "departmentWeb": "http://web.mit.edu/physics/"
+        },
+        {
+            "name": "Biology",
+            "numberOfCourses": "56",
+            "departmentWeb": "https://biology.mit.edu/"
+        },
+        {
+            "name": "Electrical Engineering and Computer Science",
+            "numberOfCourses": "53",
+            "departmentWeb": "https://www.eecs.mit.edu/"
+        },
+        {
+            "name": "Mechanical Engineering",
+            "numberOfCourses": "50",
+            "departmentWeb": "http://meche.mit.edu/"
+        },
+        {
+            "name": "Supplemental Resources",
+            "numberOfCourses": "36",
+            "departmentWeb": "https://www.mit.edu"
+        },
+        {
+            "name": "Chemistry",
+            "numberOfCourses": "34",
+            "departmentWeb": "http://chemistry.mit.edu/"
+        },
+        {
+            "name": "Materials Science and Engineering",
+            "numberOfCourses": "34",
+            "departmentWeb": "https://dmse.mit.edu/"
+        },
+        {
+            "name": "Nuclear Science and Engineering",
+            "numberOfCourses": "32",
+            "departmentWeb": "http://web.mit.edu/nse/"
+        },
+        {
+            "name": "Biological Engineering",
+            "numberOfCourses": "31",
+            "departmentWeb": "https://be.mit.edu/"
+        },
+        {
+            "name": "Chemical Engineering",
+            "numberOfCourses": "30",
+            "departmentWeb": "https://cheme.mit.edu/"
+        },
+        {
+            "name": "Health Sciences and Technology",
+            "numberOfCourses": "30",
+            "departmentWeb": "https://www.mit.edu"
+        },
+        {
+            "name": "Civil and Environmental Engineering",
+            "numberOfCourses": "26",
+            "departmentWeb": "https://cee.mit.edu/"
+        },
+        {
+            "name": "Mathematics",
+            "numberOfCourses": "16",
+            "departmentWeb": "https://math.mit.edu/"
+        },
+        {
+            "name": "Urban Studies and Planning",
+            "numberOfCourses": "12",
+            "departmentWeb": "https://dusp.mit.edu/"
+        },
+        {
+            "name": "Aeronautics and Astronautics",
+            "numberOfCourses": "11",
+            "departmentWeb": "http://aeroastro.mit.edu/"
+        },
+        {
+            "name": "Linguistics and Philosophy",
+            "numberOfCourses": "10",
+            "departmentWeb": "https://www.mit.edu"
+        },
+        {
+            "name": "Media Arts and Sciences",
+            "numberOfCourses": "10",
+            "departmentWeb": "https://www.media.mit.edu/"
+        },
+        {
+            "name": "Engineering Systems Division",
+            "numberOfCourses": "9",
+            "departmentWeb": "https://www.mit.edu"
+        },
+        {
+            "name": "Edgerton Center",
+            "numberOfCourses": "8",
+            "departmentWeb": "https://www.mit.edu"
+        },
+        {
+            "name": "Experimental Study Group",
+            "numberOfCourses": "6",
+            "departmentWeb": "https://www.mit.edu"
+        },
+        {
+            "name": "Science, Technology, and Society",
+            "numberOfCourses": "6",
+            "departmentWeb": "http://sts-program.mit.edu/"
+        },
+        {
+            "name": "Sloan School of Management",
+            "numberOfCourses": "5",
+            "departmentWeb": "https://www.mit.edu"
+        },
+        {
+            "name": "History",
+            "numberOfCourses": "3",
+            "departmentWeb": "http://history.mit.edu/"
+        },
+        {
+            "name": "Literature",
+            "numberOfCourses": "3",
+            "departmentWeb": "https://lit.mit.edu/"
+        },
+        {
+            "name": "Political Science",
+            "numberOfCourses": "3",
+            "departmentWeb": "https://polisci.mit.edu/"
+        },
+        {
+            "name": "Women's and Gender Studies",
+            "numberOfCourses": "3",
+            "departmentWeb": "https://www.mit.edu"
+        },
+        {
+            "name": "Anthropology",
+            "numberOfCourses": "2",
+            "departmentWeb": "http://anthropology.mit.edu/"
+        },
+        {
+            "name": "Economics",
+            "numberOfCourses": "2",
+            "departmentWeb": "http://economics.mit.edu/"
+        },
+        {
+            "name": "Institute for Data, Systems, and Society",
+            "numberOfCourses": "2",
+            "departmentWeb": "https://www.mit.edu"
+        },
+        {
+            "name": "Architecture",
+            "numberOfCourses": "1",
+            "departmentWeb": "https://architecture.mit.edu/"
+        },
+        {
+            "name": "Athletics, Physical Education and Recreation",
+            "numberOfCourses": "1",
+            "departmentWeb": "https://www.mit.edu"
+        },
+        {
+            "name": "Comparative Media Studies/Writing",
+            "numberOfCourses": "1",
+            "departmentWeb": "https://cmsw.mit.edu/"
+        },
+        {
+            "name": "Music and Theater Arts",
+            "numberOfCourses": "1",
+            "departmentWeb": "https://mta.mit.edu/"
+        }
+    ],
+    "resources": [
+        {
+            "name": "Alternative Approaches to Molecular Biology",
+            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT7.01SCF11/MIT7_01SCF11_track18_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "Biochemical Reactions, Enzymes, and ATP",
+            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT7.01SCF11/MIT7_01SCF11_track15_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "cDNA Libraries and Expression Libraries",
+            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT7.01SCF11/MIT7_01SCF11_track26_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "Constructing and Screening a Recombinant DNA Library",
+            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT7.01SCF11/MIT7_01SCF11_track25_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "Covalent Bonds",
+            "url": "https://ocw.mit.eduhttp://archive.org/download/MIT7.01SCF11/MIT7_01SCF11_Un1Ses2_Rec_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "Covalent Bonds, Hydrogen Bonds",
+            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT7.01SCF11/MIT7_01SCF11_track20_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "DNA Replication",
+            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT7.01SCF11/MIT7_01SCF11_track07_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "Glycolysis, Respiration, and Fermentation",
+            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT7.01SCF11/MIT7_01SCF11_track23_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "Linkage and Recombination, Genetic maps",
+            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT7.01SCF11/MIT7_01SCF11_track03_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "Photosynthesis",
+            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT7.01SCF11/MIT7_01SCF11_track24_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "Complementation",
+            "url": "https://ocw.mit.eduhttp://archive.org/download/MIT7.01SCF11/MIT7_01SCF11_Un3Ses4_Rec1_300k.mp4",
+            "type": "Tutorial Videos",
+            "fType": "Video File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "Complementation (Part II)",
+            "url": "https://ocw.mit.eduhttp://archive.org/download/MIT7.01SCF11/MIT7_01SCF11_Un3Ses4_Rec2_300k.mp4",
+            "type": "Tutorial Videos",
+            "fType": "Video File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "Genomic and cDNA Libraries",
+            "url": "https://ocw.mit.eduhttp://archive.org/download/MIT7.01SCF11/MIT7_01SCF11_Un4Ses3_Rec_300k.mp4",
+            "type": "Tutorial Videos",
+            "fType": "Video File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "Lipids, Carbohydrates, and Nucleic Acids Practice Problem",
+            "url": "https://ocw.mit.eduhttp://archive.org/download/MIT7.01SCF11/MIT7_01SCF11_Un1Ses3_Rec_300k.mp4",
+            "type": "Tutorial Videos",
+            "fType": "Video File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "Pedigrees",
+            "url": "https://ocw.mit.eduhttp://archive.org/download/MIT7.01SCF11/MIT7_01SCF11_Un3Ses3_Rec_300k.mp4",
+            "type": "Tutorial Videos",
+            "fType": "Video File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "Polymerase Chain Reaction (PCR)",
+            "url": "https://ocw.mit.eduhttp://archive.org/download/MIT7.01SCF11/MIT7_01SCF11_Un4Ses5_Rec_300k.mp4",
+            "type": "Tutorial Videos",
+            "fType": "Video File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "The lac operon",
+            "url": "https://ocw.mit.eduhttp://archive.org/download/MIT7.01SCF11/MIT7_01SCF11_Un2Ses5_Rec_300k.mp4",
+            "type": "Tutorial Videos",
+            "fType": "Video File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "Transcription and Translation",
+            "url": "https://ocw.mit.eduhttp://archive.org/download/MIT7.01SCF11/MIT7_01SCF11_Un2Ses3_Rec_300k.mp4",
+            "type": "Tutorial Videos",
+            "fType": "Video File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "Transformation and Protein Expression",
+            "url": "https://ocw.mit.eduhttp://archive.org/download/MIT7.01SCF11/MIT7_01SCF11_Un4Ses4_Rec_300k.mp4",
+            "type": "Tutorial Videos",
+            "fType": "Video File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "Explanation of 5' and 3', C terminus, and N terminus",
+            "url": "https://ocw.mit.eduhttp://archive.org/download/MIT7.01SCF11/MIT7_01SCF11_Un2Ses2_Rec_300k.mp4",
+            "type": "Tutorial Videos",
+            "fType": "Video File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT_7_01SCF11_exam3.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/6feaadb59ef84248bdd913076194580b_MIT_7_01SCF11_exam3.pdf",
+            "type": "Exams",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_exam1.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/7a9390d436e6ba0369611c8b64522441_MIT7_01SCF11_exam1.pdf",
+            "type": "Exams",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_exam2.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/0fd1358eddb7e0b2a582a22d2dbb3efe_MIT7_01SCF11_exam2.pdf",
+            "type": "Exams",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_exam4.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/4163c886f47315a7c2336ad1d815e40b_MIT7_01SCF11_exam4.pdf",
+            "type": "Exams",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT_7_01SCF11_exam3_sol.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/6d518508492cd5eda610e3c04253aa51_MIT_7_01SCF11_exam3_sol.pdf",
+            "type": "Exams with Solutions",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_exam1_sol.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/7907dbf23243cc924afb6150c76bf5d5_MIT7_01SCF11_exam1_sol.pdf",
+            "type": "Exams with Solutions",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_exam2_sol.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/7440ab80be6bc7dbe2d2509d4d630a3f_MIT7_01SCF11_exam2_sol.pdf",
+            "type": "Exams with Solutions",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_exam4_sol.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/3587be8a06f444db2f069c2f443f1838_MIT7_01SCF11_exam4_sol.pdf",
+            "type": "Exams with Solutions",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_1.4amino.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/274df9f4b3cead031889d1a3448360d9_MIT7_01SCF11_1.4amino.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_2.5diagram.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/a13c62cd30232e7b4e6f42d9b10fddcf_MIT7_01SCF11_2.5diagram.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_3.1terms.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/13aaf4b79c5d93421a12040f3fad06de_MIT7_01SCF11_3.1terms.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT_7_01SCF11_3.4recprob.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/c2b922885acce04edfaca18ba410f636_MIT_7_01SCF11_3.4recprob.pdf",
+            "type": "Problem Sets",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_1.1prob.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/809cc567d9342d195b0dcda47fcd3a87_MIT7_01SCF11_1.1prob.pdf",
+            "type": "Problem Sets",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_1.2prob.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/7b1fe7c46ccbc104f8a3080310d14d5a_MIT7_01SCF11_1.2prob.pdf",
+            "type": "Problem Sets",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_1.3prob.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/41d1c1f850caeebb8ba7e32830c9da55_MIT7_01SCF11_1.3prob.pdf",
+            "type": "Problem Sets",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_1.4prob.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/5e5e88adbc3c016d3f285f750b586537_MIT7_01SCF11_1.4prob.pdf",
+            "type": "Problem Sets",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_1.5prob.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/a61124da1927b71dc73326804a802b39_MIT7_01SCF11_1.5prob.pdf",
+            "type": "Problem Sets",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_1.6prob.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/92e94b83a425a5a1ee88e3fe029a5807_MIT7_01SCF11_1.6prob.pdf",
+            "type": "Problem Sets",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_1.7prob.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/25f6bf696b75c6ba3f96ad00dfed842b_MIT7_01SCF11_1.7prob.pdf",
+            "type": "Problem Sets",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_2.1prob1.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/20445ba44a664923fd74ae15e3133723_MIT7_01SCF11_2.1prob1.pdf",
+            "type": "Problem Sets",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_2.2prob.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/d2cdbbbd3edc74951a83787cbcc71f88_MIT7_01SCF11_2.2prob.pdf",
+            "type": "Problem Sets",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_1.1sol.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/0cd794261aaf33e3f7921965914829ce_MIT7_01SCF11_1.1sol.pdf",
+            "type": "Problem Sets with Solutions",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_1.2sol.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/97be7ab10307d71a289dc44d32ecc650_MIT7_01SCF11_1.2sol.pdf",
+            "type": "Problem Sets with Solutions",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_1.3sol.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/a7768ab855fe720fdb5b53b5ee2a8855_MIT7_01SCF11_1.3sol.pdf",
+            "type": "Problem Sets with Solutions",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_1.4sol.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/ddfbc7c06d0edb746e9390c964757b71_MIT7_01SCF11_1.4sol.pdf",
+            "type": "Problem Sets with Solutions",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_1.5sol.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/653bf5bdea8911e0e42e998999d13cb9_MIT7_01SCF11_1.5sol.pdf",
+            "type": "Problem Sets with Solutions",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_1.6sol.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/6b5018b5b59a0b1764fa9f89404ea5bf_MIT7_01SCF11_1.6sol.pdf",
+            "type": "Problem Sets with Solutions",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_1.7sol.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/20d10b902b67d561a1d2bc360d674398_MIT7_01SCF11_1.7sol.pdf",
+            "type": "Problem Sets with Solutions",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_2.1sol1.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/8b297b772b66d90db5d87b214ccdb97b_MIT7_01SCF11_2.1sol1.pdf",
+            "type": "Problem Sets with Solutions",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_2.2sol.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/fce9be4ad2d135ad651968f967cf069b_MIT7_01SCF11_2.2sol.pdf",
+            "type": "Problem Sets with Solutions",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "MIT7_01SCF11_2.3sol.pdf",
+            "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/32978b0d1afb90f5579ab12966f58e1c_MIT7_01SCF11_2.3sol.pdf",
+            "type": "Problem Sets with Solutions",
+            "fType": "PDF File",
+            "cid": "7.01SC",
+            "semester": "Fall",
+            "year": "2011"
+        },
+        {
+            "name": "Bonus Lecture 1: Phases",
+            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT3.091F18/MIT3_091F18_bonus_lec01_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Lecture 1: Introduction",
+            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT3.091F18/MIT3_091F18_lec01_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Bonus Lecture 2: The Chemistry of Batteries",
+            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT3.091F18/MIT3_091F18_bonus_lec02_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Lecture 2: The Periodic Table",
+            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT3.091F18/MIT3_091F18_lec02_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Lecture 3: Atomic Models",
+            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT3.091F18/MIT3_091F18_lec03_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Lecture 4: Atomic Spectra",
+            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT3.091F18/MIT3_091F18_lec04_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Lecture 5: Shell Models and Quantum Numbers",
+            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT3.091F18/MIT3_091F18_lec05_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Lecture 6: Electron Shell Model, Quantum Numbers, and PES",
+            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT3.091F18/MIT3_091F18_lec06_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Lecture 7: Aufbau Principle and Atomic Orbitals",
+            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT3.091F18/MIT3_091F18_lec07_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Lecture 8: Ionization Energy and Potential Energy Surface (PES)",
+            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT3.091F18/MIT3_091F18_lec08_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "MIT3_091F18_ChemATLAS_1.pdf",
+            "url": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/1221a5b035863c91885445ca47518e6c_MIT3_091F18_ChemATLAS_1.pdf",
+            "type": "Readings",
+            "fType": "PDF File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "MIT3_091F18_ChemATLAS_2.pdf",
+            "url": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/0afd94b8d0d1bed475c3d3275e1e226f_MIT3_091F18_ChemATLAS_2.pdf",
+            "type": "Readings",
+            "fType": "PDF File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "MIT3_091F18_ChemATLAS_3.pdf",
+            "url": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/71a097958c9af797a5bde7882eedd909_MIT3_091F18_ChemATLAS_3.pdf",
+            "type": "Readings",
+            "fType": "PDF File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Extra Notes for Lecture 24: From Arrhenius to Vacancy Formation - Intro to Solid State Chemistry - Fall 2018",
+            "url": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/e74f5d3273ce626a9d6c88e3ee09cde8_MIT3_091F18_Arrhenius.pdf",
+            "type": "Readings",
+            "fType": "PDF File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Extra Notes on Equilibrium (Lecture 28) - Intro to Solid-State Chemistry - Fall 2018",
+            "url": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/0de26165d2c924f4a46e7cb1e3118c23_MIT3_091F18_Equilibrium.pdf",
+            "type": "Readings",
+            "fType": "PDF File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Extra Notes on Glass - Intro to Solid State Chemistry - Fall 2018",
+            "url": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/69344468f4944d6bcbf4c13dccf8fbd3_MIT3_091F18_Glass.pdf",
+            "type": "Readings",
+            "fType": "PDF File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Supplemental Handout on Fick's Second Law & Diffusion  - Intro to Solid State Chemistry - Fall 2018",
+            "url": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/190df79ce4ce995ba81a9d6ebae5ca88_MIT3_091F18_Diffusion.pdf",
+            "type": "Readings",
+            "fType": "PDF File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Recitation 1: Balancing Reactions, Yield, and Limiting Reagents \u2013 3.091 Introduction to Solid-State Chemistry \u2013 Fall 2018",
+            "url": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/e4b56567408a1807f427bb2aafffe163_MIT3_091F18_REC1.pdf",
+            "type": "Recitations",
+            "fType": "PDF File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Recitation 2: Avogadro and Moles, Periodic Table, Isotopes, and Combustion \u2013 3.091 Introduction to Solid-State Chemistry \u2013 Fall 2018",
+            "url": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/19f6e5f9b8a82a8100bbf5b58d0c6c43_MIT3_091F18_REC2.pdf",
+            "type": "Recitations",
+            "fType": "PDF File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Recitation 3: Waves, Photons, and Bohr Model \u2013 3.091 Introduction to Solid-State Chemistry \u2013 Fall 2018",
+            "url": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/4d44cb084ffa34989c4fe75e4f8d4c47_MIT3_091F18_REC3.pdf",
+            "type": "Recitations",
+            "fType": "PDF File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Recitation 4: Energy, Frequency, Wavelength, and Ionization,  \u2013 3.091 Introduction to Solid-State Chemistry \u2013 Fall 2018",
+            "url": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/50e1280c59c49bcc1dda8fc57834e150_MIT3_091F18_REC4.pdf",
+            "type": "Recitations",
+            "fType": "PDF File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Recitation 5: Quantum Numbers \u2013 3.091 Introduction to Solid-State Chemistry \u2013 Fall 2018",
+            "url": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/0ceae934433b9522a5e29e8d4487d078_MIT3_091F18_REC5.pdf",
+            "type": "Recitations",
+            "fType": "PDF File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Recitation 6: Aufbau Principle, Electron Filling, Box Notation, and Photoelectron Spectroscopy \u2013 3.091 Introduction to Solid-State Chemistry \u2013 Fall 2018",
+            "url": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/51816b5ef323d6f69c4f3584c09a65ca_MIT3_091F18_REC6.pdf",
+            "type": "Recitations",
+            "fType": "PDF File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Recitation 7: Periodic Trends, Lewis Dot Diagrams, and Formal Charge \u2013 3.091 Introduction to Solid-State Chemistry \u2013 Fall 2018",
+            "url": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/51356d80502c5d985c97f9fc5b4cedf6_MIT3_091F18_REC7.pdf",
+            "type": "Recitations",
+            "fType": "PDF File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Recitation 8: Resonance, and Formal Charge (cont.) \u2013 3.091 Introduction to Solid-State Chemistry \u2013 Fall 2018",
+            "url": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/a45425538b162371b130bcbe6f5a9a6d_MIT3_091F18_REC8.pdf",
+            "type": "Recitations",
+            "fType": "PDF File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Recitation 9: VSEPR and Polarity \u2013 3.091 Introduction to Solid-State Chemistry \u2013 Fall 2018",
+            "url": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/c8f459cf1366e48d0638df989419d11d_MIT3_091F18_REC9.pdf",
+            "type": "Recitations",
+            "fType": "PDF File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Recitation 10: Hybridization, Atomic Orbitals, and Molecular Orbital Theory \u2013 3.091 Introduction to Solid-State Chemistry \u2013 Fall 2018",
+            "url": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/2382629922aac38ac001c282d96ad121_MIT3_091F18_REC10.pdf",
+            "type": "Recitations",
+            "fType": "PDF File",
+            "cid": "3.091",
+            "semester": "Fall",
+            "year": "2018"
+        },
+        {
+            "name": "Anomalous scattering",
+            "url": "https://ocw.mit.edu/courses/5-069-crystal-structure-analysis-spring-2010/1fb7075fe175265fc8a2b42ce540921f_anomal_hand1_rev.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "5.069",
+            "semester": "Spring",
+            "year": "2010"
+        },
+        {
+            "name": "Geometry of diffraction",
+            "url": "https://ocw.mit.edu/courses/5-069-crystal-structure-analysis-spring-2010/32f2f6978c99ef9eb19adbc1e9479ff9_diffrac_handout2.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "5.069",
+            "semester": "Spring",
+            "year": "2010"
+        },
+        {
+            "name": "Introduction",
+            "url": "https://ocw.mit.edu/courses/5-069-crystal-structure-analysis-spring-2010/e5d3dc8dcf0eb97b5f6f93b91f2d3cd9_intro_handout.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "5.069",
+            "semester": "Spring",
+            "year": "2010"
+        },
+        {
+            "name": "Structure factors II",
+            "url": "https://ocw.mit.edu/courses/5-069-crystal-structure-analysis-spring-2010/4af69dfc8e3b01a4b1193071c782234c_phasing_handout1.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "5.069",
+            "semester": "Spring",
+            "year": "2010"
+        },
+        {
+            "name": "Structure refinement",
+            "url": "https://ocw.mit.edu/courses/5-069-crystal-structure-analysis-spring-2010/771d364501296a47042f135be5a56643_refine_hand1_rev.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "5.069",
+            "semester": "Spring",
+            "year": "2010"
+        },
+        {
+            "name": "Symmetry in reciprocal space",
+            "url": "https://ocw.mit.edu/courses/5-069-crystal-structure-analysis-spring-2010/39f977ce68f61579f826c4bcc2d8d763_phasing_handout2.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "5.069",
+            "semester": "Spring",
+            "year": "2010"
+        },
+        {
+            "name": "X-rays and matter",
+            "url": "https://ocw.mit.edu/courses/5-069-crystal-structure-analysis-spring-2010/248adb9483f127b4d815fb4d06042e0a_diffrac_handout1.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "5.069",
+            "semester": "Spring",
+            "year": "2010"
+        },
+        {
+            "name": "Symmetry in 2D",
+            "url": "https://ocw.mit.edu/courses/5-069-crystal-structure-analysis-spring-2010/78abdd72d7c390881daa08d7b4b72287_symm_handout1_re.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "5.069",
+            "semester": "Spring",
+            "year": "2010"
+        },
+        {
+            "name": "Symmetry in 3D",
+            "url": "https://ocw.mit.edu/courses/5-069-crystal-structure-analysis-spring-2010/7725ffb4bb9d457ba06ae90d8e6d72e5_symm_handout2.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "5.069",
+            "semester": "Spring",
+            "year": "2010"
+        },
+        {
+            "name": "Cambridge Climate Action Plan",
+            "url": "https://ocw.mit.edu/courses/11-366j-planning-for-sustainable-development-spring-2006/dadc53d78cc34caa9d73e25ff2e6990a_final2004.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "11.366J",
+            "semester": "Spring",
+            "year": "2006"
+        },
+        {
+            "name": "Is it possible to reduce the green house gas emissions linked to energy use in MIT labs?",
+            "url": "https://ocw.mit.edu/courses/11-366j-planning-for-sustainable-development-spring-2006/025834a9d0c2181c9544d459d2192b34_final2005.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "11.366J",
+            "semester": "Spring",
+            "year": "2006"
+        },
+        {
+            "name": "Harvard Green Campus Initiative: Overview",
+            "url": "https://ocw.mit.edu/courses/11-366j-planning-for-sustainable-development-spring-2006/9d673943e3036afc18aa82c3aa90c049_jaclyn.pdf",
+            "type": "Readings",
+            "fType": "PDF File",
+            "cid": "11.366J",
+            "semester": "Spring",
+            "year": "2006"
+        },
+        {
+            "name": "Problem to Solution(s): Change Agency Competencies",
+            "url": "https://ocw.mit.edu/courses/11-366j-planning-for-sustainable-development-spring-2006/eb8a7ce09e37ea0d5e5a19a13bbed58b_laxmi.pdf",
+            "type": "Readings",
+            "fType": "PDF File",
+            "cid": "11.366J",
+            "semester": "Spring",
+            "year": "2006"
+        },
+        {
+            "name": "Introduction To Experimental Chemistry",
+            "url": "https://ocw.mit.edu/courses/5-35-introduction-to-experimental-chemistry-fall-2012/f1ae2a81a4b1f154ec39b07c6307054b_MIT5_35F12_GeneralInformat.pdf",
+            "type": "Labs",
+            "fType": "PDF File",
+            "cid": "5.35",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "IR of Proteins Pre-Lab",
+            "url": "https://ocw.mit.edu/courses/5-35-introduction-to-experimental-chemistry-fall-2012/5088485f6cdac55e647e7a9673dea5da_MIT5_35F12_IR_ofProtPreLa3.pdf",
+            "type": "Labs",
+            "fType": "PDF File",
+            "cid": "5.35",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "IR Pre-Lab",
+            "url": "https://ocw.mit.edu/courses/5-35-introduction-to-experimental-chemistry-fall-2012/42f06d2a71517c2a5503a9c416a91310_MIT5_35F12_IR-Prelab2.pdf",
+            "type": "Labs",
+            "fType": "PDF File",
+            "cid": "5.35",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "NMR Pre-Lab",
+            "url": "https://ocw.mit.edu/courses/5-35-introduction-to-experimental-chemistry-fall-2012/fe71e06f472d8a96ea6ca8f473440873_MIT5_35F12_15MHzNMRPreLab4.pdf",
+            "type": "Labs",
+            "fType": "PDF File",
+            "cid": "5.35",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "Oral Exam Rubric",
+            "url": "https://ocw.mit.edu/courses/5-35-introduction-to-experimental-chemistry-fall-2012/b568b600206a030ec48cddb87a3b37ae_MIT5_35F12_RubrForMod1EXAM.pdf",
+            "type": "Labs",
+            "fType": "PDF File",
+            "cid": "5.35",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "UV-vis Pre Lab",
+            "url": "https://ocw.mit.edu/courses/5-35-introduction-to-experimental-chemistry-fall-2012/8614ae52132cc8df71cf91033a82efe8_MIT5_35F12_Uv_vis_Prelab1.pdf",
+            "type": "Labs",
+            "fType": "PDF File",
+            "cid": "5.35",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "Written Report Guidelines",
+            "url": "https://ocw.mit.edu/courses/5-35-introduction-to-experimental-chemistry-fall-2012/f80e4e7c2ed486b32031dc6900925faa_MIT5_35F12_written_report.pdf",
+            "type": "Labs",
+            "fType": "PDF File",
+            "cid": "5.35",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "Module 1 Expectations",
+            "url": "https://ocw.mit.edu/courses/5-35-introduction-to-experimental-chemistry-fall-2012/446fc9f1515154f648df16791a6c573e_MIT5_35F12_Module1Expectat.pdf",
+            "type": "Labs",
+            "fType": "PDF File",
+            "cid": "5.35",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "Module 1 Experimental Procedures",
+            "url": "https://ocw.mit.edu/courses/5-35-introduction-to-experimental-chemistry-fall-2012/b10d5d9d08da81f1e54e34526de5d082_MIT5_35F12_Mod1_Experiment.pdf",
+            "type": "Labs",
+            "fType": "PDF File",
+            "cid": "5.35",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "Module 1: Fundamentals of Spectroscopy",
+            "url": "https://ocw.mit.edu/courses/5-35-introduction-to-experimental-chemistry-fall-2012/3f54ecef6f159a0a11dd60251491e075_MIT5_35F12_Mod1_Background.pdf",
+            "type": "Labs",
+            "fType": "PDF File",
+            "cid": "5.35",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "Introduction to Coordination Chemistry",
+            "url": "https://ocw.mit.edu/courses/5-35-introduction-to-experimental-chemistry-fall-2012/e4c967c831a50ee682b55a85422c1a67_MIT5_35F12_Module_2LS1.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "5.35",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "Linear and nonlinear spectroscopy",
+            "url": "https://ocw.mit.edu/courses/5-35-introduction-to-experimental-chemistry-fall-2012/dc8a375c836cb16e46d254fbc1e06847_MIT5_35F12_Module_1LS3.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "5.35",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "Practical aspects of FTIR Spectroscopy",
+            "url": "https://ocw.mit.edu/courses/5-35-introduction-to-experimental-chemistry-fall-2012/0d4976568e220050e36f86dfa7f648ed_MIT5_35F12_Module_2LS2.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "5.35",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "Spectroscopy",
+            "url": "https://ocw.mit.edu/courses/5-35-introduction-to-experimental-chemistry-fall-2012/47af5087555520732f868526283bc036_MIT5_35F12_Module_1LS1.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "5.35",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "Spectroscopy in frequency and time domains",
+            "url": "https://ocw.mit.edu/courses/5-35-introduction-to-experimental-chemistry-fall-2012/18a908091e0258ba553794ac1cd0a517_MIT5_35F12_Module_1LS2.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "5.35",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "ps1.pdf",
+            "url": "https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/0591bf685cdcd9c69368274d203e2a5b_ps1.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "12.400",
+            "semester": "Spring",
+            "year": "2006"
+        },
+        {
+            "name": "ps2.pdf",
+            "url": "https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/46a2c814e6b6312b5826c0143300f3f9_ps2.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "12.400",
+            "semester": "Spring",
+            "year": "2006"
+        },
+        {
+            "name": "ps3.pdf",
+            "url": "https://ocw.mit.edu/courses/12-400-the-solar-system-spring-2006/998ea775492c74eb139288919359acbc_ps3.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "12.400",
+            "semester": "Spring",
+            "year": "2006"
+        },
+        {
+            "name": "cm_inject.xls",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/a6f60ada52d209a1ea25f9c536db7731_cm_inject.xls",
+            "type": "Assignments",
+            "fType": "File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "cm1.pdf",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/d82518940ef35ebf1964571f3e6e9d1b_cm1.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "ee1.pdf",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/22e7bb0af5586aeb3dc8c58a14de0afd_ee1.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "lc1.pdf",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/1a9449dfcc9ce94cb181383b2f22b437_lc1.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "ee2.pdf",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/14f44f88e35fd02f7f080f577bb39902_ee2.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "ee3.pdf",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/9c74b5cf7cc4f2f4870f732495cc7f8c_ee3.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "ee_exam1.pdf",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/2fe5e0cd9c3793f33730490f987ac735_ee_exam1.pdf",
+            "type": "Exams",
+            "fType": "PDF File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "cm_ms_exam2.pdf",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/d6b009b86410c0cbf26991c56008662a_cm_ms_exam2.pdf",
+            "type": "Exams",
+            "fType": "PDF File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "lec_intro.pdf",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/572bf5e2ff7a4125a2549bbdd9385952_lec_intro.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "MIT_MSL_pizzamodel.xls",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/2bb744cee52e62d403d5eae78b2b0689_MIT_MSL_pizzamodel.xls",
+            "type": "Lecture Notes",
+            "fType": "File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "lec_cm1.pdf",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/42e505698ce4cf81ecf16e2164f015fe_lec_cm1.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "lec_ee1.pdf",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/1045753cda503c44fb827ef76cfdd4db_lec_ee1.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "lec_lca1.pdf",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/698f7c31f746568fcdf2720e3ea2eeb9_lec_lca1.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "lec_ms1.pdf",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/bbc588d06a5dcaf0a3e156e2108a69ce_lec_ms1.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "lec_cm2_3.pdf",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/0c6b5bd7e357b09be8d8f7f49f6a6ad2_lec_cm2_3.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "lec_ee2.pdf",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/05a885192e6bb4778326bee3f8074390_lec_ee2.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "lec_lca2.pdf",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/7d275969c721222665526c0d5991125f_lec_lca2.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "lec_ms2.pdf",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/0a9684aa33bdabd205be6eb0635d6dcf_lec_ms2.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "cm_project.pdf",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/07e1e2683569d620d709fd7544251d31_cm_project.pdf",
+            "type": "Projects",
+            "fType": "PDF File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "ee_project.pdf",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/ca3a6ea2f7f1c052e1688e1c39e645d0_ee_project.pdf",
+            "type": "Projects",
+            "fType": "PDF File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "lca_project.pdf",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/142c119771755c4284d9ac56d5cf5bf7_lca_project.pdf",
+            "type": "Projects",
+            "fType": "PDF File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "ms_project.pdf",
+            "url": "https://ocw.mit.edu/courses/3-080-economic-environmental-issues-in-materials-selection-fall-2005/5087624bfa2180cb04011611dd42d50d_ms_project.pdf",
+            "type": "Projects",
+            "fType": "PDF File",
+            "cid": "3.080",
+            "semester": "Fall",
+            "year": "2005"
+        },
+        {
+            "name": "Syntax Problem Set",
+            "url": "https://ocw.mit.edu/courses/9-56j-abnormal-language-fall-2004/39d6659e7ae0fd8de5bb5df0dabb59c8_prob_setsolution.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "9.56J",
+            "semester": "Fall",
+            "year": "2004"
+        },
+        {
+            "name": "Syntax Problem Set",
+            "url": "https://ocw.mit.edu/courses/9-56j-abnormal-language-fall-2004/03e6b9837d5e8f1dda0ede801b836ffe_synt_problem_set.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "9.56J",
+            "semester": "Fall",
+            "year": "2004"
+        },
+        {
+            "name": "9.56/24.907 Paper Topics",
+            "url": "https://ocw.mit.edu/courses/9-56j-abnormal-language-fall-2004/e0d1b566977c934f4d179749e492764b_9_56paperoutline.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "9.56J",
+            "semester": "Fall",
+            "year": "2004"
+        }
+    ]
+}
