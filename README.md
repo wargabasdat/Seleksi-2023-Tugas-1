@@ -1,7 +1,6 @@
 ### Deskripsi Data
 Dalam proyek ini, saya tertarik untuk menganalisis performa tim sepak bola Real Madrid di musim 2022-2023. Untuk melakukannya, saya menggunakan data yang diambil dari website fbref.com/en/squads/53a2f082/Real-Madrid-Stats. Saya memilih situs ini karena menyediakan berbagai tabel statistik yang relevan, termasuk data pemain, pertandingan, catatan gol, dan gaji pemain. Dengan melakukan proses web scraping, preprocessing datanya, serta pemodelan data, saya pun berhasil membuat database relational tentang Real Madrid. Saya ingin melihat gambaran yang lebih lengkap tentang performa Real Madrid di musim lalu dan mungkin menemukan insight menarik dari pemain-pemainnya. Proyek ini tidak hanya memadukan minat pribadi saya dalam sepak bola, tetapi juga keterampilan Basis Data yang telah saya pelajari. 
 
-![Alt Text](Data%20Storing/design/Relational%20Model.png)
 
 ### Spesifikasi Program
 Terdapat 4 proses yang dilakukan dalam mengerjakan proyek ini. Pertama, saya harus melakukan web scraping untuk mendapatkan data yang dibutuhkan. Caranya saya cukup menggunakan fungsi Request beserta read_html untuk membaca tabel tersebut. Setelah itu, datanya harus saya preprocess sehingga datanya dapat lebih mudah untuk dianalisis. Selanjutnya, saya perlu melakukan pemodelan dengan denormalisasi dan normalisasi data tersebut ke berbagai tabel sesuai dengan design relation model. Terakhir, saya perlu visualisasikan data tersebut dalam bentuk dashboard.
