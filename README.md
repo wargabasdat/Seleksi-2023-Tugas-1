@@ -52,6 +52,10 @@ Saya mengambil data dari website fbref.com/en/squads/53a2f082/Real-Madrid-Stats.
 - pycountry untuk mengubah kode negara ke nama negara
 - re untuk menggunakan regular expression
 - mysql.connector untuk store data ke mysql table
-
+  
+Tools
+- Jupyter Notebook
+- MySQL
+- 
 ### Author
 Damian Marvel/ 18221164
