@@ -18,6 +18,9 @@ NIM: 1822101
 # Screenshots
 
 # References
+## Libraries Used
+* Beautiful Soup: To scrape the data
+* Requests: To make requests to URL
 
 # Author
 Ilmagita Nariswari
