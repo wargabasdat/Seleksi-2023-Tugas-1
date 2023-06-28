@@ -30,7 +30,7 @@ Terdapat hal hal yang menarik saat mengubah dari ER Diagram ke Relation Model. U
 ![Alt Text](Data%20Scraping/screenshot/player_performance.png)
 ![Alt Text](Data%20Scraping/screenshot/wages.png)
 #### Data Storing
-![Alt Text](Data%20Storing/screenshot/all%tables.png)
+![Alt Text](Data%20Storing/screenshot/all%20tables.png)
 ![Alt Text](Data%20Storing/screenshot/goalkeeper_performance.png)
 ![Alt Text](Data%20Storing/screenshot/match_goal_logs.png)
 ![Alt Text](Data%20Storing/screenshot/matches.png)
