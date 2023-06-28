@@ -1,0 +1,488 @@
+[
+    {
+        "PLU": 20076772,
+        "Item name": "Simba Cereal Choco Chips 220G ",
+        "Final price (Rp)": 14900,
+        "Discount (%)": 50,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20076772/20076772_thumb.jpg?Version.20.01.1.01",
+        "Description": "Simba Choco Chips, sereal yang dibuat dengan bahan-bahan pangan bermutu, sangat tepat untuk dikonsumsi oleh keluarga. Mengandung serat, zat besi dan kalsium yang dapat membantu pembentukan tulang dan mempertahankan kepadatan tulang dan gigi. Tambahkan susu untuk cara makan lebih lezat. Enak juga dimakan langsung sebagai makanan ringan.",
+        "Composition": "Tepung gandum, cokelat bubuk, pasta cokelat, susu bubuk, minyak nabati, gula, ekstrak malt, garam, pengemulsi lesitin kedelai, kalsium karbonat, pewarna karamel III, perisa cokelat, premiks vitamin."
+    },
+    {
+        "PLU": 20117263,
+        "Item name": "Madu Enak Manuka Honey 250G ",
+        "Final price (Rp)": 29000,
+        "Discount (%)": 50,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20117263/20117263_thumb.jpg?Version.20.01.1.01",
+        "Description": "100% madu asli, diperkaya pleh madu manuka. Madu manuka adalah madu yang diperoleh dari lebah yang mengumpulkan serbuk sari dan nektar jelly bush yang dikenal sebagai pohon manuka.",
+        "Composition": "Madu hutan, madu randu, madu karet, madu kelengkeng dan madu manuka."
+    },
+    {
+        "PLU": 10006895,
+        "Item name": "Wrp Meal Replacement Cokelat 324G ",
+        "Final price (Rp)": 83000,
+        "Discount (%)": 50,
+        "Image (URL)": "https://assets.klikindomaret.com/products/10006895/10006895_thumb.jpg?Version.20.01.1.01",
+        "Description": "WRP susu bubuk rasa coklat tinggi protein, tinggi kalsium , sumber serat.",
+        "Composition": "Susu bubuk skim, susu bubuk full krim, gula pasir, protein whey, bubuk coklat, krimer nabati, serat inulin, premiks vitamin & mineral, pemanis buatan asesulfam-k 10/mg/saji (ADI: 15mg/kg berat badan/hari)."
+    },
+    {
+        "PLU": 20103565,
+        "Item name": "Energen Cereal Instant Kurma 10X30g ",
+        "Final price (Rp)": 14800,
+        "Discount (%)": 43,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20103565/20103565_thumb.jpg?Version.20.01.1.01",
+        "Description": "Energen minuman serbuk sereal dan susu bersinergi dengan kurma pilihan membantu menambah asupan gizi anda sekeluarga.",
+        "Composition": "Gula, susu bubuk (28.7%), krimer nabati, tepung terigu (9.59%), jagung, perisa sintetik, oat, pewarna alami karamel kelas I dan II, kalsium. karamel, garam, kurma (0.1%), pengemulsi lestitin kedelai, vitamin A, B1, B2, B6, asam folat, B12, D, dan E, ekstrak malt."
+    },
+    {
+        "PLU": 20117886,
+        "Item name": "Tresno Joyo Madu Tj Manuka 250g ",
+        "Final price (Rp)": 77100,
+        "Discount (%)": 34,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20117886/20117886_thumb.jpg?Version.20.01.1.01",
+        "Description": "Madu TJ Manuka adalah madu alami yang dihasilkan oleh lebah dari sari bunga Manuka (Leptospermum Scoporium) yang tumbuh di New Zealand dan Australia. Madu Manuka diketahui mengandung zat anti-bakteri yang berbeda dari jenis madu lainnya.",
+        "Composition": "N/A"
+    },
+    {
+        "PLU": 10005455,
+        "Item name": "Kellogg's Cereal Corn Flakes Classic 150G ",
+        "Final price (Rp)": 15500,
+        "Discount (%)": 34,
+        "Image (URL)": "https://assets.klikindomaret.com/products/10005455/10005455_thumb.jpg?Version.20.01.1.01",
+        "Description": "Kellogs Corn Flakes sereal sarapan jagung yang sehat",
+        "Composition": "Jagung (89%), Gula, Ekstrak Malt, Garam, Premiks Vitamin dan Mineral (Vitamin (A, B1, B2, B3, B6, B9, B12, E dan Mineral Zat Besi)"
+    },
+    {
+        "PLU": 20052529,
+        "Item name": "Kellogg's Cereal Froot Loops 150G ",
+        "Final price (Rp)": 17200,
+        "Discount (%)": 34,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20052529/20052529_thumb.jpg?Version.20.01.1.01",
+        "Description": "Kellogg's froot loops toucan sam, Sereal sarapan jagung, gandum, barli.",
+        "Composition": "Tepung jagung, gula, tepung gandum, tepung barley, minyak kelapa sawit, garam, pewarna (merah bit, beta-karoten dari blakeslea trispora, antosianin), premiks vitamin dan mineral Vit A,B1,B2,B3,B6,B9,B12,C,E dan mineral zat besi, pengatur keasaman, perisa alami buah - buahan."
+    },
+    {
+        "PLU": 20062099,
+        "Item name": "Sari Roti Dorayaki Coklat 55G ",
+        "Final price (Rp)": 4200,
+        "Discount (%)": 30,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20062099/20062099_thumb.jpg?Version.20.01.1.01",
+        "Description": "\"Pancake ala Jepang dengan tekstur yang lembut dan rasa yang enak, pilihan yang tepat untuk camilan si kecil.",
+        "Composition": "Telur, gula pasir, tepung terigu, custard cokelat (mengandung pengawet kalium sorbat), air, tepung premiks, minyak nabati, madu, pengemulsi nabati, bahan pengembang, dan penstabil, pengawet kalsium propionat"
+    },
+    {
+        "PLU": 20003591,
+        "Item name": "Sari Roti Roti Tawar Kupas Extra Kalsium 200G ",
+        "Final price (Rp)": 12250,
+        "Discount (%)": 30,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20003591/20003591_thumb.jpg?Version.20.01.1.01",
+        "Description": "Sari roti tawar kupas extra kalsium pack 200g",
+        "Composition": "Tepung terigu, air, gula pasir, lemak reroti (mengandung antioksidan"
+    },
+    {
+        "PLU": 20109047,
+        "Item name": "Sari Roti Roti Tawar Milky Soft ",
+        "Final price (Rp)": 9100,
+        "Discount (%)": 30,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20109047/20109047_thumb.jpg?Version.20.01.1.01",
+        "Description": "Sarapan menjadi hal yang penting dilakukan sebelum kita beraktivitas. Untuk menyajikan menu sarapan yang praktis dan sehat, Sari Roti Tawar Milky Soft 360g menjadi pilihan yang tepat sebagai teman minum susu atau kopi di pagi hari. Roti dari SARI ROTI ini memiliki tekstur yang sangat lembut dari roti tawar biasanaya sehingga cocok sekali jika dipadukan dengan selai cokelat, strawberry, atau nanas sebagai olesannya. Menikmati dua lembar roti SARI ROTI di pagi hari akan memberikan energi pada tubuh hingga makan siang tiba karena roti ini mengandung karbohidrat sebesar 36gr. Kandungan karbohidratnya setara dengan kita mengonsumsi nasi. Sajikan menu sarapan yang sehat dan cepat dengan selalu menghadirkan SARI ROTI Roti Milky Soft di rumah Anda. SARI ROTI roti SARI ROTI!!!",
+        "Composition": "Tepung Terigu (mengandung gluten), air, lemak reroti (mengandung antioksidan askorbil palmitat, tokoferol campuran pekat), gula pasir, sirup tinggi fruktosa, ragi, garam, susu lemak nabati (0,559%), perisa sintetik susu, pengawet kalsium propionat, pengemulsi (mengandung antioksidan asam askorbat), penstabil"
+    },
+    {
+        "PLU": 10004037,
+        "Item name": "Sari Roti Roti Tawar Special ",
+        "Final price (Rp)": 10500,
+        "Discount (%)": 30,
+        "Image (URL)": "https://assets.klikindomaret.com/products/10004037/10004037_thumb.jpg?Version.20.01.1.01",
+        "Description": "Sari roti tawar special pacl",
+        "Composition": "Tepung terigu, air, gula pasir, lemak reroti (mengandung antioksidan"
+    },
+    {
+        "PLU": 20053733,
+        "Item name": "Simba Cereal Choco Chips Coklat 170G ",
+        "Final price (Rp)": 15400,
+        "Discount (%)": 30,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20053733/20053733_thumb.jpg?Version.20.01.1.01",
+        "Description": "Makanan sereal",
+        "Composition": "Tepung gandum, coklat bubuk, pasta coklat, susu bubuk minyak nabati, gula, ekstrak malt, garam, pengemulsi lesitin kedelai, kalsium karbonat, pewarna karamel III, perisa artifisial cokelat (mengandung pewarna karamel IV) premiks vitamin."
+    },
+    {
+        "PLU": 20096795,
+        "Item name": "Indomaret Jam Strawberry 170G ",
+        "Final price (Rp)": 10900,
+        "Discount (%)": 22,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20096795/20096795_thumb.jpg?Version.20.01.1.01",
+        "Description": "Selai yang dibuat dari buah stroberi pilihan yang dicampur dengan bahan berkualitas.",
+        "Composition": "Gula, buah stroberi, air, pengental pektin, pengatur keasaman asam sitrat, pengemulsi & penstabil nabati, perisa sintetik stroberi, pengawet kalium sorbat, pewarna makanan."
+    },
+    {
+        "PLU": 20071767,
+        "Item name": "Nestle Cereal Breakfast Honey Stars 70G ",
+        "Final price (Rp)": 9900,
+        "Discount (%)": 21,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20071767/20071767_thumb.jpg?Version.20.01.1.01",
+        "Description": "Sereal nestle dengan gandum utuh, sereal sarapan gandum dan jagung berlapis madu.",
+        "Composition": "Tepung gandum utuh, semolina jagung, gula, sirup glukosa, madu, minyak nabati (mengandung antioksidan askorbil palmitat), 1 mineral, perisa identik alami (vanilin, madu), garam beryodium, premiks vitamin, antioksidan tokoferol cam[uran pekat dan pewearna makanan beta karoten CI40800."
+    },
+    {
+        "PLU": 10036685,
+        "Item name": "Nutella Jam Spread Kecil Hazelnut 200G  ",
+        "Final price (Rp)": 33900,
+        "Discount (%)": 21,
+        "Image (URL)": "https://assets.klikindomaret.com/products/10036685/10036685_thumb.jpg?Version.20.01.1.01",
+        "Description": "Selai cokelat dengan kacang hazel dengan rasa yang enak",
+        "Composition": "Gula, minyak nabati, palma hazelnut (13%), susu bubuk skim (8.7%), bubuk kakao rendah lemak (7.4%), pengemulsi lesitin (kedelai)-ins 322. perisa: vanili."
+    },
+    {
+        "PLU": 20127302,
+        "Item name": "Bella Spread Choco Cashew 300G ",
+        "Final price (Rp)": 22300,
+        "Discount (%)": 18,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20127302/20127302_thumb.jpg?Version.20.01.1.01",
+        "Description": "Selai dengan varian rasa dan tekstur yang khas, sangat cocok untuk aplikasi isian, olesan, adonan, dan juga dekorasi.",
+        "Composition": "N/A"
+    },
+    {
+        "PLU": 10025006,
+        "Item name": "Nestle Cereal Breakfast Combo Pack Koko Krunch 32G ",
+        "Final price (Rp)": 7500,
+        "Discount (%)": 17,
+        "Image (URL)": "https://assets.klikindomaret.com/products/10025006/10025006_thumb.jpg?Version.20.01.1.01",
+        "Description": "Sereal dengan gandum utuh rasa coklat yang dahsyat",
+        "Composition": "Serealia (tepung gandum, tepung gandum utuh) gula, bubuk kakao, sari malt, minyak nabati, mineral, garam, pengemulsi lestin kedelai, vitamin, perisa vanila dan antioksidan tokoferol"
+    },
+    {
+        "PLU": 10036688,
+        "Item name": "Ceres Hagelslag Rice Choco Classic 200G ",
+        "Final price (Rp)": 18900,
+        "Discount (%)": 16,
+        "Image (URL)": "https://assets.klikindomaret.com/products/10036688/10036688_thumb.jpg?Version.20.01.1.01",
+        "Description": "Cokelat meses terbaik yang terbuat dari bahan pilihan dengan rasa dan kualitas terbaik.",
+        "Composition": "Gula, kakao massa (34.8%), lemak kakao, pengemulsi lesitin kedelai, perisa identik alami vanili, pelapis (carnauba wax)."
+    },
+    {
+        "PLU": 20096794,
+        "Item name": "Indomaret Jam Pineapple 170G ",
+        "Final price (Rp)": 10900,
+        "Discount (%)": 16,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20096794/20096794_thumb.jpg?Version.20.01.1.01",
+        "Description": "Selai yang dibuat dari buah nanas pilihan yang dicampur dengan bahan berkualitas.",
+        "Composition": "Gula, buah nanas, air, pengental pektin, pengatur keasaman asam sitrat, pengemulsi & penstabil nabati, perisa sintetik nanas, pengawet kalium sorbat, pewarna makanan."
+    },
+    {
+        "PLU": 20001606,
+        "Item name": "Energen Cereal Instant Kacang Hijau 10X35G ",
+        "Final price (Rp)": 19900,
+        "Discount (%)": 15,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20001606/20001606_thumb.jpg?Version.20.01.1.01",
+        "Description": "Minuman serbuk sereal dan susu yang bernutrisi membantu menambah asupan gizi dengan rasa kacang hijau",
+        "Composition": "Gula, Krimer nabati, kacang hijau (14.28%), tepung terigu (8.2%), susu bubuk (7.95%), jagung, oat, kalsium karbonat, garam, pengemulsi nabati (lesitin kedelai), perisa sintetik, premiks vitamin (A,B1,B2,B9,asam folat,B12,D dan E), natrium askorbat (vitamin C), telur bubuk (0.01%), Ekstrak Malt."
+    },
+    {
+        "PLU": 20001605,
+        "Item name": "Energen Sereal & Susu Cokelat 10X34g ",
+        "Final price (Rp)": 19900,
+        "Discount (%)": 15,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20001605/20001605_thumb.jpg?Version.20.01.1.01",
+        "Description": "Minuman serbuk sereal dan susu yang bernutrisi membantu menambah asupan gizi dengan rasa coklat",
+        "Composition": "Gula, krimer, terigu, susu bubuk, kakao bubuk, jagung, oat, kalsium karbonat, garam, premiks vitamin, telur, ektrak malt."
+    },
+    {
+        "PLU": 20001604,
+        "Item name": "Energen Sereal & Susu Vanila 10X32g ",
+        "Final price (Rp)": 19900,
+        "Discount (%)": 15,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20001604/20001604_thumb.jpg?Version.20.01.1.01",
+        "Description": "Minuman serbuk sereal dan susu yang bernutrisi membantu menambah asupan gizi dengan rasa vanilla",
+        "Composition": "Gula, krimer, terigu, susu bubuk, perisa vanilla, jagung, oat, kalsium karbonat, garam, premiks vitamin, telur, ektrak malt."
+    },
+    {
+        "PLU": 10025301,
+        "Item name": "Quaker Oatmeal Instant Merah 800G ",
+        "Final price (Rp)": 41900,
+        "Discount (%)": 15,
+        "Image (URL)": "https://assets.klikindomaret.com/products/10025301/10025301_thumb.jpg?Version.20.01.1.01",
+        "Description": "Quaker oatmeal instant serat pangan larut (beta glucan dari oats) dapat membantu menurunkan kadar kolesterol darah jika disertai dengan diet rendah lemak jenuh dan rendah kolesterol.",
+        "Composition": "100% oat"
+    },
+    {
+        "PLU": 10025302,
+        "Item name": "Quaker Oatmeal Quick Cooking Biru 800G ",
+        "Final price (Rp)": 41900,
+        "Discount (%)": 15,
+        "Image (URL)": "https://assets.klikindomaret.com/products/10025302/10025302_thumb.jpg?Version.20.01.1.01",
+        "Description": "Quaker oatmeal quick cooking (ref) pack 800g",
+        "Composition": "100% oat"
+    },
+    {
+        "PLU": 20114407,
+        "Item name": "Simba Cereal Choco Chips 950G ",
+        "Final price (Rp)": 38600,
+        "Discount (%)": 15,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20114407/20114407_thumb.jpg?Version.20.01.1.01",
+        "Description": "Simba Choco Chips, sereal yang dibuat dengan bahan-bahan pangan bermutu, sangat tepat untuk dikonsumsi oleh keluarga. Mengandung serat, zat besi dan kalsium yang dapat membantu pembentukan tulang dan mempertahankan kepadatan tulang dan gigi. Tambahkan susu untuk cara makan lebih lezat. Enak juga dimakan langsung sebagai makanan ringan.",
+        "Composition": "Tepung gandum (52.6%), Coklat bubuk, pasta coklat, susu bubuk minyak nabati, gula, ekstrak malt (2.5%), garam, pengemulsi lesitin kedelai, kalsium karbonat, pewarna karamel kelas III (E-150c)."
+    },
+    {
+        "PLU": 20114026,
+        "Item name": "Simba Cereal Choco Chips Coklat 330G ",
+        "Final price (Rp)": 33100,
+        "Discount (%)": 15,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20114026/20114026_thumb.jpg?Version.20.01.1.01",
+        "Description": "Simba Choco Chips, sereal yang dibuat dengan bahan-bahan pangan bermutu, sangat tepat untuk dikonsumsi oleh keluarga. Mengandung serat, zat besi dan kalsium yang dapat membantu pembentukan tulang dan mempertahankan kepadatan tulang dan gigi. Tambahkan susu untuk cara makan lebih lezat. Enak juga dimakan langsung sebagai makanan ringan.",
+        "Composition": "Tepung gandum (53.18%), Coklat bubuk, pasta coklat, susu bubuk minyak nabati, gula, ekstrak malt, garam, pengemulsi lesitin kedelai, kalsium karbonat, pewarna karamel kelas III (E-150c), perisa sintetik coklat, premiks vitamin."
+    },
+    {
+        "PLU": 20041422,
+        "Item name": "Ceres Choco Spread Double Hazelnut 350G ",
+        "Final price (Rp)": 39900,
+        "Discount (%)": 15,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20041422/20041422_thumb.jpg?Version.20.01.1.01",
+        "Description": "",
+        "Composition": "N/A"
+    },
+    {
+        "PLU": 10004771,
+        "Item name": "Ceres Choco Spread Duo Milk Hazelnut 350G ",
+        "Final price (Rp)": 39900,
+        "Discount (%)": 15,
+        "Image (URL)": "https://assets.klikindomaret.com/products/10004771/10004771_thumb.jpg?Version.20.01.1.01",
+        "Description": "Selai dengan perpaduan cokelat dan kacang hazel terbaik yang terbuat dari bahan pilihan dengan rasa dan kualitas terbaik.",
+        "Composition": "Gula, minyak nabati, susu bubuk skim (5.5%), bubuk whey, bubuk kakao (2.5%), kacang hazel (1%), pengemulsi lesitin kedelai, perisa vanila ektrak, serpihan kacang almond."
+    },
+    {
+        "PLU": 20042356,
+        "Item name": "Diabetasol Zero Calorie Sweetener 50'S 50X1g ",
+        "Final price (Rp)": 33500,
+        "Discount (%)": 15,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20042356/20042356_thumb.jpg?Version.20.01.1.01",
+        "Description": "Diabetasol No Calorie Sweetener 50G merupakan pemanis penganti gula yang diformulasi khusus untuk para pengidap diabetes. Mengandung Suklarosa yang aman dikonsumsi, serta dibuat tanpa kandungan kalori sehingga mempermudah pengaturan kalori sajian. Tak han",
+        "Composition": "N/A"
+    },
+    {
+        "PLU": 20096796,
+        "Item name": "Indomaret Spread Chocolate 160G ",
+        "Final price (Rp)": 14900,
+        "Discount (%)": 13,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20096796/20096796_thumb.jpg?Version.20.01.1.01",
+        "Description": "Olesan cokelat yang dibuat dari pasta cokelat berkualitas.",
+        "Composition": "Pasta cokelat, susu bubuk, cokelat bubuk, pengemulsi."
+    },
+    {
+        "PLU": 20027241,
+        "Item name": "Morin Jam Choco Peanut 150G ",
+        "Final price (Rp)": 20700,
+        "Discount (%)": 13,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20027241/20027241_thumb.jpg?Version.20.01.1.01",
+        "Description": "Selai cokelat dan kacang dengan rasa yang enak.",
+        "Composition": "Gula, minyak nabati (mengandung antioksidant tokoferol, askorbil palmitat), kacang tanah (28%), kakao bubuk (11%), susu skim bubuk, pengemulsi nabati lesitin, garam, perisa arfisial (vanili) mengandung bahan alegan kacang tanah, susu kacang kedelai."
+    },
+    {
+        "PLU": 20115438,
+        "Item name": "5 Days Croissant Cheese 60G ",
+        "Final price (Rp)": 7000,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20115438/20115438_thumb.jpg?Version.20.01.1.01",
+        "Description": "CROISSANT DALAM KEMASAN NO 1 YANG ADA DI INDONESIA",
+        "Composition": "Tepung Terigu, Vla Keju (27,52%) (Mengandung Pengawet Asam Sorbat, Pewarna Alami Titanium Dioksida Cl No 77891. Penguat rasa Mononatrium L-Glutamat, Air, Margarin (mengandung pengawet kalium sorbat, Antioksidan Tokoferot. Pewarna makanan alami Beta Karoten CI No 40800). Gula Icing. Ragi, Susu Bubuk, Sirup Jagung tinggi Fruktosa. Pengemulsi Nabati (mengandung Pemanis Alami Sorbitol. Pewarna makanan Sintetik Kuning FCF CI No 15985). Minyak Goreng (mengandung Antioksidan BHA). Pati Jagung"
+    },
+    {
+        "PLU": 20125077,
+        "Item name": "5 Days Croissant Pandan Srikaya 60G ",
+        "Final price (Rp)": 7000,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20125077/20125077_thumb.jpg?Version.20.01.1.01",
+        "Description": "ROTI CROISSANT ISI SELAI RASA PANDAN SRIKAYA.",
+        "Composition": "N/A"
+    },
+    {
+        "PLU": 20128391,
+        "Item name": "7+ Cereal Bar Cocoa Chia 22G ",
+        "Final price (Rp)": 7500,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20128391/20128391_thumb.jpg?Version.20.01.1.01",
+        "Description": "Cereal bar yang terbuat dari bahan-bahan pilihan terbaik. Perpaduan rasa dari Rolled oats, Chia Seeds, Brown Flaxseed, Cranberries, Freeze Dried Strawberries, California Raisins, Blueberries.",
+        "Composition": "N/A"
+    },
+    {
+        "PLU": 20128392,
+        "Item name": "7+ Cereal Bar Yoghurt Berry 22G ",
+        "Final price (Rp)": 7500,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20128392/20128392_thumb.jpg?Version.20.01.1.01",
+        "Description": "Cereal bar yang terbuat dari bahan-bahan pilihan terbaik. Perpaduan rasa dari Real Yoghurt, Rolled oats, Chia seeds, Cranberries, Freeze dried strawberries, Blueberries, California Raisins.",
+        "Composition": "N/A"
+    },
+    {
+        "PLU": 20052206,
+        "Item name": "Air Mancur Madurasa Murni 150G ",
+        "Final price (Rp)": 22000,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20052206/20052206_thumb.jpg?Version.20.01.1.01",
+        "Description": "Terbuat dari madu terbaik diproses secara steril dan higienis.",
+        "Composition": "N/A"
+    },
+    {
+        "PLU": 20073984,
+        "Item name": "Air Mancur Madurasa Original 150G ",
+        "Final price (Rp)": 15200,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20073984/20073984_thumb.jpg?Version.20.01.1.01",
+        "Description": "Terbuat dari madu terbaik diproses secara steril dan higienis.",
+        "Composition": "Fruktosa, glukosa, madu 2.305%, air demineral, perisa identik alami madu, pewarna karamel III amonia proses, karomoisin CI14720."
+    },
+    {
+        "PLU": 20064435,
+        "Item name": "Al Shifa Natural Honey 250G ",
+        "Final price (Rp)": 65200,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20064435/20064435_thumb.jpg?Version.20.01.1.01",
+        "Description": "Al shifa natural honey",
+        "Composition": "100% madu"
+    },
+    {
+        "PLU": 20098940,
+        "Item name": "Arnon Roti Kasur 180G ",
+        "Final price (Rp)": 11000,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20098940/20098940_thumb.jpg?Version.20.01.1.01",
+        "Description": "Roti kasur",
+        "Composition": "Tepung Terigu, Gula, Garam, Telur, Mentega, Ragi Alami, Coklat Butir, Kalsium Propionat"
+    },
+    {
+        "PLU": 20054691,
+        "Item name": "Arnon Roti Manis 5'S Cream Messes 200G ",
+        "Final price (Rp)": 16000,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20054691/20054691_thumb.jpg?Version.20.01.1.01",
+        "Description": "roti manis",
+        "Composition": "Terigu, Gula, Garam, Telur, Mentega, Ragi Alami, Coklat Butir, Kalsium Propionat"
+    },
+    {
+        "PLU": 20099290,
+        "Item name": "Arnon Roti Manis Choco Roll ",
+        "Final price (Rp)": 7000,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20099290/20099290_thumb.jpg?Version.20.01.1.01",
+        "Description": "Roti lapis",
+        "Composition": "Tepung Terigu, Gula Pasir, Margarine, Minyak Sayur, Ragi, Telur, Kalsium Propionat, Air, Pasta Cokelat."
+    },
+    {
+        "PLU": 20057573,
+        "Item name": "Arnon Roti Manis Cream Meises 40G ",
+        "Final price (Rp)": 4000,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20057573/20057573_thumb.jpg?Version.20.01.1.01",
+        "Description": "roti manis",
+        "Composition": "Terigu, Gula, Garam, Telur, Mentega, Ragi Alami, Coklat Butir, Kalsium Propionat."
+    },
+    {
+        "PLU": 10003941,
+        "Item name": "Budy Jam Pindekas 120G ",
+        "Final price (Rp)": 16400,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/10003941/10003941_thumb.jpg?Version.20.01.1.01",
+        "Description": "Selai kacang dari bahan pilihan yang terbaik.",
+        "Composition": "Kacang tanah, gula, lemak nabati, garam, anti oksidan BHT."
+    },
+    {
+        "PLU": 20054091,
+        "Item name": "Budy Jam Selai Coklat 150G ",
+        "Final price (Rp)": 12200,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20054091/20054091_thumb.jpg?Version.20.01.1.01",
+        "Description": "Budy jam selai serbaguna dengan rasa coklat yang enak.",
+        "Composition": "Gula, cokelat bubuk, susu bubuk, lemak nabati, telur, perisa artifasial vanila, pengawet kalium sorbat."
+    },
+    {
+        "PLU": 10003942,
+        "Item name": "Budy Jam Strawberry 150G ",
+        "Final price (Rp)": 9800,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/10003942/10003942_thumb.jpg?Version.20.01.1.01",
+        "Description": "Selai strawberry dari bahan pilihan yang terbaik.",
+        "Composition": "Gula, buah stroberi, pengatur keasaman (Asam Sitrat), Glukosa, pengawet (Natrium Benzoat), Pewarna (Ponceau 4R CI 16255)"
+    },
+    {
+        "PLU": 20053052,
+        "Item name": "Ceres Choco Spread Choco Hazelnut 200G ",
+        "Final price (Rp)": 31200,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20053052/20053052_thumb.jpg?Version.20.01.1.01",
+        "Description": "Selai dengan perpaduan cokelat dan kacang hazel terbaik yang terbuat dari bahan pilihan dengan rasa dan kualitas terbaik.",
+        "Composition": "Gula, minyak nabati, bubuk whey, bubuk kakao penuh lemak, kacang hazel, pengemulsi lesitin kedelai, perisa identik alami, vanili."
+    },
+    {
+        "PLU": 10000128,
+        "Item name": "Ceres Hagelslag Rice Choco Classic 80G  ",
+        "Final price (Rp)": 10000,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/10000128/10000128_thumb.jpg?Version.20.01.1.01",
+        "Description": "Cokelat meses terbaik yang terbuat dari bahan pilihan dengan rasa dan kualitas terbaik.",
+        "Composition": "Gula, kakao massa (34.8%), lemak kakao, pengemulsi lesitin kedelai, perisa identik alami vanili, pelapis (carnauba wax)."
+    },
+    {
+        "PLU": 10000129,
+        "Item name": "Ceres Hagelslag Rice Choco Festive 80G ",
+        "Final price (Rp)": 10000,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/10000129/10000129_thumb.jpg?Version.20.01.1.01",
+        "Description": "Cokelat meses terbaik yang terbuat dari bahan pilihan dengan rasa dan kualitas terbaik.",
+        "Composition": "Gula, kakao massa, lemak kakao, bubuk whey, pengemulsi lesitin kedelai, pelapis (syelak), perisa identik alami (vanili, jeruk), pewarna (tartrazin CI 19148, eritrosin CI45430, biru berlian CI 42090)."
+    },
+    {
+        "PLU": 20093997,
+        "Item name": "Diabetamil Sweetener 50G ",
+        "Final price (Rp)": 27500,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20093997/20093997_thumb.jpg?Version.20.01.1.01",
+        "Description": "Pemanis lebih rendah energi, kemanisan tidak berubah pada suhu tinggi, bantu cegah konsumsi gula berlebih untuk jaga dan kontrol kadar gula darah.",
+        "Composition": "Pemanis alami sorbitol, pemanis buatan"
+    },
+    {
+        "PLU": 20093336,
+        "Item name": "Diabetasol Zero Calorie Sweetener 100X1g ",
+        "Final price (Rp)": 76600,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20093336/20093336_thumb.jpg?Version.20.01.1.01",
+        "Description": "Diabetasol No Calorie Sweetener merupakan pemanis penganti gula yang diformulasi khusus untuk para pengidap diabetes. Mengandung Suklarosa yang aman dikonsumsi, serta dibuat tanpa kandungan kalori sehingga mempermudah pengaturan kalori sajian.",
+        "Composition": "Laktosa, pemanis buatan sukrolosa, antioksidan natrium askorbat."
+    },
+    {
+        "PLU": 20081740,
+        "Item name": "Ellenka Fiber Creme 100G ",
+        "Final price (Rp)": 13800,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20081740/20081740_thumb.jpg?Version.20.01.1.01",
+        "Description": "Idealnya, kita mengonsumsi serat yakni 30 gram/ hari. Namun faktanya, rata-rata konsumsi serat penduduk Indonesia masih kurang, yakni baru sekitar 10,5 gram per hari. Hal ini tentunya akan membuat sistem pencernaan menjadi tidak sehat.",
+        "Composition": "Isomalto-Oligosakarida, Minyak Nabati, Natrium Kaseinat. Penstabil Fosfat, Pengemulsi Nabati, Anti Kempal. Tanpa Pemanis Buatan, Tanpa Pengawet"
+    },
+    {
+        "PLU": 10036853,
+        "Item name": "Energen Cereal & Susu Instant Vanilla 5X32G ",
+        "Final price (Rp)": 11000,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/10036853/10036853_thumb.jpg?Version.20.01.1.01",
+        "Description": "Minuman serbuk sereal dan susu yang bernutrisi membantu menambah asupan gizi dengan rasa vanilla",
+        "Composition": "Gula, krimer, terigu, susu bubuk, perisa vanilla, jagung, oat, kalsium karbonat, garam, premiks vitamin, telur, ektrak malt."
+    },
+    {
+        "PLU": 20126111,
+        "Item name": "Energen Cereal Instant Champion Coklat 4X35G ",
+        "Final price (Rp)": 9400,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/20126111/20126111_thumb.jpg?Version.20.01.1.01",
+        "Description": "Energen Champion, minuman cokelat dengan susu, malt, 8 vitamin, dan telur membantu memenuhi kebutuhan gizi anda sekeluarga.",
+        "Composition": "N/A"
+    },
+    {
+        "PLU": 10003340,
+        "Item name": "Energen Sereal & Susu Cokelat 5X34g ",
+        "Final price (Rp)": 11000,
+        "Discount (%)": 0,
+        "Image (URL)": "https://assets.klikindomaret.com/products/10003340/10003340_thumb.jpg?Version.20.01.1.01",
+        "Description": "Minuman serbuk sereal dan susu yang bernutrisi membantu menambah asupan gizi dengan rasa coklat",
+        "Composition": "Gula, krimer, terigu, susu bubuk, kakao bubuk, jagung, oat, kalsium karbonat, garam, premiks vitamin, telur, ektrak malt."
+    }
+]
