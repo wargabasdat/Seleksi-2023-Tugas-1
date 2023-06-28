@@ -4,3 +4,4 @@ Data tersebut diambil dari website fbref.com/en/squads/53a2f082/Real-Madrid-Stat
 ![Alt text](Data Storing/design/Relation Model.png)
 ![Alt Text](Data%20Storing/design/Relation%20Model.png)
 
+![Alt Text](Data%20Storing/design/Relational%20Model.png)
