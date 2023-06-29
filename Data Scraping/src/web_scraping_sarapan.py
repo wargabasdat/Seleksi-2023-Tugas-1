@@ -9,6 +9,7 @@ doc = BeautifulSoup(result.text, "html.parser")
 content_container = doc.find("div", "product-collection")
 item = content_container.find_all("div", "item")
 json_array = []
+json_dict = {}
 for g in item:
 
     product_url = "https://www.klikindomaret.com" + g.find("a", href=True)['href']
@@ -38,6 +39,7 @@ for g in item:
     else:
         item_dict["Image (URL)"] = product_image
     
+    # Find product description
     product_description = product_doc.find("span", {"id": "desc-product"})
     if product_description == None:
         item_dict["Description"] = "N/A"
@@ -52,7 +54,9 @@ for g in item:
 
     json_array.append(item_dict)
 
+json_dict["products"] = json_array
+
 with open("../data/data_sarapan.json", "w") as outfile:
-    json.dump(json_array, outfile, indent=4)
+    json.dump(json_dict, outfile, indent=4)
 
 print("Json file is successfully created!")
