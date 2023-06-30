@@ -187,7 +187,7 @@ def map_agent_scraper():
         killjoy_pick = agent_automater(killjoy_cell)                        # value of KJ's pick rate
         jett_cell = killjoy_cell.find_next("td", class_="mod-color-sq")     # cell that contains Jett's pick rate
         jett_pick = agent_automater(jett_cell)                              # value of Jett's pick rate
-        raze_cell = jett_cell.find_next("td", class_="mod-color-sq")     # cell that contains Raze's pick rate
+        raze_cell = jett_cell.find_next("td", class_="mod-color-sq")        # cell that contains Raze's pick rate
         raze_pick = agent_automater(raze_cell)                              # value of Raze's pick rate
         viper_cell = raze_cell.find_next("td", class_="mod-color-sq")       # cell that contains Viper's pick rate
         viper_pick = agent_automater(viper_cell)                            # value of Viper's pick rate
@@ -210,7 +210,19 @@ def map_agent_scraper():
         fade_cell = harbor_cell.find_next("td", class_="mod-color-sq")      # cell that contains Fade's pick rate
         fade_pick = agent_automater(fade_cell)                              # value of Fade's pick rate
         neon_cell = fade_cell.find_next("td", class_="mod-color-sq")        # cell that contains Neon's pick rate
-        neon_pick = agent_automater(neon_cell)                           # value of Neon's pick rate
+        neon_pick = agent_automater(neon_cell)                              # value of Neon's pick rate
+        gekko_cell = neon_cell.find_next("td", class_="mod-color-sq")       # cell that contains Gekko's pick rate
+        gekko_pick = agent_automater(gekko_cell)                            # value of Gekko's pick rate
+        sage_cell = gekko_cell.find_next("td", class_="mod-color-sq")       # cell that contains Sage's pick rate
+        sage_pick = agent_automater(sage_cell)                              # value of Sage's pick rate
+        phoenix_cell = sage_cell.find_next("td", class_="mod-color-sq")     # cell that contains Phoenix's pick rate
+        phoenix_pick = agent_automater(phoenix_cell)                        # value of Phoenix's pick rate
+        chamber_cell = phoenix_cell.find_next("td", class_="mod-color-sq")  # cell that contains Chamber's pick rate
+        chamber_pick = agent_automater(chamber_cell)                        # value of Chamber's pick rate
+        reyna_cell = chamber_cell.find_next("td", class_="mod-color-sq")    # cell that contains Reyna's pick rate
+        reyna_pick = agent_automater(reyna_cell)                            # value of Reyna's pick rate
+        yoru_cell = reyna_cell.find_next("td", class_="mod-color-sq")       # cell that contains Yoru's pick rate
+        yoru_pick = agent_automater(yoru_cell)  # value of Gekko's pick rate
 
 
 
@@ -234,7 +246,13 @@ def map_agent_scraper():
                 "Astra Pick": astra_pick,
                 "Harbor Pick": harbor_pick,
                 "Fade Pick": fade_pick,
-                "Neon Pick": neon_pick
+                "Neon Pick": neon_pick,
+                "Gekko pick": gekko_pick,
+                "Sage pick": sage_pick,
+                "Phoenix pick": phoenix_pick,
+                "Chamber pick": chamber_pick,
+                "Reyna pick": reyna_pick,
+                "Yoru pick": yoru_pick
             }
         )
         # Loop goes to next map

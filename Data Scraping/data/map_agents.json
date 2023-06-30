@@ -19,7 +19,13 @@
       "Astra Pick": 0.13,
       "Harbor Pick": 0.04,
       "Fade Pick": 0.21,
-      "Neon Pick": 0.21
+      "Neon Pick": 0.21,
+      "Gekko pick": 0.17,
+      "Sage pick": 0.0,
+      "Phoenix pick": 0.0,
+      "Chamber pick": 0.0,
+      "Reyna pick": 0.0,
+      "Yoru pick": 0.0
     },
     {
       "Map Name": "Fracture",
@@ -40,7 +46,13 @@
       "Astra Pick": 0.0,
       "Harbor Pick": 0.0,
       "Fade Pick": 0.21,
-      "Neon Pick": 0.25
+      "Neon Pick": 0.25,
+      "Gekko pick": 0.0,
+      "Sage pick": 0.0,
+      "Phoenix pick": 0.0,
+      "Chamber pick": 0.0,
+      "Reyna pick": 0.0,
+      "Yoru pick": 0.0
     },
     {
       "Map Name": "Split",
@@ -61,7 +73,13 @@
       "Astra Pick": 0.72,
       "Harbor Pick": 0.0,
       "Fade Pick": 0.0,
-      "Neon Pick": 0.06
+      "Neon Pick": 0.06,
+      "Gekko pick": 0.0,
+      "Sage pick": 0.11,
+      "Phoenix pick": 0.0,
+      "Chamber pick": 0.0,
+      "Reyna pick": 0.0,
+      "Yoru pick": 0.0
     },
     {
       "Map Name": "Bind",
@@ -82,7 +100,13 @@
       "Astra Pick": 0.06,
       "Harbor Pick": 0.44,
       "Fade Pick": 0.13,
-      "Neon Pick": 0.0
+      "Neon Pick": 0.0,
+      "Gekko pick": 0.31,
+      "Sage pick": 0.13,
+      "Phoenix pick": 0.0,
+      "Chamber pick": 0.13,
+      "Reyna pick": 0.06,
+      "Yoru pick": 0.0
     },
     {
       "Map Name": "Haven",
@@ -103,7 +127,13 @@
       "Astra Pick": 0.06,
       "Harbor Pick": 0.13,
       "Fade Pick": 0.0,
-      "Neon Pick": 0.0
+      "Neon Pick": 0.0,
+      "Gekko pick": 0.13,
+      "Sage pick": 0.0,
+      "Phoenix pick": 0.0,
+      "Chamber pick": 0.0,
+      "Reyna pick": 0.0,
+      "Yoru pick": 0.0
     },
     {
       "Map Name": "Pearl",
@@ -124,7 +154,13 @@
       "Astra Pick": 0.21,
       "Harbor Pick": 0.79,
       "Fade Pick": 0.0,
-      "Neon Pick": 0.0
+      "Neon Pick": 0.0,
+      "Gekko pick": 0.0,
+      "Sage pick": 0.0,
+      "Phoenix pick": 0.14,
+      "Chamber pick": 0.0,
+      "Reyna pick": 0.0,
+      "Yoru pick": 0.0
     },
     {
       "Map Name": "Ascent",
@@ -145,7 +181,13 @@
       "Astra Pick": 0.0,
       "Harbor Pick": 0.0,
       "Fade Pick": 0.17,
-      "Neon Pick": 0.0
+      "Neon Pick": 0.0,
+      "Gekko pick": 0.0,
+      "Sage pick": 0.08,
+      "Phoenix pick": 0.0,
+      "Chamber pick": 0.0,
+      "Reyna pick": 0.0,
+      "Yoru pick": 0.0
     }
   ]
 }
