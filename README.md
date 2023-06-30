@@ -99,3 +99,32 @@ Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau se
   </i>
 </p>
 <br>
+
+## Description of the Data and DBMS
+
+## Specification of the Program
+Program ini memanfaatkan bahasa pemrograman Python dalam proses _data scraping_
+
+## How to use
+
+## JSON Structure
+
+## Database Structure
+
+## Explanation of the ERD to Relational Diagram Process
+
+## Screenshots of the Program
+#### Proses data scraping tabel "sarapan": 
+<p align="center">
+  <img src="./Data%20Scraping/screenshot/data%20sarapan.jpg">
+</p>
+
+## References
+Berikut _library_ yang saya gunakan:
+- BeautifulSoup4
+- Requests
+- JSON
+
+## AUTHOR
+Muhammad Farrel Danendra Rachim (13521048)
+
