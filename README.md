@@ -18,7 +18,7 @@
 
 1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu **TANPA MENGGUNAKAN API**. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
 
-test
+t
 
 2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal **1 Juli 2023 pukul 21.40 WIB.**
 
