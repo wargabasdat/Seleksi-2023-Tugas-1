@@ -5,10 +5,10 @@ Dalam proyek ini, saya tertarik untuk menganalisis performa tim sepak bola Real 
 
 ### Spesifikasi Program
 <p style="text-align: justify;">
-Terdapat 4 proses yang dilakukan dalam mengerjakan proyek ini. Pertama, saya harus melakukan web scraping untuk mendapatkan data yang dibutuhkan. Caranya saya cukup menggunakan fungsi Request beserta read_html untuk membaca tabel tersebut. Setelah itu, datanya harus saya preprocess sehingga datanya dapat lebih mudah untuk dianalisis. Selanjutnya, saya perlu melakukan pemodelan dengan denormalisasi dan normalisasi data tersebut ke berbagai tabel sesuai dengan design relation model. Terakhir, saya perlu visualisasikan data tersebut dalam bentuk dashboard.</p>
+Terdapat 4 proses yang dilakukan dalam mengerjakan proyek ini. Pertama, saya harus melakukan web scraping untuk mendapatkan data yang dibutuhkan. Caranya saya cukup menggunakan fungsi Request beserta read_html untuk membaca tabel tersebut. Setelah itu, datanya harus saya preprocess sehingga datanya dapat lebih mudah untuk dianalisis. Selanjutnya, saya perlu melakukan pemodelan dengan denormalisasi dan normalisasi data tersebut ke berbagai tabel sesuai dengan design relation model. Terakhir, saya perlu visualisasikan data tersebut dalam bentuk dashboard. Visualisasi tersebut saya menggunakan tools Power BI karena tool ini dapat dengan mudah mengintegrasikan data source SQL. Dengan tool ini, kita hanya perlu melakukan drag and drop atribut yang ingin divisualisikan tanpa melakukan join antar tabel, hal ini disebabkan kita sudah melakukan pemodelan dengan menghubungkan Foreign Key dengan Primary Key ke setial tabel.</p>
 
 ### How to use
-Untuk menggunakan database yang sudah dibuat, anda bisa mendownload file .sql di Data Storing/export. Setelah itu bisa gunakan tools sql favorit anda (kalau saya menggunakan MySQL), dengan menulis mysql -u root -p (database_anda) < realmadrid.sql. 
+Untuk menggunakan database yang sudah dibuat, anda bisa mendownload file .sql di Data Storing/export. Setelah itu bisa gunakan tools sql favorit anda (kalau saya menggunakan MySQL), dengan menulis mysql -u root -p (database_anda) < realmadrid.sql. Anda juga bisa melihat dashboard Power BI yang saya sudah buat dengan mendownload file tersebut di folder Dashboard. Setelah itu, anda bisa melakukan eksplorasi tentang data statistik Real Madrid di tahun 2022-2023.
 
 ### Json Structure
 Record
