@@ -18,8 +18,6 @@
 
 1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu **TANPA MENGGUNAKAN API**. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
 
-testing
-
 2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal **1 Juli 2023 pukul 21.40 WIB.**
 
 3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`.
@@ -98,3 +96,5 @@ Task berikut bersifat tidak wajib (**BONUS**), boleh dikerjakan sebagian atau se
   </i>
 </p>
 <br>
+
+Note To Self. Remove `.git/hooks/pre-push` to enable pushing to remote.
