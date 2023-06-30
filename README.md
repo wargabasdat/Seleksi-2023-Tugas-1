@@ -8,6 +8,7 @@ Dalam proyek ini, saya tertarik untuk menganalisis performa tim sepak bola Real 
 Terdapat 4 proses yang dilakukan dalam mengerjakan proyek ini. Pertama, saya harus melakukan web scraping untuk mendapatkan data yang dibutuhkan. Caranya saya cukup menggunakan fungsi Request beserta read_html untuk membaca tabel tersebut. Setelah itu, datanya harus saya preprocess sehingga datanya dapat lebih mudah untuk dianalisis. Selanjutnya, saya perlu melakukan pemodelan dengan denormalisasi dan normalisasi data tersebut ke berbagai tabel sesuai dengan design relation model. Terakhir, saya perlu visualisasikan data tersebut dalam bentuk dashboard.</p>
 
 ### How to use
+Untuk menggunakan database yang sudah dibuat, anda bisa mendownload file .sql di Data Storing/export. Setelah itu bisa gunakan tools sql favorit anda (kalau saya menggunakan MySQL), dengan menulis mysql -u root -p (database_anda) < realmadrid.sql. 
 
 ### Json Structure
 Record
@@ -59,7 +60,8 @@ Tools
 - Power BI
 
 ### Dashboard
-
+#### Model in Power BI
+![Alt Text](Dashboard/Model%20PowerBI.png)
 
 https://github.com/DamianMarvel7/TUGAS_SELEKSI_1_18221164/assets/110451781/5f8e3146-2bde-4e51-9f92-fafcf9cdfc6a
 
