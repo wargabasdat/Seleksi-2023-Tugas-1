@@ -17,3 +17,10 @@ map_agent_dict = vlr.map_agent_scraper()
 with open('../data/' + 'map_agents.json', 'w') as f:
     # dumps the result of the map-agent data into a json file, indent is used to prettify the file
     json.dump(map_agent_dict, f, indent=2)
+
+# calls the function from the VLR_scrapper to get data regarding the matches
+matches_dict = vlr.match_scraper()
+# opens a file to keep matches in
+with open('../data/' + 'matches.json', 'w') as f:
+    # dumps the result of the matches data into a json file, indent is used to prettify the file
+    json.dump(matches_dict, f, indent=2)

@@ -265,6 +265,107 @@ def map_agent_scraper():
 #     print(i)
 
 
+# FUNCTION FOR SCRAPING MATCH RESULTS
+def match_scraper():
+    # Initialzie a dictionary to keep data results in
+    matches_dict = {
+        "Matches": [
+
+        ]
+    }
+
+    url_matches = 'https://www.vlr.gg/event/matches/1494/champions-tour-2023-masters-tokyo/?series_id=all'
+    matches_html = requests.get(url_matches).text
+    # initiates the soup
+    soup = BeautifulSoup(matches_html, 'lxml')
+
+    # accessing all the dates of match days
+    all_dates = soup.find_all('div', class_='wf-label mod-large')
+    arr_dates = []
+    for date in all_dates:
+        date_num = date.string.strip()[10:12]
+        # Turning it into an SQL date format
+        date_string = f"2023-06-{date_num}"
+        arr_dates.append(date_string)
+
+    # index used for implementing dates in the dictionary
+    idx = 0
+    # Boolean for detecting the matches
+    found = False
+
+    # accessing the cards that contain all matches within each day
+    daily_cards = soup.find_all('div', class_='wf-card')
+    for card in daily_cards:
+        cur_date = arr_dates[idx]
+        # The first match of every date is held in a seperate class to the other matches (idk why honestly)
+        first_matches = card.find_all('a', class_='wf-module-item match-item mod-color mod-left mod-bg-after-striped_purple mod-first')
+        # Scraping the data from every match
+        for match in first_matches:
+            # Acquiring the name of the first team in the match
+            team1_cell = match.find('div', class_='text-of')
+            team1_name = team1_cell.text.strip()
+            # Acquiring the name of the second team in the match
+            team2_cell = team1_cell.find_next('div', class_='text-of')
+            team2_name = team2_cell.text.strip()
+            # Circumventing a hidden card that contains no match information
+            if (team1_name != None):
+                found = True
+                # Finding the container for the match results
+                score1_cell = match.find('div', class_='match-item-vs-team-score')
+                score1 = int(score1_cell.text.strip())                              # Team 1's score
+                score2_cell = score1_cell.find_next('div', class_='match-item-vs-team-score')
+                score2 = int(score2_cell.text.strip())                              # Team 2's score
+                # Adding all the information into the dictionary
+                matches_dict["Matches"].append({
+                    "Date": cur_date,
+                    "Team 1": team1_name,
+                    "Team 2": team2_name,
+                    "Team 1 Score": score1,
+                    "Team 2 Score": score2,
+                })
+            else:
+                # Index is not incremented in this instance
+                found = False
+
+
+        # Finding the data for the rest of the matches for the day
+        other_matches = card.find_all('a', class_='wf-module-item match-item mod-color mod-left mod-bg-after-striped_purple')
+        for match in other_matches:
+            # Determining the name of the 1st team
+            team1_cell = match.find('div', class_='text-of')
+            team1_name = team1_cell.text.strip()
+            # Determining the name of the 2nd team
+            team2_cell = team1_cell.find_next('div', class_='text-of')
+            team2_name = team2_cell.text.strip()
+            # Determining the score of the 1st team
+            score1_cell = match.find('div', class_='match-item-vs-team-score')
+            score1 = int(score1_cell.text)
+            # Determining the score of the 2nd team
+            score2_cell = score1_cell.find_next('div', class_='match-item-vs-team-score')
+            score2 = int(score2_cell.text)
+            # Adding all the variables into the dictionary
+            matches_dict["Matches"].append({
+                "Date": cur_date,
+                "Team 1": team1_name,
+                "Team 2": team2_name,
+                "Team 1 Score": score1,
+                "Team 2 Score": score2,
+            })
+        if (found):
+            # If a day for a match is found, the next date is chosen for the next loop iteration
+            idx += 1
+
+    return matches_dict
+
+
+
+
+
+
+
+
+
+
 
 
 
