@@ -56,6 +56,14 @@ Saya mengambil data dari website fbref.com/en/squads/53a2f082/Real-Madrid-Stats.
 Tools
 - Jupyter Notebook
 - MySQL
-- 
+- Power BI
+
+### Dashboard
+
+
+https://github.com/DamianMarvel7/TUGAS_SELEKSI_1_18221164/assets/110451781/5f8e3146-2bde-4e51-9f92-fafcf9cdfc6a
+
+
+
 ### Author
 Damian Marvel/ 18221164
