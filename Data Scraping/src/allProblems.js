@@ -96,7 +96,7 @@ function processProblems(html) {
 
   // Get the solution type of each problems
   // Solution can be in the following state : not exist, in a readable article, or a video
-  const solutionType = $solutionCells
+  $solutionCells
     .map((_, el) => {
       // Empty cell means no solution
       if (el.children.length <= 0) {
@@ -142,6 +142,62 @@ function processProblems(html) {
 }
 
 /**
+ * Categorize the problem in the problems array
+ * @param {puppeteer.page} page
+ * @param {array} problems
+ */
+async function categorizeProblems(page, problems) {
+  //   The specialized category of the problems and how many pages they take up in the site
+  const problemsCategory = [
+    { name: "algorithms", pageCount: 5 },
+    { name: "database", pageCount: 5 },
+    { name: "javascript", pageCount: 2 },
+    { name: "shell", pageCount: 1 },
+    { name: "concurrency", pageCount: 1 },
+  ];
+
+  for (j = 0; j < problemsCategory.length; j++) {
+    const { name, pageCount } = problemsCategory[j];
+    for (i = 1; i <= pageCount; i++) {
+      console.log(`Processing ${i}th page of ${name} category`);
+
+      // Use dependency injection in the getHTML function
+      const html = await getHTML(page, `${url}/${name}/?page=${i}`);
+
+      processProblemsCategory(html, name, problems);
+    }
+  }
+}
+
+function processProblemsCategory(html, category, problems) {
+  // Load the html into cheerio
+  const $ = cheerio.load(html);
+
+  //   Find all of the title cell in the problems table
+  const $titleCells = $("div[role='cell']", html).filter((index) => {
+    return (index + 1) % 6 === 2;
+  });
+
+  //   Find the index of all of the problems that are in the given category
+  $titleCells
+    .find("a")
+    .map((_, el) => {
+      const titleRaw = el.children[0].data;
+      const index = Number(titleRaw.split(".")[0]);
+      return index;
+    })
+    .toArray()
+    // Add the category of each problem found to be in the given category into the problems array
+    .forEach((index) => {
+      // index - 1 because the problem in the problems array has number starts from one
+      const targetedProblem = problems[index - 1];
+      if (targetedProblem) {
+        targetedProblem["category"] = category;
+      }
+    });
+}
+
+/**
  * Write problems array into a file
  * @param {Array} problems
  */
@@ -167,17 +223,19 @@ async function writeProblemsToFile(problems) {
   const problems = [];
 
   // Iterate over all of the problem pages
-  for (i = 1; i <= 1; i++) {
+  for (i = 1; i <= 5; i++) {
+    console.log(`Processing ${i}th page of all problems`);
+
     // Use dependency injection in the getHTML function
     const html = await getHTML(page, `${url}/all/?page=${i}`);
-
-    console.log(`Processing ${i}th page`);
 
     // Add the problems in the page to the problems array
     problems.push(...processProblems(html));
   }
   // Remove the daily contest problem
   problems.shift();
+
+  await categorizeProblems(page, problems);
 
   // Close the opened chromium browser
   await browser.close();
