@@ -149,7 +149,7 @@ function processProblems(html) {
 async function categorizeProblems(page, problems) {
   //   The specialized category of the problems and how many pages they take up in the site
   const problemsCategory = [
-    { name: "algorithms", pageCount: 5 },
+    { name: "algorithms", pageCount: 50 },
     { name: "database", pageCount: 5 },
     { name: "javascript", pageCount: 2 },
     { name: "shell", pageCount: 1 },
@@ -223,7 +223,7 @@ async function writeProblemsToFile(problems) {
   const problems = [];
 
   // Iterate over all of the problem pages
-  for (i = 1; i <= 5; i++) {
+  for (i = 1; i <= 56; i++) {
     console.log(`Processing ${i}th page of all problems`);
 
     // Use dependency injection in the getHTML function
