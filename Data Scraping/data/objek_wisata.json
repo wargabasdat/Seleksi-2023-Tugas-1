@@ -1,1451 +1,1338 @@
 [
      {
-          "Peringkat": "1",
+          "Peringkat": 1,
           "Nama_Objek": "Istana Pagaruyung",
           "Jenis_Objek": "Bangunan Arsitektur",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "4.5",
           "Jumlah_Ulasan": "366"
      },
      {
-          "Peringkat": "2",
+          "Peringkat": 2,
           "Nama_Objek": "Jam Gadang Bukittinggi ",
           "Jenis_Objek": "Monumen & Patung",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "4.0",
           "Jumlah_Ulasan": "659"
      },
      {
-          "Peringkat": "3",
+          "Peringkat": 3,
           "Nama_Objek": "Air Terjun Lembah Anai",
           "Jenis_Objek": "Air Terjun",
+          "Daerah Objek": "Padang",
           "Rating": "4.0",
           "Jumlah_Ulasan": "336"
      },
      {
-          "Peringkat": "4",
+          "Peringkat": 4,
           "Nama_Objek": "Lembah Harau",
           "Jenis_Objek": "Ngarai",
+          "Daerah Objek": "Payakumbuh",
           "Rating": "4.5",
           "Jumlah_Ulasan": "202"
      },
      {
-          "Peringkat": "5",
+          "Peringkat": 5,
           "Nama_Objek": "Wisata pulau pagang",
           "Jenis_Objek": "Pulau",
+          "Daerah Objek": "Padang",
           "Rating": "4.5",
           "Jumlah_Ulasan": "120"
      },
      {
-          "Peringkat": "6",
+          "Peringkat": 6,
           "Nama_Objek": "Danau Meninjau",
           "Jenis_Objek": "Perairan",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "4.0",
           "Jumlah_Ulasan": "364"
      },
      {
-          "Peringkat": "7",
+          "Peringkat": 7,
           "Nama_Objek": "Gunung Marapi",
           "Jenis_Objek": "Gunung Berapi",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "4.5",
           "Jumlah_Ulasan": "89"
      },
      {
-          "Peringkat": "8",
+          "Peringkat": 8,
           "Nama_Objek": "Kelok Sembilan",
           "Jenis_Objek": "Tempat Menarik & Tengara",
+          "Daerah Objek": "Payakumbuh",
           "Rating": "4.0",
           "Jumlah_Ulasan": "119"
      },
      {
-          "Peringkat": "9",
+          "Peringkat": 9,
           "Nama_Objek": "Ngarai Sianok",
           "Jenis_Objek": "Ngarai",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "4.0",
           "Jumlah_Ulasan": "345"
      },
      {
-          "Peringkat": "10",
+          "Peringkat": 10,
           "Nama_Objek": "Puncak Lawang",
           "Jenis_Objek": "Tempat Menarik & Tengara, Area Pengamatan",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "4.5",
           "Jumlah_Ulasan": "77"
      },
      {
-          "Peringkat": "11",
+          "Peringkat": 11,
           "Nama_Objek": "Masjid Raya Sumatera Barat",
           "Jenis_Objek": "Bangunan Arsitektur, Tempat Keagamaan",
+          "Daerah Objek": "Padang",
           "Rating": "4.5",
           "Jumlah_Ulasan": "57"
      },
      {
-          "Peringkat": "12",
+          "Peringkat": 12,
           "Nama_Objek": "Pulau Mandeh",
           "Jenis_Objek": "Pulau",
+          "Daerah Objek": "Mandeh",
           "Rating": "4.5",
           "Jumlah_Ulasan": "29"
      },
      {
-          "Peringkat": "13",
+          "Peringkat": 13,
           "Nama_Objek": "Goa Jepang",
           "Jenis_Objek": "Gua Bawah Tanah& Gua",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "4.0",
           "Jumlah_Ulasan": "212"
      },
      {
-          "Peringkat": "14",
+          "Peringkat": 14,
           "Nama_Objek": "Pantai Air Manis",
           "Jenis_Objek": "Pantai",
+          "Daerah Objek": "Padang",
           "Rating": "3.5",
           "Jumlah_Ulasan": "258"
      },
      {
-          "Peringkat": "15",
+          "Peringkat": 15,
           "Nama_Objek": "Danau Singkarak",
           "Jenis_Objek": "Perairan",
+          "Daerah Objek": "Solok",
           "Rating": "3.5",
           "Jumlah_Ulasan": "104"
      },
      {
-          "Peringkat": "16",
+          "Peringkat": 16,
           "Nama_Objek": "Pulau Sikuai",
           "Jenis_Objek": "Pulau",
+          "Daerah Objek": "Padang",
           "Rating": "4.0",
           "Jumlah_Ulasan": "60"
      },
      {
-          "Peringkat": "17",
+          "Peringkat": 17,
           "Nama_Objek": "Pantai Padang Taplau",
           "Jenis_Objek": "Pantai",
+          "Daerah Objek": "Padang",
           "Rating": "3.5",
           "Jumlah_Ulasan": "220"
      },
      {
-          "Peringkat": "18",
+          "Peringkat": 18,
           "Nama_Objek": "Museum Adityawarman",
           "Jenis_Objek": "Museum Benda Khusus",
+          "Daerah Objek": "Padang",
           "Rating": "4.0",
           "Jumlah_Ulasan": "110"
      },
      {
-          "Peringkat": "19",
+          "Peringkat": 19,
           "Nama_Objek": "Pulau Pasumpahan",
           "Jenis_Objek": "Pulau",
+          "Daerah Objek": "Padang",
           "Rating": "4.5",
           "Jumlah_Ulasan": "56"
      },
      {
-          "Peringkat": "20",
+          "Peringkat": 20,
           "Nama_Objek": "Kampung Cina",
           "Jenis_Objek": "Tempat Menarik & Tengara",
+          "Daerah Objek": "Padang",
           "Rating": "4.0",
           "Jumlah_Ulasan": "63"
      },
      {
-          "Peringkat": "21",
+          "Peringkat": 21,
           "Nama_Objek": "Pulau Pamutusan",
           "Jenis_Objek": "Pulau",
+          "Daerah Objek": "Padang",
           "Rating": "4.5",
           "Jumlah_Ulasan": "30"
      },
      {
-          "Peringkat": "22",
+          "Peringkat": 22,
           "Nama_Objek": "Pantai Carocok Painan",
           "Jenis_Objek": "Pantai",
+          "Daerah Objek": "Painan",
           "Rating": "4.0",
           "Jumlah_Ulasan": "58"
      },
      {
-          "Peringkat": "23",
+          "Peringkat": 23,
           "Nama_Objek": "Koto Gadang",
           "Jenis_Objek": "Tempat Menarik & Tengara",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "3.5",
           "Jumlah_Ulasan": "89"
      },
      {
-          "Peringkat": "24",
+          "Peringkat": 24,
           "Nama_Objek": "Taman  Nasional Kerinci Seblat",
           "Jenis_Objek": "Taman Nasional, Taman",
+          "Daerah Objek": "West Sumatra",
           "Rating": "4.5",
           "Jumlah_Ulasan": "18"
      },
      {
-          "Peringkat": "25",
+          "Peringkat": 25,
           "Nama_Objek": "Lubuk Nyarai",
           "Jenis_Objek": "Perairan",
+          "Daerah Objek": "Padang",
           "Rating": "4.5",
           "Jumlah_Ulasan": "16"
      },
      {
-          "Peringkat": "26",
+          "Peringkat": 26,
           "Nama_Objek": "Nagari Tuo Pariangan",
           "Jenis_Objek": "Tempat Menarik & Tengara",
+          "Daerah Objek": "Batusangkar",
           "Rating": "4.5",
           "Jumlah_Ulasan": "17"
      },
      {
-          "Peringkat": "27",
+          "Peringkat": 27,
           "Nama_Objek": "Pantai Suwarnadwipa",
           "Jenis_Objek": "Pantai",
+          "Daerah Objek": "Bungus",
           "Rating": "4.0",
           "Jumlah_Ulasan": "25"
      },
      {
-          "Peringkat": "28",
+          "Peringkat": 28,
+          "Nama_Objek": "Alek Pacu Jawi",
+          "Jenis_Objek": "Acara Budaya",
+          "Daerah Objek": "Payakumbuh",
+          "Rating": "4.5",
+          "Jumlah_Ulasan": "8"
+     },
+     {
+          "Peringkat": 29,
           "Nama_Objek": "Padang Mengatas",
           "Jenis_Objek": "Peternakan",
+          "Daerah Objek": "Payakumbuh",
           "Rating": "4.5",
           "Jumlah_Ulasan": "13"
      },
      {
-          "Peringkat": "29",
+          "Peringkat": 30,
           "Nama_Objek": "Jenjang Seribu",
           "Jenis_Objek": "Tempat Menarik & Tengara",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "4.0",
           "Jumlah_Ulasan": "33"
      },
      {
-          "Peringkat": "30",
+          "Peringkat": 31,
           "Nama_Objek": "Pantai Bungus",
           "Jenis_Objek": "Pantai",
+          "Daerah Objek": "Padang",
           "Rating": "3.5",
           "Jumlah_Ulasan": "29"
      },
      {
-          "Peringkat": "31",
+          "Peringkat": 32,
           "Nama_Objek": "Ngalau Indah",
           "Jenis_Objek": "Gua Bawah Tanah& Gua",
+          "Daerah Objek": "Payakumbuh",
           "Rating": "4.0",
           "Jumlah_Ulasan": "19"
      },
      {
-          "Peringkat": "32",
+          "Peringkat": 33,
           "Nama_Objek": "Danau Diatas",
           "Jenis_Objek": "Perairan",
+          "Daerah Objek": "Painan",
           "Rating": "4.0",
           "Jumlah_Ulasan": "21"
      },
      {
-          "Peringkat": "33",
+          "Peringkat": 34,
           "Nama_Objek": "Museum Rumah Kelahiran Bung Hatta",
           "Jenis_Objek": "Museum Benda Khusus",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "4.0",
           "Jumlah_Ulasan": "36"
      },
      {
-          "Peringkat": "34",
+          "Peringkat": 35,
           "Nama_Objek": "Mandeh Sea Park",
           "Jenis_Objek": "Marina, Pulau",
+          "Daerah Objek": "West Sumatra",
           "Rating": "4.5",
           "Jumlah_Ulasan": "18"
      },
      {
-          "Peringkat": "35",
+          "Peringkat": 36,
           "Nama_Objek": "Kebun Teh Alahan Panjang",
           "Jenis_Objek": "Pertanian",
+          "Daerah Objek": "Solok",
           "Rating": "4.0",
           "Jumlah_Ulasan": "17"
      },
      {
-          "Peringkat": "36",
+          "Peringkat": 37,
           "Nama_Objek": "Pulau Sirandah",
           "Jenis_Objek": "Pulau",
+          "Daerah Objek": "Padang",
           "Rating": "4.0",
           "Jumlah_Ulasan": "9"
      },
      {
-          "Peringkat": "37",
+          "Peringkat": 38,
           "Nama_Objek": "Teluk Bayur",
           "Jenis_Objek": "Pelabuhan & Jalan Kayu",
+          "Daerah Objek": "Padang",
           "Rating": "4.5",
           "Jumlah_Ulasan": "8"
      },
      {
-          "Peringkat": "38",
+          "Peringkat": 39,
           "Nama_Objek": "Pandai Sikek",
           "Jenis_Objek": "Daerah Sekitar",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "4.5",
           "Jumlah_Ulasan": "11"
      },
      {
-          "Peringkat": "39",
+          "Peringkat": 40,
           "Nama_Objek": "Pusat Konservasi Batang Palupuh Alami (Taman Rafflesia)",
           "Jenis_Objek": "Area Wisata Alam& Taman Margasatwa",
+          "Daerah Objek": "Palupuh",
           "Rating": "4.5",
           "Jumlah_Ulasan": "12"
      },
      {
-          "Peringkat": "40",
+          "Peringkat": 41,
           "Nama_Objek": "Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau",
           "Jenis_Objek": "Museum Benda Khusus",
+          "Daerah Objek": "Padang",
           "Rating": "4.5",
           "Jumlah_Ulasan": "16"
      },
      {
-          "Peringkat": "41",
+          "Peringkat": 42,
           "Nama_Objek": "Pelabuhan Muaro",
           "Jenis_Objek": "Perairan",
+          "Daerah Objek": "Padang",
           "Rating": "3.5",
           "Jumlah_Ulasan": "61"
      },
      {
-          "Peringkat": "42",
+          "Peringkat": 43,
           "Nama_Objek": "Jembatan Limpapeh",
           "Jenis_Objek": "Jembatan",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "4.0",
           "Jumlah_Ulasan": "33"
      },
      {
-          "Peringkat": "43",
+          "Peringkat": 44,
           "Nama_Objek": "Pulau Angso Duo",
           "Jenis_Objek": "Pulau, Pantai",
+          "Daerah Objek": "Pariaman",
           "Rating": "4.0",
           "Jumlah_Ulasan": "19"
      },
      {
-          "Peringkat": "44",
+          "Peringkat": 45,
           "Nama_Objek": "Pantai Carolina",
           "Jenis_Objek": "Pantai",
+          "Daerah Objek": "Padang",
           "Rating": "3.5",
           "Jumlah_Ulasan": "32"
      },
      {
-          "Peringkat": "45",
+          "Peringkat": 46,
           "Nama_Objek": "Kepala Bandar",
           "Jenis_Objek": "Tempat Menarik & Tengara",
+          "Daerah Objek": "Payakumbuh",
           "Rating": "4.0",
           "Jumlah_Ulasan": "12"
      },
      {
-          "Peringkat": "46",
+          "Peringkat": 47,
           "Nama_Objek": "Masjid Raya Bukittinggi",
           "Jenis_Objek": "Tempat Keagamaan",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "4.0",
           "Jumlah_Ulasan": "17"
      },
      {
-          "Peringkat": "47",
+          "Peringkat": 48,
           "Nama_Objek": "Benteng Fort de Kock",
           "Jenis_Objek": "Tempat Menarik & Tengara",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "3.0",
           "Jumlah_Ulasan": "140"
      },
      {
-          "Peringkat": "48",
+          "Peringkat": 49,
           "Nama_Objek": "Pantai Muaro Lasak",
           "Jenis_Objek": "Pantai",
+          "Daerah Objek": "Padang",
           "Rating": "4.0",
           "Jumlah_Ulasan": "17"
      },
      {
-          "Peringkat": "49",
+          "Peringkat": 50,
           "Nama_Objek": "Puncak Anai",
           "Jenis_Objek": "Tempat Menarik & Tengara, Taman",
+          "Daerah Objek": "Pariaman",
           "Rating": "4.0",
           "Jumlah_Ulasan": "10"
      },
      {
-          "Peringkat": "50",
+          "Peringkat": 51,
           "Nama_Objek": "Pantai Tiram",
           "Jenis_Objek": "Pantai",
+          "Daerah Objek": "Padang",
           "Rating": "4.0",
           "Jumlah_Ulasan": "15"
      },
      {
-          "Peringkat": "51",
-          "Nama_Objek": "Pemandian Tirta Alami",
-          "Jenis_Objek": "Kompleks Olahraga",
-          "Rating": "4.0",
-          "Jumlah_Ulasan": "17"
-     },
-     {
-          "Peringkat": "52",
+          "Peringkat": 52,
           "Nama_Objek": "Goedang Ransum",
           "Jenis_Objek": "Museum Benda Khusus",
+          "Daerah Objek": "Sawahlunto",
           "Rating": "4.0",
           "Jumlah_Ulasan": "18"
      },
      {
-          "Peringkat": "53",
+          "Peringkat": 53,
+          "Nama_Objek": "Pemandian Tirta Alami",
+          "Jenis_Objek": "Kompleks Olahraga",
+          "Daerah Objek": "Padang Pariaman",
+          "Rating": "4.0",
+          "Jumlah_Ulasan": "17"
+     },
+     {
+          "Peringkat": 54,
           "Nama_Objek": "Mifan Water Park & Resort",
           "Jenis_Objek": "Taman Hiburan, Taman Air",
+          "Daerah Objek": "Padang Panjang",
           "Rating": "4.0",
           "Jumlah_Ulasan": "13"
      },
      {
-          "Peringkat": "54",
+          "Peringkat": 55,
           "Nama_Objek": "Hole Mine Site Museum Mbah Suro & Infobox",
           "Jenis_Objek": "Museum Benda Khusus",
+          "Daerah Objek": "Sawahlunto",
           "Rating": "4.0",
           "Jumlah_Ulasan": "17"
      },
      {
-          "Peringkat": "55",
+          "Peringkat": 56,
           "Nama_Objek": "Taman Nasional Siberut",
           "Jenis_Objek": "Taman Nasional",
+          "Daerah Objek": "Siberut",
           "Rating": "5.0",
           "Jumlah_Ulasan": "4"
      },
      {
-          "Peringkat": "56",
-          "Nama_Objek": "Alek Pacu Jawi",
-          "Jenis_Objek": "Acara Budaya",
-          "Rating": "4.5",
-          "Jumlah_Ulasan": "8"
-     },
-     {
-          "Peringkat": "57",
+          "Peringkat": 57,
           "Nama_Objek": "Gunung Singgalang",
           "Jenis_Objek": "Pegunungan",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "4.0",
           "Jumlah_Ulasan": "12"
      },
      {
-          "Peringkat": "58",
+          "Peringkat": 58,
           "Nama_Objek": "Masjid Ulakan",
           "Jenis_Objek": "Tempat Menarik & Tengara",
+          "Daerah Objek": "Padang",
           "Rating": "4.5",
           "Jumlah_Ulasan": "9"
      },
      {
-          "Peringkat": "59",
+          "Peringkat": 59,
           "Nama_Objek": "Air Terjun Sarasah Gadut",
           "Jenis_Objek": "Air Terjun",
+          "Daerah Objek": "Padang",
           "Rating": "4.5",
           "Jumlah_Ulasan": "9"
      },
      {
-          "Peringkat": "60",
+          "Peringkat": 60,
           "Nama_Objek": "Kolam Renang Batang Tabik",
           "Jenis_Objek": "Kompleks Olahraga",
+          "Daerah Objek": "Payakumbuh",
           "Rating": "4.5",
           "Jumlah_Ulasan": "5"
      },
      {
-          "Peringkat": "61",
+          "Peringkat": 61,
           "Nama_Objek": "Janjang Saribu",
           "Jenis_Objek": "Area Bersejarah untuk Pejalan Kaki",
+          "Daerah Objek": "Agam",
           "Rating": "4.0",
           "Jumlah_Ulasan": "16"
      },
      {
-          "Peringkat": "62",
+          "Peringkat": 62,
           "Nama_Objek": "Masjid Taqwa Muhammadiyah",
           "Jenis_Objek": "Tempat Menarik & Tengara",
+          "Daerah Objek": "Padang",
           "Rating": "4.0",
           "Jumlah_Ulasan": "15"
      },
      {
-          "Peringkat": "63",
+          "Peringkat": 63,
           "Nama_Objek": "Kelok 44",
           "Jenis_Objek": "Wisata Mobil",
+          "Daerah Objek": "Maninjau",
           "Rating": "4.5",
           "Jumlah_Ulasan": "10"
      },
      {
-          "Peringkat": "64",
+          "Peringkat": 64,
           "Nama_Objek": "Bukit Nobita",
           "Jenis_Objek": "Area Pengamatan",
+          "Daerah Objek": "Padang",
           "Rating": "4.0",
           "Jumlah_Ulasan": "17"
      },
      {
-          "Peringkat": "65",
+          "Peringkat": 65,
           "Nama_Objek": "Taman Nirwana",
           "Jenis_Objek": "Taman",
+          "Daerah Objek": "Padang",
           "Rating": "3.5",
           "Jumlah_Ulasan": "16"
      },
      {
-          "Peringkat": "66",
+          "Peringkat": 66,
           "Nama_Objek": "Lubuk Minturun",
           "Jenis_Objek": "Pertanian",
+          "Daerah Objek": "Padang",
           "Rating": "4.0",
           "Jumlah_Ulasan": "7"
      },
      {
-          "Peringkat": "67",
+          "Peringkat": 67,
           "Nama_Objek": "Jembatan Siti Nurbaya",
           "Jenis_Objek": "Tempat Menarik & Tengara, Jembatan",
+          "Daerah Objek": "Padang",
           "Rating": "4.0",
           "Jumlah_Ulasan": "16"
      },
      {
-          "Peringkat": "68",
+          "Peringkat": 68,
           "Nama_Objek": "Sungai Kapalo Banda Taram",
           "Jenis_Objek": "Perairan",
+          "Daerah Objek": "Payakumbuh",
           "Rating": "4.0",
           "Jumlah_Ulasan": "6"
      },
      {
-          "Peringkat": "69",
+          "Peringkat": 69,
           "Nama_Objek": "Hutan Lindung Bung Hatta",
           "Jenis_Objek": "Area Wisata Alam& Taman Margasatwa",
+          "Daerah Objek": "Padang",
           "Rating": "4.0",
           "Jumlah_Ulasan": "8"
      },
      {
-          "Peringkat": "70",
+          "Peringkat": 70,
           "Nama_Objek": "Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau",
           "Jenis_Objek": "Museum Benda Khusus",
+          "Daerah Objek": "Padang Panjang",
           "Rating": "4.5",
           "Jumlah_Ulasan": "4"
      },
      {
-          "Peringkat": "71",
+          "Peringkat": 71,
           "Nama_Objek": "Rumah Puisi Taufiq Ismail",
           "Jenis_Objek": "Museum Kesenian",
+          "Daerah Objek": "Padang Panjang",
           "Rating": "4.5",
           "Jumlah_Ulasan": "6"
      },
      {
-          "Peringkat": "72",
+          "Peringkat": 72,
           "Nama_Objek": "Basko Grand Mall",
           "Jenis_Objek": "Tempat Belanja",
+          "Daerah Objek": "Padang",
           "Rating": "3.0",
           "Jumlah_Ulasan": "19"
      },
      {
-          "Peringkat": "73",
+          "Peringkat": 73,
           "Nama_Objek": "Museum Perjuangan Tri Daya Eka Dharma",
           "Jenis_Objek": "Museum Sejarah",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "4.5",
           "Jumlah_Ulasan": "7"
      },
      {
-          "Peringkat": "74",
+          "Peringkat": 74,
           "Nama_Objek": "Batu Malin Kundang",
           "Jenis_Objek": "Tempat Menarik & Tengara, Tempat Misterius",
+          "Daerah Objek": "Padang",
           "Rating": "3.5",
           "Jumlah_Ulasan": "11"
      },
      {
-          "Peringkat": "75",
+          "Peringkat": 75,
           "Nama_Objek": "Danau Kandi",
           "Jenis_Objek": "Perairan",
+          "Daerah Objek": "Sawahlunto",
           "Rating": "4.5",
           "Jumlah_Ulasan": "5"
      },
      {
-          "Peringkat": "76",
+          "Peringkat": 76,
           "Nama_Objek": "Air Terjun Kulu Kubuk",
           "Jenis_Objek": "Air Terjun",
+          "Daerah Objek": "Siberut",
           "Rating": "5.0",
           "Jumlah_Ulasan": "3"
      },
      {
-          "Peringkat": "77",
+          "Peringkat": 77,
           "Nama_Objek": "Museum Kereta Api Sawahlunto",
           "Jenis_Objek": "Museum Benda Khusus",
+          "Daerah Objek": "Sawahlunto",
           "Rating": "3.5",
           "Jumlah_Ulasan": "15"
      },
      {
-          "Peringkat": "78",
+          "Peringkat": 78,
           "Nama_Objek": "Taman Marga Satwa Budaya Kinantan",
           "Jenis_Objek": "Kebun Binatang",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "3.0",
           "Jumlah_Ulasan": "39"
      },
      {
-          "Peringkat": "79",
+          "Peringkat": 79,
           "Nama_Objek": "Puncak Langkisau",
           "Jenis_Objek": "Area Pengamatan",
+          "Daerah Objek": "Painan",
           "Rating": "4.5",
           "Jumlah_Ulasan": "6"
      },
      {
-          "Peringkat": "80",
+          "Peringkat": 80,
           "Nama_Objek": "Air Terjun Lubuk Hitam",
           "Jenis_Objek": "Air Terjun",
+          "Daerah Objek": "Padang",
           "Rating": "4.0",
           "Jumlah_Ulasan": "6"
      },
      {
-          "Peringkat": "81",
+          "Peringkat": 81,
           "Nama_Objek": "Monumen Bung Hatta",
           "Jenis_Objek": "Tempat Menarik & Tengara, Monumen & Patung",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "4.0",
           "Jumlah_Ulasan": "10"
      },
      {
-          "Peringkat": "82",
+          "Peringkat": 82,
           "Nama_Objek": "Pantai Gandoriah",
           "Jenis_Objek": "Pantai",
+          "Daerah Objek": "Pariaman",
           "Rating": "4.5",
           "Jumlah_Ulasan": "7"
      },
      {
-          "Peringkat": "83",
+          "Peringkat": 83,
           "Nama_Objek": "Jembatan Akar",
           "Jenis_Objek": "Tempat Menarik & Tengara, Bangunan Arsitektur",
+          "Daerah Objek": "South Pesisir",
           "Rating": "4.5",
           "Jumlah_Ulasan": "7"
      },
      {
-          "Peringkat": "84",
+          "Peringkat": 84,
           "Nama_Objek": "Batu Batikam",
           "Jenis_Objek": "Tempat Menarik & Tengara",
+          "Daerah Objek": "Batusangkar",
           "Rating": "4.0",
           "Jumlah_Ulasan": "6"
      },
      {
-          "Peringkat": "85",
+          "Peringkat": 85,
           "Nama_Objek": "Makam Muhammad Yamin",
           "Jenis_Objek": "Pemakaman",
+          "Daerah Objek": "Sawahlunto",
           "Rating": "4.0",
           "Jumlah_Ulasan": "6"
      },
      {
-          "Peringkat": "86",
+          "Peringkat": 86,
           "Nama_Objek": "Lubuk Cimantung",
           "Jenis_Objek": "Bendungan",
+          "Daerah Objek": "Pariaman",
           "Rating": "4.5",
           "Jumlah_Ulasan": "5"
      },
      {
-          "Peringkat": "87",
+          "Peringkat": 87,
           "Nama_Objek": "Nagari 1000 Rumah Gadang",
           "Jenis_Objek": "Daerah Sekitar, Tempat Menarik & Tengara",
+          "Daerah Objek": "Solok",
           "Rating": "4.5",
           "Jumlah_Ulasan": "4"
      },
      {
-          "Peringkat": "88",
+          "Peringkat": 88,
           "Nama_Objek": "Museum Rumah Kelahiran Buya Hamka",
           "Jenis_Objek": "Museum Benda Khusus",
+          "Daerah Objek": "Nagari Sungai Pinang",
           "Rating": "4.5",
           "Jumlah_Ulasan": "4"
      },
      {
-          "Peringkat": "89",
+          "Peringkat": 89,
           "Nama_Objek": "Tabek Gadang",
           "Jenis_Objek": "Perairan",
+          "Daerah Objek": "Agam",
           "Rating": "4.0",
           "Jumlah_Ulasan": "6"
      },
      {
-          "Peringkat": "90",
-          "Nama_Objek": "Puncak Polan",
-          "Jenis_Objek": "Pegunungan",
-          "Rating": "4.5",
-          "Jumlah_Ulasan": "5"
-     },
-     {
-          "Peringkat": "91",
+          "Peringkat": 90,
           "Nama_Objek": "Pantai Ketaping",
           "Jenis_Objek": "Pantai",
+          "Daerah Objek": "Padang",
           "Rating": "4.0",
           "Jumlah_Ulasan": "5"
      },
      {
-          "Peringkat": "92",
+          "Peringkat": 91,
+          "Nama_Objek": "Puncak Polan",
+          "Jenis_Objek": "Pegunungan",
+          "Daerah Objek": "Sawahlunto",
+          "Rating": "4.5",
+          "Jumlah_Ulasan": "5"
+     },
+     {
+          "Peringkat": 92,
           "Nama_Objek": "Kincir Air Talawi",
           "Jenis_Objek": "Tempat Menarik & Tengara",
+          "Daerah Objek": "Sawahlunto",
           "Rating": "4.5",
           "Jumlah_Ulasan": "4"
      },
      {
-          "Peringkat": "93",
+          "Peringkat": 93,
           "Nama_Objek": "Masjid Raya Bayur",
           "Jenis_Objek": "Tempat Menarik & Tengara",
+          "Daerah Objek": "Agam",
           "Rating": "4.5",
           "Jumlah_Ulasan": "4"
      },
      {
-          "Peringkat": "94",
+          "Peringkat": 94,
           "Nama_Objek": "Lubuak Tempurung",
           "Jenis_Objek": "Area Wisata Alam& Taman Margasatwa",
+          "Daerah Objek": "Padang",
           "Rating": "4.0",
           "Jumlah_Ulasan": "4"
      },
      {
-          "Peringkat": "95",
+          "Peringkat": 95,
           "Nama_Objek": "Sungai Belimbing",
           "Jenis_Objek": "Perairan",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "3.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "96",
+          "Peringkat": 96,
           "Nama_Objek": "Jambak Sea Turtle Camp",
           "Jenis_Objek": "Area Wisata Alam& Taman Margasatwa",
+          "Daerah Objek": "Padang",
           "Rating": "5.0",
           "Jumlah_Ulasan": "2"
      },
      {
-          "Peringkat": "97",
+          "Peringkat": 97,
           "Nama_Objek": "Bukit Cambai",
           "Jenis_Objek": "Area Pengamatan, Jalur Lintas Alam",
+          "Daerah Objek": "Solok",
           "Rating": "4.5",
           "Jumlah_Ulasan": "2"
      },
      {
-          "Peringkat": "98",
-          "Nama_Objek": "Mesjid Tuo Belimbing",
-          "Jenis_Objek": "Tempat Keagamaan",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "99",
+          "Peringkat": 98,
           "Nama_Objek": "Bukit Sirih",
           "Jenis_Objek": "Area Pengamatan, Area Indah Pejalan Kaki",
+          "Daerah Objek": "Pariaman",
           "Rating": "5.0",
           "Jumlah_Ulasan": "2"
      },
      {
-          "Peringkat": "100",
+          "Peringkat": 99,
           "Nama_Objek": "Gunung Tandikat",
           "Jenis_Objek": "Pegunungan",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "4.0",
           "Jumlah_Ulasan": "4"
      },
      {
-          "Peringkat": "101",
+          "Peringkat": 100,
           "Nama_Objek": "Danau Tarusan Kamang",
           "Jenis_Objek": "Perairan",
+          "Daerah Objek": "Agam",
           "Rating": "4.0",
           "Jumlah_Ulasan": "4"
      },
      {
-          "Peringkat": "102",
+          "Peringkat": 101,
+          "Nama_Objek": "Rumah Tuo Kampai Nan Panjang",
+          "Jenis_Objek": "Tempat Menarik & Tengara",
+          "Daerah Objek": "Bukittinggi",
+          "Rating": "3.0",
+          "Jumlah_Ulasan": "1"
+     },
+     {
+          "Peringkat": 102,
           "Nama_Objek": "Air Terjun Batu Bersurat",
           "Jenis_Objek": "Air Terjun",
+          "Daerah Objek": "Pariaman",
           "Rating": "4.5",
           "Jumlah_Ulasan": "3"
      },
      {
-          "Peringkat": "103",
-          "Nama_Objek": "Rumah Tuo Kampai Nan Panjang",
-          "Jenis_Objek": "Tempat Menarik & Tengara",
-          "Rating": "3.0",
-          "Jumlah_Ulasan": "1"
-     },
-     {
-          "Peringkat": "104",
+          "Peringkat": 103,
           "Nama_Objek": "Pantai Kata",
           "Jenis_Objek": "Pantai",
+          "Daerah Objek": "Pariaman",
           "Rating": "4.0",
           "Jumlah_Ulasan": "6"
      },
      {
-          "Peringkat": "105",
+          "Peringkat": 104,
           "Nama_Objek": "Kincir Air Tradisional",
           "Jenis_Objek": "Tempat Menarik & Tengara",
+          "Daerah Objek": "Sawahlunto",
           "Rating": "5.0",
           "Jumlah_Ulasan": "2"
      },
      {
-          "Peringkat": "106",
+          "Peringkat": 105,
           "Nama_Objek": "Pulau Sironjong",
           "Jenis_Objek": "Pulau",
+          "Daerah Objek": "Padang",
           "Rating": "5.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "107",
+          "Peringkat": 106,
           "Nama_Objek": "Pulau Karang",
           "Jenis_Objek": "Pulau, Pantai",
+          "Daerah Objek": "Pagai Utara",
           "Rating": "4.0",
           "Jumlah_Ulasan": "2"
      },
      {
-          "Peringkat": "108",
+          "Peringkat": 107,
+          "Nama_Objek": "Konservasi Penyu Kota Pariaman",
+          "Jenis_Objek": "Area Wisata Alam& Taman Margasatwa",
+          "Daerah Objek": "Pariaman",
+          "Rating": "4.5",
+          "Jumlah_Ulasan": "2"
+     },
+     {
+          "Peringkat": 108,
           "Nama_Objek": "Gereja Katolik Santa Barbara Sawahlunto",
           "Jenis_Objek": "Tempat Menarik & Tengara",
+          "Daerah Objek": "Sawahlunto",
           "Rating": "3.5",
           "Jumlah_Ulasan": "3"
      },
      {
-          "Peringkat": "109",
-          "Nama_Objek": "Konservasi Penyu Kota Pariaman",
-          "Jenis_Objek": "Area Wisata Alam& Taman Margasatwa",
-          "Rating": "4.5",
-          "Jumlah_Ulasan": "2"
-     },
-     {
-          "Peringkat": "110",
+          "Peringkat": 109,
           "Nama_Objek": "Air Terjun Baburai",
           "Jenis_Objek": "Air Terjun",
+          "Daerah Objek": "Padang",
           "Rating": "4.0",
           "Jumlah_Ulasan": "3"
      },
      {
-          "Peringkat": "111",
+          "Peringkat": 110,
           "Nama_Objek": "Shoot - Pool Lounge & Sport Bar",
           "Jenis_Objek": "Kompleks Olahraga",
+          "Daerah Objek": "Pagai Utara",
           "Rating": "5.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "112",
+          "Peringkat": 111,
           "Nama_Objek": "Airport Raillink Service",
           "Jenis_Objek": "Sistem Transportasi Umum",
+          "Daerah Objek": "Padang",
           "Rating": "5.0",
           "Jumlah_Ulasan": "2"
      },
      {
-          "Peringkat": "113",
+          "Peringkat": 112,
           "Nama_Objek": "Air Terjun Ngungun Saok",
           "Jenis_Objek": "Air Terjun",
+          "Daerah Objek": "Padang",
           "Rating": "5.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "114",
+          "Peringkat": 113,
           "Nama_Objek": "Pantai Carocok",
           "Jenis_Objek": "Pantai",
+          "Daerah Objek": "Painan",
           "Rating": "4.0",
           "Jumlah_Ulasan": "4"
      },
      {
-          "Peringkat": "115",
+          "Peringkat": 114,
           "Nama_Objek": "Rumah Gadang Tuanku Lareh St",
           "Jenis_Objek": "Tempat Bersejarah",
+          "Daerah Objek": "Agam",
           "Rating": "5.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "116",
+          "Peringkat": 115,
           "Nama_Objek": "Sandiang Gagoan",
           "Jenis_Objek": "Ngarai, Area Pengamatan",
+          "Daerah Objek": "Solok",
           "Rating": "4.0",
           "Jumlah_Ulasan": "4"
      },
      {
-          "Peringkat": "117",
-          "Nama_Objek": "Suliki Gunung Emas",
-          "Jenis_Objek": "Tempat Bersejarah, Tempat Menarik & Tengara",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "118",
+          "Peringkat": 116,
           "Nama_Objek": "Pulau kasiak",
           "Jenis_Objek": "Pulau",
+          "Daerah Objek": "Pariaman",
           "Rating": "4.0",
           "Jumlah_Ulasan": "2"
      },
      {
-          "Peringkat": "119",
+          "Peringkat": 117,
           "Nama_Objek": "Monumen Merpati Perdamaian",
           "Jenis_Objek": "Monumen & Patung",
+          "Daerah Objek": "Padang",
           "Rating": "5.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "120",
+          "Peringkat": 118,
           "Nama_Objek": "Mentawai Tribe Tour",
           "Jenis_Objek": "Tur Budaya, Tur Ekologi",
+          "Daerah Objek": "Padang",
           "Rating": "5.0",
           "Jumlah_Ulasan": "80"
      },
      {
-          "Peringkat": "121",
+          "Peringkat": 119,
           "Nama_Objek": "Danau Biru Sawahlunto",
           "Jenis_Objek": "Perairan",
+          "Daerah Objek": "Sawahlunto",
           "Rating": "4.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "122",
+          "Peringkat": 120,
           "Nama_Objek": "Air Terjun Titian Puti (Nyarai)",
           "Jenis_Objek": "Perairan, Hutan",
+          "Daerah Objek": "Pariaman",
           "Rating": "4.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "123",
+          "Peringkat": 121,
           "Nama_Objek": "Taman Green Lezatta",
           "Jenis_Objek": "Tempat Menarik & Tengara",
+          "Daerah Objek": "Agam",
           "Rating": "4.0",
           "Jumlah_Ulasan": "2"
      },
      {
-          "Peringkat": "124",
+          "Peringkat": 122,
           "Nama_Objek": "Puncak Payo Rapuih",
           "Jenis_Objek": "Jalur Lintas Alam, Area Indah Pejalan Kaki",
+          "Daerah Objek": "Padang Panjang",
           "Rating": "4.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "125",
+          "Peringkat": 123,
           "Nama_Objek": "Masjid Agung Nurul Islam",
           "Jenis_Objek": "Tempat Menarik & Tengara",
+          "Daerah Objek": "Sawahlunto",
           "Rating": "4.0",
           "Jumlah_Ulasan": "2"
      },
      {
-          "Peringkat": "126",
+          "Peringkat": 124,
           "Nama_Objek": "Puncak Happy",
           "Jenis_Objek": "Area Pengamatan, Jalur Lintas Alam",
+          "Daerah Objek": "Solok",
           "Rating": "5.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "127",
+          "Peringkat": 125,
           "Nama_Objek": "Pantai Labuang Baruak",
           "Jenis_Objek": "Pantai",
+          "Daerah Objek": "South Pesisir",
           "Rating": "5.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "128",
+          "Peringkat": 126,
           "Nama_Objek": "Sarasah Sungai Guntuang",
           "Jenis_Objek": "Air Terjun",
+          "Daerah Objek": "Palupuh",
           "Rating": "4.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "129",
+          "Peringkat": 127,
           "Nama_Objek": "Kebun Teh Mitra Kerinci",
           "Jenis_Objek": "Pertanian",
+          "Daerah Objek": "Solok",
           "Rating": "4.0",
           "Jumlah_Ulasan": "2"
      },
      {
-          "Peringkat": "130",
+          "Peringkat": 128,
           "Nama_Objek": "Padang Private Driver",
           "Jenis_Objek": "Tur Mandiri & Penyewaan Kendaraan",
+          "Daerah Objek": "Padang",
           "Rating": "5.0",
           "Jumlah_Ulasan": "109"
      },
      {
-          "Peringkat": "131",
+          "Peringkat": 129,
           "Nama_Objek": "Pulau Batu Nago",
           "Jenis_Objek": "Pulau, Pantai",
+          "Daerah Objek": "South Pesisir",
           "Rating": "4.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "132",
+          "Peringkat": 130,
           "Nama_Objek": "Teluk Air Putih",
           "Jenis_Objek": "Perairan",
+          "Daerah Objek": "Solok",
           "Rating": "4.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "133",
+          "Peringkat": 131,
           "Nama_Objek": "Museum Tuanku Imam Bonjol",
           "Jenis_Objek": "Museum Benda Khusus",
+          "Daerah Objek": "Bonjol",
           "Rating": "2.5",
           "Jumlah_Ulasan": "4"
      },
      {
-          "Peringkat": "134",
+          "Peringkat": 132,
           "Nama_Objek": "Pincuran Tujuh",
           "Jenis_Objek": "Air Terjun",
+          "Daerah Objek": "Padang",
           "Rating": "3.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "135",
+          "Peringkat": 133,
           "Nama_Objek": "Pasar Atas Bukittinggi",
           "Jenis_Objek": "Toko Barang Khusus & Suvenir",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "4.0",
           "Jumlah_Ulasan": "78"
      },
      {
-          "Peringkat": "136",
+          "Peringkat": 134,
           "Nama_Objek": "Danau Tomosu",
           "Jenis_Objek": "Perairan",
+          "Daerah Objek": "Sawahlunto",
           "Rating": "4.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "137",
-          "Nama_Objek": "Pantai Samudra (Taplau)",
-          "Jenis_Objek": "Pantai",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "138",
-          "Nama_Objek": "Taman Air Loebas Wisata",
-          "Jenis_Objek": "Taman Air",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "139",
-          "Nama_Objek": "Arau Mini Waterpark",
-          "Jenis_Objek": "Taman Air",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "140",
-          "Nama_Objek": "Pulau Cingkuak",
-          "Jenis_Objek": "Pulau, Pantai",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "141",
-          "Nama_Objek": "Air Terjun Tansi Ampek",
-          "Jenis_Objek": "Air Terjun",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "142",
+          "Peringkat": 135,
           "Nama_Objek": "Lite 'N' Easy Tour",
           "Jenis_Objek": "Tur Kota, Tur Budaya",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "5.0",
           "Jumlah_Ulasan": "123"
      },
      {
-          "Peringkat": "143",
-          "Nama_Objek": "Lubuk Bonta",
-          "Jenis_Objek": "Perairan",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "144",
-          "Nama_Objek": "Kawasan Wisata Mandeh",
-          "Jenis_Objek": "Area Wisata Alam& Taman Margasatwa",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "145",
-          "Nama_Objek": "Syaiful Tour Guide",
-          "Jenis_Objek": "Pantai",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "146",
-          "Nama_Objek": "Pantai Batu Kalang",
-          "Jenis_Objek": "Pantai",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "147",
+          "Peringkat": 136,
           "Nama_Objek": "Roni's Tours",
           "Jenis_Objek": "Tur Beberapa Hari, Tur Budaya",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "5.0",
           "Jumlah_Ulasan": "130"
      },
      {
-          "Peringkat": "148",
-          "Nama_Objek": "Mesjid Raya Bayur",
-          "Jenis_Objek": "Tempat Keagamaan",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "149",
-          "Nama_Objek": "Minangkabau Tour Travel",
-          "Jenis_Objek": "Pulau",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "150",
+          "Peringkat": 137,
           "Nama_Objek": "Mentawai Experience Tour",
           "Jenis_Objek": "Tur Budaya, Tur Tempat Bersejarah & Situs Warisan",
+          "Daerah Objek": "Padang",
           "Rating": "5.0",
           "Jumlah_Ulasan": "50"
      },
      {
-          "Peringkat": "151",
+          "Peringkat": 138,
           "Nama_Objek": "Lawang Park",
           "Jenis_Objek": "Pusat Permainan & Hiburan",
+          "Daerah Objek": "Agam",
           "Rating": "4.5",
           "Jumlah_Ulasan": "11"
      },
      {
-          "Peringkat": "152",
+          "Peringkat": 139,
           "Nama_Objek": "Kripik Balado Shirley",
           "Jenis_Objek": "Toko Barang Khusus & Suvenir",
+          "Daerah Objek": "Padang",
           "Rating": "3.5",
           "Jumlah_Ulasan": "20"
      },
      {
-          "Peringkat": "153",
+          "Peringkat": 140,
           "Nama_Objek": "Aie Angek Bukik Gadang",
           "Jenis_Objek": "Spa Air Panas",
+          "Daerah Objek": "Solok",
           "Rating": "5.0",
           "Jumlah_Ulasan": "3"
      },
      {
-          "Peringkat": "154",
+          "Peringkat": 141,
           "Nama_Objek": "Batik Tanah Liek Citra Monalisa",
           "Jenis_Objek": "Toko Barang Khusus & Suvenir",
+          "Daerah Objek": "Padang",
           "Rating": "5.0",
           "Jumlah_Ulasan": "2"
      },
      {
-          "Peringkat": "155",
+          "Peringkat": 142,
           "Nama_Objek": "Kakiku Refleksi",
           "Jenis_Objek": "Spa",
+          "Daerah Objek": "Padang",
           "Rating": "3.0",
           "Jumlah_Ulasan": "5"
      },
      {
-          "Peringkat": "156",
+          "Peringkat": 143,
           "Nama_Objek": "Martha Tilaar Salon Day Spa",
           "Jenis_Objek": "Spa",
+          "Daerah Objek": "Padang",
           "Rating": "5.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "157",
+          "Peringkat": 144,
           "Nama_Objek": "Aie Angek Bukik Kili",
           "Jenis_Objek": "Spa Air Panas",
+          "Daerah Objek": "Solok",
           "Rating": "4.5",
           "Jumlah_Ulasan": "4"
      },
      {
-          "Peringkat": "158",
+          "Peringkat": 145,
           "Nama_Objek": "Komando Paintball & Cafe",
           "Jenis_Objek": "Pusat Permainan & Hiburan",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "4.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "159",
+          "Peringkat": 146,
           "Nama_Objek": "Kopi Kiniko",
           "Jenis_Objek": "Toko Barang Khusus & Suvenir",
+          "Daerah Objek": "Batusangkar",
           "Rating": "4.0",
           "Jumlah_Ulasan": "6"
      },
      {
-          "Peringkat": "160",
+          "Peringkat": 147,
           "Nama_Objek": "Minangkabau Adventures Tour",
           "Jenis_Objek": "Tur Kota, Tur Budaya",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "5.0",
           "Jumlah_Ulasan": "17"
      },
      {
-          "Peringkat": "161",
+          "Peringkat": 148,
           "Nama_Objek": "Samba Lado",
           "Jenis_Objek": "Tur Kota, Tur Beberapa Hari",
+          "Daerah Objek": "Padang",
           "Rating": "5.0",
           "Jumlah_Ulasan": "12"
      },
      {
-          "Peringkat": "162",
+          "Peringkat": 149,
           "Nama_Objek": "House Of Beauty And Spa",
           "Jenis_Objek": "Spa",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "3.0",
           "Jumlah_Ulasan": "2"
      },
      {
-          "Peringkat": "163",
-          "Nama_Objek": "Nusantara Coffee",
-          "Jenis_Objek": "Toko Barang Khusus & Suvenir",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "164",
+          "Peringkat": 150,
           "Nama_Objek": "Tungku Sanjai Amak Haji",
           "Jenis_Objek": "Toko Barang Khusus & Suvenir",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "5.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "165",
-          "Nama_Objek": "Kadu",
-          "Jenis_Objek": "Toko Barang Khusus & Suvenir",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "166",
-          "Nama_Objek": "Ali Baba Resto and Karaoke",
-          "Jenis_Objek": "Bar Karaoke",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "167",
+          "Peringkat": 151,
           "Nama_Objek": "PADANG DESTINATION",
           "Jenis_Objek": "Scuba & Snorkelling, Taksi & Layanan Antar Jemput",
+          "Daerah Objek": "Padang",
           "Rating": "5.0",
           "Jumlah_Ulasan": "19"
      },
      {
-          "Peringkat": "168",
-          "Nama_Objek": "RSIA Lenggogeni Padang",
-          "Jenis_Objek": "Pusat Kebugaran",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "169",
+          "Peringkat": 152,
           "Nama_Objek": "West Sumatra Traveler",
           "Jenis_Objek": "Tur Budaya, Tur Ekologi",
+          "Daerah Objek": "Padang",
           "Rating": "5.0",
           "Jumlah_Ulasan": "6"
      },
      {
-          "Peringkat": "170",
+          "Peringkat": 153,
           "Nama_Objek": "Duta Pesona",
           "Jenis_Objek": "Parasailing & Paralayang, Tur Budaya",
+          "Daerah Objek": "Padang",
           "Rating": "4.5",
           "Jumlah_Ulasan": "14"
      },
      {
-          "Peringkat": "171",
+          "Peringkat": 154,
           "Nama_Objek": "Matonagari",
           "Jenis_Objek": "Tur Kota, Tur Beberapa Hari",
+          "Daerah Objek": "Padang",
           "Rating": "5.0",
           "Jumlah_Ulasan": "4"
      },
      {
-          "Peringkat": "172",
+          "Peringkat": 155,
           "Nama_Objek": "Ricky Abdi Tour",
           "Jenis_Objek": "Tur Budaya, Tur Tamasya",
+          "Daerah Objek": "Padang Pariaman",
           "Rating": "5.0",
           "Jumlah_Ulasan": "14"
      },
      {
-          "Peringkat": "173",
+          "Peringkat": 156,
           "Nama_Objek": "Discover Mentawais",
           "Jenis_Objek": "Scuba & Snorkelling, Selancar & Selancar Angin",
+          "Daerah Objek": "Siberut",
           "Rating": "5.0",
           "Jumlah_Ulasan": "2"
      },
      {
-          "Peringkat": "174",
+          "Peringkat": 157,
           "Nama_Objek": "Sumatra Adventure",
           "Jenis_Objek": "Selancar & Selancar Angin, Tur Panjat Tebing",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "4.5",
           "Jumlah_Ulasan": "2"
      },
      {
-          "Peringkat": "175",
+          "Peringkat": 158,
           "Nama_Objek": "Habibie DelapanTour",
           "Jenis_Objek": "Tur Beberapa Hari, Taksi & Layanan Antar Jemput",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "5.0",
           "Jumlah_Ulasan": "5"
      },
      {
-          "Peringkat": "176",
+          "Peringkat": 159,
           "Nama_Objek": "Menyelam - Starocean",
           "Jenis_Objek": "Scuba & Snorkelling",
+          "Daerah Objek": "Padang",
           "Rating": "5.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "177",
+          "Peringkat": 160,
           "Nama_Objek": "Mentawai Tribe Journey with Wetravelinc",
           "Jenis_Objek": "Tur Beberapa Hari, Tur Pribadi",
+          "Daerah Objek": "Siberut",
           "Rating": "5.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "178",
+          "Peringkat": 161,
           "Nama_Objek": "Surf in Mentawais",
           "Jenis_Objek": "Tur Kapal, Menyewa Peralatan & Tur Memancing",
+          "Daerah Objek": "Siberut",
           "Rating": "5.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "179",
+          "Peringkat": 162,
           "Nama_Objek": "Platinum Holidays Indonesia",
           "Jenis_Objek": "Tur Pribadi",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "5.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "180",
+          "Peringkat": 163,
           "Nama_Objek": "Banto Royo",
           "Jenis_Objek": "Flying Fox & Taman Petualangan Atas Pohon",
+          "Daerah Objek": "Agam",
           "Rating": "3.5",
           "Jumlah_Ulasan": "4"
      },
      {
-          "Peringkat": "181",
+          "Peringkat": 164,
           "Nama_Objek": "Rizal Tour",
           "Jenis_Objek": "Tur Beberapa Hari, Taksi & Layanan Antar Jemput",
+          "Daerah Objek": "Bukittinggi",
           "Rating": "5.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "182",
-          "Nama_Objek": "Septia nini",
-          "Jenis_Objek": "Parasailing & Paralayang, Arung Jeram & Tubing",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "183",
+          "Peringkat": 165,
           "Nama_Objek": "Al Wafa Adventure",
           "Jenis_Objek": "Tur Budaya, Tur Panjat Tebing",
+          "Daerah Objek": "Padang",
           "Rating": "5.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "184",
-          "Nama_Objek": "Mentawai Surf Charters",
-          "Jenis_Objek": "Selancar & Selancar Angin, Taksi & Layanan Antar Jemput",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "185",
-          "Nama_Objek": "Khas Sumbar Tour Wisata",
-          "Jenis_Objek": "Tur Kota, Tur Budaya",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "186",
-          "Nama_Objek": "Honsen Batangeh",
-          "Jenis_Objek": "Tur Wisata Alam & Margasatwa",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "187",
-          "Nama_Objek": "Sumbar Outbound",
-          "Jenis_Objek": "Tur Kota, Arung Jeram & Tubing",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "188",
-          "Nama_Objek": "Mellowmood Surfshop",
-          "Jenis_Objek": "Tur Bar, Klub, & Pub, Tur Beberapa Hari",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "189",
-          "Nama_Objek": "Pintu Rimbo Adventure",
-          "Jenis_Objek": "Parasailing & Paralayang, Arung Jeram & Tubing",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "190",
-          "Nama_Objek": "Cm Travel",
-          "Jenis_Objek": "Tur Beberapa Hari, Taksi & Layanan Antar Jemput",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "191",
-          "Nama_Objek": "Blue Ocean Tour Island",
-          "Jenis_Objek": "Scuba & Snorkelling, Selancar & Selancar Angin",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "192",
-          "Nama_Objek": "Voyages d'Ailleurs",
-          "Jenis_Objek": "Tur Sepeda",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "193",
-          "Nama_Objek": "Cm Travel",
-          "Jenis_Objek": "Tur Beberapa Hari, Tur Budaya",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "194",
+          "Peringkat": 166,
           "Nama_Objek": "Rianzha Holiday",
           "Jenis_Objek": "Tur Kota, Tur Budaya",
+          "Daerah Objek": "Padang",
           "Rating": "5.0",
           "Jumlah_Ulasan": "1"
      },
      {
-          "Peringkat": "195",
+          "Peringkat": 167,
           "Nama_Objek": "Santa Lusia Boat",
           "Jenis_Objek": "Penyewaan Kapal",
+          "Daerah Objek": "Padang",
           "Rating": "2.0",
           "Jumlah_Ulasan": "1"
-     },
-     {
-          "Peringkat": "196",
-          "Nama_Objek": "Losmen Carlos Snorkeling",
-          "Jenis_Objek": "Scuba & Snorkelling",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "197",
-          "Nama_Objek": "Harby Tour",
-          "Jenis_Objek": "Tur Beberapa Hari, Tur Bus Wisata",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "198",
-          "Nama_Objek": "Let's Explore West Sumatra",
-          "Jenis_Objek": "Tur Budaya, Tur Ekologi",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "199",
-          "Nama_Objek": "Mentawai Cultural Travel",
-          "Jenis_Objek": "Tur Beberapa Hari, Tur Pribadi",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "200",
-          "Nama_Objek": "Arsaloka Tours",
-          "Jenis_Objek": "Tur Budaya, Tur Tamasya",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "201",
-          "Nama_Objek": "Wave Hunter Mentawai",
-          "Jenis_Objek": "Selancar & Selancar Angin",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "202",
-          "Nama_Objek": "Kasita Surf Playground",
-          "Jenis_Objek": "Selancar & Selancar Angin",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "203",
-          "Nama_Objek": "Surya Surf Charter",
-          "Jenis_Objek": "Tur Beberapa Hari, Tur Kapal",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "204",
-          "Nama_Objek": "Galigaman",
-          "Jenis_Objek": "Tur Pribadi",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "205",
-          "Nama_Objek": "Erik Tour Bukittingi",
-          "Jenis_Objek": "Tur Tamasya",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "206",
-          "Nama_Objek": "Erik Tour Bukittinggi",
-          "Jenis_Objek": "Tur Tamasya",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
-     },
-     {
-          "Peringkat": "207",
-          "Nama_Objek": "Ronis Tours",
-          "Jenis_Objek": "Tur Menuruni Air Terjun dan Tebing dengan Tali, Tur 4WD, ATV, & Off-Road",
-          "Rating": "",
-          "Jumlah_Ulasan": ""
      }
 ]
