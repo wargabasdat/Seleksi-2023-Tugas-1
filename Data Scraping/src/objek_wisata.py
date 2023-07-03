@@ -54,7 +54,7 @@ while (page <= 180) :
                 'Peringkat' : peringkat,
                 'Nama_Objek' : nama_objek,
                 'Jenis_Objek' : jenis_objek,
-                'Daerah Objek' : daerah_objek,
+                'Daerah_Objek' : daerah_objek,
                 'Rating' : rating,
                 'Jumlah_Ulasan' : jumlah_ulasan
             }
