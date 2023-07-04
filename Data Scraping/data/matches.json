@@ -1,172 +1,196 @@
 {
   "Matches": [
     {
+      "Team Code": "FUT",
       "Date": "2023-06-11",
-      "Team 1": "FUT Esports",
-      "Team 2": "Evil Geniuses",
-      "Team 1 Score": 0,
-      "Team 2 Score": 2
+      "Team": "FUT Esports",
+      "Opponent": "Evil Geniuses",
+      "Team Score": 0,
+      "Opponent Score": 2
     },
     {
+      "Team Code": "DRX",
       "Date": "2023-06-11",
-      "Team 1": "DRX",
-      "Team 2": "Attacking Soul Esports",
-      "Team 1 Score": 2,
-      "Team 2 Score": 0
+      "Team": "DRX",
+      "Opponent": "Attacking Soul Esports",
+      "Team Score": 2,
+      "Opponent Score": 0
     },
     {
+      "Team Code": "EDG",
       "Date": "2023-06-11",
-      "Team 1": "EDward Gaming",
-      "Team 2": "T1",
-      "Team 1 Score": 1,
-      "Team 2 Score": 2
+      "Team": "EDward Gaming",
+      "Opponent": "T1",
+      "Team Score": 1,
+      "Opponent Score": 2
     },
     {
+      "Team Code": "NRG",
       "Date": "2023-06-12",
-      "Team 1": "NRG Esports",
-      "Team 2": "Natus Vincere",
-      "Team 1 Score": 2,
-      "Team 2 Score": 1
+      "Team": "NRG Esports",
+      "Opponent": "Natus Vincere",
+      "Team Score": 2,
+      "Opponent Score": 1
     },
     {
+      "Team Code": "DRX",
       "Date": "2023-06-12",
-      "Team 1": "DRX",
-      "Team 2": "Evil Geniuses",
-      "Team 1 Score": 0,
-      "Team 2 Score": 2
+      "Team": "DRX",
+      "Opponent": "Evil Geniuses",
+      "Team Score": 0,
+      "Opponent Score": 2
     },
     {
+      "Team Code": "NRG",
       "Date": "2023-06-13",
-      "Team 1": "NRG Esports",
-      "Team 2": "T1",
-      "Team 1 Score": 2,
-      "Team 2 Score": 1
+      "Team": "NRG Esports",
+      "Opponent": "T1",
+      "Team Score": 2,
+      "Opponent Score": 1
     },
     {
+      "Team Code": "ASE",
       "Date": "2023-06-13",
-      "Team 1": "Attacking Soul Esports",
-      "Team 2": "FUT Esports",
-      "Team 1 Score": 1,
-      "Team 2 Score": 2
+      "Team": "Attacking Soul Esports",
+      "Opponent": "FUT Esports",
+      "Team Score": 1,
+      "Opponent Score": 2
     },
     {
+      "Team Code": "NAVI",
       "Date": "2023-06-13",
-      "Team 1": "Natus Vincere",
-      "Team 2": "EDward Gaming",
-      "Team 1 Score": 0,
-      "Team 2 Score": 2
+      "Team": "Natus Vincere",
+      "Opponent": "EDward Gaming",
+      "Team Score": 0,
+      "Opponent Score": 2
     },
     {
+      "Team Code": "DRX",
       "Date": "2023-06-14",
-      "Team 1": "DRX",
-      "Team 2": "FUT Esports",
-      "Team 1 Score": 2,
-      "Team 2 Score": 1
+      "Team": "DRX",
+      "Opponent": "FUT Esports",
+      "Team Score": 2,
+      "Opponent Score": 1
     },
     {
+      "Team Code": "T1",
       "Date": "2023-06-14",
-      "Team 1": "T1",
-      "Team 2": "EDward Gaming",
-      "Team 1 Score": 0,
-      "Team 2 Score": 2
+      "Team": "T1",
+      "Opponent": "EDward Gaming",
+      "Team Score": 0,
+      "Opponent Score": 2
     },
     {
+      "Team Code": "LOUD",
       "Date": "2023-06-16",
-      "Team 1": "LOUD",
-      "Team 2": "Evil Geniuses",
-      "Team 1 Score": 0,
-      "Team 2 Score": 2
+      "Team": "LOUD",
+      "Opponent": "Evil Geniuses",
+      "Team Score": 0,
+      "Opponent Score": 2
     },
     {
+      "Team Code": "TL",
       "Date": "2023-06-16",
-      "Team 1": "Team Liquid",
-      "Team 2": "EDward Gaming",
-      "Team 1 Score": 2,
-      "Team 2 Score": 1
+      "Team": "Team Liquid",
+      "Opponent": "EDward Gaming",
+      "Team Score": 2,
+      "Opponent Score": 1
     },
     {
+      "Team Code": "FNC",
       "Date": "2023-06-17",
-      "Team 1": "FNATIC",
-      "Team 2": "NRG Esports",
-      "Team 1 Score": 2,
-      "Team 2 Score": 0
+      "Team": "FNATIC",
+      "Opponent": "NRG Esports",
+      "Team Score": 2,
+      "Opponent Score": 0
     },
     {
+      "Team Code": "PRX",
       "Date": "2023-06-17",
-      "Team 1": "Paper Rex",
-      "Team 2": "DRX",
-      "Team 1 Score": 2,
-      "Team 2 Score": 0
+      "Team": "Paper Rex",
+      "Opponent": "DRX",
+      "Team Score": 2,
+      "Opponent Score": 0
     },
     {
+      "Team Code": "EDG",
       "Date": "2023-06-18",
-      "Team 1": "EDward Gaming",
-      "Team 2": "LOUD",
-      "Team 1 Score": 2,
-      "Team 2 Score": 0
+      "Team": "EDward Gaming",
+      "Opponent": "LOUD",
+      "Team Score": 2,
+      "Opponent Score": 0
     },
     {
+      "Team Code": "DRX",
       "Date": "2023-06-18",
-      "Team 1": "DRX",
-      "Team 2": "NRG Esports",
-      "Team 1 Score": 0,
-      "Team 2 Score": 2
+      "Team": "DRX",
+      "Opponent": "NRG Esports",
+      "Team Score": 0,
+      "Opponent Score": 2
     },
     {
+      "Team Code": "TL",
       "Date": "2023-06-19",
-      "Team 1": "Team Liquid",
-      "Team 2": "Evil Geniuses",
-      "Team 1 Score": 0,
-      "Team 2 Score": 2
+      "Team": "Team Liquid",
+      "Opponent": "Evil Geniuses",
+      "Team Score": 0,
+      "Opponent Score": 2
     },
     {
+      "Team Code": "PRX",
       "Date": "2023-06-19",
-      "Team 1": "Paper Rex",
-      "Team 2": "FNATIC",
-      "Team 1 Score": 0,
-      "Team 2 Score": 2
+      "Team": "Paper Rex",
+      "Opponent": "FNATIC",
+      "Team Score": 0,
+      "Opponent Score": 2
     },
     {
+      "Team Code": "TL",
       "Date": "2023-06-20",
-      "Team 1": "Team Liquid",
-      "Team 2": "NRG Esports",
-      "Team 1 Score": 1,
-      "Team 2 Score": 2
+      "Team": "Team Liquid",
+      "Opponent": "NRG Esports",
+      "Team Score": 1,
+      "Opponent Score": 2
     },
     {
+      "Team Code": "PRX",
       "Date": "2023-06-20",
-      "Team 1": "Paper Rex",
-      "Team 2": "EDward Gaming",
-      "Team 1 Score": 2,
-      "Team 2 Score": 1
+      "Team": "Paper Rex",
+      "Opponent": "EDward Gaming",
+      "Team Score": 2,
+      "Opponent Score": 1
     },
     {
+      "Team Code": "FNC",
       "Date": "2023-06-21",
-      "Team 1": "FNATIC",
-      "Team 2": "Evil Geniuses",
-      "Team 1 Score": 2,
-      "Team 2 Score": 1
+      "Team": "FNATIC",
+      "Opponent": "Evil Geniuses",
+      "Team Score": 2,
+      "Opponent Score": 1
     },
     {
+      "Team Code": "NRG",
       "Date": "2023-06-21",
-      "Team 1": "NRG Esports",
-      "Team 2": "Paper Rex",
-      "Team 1 Score": 1,
-      "Team 2 Score": 2
+      "Team": "NRG Esports",
+      "Opponent": "Paper Rex",
+      "Team Score": 1,
+      "Opponent Score": 2
     },
     {
+      "Team Code": "EG",
       "Date": "2023-06-24",
-      "Team 1": "Evil Geniuses",
-      "Team 2": "Paper Rex",
-      "Team 1 Score": 3,
-      "Team 2 Score": 2
+      "Team": "Evil Geniuses",
+      "Opponent": "Paper Rex",
+      "Team Score": 3,
+      "Opponent Score": 2
     },
     {
+      "Team Code": "FNC",
       "Date": "2023-06-25",
-      "Team 1": "FNATIC",
-      "Team 2": "Evil Geniuses",
-      "Team 1 Score": 3,
-      "Team 2 Score": 0
+      "Team": "FNATIC",
+      "Opponent": "Evil Geniuses",
+      "Team Score": 3,
+      "Opponent Score": 0
     }
   ]
 }

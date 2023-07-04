@@ -307,6 +307,32 @@ def match_scraper():
             # Acquiring the name of the second team in the match
             team2_cell = team1_cell.find_next('div', class_='text-of')
             team2_name = team2_cell.text.strip()
+            # Transforming the team name into team code
+            team_code = ""
+            if (team1_name == "FNATIC"):
+                team_code = "FNC"
+            elif (team1_name == "LOUD"):
+                team_code = "LOUD"
+            elif (team1_name == "Team Liquid"):
+                team_code = "TL"
+            elif (team1_name == "Paper Rex"):
+                team_code = "PRX"
+            elif (team1_name == "Evil Geniuses"):
+                team_code = "EG"
+            elif (team1_name == "NRG Esports"):
+                team_code = "NRG"
+            elif (team1_name == "DRX"):
+                team_code = "DRX"
+            elif (team1_name == "EDward Gaming"):
+                team_code = "EDG"
+            elif (team1_name == "FUT Esports"):
+                team_code = "FUT"
+            elif (team1_name == "Natus Vincere"):
+                team_code = "NAVI"
+            elif (team1_name == "T1"):
+                team_code = "T1"
+            elif (team1_name == "Attacking Soul Esports"):
+                team_code = "ASE"
             # Circumventing a hidden card that contains no match information
             if (team1_name != None):
                 found = True
@@ -317,11 +343,12 @@ def match_scraper():
                 score2 = int(score2_cell.text.strip())                              # Team 2's score
                 # Adding all the information into the dictionary
                 matches_dict["Matches"].append({
+                    "Team Code": team_code,
                     "Date": cur_date,
-                    "Team 1": team1_name,
-                    "Team 2": team2_name,
-                    "Team 1 Score": score1,
-                    "Team 2 Score": score2,
+                    "Team": team1_name,
+                    "Opponent": team2_name,
+                    "Team Score": score1,
+                    "Opponent Score": score2,
                 })
             else:
                 # Index is not incremented in this instance
@@ -343,13 +370,40 @@ def match_scraper():
             # Determining the score of the 2nd team
             score2_cell = score1_cell.find_next('div', class_='match-item-vs-team-score')
             score2 = int(score2_cell.text)
+            # Transforming the team name into team code
+            team_code = ""
+            if (team1_name == "FNATIC"):
+                team_code = "FNC"
+            elif (team1_name == "LOUD"):
+                team_code = "LOUD"
+            elif (team1_name == "Team Liquid"):
+                team_code = "TL"
+            elif (team1_name == "Paper Rex"):
+                team_code = "PRX"
+            elif (team1_name == "Evil Geniuses"):
+                team_code = "EG"
+            elif (team1_name == "NRG Esports"):
+                team_code = "NRG"
+            elif (team1_name == "DRX"):
+                team_code = "DRX"
+            elif (team1_name == "EDward Gaming"):
+                team_code = "EDG"
+            elif (team1_name == "FUT Esports"):
+                team_code = "FUT"
+            elif (team1_name == "Natus Vincere"):
+                team_code = "NAVI"
+            elif (team1_name == "T1"):
+                team_code = "T1"
+            elif (team1_name == "Attacking Soul Esports"):
+                team_code = "ASE"
             # Adding all the variables into the dictionary
             matches_dict["Matches"].append({
+                "Team Code": team_code,
                 "Date": cur_date,
-                "Team 1": team1_name,
-                "Team 2": team2_name,
-                "Team 1 Score": score1,
-                "Team 2 Score": score2,
+                "Team": team1_name,
+                "Opponent": team2_name,
+                "Team Score": score1,
+                "Opponent Score": score2,
             })
         if (found):
             # If a day for a match is found, the next date is chosen for the next loop iteration
