@@ -39,6 +39,8 @@ def get_drivers_standings(year):
         df.loc[length] = row
 
     # cleaning data
+    df.drop(df.columns[[0, 6]], axis=1, inplace=True)
+
     df['Driver'] = df['Driver'].replace('\n', ' ', regex=True)
     df['Driver'] = df['Driver'].str.lstrip()
     df['Driver'] = df['Driver'].str[:-6]
@@ -185,7 +187,7 @@ def get_quali_results(year, location, race_id):
     and returns the race results.
 
     """ 
-    year_int = year
+    year_int = int(year)
     fcn = lambda y: str(y) if type(y) == int else y # covert to string if integer
     year = fcn(year)
     race_id = fcn(race_id)

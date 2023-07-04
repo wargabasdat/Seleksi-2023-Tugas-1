@@ -1,0 +1,198 @@
+[
+  {
+    "Pos":"1",
+    "Driver":"Sebastian Vettel",
+    "Nationality":"GER",
+    "Car":"Red Bull Racing Renault",
+    "PTS":"392"
+  },
+  {
+    "Pos":"2",
+    "Driver":"Jenson Button",
+    "Nationality":"GBR",
+    "Car":"McLaren Mercedes",
+    "PTS":"270"
+  },
+  {
+    "Pos":"3",
+    "Driver":"Mark Webber",
+    "Nationality":"AUS",
+    "Car":"Red Bull Racing Renault",
+    "PTS":"258"
+  },
+  {
+    "Pos":"4",
+    "Driver":"Fernando Alonso",
+    "Nationality":"ESP",
+    "Car":"Ferrari",
+    "PTS":"257"
+  },
+  {
+    "Pos":"5",
+    "Driver":"Lewis Hamilton",
+    "Nationality":"GBR",
+    "Car":"McLaren Mercedes",
+    "PTS":"227"
+  },
+  {
+    "Pos":"6",
+    "Driver":"Felipe Massa",
+    "Nationality":"BRA",
+    "Car":"Ferrari",
+    "PTS":"118"
+  },
+  {
+    "Pos":"7",
+    "Driver":"Nico Rosberg",
+    "Nationality":"GER",
+    "Car":"Mercedes",
+    "PTS":"89"
+  },
+  {
+    "Pos":"8",
+    "Driver":"Michael Schumacher",
+    "Nationality":"GER",
+    "Car":"Mercedes",
+    "PTS":"76"
+  },
+  {
+    "Pos":"9",
+    "Driver":"Adrian Sutil",
+    "Nationality":"GER",
+    "Car":"Force India Mercedes",
+    "PTS":"42"
+  },
+  {
+    "Pos":"10",
+    "Driver":"Vitaly Petrov",
+    "Nationality":"RUS",
+    "Car":"Renault",
+    "PTS":"37"
+  },
+  {
+    "Pos":"11",
+    "Driver":"Nick Heidfeld",
+    "Nationality":"GER",
+    "Car":"Renault",
+    "PTS":"34"
+  },
+  {
+    "Pos":"12",
+    "Driver":"Kamui Kobayashi",
+    "Nationality":"JPN",
+    "Car":"Sauber Ferrari",
+    "PTS":"30"
+  },
+  {
+    "Pos":"13",
+    "Driver":"Paul di Resta",
+    "Nationality":"GBR",
+    "Car":"Force India Mercedes",
+    "PTS":"27"
+  },
+  {
+    "Pos":"14",
+    "Driver":"Jaime Alguersuari",
+    "Nationality":"ESP",
+    "Car":"STR Ferrari",
+    "PTS":"26"
+  },
+  {
+    "Pos":"15",
+    "Driver":"Sebastien Buemi",
+    "Nationality":"SUI",
+    "Car":"STR Ferrari",
+    "PTS":"15"
+  },
+  {
+    "Pos":"16",
+    "Driver":"Sergio Perez",
+    "Nationality":"MEX",
+    "Car":"Sauber Ferrari",
+    "PTS":"14"
+  },
+  {
+    "Pos":"17",
+    "Driver":"Rubens Barrichello",
+    "Nationality":"BRA",
+    "Car":"Williams Cosworth",
+    "PTS":"4"
+  },
+  {
+    "Pos":"18",
+    "Driver":"Bruno Senna",
+    "Nationality":"BRA",
+    "Car":"Renault",
+    "PTS":"2"
+  },
+  {
+    "Pos":"19",
+    "Driver":"Pastor Maldonado",
+    "Nationality":"VEN",
+    "Car":"Williams Cosworth",
+    "PTS":"1"
+  },
+  {
+    "Pos":"20",
+    "Driver":"Pedro de la Rosa",
+    "Nationality":"ESP",
+    "Car":"Sauber Ferrari",
+    "PTS":"0"
+  },
+  {
+    "Pos":"21",
+    "Driver":"Jarno Trulli",
+    "Nationality":"ITA",
+    "Car":"Lotus Renault",
+    "PTS":"0"
+  },
+  {
+    "Pos":"22",
+    "Driver":"Heikki Kovalainen",
+    "Nationality":"FIN",
+    "Car":"Lotus Renault",
+    "PTS":"0"
+  },
+  {
+    "Pos":"23",
+    "Driver":"Vitantonio Liuzzi",
+    "Nationality":"ITA",
+    "Car":"HRT Cosworth",
+    "PTS":"0"
+  },
+  {
+    "Pos":"24",
+    "Driver":"Jerome d'Ambrosio",
+    "Nationality":"BEL",
+    "Car":"Virgin Cosworth",
+    "PTS":"0"
+  },
+  {
+    "Pos":"25",
+    "Driver":"Timo Glock",
+    "Nationality":"GER",
+    "Car":"Virgin Cosworth",
+    "PTS":"0"
+  },
+  {
+    "Pos":"26",
+    "Driver":"Narain Karthikeyan",
+    "Nationality":"IND",
+    "Car":"HRT Cosworth",
+    "PTS":"0"
+  },
+  {
+    "Pos":"27",
+    "Driver":"Daniel Ricciardo",
+    "Nationality":"AUS",
+    "Car":"HRT Cosworth",
+    "PTS":"0"
+  },
+  {
+    "Pos":"28",
+    "Driver":"Karun Chandhok",
+    "Nationality":"IND",
+    "Car":"Lotus Renault",
+    "PTS":"0"
+  }
+]
