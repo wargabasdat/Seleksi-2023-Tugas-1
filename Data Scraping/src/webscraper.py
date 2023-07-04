@@ -273,34 +273,20 @@ def get_season_ids_location(year):
 
     return array_ids_location
 
-# def get_season_summary(year):
-#     """
-#     Returns the summary of points achieved at every race in that season, per driver.
-#     """
-#     arr = get_season_ids_location(year)
-#     season_summary_df = pd.DataFrame()
-#     a_df = None # temporary df
+def get_circuit_name(year, location, race_id):
+    """
+    Returns circuit name of a race.
+    """
+    fcn = lambda y: str(y) if type(y) == int else y # covert to string if integer
+    year = fcn(year)
+    race_id = fcn(race_id)
 
-#     for n in range(len(arr)):
-#         location = arr[n][1]
-#         race_id = arr[n][0]
+    source = f'https://www.formula1.com/en/results.html/{year}/races/{race_id}/{location}/race-result.html'
+    page = requests.get(source, timeout=5)
+    content = BeautifulSoup(page.content, "html.parser")
+    soup = BeautifulSoup(page.text, 'lxml')
+    circuit = soup.find_all('span', class_="circuit-info")[0].text
 
-#         a_df = get_race_results(year, location, race_id)
-#         if n == 0:
-#             b_df = a_df[['Driver', 'Car', 'PTS']]
-#             b_df.set_index('Driver', inplace=True)
-#             b_df = b_df.rename(columns={'PTS': location})
-#         else:
-#             a_df = a_df[['Driver', 'PTS']]
-#             a_df = a_df.set_index('Driver', inplace=True)
-#             a_df = a_df.rename(columns={'PTS': location})
+    return circuit
 
-#             # merge dataset
-#             season_summary_df = a_df.merge(b_df, left_index=True, right_index=True, how='outer')
-#             season_summary_df = season_summary_df.fillna('null')
-
-#     # rename columns
-#     season_summary_df = season_summary_df.reset_index(inplace=True)
-#     season_summary_df = season_summary_df.rename(columns={'index': 'Driver'}, inplace=True)
-
-#     return season_summary_df
+print(get_circuit_name(2015, "abu-dhabi", 936))
