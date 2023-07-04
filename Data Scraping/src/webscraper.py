@@ -288,5 +288,3 @@ def get_circuit_name(year, location, race_id):
     circuit = soup.find_all('span', class_="circuit-info")[0].text
 
     return circuit
-
-print(get_circuit_name(2015, "abu-dhabi", 936))

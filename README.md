@@ -1,5 +1,7 @@
 # Seleksi 1 Warga Basdat 2023
-NIM: 1822101
+# Data Scraping, Data Storing, and Data Visualization from formula1.com
+
+July 17th 2023 - v01.01
 
 # Description
 ## Data
@@ -10,6 +12,8 @@ Below are the libraries used to run this program.
 
 * Beautiful Soup: To scrape the data
 * Requests: To make requests to URL
+* JSON: To write JSON encoded data
+* Pandas: To manipulate dataframes
 
 # How to Use
 1. Clone this folder to your local repository
@@ -25,7 +29,7 @@ python3 main.py
 
 ## Available commands and table examples
 1. Get driver standings of a season
-2. Get teams standings of a season
+2. Get teams/constructors standings of a season
 3. Get the winners of a season
 4. Get race results (requires race IDs from the F1 website)
 5. Get quali results (requires race IDs from the F1 website)
@@ -46,7 +50,50 @@ You may save up to one dataframe to a JSON file at a time.
   }
 ```
 * Constructor standings
-
+```
+  {
+    Pos: team's final position in the standings
+    Team: team name
+    PTS: points gained by that team
+  }
+```
+* Race winners
+```
+  {
+    Grand Prix: name of Grand Prix
+    Date: date Grand Prix was held
+    Winner: winner name
+    Car: winner's car
+    Laps: laps done by winner
+    Time: fastest time set by winner
+    Race ID: race ID used by F1 website
+    Location: location used by F1 website
+  }
+```
+* Race results
+```
+  {
+    Pos: final position held by driver
+    No: driver's number
+    Driver: driver name
+    Car: driver's car
+    Laps: laps done by driver
+    Time/Retired: points gained by driver
+  }
+```
+* Qualifying results
+```
+  {
+    Pos: qualifying position set by driver
+    No: driver's number
+    Driver: driver name
+    Car: driver's car
+    Q1: time set by driver in Q1
+    Q2: time set by driver in Q2
+    Q3: time set by driver in Q3
+    Laps: laps done by driver
+  }
+```
 # Database Structure
 
 # ERD to Relational Diagram Translation Process

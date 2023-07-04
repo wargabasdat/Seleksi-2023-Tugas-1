@@ -5,10 +5,7 @@ import os.path
 
 df = pd.DataFrame()
 
-print("""
-Welcome to the Formula 1 Data Web Scraper!
-(v1.01 - 2023-07-03)
-Data taken from https://www.formula1.com/""")
+print("Welcome to the Formula 1 Data Web Scraper!")
 
 def print_commands():
     print("""
