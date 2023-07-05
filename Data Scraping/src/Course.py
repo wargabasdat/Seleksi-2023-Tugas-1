@@ -76,6 +76,12 @@ def CourseDetail(url):
         else:
             description = courseDescriptionElement.get_text()
 
+    # Clean description
+    substring = "Show less"
+
+    if substring in description:
+        description = description.replace(substring, "")
+
     # Get Lecturers
     lecturers = []
     l = soup.find_all("a", class_="course-info-instructor strip-link-offline")

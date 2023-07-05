@@ -1,6 +1,267 @@
 {
     "resources": [
         {
+            "name": "1: Introduction and Goals; Data Types, Operators, and Variables",
+            "url": "http://www.archive.org/download/MIT6.00F08/mit-6-00-f08-lec01_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "2: Branching, Conditionals, and Iteration",
+            "url": "http://www.archive.org/download/MIT6.00F08/mit-6-00-f08-lec02_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "3: Common Code Patterns: Iterative Programs",
+            "url": "http://www.archive.org/download/MIT6.00F08/mit-6-00-f08-lec03_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "4: Abstraction through Functions; Introduction to Recursion",
+            "url": "http://www.archive.org/download/MIT6.00F08/mit-6-00-f08-lec04_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "5: Floating Point Numbers, Successive Refinement, Finding Roots",
+            "url": "http://www.archive.org/download/MIT6.00F08/mit-6-00-f08-lec05_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "6: Bisection Methods, Newton/Raphson, Introduction to Lists",
+            "url": "http://www.archive.org/download/MIT6.00F08/mit-6-00-f08-lec06_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "7: Lists and Mutability, Dictionaries, Introduction to Efficiency",
+            "url": "http://www.archive.org/download/MIT6.00F08/mit-6-00-f08-lec07_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "8: Complexity: Log, Linear, Quadratic, Exponential Algorithms",
+            "url": "http://www.archive.org/download/MIT6.00F08/mit-6-00-f08-lec08_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "9: Binary Search, Bubble and Selection Sorts",
+            "url": "http://www.archive.org/download/MIT6.00F08/mit-6-00-f08-lec09_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "10: Divide and Conquer Methods, Merge Sort, Exceptions",
+            "url": "http://www.archive.org/download/MIT6.00F08/mit-6-00-f08-lec10_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "Getting Started: Python and IDLE",
+            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/b29f4dce1bad3a660842efb674f1c928_getting_started.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "shapes",
+            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/25995745d6fc211df42f9485592ff037_shapes.txt",
+            "type": "Assignments",
+            "fType": "File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "subjects",
+            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/6733ada5dc0cec40994b78bfddf969ad_subjects.txt",
+            "type": "Assignments",
+            "fType": "File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "words",
+            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/678ff0b0153fc3dd5280587679fd84d8_words.txt",
+            "type": "Assignments",
+            "fType": "File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "Problem Set 0",
+            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/da959a3a784f58b6af86329df80bd6f9_pset0.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "Problem Set 1",
+            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/0da7848324c6dbd96bcf889bef729854_pset1.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "Problem Set 1",
+            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/88d218e6bc0c655635b9a10259053253_pset1a.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "Problem Set 2",
+            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/1acf7676cd544e942f62ec83c372306c_pset2.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "ps2b",
+            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/87550d6a9b3c98afffba56f1512f5274_ps2b.py",
+            "type": "Assignments",
+            "fType": "File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "Problem Set 3",
+            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/e75b1f9ee34f7f0267eabcbd2b1c896e_pset3.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "Code sample for quiz",
+            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/10c315d113f7afd7e7d053e0e620abfd_q3.py",
+            "type": "Exams",
+            "fType": "File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "Explanation of code sample",
+            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/d9acfac17ff71054377411e609d3d8d3_q3_explain.pdf",
+            "type": "Exams",
+            "fType": "PDF File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "Sample Problems",
+            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/771d872efe4ab8f66e4e75c1d853ebd9_final.pdf",
+            "type": "Exams",
+            "fType": "PDF File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "Sample Quiz Questions",
+            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/06a2385ea259cc3de48fc3c8b7605516_quiz1.pdf",
+            "type": "Exams",
+            "fType": "PDF File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "Quiz 1 Practice Problem Solutions",
+            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/54f11f0fb2ae829e182ec483d57f8307_quiz1_solution.pdf",
+            "type": "Exams",
+            "fType": "PDF File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "Quiz 2",
+            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/a355206d708b93d7e71180e78edfceaa_quiz2.pdf",
+            "type": "Exams",
+            "fType": "PDF File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "Quiz 2 Practice Problem Solutions",
+            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/3c9988f1acd545fb690a3ce9c48bfa83_quiz2_solution.pdf",
+            "type": "Exams",
+            "fType": "PDF File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "Topics Covered in 6.00, Fall 2008",
+            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/32b8dbf34c23f84dc405cf64d62455f1_final_topics.pdf",
+            "type": "Exams",
+            "fType": "PDF File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
+            "name": "Sums, Approximations, and Asymptotics II",
+            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/ed6f464fa5d1318b66e792709d447dee_l11_sums2.pdf",
+            "type": "Readings",
+            "fType": "PDF File",
+            "cid": "6.00",
+            "semester": "Fall",
+            "year": "2008"
+        },
+        {
             "name": "ps3.pdf",
             "url": "https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/7d9041d81ba4d52ad7375165cc7e34cc_ps3.pdf",
             "type": "Assignments",
@@ -1487,7 +1748,7 @@
         },
         {
             "name": "Long Project: Introduction",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MITRES.3-002IAP17/MITRES_3-002IAP17_Long_Project_0_300k.mp4",
+            "url": "https://archive.org/download/MITRES.3-002IAP17/MITRES_3-002IAP17_Long_Project_0_300k.mp4",
             "type": "Projects",
             "fType": "Video File",
             "cid": "RES.3-002",
@@ -1505,7 +1766,7 @@
         },
         {
             "name": "Long Project 1: Awesome Light Show Touch Game",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MITRES.3-002IAP17/MITRES_3-002IAP17_Long_Project_1_300k.mp4",
+            "url": "https://archive.org/download/MITRES.3-002IAP17/MITRES_3-002IAP17_Long_Project_1_300k.mp4",
             "type": "Projects",
             "fType": "Video File",
             "cid": "RES.3-002",
@@ -1523,7 +1784,7 @@
         },
         {
             "name": "Long Project 2: Hand Motion Controlled Car",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MITRES.3-002IAP17/MITRES_3-002IAP17_Long_Project_2_300k.mp4",
+            "url": "https://archive.org/download/MITRES.3-002IAP17/MITRES_3-002IAP17_Long_Project_2_300k.mp4",
             "type": "Projects",
             "fType": "Video File",
             "cid": "RES.3-002",
@@ -1550,7 +1811,7 @@
         },
         {
             "name": "Long Project 3: LED Framed Light Display Part 1",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MITRES.3-002IAP17/MITRES_3-002IAP17_Long_Project_3_300k.mp4",
+            "url": "https://archive.org/download/MITRES.3-002IAP17/MITRES_3-002IAP17_Long_Project_3_300k.mp4",
             "type": "Projects",
             "fType": "Video File",
             "cid": "RES.3-002",
@@ -1559,498 +1820,12 @@
         },
         {
             "name": "Long Project 3: LED Framed Light Display Part 2",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MITRES.3-002IAP17/MITRES_3-002IAP17_Long_Project_4_300k.mp4",
+            "url": "https://archive.org/download/MITRES.3-002IAP17/MITRES_3-002IAP17_Long_Project_4_300k.mp4",
             "type": "Projects",
             "fType": "Video File",
             "cid": "RES.3-002",
             "semester": "January",
             "year": "2017"
-        },
-        {
-            "name": "6916ps1.tar",
-            "url": "https://ocw.mit.edu/courses/6-171-software-engineering-for-web-applications-fall-2003/d8238c85463ae0ce4542ed92c431f46f_6916ps1.tar",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.171",
-            "semester": "Fall",
-            "year": "2003"
-        },
-        {
-            "name": "closurize.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/7518939a7b50586a74a2142553250523_closurize.pdf",
-            "type": "Assignments",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "closurize.scm",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/2f5b28c79117d151a92900002ab66ba0_closurize.scm",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "funrec.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/34f0a0c08ab9e77a83fd318d2caa6057_funrec.pdf",
-            "type": "Assignments",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "funrec.scm",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/1f9696ebc89b1aa98b12712f7f7ad334_funrec.scm",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "moduleexamples.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/352ab91885c4fd25b4920fa946e73d7f_moduleexamples.pdf",
-            "type": "Assignments",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "moduleexamples.scm",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/5ed12445657ee56d2be3797188a60a49_moduleexamples.scm",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "postfix.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/816c1833dc3d31f7c58cb0d634406a0a_postfix.pdf",
-            "type": "Assignments",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "postfix.scm",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/d0654618b2d8c9c73c2854050579e1e2_postfix.scm",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "recon.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/bcf10eb6e226b49416cf63a46957bdec_recon.pdf",
-            "type": "Assignments",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "recon.scm",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/eca193406671dc3da6a59ecaabc3a404_recon.scm",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "16.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/e27c992cb4302d14d5b6ee5f7d0dab34_16.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "17.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/255683fb5197bfe493a0fd9f1ff60adb_17.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "18.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/e539d3a64579761e074b691a974aab84_18.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "20.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/42df9c62648b09819119228da2661548_20.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "21.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/8da2b2b1e8b7e7f6c63261139bc9c67e_21.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "32.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/4aab7b982a3611fcdef9918421869aec_32.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "33.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/db93ce43c8a91cf43eab03a20f2946c7_33.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "34.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/ed3c4c32091833c40bfb5701a7228b0d_34.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "35.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/5ff04820d22e8dc01700ee53c485facc_35.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "36.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/050ecdea6adb8ff1980e19f452272040_36.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "04.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/a26c4abed48538917955fefe084adfdd_04.pdf",
-            "type": "Tools",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "r5rs.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/89a3761e77b6adea3dbf759abcb27d72_r5rs.pdf",
-            "type": "Tools",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "scheme12.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/67a55c1d46c11a2ee774b7e184e3869c_scheme12.pdf",
-            "type": "Tools",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "scheme12workswithscheme75.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/c4218462daca49ef476687beddce000d_scheme12workswithscheme75.pdf",
-            "type": "Tools",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "schemeplus12.scm",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/562ab809d982156cccf5c758fd7f0557_schemeplus12.scm",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "schemeplus12workswithscheme75.scm",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/ef83ee9dd984b185a237df329c117f5d_schemeplus12workswithscheme75.scm",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "6916ps1.tar",
-            "url": "https://ocw.mit.edu/courses/6-171-software-engineering-for-web-applications-fall-2003/d8238c85463ae0ce4542ed92c431f46f_6916ps1.tar",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.171",
-            "semester": "Fall",
-            "year": "2003"
-        },
-        {
-            "name": "closurize.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/7518939a7b50586a74a2142553250523_closurize.pdf",
-            "type": "Assignments",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "closurize.scm",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/2f5b28c79117d151a92900002ab66ba0_closurize.scm",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "funrec.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/34f0a0c08ab9e77a83fd318d2caa6057_funrec.pdf",
-            "type": "Assignments",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "funrec.scm",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/1f9696ebc89b1aa98b12712f7f7ad334_funrec.scm",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "moduleexamples.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/352ab91885c4fd25b4920fa946e73d7f_moduleexamples.pdf",
-            "type": "Assignments",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "moduleexamples.scm",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/5ed12445657ee56d2be3797188a60a49_moduleexamples.scm",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "postfix.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/816c1833dc3d31f7c58cb0d634406a0a_postfix.pdf",
-            "type": "Assignments",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "postfix.scm",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/d0654618b2d8c9c73c2854050579e1e2_postfix.scm",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "recon.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/bcf10eb6e226b49416cf63a46957bdec_recon.pdf",
-            "type": "Assignments",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "recon.scm",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/eca193406671dc3da6a59ecaabc3a404_recon.scm",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "16.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/e27c992cb4302d14d5b6ee5f7d0dab34_16.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "17.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/255683fb5197bfe493a0fd9f1ff60adb_17.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "18.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/e539d3a64579761e074b691a974aab84_18.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "20.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/42df9c62648b09819119228da2661548_20.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "21.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/8da2b2b1e8b7e7f6c63261139bc9c67e_21.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "32.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/4aab7b982a3611fcdef9918421869aec_32.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "33.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/db93ce43c8a91cf43eab03a20f2946c7_33.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "34.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/ed3c4c32091833c40bfb5701a7228b0d_34.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "35.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/5ff04820d22e8dc01700ee53c485facc_35.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "36.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/050ecdea6adb8ff1980e19f452272040_36.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "04.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/a26c4abed48538917955fefe084adfdd_04.pdf",
-            "type": "Tools",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "r5rs.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/89a3761e77b6adea3dbf759abcb27d72_r5rs.pdf",
-            "type": "Tools",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "scheme12.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/67a55c1d46c11a2ee774b7e184e3869c_scheme12.pdf",
-            "type": "Tools",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "scheme12workswithscheme75.pdf",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/c4218462daca49ef476687beddce000d_scheme12workswithscheme75.pdf",
-            "type": "Tools",
-            "fType": "PDF File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "schemeplus12.scm",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/562ab809d982156cccf5c758fd7f0557_schemeplus12.scm",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "schemeplus12workswithscheme75.scm",
-            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/ef83ee9dd984b185a237df329c117f5d_schemeplus12workswithscheme75.scm",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "6.821",
-            "semester": "Fall",
-            "year": "2002"
         },
         {
             "name": "englishname_java.txt",
@@ -2852,6 +2627,78 @@
             "cid": "MAS.961",
             "semester": "Fall",
             "year": "1998"
+        },
+        {
+            "name": "Context for Software Agents",
+            "url": "https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/8b6231746ceba075f5d1d2959b6764b5_sld0011.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "MAS.963",
+            "semester": "Fall",
+            "year": "2001"
+        },
+        {
+            "name": "Henry's Introductory Lecture",
+            "url": "https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/fcdf122d0851dfd4eb1923ba082e118d_sld0013.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "MAS.963",
+            "semester": "Fall",
+            "year": "2001"
+        },
+        {
+            "name": "Mathematical and Machine Learning Approaches to Context",
+            "url": "https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/e4d72e6a64bb5e18d0d8dc19adb2b8dc_sld0012.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "MAS.963",
+            "semester": "Fall",
+            "year": "2001"
+        },
+        {
+            "name": "Cheese: Tracking Mouse Movement Activity on Websites, a Tool for User Modeling",
+            "url": "https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/0f526db99db6cf0375d3cbb7c154d2a5_cheese.pdf",
+            "type": "Projects",
+            "fType": "PDF File",
+            "cid": "MAS.963",
+            "semester": "Fall",
+            "year": "2001"
+        },
+        {
+            "name": "Context-Aware Office Assistant",
+            "url": "https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/5945a232a8983db172354e4ffbaf15af_yan.pdf",
+            "type": "Projects",
+            "fType": "PDF File",
+            "cid": "MAS.963",
+            "semester": "Fall",
+            "year": "2001"
+        },
+        {
+            "name": "Press Clippings",
+            "url": "https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/4a80ec93fee7d759133bc38f9f948590_press.pdf",
+            "type": "Projects",
+            "fType": "PDF File",
+            "cid": "MAS.963",
+            "semester": "Fall",
+            "year": "2001"
+        },
+        {
+            "name": "Publications",
+            "url": "https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/093631ea0487a5b3e8d188a0b279d790_publications.pdf",
+            "type": "Projects",
+            "fType": "PDF File",
+            "cid": "MAS.963",
+            "semester": "Fall",
+            "year": "2001"
+        },
+        {
+            "name": "Student Projects",
+            "url": "https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/5ce95d1383ba8c60dc8486ee914ef802_projects.pdf",
+            "type": "Projects",
+            "fType": "PDF File",
+            "cid": "MAS.963",
+            "semester": "Fall",
+            "year": "2001"
         },
         {
             "name": "pole.data",
@@ -3719,7 +3566,7 @@
         },
         {
             "name": "Macro-Me Suspension",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT2.086S12/MIT2_086S12_unit4_susp_300k.mp4",
+            "url": "http://www.archive.org/download/MIT2.086S12/MIT2_086S12_unit4_susp_300k.mp4",
             "type": "Videos",
             "fType": "Video File",
             "cid": "2.086",
@@ -3728,7 +3575,7 @@
         },
         {
             "name": "Robot Arm Demo",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT2.086S12/MIT2_086S12_unit7_arm_300k.mp4",
+            "url": "http://www.archive.org/download/MIT2.086S12/MIT2_086S12_unit7_arm_300k.mp4",
             "type": "Videos",
             "fType": "Video File",
             "cid": "2.086",
@@ -3737,7 +3584,7 @@
         },
         {
             "name": "The Macro-Me Robot",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT2.086S12/MIT2_086S12_unit1_robot_300k.mp4",
+            "url": "http://www.archive.org/download/MIT2.086S12/MIT2_086S12_unit1_robot_300k.mp4",
             "type": "Videos",
             "fType": "Video File",
             "cid": "2.086",
@@ -3746,7 +3593,7 @@
         },
         {
             "name": "The Macro-Me Robot: Friction Test",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT2.086S12/MIT2_086S12_unit3_friction_300k.mp4",
+            "url": "http://www.archive.org/download/MIT2.086S12/MIT2_086S12_unit3_friction_300k.mp4",
             "type": "Videos",
             "fType": "Video File",
             "cid": "2.086",
@@ -3962,7 +3809,7 @@
         },
         {
             "name": "Macro-Me Suspension",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT2.086S12/MIT2_086S12_unit4_susp_300k.mp4",
+            "url": "http://www.archive.org/download/MIT2.086S12/MIT2_086S12_unit4_susp_300k.mp4",
             "type": "Readings",
             "fType": "Video File",
             "cid": "2.086",
@@ -3971,7 +3818,7 @@
         },
         {
             "name": "Robot Arm Demo",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT2.086S12/MIT2_086S12_unit7_arm_300k.mp4",
+            "url": "http://www.archive.org/download/MIT2.086S12/MIT2_086S12_unit7_arm_300k.mp4",
             "type": "Readings",
             "fType": "Video File",
             "cid": "2.086",
@@ -3980,7 +3827,7 @@
         },
         {
             "name": "The Macro-Me Robot",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT2.086S12/MIT2_086S12_unit1_robot_300k.mp4",
+            "url": "http://www.archive.org/download/MIT2.086S12/MIT2_086S12_unit1_robot_300k.mp4",
             "type": "Readings",
             "fType": "Video File",
             "cid": "2.086",
@@ -3989,7 +3836,7 @@
         },
         {
             "name": "The Macro-Me Robot: Friction Test",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT2.086S12/MIT2_086S12_unit3_friction_300k.mp4",
+            "url": "http://www.archive.org/download/MIT2.086S12/MIT2_086S12_unit3_friction_300k.mp4",
             "type": "Readings",
             "fType": "Video File",
             "cid": "2.086",
@@ -4861,258 +4708,6 @@
             "year": "2002"
         },
         {
-            "name": "Lecture 1: Using MATLAB for the First Time",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT18.S997F11/MIT18_S997F11_lec01_300k.mp4",
-            "type": "Videos",
-            "fType": "Video File",
-            "cid": "18.S997",
-            "semester": "Fall",
-            "year": "2011"
-        },
-        {
-            "name": "Lecture 2: The Command Prompt",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT18.S997F11/MIT18_S997F11_lec02_300k.mp4",
-            "type": "Videos",
-            "fType": "Video File",
-            "cid": "18.S997",
-            "semester": "Fall",
-            "year": "2011"
-        },
-        {
-            "name": "Lecture 3: Using Files",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT18.S997F11/MIT18_S997F11_lec03_300k.mp4",
-            "type": "Videos",
-            "fType": "Video File",
-            "cid": "18.S997",
-            "semester": "Fall",
-            "year": "2011"
-        },
-        {
-            "name": "Lecture 4: Plotting",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT18.S997F11/MIT18_S997F11_lec04_300k.mp4",
-            "type": "Videos",
-            "fType": "Video File",
-            "cid": "18.S997",
-            "semester": "Fall",
-            "year": "2011"
-        },
-        {
-            "name": "Lecture 5: Scripts and Functions",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT18.S997F11/MIT18_S997F11_lec05_300k.mp4",
-            "type": "Videos",
-            "fType": "Video File",
-            "cid": "18.S997",
-            "semester": "Fall",
-            "year": "2011"
-        },
-        {
-            "name": "Lecture 6: Debugging",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT18.S997F11/MIT18_S997F11_lec06_300k.mp4",
-            "type": "Videos",
-            "fType": "Video File",
-            "cid": "18.S997",
-            "semester": "Fall",
-            "year": "2011"
-        },
-        {
-            "name": "lect2.pdf",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/8ca6fde4a3b911656327d1217e340637_lect2.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "lect3.pdf",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/4b1bb3845bb89df1cc873d26f80ffe12_lect3.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "lect4.pdf",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/7030189b2d0e76ce8b158dfe6820f415_lect4.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "lect5.pdf",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/7dc2154b92d3bfdbde512320d8f6b00e_lect5.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "lect6.pdf",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/0563c39f1fac15425b7891c4b4d2b34a_lect6.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "lect7.pdf",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/be1c965e61f28e2495c76c8fe1e89922_lect7.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "lect8.pdf",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/4f26baac41cf2f5e0752a87dc225edc0_lect8.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "lect9.pdf",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/591cf2362642093e9f52321493875466_lect9.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "lect10.pdf",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/3c9dffc9f176f1e7fbc40ae6d7d05427_lect10.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "lect11.pdf",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/9935269d08352de8ea16e0c3edb65c86_lect11.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "thesis.pdf",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/a0e6e5b04a13dae438e5d7a2dd586b45_thesis.pdf",
-            "type": "Readings",
-            "fType": "PDF File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "epelman98cond.pdf",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/0a7eb9c5ccb07723a9c1cfb71af07bf7_epelman98cond.pdf",
-            "type": "Readings",
-            "fType": "PDF File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "art.m",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/14f16e06356fe6e9933a9817fb49d38a_art.m",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "chew_circle.mat",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/5f5d7fc4fe27311c3f1a5553e39c9eef_chew_circle.mat",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "convert.m",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/5a763ad72653967eb8fbf0df086906f9_convert.m",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "crossedGrid.m",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/017e1b8c3e56d2a76ba9b8a399db5d94_crossedGrid.m",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "dat.mat",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/efe0be5d09d65d8e34e2ef30981e6f40_dat.mat",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "epp.mat",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/04a81cbfb53ecf2ccbf949291f2e4e52_epp.mat",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "EppBAP.mat",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/f67e7d67c7e8dea47a8e5da5eab6c496_EppBAP.mat",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "eppstein.mat",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/26055abcf9f7660555b0d85bf02c9cea_eppstein.mat",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "fastfiedler.m",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/12cc7004534ffe42cc793db5eae8cd53_fastfiedler.m",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
-            "name": "gauss.m",
-            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/0736c0355510c853027393d1703a4fa5_gauss.m",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "18.409",
-            "semester": "Spring",
-            "year": "2002"
-        },
-        {
             "name": "Quiz #1",
             "url": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/f445e9aecd4f6fa0446b6417eac0068a_MIT6_004s09_quiz01.pdf",
             "type": "Exams",
@@ -5465,7 +5060,7 @@
         },
         {
             "name": "Lecture 1: Administrivia; Introduction; Analysis of Algorithms, Insertion Sort, Mergesort",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-07sep2005-220k.mp4",
+            "url": "http://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-07sep2005-220k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.046J",
@@ -5474,7 +5069,7 @@
         },
         {
             "name": "Lecture 2: Asymptotic Notation; Recurrences; Substitution, Master Method",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-12sep2005-220k.mp4",
+            "url": "http://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-12sep2005-220k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.046J",
@@ -5483,7 +5078,7 @@
         },
         {
             "name": "Lecture 3: Divide-and-Conquer: Strassen, Fibonacci, Polynomial Multiplication",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-14sep2005-220k.mp4",
+            "url": "http://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-14sep2005-220k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.046J",
@@ -5492,7 +5087,7 @@
         },
         {
             "name": "Lecture 4: Quicksort, Randomized Algorithms",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-21sep2005-220k.mp4",
+            "url": "http://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-21sep2005-220k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.046J",
@@ -5501,7 +5096,7 @@
         },
         {
             "name": "Lecture 5: Linear-time Sorting: Lower Bounds, Counting Sort, Radix Sort",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-26sep2005-220k.mp4",
+            "url": "http://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-26sep2005-220k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.046J",
@@ -5510,7 +5105,7 @@
         },
         {
             "name": "Lecture 6: Order Statistics, Median",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-28sep2005-220k.mp4",
+            "url": "http://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-28sep2005-220k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.046J",
@@ -5519,7 +5114,7 @@
         },
         {
             "name": "Lecture 7: Hashing, Hash Functions",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-03oct2005-220k.mp4",
+            "url": "http://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-03oct2005-220k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.046J",
@@ -5528,7 +5123,7 @@
         },
         {
             "name": "Lecture 8: Universal Hashing, Perfect Hashing",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-05oct2005-220k.mp4",
+            "url": "http://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-05oct2005-220k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.046J",
@@ -5537,7 +5132,7 @@
         },
         {
             "name": "Lecture 9: Relation of BSTs to Quicksort - Analysis of Random BST",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-17oct2005-220k.mp4",
+            "url": "http://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-17oct2005-220k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.046J",
@@ -5546,7 +5141,7 @@
         },
         {
             "name": "Lecture 10: Red-black Trees, Rotations, Insertions, Deletions",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-19oct2005-220k.mp4",
+            "url": "http://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-19oct2005-220k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.046J",
@@ -9892,591 +9487,6 @@
             "year": "2010"
         },
         {
-            "name": "investjoshkbcustom.lisp",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/77782d8b483f85d2dc199165d57a939b_investjoshkbcustom.lisp",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "joshua_reference.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/0060b0387118dcf889f73f033b069d42_joshua_reference.pdf",
-            "type": "Assignments",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "joshua_user_guid.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/dedf51665923e3663244c989007134fd_joshua_user_guid.pdf",
-            "type": "Assignments",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "jscheme.jar",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/f200081736e139ea4a9d0be79eac933a_jscheme.jar",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "smartsweeper.jar",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/306f6701f83594c23681f2b3e08c5f56_smartsweeper.jar",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "ps1.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/1844b6c6f67a8beb9da88171b194e64a_ps1.pdf",
-            "type": "Assignments",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "written1.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/b207620634bf420599811e655728f192_written1.pdf",
-            "type": "Assignments",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "ps2.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/4ddc74a5d8415b6f17b5c292e510fda0_ps2.pdf",
-            "type": "Assignments",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "written2.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/5b7e27ea49b2147b41808007e8115dc0_written2.pdf",
-            "type": "Assignments",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "written3.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/4ff47b473a16d896790cd890be034d85_written3.pdf",
-            "type": "Assignments",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "lect01_intro.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/2dfcfa88dc81856d86d21e0d67017e94_lect01_intro.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "lect01_intro1.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/45d32f86dec5685e9c9fcbf8b61d804b_lect01_intro1.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "lect02_know_2.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/b27bad92cad0ec9d99f306031d608ab8_lect02_know_2.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "lect02_know.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/6dccb18e39e0eb7b43ec990caa3fc294_lect02_know.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "lect03_dendral.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/b57c52efa139253d8cd127ccb7853001_lect03_dendral.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "lect04_case.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/e069987249ccfe724e2fe948fc63fe5e_lect04_case.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "lect06_rules.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/bd082307d538352f0acbd018cc5e8c6e_lect06_rules.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "lect07_semcnets.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/a137af074cd61990a432162903d33a4a_lect07_semcnets.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "lect08_logic.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/233e2e8021787d40f9c4e73e1f06283d_lect08_logic.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "lect09_frames.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/91db250d73afad503aedfea467121929_lect09_frames.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "ashwindeshpa_ilt.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/72fb8081b0eaadc1b85cad722f5685b0_ashwindeshpa_ilt.pdf",
-            "type": "Projects",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "chandrase_tempap.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/8ef2e8517be997a3f3f761ad832cb47c_chandrase_tempap.pdf",
-            "type": "Projects",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "drink_fin_pap.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/113e010a4e938c185d360e0598a73e83_drink_fin_pap.pdf",
-            "type": "Projects",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "farrokh_fin_proj.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/f9b791b1c6ebac87745b09419e70ad22_farrokh_fin_proj.pdf",
-            "type": "Projects",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "grah_fin_prj_rep.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/0e73a3480431caf832788c014d962597_grah_fin_prj_rep.pdf",
-            "type": "Projects",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "gulappendices.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/f655ea8bb89942f7319d41a203f1fcee_gulappendices.pdf",
-            "type": "Projects",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "haldarfin_report.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/0306dff5cc7320ff7f44e016e5cb067f_haldarfin_report.pdf",
-            "type": "Projects",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "haldarrulesdb.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/73b564890d7daaa1dce99c7752799017_haldarrulesdb.pdf",
-            "type": "Projects",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "javanmardian_pap.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/ec48b59a27c52ba860ea1e2c74a38e08_javanmardian_pap.pdf",
-            "type": "Projects",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "jvanmardian_apd.pdf",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/d2c885da5dfcb26781fb95417723de8d_jvanmardian_apd.pdf",
-            "type": "Projects",
-            "fType": "PDF File",
-            "cid": "6.871",
-            "semester": "Spring",
-            "year": "2005"
-        },
-        {
-            "name": "env_files.zip",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/04d3e9d7c639d5797b867fb22f178c5c_env_files.zip",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "pddl_files.zip",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/a89c04d1996cd5908c29f1441b4a2e6a_pddl_files.zip",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "pddl_parser.zip",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/73602ebae361bfdc004d339ede690907_pddl_parser.zip",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "sat_solver.zip",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/c8c9303e64806d822d5736c0b0eecebb_sat_solver.zip",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "ShuttleSolver.java",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/f42812ce5da30e902147121b6abeb11b_ShuttleSolver.java",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "assn02.zip",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/ed02243583f61d074896a96f370dff7e_assn02.zip",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "assn04.zip",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/e072d97a17213eb9840fcfcbdd383fcb_assn04.zip",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "assn05.zip",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/4ade94ea7a8a9e2284931cd99e415294_assn05.zip",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "assn07.zip",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/073683e4ee7463a5afc4c94e29148719_assn07.zip",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "assn08.zip",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/d04d5bcea2b42422eff8cc7d83beaddf_assn08.zip",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_final_sol.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/82acd4842b47ba08f6456dbe373b97d1_MIT16_410F10_final_sol.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_final.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/006bb6815e138480553a438c59d86c15_MIT16_410F10_final.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_mid_sol.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/976a1098b2a4cff73263fe926e251119_MIT16_410F10_mid_sol.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_mid.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/0a4305d13d7907dde1651d2d5cba33a9_MIT16_410F10_mid.pdf",
-            "type": "Exams",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_lec01a.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/39c5b189edc1d3e0d6e8124d6cb4c52c_MIT16_410F10_lec01a.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_lec01b.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/a0d6b74187b73ab14ce7f5d93d149a5f_MIT16_410F10_lec01b.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_lec02.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/c58c480f620f23379260bc969f4c5dc2_MIT16_410F10_lec02.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_lec03.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/ee43f99f8c4b82c4aab96e8d8d294f30_MIT16_410F10_lec03.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_lec04.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/424d8d65875c903d9470a191d43ee277_MIT16_410F10_lec04.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_lec05.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/43a72dc4afb4a2813f28944d6d4d9056_MIT16_410F10_lec05.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_lec06.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/7434ba1355d03e83bfac5effa7edd1d0_MIT16_410F10_lec06.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_lec07a.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/7a5cd091e89dff7ca4eed31df8a0aa08_MIT16_410F10_lec07a.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_lec07b.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/b886d40f6462310252d3787ea8880415_MIT16_410F10_lec07b.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_lec08a.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/6fe1bdbac2e836dd2cce4d11982a1e6b_MIT16_410F10_lec08a.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT6_046F05_lec02.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/d6c1bde6ba67532720e883dde4a79dcb_MIT6_046F05_lec02.pdf",
-            "type": "Readings",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "rec01.zip",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/a24b570b09fd140a50b0a93958de145c_rec01.zip",
-            "type": "Recitations",
-            "fType": "File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_rec01.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/bb02e3225a65fe667d433de36de60fbb_MIT16_410F10_rec01.pdf",
-            "type": "Recitations",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_rec02_sol.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/7bdf8b0683264ac6a0d9041a647ed1a1_MIT16_410F10_rec02_sol.pdf",
-            "type": "Recitations",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_rec02.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/8fa89372917a3aea8db9b9f3c2fb8997_MIT16_410F10_rec02.pdf",
-            "type": "Recitations",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_rec03_sol.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/6727843badb0448089e0515a6ff60655_MIT16_410F10_rec03_sol.pdf",
-            "type": "Recitations",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_rec03.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/acf7ec080873ac77e4eef559d0d12c71_MIT16_410F10_rec03.pdf",
-            "type": "Recitations",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_rec04_sol.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/021aa39e2d090fbe67fdc894d1f2d8b7_MIT16_410F10_rec04_sol.pdf",
-            "type": "Recitations",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_rec04.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/2faafccf5132f01be30e4e296b5b1600_MIT16_410F10_rec04.pdf",
-            "type": "Recitations",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_rec05_sol.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/fdc52ebe1b6b370b1143add0fcd641c1_MIT16_410F10_rec05_sol.pdf",
-            "type": "Recitations",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
-            "name": "MIT16_410F10_rec05.pdf",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/50dfb1a3fb7974367c0d03c8c77a050c_MIT16_410F10_rec05.pdf",
-            "type": "Recitations",
-            "fType": "PDF File",
-            "cid": "16.410",
-            "semester": "Fall",
-            "year": "2010"
-        },
-        {
             "name": "handout1_sp2002.pdf",
             "url": "https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/805af99dcfc3bbf940b31bc418fb6b52_handout1_sp2002.pdf",
             "type": "Lecture Notes",
@@ -10568,7 +9578,7 @@
         },
         {
             "name": "Session 1: Introduction; Guest Pablo Suarez (Red Cross/Red Crescent Climate Center); Game Engines; Meaningful Decisions in Games",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec01_300k.mp4",
+            "url": "http://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec01_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "CMS.611J",
@@ -10577,7 +9587,7 @@
         },
         {
             "name": "Session 2: Project 1; Brainstorming and Low-Fidelity Prototyping",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec02_300k.mp4",
+            "url": "http://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec02_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "CMS.611J",
@@ -10586,7 +9596,7 @@
         },
         {
             "name": "Session 3: Revision Control; Game Engines; Vision Statement",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec03_300k.mp4",
+            "url": "http://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec03_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "CMS.611J",
@@ -10595,7 +9605,7 @@
         },
         {
             "name": "Session 4: Project 2 Intro; Project 2 Elevator Pitches; Digital Prototypes; Project 2 Team Choice",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec04_300k.mp4",
+            "url": "http://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec04_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "CMS.611J",
@@ -10604,7 +9614,7 @@
         },
         {
             "name": "Session 5: Agile Software Development",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec05_300k.mp4",
+            "url": "http://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec05_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "CMS.611J",
@@ -10613,7 +9623,7 @@
         },
         {
             "name": "Session 6: Agile Project Management",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec06_300k.mp4",
+            "url": "http://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec06_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "CMS.611J",
@@ -10622,7 +9632,7 @@
         },
         {
             "name": "Session 7: Quality Assurance; Playtesting by Genevieve Conley (Riot Games); Focus Testing Results",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec07_300k.mp4",
+            "url": "http://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec07_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "CMS.611J",
@@ -10631,7 +9641,7 @@
         },
         {
             "name": "Session 8: Project 2 Presentations; Project 3; Digital Prototype with  User Interference",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec08_300k.mp4",
+            "url": "http://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec08_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "CMS.611J",
@@ -10640,7 +9650,7 @@
         },
         {
             "name": "Session 9: Guest Lecture \u2013  Hidetaka \u201cSWERY\u201d Suehiro (Access Games)",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec09_300k.mp4",
+            "url": "http://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec09_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "CMS.611J",
@@ -10649,7 +9659,7 @@
         },
         {
             "name": "Session 10: Project 3 Check-In;  UI and Usability",
-            "url": "https://ocw.mit.eduhttp://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec10_300k.mp4",
+            "url": "http://www.archive.org/download/MITCMS.611JF14/MITCMS_611JF14_lec10_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "CMS.611J",
@@ -11180,7 +10190,7 @@
         },
         {
             "name": "Session 1: Introduction",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec01_300k.mp4",
+            "url": "https://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec01_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "15.S12",
@@ -11189,7 +10199,7 @@
         },
         {
             "name": "Session 2: Money, Ledgers, and Bitcoin",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec02_300k.mp4",
+            "url": "https://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec02_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "15.S12",
@@ -11198,7 +10208,7 @@
         },
         {
             "name": "Session 3: Blockchain Basics & Cryptography",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec03_300k.mp4",
+            "url": "https://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec03_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "15.S12",
@@ -11207,7 +10217,7 @@
         },
         {
             "name": "Session 4: Blockchain Basics and Consensus",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec04_300k.mp4",
+            "url": "https://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec04_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "15.S12",
@@ -11216,7 +10226,7 @@
         },
         {
             "name": "Session 5: Blockchain Basics and Transactions, UTXO, and Script Code",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec05_300k.mp4",
+            "url": "https://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec05_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "15.S12",
@@ -11225,7 +10235,7 @@
         },
         {
             "name": "Session 6: Smart Contracts and DApps",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec06_300k.mp4",
+            "url": "https://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec06_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "15.S12",
@@ -11234,7 +10244,7 @@
         },
         {
             "name": "Session 7: Technical Challenges",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec07_300k.mp4",
+            "url": "https://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec07_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "15.S12",
@@ -11243,7 +10253,7 @@
         },
         {
             "name": "Session 8: Public Policy",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec08_300k.mp4",
+            "url": "https://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec08_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "15.S12",
@@ -11252,7 +10262,7 @@
         },
         {
             "name": "Session 9: Permissioned Systems",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec09_300k.mp4",
+            "url": "https://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec09_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "15.S12",
@@ -11261,7 +10271,7 @@
         },
         {
             "name": "Session 10: Financial System Challenges and Opportunities",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec10_300k.mp4",
+            "url": "https://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec10_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "15.S12",
@@ -11816,6 +10826,681 @@
             "cid": "15.097",
             "semester": "Spring",
             "year": "2012"
+        },
+        {
+            "name": "Lecture 1: Overview: Information and Entropy",
+            "url": "http://www.archive.org/download/MIT6.02F12/MIT6_02F12_lec01_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "Lecture 2: Compression: Huffman and LZW",
+            "url": "http://www.archive.org/download/MIT6.02F12/MIT6_02F12_lec02_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "Lecture 3: Errors, Channel Codes",
+            "url": "http://www.archive.org/download/MIT6.02F12/MIT6_02F12_lec03_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "Lecture 4: Linear Block Codes, Parity Relations",
+            "url": "http://www.archive.org/download/MIT6.02F12/MIT6_02F12_lec04_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "Lecture 5: Error Correction, Syndrome Decoding",
+            "url": "http://www.archive.org/download/MIT6.02F12/MIT6_02F12_lec05_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "Lecture 6: Convolutional Codes",
+            "url": "http://www.archive.org/download/MIT6.02F12/MIT6_02F12_lec06_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "Lecture 7: Viterbi Decoding",
+            "url": "http://www.archive.org/download/MIT6.02F12/MIT6_02F12_lec07_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "Lecture 8: Noise",
+            "url": "http://www.archive.org/download/MIT6.02F12/MIT6_02F12_lec08_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "Lecture 9: Transmitting on a Physical Channel",
+            "url": "http://www.archive.org/download/MIT6.02F12/MIT6_02F12_lec09_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "Lecture 10: Linear Time-Invariant (LTI) Systems",
+            "url": "http://www.archive.org/download/MIT6.02F12/MIT6_02F12_lec10_300k.mp4",
+            "type": "Lecture Videos",
+            "fType": "Video File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "audiocom.zip",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/1661daa0bc7e485cde13dfbd07215169_audiocom.zip",
+            "type": "Assignments",
+            "fType": "File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "ps1_lzw.zip",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/8ddc5c6f6e94dd877a3201b5277efab1_ps1_lzw.zip",
+            "type": "Assignments",
+            "fType": "File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "ps1.zip",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/a7f2a8b3ae8da74d4d450c94c32c425a_ps1.zip",
+            "type": "Assignments",
+            "fType": "File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "ps2.zip",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/435af33590907fb2f3dda63a9cee166a_ps2.zip",
+            "type": "Assignments",
+            "fType": "File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "ps3.zip",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/5c1879b8636107f8e2384258caf71980_ps3.zip",
+            "type": "Assignments",
+            "fType": "File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Introduction to EECS II, Problem Set 1",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/ade7157c7f80238dececc3788d97c147_MIT6_02F12_ps1.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Introduction to EECS II, Problem Set 2",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/e152b00717ecd56108896ad71c310c29_MIT6_02F12_ps2.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Introduction to EECS II, Problem Set 3",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/a77a0ca2a20366c9a750ff57a25dc6e6_MIT6_02F12_ps3.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Introduction to EECS II, Problem Set 4",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/7c428cc7bf4a0704076fc14efca423d5_MIT6_02F12_ps4.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Introduction to EECS II, Problem Set 5",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/e9972131f3b60c02c3b5874dda78d1ad_MIT6_02F12_ps5.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Introduction to EECS II, Quiz 1",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/0b549abc33190c170fabb3709410231e_MIT6_02F12_quiz1.pdf",
+            "type": "Exams",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Introduction to EECS II, Quiz 2",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/5e20fd86bf643a4ff77377cbebac7238_MIT6_02F12_quiz2.pdf",
+            "type": "Exams",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Introduction to EECS II, Quiz 3",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/d1e0576e4ae7c48e3e1042ef49172658_MIT6_02F12_quiz3.pdf",
+            "type": "Exams",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Lecture 1: Overview: information and entropy",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/21637440fda8bd0e28d06a9eac518b03_MIT6_02F12_lec01.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Lecture 10: Linear time-invariant (LTI) systems",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/49242956b17f47b9c85bd6784aa5d6b8_MIT6_02F12_lec10.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Lecture 11: LTI channel and intersymbol interference",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/8989d3b33e177b9a2e373223c62c5b13_MIT6_02F12_lec11.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Lecture 12: Filters and composition",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/c609f44097dd5b8ebc46ba1e6ca6d754_MIT6_02F12_lec12.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Lecture 13: Frequency response of LTI systems",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/e755e873f0d98d5f9b9cb31d6c5ca6ec_MIT6_02F12_lec13.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Lecture 14: Spectral representation of signals",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/3d71e96b6e7942d74c15fb2f99244985_MIT6_02F12_lec14.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Lecture 15: Modulation/demodulation",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/7c65224293acae2b1ec17d2563845bff_MIT6_02F12_lec15.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Lecture 16: More on modulation/demodulation",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/48f208ee650147f6c3d6f7bcc602cc66_MIT6_02F12_lec16.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Lecture 17: Packet switching",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/8f332043eaaa2d41028991a442dd4fb6_MIT6_02F12_lec17.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Lecture 18: MAC protocols",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/a352bb61a321060b1a821e145f394196_MIT6_02F12_lec18.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Lecture 9: Transmitting on a physical channel",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/56d958fded205681d34fab3eac4b7ab5_MIT6_02F12_chap09.pdf",
+            "type": "Readings",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Notes, Chapter 1: Introduction",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/21992dcef7a08aa8b376a366d2979770_MIT6_02F12_chap01.pdf",
+            "type": "Readings",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Notes, Chapter 10: Models for Physical Communication Channels",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/6fb1d88aaf5f8d2e9e7655158d1c4408_MIT6_02F12_chap10.pdf",
+            "type": "Readings",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Notes, Chapter 11: LTI Models and Convolution",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/c99c8b2514977bc7f008aa8f69dfe9ad_MIT6_02F12_chap11.pdf",
+            "type": "Readings",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Notes, Chapter 12: Frequency Response of LTI Systems",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/43ab3e7240ebab8bbdcde3a8601abdac_MIT6_02F12_chap12.pdf",
+            "type": "Readings",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Notes, Chapter 13: Fourier Analysis and Spectral Representation of Signals",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/06d7972059805d20e6a7db3a52ec23f2_MIT6_02F12_chap13.pdf",
+            "type": "Readings",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Notes, Chapter 14: Modulation and Demodulation",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/2ab9b67e8fccafa520dac8033003b289_MIT6_02F12_chap14.pdf",
+            "type": "Readings",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Notes, Chapter 15: Sharing a Channel: Media Access (MAC) Protocols",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/308c589e958e3d073568bde00a63ac76_MIT6_02F12_chap15.pdf",
+            "type": "Readings",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Notes, Chapter 16: Communication Networks: Sharing and Switches",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/950e349a9779e491000426ccb218746e_MIT6_02F12_chap16.pdf",
+            "type": "Readings",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Notes, Chapter 17: Network Routing I: Without Any Failures",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/5f691ab218df35a3850df29a6b9a94b3_MIT6_02F12_chap17.pdf",
+            "type": "Readings",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Tutorial 09 Solutions",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/1524661f19778fc7025a41b6ae83663e_MIT6_02F12_tutor09_sol.pdf",
+            "type": "Tutorials",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Tutorial 1",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/2299b396f5d5a0d5a18f2ca24ee1f43f_MIT6_02F12_tutor01.pdf",
+            "type": "Tutorials",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Tutorial 1 Solutions",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/ce7e6222a226cb69ddb950cde03a5341_MIT6_02F12_tutor01_sol.pdf",
+            "type": "Tutorials",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Tutorial 10",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/88ca2f5581b4f3d52151cfc052342ac4_MIT6_02F12_tutor10.pdf",
+            "type": "Tutorials",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Tutorial 10 Solutions",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/8d5d612c8960c954dae89f007db5eae4_MIT6_02F12_tutor10_sol.pdf",
+            "type": "Tutorials",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Tutorial 11",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/3a2fbf5386b57011e2410c8ec6b3683e_MIT6_02F12_tutor11.pdf",
+            "type": "Tutorials",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Tutorial 11 Solutions",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/5a967cba3213d84dba9b0fde2e7246b8_MIT6_02F12_tutor11_sol.pdf",
+            "type": "Tutorials",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Tutorial 2",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/44ee077a1513bb24f3c026fa4986ea03_MIT6_02F12_tutor02.pdf",
+            "type": "Tutorials",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Tutorial 2 Solutions",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/a42553855f6ae34e4fbfab2389d0f322_MIT6_02F12_tutor02_sol.pdf",
+            "type": "Tutorials",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "6.02 Tutorial 3",
+            "url": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/62e9fbe90eae7381417162f67df32e8e_MIT6_02F12_tutor03.pdf",
+            "type": "Tutorials",
+            "fType": "PDF File",
+            "cid": "6.02",
+            "semester": "Fall",
+            "year": "2012"
+        },
+        {
+            "name": "homework1.pdf",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/54f504cab9f803930b6a70e0c0284459_homework1.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "homework2.pdf",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/afbbfbfdfa9eee964e6f5d8254bf1744_homework2.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "homework3.pdf",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/77fb25d638579a01ac8fc711fd67f483_homework3.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "homework3stub.pdf",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/316289d8714388365878a0e43346e0db_homework3stub.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "homework4.pdf",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/b33df840e7aefc90426289971657130a_homework4.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "homework5.pdf",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/4ada05d4439d5a5eea7fd80b51664fb6_homework5.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "homework5attachments.pdf",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/eaef5158b18f7d1d15a95688ef56fa08_homework5attachments.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "homework6.pdf",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/995a9f359aa69d61cae0090bcb3d45bd_homework6.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "homework7.pdf",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/46c657e43855b6e169d4596e290641c2_homework7.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "homework8.pdf",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/2e3f67bfb9c6900122e0a51ddc79ed96_homework8.pdf",
+            "type": "Assignments",
+            "fType": "PDF File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "lecture1.pdf",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/c492d8dc0c036c06d5a4cbff320523ed_lecture1.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "lecture2.pdf",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/23c4fbe7342a97be824b068a0ad1910e_lecture2.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "lecture3.pdf",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/d2425ce6223526e9bb810dc17132b54f_lecture3.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "lecture4.pdf",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/fba3452284edf60b021d66081db43bc5_lecture4.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "lecture5.pdf",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/a3e515acfc44ae7d5a52493504e328a0_lecture5.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "lecture6.pdf",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/2fff8255d9ea69aac1e30dd684ba1574_lecture6.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "lecture7.pdf",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/b98a8f146438d4fbf9a07c82f313b344_lecture7.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "code_lecture8.zip",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/cc308d7f2e74f7a01bfb7de8eadf6021_code_lecture8.zip",
+            "type": "Lecture Notes",
+            "fType": "File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "lecture8.pdf",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/e1a33c4c57ecc9143d37054cc7350e68_lecture8.pdf",
+            "type": "Lecture Notes",
+            "fType": "PDF File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "code_lecture9.zip",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/d55646e2898eb82c77f005ca66dd500e_code_lecture9.zip",
+            "type": "Lecture Notes",
+            "fType": "File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "project.pdf",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/53529b61369545ea1da0f8f522f8e558_project.pdf",
+            "type": "Projects",
+            "fType": "PDF File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
+        },
+        {
+            "name": "samplepatientsproject.pdf",
+            "url": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/8c19843fe8a64bdc652f3b323e8305ba_samplepatientsproject.pdf",
+            "type": "Projects",
+            "fType": "PDF File",
+            "cid": "HST.952",
+            "semester": "Fall",
+            "year": "2002"
         },
         {
             "name": "Constructing a Conformational Space of Pro-Ser-Thr Rich Non-Globular Domains",
@@ -13151,7 +12836,7 @@
         },
         {
             "name": "Lecture 1: What is Computation?",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_01_300k.mp4",
+            "url": "https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_01_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.0001",
@@ -13160,7 +12845,7 @@
         },
         {
             "name": "Lecture 2: Branching and Iteration",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_02_300k.mp4",
+            "url": "https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_02_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.0001",
@@ -13169,7 +12854,7 @@
         },
         {
             "name": "Lecture 3: String Manipulation, Guess and Check, Approximations, Bisection",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_03_300k.mp4",
+            "url": "https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_03_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.0001",
@@ -13178,7 +12863,7 @@
         },
         {
             "name": "Lecture 4: Decomposition, Abstraction, and Functions",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_04_300k.mp4",
+            "url": "https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_04_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.0001",
@@ -13187,7 +12872,7 @@
         },
         {
             "name": "Lecture 5: Tuples, Lists, Aliasing, Mutability, and Cloning",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_05_300k.mp4",
+            "url": "https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_05_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.0001",
@@ -13196,7 +12881,7 @@
         },
         {
             "name": "Lecture 6: Recursion and Dictionaries",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_06_300k.mp4",
+            "url": "https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_06_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.0001",
@@ -13205,7 +12890,7 @@
         },
         {
             "name": "Lecture 7: Testing, Debugging, Exceptions, and Assertions",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_07_300k.mp4",
+            "url": "https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_07_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.0001",
@@ -13214,7 +12899,7 @@
         },
         {
             "name": "Lecture 8: Object Oriented Programming",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_08_300k.mp4",
+            "url": "https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_08_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.0001",
@@ -13223,7 +12908,7 @@
         },
         {
             "name": "Lecture 9: Python Classes and Inheritance",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_09_300k.mp4",
+            "url": "https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_09_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.0001",
@@ -13232,7 +12917,7 @@
         },
         {
             "name": "Lecture 10: Understanding Program Efficiency, Part 1",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_10_300k.mp4",
+            "url": "https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_10_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.0001",
@@ -13400,321 +13085,6 @@
             "cid": "6.0001",
             "semester": "Fall",
             "year": "2016"
-        },
-        {
-            "name": "MPI example program in C",
-            "url": "https://ocw.mit.edu/courses/18-337j-parallel-computing-fall-2011/dbf4481fe6e633c35c281f1b2de0f46d_mpipi.c",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "18.337J",
-            "semester": "Fall",
-            "year": "2011"
-        },
-        {
-            "name": "MPI example program in Fortran",
-            "url": "https://ocw.mit.edu/courses/18-337j-parallel-computing-fall-2011/129aec8dd01be955c3e7360e78e83ced_mpipi.f",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "18.337J",
-            "semester": "Fall",
-            "year": "2011"
-        },
-        {
-            "name": "Parallel Fast Fourier Transform implementations in Julia Report",
-            "url": "https://ocw.mit.edu/courses/18-337j-parallel-computing-fall-2011/ba7ef71dc0fea405860b7ebf878a5399_MIT18_337JF11_FFT_rpt.pdf",
-            "type": "Projects",
-            "fType": "PDF File",
-            "cid": "18.337J",
-            "semester": "Fall",
-            "year": "2011"
-        },
-        {
-            "name": "Parallel FFT in Julia",
-            "url": "https://ocw.mit.edu/courses/18-337j-parallel-computing-fall-2011/2f2063e265e939309f5b2f6b5d4b94d4_MIT18_337JF11_FFT_pres.pdf",
-            "type": "Projects",
-            "fType": "PDF File",
-            "cid": "18.337J",
-            "semester": "Fall",
-            "year": "2011"
-        },
-        {
-            "name": "Parallel_FFT",
-            "url": "https://ocw.mit.edu/courses/18-337j-parallel-computing-fall-2011/7574964c53feac5d89568be3d0644fdc_Parallel_FFT.txt",
-            "type": "Projects",
-            "fType": "File",
-            "cid": "18.337J",
-            "semester": "Fall",
-            "year": "2011"
-        },
-        {
-            "name": "Replica-Exchange Molecular Dynamics on Hadoop Report",
-            "url": "https://ocw.mit.edu/courses/18-337j-parallel-computing-fall-2011/6f3447744fb597fd274b70ecc430f956_MIT18_337JF11_Hadoop_rpt.pdf",
-            "type": "Projects",
-            "fType": "PDF File",
-            "cid": "18.337J",
-            "semester": "Fall",
-            "year": "2011"
-        },
-        {
-            "name": "Social Coding: A Case Study with Julia Report",
-            "url": "https://ocw.mit.edu/courses/18-337j-parallel-computing-fall-2011/699a697c03e7413653ba6e8b5c4b87ab_MIT18_337JF11_Social_rpt.pdf",
-            "type": "Projects",
-            "fType": "PDF File",
-            "cid": "18.337J",
-            "semester": "Fall",
-            "year": "2011"
-        },
-        {
-            "name": "Social Coding: A Case Study with Julia Report Represent",
-            "url": "https://ocw.mit.edu/courses/18-337j-parallel-computing-fall-2011/4ab4fd1815c2ada2b2133ad6ebe0bd47_MIT18_337JF11_Social_pres.pdf",
-            "type": "Projects",
-            "fType": "PDF File",
-            "cid": "18.337J",
-            "semester": "Fall",
-            "year": "2011"
-        },
-        {
-            "name": "AQM.tcl",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/1f08641da51c92921da7dd76a14bc230_AQM.tcl",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "dtq.awk",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/778c3d4aa3393cc042c0208c39f4e1ef_dtq.awk",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "faq.pdf",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/2a89f9efe262943f8c5550c257a255db_faq.pdf",
-            "type": "Assignments",
-            "fType": "PDF File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "LFN.tcl",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/98660b0cbe1c0e1d8ce82b428a83fcb7_LFN.tcl",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "loss.awk",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/5ad95a7cd0543455f0838737522315c5_loss.awk",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "redq.awk",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/48e1cb4235135f5399120e82d8210f0b_redq.awk",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "tput.awk",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/5101ee96d8c26f40ef6c4874e6f46f29_tput.awk",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "cwnd1.awk",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/e6645d9009e5c83facd2eb7a0d24de50_cwnd1.awk",
-            "type": "Assignments",
-            "fType": "File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "ps1.pdf",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/b135037a10dda856fcbe4ee7bd12946d_ps1.pdf",
-            "type": "Assignments",
-            "fType": "PDF File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "ps1sols.pdf",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/c9d3d586895cdb2c7a6ae4cb6de615a5_ps1sols.pdf",
-            "type": "Assignments",
-            "fType": "PDF File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "L0singlelink.pdf",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/f3e7d4d9bee7f8d99ad0d4b3cbae3e55_L0singlelink.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "L1PacketSwitch.pdf",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/35485a0ecba2d9038ceb9467c0517054_L1PacketSwitch.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "T1tools.pdf",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/688e36383646b0bf7bf56546733a634c_T1tools.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "L2Internetworking.pdf",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/d81a62b0dc0edaeded4c1529e596d7f7_L2Internetworking.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "t2ns.pdf",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/44b429c8e1477cb2f322dc156b5a0f41_t2ns.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "L3ScalingIP.pdf",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/c6d11b486a590e067ee67fb3b284fc0f_L3ScalingIP.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "T3IPv6.pdf",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/b86103fb045f7199f9ec3a73fe01fa93_T3IPv6.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "L4UnicastRtg.pdf",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/479e67f03ae682ec58867664687a926e_L4UnicastRtg.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "L7Security.pdf",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/b6082aa6d5f2d006522067a4be4d36d8_L7Security.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "L8e2ecc.pdf",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/652354194b2231bc04488232729760cd_L8e2ecc.pdf",
-            "type": "Lecture Notes",
-            "fType": "PDF File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "1.tcl",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/e3c7455444ab0cff5323ef32c2920525_1.tcl",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "2.tcl",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/599740706152a81a3502062a0387f517_2.tcl",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "3.tcl",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/42629a833b7c6755f191ebf25a6bc3e7_3.tcl",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "4.tcl",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/bdded0b100ed20c0037ad9d9b3a53982_4.tcl",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "5.tcl",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/8717a3f278d0a55f2b008d356ef17d6b_5.tcl",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "6.tcl",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/30f6840e1f831f576b4bca27278935fe_6.tcl",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
-        },
-        {
-            "name": "7.tcl",
-            "url": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/0d73d3c683c727a3c4fb348f5c7edb85_7.tcl",
-            "type": "Tools",
-            "fType": "File",
-            "cid": "6.829",
-            "semester": "Fall",
-            "year": "2002"
         },
         {
             "name": "MPI example program in C",
@@ -14510,7 +13880,7 @@
         },
         {
             "name": "Lecture 1: Introduction, Threat Models",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.858F14/MIT6_858F14_lec01_300k.mp4",
+            "url": "https://archive.org/download/MIT6.858F14/MIT6_858F14_lec01_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.858",
@@ -14519,7 +13889,7 @@
         },
         {
             "name": "Lecture 2: Control Hijacking Attacks",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.858F14/MIT6_858F14_lec02_300k.mp4",
+            "url": "https://archive.org/download/MIT6.858F14/MIT6_858F14_lec02_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.858",
@@ -14528,7 +13898,7 @@
         },
         {
             "name": "Lecture 3: Buffer Overflow Exploits and Defenses",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.858F14/MIT6_858F14_lec03_300k.mp4",
+            "url": "https://archive.org/download/MIT6.858F14/MIT6_858F14_lec03_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.858",
@@ -14537,7 +13907,7 @@
         },
         {
             "name": "Lecture 4: Privilege Separation",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.858F14/MIT6_858F14_lec04_300k.mp4",
+            "url": "https://archive.org/download/MIT6.858F14/MIT6_858F14_lec04_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.858",
@@ -14546,7 +13916,7 @@
         },
         {
             "name": "Lecture 6: Capabilities",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.858F14/MIT6_858F14_lec06_300k.mp4",
+            "url": "https://archive.org/download/MIT6.858F14/MIT6_858F14_lec06_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.858",
@@ -14555,7 +13925,7 @@
         },
         {
             "name": "Lecture 7: Sandboxing Native Code ",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.858F14/MIT6_858F14_lec07_300k.mp4",
+            "url": "https://archive.org/download/MIT6.858F14/MIT6_858F14_lec07_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.858",
@@ -14564,7 +13934,7 @@
         },
         {
             "name": "Lecture 8: Web Security Model",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.858F14/MIT6_858F14_lec08_300k.mp4",
+            "url": "https://archive.org/download/MIT6.858F14/MIT6_858F14_lec08_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.858",
@@ -14573,7 +13943,7 @@
         },
         {
             "name": "Lecture 9: Securing Web Applications",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.858F14/MIT6_858F14_lec09_300k.mp4",
+            "url": "https://archive.org/download/MIT6.858F14/MIT6_858F14_lec09_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.858",
@@ -14582,7 +13952,7 @@
         },
         {
             "name": "Lecture 10: Symbolic Execution",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.858F14/MIT6_858F14_lec10_300k.mp4",
+            "url": "https://archive.org/download/MIT6.858F14/MIT6_858F14_lec10_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.858",
@@ -14591,7 +13961,7 @@
         },
         {
             "name": "Lecture 11: Ur/Web",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.858F14/MIT6_858F14_lec11_300k.mp4",
+            "url": "https://archive.org/download/MIT6.858F14/MIT6_858F14_lec11_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.858",
@@ -15896,7 +15266,7 @@
         },
         {
             "name": "Lecture 1: Algorithms and Computation",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.006S20/MIT6_006S20_02_04_Lecture_1_300k.mp4",
+            "url": "https://archive.org/download/MIT6.006S20/MIT6_006S20_02_04_Lecture_1_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.006",
@@ -15905,7 +15275,7 @@
         },
         {
             "name": "Problem Session 1",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.006S20/MIT6_006S20_02_07_Problem_Session_1_300k.mp4",
+            "url": "https://archive.org/download/MIT6.006S20/MIT6_006S20_02_07_Problem_Session_1_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.006",
@@ -15914,7 +15284,7 @@
         },
         {
             "name": "Quiz 1 Review",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.006S20/MIT6_006S20_03_06_Quiz_1_Review_300k.mp4",
+            "url": "https://archive.org/download/MIT6.006S20/MIT6_006S20_03_06_Quiz_1_Review_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.006",
@@ -15923,7 +15293,7 @@
         },
         {
             "name": "Lecture 2: Data Structures and Dynamic Arrays",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.006S20/MIT6_006S20_02_06_Lecture_2_300k.mp4",
+            "url": "https://archive.org/download/MIT6.006S20/MIT6_006S20_02_06_Lecture_2_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.006",
@@ -15932,7 +15302,7 @@
         },
         {
             "name": "Problem Session 2",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.006S20/MIT6_006S20_02_14_Problem_Session_2_300k.mp4",
+            "url": "https://archive.org/download/MIT6.006S20/MIT6_006S20_02_14_Problem_Session_2_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.006",
@@ -15941,7 +15311,7 @@
         },
         {
             "name": "Quiz 2 Review",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.006S20/MIT6_006S20_04_13_Quiz_2_Review_300k.mp4",
+            "url": "https://archive.org/download/MIT6.006S20/MIT6_006S20_04_13_Quiz_2_Review_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.006",
@@ -15950,7 +15320,7 @@
         },
         {
             "name": "Lecture 3: Sets and Sorting",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.006S20/MIT6_006S20_02_11_Lecture_3_300k.mp4",
+            "url": "https://archive.org/download/MIT6.006S20/MIT6_006S20_02_11_Lecture_3_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.006",
@@ -15959,7 +15329,7 @@
         },
         {
             "name": "Problem Session 3",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.006S20/MIT6_006S20_02_21_Problem_Session_3_300k.mp4",
+            "url": "https://archive.org/download/MIT6.006S20/MIT6_006S20_02_21_Problem_Session_3_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.006",
@@ -15968,7 +15338,7 @@
         },
         {
             "name": "Quiz 3 Review",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.006S20/MIT6_006S20_05_02_Quiz_3_Review_300k.mp4",
+            "url": "https://archive.org/download/MIT6.006S20/MIT6_006S20_05_02_Quiz_3_Review_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.006",
@@ -15977,7 +15347,7 @@
         },
         {
             "name": "Lecture 4: Hashing",
-            "url": "https://ocw.mit.eduhttps://archive.org/download/MIT6.006S20/MIT6_006S20_02_13_Lecture_4_300k.mp4",
+            "url": "https://archive.org/download/MIT6.006S20/MIT6_006S20_02_13_Lecture_4_300k.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.006",
@@ -16256,7 +15626,7 @@
         },
         {
             "name": "Lecture 1: Introduction to Machine Vision",
-            "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec01_1080p_360p_16_9.mp4",
+            "url": "/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec01_1080p_360p_16_9.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.801",
@@ -16265,7 +15635,7 @@
         },
         {
             "name": "Lecture 2: Image Formation, Perspective Projection, Time Derivative, Motion Field",
-            "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec02_1080p_360p_16_9.mp4",
+            "url": "/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec02_1080p_360p_16_9.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.801",
@@ -16274,7 +15644,7 @@
         },
         {
             "name": "Lecture 3: Time to Contact, Focus of Expansion, Direct Motion Vision Methods, Noise Gain",
-            "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec03_1080p_360p_16_9.mp4",
+            "url": "/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec03_1080p_360p_16_9.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.801",
@@ -16283,7 +15653,7 @@
         },
         {
             "name": "Lecture 4: Fixed Optical Flow, Optical Mouse, Constant Brightness Assumption, Closed Form Solution",
-            "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec04_1080p_360p_16_9.mp4",
+            "url": "/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec04_1080p_360p_16_9.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.801",
@@ -16292,7 +15662,7 @@
         },
         {
             "name": "Lecture 5: TCC and FOR MontiVision Demos, Vanishing Point, Use of VPs in Camera Calibration",
-            "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec05_1080p_360p_16_9.mp4",
+            "url": "/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec05_1080p_360p_16_9.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.801",
@@ -16301,7 +15671,7 @@
         },
         {
             "name": "Lecture 6: Photometric Stereo, Noise Gain, Error Amplification, Eigenvalues and Eigenvectors Review",
-            "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec06_1080p_360p_16_9.mp4",
+            "url": "/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec06_1080p_360p_16_9.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.801",
@@ -16310,7 +15680,7 @@
         },
         {
             "name": "Lecture 7: Gradient Space, Reflectance Map, Image Irradiance Equation, Gnomonic Projection",
-            "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec07_1080p_360p_16_9.mp4",
+            "url": "/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec07_1080p_360p_16_9.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.801",
@@ -16319,7 +15689,7 @@
         },
         {
             "name": "Lecture 8: Shading, Special Cases, Lunar Surface, Scanning Electron Microscope, Green's Theorem",
-            "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec08_1080p_360p_16_9.mp4",
+            "url": "/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec08_1080p_360p_16_9.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.801",
@@ -16328,7 +15698,7 @@
         },
         {
             "name": "Lecture 9: Shape from Shading, General Case - From First Order Nonlinear PDE to Five ODEs",
-            "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec09_1080p_360p_16_9.mp4",
+            "url": "/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec09_1080p_360p_16_9.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.801",
@@ -16337,7 +15707,7 @@
         },
         {
             "name": "Lecture 10: Characteristic Strip Expansion, Shape from Shading, Iterative Solutions",
-            "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec10_1080p_360p_16_9.mp4",
+            "url": "/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec10_1080p_360p_16_9.mp4",
             "type": "Lecture Videos",
             "fType": "Video File",
             "cid": "6.801",

@@ -42,7 +42,8 @@ def CourseLink(driver, url: str, num: int):
     for course in courses:
         link_tag = course.find_element(By.TAG_NAME, "a")
         link = link_tag.get_attribute("href")
-        links.append(link)
+        if link not in links:
+            links.append(link)
     print(f"Gathered {len(links)} courses")
     
 

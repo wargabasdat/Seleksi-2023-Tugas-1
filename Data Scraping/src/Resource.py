@@ -29,8 +29,11 @@ def GetResource(url, cid, semester, year) -> list:
                 resources = t.find_all("div", class_="resource-list-item container")
 
                 for resource in resources:
-                    downloadResource = "https://ocw.mit.edu" + resource.find("a", download="")["href"]
                     typeResource = resource.find("img", class_="resource-thumbnail")["aria-label"]
+                    if(typeResource == "Video File"):
+                        downloadResource = resource.find("a", download="")["href"]
+                    else:
+                        downloadResource = "https://ocw.mit.edu" + resource.find("a", download="")["href"]
                     titleResource = resource.find("a", class_="resource-list-title").text
 
                     r = Resource(name = titleResource, fType = typeResource, type = type.text, url = downloadResource, cid = cid, semester = semester, year = year)
