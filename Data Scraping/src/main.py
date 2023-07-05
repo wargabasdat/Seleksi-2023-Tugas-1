@@ -24,3 +24,5 @@ matches_dict = vlr.match_scraper()
 with open('../data/' + 'matches.json', 'w') as f:
     # dumps the result of the matches data into a json file, indent is used to prettify the file
     json.dump(matches_dict, f, indent=2)
+
+print("Data has been stored!")
