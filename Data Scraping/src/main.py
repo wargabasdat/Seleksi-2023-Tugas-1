@@ -85,11 +85,13 @@ while (1):
         inp = input()
 
         if (inp == 'yes' or inp == 'y'):
-            end = True
             print("Bye bye ...")
             exit(1)
         else: 
-            continue
+            command = int(input("Enter your command here: "))
     
+    else:
+        print("Command invalid.")
+        
     print(" ")
     command = int(input("Enter your command here: "))
