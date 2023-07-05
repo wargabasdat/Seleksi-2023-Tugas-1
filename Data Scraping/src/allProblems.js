@@ -1,28 +1,10 @@
 const cheerio = require("cheerio");
 const puppeteer = require("puppeteer");
 const FileSystem = require("fs");
+const getHTML = require("./utilities/getHTML");
+const writeToFile = require("./utilities/writeToFile");
 
 const url = "https://leetcode.com/problemset";
-
-/**
- * Get the HTML from the page of the given url using puppeteer.
- * Puppeteer is needed because the website uses a framework (isn't static).
- * @param {puppeteer.page} browserPage
- * @param {string} url
- * @returns html of the page
- */
-async function getHTML(browserPage, url) {
-  // Go to target website with the given page number
-  // Have it set to wait until the content has fully loaded (no more network activities)
-  await browserPage.goto(url, {
-    waitUntil: "networkidle0",
-  });
-
-  // Get full page html
-  const html = await browserPage.content();
-
-  return html;
-}
 
 /**
  * Parse the html of a problem page and process it into an array of problems with all of its attributes
@@ -197,20 +179,6 @@ function processProblemsCategory(html, category, problems) {
     });
 }
 
-/**
- * Write problems array into a file
- * @param {Array} problems
- */
-async function writeProblemsToFile(problems) {
-  FileSystem.writeFile(
-    "result/problems.json",
-    JSON.stringify(problems),
-    (error) => {
-      if (error) throw error;
-    }
-  );
-}
-
 // Execute the fetching of all of the problems
 (async () => {
   // Initiate the browser
@@ -240,5 +208,5 @@ async function writeProblemsToFile(problems) {
   // Close the opened chromium browser
   await browser.close();
 
-  writeProblemsToFile(problems);
+  writeToFile(problems, "problems");
 })();
