@@ -78,13 +78,8 @@ Once done, you can use the database to your heart's content. You can use the rel
 </p>
 
 ### Explanation of the ERD to Relational Diagram Process
-For the full step-by-step explanation on the ERD to Relational process you can <br>
+For the full step-by-step explanation of the ERD to Relational process, you can <br>
 <a href='https://docs.google.com/document/d/1Mb3ZZDUXXIagf17eEDmtMFo0wlgui2ADBjK_Nw-NXo0/edit?usp=sharing'>READ THIS DOCUMENT </a>
-<br>
-<br>
-Snippet of the document: <br> <br>
-![image](https://github.com/Kean1202/Seleksi-2023-Tugas-1/assets/88710618/cfe23e35-7ef7-47b0-ad60-0322b6670d15)
-
 
 In summary:
 1. The strong entities are turned into their own relation
