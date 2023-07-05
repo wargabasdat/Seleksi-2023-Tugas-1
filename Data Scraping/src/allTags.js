@@ -55,10 +55,7 @@ const url = "https://leetcode.com/problemset";
 
   // Get the problems that are in each of the tags
   for (i = 0; i < tags.length; i++) {
-    // const problems = [];
     console.log(`Processing ${i}th tag (${tags[i].name}) of all tags`);
-
-    console.log(tagUrlGenerator(tags[i]["link"]));
 
     // Get the HTML of the page
     const html = await getHTML(page, tagUrlGenerator(tags[i]["link"]));
@@ -72,6 +69,7 @@ const url = "https://leetcode.com/problemset";
       //   Convert to array
       .toArray();
 
+    // Insert the information to the tag in the tags array
     tags[i]["problems"] = problems;
     tags[i]["numberOfProblems"] = problems.length;
   }
