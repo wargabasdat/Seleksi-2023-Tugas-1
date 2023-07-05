@@ -78,7 +78,8 @@ Once done, you can use the database to your heart's content. You can use the rel
 </p>
 
 ### Explanation of the ERD to Relational Diagram Process
-For the full step-by-step explanation on the ERD to Relational process click <a href='https://docs.google.com/document/d/1Mb3ZZDUXXIagf17eEDmtMFo0wlgui2ADBjK_Nw-NXo0/edit?usp=sharing'>THIS LINK </a>
+For the full step-by-step explanation on the ERD to Relational process you can <br>
+<a href='https://docs.google.com/document/d/1Mb3ZZDUXXIagf17eEDmtMFo0wlgui2ADBjK_Nw-NXo0/edit?usp=sharing'>READ THIS DOCUMENT </a>
 
 In summary:
 1. The strong entities are turned into their own relation
@@ -97,8 +98,11 @@ In summary:
 
   This is the code from the function that scrapes the map data
   <img src='/Data Scraping/screenshot/soup_maps_init.png'>
+  This code accesses the map tab on the website
   <img src='/Data Scraping/screenshot/soup_maps_access.png'>
+  This code scrapes the desired agent and map data
   <img src='/Data Scraping/screenshot/soup_maps_agent_search.png'>
+  This code appends all the data into a dictionary
   <img src='/Data Scraping/screenshot/soup_maps_append.png'>
 
 
@@ -106,23 +110,32 @@ In summary:
 
   This is the code from the function that scrapes the match data
   <img src='/Data Scraping/screenshot/soup_matches_init_1.png'>
+  Searching all the first matches on a given day
   <img src='/Data Scraping/screenshot/soup_matches_data_search.png'>
-  <img src='/Data Scraping/screenshot/soup_matches_data_search_2.png'>
+  Appending the results into a dictionary
   <img src='/Data Scraping/screenshot/soup_matches_append_1.png'>
+  Searching all the match data (non-first)
+  <img src='/Data Scraping/screenshot/soup_matches_data_search_2.png'>
+  Appending the data into a dictionary
   <img src='/Data Scraping/screenshot/soup_matches_append_2.png'>\
 
 
 
   This is the code from the function that scrapes the player data
   <img src='/Data Scraping/screenshot/soup_player_init.png'>
+  Accessing the table that contains the data
   <img src='/Data Scraping/screenshot/soup_player_table.png'>
+  An inner function to automate data cleaning
   <img src='/Data Scraping/screenshot/soup_player_innerfunc.png'>
+  Scraping the data as well as some transformation
   <img src='/Data Scraping/screenshot/soup_player_scraping.png'>
+  Appending the data into a dictionary
   <img src='/Data Scraping/screenshot/soup_player_insert.png'>
 
 
   This is a sample from the database included in the repository
   <img src='/Data Storing/screenshot/vlr_sql_tables.png'>
+  This is a snippet of selecting * in the player_stats relation
   <img src='/Data Storing/screenshot/vlr_sql_players_full.png'>
   
   An example of selecting data from the "player_stats" relation
