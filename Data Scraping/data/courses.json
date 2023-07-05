@@ -1,41 +1,6 @@
 {
     "courses": [
         {
-            "course_id": "6.00SC",
-            "semester": "Spring",
-            "year": "2011",
-            "title": "Introduction to Computer Science and Programming",
-            "url": "https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/",
-            "detail": "6.00SC Intro to CS and Programming has been retired from OCW.\u00a0You can access the archived course on DSpace \u2013 MIT\u2019s digital repository. Please see the list of\u00a0introductory programming courses and other programming courses from recent years.",
-            "lecturers": [
-                "Prof. John Guttag"
-            ],
-            "department": [
-                "Electrical Engineering and Computer Science"
-            ],
-            "courseImage": "https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/150f1db23890c18ca7b3bdea6d64be88_6-00scf11.jpg",
-            "level": "Undergraduate",
-            "downloadLink": "https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/download"
-        },
-        {
-            "course_id": "6.00",
-            "semester": "Fall",
-            "year": "2008",
-            "title": "Introduction to Computer Science and Programming",
-            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/",
-            "detail": "6.00 Intro to CS and Programming has been retired from OCW.\u00a0You can access the archived course on DSpace \u2013 MIT\u2019s digital repository. Please see the list of\u00a0introductory programming courses and other programming courses from recent years.",
-            "lecturers": [
-                "Prof. Eric Grimson",
-                "Prof. John Guttag"
-            ],
-            "department": [
-                "Electrical Engineering and Computer Science"
-            ],
-            "courseImage": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/83163b6f8bc2363872826866fb0e9bc8_6-00f08.jpg",
-            "level": "Undergraduate",
-            "downloadLink": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/download"
-        },
-        {
             "course_id": "11.521",
             "semester": "Spring",
             "year": "2003",
@@ -50,7 +15,9 @@
                 "Urban Studies and Planning"
             ],
             "courseImage": "https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/1775d9a06e4323c3f0aae38d15104358_11-521s03.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/download"
         },
         {
@@ -67,7 +34,9 @@
                 "Sloan School of Management"
             ],
             "courseImage": "https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/2081e6767b6e151605bc73deb3a196fc_15-561s05.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/download"
         },
         {
@@ -84,7 +53,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/f34024b4a6e0408be2f1bad03292c841_6-849f12.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/download"
         },
         {
@@ -102,7 +73,9 @@
                 "Engineering Systems Division"
             ],
             "courseImage": "https://ocw.mit.edu/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/b363475cd3787f4d9ff3724558579392_esd-86s07.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/download"
         },
         {
@@ -120,7 +93,9 @@
                 "Media Arts and Sciences"
             ],
             "courseImage": "https://ocw.mit.edu/courses/mas-771-autism-theory-and-technology-spring-2011/d82a1ef249729b363656ab3592ad09ef_mas-771s11.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/mas-771-autism-theory-and-technology-spring-2011/download"
         },
         {
@@ -137,7 +112,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/f6d37d09eaef7b57ce124b114839e448_6-883s06.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/download"
         },
         {
@@ -154,7 +131,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/9ffe1cbf71c05c46cd5feed2a13db420_6-824s06.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/download"
         },
         {
@@ -174,8 +153,49 @@
                 "Supplemental Resources"
             ],
             "courseImage": "https://ocw.mit.edu/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/9bd27e18cfffe3058487e2d9507b44c7_res-3-002iap2017.jpg",
-            "level": "Non Credit",
+            "level": [
+                "Non Credit"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/download"
+        },
+        {
+            "course_id": "6.171",
+            "semester": "Fall",
+            "year": "2003",
+            "title": "Software Engineering for Web Applications",
+            "url": "https://ocw.mit.edu/courses/6-171-software-engineering-for-web-applications-fall-2003/",
+            "detail": "6.171\u00a0is a course for students who already have some programming and software engineering experience. The goal is to give students some experience in dealing with those challenges that are unique to Internet applications, such as:",
+            "lecturers": [
+                "Prof. Harold Abelson",
+                "Dr. Philip Greenspun"
+            ],
+            "department": [
+                "Electrical Engineering and Computer Science"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/6-171-software-engineering-for-web-applications-fall-2003/b086dd2a905e4674a28e94436d5ae02b_6-171f03.jpg",
+            "level": [
+                "Undergraduate"
+            ],
+            "downloadLink": "https://ocw.mit.edu/courses/6-171-software-engineering-for-web-applications-fall-2003/download"
+        },
+        {
+            "course_id": "6.821",
+            "semester": "Fall",
+            "year": "2002",
+            "title": "Programming Languages",
+            "url": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/",
+            "detail": "6.821 teaches the principles of functional, imperative, and logic programming languages. Topics covered include: meta-circular interpreters, semantics (operational and denotational), type systems (polymorphism, inference, and abstract types), object oriented programming, modules, and multiprocessing. The course involves substantial programming assignments and problem sets as well as a significant amount of reading. The course uses the Scheme+ programming language for all of its assignments.",
+            "lecturers": [
+                "Prof. Michael Ernst"
+            ],
+            "department": [
+                "Electrical Engineering and Computer Science"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/304ad4961505862d4db115f5265a0ddd_6-821f02.jpg",
+            "level": [
+                "Graduate"
+            ],
+            "downloadLink": "https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/download"
         },
         {
             "course_id": "10.01",
@@ -190,7 +210,9 @@
             ],
             "department": [],
             "courseImage": "https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/ada7d23d0198f4fd05b613e6fb374b6c_10-01s20.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/download"
         },
         {
@@ -207,7 +229,9 @@
                 "Supplemental Resources"
             ],
             "courseImage": "https://ocw.mit.edu/courses/res-7-003-brave-new-planet-fall-2020/24f98cd436fe0d7bac8108118827eaca_RES.7-003F20.gif",
-            "level": "Non Credit",
+            "level": [
+                "Non Credit"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/res-7-003-brave-new-planet-fall-2020/download"
         },
         {
@@ -227,7 +251,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/36abf33ed3360e593e9ece30ece018e0_hst-950js03.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/download"
         },
         {
@@ -244,7 +270,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/e6f803bd7be5b998b181c261a1d93dff_6-883f05.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-883-program-analysis-fall-2005/download"
         },
         {
@@ -264,7 +292,9 @@
                 "Brain and Cognitive Sciences"
             ],
             "courseImage": "https://ocw.mit.edu/courses/9-520-statistical-learning-theory-and-applications-spring-2003/486b2444cb41036fa4357f1663aa371f_9-520s03.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/9-520-statistical-learning-theory-and-applications-spring-2003/download"
         },
         {
@@ -282,7 +312,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-005-elements-of-software-construction-fall-2008/d8a8e8172f2492649d68e37c1b102bb0_6-005f08.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-005-elements-of-software-construction-fall-2008/download"
         },
         {
@@ -301,7 +333,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-092-java-preparation-for-6-170-january-iap-2006/394bf20d9f5253b45ead0715cf581fcf_6-092iap06.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-092-java-preparation-for-6-170-january-iap-2006/download"
         },
         {
@@ -318,7 +352,9 @@
                 "Media Arts and Sciences"
             ],
             "courseImage": "https://ocw.mit.edu/courses/mas-961-numeric-photography-fall-1998/cfa783346ec143a8a9cf0742d8b6a35e_mas-961f98.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/mas-961-numeric-photography-fall-1998/download"
         },
         {
@@ -335,7 +371,9 @@
                 "Media Arts and Sciences"
             ],
             "courseImage": "https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/b626878bf85dcb8eb5096231dd1c9add_mas-963f01.gif",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/download"
         },
         {
@@ -352,7 +390,9 @@
                 "Experimental Study Group"
             ],
             "courseImage": "https://ocw.mit.edu/courses/es-258-goedel-escher-bach-spring-2007/dd2408e1e30d2fb70d485d6c35b79eb6_es-258s07.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/es-258-goedel-escher-bach-spring-2007/download"
         },
         {
@@ -370,7 +410,9 @@
                 "Mechanical Engineering"
             ],
             "courseImage": "https://ocw.mit.edu/courses/1-124j-foundations-of-software-engineering-fall-2000/8dbc5849588872a20e2e980691c5e512_1-124jf00.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/1-124j-foundations-of-software-engineering-fall-2000/download"
         },
         {
@@ -387,7 +429,9 @@
             ],
             "department": [],
             "courseImage": "https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2022/18-s191f22.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2022/download"
         },
         {
@@ -404,7 +448,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-096-algorithms-for-computational-biology-spring-2005/fadd4873c4a4520288acb3753dd67fe4_6-096s05.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-096-algorithms-for-computational-biology-spring-2005/download"
         },
         {
@@ -424,7 +470,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/c19e8d19c4f5e7cd7af2ad4ade517785_6-895f03.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-895-theory-of-parallel-systems-sma-5509-fall-2003/download"
         },
         {
@@ -441,7 +489,9 @@
                 "Mechanical Engineering"
             ],
             "courseImage": "https://ocw.mit.edu/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/955379b6d3a2ab98c4dcd1fabf8c3ca5_2-086s13.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/download"
         },
         {
@@ -459,7 +509,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/73030cb65d77bdb10ff82c37232f55d0_6-189iap08.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/download"
         },
         {
@@ -476,7 +528,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-441-information-theory-spring-2010/f72cccae546f0f9e94c015b30801eadb_6-441s10.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-441-information-theory-spring-2010/download"
         },
         {
@@ -494,8 +548,48 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-111-introductory-digital-systems-laboratory-fall-2002/6505d2441dcbc29a1e45d0c3eaa32ce3_6-111f02.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-111-introductory-digital-systems-laboratory-fall-2002/download"
+        },
+        {
+            "course_id": "18.S997",
+            "semester": "Fall",
+            "year": "2011",
+            "title": "Introduction To MATLAB Programming",
+            "url": "https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/",
+            "detail": "This course is intended to assist undergraduates with learning the basics of programming in general and programming MATLAB\u00ae in particular.",
+            "lecturers": [
+                "Yossi Farjoun"
+            ],
+            "department": [
+                "Mathematics"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/f5e3d4a851671a690f037c1f6e91abf9_18-s997f11.jpg",
+            "level": [
+                "Undergraduate"
+            ],
+            "downloadLink": "https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/download"
+        },
+        {
+            "course_id": "18.409",
+            "semester": "Spring",
+            "year": "2002",
+            "title": "Behavior of Algorithms",
+            "url": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/",
+            "detail": "This course is a study of Behavior of Algorithms and covers an area of current interest in theoretical computer science. The topics vary from term to term. During this term, we discuss rigorous approaches to explaining the typical performance of algorithms with a focus on the following approaches:\u00a0smoothed analysis, condition numbers/parametric analysis, and subclassing inputs.",
+            "lecturers": [
+                "Prof. Daniel Spielman"
+            ],
+            "department": [
+                "Mathematics"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/12f350b80ee921d9be75e7d68063c0ea_18-409s02.jpg",
+            "level": [
+                "Graduate"
+            ],
+            "downloadLink": "https://ocw.mit.edu/courses/18-409-behavior-of-algorithms-spring-2002/download"
         },
         {
             "course_id": "6.004",
@@ -511,7 +605,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/884ea4f30eef5ed573866691c5e2c3bb_6-004s09.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/download"
         },
         {
@@ -531,7 +627,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/a50a4da4c48d789a4565bd0dc4646cf1_6-026f20.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/download"
         },
         {
@@ -550,7 +648,9 @@
                 "Mathematics"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/f79f55df6aae6289ed44a7170e19acd0_6-046jf05.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/download"
         },
         {
@@ -567,7 +667,9 @@
                 "Music and Theater Arts"
             ],
             "courseImage": "https://ocw.mit.edu/courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/b2bb792fab8dac466a39fc2f6d1946f7_21m-380s10.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/download"
         },
         {
@@ -584,7 +686,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/ae7cfa71820e3d5773acadf185552d63_6-881s05.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/download"
         },
         {
@@ -601,7 +705,9 @@
                 "Mathematics"
             ],
             "courseImage": "https://ocw.mit.edu/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/3f0c1f66fea1cf2d46ee60f02b2422d3_18-409f09.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/download"
         },
         {
@@ -618,7 +724,9 @@
                 "Urban Studies and Planning"
             ],
             "courseImage": "https://ocw.mit.edu/courses/11-204-planning-communications-and-digital-media-fall-2004/c6e636037fbc006b60ad441f855288f2_11-204f04.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/11-204-planning-communications-and-digital-media-fall-2004/download"
         },
         {
@@ -635,7 +743,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/6-827f02.jpeg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/download"
         },
         {
@@ -653,7 +763,9 @@
                 "Mathematics"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2008/67859e9fc78239f07aad05ffb4f0c7a4_6-854jf08.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2008/download"
         },
         {
@@ -670,7 +782,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-012-microelectronic-devices-and-circuits-fall-2009/ef5a9d2f1b37ef4b06fa51af41dab537_6-012f09.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-012-microelectronic-devices-and-circuits-fall-2009/download"
         },
         {
@@ -689,7 +803,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/fecdf32086554546b8f8e3563528239e_6-092iap10.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/download"
         },
         {
@@ -707,7 +823,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/5f970c2a425be1ab8a55e56b590e158a_6-837f12.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/download"
         },
         {
@@ -724,7 +842,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/a79fa5e068ab51b3cf0477c51c15a9b9_6-033s18.png",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/download"
         },
         {
@@ -741,7 +861,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/214a5e010cf52836db37cdf581a5e787_6-189iap11.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/download"
         },
         {
@@ -758,7 +880,9 @@
                 "Urban Studies and Planning"
             ],
             "courseImage": "https://ocw.mit.edu/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/26abdd01f0c402f746ed752b5e978562_11-522f05.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/download"
         },
         {
@@ -776,7 +900,9 @@
                 "Chemical Engineering"
             ],
             "courseImage": "https://ocw.mit.edu/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/a76b08480d431902ca6c0f4873fbc0dc_10-34f15-1.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/download"
         },
         {
@@ -794,7 +920,9 @@
                 "Comparative Media Studies/Writing"
             ],
             "courseImage": "https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/8b33f48c4f3ddb22d1d4bf4454893fed_11-127js15.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/download"
         },
         {
@@ -811,7 +939,9 @@
                 "Supplemental Resources"
             ],
             "courseImage": "https://ocw.mit.edu/courses/res-tl-002-star-software-tools-for-academics-and-researchers-spring-2012/32209890c984cf5a8e50b26eb259c4ea_res-tl-002s12.jpg",
-            "level": "Non Credit",
+            "level": [
+                "Non Credit"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/res-tl-002-star-software-tools-for-academics-and-researchers-spring-2012/download"
         },
         {
@@ -828,7 +958,9 @@
                 "Linguistics and Philosophy"
             ],
             "courseImage": "https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/022a972cff7a3b1c755664b92dc9abb9_24-242s04.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/download"
         },
         {
@@ -845,7 +977,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-973-communication-system-design-spring-2006/620a0b98b718b035600121896b74db4b_6-973s06.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-973-communication-system-design-spring-2006/download"
         },
         {
@@ -862,7 +996,9 @@
                 "Supplemental Resources"
             ],
             "courseImage": "https://ocw.mit.edu/courses/res-18-002-introduction-to-matlab-spring-2008/830547395aefdce81c5e4f16624d5c3b_res-18-002s08.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/res-18-002-introduction-to-matlab-spring-2008/download"
         },
         {
@@ -879,7 +1015,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/d5eacb8eb2b75f6cff8265b1eb3d76b6_6-875s05.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/download"
         },
         {
@@ -896,7 +1034,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/d26b8d168b623555ac6f52579d204a8c_6-976s03.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/download"
         },
         {
@@ -914,7 +1054,9 @@
                 "Chemical Engineering"
             ],
             "courseImage": "https://ocw.mit.edu/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/42c023fdcb96e8fb3e8ff7c9c8ca197f_2-993js05.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/download"
         },
         {
@@ -934,7 +1076,10 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/f6a4a8580e9f629729e14e358a682bf4_6-830f10.jpg",
-            "level": "Graduate, Undergraduate",
+            "level": [
+                "Graduate",
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/download"
         },
         {
@@ -954,7 +1099,9 @@
                 "Aeronautics and Astronautics"
             ],
             "courseImage": "https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/8fdf4f6b75e719f287c46946c5a09062_2-158js03.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/download"
         },
         {
@@ -971,7 +1118,9 @@
                 "Mathematics"
             ],
             "courseImage": "https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/a57c259876d3e754c4931bef5590d242_18-433f03.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/18-433-combinatorial-optimization-fall-2003/download"
         },
         {
@@ -988,43 +1137,10 @@
                 "Sloan School of Management"
             ],
             "courseImage": "https://ocw.mit.edu/courses/15-358-the-software-business-fall-2005/6faca2660d899b0914b558fc95ad3f54_15-358f05.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/15-358-the-software-business-fall-2005/download"
-        },
-        {
-            "course_id": "6.871",
-            "semester": "Spring",
-            "year": "2005",
-            "title": "Knowledge-Based Applications Systems",
-            "url": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/",
-            "detail": "This course covers the development of programs containing a significant amount of knowledge about their application domain. The course includes a brief review of relevant AI techniques; case studies from a number of application domains, chosen to illustrate principles of system development; a discussion of technical issues encountered in building a system, including selection of knowledge representation, knowledge acquisition, etc.; and a discussion of current and future research. The course also provides hands-on experience in building an expert system (term project).",
-            "lecturers": [
-                "Prof. Randall Davis"
-            ],
-            "department": [
-                "Electrical Engineering and Computer Science"
-            ],
-            "courseImage": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/d56b8cb5b67c4cd669c5714057c2981a_6-871s05.jpg",
-            "level": "Graduate",
-            "downloadLink": "https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/download"
-        },
-        {
-            "course_id": "16.410",
-            "semester": "Fall",
-            "year": "2010",
-            "title": "Principles of Autonomy and Decision Making",
-            "url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/",
-            "detail": "This course surveys a variety of reasoning, optimization and decision making methodologies for creating highly autonomous systems and decision support aids. The focus is on principles, algorithms, and their application, taken from the disciplines of artificial intelligence and operations research.Reasoning paradigms include logic and deduction, heuristic and constraint-based search, model-based reasoning, planning and execution, and machine learning. Optimization paradigms include linear programming, integer programming, and dynamic programming. Decision-making paradigms include decision theoretic planning, and Markov decision processes.",
-            "lecturers": [
-                "Prof. Brian Charles Williams",
-                "Prof. Emilio Frazzoli"
-            ],
-            "department": [
-                "Aeronautics and Astronautics"
-            ],
-            "courseImage": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/559a0686d643e1459e7bdb572688a022_16-410f10.jpg",
-            "level": "Undergraduate",
-            "downloadLink": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/download"
         },
         {
             "course_id": "12.409",
@@ -1040,7 +1156,9 @@
                 "Earth, Atmospheric, and Planetary Sciences"
             ],
             "courseImage": "https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/79bc41618021f06e820108f8962ef147_12-409s02.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/download"
         },
         {
@@ -1061,7 +1179,9 @@
                 "Comparative Media Studies/Writing"
             ],
             "courseImage": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/68be269a8890549108049836924a39b2_cms-611jf14.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/download"
         },
         {
@@ -1079,7 +1199,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/37b562c923c6954768a4d8c6d79ddd5c_6-186iap05.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/download"
         },
         {
@@ -1096,7 +1218,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-892-computational-models-of-discourse-spring-2004/ca094bc607062eb5d302ce76306b7514_6-892s04.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-892-computational-models-of-discourse-spring-2004/download"
         },
         {
@@ -1113,7 +1237,9 @@
                 "Sloan School of Management"
             ],
             "courseImage": "https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/bb820e6651426bde62c060277dfbb042_15-S12F18.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/download"
         },
         {
@@ -1130,7 +1256,9 @@
                 "Science, Technology, and Society"
             ],
             "courseImage": "https://ocw.mit.edu/courses/sts-035-the-history-of-computing-spring-2004/8bbb39d490f56909d1a1a9d1d76ae068_sts-035s04.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/sts-035-the-history-of-computing-spring-2004/download"
         },
         {
@@ -1149,7 +1277,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/60b1fac5a961774acdfad06c6c51dac8_6-823f05.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/download"
         },
         {
@@ -1166,7 +1296,9 @@
                 "Sloan School of Management"
             ],
             "courseImage": "https://ocw.mit.edu/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/c4258cee7521fcb6a170395cc220ad26_15-097s12.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/download"
         },
         {
@@ -1184,7 +1316,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/b2c2937f360b27a0d80099dc9fec7b8b_6-02f12.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/download"
         },
         {
@@ -1203,7 +1337,9 @@
                 "Health Sciences and Technology"
             ],
             "courseImage": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/abf42c9a34c3c3c7a6c2f2871c990795_hst-952f02.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/hst-952-computing-for-biomedical-scientists-fall-2002/download"
         },
         {
@@ -1224,7 +1360,9 @@
                 "Health Sciences and Technology"
             ],
             "courseImage": "https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/c2dc5f4cc94aa3c22770f8e497f3734e_20-453jf08.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/download"
         },
         {
@@ -1242,7 +1380,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/ea7cfb3f6b1dc004d37c0b06ac102e62_6-087iap10.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/download"
         },
         {
@@ -1260,7 +1400,9 @@
                 "Institute for Data, Systems, and Society"
             ],
             "courseImage": "https://ocw.mit.edu/courses/16-355j-software-engineering-concepts-fall-2005/8418b32501d762759b8279b1e289ae3f_16-355jf05.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/16-355j-software-engineering-concepts-fall-2005/download"
         },
         {
@@ -1277,7 +1419,9 @@
                 "Mathematics"
             ],
             "courseImage": "https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/1db49f0074b5bdd4f63abac031cc5a63_18-657f15.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/download"
         },
         {
@@ -1294,7 +1438,9 @@
                 "Media Arts and Sciences"
             ],
             "courseImage": "https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/40aae8fab8508b459b0d960272bdca57_mas-630f15.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/mas-630-affective-computing-fall-2015/download"
         },
         {
@@ -1311,7 +1457,9 @@
                 "Earth, Atmospheric, and Planetary Sciences"
             ],
             "courseImage": "https://ocw.mit.edu/courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/915021e454921b7e4798d22cf186dbb2_12-950iap10.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/download"
         },
         {
@@ -1330,7 +1478,10 @@
                 "Civil and Environmental Engineering"
             ],
             "courseImage": "https://ocw.mit.edu/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/457598d84426c61f83ab06ad2aa39c04_1-00s12.jpg",
-            "level": "Undergraduate, Graduate",
+            "level": [
+                "Undergraduate",
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/download"
         },
         {
@@ -1349,7 +1500,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/bb7bc760922abfcd37f5d8b9203d771f_6-0001f16.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/download"
         },
         {
@@ -1367,7 +1520,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/18-337j-parallel-computing-fall-2011/b2fc64557ffc6ce583790290b143a089_18-337jf11.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/18-337j-parallel-computing-fall-2011/download"
         },
         {
@@ -1384,7 +1539,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/07691fe6eb1199376be401d92386b791_6-829f02.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/download"
         },
         {
@@ -1401,7 +1558,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/886ef46329cb8a977ae818c4018dd2e6_6-374f03.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/download"
         },
         {
@@ -1419,7 +1578,9 @@
                 "Mechanical Engineering"
             ],
             "courseImage": "https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/4360335455d93ba4844b01a2e7847ab5_2-882s05.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/download"
         },
         {
@@ -1436,7 +1597,9 @@
                 "Mathematics"
             ],
             "courseImage": "https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-of-data-science-fall-2015/4c2db203773cbde2bfcad8df913ce1cc_18-s096f15.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-of-data-science-fall-2015/download"
         },
         {
@@ -1453,7 +1616,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/90716014a03171bde18bc7138884136c_6-858f14.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/download"
         },
         {
@@ -1472,7 +1637,9 @@
                 "Sloan School of Management"
             ],
             "courseImage": "https://ocw.mit.edu/courses/15-060-data-models-and-decisions-fall-2014/a784635a0bb2514a81bdc6ea4db39f84_15.060f14.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/15-060-data-models-and-decisions-fall-2014/download"
         },
         {
@@ -1491,7 +1658,9 @@
                 "Experimental Study Group"
             ],
             "courseImage": "https://ocw.mit.edu/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/2d94c2b65d26bea7d2206e6736a3fc33_es-268s10.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/download"
         },
         {
@@ -1508,7 +1677,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-057-introduction-to-matlab-january-iap-2019/20d4110b5815d78f84876f348a30d844_6-057IAP19.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-057-introduction-to-matlab-january-iap-2019/download"
         },
         {
@@ -1527,7 +1698,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/b128e8bbad92049f5516f79ec21139fc_6-096iap2011.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/download"
         },
         {
@@ -1545,7 +1718,9 @@
                 "Sloan School of Management"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-251j-introduction-to-mathematical-programming-fall-2009/2da5a90d49ef24dbb5298a0516122992_6-251jf09.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-251j-introduction-to-mathematical-programming-fall-2009/download"
         },
         {
@@ -1563,7 +1738,9 @@
                 "Mechanical Engineering"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/dc0932fed5e8d55a868a31bdbcdc7ebb_6-055js08.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/download"
         },
         {
@@ -1580,7 +1757,9 @@
                 "Sloan School of Management"
             ],
             "courseImage": "https://ocw.mit.edu/courses/15-599-workshop-in-it-collaborative-innovation-networks-fall-2011/272e5b76d06116e0f84f048c6f7f5762_15-599f11.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/15-599-workshop-in-it-collaborative-innovation-networks-fall-2011/download"
         },
         {
@@ -1598,7 +1777,9 @@
                 "Supplemental Resources"
             ],
             "courseImage": "https://ocw.mit.edu/courses/res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021/ddd3661035a740d400d1717ca1e4114e_res-cms-001s21.png",
-            "level": "Non Credit",
+            "level": [
+                "Non Credit"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021/download"
         },
         {
@@ -1617,7 +1798,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/5a62336c0a97b276d6141b0b7f070b5b_6-006s20.png",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/download"
         },
         {
@@ -1634,7 +1817,9 @@
                 "Supplemental Resources"
             ],
             "courseImage": "https://ocw.mit.edu/courses/res-mas-002-day-of-ai-spring-2022/c9452c8c2ee3102bd624de89178e0c3a_res-mas-002s22.jpg",
-            "level": "Non Credit",
+            "level": [
+                "Non Credit"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/res-mas-002-day-of-ai-spring-2022/download"
         },
         {
@@ -1651,7 +1836,9 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/6c07484efe35e0b865f17f31304cc4a8_6-801f20.png",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/download"
         },
         {
@@ -1670,7 +1857,9 @@
                 "Aeronautics and Astronautics"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-243j-dynamics-of-nonlinear-systems-fall-2003/9b772f92b8b6b6024b83d408283d9706_6-243jf03.jpg",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-243j-dynamics-of-nonlinear-systems-fall-2003/download"
         },
         {
@@ -1690,7 +1879,9 @@
                 "Aeronautics and Astronautics"
             ],
             "courseImage": "https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/7d39ca1d8574312e876232ef920acfe8_16-621s03.jpg",
-            "level": "Undergraduate",
+            "level": [
+                "Undergraduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/16-621-experimental-projects-i-spring-2003/download"
         },
         {
@@ -1707,8 +1898,49 @@
                 "Electrical Engineering and Computer Science"
             ],
             "courseImage": "https://ocw.mit.edu/courses/6-s980-machine-learning-for-inverse-graphics-fall-2022/6-s980f22.png",
-            "level": "Graduate",
+            "level": [
+                "Graduate"
+            ],
             "downloadLink": "https://ocw.mit.edu/courses/6-s980-machine-learning-for-inverse-graphics-fall-2022/download"
+        },
+        {
+            "course_id": "6.00SC",
+            "semester": "Spring",
+            "year": "2011",
+            "title": "Introduction to Computer Science and Programming",
+            "url": "https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/",
+            "detail": "6.00SC Intro to CS and Programming has been retired from OCW.\u00a0You can access the archived course on DSpace \u2013 MIT\u2019s digital repository. Please see the list of\u00a0introductory programming courses and other programming courses from recent years.",
+            "lecturers": [
+                "Prof. John Guttag"
+            ],
+            "department": [
+                "Electrical Engineering and Computer Science"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/150f1db23890c18ca7b3bdea6d64be88_6-00scf11.jpg",
+            "level": [
+                "Undergraduate"
+            ],
+            "downloadLink": "https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/download"
+        },
+        {
+            "course_id": "6.00",
+            "semester": "Fall",
+            "year": "2008",
+            "title": "Introduction to Computer Science and Programming",
+            "url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/",
+            "detail": "6.00 Intro to CS and Programming has been retired from OCW.\u00a0You can access the archived course on DSpace \u2013 MIT\u2019s digital repository. Please see the list of\u00a0introductory programming courses and other programming courses from recent years.",
+            "lecturers": [
+                "Prof. Eric Grimson",
+                "Prof. John Guttag"
+            ],
+            "department": [
+                "Electrical Engineering and Computer Science"
+            ],
+            "courseImage": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/83163b6f8bc2363872826866fb0e9bc8_6-00f08.jpg",
+            "level": [
+                "Undergraduate"
+            ],
+            "downloadLink": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/download"
         }
     ]
 }

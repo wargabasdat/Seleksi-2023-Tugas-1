@@ -51,11 +51,11 @@ class Serializer:
                 for resource in self.resources
             ]
         }
-        with open("courses.json", "w") as file:
+        with open("../data/courses.json", "w") as file:
             json.dump(serialized_courses, file, indent=4)
 
-        with open("departments.json", "w") as file:
+        with open("../data/departments.json", "w") as file:
             json.dump(serialized_departments, file, indent=4)
 
-        with open("resources.json", "w") as file:
+        with open("../data/resources.json", "w") as file:
             json.dump(serialized_resources, file, indent=4)

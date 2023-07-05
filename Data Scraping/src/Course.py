@@ -108,7 +108,7 @@ def CourseDetail(url):
     print(f"Done Scraping Resources. Gathered {len(resources)}")
 
     # Save to A Model
-    CourseRet = Course(cid = cInfo[0], title=title, sem = year[0], year = year[-1], level = cInfo[2], url = url, lecturers=lecturers,
+    CourseRet = Course(cid = cInfo[0], title=title, sem = year[0], year = year[-1], level = cInfo[2].split(", "), url = url, lecturers=lecturers,
                        detail = description, department=department, courseImage = image, download=download)
 
     return CourseRet, resources
