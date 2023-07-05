@@ -78,9 +78,62 @@ Once done, you can use the database to your heart's content. You can use the rel
 </p>
 
 ### Explanation of the ERD to Relational Diagram Process
+For the full step-by-step explanation on the ERD to Relational process click <a href='https://docs.google.com/document/d/1Mb3ZZDUXXIagf17eEDmtMFo0wlgui2ADBjK_Nw-NXo0/edit?usp=sharing'>THIS LINK </a>
 
+In summary:
+1. The strong entities are turned into their own relation
+2. Weak entities are turned into a relation with their discriminator + their strong entity's primary key as their primary key
+3. one-to-many relationships are turned into a foreign key inside of the relation that can have one of the other entity
+4. one-to-one relationships are not present, but if they are, they would be treated in the same way as one-to-many relationships with priority to the entity that has total participation
+5. many-to-many relationships are turned into their own relation with the primary keys of both the entities in the relationship
+6. Specializations: each specialization is turned into their own relation while the parent entity stays as its own relation. The primary key of each child is a foreign key to the primary key of the parent entity
 
 ### Screenshots of the Program
+<p>
+  This is the main code that uses the three functions from VLR_scraper.py
+  <img src='/Data Scraping/screenshot/main_code.png'>
+
+
+
+  This is the code from the function that scrapes the map data
+  <img src='/Data Scraping/screenshot/soup_maps_init.png'>
+  <img src='/Data Scraping/screenshot/soup_maps_access.png'>
+  <img src='/Data Scraping/screenshot/soup_maps_agent_search.png'>
+  <img src='/Data Scraping/screenshot/soup_maps_append.png'>
+
+
+
+
+  This is the code from the function that scrapes the match data
+  <img src='/Data Scraping/screenshot/soup_matches_init_1.png'>
+  <img src='/Data Scraping/screenshot/soup_matches_data_search.png'>
+  <img src='/Data Scraping/screenshot/soup_matches_data_search_2.png'>
+  <img src='/Data Scraping/screenshot/soup_matches_append_1.png'>
+  <img src='/Data Scraping/screenshot/soup_matches_append_2.png'>\
+
+
+
+  This is the code from the function that scrapes the player data
+  <img src='/Data Scraping/screenshot/soup_player_init.png'>
+  <img src='/Data Scraping/screenshot/soup_player_table.png'>
+  <img src='/Data Scraping/screenshot/soup_player_innerfunc.png'>
+  <img src='/Data Scraping/screenshot/soup_player_scraping.png'>
+  <img src='/Data Scraping/screenshot/soup_player_insert.png'>
+
+
+  This is a sample from the database included in the repository
+  <img src='/Data Storing/screenshot/vlr_sql_tables.png'>
+  <img src='/Data Storing/screenshot/vlr_sql_players_full.png'>
+  
+  An example of selecting data from the "player_stats" relation
+  <img src='/Data Storing/screenshot/vlr_sql_players_selected.png'>
+
+  An example of selecting data from the "map_stats" relation
+  <img src='/Data Storing/screenshot/vlr_sql_map_selection.png'>
+
+  Data from the "matches" relation
+  <img src='/Data Storing/screenshot/vlr_sql_matches.png'>
+</p>
 
 ### References
 #### Libraries used
