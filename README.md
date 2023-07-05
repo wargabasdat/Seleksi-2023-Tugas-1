@@ -55,14 +55,14 @@ Once done, you can use the database to your heart's content. You can use the rel
   { <br>
     "Table Name": [ <br>
       { <br>
-        "Column 1": "Value", <br>
-        "Column 2": "Value", <br>
-        "Column 3": "Value", <br>
+        "  Column 1": "Value", <br>
+        "  Column 2": "Value", <br>
+        "  Column 3": "Value", <br>
       }, <br>
       { <br>
-        "Column 1": "Value", <br>
-        "Column 2": "Value", <br>
-        "Column 3": "Value", <br>
+        "  Column 1": "Value", <br>
+        "  Column 2": "Value", <br>
+        "  Column 3": "Value", <br>
       }, <br>
     ] <br>
 </p>
@@ -71,12 +71,12 @@ Once done, you can use the database to your heart's content. You can use the rel
 ### Database Structure
 <p>
   This is the Entity-Relationship Diagram of the database
-  <img src='https://github.com/Kean1202/Seleksi-2023-Tugas-1/tree/main/Data%20Storing/design/VLR_ERD'></img>
+  <img src='https://github.com/Kean1202/Seleksi-2023-Tugas-1/tree/main/Data%20Storing/design/VLR_ERD.png'></img>
 
   This is the Relational Diagram of the database
 </p>
 ### Explanation of the ERD to Relational Diagram Process
-<img src='https://github.com/Kean1202/Seleksi-2023-Tugas-1/tree/main/Data%20Storing/design/VLR_Relational'></img>
+<img src='https://github.com/Kean1202/Seleksi-2023-Tugas-1/tree/main/Data%20Storing/design/VLR_Relational.png'></img>
 
 ### Screenshots of the Program
 
