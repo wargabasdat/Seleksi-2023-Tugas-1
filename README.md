@@ -48,6 +48,7 @@
   psql -U {username} -d {database_name} < vlr_tokyo_database.sql
 Once done, you can use the database to your heart's content. You can use the relational database design in the design sub-folder as a reference for the database structure
 </p>
+
 ### JSON Structure
 
 ### Database Structure
