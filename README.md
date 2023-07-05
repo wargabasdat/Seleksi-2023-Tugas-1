@@ -76,6 +76,9 @@ Once done, you can use the database to your heart's content. You can use the rel
   This is the Relational Diagram of the database <br>
   <img src='/Data Storing/design/VLR_Relational.png' title="RELATIONAL DIAGRAM">
 </p>
+<br>
+<br>
+<br>
 
 ### Explanation of the ERD to Relational Diagram Process
 For the full step-by-step explanation of the ERD to Relational process, you can <br>
