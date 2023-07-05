@@ -35,11 +35,19 @@
   
   The "Data Scraping" folder contains the script I wrote to scrape data from the VLR.gg website. The script is written in the Python programming language and uses the BeautifulSoup library to scrape certain data from the HTML file of the website. All scraping is done in moderation. The scraped data is parsed, transformed, and cleaned before being stored in a Python dictionary localized in the script itself. Once the data processing phase is finished, the dictionary is converted into three JSON files. Each file represents a different data source from the VLR.gg website. The "players.json" file contains the statistics of each performance metric from each player that participated in the tournament. The "matches.json" file contains the results of every match that was played in the tournament. The "map_agent.json" file contains the statistics of each map and how often each agent was picked on that map.
 
-  The "Data Storing" folder contains the SQL dump of the database, the ER diagram of the database, and the relational database design. The ERD design is based on the three main data files I acquired from the scraper script. Some entity sets were added to contextualize the data that I acquired in the process. The relational database design is based on the ER design that was translated using the standard transformation process. Finally, the SQL file in the "export" sub-folder contains the database that was built based on the ER and relational database designs. The data that was acquired from the scraping process has been inserted into the database according the the relevant tables
+  The "Data Storing" folder contains the SQL dump of the database, the ER diagram of the database, and the relational database design. The ERD design is based on the three main data files I acquired from the scraper script. Some entity sets were added to contextualize the data that I acquired in the process. The relational database design is based on the ER design that was translated using the standard transformation process. Finally, the SQL file in the "export" sub-folder contains the database that was built based on the ER and relational database designs. The data that was acquired from the scraping process has been inserted into the database according to the relevant tables
 </p>
 
 ### How to use
+<p>
+  To use the data scraper, download the "VLR_scraper.py" file and the "main.py" file from the Data Scraping folder. In the "main.py" file, adjust the JSON dump path to any path that you want to save the data in, For example:
+  with open(<YOUR PATH HERE>, 'w') as f:
+    You can change the URL used in the "VLR_scraper.py" file to any other Valorant tournament as long as it is covered on the VLR website. Make sure that each URL refers to the correct tab of the scraper script. The 'stats' tab goes into the player_scraper function, the 'agents' tab goes into the map_agents_scraper function, and the 'matches' tab goes into the match_scraper function
 
+  To use the SQL file, download the "vlr_tokyo_database" SQL file in the export sub-folder of the Data Storing folder. After you've finished downloading the SQL file, import it into your own database. You can do this in PostgreSQL using the following command:
+  psql -U {username} -d {database_name} < vlr_tokyo_database.sql
+Once done, you can use the database to your heart's content. You can use the relational database design in the design sub-folder as a reference for the database structure
+</p>
 ### JSON Structure
 
 ### Database Structure
