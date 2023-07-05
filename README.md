@@ -71,10 +71,10 @@ Once done, you can use the database to your heart's content. You can use the rel
 ### Database Structure
 <p>
   This is the Entity-Relationship Diagram of the database <br>
-  <img src='/Data Storing/design/VLR_ERD.jpg' title="ER DIAGRAM">
+  <img src='/Data Storing/design/VLR_ERD.png' title="ER DIAGRAM">
 
   This is the Relational Diagram of the database <br>
-  <img src='/Data Storing/design/VLR_Relational.jpg' title="RELATIONAL DIAGRAM">
+  <img src='/Data Storing/design/VLR_Relational.png' title="RELATIONAL DIAGRAM">
 </p>
 
 ### Explanation of the ERD to Relational Diagram Process
