@@ -53,18 +53,18 @@ Once done, you can use the database to your heart's content. You can use the rel
 <p>
   There are three JSON files in this repository that each represents one table in the database. Each JSON file holds one object (the database table) that contains an array, the array contains objects that represent the columns of the table and its contents (from the VLR page). The structure of each file is as follows:
   { <br>
-    "Table Name": [ <br>
-        { <br>
-          "  Column 1": "Value", <br>
-          "  Column 2": "Value", <br>
-          "  Column 3": "Value", <br>
-        }, <br>
-        { <br>
-          "  Column 1": "Value", <br>
-          "  Column 2": "Value", <br>
-          "  Column 3": "Value", <br>
-        }, <br>
-    ] <br>
+    &ensp"Table Name": [ <br>
+        &ensp&ensp{ <br>
+          &ensp&ensp&ensp"Column 1": "Value", <br>
+          &ensp&ensp&ensp"Column 2": "Value", <br>
+          &ensp&ensp&ensp"Column 3": "Value", <br>
+        &ensp&ensp}, <br>
+        &ensp&ensp{ <br>
+          &ensp&ensp&ensp"Column 1": "Value", <br>
+          &ensp&ensp&ensp"Column 2": "Value", <br>
+          &ensp&ensp&ensp"Column 3": "Value", <br>
+        &ensp&ensp}, <br>
+    &ensp] <br>
 </p>
 
 
