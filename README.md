@@ -99,56 +99,57 @@ In summary:
 
 
 
-  This is the code from the function that scrapes the map data
+  This is the code from the function that scrapes the map data<br>
   <img src='/Data Scraping/screenshot/soup_maps_init.png'>
-  This code accesses the map tab on the website
-  <img src='/Data Scraping/screenshot/soup_maps_access.png'>
-  This code scrapes the desired agent and map data
-  <img src='/Data Scraping/screenshot/soup_maps_agent_search.png'>
-  This code appends all the data into a dictionary
-  <img src='/Data Scraping/screenshot/soup_maps_append.png'>
+  <br>
+  This code accesses the map tab on the website<br>
+  <img src='/Data Scraping/screenshot/soup_maps_access.png'> <br>
+  This code scrapes the desired agent and map data <br>
+  <img src='/Data Scraping/screenshot/soup_maps_agent_search.png'> <br>
+  This code appends all the data into a dictionary <br>
+  <img src='/Data Scraping/screenshot/soup_maps_append.png'> <br>
+  <br>
 
 
 
-
-  This is the code from the function that scrapes the match data
-  <img src='/Data Scraping/screenshot/soup_matches_init_1.png'>
-  Searching all the first matches on a given day
-  <img src='/Data Scraping/screenshot/soup_matches_data_search.png'>
-  Appending the results into a dictionary
-  <img src='/Data Scraping/screenshot/soup_matches_append_1.png'>
-  Searching all the match data (non-first)
-  <img src='/Data Scraping/screenshot/soup_matches_data_search_2.png'>
-  Appending the data into a dictionary
-  <img src='/Data Scraping/screenshot/soup_matches_append_2.png'>\
-
+  This is the code from the function that scrapes the match data <br>
+  <img src='/Data Scraping/screenshot/soup_matches_init_1.png'> <br>
+  Searching all the first matches on a given day <br>
+  <img src='/Data Scraping/screenshot/soup_matches_data_search.png'> <br>
+  Appending the results into a dictionary <br>
+  <img src='/Data Scraping/screenshot/soup_matches_append_1.png'> <br>
+  Searching all the match data (non-first) <br>
+  <img src='/Data Scraping/screenshot/soup_matches_data_search_2.png'> <br>
+  Appending the data into a dictionary <br>
+  <img src='/Data Scraping/screenshot/soup_matches_append_2.png'> <br>
 
 
-  This is the code from the function that scrapes the player data
-  <img src='/Data Scraping/screenshot/soup_player_init.png'>
-  Accessing the table that contains the data
-  <img src='/Data Scraping/screenshot/soup_player_table.png'>
-  An inner function to automate data cleaning
-  <img src='/Data Scraping/screenshot/soup_player_innerfunc.png'>
-  Scraping the data as well as some transformation
-  <img src='/Data Scraping/screenshot/soup_player_scraping.png'>
-  Appending the data into a dictionary
-  <img src='/Data Scraping/screenshot/soup_player_insert.png'>
+
+  This is the code from the function that scrapes the player data <br>
+  <img src='/Data Scraping/screenshot/soup_player_init.png'> <br>
+  Accessing the table that contains the data <br>
+  <img src='/Data Scraping/screenshot/soup_player_table.png'> <br>
+  An inner function to automate data cleaning <br>
+  <img src='/Data Scraping/screenshot/soup_player_innerfunc.png'> <br>
+  Scraping the data as well as some transformation <br>
+  <img src='/Data Scraping/screenshot/soup_player_scraping.png'> <br>
+  Appending the data into a dictionary <br>
+  <img src='/Data Scraping/screenshot/soup_player_insert.png'> <br>
 
 
-  This is a sample from the database included in the repository
-  <img src='/Data Storing/screenshot/vlr_sql_tables.png'>
-  This is a snippet of selecting * in the player_stats relation
-  <img src='/Data Storing/screenshot/vlr_sql_players_full.png'>
+  This is a sample from the database included in the repository <br>
+  <img src='/Data Storing/screenshot/vlr_sql_tables.png'> <br>
+  This is a snippet of selecting * in the player_stats relation <br>
+  <img src='/Data Storing/screenshot/vlr_sql_players_full.png'> <br>
   
-  An example of selecting data from the "player_stats" relation
-  <img src='/Data Storing/screenshot/vlr_sql_players_selected.png'>
+  An example of selecting data from the "player_stats" relation <br>
+  <img src='/Data Storing/screenshot/vlr_sql_players_selected.png'> <br>
 
-  An example of selecting data from the "map_stats" relation
-  <img src='/Data Storing/screenshot/vlr_sql_map_selection.png'>
+  An example of selecting data from the "map_stats" relation <br>
+  <img src='/Data Storing/screenshot/vlr_sql_map_selection.png'> <br>
 
-  Data from the "matches" relation
-  <img src='/Data Storing/screenshot/vlr_sql_matches.png'>
+  Data from the "matches" relation <br>
+  <img src='/Data Storing/screenshot/vlr_sql_matches.png'> <br>
 </p>
 
 ### References
