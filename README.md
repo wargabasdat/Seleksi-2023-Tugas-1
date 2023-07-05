@@ -110,7 +110,7 @@ Program ini memanfaatkan bahasa pemrograman Python dalam proses _data scraping_
 - Open your preferred terminal
 - Change the directory into ```data_scraping/src```
 - Type ```python -u web_scraping_sarapan.py``` on the terminal
-- <span style="color:red">Please wait</span>, it usually takes around +30 seconds to gather the data
+- __Please wait__, it usually takes around +30 seconds to gather the data
 - After the process is over, a couple of messages will show up in the terminal that the JSON and CSV files are successfully created.
 - You can access them in ```data_scraping/data```
 
