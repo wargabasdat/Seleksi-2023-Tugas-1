@@ -12,6 +12,8 @@
   <br>
 </h2>
 
+<h3>A DASHBOARD OF THE TOURNAMENT</h3>
+<img src='/Data Visualization/VCT Tokyo 2023 Dashboard.png'>
 
 
 ### Description of the Data and DBMS
