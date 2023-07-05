@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import json
+import pandas as pd
 
 # Request the main site
 url = "https://www.klikindomaret.com/category/sarapan"
@@ -80,3 +81,13 @@ with open("../data/data_sarapan.json", "w") as outfile:
     json.dump(json_dict, outfile, indent=4)
 
 print("Json file is successfully created!")
+
+# Turn json into string
+string_json = json.dumps(json_dict)
+
+# Use pandas to read json string
+df = pd.read_json(string_json)
+
+# Turn json string into csv
+df.to_csv('../data/data_sarapan.csv')
+print("CSV file is successfully created!")
