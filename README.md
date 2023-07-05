@@ -52,28 +52,31 @@ Once done, you can use the database to your heart's content. You can use the rel
 ### JSON Structure
 <p>
   There are three JSON files in this repository that each represents one table in the database. Each JSON file holds one object (the database table) that contains an array, the array contains objects that represent the columns of the table and its contents (from the VLR page). The structure of each file is as follows:
-  {
-    "Table Name": [
-      {
-        "Column 1": "Value",
-        "Column 2": "Value",
-        "Column 3": "Value",
-      },
-      {
-        "Column 1": "Value",
-        "Column 2": "Value",
-        "Column 3": "Value",
-      },
-    ]
+  { <br>
+    "Table Name": [ <br>
+      { <br>
+        "Column 1": "Value", <br>
+        "Column 2": "Value", <br>
+        "Column 3": "Value", <br>
+      }, <br>
+      { <br>
+        "Column 1": "Value", <br>
+        "Column 2": "Value", <br>
+        "Column 3": "Value", <br>
+      }, <br>
+    ] <br>
 </p>
 
 
 ### Database Structure
 <p>
   This is the Entity-Relationship Diagram of the database
-  <img src='https://github.com/Kean1202/Seleksi-2023-Tugas-1/tree/main/Data%20Storing/design'></img>
+  <img src='https://github.com/Kean1202/Seleksi-2023-Tugas-1/tree/main/Data%20Storing/design/VLR_ERD'></img>
+
+  This is the Relational Diagram of the database
 </p>
 ### Explanation of the ERD to Relational Diagram Process
+<img src='https://github.com/Kean1202/Seleksi-2023-Tugas-1/tree/main/Data%20Storing/design/VLR_Relational'></img>
 
 ### Screenshots of the Program
 
