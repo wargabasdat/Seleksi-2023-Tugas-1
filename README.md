@@ -79,11 +79,11 @@ d
 
 The final diagram is as follows:
 
-![Entity relationship diagram of the database in formula1.com website](Data Storing/design/erd.png)
+![Entity relationship diagram of the database in formula1.com website](/Data Storing/design/erd.png)
 
 ## Relational diagram
 
-![Relational database diagram in formula1.com website](Data Storing/design/relational.png)
+![Relational database diagram in formula1.com website](/Data Storing/design/relational.png)
 
 # ERD to Relational Diagram Translation Process
 
