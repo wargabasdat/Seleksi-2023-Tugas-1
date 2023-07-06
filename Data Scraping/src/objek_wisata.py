@@ -2,6 +2,7 @@ import requests
 import json
 from bs4 import BeautifulSoup
 
+# PERSIAPAN
 # Url dari website yang ingin di-scraping
 url = 'https://www.tripadvisor.co.id/Attractions-g2301784-Activities-oa{}-West_Sumatra_Sumatra.html'.format(0)
 
@@ -10,7 +11,7 @@ header = {
     'User-Agent' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)'
 }
 
-# Proses ekstrak data
+# EKSEKUSI
 # Inisialisasi tempat penyimpanan untuk menyimpan hasil ekstrak data
 list_objek_wisata = []
 page = 0
