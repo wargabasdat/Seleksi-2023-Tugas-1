@@ -1,5 +1,6 @@
 import requests
 import json
+import csv
 from bs4 import BeautifulSoup
 
 # PERSIAPAN
@@ -13,7 +14,8 @@ header = {
 
 # EKSEKUSI
 # Inisialisasi tempat penyimpanan untuk menyimpan hasil ekstrak data
-list_objek_wisata = []
+list_objek_wisata = [] # Ini apabila butuh data bentuk JSON
+list_objek_wisata_csv = [] # Ini apabila butuh data bentuk CSV
 page = 0
 peringkat = 0
 while (page <= 180) :
@@ -91,16 +93,24 @@ while (page <= 180) :
                 'jumlah_rating_1' : jumlah_rating_1,
                 'jumlah_ulasan' : jumlah_ulasan
             }
+            # Append ke tempat penyimpanan yang udah diinisialisasi di awal (pilih antara JSON atau CSV)
             list_objek_wisata.append(hasil_objek_wisata)
+            # list_objek_wisata_csv.append([peringkat, nama_objek, nama_daerah, rata_rata_rating, jumlah_rating_5, jumlah_rating_4, jumlah_rating_3, jumlah_rating_2, jumlah_rating_1, jumlah_ulasan])
             
             # Test scraping (jadikan komentar apabila tidak digunakan)
-            for i in hasil_objek_wisata :
-                print(i, ' : ', hasil_objek_wisata[i])
-            print('\n')
-            
+            # for i in hasil_objek_wisata :
+            #     print(i, ' : ', hasil_objek_wisata[i])
+            # print('\n')
     page += 30
 
-# # PENYIMPANAN
-# # Proses formatting hasil ekstrak data ke bentuk json
-# with open('Data Scraping/data/objek_wisata.json', 'w') as file:
-#     json.dump(list_objek_wisata, file, indent = 10)
+# PENYIMPANAN
+# Proses penyimpanan dan formatting hasil ekstrak data ke bentuk JSON
+with open('Data Scraping/data/objek_wisata.json', 'w') as file:
+    json.dump(list_objek_wisata, file, indent = 10)
+
+# Proses penyimpanan dan formatting hasil ekstrak data ke bentuk CSV
+# kepala = ['peringkat', 'nama_objek', 'nama_daerah', 'rata_rata_rating', 'jumlah_rating_5', 'jumlah_rating_4', 'jumlah_rating_3', 'jumlah_rating_2', 'jumlah_rating_1', 'jumlah_ulasan']
+# writer = csv.writer(open('Data Scraping/data/objek_wisata.csv', 'w', newline = ''))
+# writer.writerow(kepala)
+# for data in list_objek_wisata_csv :
+#     writer.writerow(data)
