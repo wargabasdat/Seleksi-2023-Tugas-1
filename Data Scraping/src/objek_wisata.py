@@ -26,11 +26,14 @@ while (page <= 180) :
     objek_wisata = soup.findAll('article', 'GTuVU XJlaI')
     for objek in objek_wisata:
         nama_objek = objek.find('div', 'XfVdV o AIbhI').text.split('. ')[1]
-        jenis_objek = objek.find('div', 'biGQs _P pZUbB hmDzD').text.replace(' • ', ', ')
         try :
-            rating = objek.find('svg', 'UctUV d H0 hzzSG')['aria-label'].split(' ')[0].replace(',', '.')
+            nama_jenis = objek.find('div', 'biGQs _P pZUbB hmDzD').text
         except :
-            rating = ''
+            nama_jenis = ''
+        try :
+            rata_rata_rating = objek.find('svg', 'UctUV d H0 hzzSG')['aria-label'].split(' ')[0].replace(',', '.')
+        except :
+            rata_rata_rating = ''
         try :
             jumlah_ulasan = objek.find('span', 'biGQs _P pZUbB osNWb').text
         except :
@@ -43,29 +46,61 @@ while (page <= 180) :
         }
         req_objek = requests.get(link_objek, headers = headers_objek)
         soup_objek = BeautifulSoup(req_objek.text, 'html.parser')
+
+        # Cari nama daerah
         items = soup_objek.findAll('div', 'IuzAT e')
-        for cek_daerah in items:
-            daerah_objek = cek_daerah.find('div', 'biGQs _P pZUbB KxBGd').text.split('di ')[1]
+        for cek_daerah in items :
+            nama_daerah = cek_daerah.find('div', 'biGQs _P pZUbB KxBGd').text.split('di ')[1]
+
+        # Cari rating per bintang
+        item_rating = soup_objek.findAll('div', 'outsq')
+        jumlah_rating_5 = 0
+        jumlah_rating_4 = 0
+        jumlah_rating_3 = 0
+        jumlah_rating_2 = 0
+        jumlah_rating_1 = 0
+        n = 1
+        for item in item_rating :
+            if (n == 1) :
+                jumlah_rating_5 = item.find('div', 'biGQs _P pZUbB osNWb').text
+            elif (n == 2) :
+                jumlah_rating_4 = item.find('div', 'biGQs _P pZUbB osNWb').text
+            elif (n == 3) :
+                jumlah_rating_3 = item.find('div', 'biGQs _P pZUbB osNWb').text
+            elif (n == 4) :
+                jumlah_rating_2 = item.find('div', 'biGQs _P pZUbB osNWb').text
+            elif (n == 5) :
+                jumlah_rating_1 = item.find('div', 'biGQs _P pZUbB osNWb').text
+            n += 1
 
         # Melakukan penyimpanan hasil ekstrak data ke tempat penyimpanan yang telah diinisialisasi sebelumnya
         # Penyimpanan dilakukan dengan didahului dengan cleaning data dari data kosong
-        if (nama_objek != '' and jenis_objek != '' and daerah_objek != '' and rating != '' and jumlah_ulasan != '') :
+        if (nama_objek != '' and nama_daerah != '' and nama_jenis != '' and rata_rata_rating != '' and jumlah_ulasan != '') :
             # Peringkat disesuaikan karena terjadinya cleaning data di atas
             peringkat += 1
-
             # Memasukkan variabel ke dalam bentuk dictionary
             hasil_objek_wisata = {
-                'Peringkat' : peringkat,
-                'Nama_Objek' : nama_objek,
-                'Jenis_Objek' : jenis_objek,
-                'Daerah_Objek' : daerah_objek,
-                'Rating' : rating,
-                'Jumlah_Ulasan' : jumlah_ulasan
+                'peringkat' : peringkat,
+                'nama_objek' : nama_objek,
+                'nama_daerah' : nama_daerah,
+                'rata_rata_rating' : rata_rata_rating,
+                'jumlah_rating_5' : jumlah_rating_5,
+                'jumlah_rating_4' : jumlah_rating_4,
+                'jumlah_rating_3' : jumlah_rating_3,
+                'jumlah_rating_2' : jumlah_rating_2,
+                'jumlah_rating_1' : jumlah_rating_1,
+                'jumlah_ulasan' : jumlah_ulasan
             }
             list_objek_wisata.append(hasil_objek_wisata)
-        
+            
+            # Test scraping (jadikan komentar apabila tidak digunakan)
+            for i in hasil_objek_wisata :
+                print(i, ' : ', hasil_objek_wisata[i])
+            print('\n')
+            
     page += 30
 
-# Proses formatting hasil ekstrak data ke bentuk json
-with open('Data Scraping/data/objek_wisata.json', 'w') as file:
-    json.dump(list_objek_wisata, file, indent = 6)
+# # PENYIMPANAN
+# # Proses formatting hasil ekstrak data ke bentuk json
+# with open('Data Scraping/data/objek_wisata.json', 'w') as file:
+#     json.dump(list_objek_wisata, file, indent = 10)
