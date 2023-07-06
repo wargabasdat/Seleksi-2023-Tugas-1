@@ -7,7 +7,7 @@
 
 <h2 align="center">
   <br>
-  Data Scraping, Database Modelling & Data Storing
+  Data Scraping, Database Modelling, Data Visualization & Data Storing
   <br>
   <br>
 </h2>
