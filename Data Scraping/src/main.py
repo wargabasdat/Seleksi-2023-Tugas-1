@@ -22,7 +22,7 @@ def print_commands():
 Available commands:
 0. See available commands
 1. Get driver standings of a season
-2. Get the races of a season
+2. Get the races of a season or multiple seasons
 3. Get race results (requires race IDs on the F1 website)
 4. Get the drivers that raced in a range of seasons
 5. Save last dataframe to JSON
@@ -40,18 +40,23 @@ while (1):
     if (command == 0):
         print_commands()
 
-    elif (command == 1):
+    elif (command == 1):        # get driver standings in a season
         year = input("Enter season/year: ")
         df = ws.get_drivers_standings(year)
         df = df.drop(columns='Nationality')
         print(df)
 
-    elif (command == 2):
-        year = input("Enter season/year: ")
-        df = ws.get_races(year)
+    elif (command == 2):       # get races in a season or more
+        inp = input("Enter season/year (if multiple, separate years by commas): ")
+        if (len(inp) > 4):
+            years = [year for year in inp.split(', ')]
+            df = ws.get_races_in_a_range(years)
+        else:
+            year = inp
+            df = ws.get_races(year)
         print(df)
 
-    elif (command == 3):
+    elif (command == 3):        # get race results
         year, location, race_id = [x for x in input("Enter race year, location, and ID separated by commas: ").split(', ')]
         if (" " in location):
             location.replace(" ", "-")
@@ -59,16 +64,20 @@ while (1):
         df = ws.get_race_results(year, location, race_id)
         print(df)
 
-    elif (command == 4):
-        years = [year for year in input("Enter years, separated by comma: ".split(', '))]
+    elif (command == 4):        # get drivers
+        inp = input("Enter season/year (if multiple, separate years by commas or by start_year:end_year): ")
         
+        if (len(inp) > 4):
+            years = [year for year in inp.split(', ')]
+        else:
+            years = inp
+
         df = ws.get_drivers(years)
         print(df)
 
-    elif (command == 5 or command == 'save'):
+    elif (command == 5 or command == 'save'):   # saving
         if df.empty:
             print("You have not scraped any data.")
-
         else:
             print(df.head())
             print(" ")
@@ -80,10 +89,7 @@ while (1):
             # printing the file names available
             i = 1
             for file_name in file_names:
-                if file_name == 'seasons.json':
-                    print(f'{i}. {file_name} - DO NOT OVERWRITE')
-                else:
-                    print(f'{i}. {file_name}')
+                print(f'{i}. {file_name}')
                 i = i + 1
 
             print(" ")
@@ -94,9 +100,11 @@ while (1):
 
             with open(data_file_path, "w+") as file:
                 file.write(json_string)
+            
+            print(f'{table_name}.json has been successfuly created at {data_file_path}.')
 
     elif (command == 6 or str(command) == 'exit'):
-        print("Are you sure you want to exit?")
+        print("Are you sure you want to exit? (y/n)")
         inp = input()
 
         if (inp == 'yes' or inp == 'y'):

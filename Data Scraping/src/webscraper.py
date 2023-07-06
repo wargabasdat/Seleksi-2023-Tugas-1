@@ -2,19 +2,22 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 import numpy as np
-import json
 
-import urllib3
+# lambda function to convert to string if integer
+fcn = lambda y: str(y) if type(y) == int else y
+
+# headers : to say hi!
 
 def get_drivers_standings(year):
     """
     Receives a year (can be string or int) and returns the driver's standings for that year.
     """
-    fcn = lambda y: str(y) if type(y) == int else y # covert to string if integer
     year = fcn(year)
-
+    headers = {
+        'user-agent': 'Mozilla/5.0 (Windows NT x64); Ilmagita N/18221101@std.stei.itb.ac.id'
+    }
     source = f'https://www.formula1.com/en/results.html/{year}/drivers.html'
-    page = requests.get(source, timeout=5)
+    page = requests.get(source, headers=headers, timeout=5)
     content = BeautifulSoup(page.content, "html.parser")
 
     # parser-lxml : change HTML to Python friendly format
@@ -56,11 +59,12 @@ def get_races(year):
     """
     Receives a year (can be string or int) and returns the races in a season that year.
     """
-    fcn = lambda y: str(y) if type(y) == int else y # covert to string if integer
     year = fcn(year)
-
+    headers = {
+        'user-agent': 'Mozilla/5.0 (Windows NT x64); Ilmagita N/18221101@std.stei.itb.ac.id'
+    }
     source = f'https://www.formula1.com/en/results.html/{year}/races.html'
-    page = requests.get(source, timeout=5)
+    page = requests.get(source, timeout=5, headers=headers)
     content = BeautifulSoup(page.content, "html.parser")
 
     # parser-lxml : change HTML to Python friendly format
@@ -108,18 +112,37 @@ def get_races(year):
 
     return df
 
+def get_races_in_a_range(years):
+    """
+    Returns all the races in a range of seasons.
+    """
+    races_df = pd.DataFrame()
+    temp_df = pd.DataFrame()
+    years_df = pd.DataFrame()
+
+    for year in years:
+        year = fcn(year)
+
+        races_df = get_races(year)
+        temp_df = years_df
+        years_df = pd.concat([temp_df, races_df])
+
+    return years_df
+
 def get_race_results(year, location, race_id):
     """
     Receives a year (can be string or int), country, and race_id (can be seen using get_season_results())
     and returns the race results.
 
     """
-    fcn = lambda y: str(y) if type(y) == int else y # covert to string if integer
     year = fcn(year)
     race_id = fcn(race_id)
+    headers = {
+        'user-agent': 'Mozilla/5.0 (Windows NT x64); Ilmagita N/18221101@std.stei.itb.ac.id'
+    }
 
     source = f'https://www.formula1.com/en/results.html/{year}/races/{race_id}/{location}/race-result.html'
-    page = requests.get(source, timeout=5)
+    page = requests.get(source, timeout=5, headers=headers)
     content = BeautifulSoup(page.content, "html.parser")
     soup = BeautifulSoup(page.text, 'lxml')
     table = soup.find_all('table')[0]
@@ -153,11 +176,13 @@ def get_season_ids_location(year):
     Receives a year and returns AN ARRAY of the race IDs and location of the races
     that year for use in the F1 website.
     """
-    fcn = lambda y: str(y) if type(y) == int else y # covert to string if integer
     year = fcn(year)
+    headers = {
+        'user-agent': 'Mozilla/5.0 (Windows NT x64); Ilmagita N/18221101@std.stei.itb.ac.id'
+    }
 
     source = f'https://www.formula1.com/en/results.html/{year}/races.html'
-    page = requests.get(source, timeout=5)
+    page = requests.get(source, timeout=5, headers=headers)
     content = BeautifulSoup(page.content, "html.parser")
 
     # parser-lxml : change HTML to Python friendly format
@@ -197,21 +222,16 @@ def get_season_ids_location(year):
 
     return array_ids_location
 
-# get driver from range of year (xx....xx)
-# scrape from driver standings aja
-# if driver already included in dataframe already then do not masukkin
-
 def get_drivers(range_of_years):
     """
     Returns all the drivers that competed in a given year. The parameter year can be a list
     or a single year.
     """
-
     if type(range_of_years) != list:
         years = [range_of_years]
     else:
         years = range_of_years
-        
+    
     years_df = pd.DataFrame(columns=['Driver', 'Nationality'])
     temp_df = pd.DataFrame(columns=['Driver', 'Nationality'])
 
@@ -222,16 +242,19 @@ def get_drivers(range_of_years):
         driver_df = get_drivers_standings(year)
         temp_df = driver_df[['Driver', 'Nationality']]
         years_df = pd.concat([temp_df, years_df])
-        years_df = years_df.drop_duplicates()
-
+    
+    years_df = years_df.drop_duplicates()
     return years_df
 
 def get_seasons():
     """
     Returns all the seasons currently available in the Formula One website.
     """
+    headers = {
+        'user-agent': 'Mozilla/5.0 (Windows NT x64); Ilmagita N/18221101@std.stei.itb.ac.id'
+    }
     source = 'https://www.formula1.com/en/results.html/2021/races.html'
-    page = requests.get(source, timeout=5)
+    page = requests.get(source, headers=headers, timeout=5)
     content = BeautifulSoup(page.content, "html.parser")
 
     # parser-lxml : change HTML to Python friendly format
