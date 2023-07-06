@@ -1,3 +1,4 @@
+Berawal dari pembuatan ER diagram > Diagram Relasional > setelah tahu kebutuhan data baru melakukan data scraping dll
 ## Description of the data and DBMS (Why you choose it)
 ## Specification of the program
 ## How to use

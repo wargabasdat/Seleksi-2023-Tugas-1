@@ -48,8 +48,11 @@ while (page <= 180) :
 
         # Melakukan penyimpanan hasil ekstrak data ke tempat penyimpanan yang telah diinisialisasi sebelumnya
         # Penyimpanan dilakukan dengan didahului dengan cleaning data dari data kosong
-        if (nama_objek != '' and jenis_objek != '' and rating != '' and jumlah_ulasan != '') :
+        if (nama_objek != '' and jenis_objek != '' and daerah_objek != '' and rating != '' and jumlah_ulasan != '') :
+            # Peringkat disesuaikan karena terjadinya cleaning data di atas
             peringkat += 1
+
+            # Memasukkan variabel ke dalam bentuk dictionary
             hasil_objek_wisata = {
                 'Peringkat' : peringkat,
                 'Nama_Objek' : nama_objek,
@@ -64,4 +67,4 @@ while (page <= 180) :
 
 # Proses formatting hasil ekstrak data ke bentuk json
 with open('Data Scraping/data/objek_wisata.json', 'w') as file:
-    json.dump(list_objek_wisata, file, indent = 5)
+    json.dump(list_objek_wisata, file, indent = 6)
