@@ -35,8 +35,7 @@ python3 main.py
 2. Get teams/constructors standings of a season
 3. Get the winners of a season
 4. Get race results (requires race IDs from the F1 website)
-5. Get quali results (requires race IDs from the F1 website)
-6. Get race IDs in a season
+5. Get race IDs in a season
 7. Save last dataframe to JSON
 
 You may save up to one dataframe to a JSON file at a time.
@@ -52,15 +51,7 @@ You may save up to one dataframe to a JSON file at a time.
     PTS: points gained in that season
   }
 ```
-* Constructor standings
-```
-  {
-    Pos: team's final position in the standings
-    Team: team name
-    PTS: points gained by that team
-  }
-```
-* Race winners
+* Races in a season
 ```
   {
     Grand Prix: name of Grand Prix
@@ -85,39 +76,26 @@ You may save up to one dataframe to a JSON file at a time.
     Points: points gained by driver
   }
 ```
-* Qualifying results
-```
-  {
-    Pos: qualifying position set by driver
-    No: driver's number
-    Driver: driver name
-    Car: driver's car
-    Q1: time set by driver in Q1
-    Q2: time set by driver in Q2
-    Q3: time set by driver in Q3
-    Laps: laps done by driver
-  }
-```
 # Database Structure
 Below are the structures of the database.
 
 ## ERD
-The following database is designed around the structure of data available in the Formula 1 website.
+The following database is designed around the structure of the available data scraped from the Formula 1 website.
 
-The center of this database is the `Season`, which is the year of the championship. A season has many `Races`, so their relationship will be _one-to-many_.
+The center of this database is the `Season`, which is the year of the championship. A season has many `Races`, so their relationship will be _one-to-many_. Each race has its own results, so `Results` is established as its own entity and having a _one-to-one_ relationship with `Races`. 
 
-Each race in `Races` is paired with a `Qualifying` session, so their relationship is _one-to-one_. Each race has its own results, so `results` is established as its own entity and having a _one-to-one_ relationship with `Races`. 
+A `Driver` is its own entity. In the Formula 1 website, drivers aren't assigned IDs. so the primary key will be their names in this database. Driver's numbers also can't be used to identify drivers, because they can change every year - for example, before Max Verstappen won his first championship in 2021, he raced with the number 33, not 1 (number 1 is usually reserved for championship winners). In other real life examples of databases, people should be assigned unique IDs and not just be uniquely identified by name.
+d
+`Results` contain the results of multiple drivers of each race, so it has a _one-to-many_ relationship. `DriverStandings` is also its own entity. A driver standings keeps track of many drivers at the same time, so its relationship with `Driver` is _one-to-many_.
 
-In practice, driver and teams should be their own entities, but the data of drivers and teams in the formula1.com website are available from this year only. Drivers and teams who did not race in the current season does not have a page in formula1.com website. Thus, drivers and teams are omitted from this ERD.
-
-Thus, this is the diagram:
+The final diagram is as follows:
 
 ## Relational diagram
 
 
 # ERD to Relational Diagram Translation Process
 
-By now you may realize that there are two new tables seemingly coming out of nowhere. This is caused by the limitations of the data scraped from the Formula 1 website. The driver standings and team standings in the Formula 1 website are the *final* standings, that is, it is updated every time race results are updated. It does not store the standings before and does not have any foreign key connections to the actual race results table. Thus, the author decided to not include it in the ERD diagram.
+
 
 
 # Screenshots
