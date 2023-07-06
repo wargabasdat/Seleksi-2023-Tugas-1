@@ -1,5 +1,4 @@
-<h1 align="center">Seleksi 1 Warga Basdat 2023</h1>
-<h1 align="center">Data Scraping, Data Storing, and Data Visualization from formula1.com</h1>
+<h1 align="center">Seleksi 1 Warga Basdat 2023: Data Scraping, Data Storing, and Data Visualization from formula1.com</h1>
 
 July 17th 2023 - v01.01
 
@@ -28,17 +27,7 @@ pip install -r libs.txt
 ```
 python3 main.py
 ```
-4. Follow the instructions in the program as follows. All commands will be done through program
-
-## Available commands and table examples
-1. Get driver standings of a season
-2. Get teams/constructors standings of a season
-3. Get the winners of a season
-4. Get race results (requires race IDs from the F1 website)
-5. Get race IDs in a season
-7. Save last dataframe to JSON
-
-You may save up to one dataframe to a JSON file at a time.
+4. Follow the instructions in the program as follows. All commands will be done through program.
 
 # JSON Structure
 * Driver standings
@@ -90,8 +79,11 @@ d
 
 The final diagram is as follows:
 
+![Entity relationship diagram of the database in formula1.com website](Data Storing/design/erd.png)
+
 ## Relational diagram
 
+![Relational database diagram in formula1.com website](Data Storing/design/relational.png)
 
 # ERD to Relational Diagram Translation Process
 
