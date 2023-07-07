@@ -1,38 +1,50 @@
 import requests
 import json
+import csv
 from bs4 import BeautifulSoup
 
-# Url dari website yang ingin di-scraping
-url = 'https://www.tripadvisor.co.id/Attractions-g2301784-Activities-oa0-West_Sumatra_Sumatra.html'
+# PERSIAPAN
+# Url yang ingin di-scraping
+url_utama = 'https://www.tripadvisor.co.id/Attractions-g2301784-Activities-oa0-West_Sumatra_Sumatra.html'
 
 # Header sebagai identitas dalam melakukan scraping
 header = {
     'User-Agent' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)'
 }
 
-# Melakukan request pada website yang akan diekstrak
-req = requests.post(url, headers = header)
-soup = BeautifulSoup(req.text, "html.parser")
+# EKSEKUSI
+# Melakukan request pada url yang akan di-scraping
+req = requests.post(url_utama, headers = header)
+soup = BeautifulSoup(req.text, 'html.parser')
 
-# Melakukan ekstrak data
-items = soup.findAll('div', 'XDHza y f u G')
-number = 0
-for it in items:
-    # Cleaning data dilakukan karena item yang ingin diekstrak dari web memiliki class yang sama dengan beberapa item yang tidak diinginkan
-    number += 1
-    if (number <= 6) :
+# Melakukan ekstraksi data
+n = 0  # Ini nanti di-loop untuk ngambil data khusus label aja, soalnya ada elemen lain selain label yang punya tag sama
+objek = soup.findAll('div', 'XDHza y f u G')
+for obj in objek :
+    n += 1
+    if (1 <= n <= 6) :
         continue
-
-    # Lanjut proses ekstrak data
     try :
-        jenis_objek = it.find('div', 'biGQs _P pZUbB KxBGd').text
+        url_per_label = 'https://www.tripadvisor.co.id/Attractions-g2301784-Activities-c{}-West_Sumatra_Sumatra.html'.format(obj.find('a', 'KoOWI')['href'].split('=')[1])
     except :
-        jenis_objek = ''
-    try :
-        kategori = it.find('a', 'KoOWI')['href']
-    except :
-        kategori = ''
+        url_per_label = ''
 
-    # New url digunakan untuk melihat jumlah 
-    new_url = 'https://www.tripadvisor.co.id/Attractions-g2301784-Activities-oa0-West_Sumatra_Sumatra.html#{}'.format(kategori)
-    print(new_url)
+    # Masuk ke halaman label untuk mencari jenis objek di tiap labelnya
+    header_label = {
+        'User-Agent' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)'
+    }
+    req_per_label = requests.post(url_per_label, headers = header_label)
+    soup_per_label = BeautifulSoup(req_per_label.text, 'html.parser')
+
+    # Cari jenis-jenis objek di tiap label
+    # items = soup_per_label.findAll('div', {'id' : 'type_filter_contents'})
+    # jenis_per_label = []
+    # for cek_jenis in items :
+    #     nama_jenis = cek_jenis.findAll('div', 'biGQs _P pZUbB KxBGd')
+    #     for cek in nama_jenis :
+    #         nama = cek.text
+    #         print(nama)
+    items = soup_per_label.findAll('label', {'id' : 'modal_type_94_label'})
+    print(items)
+
+# PENYIMPANAN
