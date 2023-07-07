@@ -1,6 +1,5 @@
 const cheerio = require("cheerio");
 const puppeteer = require("puppeteer");
-const FileSystem = require("fs");
 const getHTML = require("./utilities/getHTML");
 const writeToFile = require("./utilities/writeToFile");
 
@@ -55,7 +54,7 @@ const url = "https://leetcode.com/problemset";
 
   // Get the problems that are in each of the tags
   for (i = 0; i < tags.length; i++) {
-    console.log(`Processing ${i}th tag (${tags[i].name}) of all tags`);
+    console.log(`Processing ${i + 1}th tag (${tags[i].name}) of all tags`);
 
     // Get the HTML of the page
     const html = await getHTML(page, tagUrlGenerator(tags[i]["link"]));

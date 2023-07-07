@@ -108,7 +108,7 @@ async function fetchAndSaveProblem(page, problemLink, problemNumber) {
   let unfetchedProblems = [];
   try {
     const result = FileSystem.readFileSync(
-      "./result/problemsToFetch.json",
+      "../data/problemsToFetch.json",
       "utf-8"
     );
     unfetchedProblems = JSON.parse(result);
@@ -120,7 +120,7 @@ async function fetchAndSaveProblem(page, problemLink, problemNumber) {
 
   //   Get the list of problems
   const problems = JSON.parse(
-    FileSystem.readFileSync("./result/problems.json", "utf-8")
+    FileSystem.readFileSync("../data/problems.json", "utf-8")
   );
 
   //   If unfetchedProblems in empty, fetch all existing problems
@@ -165,9 +165,10 @@ async function fetchAndSaveProblem(page, problemLink, problemNumber) {
     // Remove the first element as that have been tried
     unfetchedProblems.shift();
 
+    // Write the unfetchedProblems to json to ensure failure and success are immediately written down
+    writeToFile(unfetchedProblems, "problemsToFetch");
+
     if (failed) {
-      // Write the unfetchedProblems to json to ensure failure are immediately written down
-      writeToFile(unfetchedProblems, "problemsToFetch");
       failureCount++;
     }
   }
@@ -175,6 +176,8 @@ async function fetchAndSaveProblem(page, problemLink, problemNumber) {
   if (failureCount > failureThreshold) {
     console.log("Too much failures. Stopping the program. Please try again.");
   }
+
+  writeToFile(unfetchedProblems, "problemsToFetch");
 
   browser.close();
 })();

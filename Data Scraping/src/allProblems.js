@@ -1,6 +1,5 @@
 const cheerio = require("cheerio");
 const puppeteer = require("puppeteer");
-const FileSystem = require("fs");
 const getHTML = require("./utilities/getHTML");
 const writeToFile = require("./utilities/writeToFile");
 

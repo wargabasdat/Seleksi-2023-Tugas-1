@@ -6,7 +6,7 @@ const FileSystem = require("fs");
  */
 async function writeToFile(toWrite, fileName) {
   FileSystem.writeFile(
-    `result/${fileName}.json`,
+    `../data/${fileName}.json`,
     JSON.stringify(toWrite),
     (error) => {
       if (error) throw error;
