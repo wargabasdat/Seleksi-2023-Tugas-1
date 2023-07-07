@@ -1,0 +1,196 @@
+{
+  "Matches": [
+    {
+      "Team Code": "FUT",
+      "Date": "2023-06-11",
+      "Team": "FUT Esports",
+      "Opponent": "Evil Geniuses",
+      "Team Score": 0,
+      "Opponent Score": 2
+    },
+    {
+      "Team Code": "DRX",
+      "Date": "2023-06-11",
+      "Team": "DRX",
+      "Opponent": "Attacking Soul Esports",
+      "Team Score": 2,
+      "Opponent Score": 0
+    },
+    {
+      "Team Code": "EDG",
+      "Date": "2023-06-11",
+      "Team": "EDward Gaming",
+      "Opponent": "T1",
+      "Team Score": 1,
+      "Opponent Score": 2
+    },
+    {
+      "Team Code": "NRG",
+      "Date": "2023-06-12",
+      "Team": "NRG Esports",
+      "Opponent": "Natus Vincere",
+      "Team Score": 2,
+      "Opponent Score": 1
+    },
+    {
+      "Team Code": "DRX",
+      "Date": "2023-06-12",
+      "Team": "DRX",
+      "Opponent": "Evil Geniuses",
+      "Team Score": 0,
+      "Opponent Score": 2
+    },
+    {
+      "Team Code": "NRG",
+      "Date": "2023-06-13",
+      "Team": "NRG Esports",
+      "Opponent": "T1",
+      "Team Score": 2,
+      "Opponent Score": 1
+    },
+    {
+      "Team Code": "ASE",
+      "Date": "2023-06-13",
+      "Team": "Attacking Soul Esports",
+      "Opponent": "FUT Esports",
+      "Team Score": 1,
+      "Opponent Score": 2
+    },
+    {
+      "Team Code": "NAVI",
+      "Date": "2023-06-13",
+      "Team": "Natus Vincere",
+      "Opponent": "EDward Gaming",
+      "Team Score": 0,
+      "Opponent Score": 2
+    },
+    {
+      "Team Code": "DRX",
+      "Date": "2023-06-14",
+      "Team": "DRX",
+      "Opponent": "FUT Esports",
+      "Team Score": 2,
+      "Opponent Score": 1
+    },
+    {
+      "Team Code": "T1",
+      "Date": "2023-06-14",
+      "Team": "T1",
+      "Opponent": "EDward Gaming",
+      "Team Score": 0,
+      "Opponent Score": 2
+    },
+    {
+      "Team Code": "LOUD",
+      "Date": "2023-06-16",
+      "Team": "LOUD",
+      "Opponent": "Evil Geniuses",
+      "Team Score": 0,
+      "Opponent Score": 2
+    },
+    {
+      "Team Code": "TL",
+      "Date": "2023-06-16",
+      "Team": "Team Liquid",
+      "Opponent": "EDward Gaming",
+      "Team Score": 2,
+      "Opponent Score": 1
+    },
+    {
+      "Team Code": "FNC",
+      "Date": "2023-06-17",
+      "Team": "FNATIC",
+      "Opponent": "NRG Esports",
+      "Team Score": 2,
+      "Opponent Score": 0
+    },
+    {
+      "Team Code": "PRX",
+      "Date": "2023-06-17",
+      "Team": "Paper Rex",
+      "Opponent": "DRX",
+      "Team Score": 2,
+      "Opponent Score": 0
+    },
+    {
+      "Team Code": "EDG",
+      "Date": "2023-06-18",
+      "Team": "EDward Gaming",
+      "Opponent": "LOUD",
+      "Team Score": 2,
+      "Opponent Score": 0
+    },
+    {
+      "Team Code": "DRX",
+      "Date": "2023-06-18",
+      "Team": "DRX",
+      "Opponent": "NRG Esports",
+      "Team Score": 0,
+      "Opponent Score": 2
+    },
+    {
+      "Team Code": "TL",
+      "Date": "2023-06-19",
+      "Team": "Team Liquid",
+      "Opponent": "Evil Geniuses",
+      "Team Score": 0,
+      "Opponent Score": 2
+    },
+    {
+      "Team Code": "PRX",
+      "Date": "2023-06-19",
+      "Team": "Paper Rex",
+      "Opponent": "FNATIC",
+      "Team Score": 0,
+      "Opponent Score": 2
+    },
+    {
+      "Team Code": "TL",
+      "Date": "2023-06-20",
+      "Team": "Team Liquid",
+      "Opponent": "NRG Esports",
+      "Team Score": 1,
+      "Opponent Score": 2
+    },
+    {
+      "Team Code": "PRX",
+      "Date": "2023-06-20",
+      "Team": "Paper Rex",
+      "Opponent": "EDward Gaming",
+      "Team Score": 2,
+      "Opponent Score": 1
+    },
+    {
+      "Team Code": "FNC",
+      "Date": "2023-06-21",
+      "Team": "FNATIC",
+      "Opponent": "Evil Geniuses",
+      "Team Score": 2,
+      "Opponent Score": 1
+    },
+    {
+      "Team Code": "NRG",
+      "Date": "2023-06-21",
+      "Team": "NRG Esports",
+      "Opponent": "Paper Rex",
+      "Team Score": 1,
+      "Opponent Score": 2
+    },
+    {
+      "Team Code": "EG",
+      "Date": "2023-06-24",
+      "Team": "Evil Geniuses",
+      "Opponent": "Paper Rex",
+      "Team Score": 3,
+      "Opponent Score": 2
+    },
+    {
+      "Team Code": "FNC",
+      "Date": "2023-06-25",
+      "Team": "FNATIC",
+      "Opponent": "Evil Geniuses",
+      "Team Score": 3,
+      "Opponent Score": 0
+    }
+  ]
+}
