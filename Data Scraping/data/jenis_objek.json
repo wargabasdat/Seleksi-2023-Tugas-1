@@ -1,0 +1,837 @@
+[
+    {
+        "peringkat": 1,
+        "nama_objek": "Istana Pagaruyung",
+        "nama_jenis": "Bangunan Arsitektur"
+    },
+    {
+        "peringkat": 2,
+        "nama_objek": "Jam Gadang Bukittinggi ",
+        "nama_jenis": "Monumen & Patung"
+    },
+    {
+        "peringkat": 3,
+        "nama_objek": "Air Terjun Lembah Anai",
+        "nama_jenis": "Air Terjun"
+    },
+    {
+        "peringkat": 4,
+        "nama_objek": "Lembah Harau",
+        "nama_jenis": "Ngarai"
+    },
+    {
+        "peringkat": 5,
+        "nama_objek": "Wisata pulau pagang",
+        "nama_jenis": "Pulau"
+    },
+    {
+        "peringkat": 6,
+        "nama_objek": "Danau Meninjau",
+        "nama_jenis": "Perairan"
+    },
+    {
+        "peringkat": 7,
+        "nama_objek": "Kelok Sembilan",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 8,
+        "nama_objek": "Gunung Marapi",
+        "nama_jenis": "Gunung Berapi"
+    },
+    {
+        "peringkat": 9,
+        "nama_objek": "Puncak Lawang",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 10,
+        "nama_objek": "Ngarai Sianok",
+        "nama_jenis": "Ngarai"
+    },
+    {
+        "peringkat": 11,
+        "nama_objek": "Masjid Raya Sumatera Barat",
+        "nama_jenis": "Bangunan Arsitektur"
+    },
+    {
+        "peringkat": 12,
+        "nama_objek": "Pulau Mandeh",
+        "nama_jenis": "Pulau"
+    },
+    {
+        "peringkat": 13,
+        "nama_objek": "Goa Jepang",
+        "nama_jenis": "Gua Bawah Tanah& Gua"
+    },
+    {
+        "peringkat": 14,
+        "nama_objek": "Pantai Air Manis",
+        "nama_jenis": "Pantai"
+    },
+    {
+        "peringkat": 15,
+        "nama_objek": "Danau Singkarak",
+        "nama_jenis": "Perairan"
+    },
+    {
+        "peringkat": 16,
+        "nama_objek": "Pulau Sikuai",
+        "nama_jenis": "Pulau"
+    },
+    {
+        "peringkat": 17,
+        "nama_objek": "Pantai Padang Taplau",
+        "nama_jenis": "Pantai"
+    },
+    {
+        "peringkat": 18,
+        "nama_objek": "Museum Adityawarman",
+        "nama_jenis": "Museum Benda Khusus"
+    },
+    {
+        "peringkat": 19,
+        "nama_objek": "Pulau Pasumpahan",
+        "nama_jenis": "Pulau"
+    },
+    {
+        "peringkat": 20,
+        "nama_objek": "Kampung Cina",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 21,
+        "nama_objek": "Pulau Pamutusan",
+        "nama_jenis": "Pulau"
+    },
+    {
+        "peringkat": 22,
+        "nama_objek": "Pantai Carocok Painan",
+        "nama_jenis": "Pantai"
+    },
+    {
+        "peringkat": 23,
+        "nama_objek": "Koto Gadang",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 24,
+        "nama_objek": "Taman  Nasional Kerinci Seblat",
+        "nama_jenis": "Taman Nasional"
+    },
+    {
+        "peringkat": 25,
+        "nama_objek": "Lubuk Nyarai",
+        "nama_jenis": "Perairan"
+    },
+    {
+        "peringkat": 26,
+        "nama_objek": "Nagari Tuo Pariangan",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 27,
+        "nama_objek": "Alek Pacu Jawi",
+        "nama_jenis": "Acara Budaya"
+    },
+    {
+        "peringkat": 28,
+        "nama_objek": "Pantai Suwarnadwipa",
+        "nama_jenis": "Pantai"
+    },
+    {
+        "peringkat": 29,
+        "nama_objek": "Padang Mengatas",
+        "nama_jenis": "Peternakan"
+    },
+    {
+        "peringkat": 30,
+        "nama_objek": "Jenjang Seribu",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 31,
+        "nama_objek": "Pantai Bungus",
+        "nama_jenis": "Pantai"
+    },
+    {
+        "peringkat": 32,
+        "nama_objek": "Ngalau Indah",
+        "nama_jenis": "Gua Bawah Tanah& Gua"
+    },
+    {
+        "peringkat": 33,
+        "nama_objek": "Danau Diatas",
+        "nama_jenis": "Perairan"
+    },
+    {
+        "peringkat": 34,
+        "nama_objek": "Pulau Sirandah",
+        "nama_jenis": "Pulau"
+    },
+    {
+        "peringkat": 35,
+        "nama_objek": "Museum Rumah Kelahiran Bung Hatta",
+        "nama_jenis": "Museum Benda Khusus"
+    },
+    {
+        "peringkat": 36,
+        "nama_objek": "Mandeh Sea Park",
+        "nama_jenis": "Marina"
+    },
+    {
+        "peringkat": 37,
+        "nama_objek": "Kebun Teh Alahan Panjang",
+        "nama_jenis": "Pertanian"
+    },
+    {
+        "peringkat": 38,
+        "nama_objek": "Teluk Bayur",
+        "nama_jenis": "Pelabuhan & Jalan Kayu"
+    },
+    {
+        "peringkat": 39,
+        "nama_objek": "Pandai Sikek",
+        "nama_jenis": "Daerah Sekitar"
+    },
+    {
+        "peringkat": 40,
+        "nama_objek": "Pusat Konservasi Batang Palupuh Alami (Taman Rafflesia)",
+        "nama_jenis": "Area Wisata Alam& Taman Margasatwa"
+    },
+    {
+        "peringkat": 41,
+        "nama_objek": "Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau",
+        "nama_jenis": "Museum Benda Khusus"
+    },
+    {
+        "peringkat": 42,
+        "nama_objek": "Pelabuhan Muaro",
+        "nama_jenis": "Perairan"
+    },
+    {
+        "peringkat": 43,
+        "nama_objek": "Jembatan Limpapeh",
+        "nama_jenis": "Jembatan"
+    },
+    {
+        "peringkat": 44,
+        "nama_objek": "Pulau Angso Duo",
+        "nama_jenis": "Pulau"
+    },
+    {
+        "peringkat": 45,
+        "nama_objek": "Pantai Carolina",
+        "nama_jenis": "Pantai"
+    },
+    {
+        "peringkat": 46,
+        "nama_objek": "Kepala Bandar",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 47,
+        "nama_objek": "Masjid Raya Bukittinggi",
+        "nama_jenis": "Tempat Keagamaan"
+    },
+    {
+        "peringkat": 48,
+        "nama_objek": "Benteng Fort de Kock",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 49,
+        "nama_objek": "Pantai Muaro Lasak",
+        "nama_jenis": "Pantai"
+    },
+    {
+        "peringkat": 50,
+        "nama_objek": "Puncak Anai",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 51,
+        "nama_objek": "Pantai Tiram",
+        "nama_jenis": "Pantai"
+    },
+    {
+        "peringkat": 52,
+        "nama_objek": "Goedang Ransum",
+        "nama_jenis": "Museum Benda Khusus"
+    },
+    {
+        "peringkat": 53,
+        "nama_objek": "Pemandian Tirta Alami",
+        "nama_jenis": "Kompleks Olahraga"
+    },
+    {
+        "peringkat": 54,
+        "nama_objek": "Mifan Water Park & Resort",
+        "nama_jenis": "Taman Hiburan"
+    },
+    {
+        "peringkat": 55,
+        "nama_objek": "Taman Nasional Siberut",
+        "nama_jenis": "Taman Nasional"
+    },
+    {
+        "peringkat": 56,
+        "nama_objek": "Gunung Singgalang",
+        "nama_jenis": "Pegunungan"
+    },
+    {
+        "peringkat": 57,
+        "nama_objek": "Hole Mine Site Museum Mbah Suro & Infobox",
+        "nama_jenis": "Museum Benda Khusus"
+    },
+    {
+        "peringkat": 58,
+        "nama_objek": "Masjid Ulakan",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 59,
+        "nama_objek": "Air Terjun Sarasah Gadut",
+        "nama_jenis": "Air Terjun"
+    },
+    {
+        "peringkat": 60,
+        "nama_objek": "Kolam Renang Batang Tabik",
+        "nama_jenis": "Kompleks Olahraga"
+    },
+    {
+        "peringkat": 61,
+        "nama_objek": "Janjang Saribu",
+        "nama_jenis": "Area Bersejarah untuk Pejalan Kaki"
+    },
+    {
+        "peringkat": 62,
+        "nama_objek": "Masjid Taqwa Muhammadiyah",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 63,
+        "nama_objek": "Kelok 44",
+        "nama_jenis": "Wisata Mobil"
+    },
+    {
+        "peringkat": 64,
+        "nama_objek": "Bukit Nobita",
+        "nama_jenis": "Area Pengamatan"
+    },
+    {
+        "peringkat": 65,
+        "nama_objek": "Taman Nirwana",
+        "nama_jenis": "Taman"
+    },
+    {
+        "peringkat": 66,
+        "nama_objek": "Lubuk Minturun",
+        "nama_jenis": "Pertanian"
+    },
+    {
+        "peringkat": 67,
+        "nama_objek": "Jembatan Siti Nurbaya",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 68,
+        "nama_objek": "Sungai Kapalo Banda Taram",
+        "nama_jenis": "Perairan"
+    },
+    {
+        "peringkat": 69,
+        "nama_objek": "Hutan Lindung Bung Hatta",
+        "nama_jenis": "Area Wisata Alam& Taman Margasatwa"
+    },
+    {
+        "peringkat": 70,
+        "nama_objek": "Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau",
+        "nama_jenis": "Museum Benda Khusus"
+    },
+    {
+        "peringkat": 71,
+        "nama_objek": "Rumah Puisi Taufiq Ismail",
+        "nama_jenis": "Museum Kesenian"
+    },
+    {
+        "peringkat": 72,
+        "nama_objek": "Museum Perjuangan Tri Daya Eka Dharma",
+        "nama_jenis": "Museum Sejarah"
+    },
+    {
+        "peringkat": 73,
+        "nama_objek": "Basko Grand Mall",
+        "nama_jenis": "Tempat Belanja"
+    },
+    {
+        "peringkat": 74,
+        "nama_objek": "Batu Malin Kundang",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 75,
+        "nama_objek": "Air Terjun Kulu Kubuk",
+        "nama_jenis": "Air Terjun"
+    },
+    {
+        "peringkat": 76,
+        "nama_objek": "Danau Kandi",
+        "nama_jenis": "Perairan"
+    },
+    {
+        "peringkat": 77,
+        "nama_objek": "Museum Kereta Api Sawahlunto",
+        "nama_jenis": "Museum Benda Khusus"
+    },
+    {
+        "peringkat": 78,
+        "nama_objek": "Taman Marga Satwa Budaya Kinantan",
+        "nama_jenis": "Kebun Binatang"
+    },
+    {
+        "peringkat": 79,
+        "nama_objek": "Puncak Langkisau",
+        "nama_jenis": "Area Pengamatan"
+    },
+    {
+        "peringkat": 80,
+        "nama_objek": "Air Terjun Lubuk Hitam",
+        "nama_jenis": "Air Terjun"
+    },
+    {
+        "peringkat": 81,
+        "nama_objek": "Monumen Bung Hatta",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 82,
+        "nama_objek": "Pantai Gandoriah",
+        "nama_jenis": "Pantai"
+    },
+    {
+        "peringkat": 83,
+        "nama_objek": "Jembatan Akar",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 84,
+        "nama_objek": "Batu Batikam",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 85,
+        "nama_objek": "Makam Muhammad Yamin",
+        "nama_jenis": "Pemakaman"
+    },
+    {
+        "peringkat": 86,
+        "nama_objek": "Lubuk Cimantung",
+        "nama_jenis": "Bendungan"
+    },
+    {
+        "peringkat": 87,
+        "nama_objek": "Nagari 1000 Rumah Gadang",
+        "nama_jenis": "Daerah Sekitar"
+    },
+    {
+        "peringkat": 88,
+        "nama_objek": "Museum Rumah Kelahiran Buya Hamka",
+        "nama_jenis": "Museum Benda Khusus"
+    },
+    {
+        "peringkat": 89,
+        "nama_objek": "Tabek Gadang",
+        "nama_jenis": "Perairan"
+    },
+    {
+        "peringkat": 90,
+        "nama_objek": "Puncak Polan",
+        "nama_jenis": "Pegunungan"
+    },
+    {
+        "peringkat": 91,
+        "nama_objek": "Pantai Ketaping",
+        "nama_jenis": "Pantai"
+    },
+    {
+        "peringkat": 92,
+        "nama_objek": "Kincir Air Talawi",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 93,
+        "nama_objek": "Masjid Raya Bayur",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 94,
+        "nama_objek": "Lubuak Tempurung",
+        "nama_jenis": "Area Wisata Alam& Taman Margasatwa"
+    },
+    {
+        "peringkat": 95,
+        "nama_objek": "Sungai Belimbing",
+        "nama_jenis": "Perairan"
+    },
+    {
+        "peringkat": 96,
+        "nama_objek": "Jambak Sea Turtle Camp",
+        "nama_jenis": "Area Wisata Alam& Taman Margasatwa"
+    },
+    {
+        "peringkat": 97,
+        "nama_objek": "Bukit Cambai",
+        "nama_jenis": "Area Pengamatan"
+    },
+    {
+        "peringkat": 98,
+        "nama_objek": "Bukit Sirih",
+        "nama_jenis": "Area Pengamatan"
+    },
+    {
+        "peringkat": 99,
+        "nama_objek": "Gunung Tandikat",
+        "nama_jenis": "Pegunungan"
+    },
+    {
+        "peringkat": 100,
+        "nama_objek": "Air Terjun Batu Bersurat",
+        "nama_jenis": "Air Terjun"
+    },
+    {
+        "peringkat": 101,
+        "nama_objek": "Rumah Tuo Kampai Nan Panjang",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 102,
+        "nama_objek": "Danau Tarusan Kamang",
+        "nama_jenis": "Perairan"
+    },
+    {
+        "peringkat": 103,
+        "nama_objek": "Pantai Kata",
+        "nama_jenis": "Pantai"
+    },
+    {
+        "peringkat": 104,
+        "nama_objek": "Kincir Air Tradisional",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 105,
+        "nama_objek": "Pulau Sironjong",
+        "nama_jenis": "Pulau"
+    },
+    {
+        "peringkat": 106,
+        "nama_objek": "Pulau Karang",
+        "nama_jenis": "Pulau"
+    },
+    {
+        "peringkat": 107,
+        "nama_objek": "Konservasi Penyu Kota Pariaman",
+        "nama_jenis": "Area Wisata Alam& Taman Margasatwa"
+    },
+    {
+        "peringkat": 108,
+        "nama_objek": "Gereja Katolik Santa Barbara Sawahlunto",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 109,
+        "nama_objek": "Air Terjun Baburai",
+        "nama_jenis": "Air Terjun"
+    },
+    {
+        "peringkat": 110,
+        "nama_objek": "Shoot - Pool Lounge & Sport Bar",
+        "nama_jenis": "Kompleks Olahraga"
+    },
+    {
+        "peringkat": 111,
+        "nama_objek": "Airport Raillink Service",
+        "nama_jenis": "Sistem Transportasi Umum"
+    },
+    {
+        "peringkat": 112,
+        "nama_objek": "Pantai Carocok",
+        "nama_jenis": "Pantai"
+    },
+    {
+        "peringkat": 113,
+        "nama_objek": "Air Terjun Ngungun Saok",
+        "nama_jenis": "Air Terjun"
+    },
+    {
+        "peringkat": 114,
+        "nama_objek": "Mentawai Tribe Tour",
+        "nama_jenis": "Tur Budaya"
+    },
+    {
+        "peringkat": 115,
+        "nama_objek": "Rumah Gadang Tuanku Lareh St",
+        "nama_jenis": "Tempat Bersejarah"
+    },
+    {
+        "peringkat": 116,
+        "nama_objek": "Sandiang Gagoan",
+        "nama_jenis": "Ngarai"
+    },
+    {
+        "peringkat": 117,
+        "nama_objek": "Pulau kasiak",
+        "nama_jenis": "Pulau"
+    },
+    {
+        "peringkat": 118,
+        "nama_objek": "Monumen Merpati Perdamaian",
+        "nama_jenis": "Monumen & Patung"
+    },
+    {
+        "peringkat": 119,
+        "nama_objek": "Danau Biru Sawahlunto",
+        "nama_jenis": "Perairan"
+    },
+    {
+        "peringkat": 120,
+        "nama_objek": "Padang Private Driver",
+        "nama_jenis": "Tur Mandiri & Penyewaan Kendaraan"
+    },
+    {
+        "peringkat": 121,
+        "nama_objek": "Air Terjun Titian Puti (Nyarai)",
+        "nama_jenis": "Perairan"
+    },
+    {
+        "peringkat": 122,
+        "nama_objek": "Taman Green Lezatta",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 123,
+        "nama_objek": "Puncak Payo Rapuih",
+        "nama_jenis": "Jalur Lintas Alam"
+    },
+    {
+        "peringkat": 124,
+        "nama_objek": "Masjid Agung Nurul Islam",
+        "nama_jenis": "Tempat Menarik & Tengara"
+    },
+    {
+        "peringkat": 125,
+        "nama_objek": "Puncak Happy",
+        "nama_jenis": "Area Pengamatan"
+    },
+    {
+        "peringkat": 126,
+        "nama_objek": "Pantai Labuang Baruak",
+        "nama_jenis": "Pantai"
+    },
+    {
+        "peringkat": 127,
+        "nama_objek": "Sarasah Sungai Guntuang",
+        "nama_jenis": "Air Terjun"
+    },
+    {
+        "peringkat": 128,
+        "nama_objek": "Kebun Teh Mitra Kerinci",
+        "nama_jenis": "Pertanian"
+    },
+    {
+        "peringkat": 129,
+        "nama_objek": "Pulau Batu Nago",
+        "nama_jenis": "Pulau"
+    },
+    {
+        "peringkat": 130,
+        "nama_objek": "Pincuran Tujuh",
+        "nama_jenis": "Air Terjun"
+    },
+    {
+        "peringkat": 131,
+        "nama_objek": "Teluk Air Putih",
+        "nama_jenis": "Perairan"
+    },
+    {
+        "peringkat": 132,
+        "nama_objek": "Museum Tuanku Imam Bonjol",
+        "nama_jenis": "Museum Benda Khusus"
+    },
+    {
+        "peringkat": 133,
+        "nama_objek": "Pasar Atas Bukittinggi",
+        "nama_jenis": "Toko Barang Khusus & Suvenir"
+    },
+    {
+        "peringkat": 134,
+        "nama_objek": "Danau Tomosu",
+        "nama_jenis": "Perairan"
+    },
+    {
+        "peringkat": 135,
+        "nama_objek": "Lite 'N' Easy Tour",
+        "nama_jenis": "Tur Kota"
+    },
+    {
+        "peringkat": 136,
+        "nama_objek": "Roni's Tours",
+        "nama_jenis": "Tur Beberapa Hari"
+    },
+    {
+        "peringkat": 137,
+        "nama_objek": "Mentawai Experience Tour",
+        "nama_jenis": "Tur Budaya"
+    },
+    {
+        "peringkat": 138,
+        "nama_objek": "Lawang Park",
+        "nama_jenis": "Pusat Permainan & Hiburan"
+    },
+    {
+        "peringkat": 139,
+        "nama_objek": "Kripik Balado Shirley",
+        "nama_jenis": "Toko Barang Khusus & Suvenir"
+    },
+    {
+        "peringkat": 140,
+        "nama_objek": "Aie Angek Bukik Gadang",
+        "nama_jenis": "Spa Air Panas"
+    },
+    {
+        "peringkat": 141,
+        "nama_objek": "Batik Tanah Liek Citra Monalisa",
+        "nama_jenis": "Toko Barang Khusus & Suvenir"
+    },
+    {
+        "peringkat": 142,
+        "nama_objek": "Kakiku Refleksi",
+        "nama_jenis": "Spa"
+    },
+    {
+        "peringkat": 143,
+        "nama_objek": "Martha Tilaar Salon Day Spa",
+        "nama_jenis": "Spa"
+    },
+    {
+        "peringkat": 144,
+        "nama_objek": "Aie Angek Bukik Kili",
+        "nama_jenis": "Spa Air Panas"
+    },
+    {
+        "peringkat": 145,
+        "nama_objek": "Komando Paintball & Cafe",
+        "nama_jenis": "Pusat Permainan & Hiburan"
+    },
+    {
+        "peringkat": 146,
+        "nama_objek": "Kopi Kiniko",
+        "nama_jenis": "Toko Barang Khusus & Suvenir"
+    },
+    {
+        "peringkat": 147,
+        "nama_objek": "Minangkabau Adventures Tour",
+        "nama_jenis": "Tur Kota"
+    },
+    {
+        "peringkat": 148,
+        "nama_objek": "Samba Lado",
+        "nama_jenis": "Tur Kota"
+    },
+    {
+        "peringkat": 149,
+        "nama_objek": "House Of Beauty And Spa",
+        "nama_jenis": "Spa"
+    },
+    {
+        "peringkat": 150,
+        "nama_objek": "Tungku Sanjai Amak Haji",
+        "nama_jenis": "Toko Barang Khusus & Suvenir"
+    },
+    {
+        "peringkat": 151,
+        "nama_objek": "PADANG DESTINATION",
+        "nama_jenis": "Scuba & Snorkelling"
+    },
+    {
+        "peringkat": 152,
+        "nama_objek": "West Sumatra Traveler",
+        "nama_jenis": "Tur Budaya"
+    },
+    {
+        "peringkat": 153,
+        "nama_objek": "Duta Pesona",
+        "nama_jenis": "Parasailing & Paralayang"
+    },
+    {
+        "peringkat": 154,
+        "nama_objek": "Matonagari",
+        "nama_jenis": "Tur Kota"
+    },
+    {
+        "peringkat": 155,
+        "nama_objek": "Ricky Abdi Tour",
+        "nama_jenis": "Tur Budaya"
+    },
+    {
+        "peringkat": 156,
+        "nama_objek": "Discover Mentawais",
+        "nama_jenis": "Scuba & Snorkelling"
+    },
+    {
+        "peringkat": 157,
+        "nama_objek": "Sumatra Adventure",
+        "nama_jenis": "Selancar & Selancar Angin"
+    },
+    {
+        "peringkat": 158,
+        "nama_objek": "Habibie DelapanTour",
+        "nama_jenis": "Tur Beberapa Hari"
+    },
+    {
+        "peringkat": 159,
+        "nama_objek": "Menyelam - Starocean",
+        "nama_jenis": "Scuba & Snorkelling"
+    },
+    {
+        "peringkat": 160,
+        "nama_objek": "Mentawai Tribe Journey with Wetravelinc",
+        "nama_jenis": "Tur Beberapa Hari"
+    },
+    {
+        "peringkat": 161,
+        "nama_objek": "Platinum Holidays Indonesia",
+        "nama_jenis": "Tur Pribadi"
+    },
+    {
+        "peringkat": 162,
+        "nama_objek": "Surf in Mentawais",
+        "nama_jenis": "Tur Kapal"
+    },
+    {
+        "peringkat": 163,
+        "nama_objek": "Banto Royo",
+        "nama_jenis": "Flying Fox & Taman Petualangan Atas Pohon"
+    },
+    {
+        "peringkat": 164,
+        "nama_objek": "Rizal Tour",
+        "nama_jenis": "Tur Beberapa Hari"
+    },
+    {
+        "peringkat": 165,
+        "nama_objek": "Al Wafa Adventure",
+        "nama_jenis": "Tur Budaya"
+    },
+    {
+        "peringkat": 166,
+        "nama_objek": "Rianzha Holiday",
+        "nama_jenis": "Tur Kota"
+    },
+    {
+        "peringkat": 167,
+        "nama_objek": "Santa Lusia Boat",
+        "nama_jenis": "Penyewaan Kapal"
+    }
+]
