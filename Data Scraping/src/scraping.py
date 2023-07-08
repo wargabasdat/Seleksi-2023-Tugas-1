@@ -254,6 +254,8 @@ def scrape_men_double():
 
 def scrape_women_double():
     """Function to scrape and write women's double players into .json file"""
+
+    # Click women_double on tabs
     rangking_tabs = driver.find_elements(By.XPATH,"//span[@class='ranking-tab-desktop']")
     women_double_rangking_tabs = rangking_tabs[3]
     women_double_rangking_tabs.click()
@@ -263,8 +265,10 @@ def scrape_women_double():
     women_double_players,women_double_statistics = fetch_double_data(
                                                         player_file,statistic_file,10,
                                                         "female","female","women_double")
+    # Write player's data to players.json
     with open(player_file,"w",encoding="UTF-8") as write_file :
         json.dump(women_double_players,write_file)
+    # Write women doubles's statistics to double_statistocs.json
     with open(statistic_file,"w",encoding="UTF-8") as write_file :
         json.dump(women_double_statistics,write_file)
 
@@ -279,8 +283,10 @@ def scrape_mixed_double():
     mixed_double_players,mixed_double_statistics = fetch_double_data(
                                                         player_file,statistic_file,14,
                                                         "male","female","mixed_double")
+    # Write player's data to players.json
     with open(player_file,"w",encoding="UTF-8") as write_file :
         json.dump(mixed_double_players,write_file)
+    # Write mixed doubles's statistics to double_statistocs.json
     with open(statistic_file,"w",encoding="UTF-8") as write_file :
         json.dump(mixed_double_statistics,write_file)
 
