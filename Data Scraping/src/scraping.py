@@ -9,17 +9,22 @@ from selenium.common.exceptions import ElementClickInterceptedException
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 
+#Get directory to save data
 parent_dir = os.getcwd()
 data_folder = os.path.join(parent_dir,"Data Scraping","data")
 
+# Algorithm to load website by using selenium
 driver = webdriver.Chrome(service= Service(ChromeDriverManager().install()))
 driver.get("https://bwfbadminton.com/rankings/")
+
+#Timer to make sure website is loaded
 time.sleep(3)
+
+# Button to make table contains 100 datas (by default, it only contains 10)
 buttons = driver.find_element(By.XPATH,"//div[@class='table-search-row-right']")
 dropdown = buttons.find_element(By.XPATH,"//div[@class='select'][3]")
 dropdownButton = dropdown.find_element(By.TAG_NAME,"i")
 dropdownButton.click()
-
 options = driver.find_element(By.CLASS_NAME, value="v-menu__content")
 option = options.find_element(By.CLASS_NAME,value="v-select-list")
 testing = option.find_element(By.ID,"list-item-56-3")
@@ -43,6 +48,7 @@ def fetch_data(file_player,file_statistics,amount,gender,match_type):
     # Determine id
     player_id = len(players)
     for _ in range(amount):
+        # Access table on page
         body = driver.find_element(by = By.TAG_NAME, value="tbody")
         rows = body.find_elements(by = By.TAG_NAME,value="tr")
         next_button = driver.find_element(By.XPATH,"//nav[@class='pagination']")
@@ -51,6 +57,7 @@ def fetch_data(file_player,file_statistics,amount,gender,match_type):
         rank = ""
         for data in rows :
             try :
+                # Find all data that was needed
                 first_name = data.find_element(by=By.CLASS_NAME,
                                             value="name-1").get_attribute("innerHTML")
                 last_name = data.find_element(by=By.CLASS_NAME,
@@ -80,7 +87,6 @@ def fetch_data(file_player,file_statistics,amount,gender,match_type):
                 player_id += 1
                 players.append(player)
                 player_statistics.append(player_statistic)
-                print(player)
             except NoSuchElementException:
                 first_name = ""
                 last_name = ""
@@ -278,4 +284,8 @@ def scrape_mixed_double():
     with open(statistic_file,"w",encoding="UTF-8") as write_file :
         json.dump(mixed_double_statistics,write_file)
 
+scrape_single_men_players()
 scrape_single_women_players()
+scrape_men_double()
+scrape_women_double()
+scrape_mixed_double()
