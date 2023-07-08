@@ -44,7 +44,7 @@ for obj in objek :
     #     for cek in nama_jenis :
     #         nama = cek.text
     #         print(nama)
-    items = soup_per_label.findAll('label', {'id' : 'modal_type_94_label'})
+    items = soup_per_label.find('li', 'vcxvt XWeCT')
     print(items)
 
 # PENYIMPANAN
