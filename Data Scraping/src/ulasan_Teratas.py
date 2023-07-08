@@ -14,8 +14,14 @@ header = {
 
 # EKSEKUSI
 # Inisialisasi tempat penyimpanan untuk menyimpan hasil ekstrak data
-list_ulasan_teratas = [] # Ini apabila butuh data bentuk JSON
-list_ulasan_teratas_csv = [] # Ini apabila butuh data bentuk CSV
+# Ini apabila butuh data bentuk JSON
+list_ulasan_teratas = [] 
+
+# Ini apabila butuh data bentuk CSV
+list_ulasan_teratas_csv = []
+# kepala = ['peringkat', 'nama_objek', 'nama_akun_pengunjung', 'asal_pengunjung', 'rating_pengunjung', 'waktu_berkunjung', 'tipe_kunjungan', 'sorotan_pengunjung']
+# writer = csv.writer(open('Data Scraping/data/ulasan_teratas.csv', 'w', newline = ''))
+# writer.writerow(kepala)
 
 # Inisialisasi tempat penyimpanan untuk menyimpan ulasan semua objek
 list_nama_akun_pengunjung_semua_objek = []
@@ -23,7 +29,6 @@ list_asal_pengunjung_semua_objek = []
 list_rating_pengunjung_semua_objek = []
 list_waktu_berkunjung_semua_objek = []
 list_tipe_kunjungan_semua_objek = []
-list_sorotan_pengunjung_semua_objek = []
 
 page = 0
 peringkat = 0
@@ -58,6 +63,13 @@ while (page <= 180) :
         req_objek = requests.get(link_objek, headers = headers_objek)
         soup_objek = BeautifulSoup(req_objek.text, 'html.parser')
 
+        # Melakukan cleaning data agar tak ada row yang isinya bolong-bolong
+        if (nama_objek != '' and nama_jenis != '' and rata_rata_rating != '' and jumlah_ulasan != '') :
+            # Peringkat disesuaikan karena terjadinya cleaning data di atas
+            peringkat += 1
+        else :
+            continue
+            
         # Cari informasi penyampai ulasan
         items = soup_objek.findAll('div', {'data-automation' : 'reviewCard'})
         list_nama_akun_pengunjung_per_objek = []
@@ -65,9 +77,10 @@ while (page <= 180) :
         list_rating_pengunjung_per_objek = []
         list_waktu_berkunjung_per_objek = []
         list_tipe_kunjungan_per_objek = []
-        list_sorotan_pengunjung_per_objek = []
         for cek in items :
             nama_akun_pengunjung = cek.find('a', 'BMQDV _F Gv wSSLS SwZTJ FGwzt ukgoS').text
+            if (not nama_akun_pengunjung.isascii()) :
+                continue
             asal_pengunjung = cek.find('div', 'biGQs _P pZUbB osNWb').text.split(', ')[0]
 
             # Lakukan cleaning data agar akun yang tidak mencantumkan daerah asal tidak masuk
@@ -82,7 +95,6 @@ while (page <= 180) :
                 tipe_kunjungan = cek.find('div', 'RpeCd').text.split(' • ')[1]
             except :
                 tipe_kunjungan = ''
-            sorotan_pengunjung = cek.find('span', 'yCeTE').text
 
             # Masukkan setiap informasi ulasan pengunjung ke array per objek
             list_nama_akun_pengunjung_per_objek.append(nama_akun_pengunjung)
@@ -90,7 +102,9 @@ while (page <= 180) :
             list_rating_pengunjung_per_objek.append(rating_pengunjung)
             list_waktu_berkunjung_per_objek.append(waktu_berkunjung)
             list_tipe_kunjungan_per_objek.append(tipe_kunjungan)
-            list_sorotan_pengunjung_per_objek.append(sorotan_pengunjung)
+
+            # Append ke tempat penyimpanan yang udah diinisialisasi di awal CSV
+            # list_ulasan_teratas_csv.append([peringkat, nama_objek, nama_akun_pengunjung, asal_pengunjung, rating_pengunjung, waktu_berkunjung, tipe_kunjungan])
 
         # Masukkan setiap array informasi ulasan pengunjung per objek ke array semua objek
         list_nama_akun_pengunjung_semua_objek.append(list_nama_akun_pengunjung_per_objek)
@@ -98,31 +112,25 @@ while (page <= 180) :
         list_rating_pengunjung_semua_objek.append(list_rating_pengunjung_per_objek)
         list_waktu_berkunjung_semua_objek.append(list_waktu_berkunjung_per_objek)
         list_tipe_kunjungan_semua_objek.append(list_tipe_kunjungan_per_objek)
-        list_sorotan_pengunjung_semua_objek.append(list_sorotan_pengunjung_per_objek)
 
         # Melakukan penyimpanan hasil ekstrak data ke tempat penyimpanan yang telah diinisialisasi sebelumnya
-        # Penyimpanan dilakukan dengan didahului dengan cleaning data dari data kosong
-        if (nama_objek != '' and nama_jenis != '' and rata_rata_rating != '' and jumlah_ulasan != '') :
-            # Peringkat disesuaikan karena terjadinya cleaning data di atas
-            peringkat += 1
-            # Memasukkan variabel ke dalam bentuk dictionary
-            hasil_ulasan_teratas = {
-                'peringkat' : peringkat,
-                'nama_objek' : nama_objek,
-                'nama_akun_pengunjung' : list_nama_akun_pengunjung_per_objek,
-                'asal_pengunjung' : list_asal_pengunjung_per_objek,
-                'rating_pengunjung' : list_rating_pengunjung_per_objek,
-                'waktu_berkunjung' : list_waktu_berkunjung_per_objek,
-                'tipe_kunjungan' : list_tipe_kunjungan_per_objek,
-                'sorotan_pengunjung' : list_sorotan_pengunjung_per_objek,
-            }
-            # Append ke tempat penyimpanan yang udah diinisialisasi di awal JSON
-            list_ulasan_teratas.append(hasil_ulasan_teratas)
-            
-            # Test scraping (jadikan komentar apabila tidak digunakan)
-            for i in hasil_ulasan_teratas :
-                print(i, ' : ', hasil_ulasan_teratas[i])
-            print('\n')
+        # Memasukkan variabel ke dalam bentuk dictionary
+        hasil_ulasan_teratas = {
+            'peringkat' : peringkat,
+            'nama_objek' : nama_objek,
+            'nama_akun_pengunjung' : list_nama_akun_pengunjung_per_objek,
+            'asal_pengunjung' : list_asal_pengunjung_per_objek,
+            'rating_pengunjung' : list_rating_pengunjung_per_objek,
+            'waktu_berkunjung' : list_waktu_berkunjung_per_objek,
+            'tipe_kunjungan' : list_tipe_kunjungan_per_objek
+        }
+        # Append ke tempat penyimpanan yang udah diinisialisasi di awal JSON
+        list_ulasan_teratas.append(hasil_ulasan_teratas)
+        
+        # Test scraping JSON (jadikan komentar apabila tidak digunakan)
+        # for i in hasil_ulasan_teratas :
+        #     print(i, ' : ', hasil_ulasan_teratas[i])
+        # print('\n')
     page += 30
 
 # PENYIMPANAN (PILIH SALAH SATU)
@@ -131,8 +139,5 @@ with open('Data Scraping/data/ulasan_teratas.json', 'w') as file:
     json.dump(list_ulasan_teratas, file, indent = 5)
 
 # Proses penyimpanan dan formatting hasil ekstrak data ke bentuk CSV
-# kepala = ['peringkat', 'nama_objek', 'nama_daerah', 'rata_rata_rating', 'jumlah_rating_5', 'jumlah_rating_4', 'jumlah_rating_3', 'jumlah_rating_2', 'jumlah_rating_1', 'jumlah_ulasan']
-# writer = csv.writer(open('Data Scraping/data/objek_wisata.csv', 'w', newline = ''))
-# writer.writerow(kepala)
-# for data in list_objek_wisata_csv :
+# for data in list_ulasan_teratas_csv :
 #     writer.writerow(data)
