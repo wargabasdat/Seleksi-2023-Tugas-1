@@ -1,9 +1,9 @@
 const cheerio = require("cheerio");
 const puppeteer = require("puppeteer");
 const FileSystem = require("fs");
-const getHTML = require("./utilities/getHTML");
-const formattedStringToNumber = require("./utilities/formattedStringToNumber");
-const writeToFile = require("./utilities/writeToFile");
+const getHTML = require("../utilities/getHTML");
+const formattedStringToNumber = require("../utilities/formattedStringToNumber");
+const writeToFile = require("../utilities/writeToFile");
 
 async function fetchAndSaveProblem(page, problemLink, problemNumber) {
   const html = await getHTML(page, `https://leetcode.com${problemLink}`);
@@ -90,7 +90,7 @@ async function fetchAndSaveProblem(page, problemLink, problemNumber) {
   writeToFile(result, `problemsExtended/${problemNumber}`);
 }
 
-(async () => {
+const scraperProblemsExtended = async () => {
   // Initiate the browser
   const browser = await puppeteer.launch({
     headless: false,
@@ -180,4 +180,6 @@ async function fetchAndSaveProblem(page, problemLink, problemNumber) {
   writeToFile(unfetchedProblems, "problemsToFetch");
 
   browser.close();
-})();
+};
+
+module.exports = scraperProblemsExtended;

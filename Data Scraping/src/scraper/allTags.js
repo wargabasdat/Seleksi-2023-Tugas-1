@@ -1,11 +1,11 @@
 const cheerio = require("cheerio");
 const puppeteer = require("puppeteer");
-const getHTML = require("./utilities/getHTML");
-const writeToFile = require("./utilities/writeToFile");
+const getHTML = require("../utilities/getHTML");
+const writeToFile = require("../utilities/writeToFile");
 
 const url = "https://leetcode.com/problemset";
 
-(async () => {
+const scraperTags = async () => {
   // Initiate the browser
   const browser = await puppeteer.launch();
 
@@ -76,4 +76,6 @@ const url = "https://leetcode.com/problemset";
   writeToFile(tags, "tags");
 
   browser.close();
-})();
+};
+
+module.exports = scraperTags;

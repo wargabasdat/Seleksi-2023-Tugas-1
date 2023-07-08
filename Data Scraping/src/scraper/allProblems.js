@@ -1,7 +1,7 @@
 const cheerio = require("cheerio");
 const puppeteer = require("puppeteer");
-const getHTML = require("./utilities/getHTML");
-const writeToFile = require("./utilities/writeToFile");
+const getHTML = require("../utilities/getHTML");
+const writeToFile = require("../utilities/writeToFile");
 
 const url = "https://leetcode.com/problemset";
 
@@ -179,7 +179,7 @@ function processProblemsCategory(html, category, problems) {
 }
 
 // Execute the fetching of all of the problems
-(async () => {
+const scraperProblems = async () => {
   // Initiate the browser
   const browser = await puppeteer.launch();
 
@@ -208,4 +208,6 @@ function processProblemsCategory(html, category, problems) {
   await browser.close();
 
   writeToFile(problems, "problems");
-})();
+};
+
+module.exports = scraperProblems;
