@@ -1,4 +1,13 @@
 {
+  "name": "data_scraping",
+  "version": "1.0.0",
+  "description": "Fetch LeetCode.com and store it in JSON format",
+  "main": "scrape.js",
+  "scripts": {
+    "scrape": "node scrape.js"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "axios": "^1.4.0",
     "axios-cookiejar-support": "^4.0.7",
