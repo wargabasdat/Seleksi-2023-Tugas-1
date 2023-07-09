@@ -1,0 +1,62 @@
+Stats_ID,Player Name,Country,Team,Agents,Maps,Kills,Deaths,Assists,KD,KDA,ACS/Map,K/Map,D/Map,A/Map
+880,Sayaplayer,South Korea,T1,"['Jett', 'Raze']",36,642,513,117,1.25,1.47,236,17.8,14.2,3.2
+881,something,Russia,Paper Rex,"['Jett', 'Reyna', 'Breach']",24,415,304,106,1.36,1.71,230,17.2,12.6,4.4
+882,Foxy9,South Korea,DRX,"['Jett', 'Raze']",23,372,337,76,1.1,1.32,229,16.1,14.6,3.3
+883,Jinggg,Singapore,Paper Rex,"['Raze', 'Phoenix', 'Sage']",29,471,411,171,1.14,1.56,227,16.2,14.1,5.8
+884,SkRossi,India,Global Esports,['Jett'],11,185,180,43,1.02,1.26,225,16.8,16.3,3.9
+885,BuZz,South Korea,DRX,"['Killjoy', 'Jett', 'KAY/O']",33,547,472,185,1.15,1.55,224,16.5,14.3,5.6
+886,f0rsakeN,Indonesia,Paper Rex,"['Killjoy', 'Neon', 'Skye']",30,484,435,177,1.11,1.51,223,16.1,14.5,5.9
+887,Dep,Japan,ZETA DIVISION,"['Jett', 'Raze', 'Neon']",28,510,468,103,1.08,1.3,223,18.2,16.7,3.6
+888,t3xture,South Korea,Global Esports,"['Killjoy', 'Jett', 'Raze']",20,344,310,70,1.1,1.33,219,17.2,15.5,3.5
+889,Suggest,South Korea,DetonatioN FocusMe,"['Killjoy', 'Jett', 'Raze']",14,220,218,58,1,1.27,218,15.7,15.5,4.1
+890,Meteor,South Korea,Gen.G Esports,"['Jett', 'Raze']",29,450,450,118,1,1.26,218,15.5,15.5,4
+891,Seoldam,South Korea,DetonatioN FocusMe,"['Jett', 'Raze']",13,197,213,45,0.92,1.13,218,15.1,16.3,3.4
+892,Monyet,Indonesia,Global Esports,"['Astra', 'Omen', 'Viper']",21,358,318,186,1.12,1.71,217,17,15.1,8.8
+893,xffero,Indonesia,Rex Regum Qeon,"['Astra', 'Sova', 'Skye']",21,326,290,138,1.12,1.6,213,15.5,13.8,6.5
+894,MaKo,South Korea,DRX,"['Viper', 'Omen', 'Brimstone']",35,523,449,348,1.16,1.93,212,14.9,12.8,9.9
+895,garnetS,Thailand,Talon Esports,"['Jett', 'Raze', 'Neon']",17,246,269,57,0.91,1.12,211,14.4,15.8,3.3
+896,EJAY,Philippines,Rex Regum Qeon,"['Jett', 'Raze']",21,320,321,78,0.99,1.23,210,15.2,15.2,3.7
+897,Benkai,Singapore,Paper Rex,"['Breach', 'Killjoy', 'Viper']",7,109,101,43,1.07,1.5,210,15.5,14.4,6.1
+898,Munchkin,South Korea,T1,"['Killjoy', 'Skye']",36,571,496,154,1.15,1.46,210,15.8,13.7,4.2
+899,k1Ng,South Korea,Gen.G Esports,"['Killjoy', 'Viper']",29,435,402,134,1.08,1.41,208,15,13.8,4.6
+900,patt,Thailand,Talon Esports,"['Harbor', 'Breach', 'KAY/O']",20,300,302,127,0.99,1.41,208,15,15.1,6.3
+901,Lmemore,Indonesia,Rex Regum Qeon,"['Killjoy', 'Cypher', 'Viper']",21,310,311,77,0.99,1.24,207,14.7,14.8,3.6
+902,d4v41,Malaysia,Paper Rex,"['Skye', 'Killjoy', 'Viper']",29,455,358,247,1.27,1.96,206,15.6,12.3,8.5
+903,Jremy,Philippines,Team Secret,"['Raze', 'Killjoy', 'Sage']",29,459,483,144,0.95,1.24,203,15.8,16.6,4.9
+904,xeta,South Korea,T1,"['Sova', 'Harbor', 'Breach']",36,525,483,280,1.08,1.66,200,14.5,13.4,7.7
+905,Sylvan,South Korea,Gen.G Esports,"['Sova', 'Skye', 'Fade']",15,212,208,114,1.01,1.56,196,14.1,13.8,7.6
+906,SugarZ3ro,Japan,ZETA DIVISION,"['Omen', 'Brimstone', 'Viper']",28,452,420,288,1.07,1.76,194,16.1,15,10.2
+907,Crws,Thailand,Talon Esports,"['Viper', 'Omen', 'Brimstone']",21,273,316,160,0.86,1.37,191,13,15,7.6
+908,fl1pzjder,Indonesia,Rex Regum Qeon,"['Breach', 'Skye', 'KAY/O']",21,283,303,202,0.93,1.6,191,13.4,14.4,9.6
+909,Bazzi,South Korea,Global Esports,"['Skye', 'Fade', 'Breach']",21,291,306,224,0.95,1.68,190,13.8,14.5,10.6
+910,foxz,Thailand,Talon Esports,"['Skye', 'Sova', 'Fade']",21,280,304,142,0.92,1.38,190,13.3,14.4,6.7
+911,GodDead,South Korea,Gen.G Esports,"['KAY/O', 'Breach', 'Sage']",29,373,432,312,0.86,1.58,189,12.8,14.8,10.7
+912,invy,Philippines,Team Secret,"['Breach', 'KAY/O', 'Skye']",28,450,448,301,1,1.67,188,16,16,10.7
+913,TENNN,Japan,ZETA DIVISION,"['Killjoy', 'Viper', 'Raze']",28,426,448,113,0.95,1.2,188,15.2,16,4
+914,WRONSKI,Australia,Global Esports,"['KAY/O', 'Jett', 'Sage']",9,127,156,99,0.81,1.44,188,14.1,17.3,11
+915,sushiboys,Thailand,Talon Esports,"['Killjoy', 'Jett', 'Viper']",10,132,154,37,0.85,1.09,187,13.2,15.4,3.7
+916,Anthem,Japan,DetonatioN FocusMe,"['Skye', 'Killjoy', 'Breach']",20,255,295,140,0.86,1.33,187,12.7,14.7,7
+917,iNTRO,South Korea,T1,"['Viper', 'Omen', 'Harbor']",5,58,60,35,0.96,1.55,184,11.6,12,7
+918,JitboyS,Thailand,Talon Esports,"['Cypher', 'Killjoy', 'Breach']",16,214,232,93,0.92,1.32,184,13.3,14.5,5.8
+919,ban,United States,T1,"['Jett', 'Omen', 'Viper']",31,441,469,197,0.94,1.36,183,14.2,15.1,6.3
+920,TS,South Korea,Gen.G Esports,"['Omen', 'Astra']",29,372,426,264,0.87,1.49,183,12.8,14.6,9.1
+921,DubsteP,Philippines,Team Secret,"['Jett', 'Killjoy', 'Cypher']",29,461,439,95,1.05,1.26,183,15.8,15.1,3.2
+922,Rb,South Korea,DRX,"['Killjoy', 'Harbor', 'Astra']",35,455,469,230,0.97,1.46,178,13,13.4,6.5
+923,takej,Japan,DetonatioN FocusMe,"['Viper', 'Omen', 'Brimstone']",20,255,299,143,0.85,1.33,177,12.7,14.9,7.1
+924,Lightningfast,India,Global Esports,['Raze'],2,24,27,8,0.88,1.18,177,12,13.5,4
+925,Zest,South Korea,DRX,"['Sova', 'Fade', 'Harbor']",14,194,202,95,0.96,1.43,177,13.8,14.4,6.7
+926,CigaretteS,Thailand,Paper Rex,['Gekko'],1,13,14,2,0.92,1.07,176,13,14,2
+927,Emman,Philippines,Rex Regum Qeon,"['Skye', 'KAY/O']",6,79,84,39,0.94,1.4,175,13.1,14,6.5
+928,Carpe,South Korea,T1,"['Skye', 'Brimstone', 'Breach']",36,462,526,342,0.87,1.52,175,12.8,14.6,9.5
+929,stax,South Korea,DRX,"['Skye', 'Breach', 'KAY/O']",35,436,511,336,0.85,1.51,174,12.4,14.6,9.6
+930,BORKUM,Philippines,Team Secret,"['Omen', 'Astra', 'Brimstone']",29,400,432,294,0.92,1.6,174,13.7,14.8,10.1
+931,Reita,Japan,DetonatioN FocusMe,"['Sova', 'Killjoy', 'Cypher']",15,182,217,92,0.83,1.26,172,12.1,14.4,6.1
+932,mindfreak,Indonesia,Paper Rex,"['Astra', 'Brimstone', 'Omen']",30,376,379,253,0.99,1.65,169,12.5,12.6,8.4
+933,AYRIN,Canada,Global Esports,"['Killjoy', 'KAY/O', 'Viper']",21,265,314,131,0.84,1.26,169,12.6,14.9,6.2
+934,Laz,Japan,ZETA DIVISION,"['Sova', 'Skye', 'Fade']",28,398,393,201,1.01,1.52,169,14.2,14,7.1
+935,2ge,Philippines,Rex Regum Qeon,"['Astra', 'Harbor', 'Omen']",15,187,205,123,0.91,1.51,168,12.4,13.6,8.2
+936,eKo,South Korea,Gen.G Esports,"['Breach', 'Sova']",14,169,199,106,0.84,1.38,163,12,14.2,7.5
+937,xnfri,Japan,DetonatioN FocusMe,"['Omen', 'Skye', 'Harbor']",18,203,275,162,0.73,1.32,162,11.2,15.2,9
+938,JessieVash,Philippines,Team Secret,"['Sova', 'Fade', 'Skye']",29,380,418,214,0.9,1.42,159,13.1,14.4,7.3
+939,crow,Japan,ZETA DIVISION,"['Breach', 'KAY/O', 'Killjoy']",28,343,426,278,0.8,1.45,152,12.2,15.2,9.9
+940,lenne,Singapore,Team Secret,['Gekko'],1,8,13,5,0.61,1,139,8,13,5
