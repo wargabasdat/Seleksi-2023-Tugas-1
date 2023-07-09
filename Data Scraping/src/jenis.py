@@ -37,14 +37,14 @@ for obj in objek :
     soup_per_label = BeautifulSoup(req_per_label.text, 'html.parser')
 
     # Cari jenis-jenis objek di tiap label
-    # items = soup_per_label.findAll('div', {'id' : 'type_filter_contents'})
-    # jenis_per_label = []
-    # for cek_jenis in items :
-    #     nama_jenis = cek_jenis.findAll('div', 'biGQs _P pZUbB KxBGd')
-    #     for cek in nama_jenis :
-    #         nama = cek.text
-    #         print(nama)
-    items = soup_per_label.find('li', 'vcxvt XWeCT')
+    items = soup_per_label.findAll('div', {'id' : 'type_filter_contents'})
+    jenis_per_label = []
+    for cek_jenis in items :
+        nama_jenis = cek_jenis.findAll('div', 'biGQs _P pZUbB KxBGd')
+        for cek in nama_jenis :
+            nama = cek.text
+            print(nama)
+    items = soup_per_label.find('span', 'biGQs _P KxBGd')
     print(items)
 
 # PENYIMPANAN
