@@ -2,7 +2,7 @@ const mariadb = require("mariadb");
 const storeAllProblems = require("./storer/storeAllProblems");
 const connWrapper = require("./utilities/connWrapper");
 const storeAllTags = require("./storer/storeAllTags");
-const storeAllProblemsExtended = require("./storer/storeAllProblemsExtended");
+
 const pool = mariadb.createPool({
   host: "localhost",
   user: "root",
@@ -16,7 +16,6 @@ const pool = mariadb.createPool({
 
   await connWrapper(conn, storeAllProblems);
   await connWrapper(conn, storeAllTags);
-  await connWrapper(conn, storeAllProblemsExtended);
 })().finally(() => {
   pool.end();
 });

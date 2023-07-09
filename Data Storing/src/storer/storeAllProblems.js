@@ -9,30 +9,73 @@ async function storeAllProblems(conn) {
     FileSystem.readFileSync("../../Data Scraping/data/problems.json", "utf-8")
   );
 
-  const problemMapped = problems.map(
+  const problemExtendedMapped = problems.map(
     ({
       number,
+      premiumStatus,
       title,
       acceptanceRate,
-      solutionType,
-      premiumStatus,
       difficulty,
+      solutionType,
       category,
-    }) => [
-      number,
-      title,
-      solutionType,
-      difficulty,
-      premiumStatus,
-      category ?? null,
-      acceptanceRate,
-    ]
+    }) => {
+      if (premiumStatus) {
+        return [
+          number,
+          title,
+          solutionType,
+          difficulty,
+          premiumStatus,
+          category,
+          acceptanceRate,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+        ];
+      }
+      const {
+        content,
+        numberOfLikes,
+        numberOfDislikes,
+        numberOfSubmission,
+        numberOfDiscussion,
+        numberOfSolutions,
+        numberOfAcceptedSubmission,
+      } = JSON.parse(
+        FileSystem.readFileSync(
+          `../../Data Scraping/data/problemsExtended/${number}.json`,
+          "utf-8"
+        )
+      );
+      return [
+        number,
+        title,
+        solutionType,
+        difficulty,
+        premiumStatus,
+        category,
+        acceptanceRate,
+        content,
+        numberOfLikes,
+        numberOfDislikes,
+        numberOfAcceptedSubmission,
+        numberOfSubmission,
+        numberOfDiscussion,
+        numberOfSolutions,
+      ];
+    }
   );
 
   await conn.batch(
-    "INSERT INTO `problem` values (?, ?, ?, ?, ?, ?, ?)",
-    problemMapped
+    "INSERT INTO `problem` values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?,?)",
+    problemExtendedMapped
   );
+
+  // await conn.query("DELETE FROM `problem` WHERE TRUE");
 }
 
 module.exports = storeAllProblems;
