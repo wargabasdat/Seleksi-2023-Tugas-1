@@ -1,4 +1,4 @@
-Stats_ID,Player Name,Country,Team,Agents,Maps,Kills,Deaths,Assists,KD,KDA,ACS/Map,K/Map,D/Map,A/Map
+Stats_ID,Player Nickname,Country,Team,Agents,Maps,Kills,Deaths,Assists,KD,KDA,ACS/Map,K/Map,D/Map,A/Map
 880,Sayaplayer,South Korea,T1,"['Jett', 'Raze']",36,642,513,117,1.25,1.47,236,17.8,14.2,3.2
 881,something,Russia,Paper Rex,"['Jett', 'Reyna', 'Breach']",24,415,304,106,1.36,1.71,230,17.2,12.6,4.4
 882,Foxy9,South Korea,DRX,"['Jett', 'Raze']",23,372,337,76,1.1,1.32,229,16.1,14.6,3.3
