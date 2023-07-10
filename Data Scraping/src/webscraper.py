@@ -189,7 +189,19 @@ def get_race_results(year, location, race_id):
 
     return df
 
-# def get_multiple_race_results(race_ids):
+def get_multiple_race_results(arr):
+    """
+    Takes an array of multiple race ids, location, and years and returns the results into one dataframe.
+    """
+    final_df = pd.DataFrame()
+    temp_df = pd.DataFrame()
+    
+    for val in arr:
+        temp_df = get_race_results(val[2], val[1], val[0])
+        final_df = pd.concat([temp_df, final_df])
+        temp_df = final_df
+    
+    return final_df
 
 def get_race_ids_location(year):
     """
@@ -246,7 +258,7 @@ def get_race_ids_location(year):
 
 def get_multiple_race_ids_location(years):
     """
-    Returns all the race IDs and locations in a range of seasons.
+    Returns all the race IDs and locations in a range of seasons in a two-dimensional array.
     """
     results = []
 
@@ -256,6 +268,7 @@ def get_multiple_race_ids_location(years):
         results.append(temp_arr)
 
     final_ids = np.concatenate(results, axis=0)
+    final_ids = final_ids.tolist()
     return final_ids
 
 def get_drivers(range_of_years):
@@ -304,3 +317,8 @@ def get_seasons():
 
     df = pd.DataFrame(data={'Year': years})
     return df
+
+# years = ['2019', '2020', '2021']
+# arr = get_multiple_race_ids_location(years)
+# test_df = get_multiple_race_results(arr)
+# print(test_df)
