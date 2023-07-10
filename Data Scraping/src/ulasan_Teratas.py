@@ -19,7 +19,7 @@ list_ulasan_teratas = []
 
 # Ini apabila butuh data bentuk CSV
 list_ulasan_teratas_csv = []
-# kepala = ['peringkat', 'nama_objek', 'nama_akun_pengunjung', 'asal_pengunjung', 'rating_pengunjung', 'waktu_berkunjung', 'tipe_kunjungan', 'sorotan_pengunjung']
+# kepala = ['peringkat', 'nama_akun_pengunjung', 'asal_pengunjung', 'rating_pengunjung', 'waktu_berkunjung', 'tipe_kunjungan', 'sorotan_pengunjung']
 # writer = csv.writer(open('Data Scraping/data/ulasan_teratas.csv', 'w', newline = ''))
 # writer.writerow(kepala)
 
@@ -81,6 +81,8 @@ while (page <= 180) :
             nama_akun_pengunjung = cek.find('a', 'BMQDV _F Gv wSSLS SwZTJ FGwzt ukgoS').text
             if (not nama_akun_pengunjung.isascii()) :
                 continue
+            if (list_nama_akun_pengunjung_per_objek.count(nama_akun_pengunjung) >= 1) :
+                continue
             asal_pengunjung = cek.find('div', 'biGQs _P pZUbB osNWb').text.split(', ')[0]
 
             # Lakukan cleaning data agar akun yang tidak mencantumkan daerah asal tidak masuk
@@ -104,7 +106,7 @@ while (page <= 180) :
             list_tipe_kunjungan_per_objek.append(tipe_kunjungan)
 
             # Append ke tempat penyimpanan yang udah diinisialisasi di awal CSV
-            # list_ulasan_teratas_csv.append([peringkat, nama_objek, nama_akun_pengunjung, asal_pengunjung, rating_pengunjung, waktu_berkunjung, tipe_kunjungan])
+            # list_ulasan_teratas_csv.append([peringkat, nama_akun_pengunjung, asal_pengunjung, rating_pengunjung, waktu_berkunjung, tipe_kunjungan])
 
         # Masukkan setiap array informasi ulasan pengunjung per objek ke array semua objek
         list_nama_akun_pengunjung_semua_objek.append(list_nama_akun_pengunjung_per_objek)
@@ -117,7 +119,6 @@ while (page <= 180) :
         # Memasukkan variabel ke dalam bentuk dictionary
         hasil_ulasan_teratas = {
             'peringkat' : peringkat,
-            'nama_objek' : nama_objek,
             'nama_akun_pengunjung' : list_nama_akun_pengunjung_per_objek,
             'asal_pengunjung' : list_asal_pengunjung_per_objek,
             'rating_pengunjung' : list_rating_pengunjung_per_objek,
@@ -128,9 +129,9 @@ while (page <= 180) :
         list_ulasan_teratas.append(hasil_ulasan_teratas)
         
         # Test scraping JSON (jadikan komentar apabila tidak digunakan)
-        # for i in hasil_ulasan_teratas :
-        #     print(i, ' : ', hasil_ulasan_teratas[i])
-        # print('\n')
+        for i in hasil_ulasan_teratas :
+            print(i, ' : ', hasil_ulasan_teratas[i])
+        print('\n')
     page += 30
 
 # PENYIMPANAN (PILIH SALAH SATU)

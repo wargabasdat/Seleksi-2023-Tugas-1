@@ -45,14 +45,13 @@ while (page <= 180) :
             # Memasukkan variabel ke dalam bentuk dictionary
             hasil_jenis_objek = {
                 'peringkat' : peringkat,
-                'nama_objek' : nama_objek,
                 'nama_jenis' : nama_jenis
             }
 
             # Append ke tempat penyimpanan yang telah diinisialisasi sebelumnya (pilih antara JSON atau CSV)
             list_jenis_objek.append(hasil_jenis_objek) # Ini kalau JSON
             # for i in nama_jenis : # Ini kalau CSV
-            #     list_jenis_objek.append([peringkat, nama_objek, i])
+            #     list_jenis_objek.append([peringkat, i])
 
             # Test scraping (jadikan komentar apabila tidak digunakan)
             # for i in hasil_jenis_objek :

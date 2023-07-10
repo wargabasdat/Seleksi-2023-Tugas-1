@@ -1,7 +1,6 @@
 [
      {
           "peringkat": 1,
-          "nama_objek": "Istana Pagaruyung",
           "nama_akun_pengunjung": [
                "Sare B",
                "April Kinana",
@@ -65,9 +64,8 @@
      },
      {
           "peringkat": 2,
-          "nama_objek": "Jam Gadang Bukittinggi ",
           "nama_akun_pengunjung": [
-               "Fahd",
+               "Fahdi",
                "Ade Mirwan",
                "April Kinana",
                "Dyandra66",
@@ -129,9 +127,8 @@
      },
      {
           "peringkat": 3,
-          "nama_objek": "Air Terjun Lembah Anai",
           "nama_akun_pengunjung": [
-               "Fahd",
+               "Fahdi",
                "Dina",
                "rahmi",
                "Forza",
@@ -193,7 +190,6 @@
      },
      {
           "peringkat": 4,
-          "nama_objek": "Lembah Harau",
           "nama_akun_pengunjung": [
                "Haryono",
                "Sare B",
@@ -257,7 +253,6 @@
      },
      {
           "peringkat": 5,
-          "nama_objek": "Wisata pulau pagang",
           "nama_akun_pengunjung": [
                "Forza",
                "Zainalabidin",
@@ -321,7 +316,6 @@
      },
      {
           "peringkat": 6,
-          "nama_objek": "Danau Meninjau",
           "nama_akun_pengunjung": [
                "Forza",
                "iwanskomari",
@@ -385,135 +379,6 @@
      },
      {
           "peringkat": 7,
-          "nama_objek": "Kelok Sembilan",
-          "nama_akun_pengunjung": [
-               "Haryono",
-               "Alfar",
-               "Devwanto Dariel Nugroho",
-               "Sefanya travel",
-               "Agusti Esden",
-               "dendyfebdwiyana",
-               "Elfindra Aswin",
-               "alnurdin",
-               "Dilla R",
-               "Bendriwijaya"
-          ],
-          "asal_pengunjung": [
-               "Pekanbaru",
-               "Tangerang",
-               "Bandung",
-               "Padang",
-               "Tangerang Selatan",
-               "Bandung",
-               "Jakarta",
-               "Jakarta",
-               "",
-               ""
-          ],
-          "rating_pengunjung": [
-               "4.0",
-               "5.0",
-               "5.0",
-               "5.0",
-               "4.0",
-               "5.0",
-               "4.0",
-               "4.0",
-               "5.0",
-               "4.0"
-          ],
-          "waktu_berkunjung": [
-               "Jan 2023",
-               "Apr 2019",
-               "Jun 2018",
-               "Feb 2018",
-               "Sep 2018",
-               "Nov 2018",
-               "Okt 2018",
-               "Feb 2018",
-               "Agt 2017",
-               "Jun 2018"
-          ],
-          "tipe_kunjungan": [
-               "Keluarga",
-               "Keluarga",
-               "Keluarga",
-               "Keluarga",
-               "Keluarga",
-               "Bisnis",
-               "",
-               "Keluarga",
-               "Keluarga",
-               "Keluarga"
-          ]
-     },
-     {
-          "peringkat": 8,
-          "nama_objek": "Gunung Marapi",
-          "nama_akun_pengunjung": [
-               "Yurisystem",
-               "Frenji",
-               "Ahmad Fauzan",
-               "Agung Suria Darma",
-               "Djoko Roemantio",
-               "anak rantau",
-               "Fikri mufadhdhal",
-               "rumahambacang",
-               "NurJane11",
-               "Kadarmanto B"
-          ],
-          "asal_pengunjung": [
-               "",
-               "Padang",
-               "Padang Pariaman",
-               "Sentul",
-               "",
-               "Banda Aceh",
-               "Jambi",
-               "",
-               "",
-               "Jakarta"
-          ],
-          "rating_pengunjung": [
-               "5.0",
-               "5.0",
-               "4.0",
-               "5.0",
-               "5.0",
-               "5.0",
-               "5.0",
-               "5.0",
-               "5.0",
-               "4.0"
-          ],
-          "waktu_berkunjung": [
-               "Jun 2021",
-               "Nov 2019",
-               "Des 2018",
-               "Agt 2019",
-               "Jul 2019",
-               "Mei 2019",
-               "Jan 2019",
-               "Des 2017",
-               "Mar 2017",
-               "Jul 2017"
-          ],
-          "tipe_kunjungan": [
-               "Sendiri",
-               "Teman",
-               "Pasangan",
-               "Bisnis",
-               "Teman",
-               "Teman",
-               "Teman",
-               "Bisnis",
-               "",
-               "Keluarga"
-          ]
-     },
-     {
-          "peringkat": 9,
-          "nama_objek": "Puncak Lawang",
           "nama_akun_pengunjung": [
                "Nanda",
                "Ahmad Fauzan",
@@ -576,8 +441,133 @@
           ]
      },
      {
+          "peringkat": 8,
+          "nama_akun_pengunjung": [
+               "Haryono",
+               "Alfar",
+               "Devwanto Dariel Nugroho",
+               "Sefanya travel",
+               "Agusti Esden",
+               "dendyfebdwiyana",
+               "Elfindra Aswin",
+               "alnurdin",
+               "Dilla R",
+               "Bendriwijaya"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Tangerang",
+               "Bandung",
+               "Padang",
+               "Tangerang Selatan",
+               "Bandung",
+               "Jakarta",
+               "Jakarta",
+               "",
+               ""
+          ],
+          "rating_pengunjung": [
+               "4.0",
+               "5.0",
+               "5.0",
+               "5.0",
+               "4.0",
+               "5.0",
+               "4.0",
+               "4.0",
+               "5.0",
+               "4.0"
+          ],
+          "waktu_berkunjung": [
+               "Jan 2023",
+               "Apr 2019",
+               "Jun 2018",
+               "Feb 2018",
+               "Sep 2018",
+               "Nov 2018",
+               "Okt 2018",
+               "Feb 2018",
+               "Agt 2017",
+               "Jun 2018"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Bisnis",
+               "",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 9,
+          "nama_akun_pengunjung": [
+               "Yurisystem",
+               "Frenji",
+               "Ahmad Fauzan",
+               "Agung Suria Darma",
+               "Djoko Roemantio",
+               "anak rantau",
+               "Fikri mufadhdhal",
+               "rumahambacang",
+               "NurJane11",
+               "Kadarmanto B"
+          ],
+          "asal_pengunjung": [
+               "",
+               "Padang",
+               "Padang Pariaman",
+               "Sentul",
+               "",
+               "Banda Aceh",
+               "Jambi",
+               "",
+               "",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               "5.0",
+               "5.0",
+               "4.0",
+               "5.0",
+               "5.0",
+               "5.0",
+               "5.0",
+               "5.0",
+               "5.0",
+               "4.0"
+          ],
+          "waktu_berkunjung": [
+               "Jun 2021",
+               "Nov 2019",
+               "Des 2018",
+               "Agt 2019",
+               "Jul 2019",
+               "Mei 2019",
+               "Jan 2019",
+               "Des 2017",
+               "Mar 2017",
+               "Jul 2017"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri",
+               "Teman",
+               "Pasangan",
+               "Bisnis",
+               "Teman",
+               "Teman",
+               "Teman",
+               "Bisnis",
+               "",
+               "Keluarga"
+          ]
+     },
+     {
           "peringkat": 10,
-          "nama_objek": "Ngarai Sianok",
           "nama_akun_pengunjung": [
                "Kapatoman_Cafe",
                "Chiquita P",
@@ -585,7 +575,6 @@
                "anak rantau",
                "Alfar",
                "differensiasi",
-               "Kapatoman_Cafe",
                "Dhany Alfaruq",
                "Wihartanto",
                "an_victor"
@@ -598,7 +587,6 @@
                "Tangerang",
                "Medan",
                "Bukittinggi",
-               "Bukittinggi",
                "Tangerang Selatan",
                "Jakarta"
           ],
@@ -606,7 +594,6 @@
                "5.0",
                "5.0",
                "4.0",
-               "5.0",
                "5.0",
                "5.0",
                "5.0",
@@ -621,7 +608,6 @@
                "Mei 2019",
                "Apr 2019",
                "Nov 2018",
-               "Jul 2018",
                "Des 2018",
                "Okt 2017",
                "Agt 2018"
@@ -633,7 +619,6 @@
                "Keluarga",
                "Keluarga",
                "Teman",
-               "Teman",
                "Keluarga",
                "Teman",
                "Keluarga"
@@ -641,7 +626,6 @@
      },
      {
           "peringkat": 11,
-          "nama_objek": "Masjid Raya Sumatera Barat",
           "nama_akun_pengunjung": [
                "Dina",
                "yudhi k",
@@ -705,7 +689,6 @@
      },
      {
           "peringkat": 12,
-          "nama_objek": "Pulau Mandeh",
           "nama_akun_pengunjung": [
                "Forza",
                "Ken Aditya",
@@ -769,7 +752,6 @@
      },
      {
           "peringkat": 13,
-          "nama_objek": "Goa Jepang",
           "nama_akun_pengunjung": [
                "April Kinana",
                "Mom wafiy",
@@ -833,7 +815,6 @@
      },
      {
           "peringkat": 14,
-          "nama_objek": "Pantai Air Manis",
           "nama_akun_pengunjung": [
                "widi irawati",
                "Forza",
@@ -897,7 +878,6 @@
      },
      {
           "peringkat": 15,
-          "nama_objek": "Danau Singkarak",
           "nama_akun_pengunjung": [
                "Priojati A",
                "Ken Aditya",
@@ -961,7 +941,6 @@
      },
      {
           "peringkat": 16,
-          "nama_objek": "Pulau Sikuai",
           "nama_akun_pengunjung": [
                "anak rantau",
                "sabrina_ho88",
@@ -1025,7 +1004,6 @@
      },
      {
           "peringkat": 17,
-          "nama_objek": "Pantai Padang Taplau",
           "nama_akun_pengunjung": [
                "Indri87",
                "Saipul Arifin",
@@ -1034,7 +1012,6 @@
                "Sefanya travel",
                "fifi",
                "yudhi k",
-               "Indri87",
                "Seaside55351852926",
                "anak rantau"
           ],
@@ -1047,7 +1024,6 @@
                "",
                "Padang",
                "",
-               "",
                "Banda Aceh"
           ],
           "rating_pengunjung": [
@@ -1058,7 +1034,6 @@
                "5.0",
                "4.0",
                "5.0",
-               "4.0",
                "5.0",
                "5.0"
           ],
@@ -1071,7 +1046,6 @@
                "Nov 2019",
                "Jul 2019",
                "Jun 2019",
-               "Jun 2019",
                "Mei 2019"
           ],
           "tipe_kunjungan": [
@@ -1082,14 +1056,12 @@
                "Keluarga",
                "Teman",
                "Sendiri",
-               "Keluarga",
                "Sendiri",
                "Keluarga"
           ]
      },
      {
           "peringkat": 18,
-          "nama_objek": "Museum Adityawarman",
           "nama_akun_pengunjung": [
                "rafid fernando",
                "Forza",
@@ -1153,7 +1125,6 @@
      },
      {
           "peringkat": 19,
-          "nama_objek": "Pulau Pasumpahan",
           "nama_akun_pengunjung": [
                "Hendra Yolanda Rangkuti",
                "Akmal",
@@ -1217,7 +1188,6 @@
      },
      {
           "peringkat": 20,
-          "nama_objek": "Kampung Cina",
           "nama_akun_pengunjung": [
                "monika",
                "anak rantau",
@@ -1281,7 +1251,6 @@
      },
      {
           "peringkat": 21,
-          "nama_objek": "Pulau Pamutusan",
           "nama_akun_pengunjung": [
                "Ruth H",
                "Petualangbumi",
@@ -1345,7 +1314,6 @@
      },
      {
           "peringkat": 22,
-          "nama_objek": "Pantai Carocok Painan",
           "nama_akun_pengunjung": [
                "Bumimi homestay",
                "rent car & tour jogja",
@@ -1409,7 +1377,6 @@
      },
      {
           "peringkat": 23,
-          "nama_objek": "Koto Gadang",
           "nama_akun_pengunjung": [
                "Valiant Vemby",
                "rigeladitya",
@@ -1473,7 +1440,6 @@
      },
      {
           "peringkat": 24,
-          "nama_objek": "Taman  Nasional Kerinci Seblat",
           "nama_akun_pengunjung": [
                "JelajahKerinci",
                "andreas_kheneva",
@@ -1537,7 +1503,6 @@
      },
      {
           "peringkat": 25,
-          "nama_objek": "Lubuk Nyarai",
           "nama_akun_pengunjung": [
                "Pasya",
                "Antohokkeh",
@@ -1601,7 +1566,6 @@
      },
      {
           "peringkat": 26,
-          "nama_objek": "Nagari Tuo Pariangan",
           "nama_akun_pengunjung": [
                "Fajrin",
                "Rachella Homestay",
@@ -1665,7 +1629,6 @@
      },
      {
           "peringkat": 27,
-          "nama_objek": "Alek Pacu Jawi",
           "nama_akun_pengunjung": [
                "Pasya",
                "Brigitta",
@@ -1709,7 +1672,6 @@
      },
      {
           "peringkat": 28,
-          "nama_objek": "Pantai Suwarnadwipa",
           "nama_akun_pengunjung": [
                "Hendra Yolanda Rangkuti",
                "Brigitta",
@@ -1773,7 +1735,6 @@
      },
      {
           "peringkat": 29,
-          "nama_objek": "Padang Mengatas",
           "nama_akun_pengunjung": [
                "Indryechania",
                "Pasya",
@@ -1837,7 +1798,6 @@
      },
      {
           "peringkat": 30,
-          "nama_objek": "Jenjang Seribu",
           "nama_akun_pengunjung": [
                "Valiant Vemby",
                "mr. ari",
@@ -1847,7 +1807,6 @@
                "Hidayati D",
                "RerePutri",
                "KurniawanAdhi",
-               "langgeng14",
                "sabrina_ho88"
           ],
           "asal_pengunjung": [
@@ -1859,7 +1818,6 @@
                "Tangerang",
                "Jakarta",
                "Jakarta",
-               "",
                "Padang"
           ],
           "rating_pengunjung": [
@@ -1871,7 +1829,6 @@
                "4.0",
                "3.0",
                "5.0",
-               "4.0",
                "5.0"
           ],
           "waktu_berkunjung": [
@@ -1883,7 +1840,6 @@
                "Agt 2016",
                "Mei 2016",
                "Agt 2016",
-               "Jan 2016",
                "Feb 2016"
           ],
           "tipe_kunjungan": [
@@ -1895,13 +1851,11 @@
                "Teman",
                "",
                "Sendiri",
-               "Pasangan",
                "Pasangan"
           ]
      },
      {
           "peringkat": 31,
-          "nama_objek": "Pantai Bungus",
           "nama_akun_pengunjung": [
                "Ruth H",
                "Antohokkeh",
@@ -1965,7 +1919,6 @@
      },
      {
           "peringkat": 32,
-          "nama_objek": "Ngalau Indah",
           "nama_akun_pengunjung": [
                "Pasya",
                "Fisra A",
@@ -2029,7 +1982,6 @@
      },
      {
           "peringkat": 33,
-          "nama_objek": "Danau Diatas",
           "nama_akun_pengunjung": [
                "Sefanya travel",
                "Navigator729627",
@@ -2039,7 +1991,6 @@
                "Evinayaspi",
                "fajaradiartha",
                "rudi sutrisno ho",
-               "Ichazizah",
                "Aldi S"
           ],
           "asal_pengunjung": [
@@ -2049,7 +2000,6 @@
                "Tangerang",
                "Jakarta",
                "",
-               "Jakarta",
                "Jakarta",
                "Jakarta",
                "Bandung"
@@ -2063,7 +2013,6 @@
                "3.0",
                "4.0",
                "4.0",
-               "4.0",
                "4.0"
           ],
           "waktu_berkunjung": [
@@ -2075,7 +2024,6 @@
                "Jul 2016",
                "Mei 2016",
                "Mei 2016",
-               "Apr 2015",
                "Jul 2015"
           ],
           "tipe_kunjungan": [
@@ -2087,13 +2035,11 @@
                "Teman",
                "Teman",
                "Teman",
-               "Teman",
                "Keluarga"
           ]
      },
      {
           "peringkat": 34,
-          "nama_objek": "Pulau Sirandah",
           "nama_akun_pengunjung": [
                "Antohokkeh",
                "mr. ari",
@@ -2147,7 +2093,6 @@
      },
      {
           "peringkat": 35,
-          "nama_objek": "Museum Rumah Kelahiran Bung Hatta",
           "nama_akun_pengunjung": [
                "Dizzman",
                "iwan_akraz",
@@ -2206,7 +2151,6 @@
      },
      {
           "peringkat": 36,
-          "nama_objek": "Mandeh Sea Park",
           "nama_akun_pengunjung": [
                "Pasya",
                "kk_funky",
@@ -2270,7 +2214,6 @@
      },
      {
           "peringkat": 37,
-          "nama_objek": "Kebun Teh Alahan Panjang",
           "nama_akun_pengunjung": [
                "makdangnisa",
                "BangNess",
@@ -2334,10 +2277,8 @@
      },
      {
           "peringkat": 38,
-          "nama_objek": "Teluk Bayur",
           "nama_akun_pengunjung": [
                "Kasmadi Munthe",
-               "kk_funky",
                "kk_funky",
                "Ahmad Wijaya",
                "irmadevita",
@@ -2348,7 +2289,6 @@
           "asal_pengunjung": [
                "Malang",
                "Jakarta",
-               "Jakarta",
                "",
                "Jakarta",
                "Jakarta",
@@ -2356,7 +2296,6 @@
                "Yogyakarta"
           ],
           "rating_pengunjung": [
-               "5.0",
                "5.0",
                "5.0",
                "5.0",
@@ -2369,7 +2308,6 @@
                "Jan 2022",
                "Jun 2018",
                "Des 2017",
-               "Des 2017",
                "Apr 2017",
                "Apr 2017",
                "Feb 2017",
@@ -2378,7 +2316,6 @@
           "tipe_kunjungan": [
                "",
                "Keluarga",
-               "Sendiri",
                "Teman",
                "Keluarga",
                "Teman",
@@ -2388,7 +2325,6 @@
      },
      {
           "peringkat": 39,
-          "nama_objek": "Pandai Sikek",
           "nama_akun_pengunjung": [
                "hendysuherman86",
                "RikhePurnamaSari",
@@ -2447,7 +2383,6 @@
      },
      {
           "peringkat": 40,
-          "nama_objek": "Pusat Konservasi Batang Palupuh Alami (Taman Rafflesia)",
           "nama_akun_pengunjung": [
                "Didy Ardiano",
                "herman p",
@@ -2476,7 +2411,6 @@
      },
      {
           "peringkat": 41,
-          "nama_objek": "Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau",
           "nama_akun_pengunjung": [
                "mr. ari",
                "Antohokkeh",
@@ -2540,7 +2474,6 @@
      },
      {
           "peringkat": 42,
-          "nama_objek": "Pelabuhan Muaro",
           "nama_akun_pengunjung": [
                "anak rantau",
                "Antohokkeh",
@@ -2604,7 +2537,6 @@
      },
      {
           "peringkat": 43,
-          "nama_objek": "Jembatan Limpapeh",
           "nama_akun_pengunjung": [
                "Mom wafiy",
                "LENNI5y",
@@ -2668,7 +2600,6 @@
      },
      {
           "peringkat": 44,
-          "nama_objek": "Pulau Angso Duo",
           "nama_akun_pengunjung": [
                "Duan",
                "Almadinah-Pariaman",
@@ -2732,7 +2663,6 @@
      },
      {
           "peringkat": 45,
-          "nama_objek": "Pantai Carolina",
           "nama_akun_pengunjung": [
                "NIA_MARPA",
                "Antohokkeh",
@@ -2796,7 +2726,6 @@
      },
      {
           "peringkat": 46,
-          "nama_objek": "Kepala Bandar",
           "nama_akun_pengunjung": [
                "yudhi k",
                "Pasya",
@@ -2860,7 +2789,6 @@
      },
      {
           "peringkat": 47,
-          "nama_objek": "Masjid Raya Bukittinggi",
           "nama_akun_pengunjung": [
                "Valiant Vemby",
                "Pasya",
@@ -2924,7 +2852,6 @@
      },
      {
           "peringkat": 48,
-          "nama_objek": "Benteng Fort de Kock",
           "nama_akun_pengunjung": [
                "Dyandra66",
                "anida krisstini",
@@ -2988,7 +2915,6 @@
      },
      {
           "peringkat": 49,
-          "nama_objek": "Pantai Muaro Lasak",
           "nama_akun_pengunjung": [
                "Nasirullah Sitam",
                "Felia putri",
@@ -3052,7 +2978,6 @@
      },
      {
           "peringkat": 50,
-          "nama_objek": "Puncak Anai",
           "nama_akun_pengunjung": [
                "Malibou Organizer",
                "mr. ari",
@@ -3111,7 +3036,6 @@
      },
      {
           "peringkat": 51,
-          "nama_objek": "Pantai Tiram",
           "nama_akun_pengunjung": [
                "anak rantau",
                "Antohokkeh",
@@ -3175,7 +3099,6 @@
      },
      {
           "peringkat": 52,
-          "nama_objek": "Goedang Ransum",
           "nama_akun_pengunjung": [
                "Rachella Homestay",
                "Dizzman",
@@ -3239,7 +3162,6 @@
      },
      {
           "peringkat": 53,
-          "nama_objek": "Pemandian Tirta Alami",
           "nama_akun_pengunjung": [
                "Shinta",
                "Pasya",
@@ -3303,7 +3225,6 @@
      },
      {
           "peringkat": 54,
-          "nama_objek": "Mifan Water Park & Resort",
           "nama_akun_pengunjung": [
                "Valiant Vemby",
                "Sefanya travel",
@@ -3367,7 +3288,6 @@
      },
      {
           "peringkat": 55,
-          "nama_objek": "Gunung Singgalang",
           "nama_akun_pengunjung": [
                "Frenji",
                "Ahmad Fauzan",
@@ -3426,7 +3346,6 @@
      },
      {
           "peringkat": 56,
-          "nama_objek": "Taman Nasional Siberut",
           "nama_akun_pengunjung": [
                "zak T"
           ],
@@ -3445,7 +3364,6 @@
      },
      {
           "peringkat": 57,
-          "nama_objek": "Hole Mine Site Museum Mbah Suro & Infobox",
           "nama_akun_pengunjung": [
                "Ewi D",
                "Dizzman",
@@ -3509,7 +3427,6 @@
      },
      {
           "peringkat": 58,
-          "nama_objek": "Masjid Ulakan",
           "nama_akun_pengunjung": [
                "Antohokkeh",
                "Citra F",
@@ -3517,7 +3434,6 @@
                "indraamir",
                "shafarul i",
                "AlvianIbr",
-               "Citra F",
                "syafrizal_info",
                "Agusti Esden"
           ],
@@ -3527,7 +3443,6 @@
                "",
                "Jakarta",
                "Bukittinggi",
-               "Jakarta",
                "Jakarta",
                "Jakarta",
                "Tangerang Selatan"
@@ -3540,7 +3455,6 @@
                "4.0",
                "3.0",
                "5.0",
-               "5.0",
                "4.0"
           ],
           "waktu_berkunjung": [
@@ -3550,7 +3464,6 @@
                "Feb 2016",
                "Mei 2016",
                "Jun 2015",
-               "Mei 2014",
                "Jan 2014",
                "Okt 2013"
           ],
@@ -3561,14 +3474,12 @@
                "Keluarga",
                "Teman",
                "Pasangan",
-               "Teman",
                "Keluarga",
                "Keluarga"
           ]
      },
      {
           "peringkat": 59,
-          "nama_objek": "Air Terjun Sarasah Gadut",
           "nama_akun_pengunjung": [
                "Erik_Ariyanto",
                "tjutjukbs",
@@ -3622,7 +3533,6 @@
      },
      {
           "peringkat": 60,
-          "nama_objek": "Kolam Renang Batang Tabik",
           "nama_akun_pengunjung": [
                "Rahmadini",
                "Pasya",
@@ -3656,7 +3566,6 @@
      },
      {
           "peringkat": 61,
-          "nama_objek": "Janjang Saribu",
           "nama_akun_pengunjung": [
                "Pasya",
                "Forza",
@@ -3720,7 +3629,6 @@
      },
      {
           "peringkat": 62,
-          "nama_objek": "Masjid Taqwa Muhammadiyah",
           "nama_akun_pengunjung": [
                "Antohokkeh",
                "Ilham I",
@@ -3784,7 +3692,6 @@
      },
      {
           "peringkat": 63,
-          "nama_objek": "Kelok 44",
           "nama_akun_pengunjung": [
                "Citra F",
                "pipin p",
@@ -3848,7 +3755,6 @@
      },
      {
           "peringkat": 64,
-          "nama_objek": "Bukit Nobita",
           "nama_akun_pengunjung": [
                "Antohokkeh",
                "tanoe7788",
@@ -3912,7 +3818,6 @@
      },
      {
           "peringkat": 65,
-          "nama_objek": "Taman Nirwana",
           "nama_akun_pengunjung": [
                "Antohokkeh",
                "kk_funky",
@@ -3976,7 +3881,6 @@
      },
      {
           "peringkat": 66,
-          "nama_objek": "Lubuk Minturun",
           "nama_akun_pengunjung": [
                "Ruth H",
                "Rizki A",
@@ -4025,7 +3929,6 @@
      },
      {
           "peringkat": 67,
-          "nama_objek": "Jembatan Siti Nurbaya",
           "nama_akun_pengunjung": [
                "iwanskomari",
                "Rizky A",
@@ -4089,7 +3992,6 @@
      },
      {
           "peringkat": 68,
-          "nama_objek": "Sungai Kapalo Banda Taram",
           "nama_akun_pengunjung": [
                "Doditata",
                "Indindmil",
@@ -4133,7 +4035,6 @@
      },
      {
           "peringkat": 69,
-          "nama_objek": "Hutan Lindung Bung Hatta",
           "nama_akun_pengunjung": [
                "kk_funky",
                "Citra F",
@@ -4141,7 +4042,6 @@
                "ferinovriyal",
                "Agusti Esden",
                "karimpaputungan",
-               "Agusti Esden",
                "Darnel-HDI"
           ],
           "asal_pengunjung": [
@@ -4151,7 +4051,6 @@
                "Gorontalo",
                "Tangerang Selatan",
                "Jakarta",
-               "Tangerang Selatan",
                "Jakarta"
           ],
           "rating_pengunjung": [
@@ -4161,7 +4060,6 @@
                "3.0",
                "5.0",
                "3.0",
-               "4.0",
                "4.0"
           ],
           "waktu_berkunjung": [
@@ -4171,7 +4069,6 @@
                "Sep 2013",
                "Mar 2014",
                "Feb 2014",
-               "Nov 2012",
                "Mar 2015"
           ],
           "tipe_kunjungan": [
@@ -4181,13 +4078,11 @@
                "Teman",
                "Keluarga",
                "Pasangan",
-               "Keluarga",
                "Teman"
           ]
      },
      {
           "peringkat": 70,
-          "nama_objek": "Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau",
           "nama_akun_pengunjung": [
                "Valiant Vemby",
                "Ryan",
@@ -4221,7 +4116,6 @@
      },
      {
           "peringkat": 71,
-          "nama_objek": "Rumah Puisi Taufiq Ismail",
           "nama_akun_pengunjung": [
                "Fisra A",
                "Fatimah A",
@@ -4260,51 +4154,6 @@
      },
      {
           "peringkat": 72,
-          "nama_objek": "Museum Perjuangan Tri Daya Eka Dharma",
-          "nama_akun_pengunjung": [
-               "anida krisstini",
-               "honestkaro",
-               "agus muslim",
-               "sabrina_ho88",
-               "shafarul i",
-               "dendirahmat"
-          ],
-          "asal_pengunjung": [
-               "Padang",
-               "Kabanjahe",
-               "Depok",
-               "Padang",
-               "Bukittinggi",
-               "Padang Panjang"
-          ],
-          "rating_pengunjung": [
-               "5.0",
-               "3.0",
-               "4.0",
-               "5.0",
-               "4.0",
-               "4.0"
-          ],
-          "waktu_berkunjung": [
-               "Nov 2019",
-               "Jul 2017",
-               "Apr 2017",
-               "Jun 2015",
-               "Feb 2016",
-               "Feb 2016"
-          ],
-          "tipe_kunjungan": [
-               "Keluarga",
-               "Teman",
-               "",
-               "Keluarga",
-               "Teman",
-               "Teman"
-          ]
-     },
-     {
-          "peringkat": 73,
-          "nama_objek": "Basko Grand Mall",
           "nama_akun_pengunjung": [
                "Ika J",
                "Sefanya travel",
@@ -4367,8 +4216,50 @@
           ]
      },
      {
+          "peringkat": 73,
+          "nama_akun_pengunjung": [
+               "anida krisstini",
+               "honestkaro",
+               "agus muslim",
+               "sabrina_ho88",
+               "shafarul i",
+               "dendirahmat"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Kabanjahe",
+               "Depok",
+               "Padang",
+               "Bukittinggi",
+               "Padang Panjang"
+          ],
+          "rating_pengunjung": [
+               "5.0",
+               "3.0",
+               "4.0",
+               "5.0",
+               "4.0",
+               "4.0"
+          ],
+          "waktu_berkunjung": [
+               "Nov 2019",
+               "Jul 2017",
+               "Apr 2017",
+               "Jun 2015",
+               "Feb 2016",
+               "Feb 2016"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "",
+               "Keluarga",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
           "peringkat": 74,
-          "nama_objek": "Batu Malin Kundang",
           "nama_akun_pengunjung": [
                "siti jalan jalan",
                "Erik_Ariyanto",
@@ -4427,7 +4318,6 @@
      },
      {
           "peringkat": 75,
-          "nama_objek": "Air Terjun Kulu Kubuk",
           "nama_akun_pengunjung": [
                "TobiTim",
                "Raoan azevedo",
@@ -4456,46 +4346,39 @@
      },
      {
           "peringkat": 76,
-          "nama_objek": "Danau Kandi",
           "nama_akun_pengunjung": [
                "Sefanya travel",
                "tjutjukbs",
                "Agusti Esden",
-               "dewi_naglilya",
-               "Agusti Esden"
+               "dewi_naglilya"
           ],
           "asal_pengunjung": [
                "Padang",
                "Surabaya",
                "Tangerang Selatan",
-               "Sawahlunto",
-               "Tangerang Selatan"
+               "Sawahlunto"
           ],
           "rating_pengunjung": [
                "5.0",
                "4.0",
                "4.0",
-               "5.0",
-               "4.0"
+               "5.0"
           ],
           "waktu_berkunjung": [
                "Jul 2018",
                "Feb 2017",
                "Agt 2016",
-               "Apr 2014",
-               "Mar 2014"
+               "Apr 2014"
           ],
           "tipe_kunjungan": [
                "Keluarga",
                "Teman",
                "Keluarga",
-               "Teman",
-               "Keluarga"
+               "Teman"
           ]
      },
      {
           "peringkat": 77,
-          "nama_objek": "Museum Kereta Api Sawahlunto",
           "nama_akun_pengunjung": [
                "Rachella Homestay",
                "Dizzman",
@@ -4559,51 +4442,6 @@
      },
      {
           "peringkat": 78,
-          "nama_objek": "Puncak Langkisau",
-          "nama_akun_pengunjung": [
-               "kaumNUsantara",
-               "Ilham I",
-               "Tri Julian H",
-               "jawekmentour",
-               "edwardorusfid",
-               "Fasta'Iza N"
-          ],
-          "asal_pengunjung": [
-               "Jakarta",
-               "",
-               "",
-               "Bekasi",
-               "Jakarta",
-               ""
-          ],
-          "rating_pengunjung": [
-               "4.0",
-               "5.0",
-               "5.0",
-               "5.0",
-               "4.0",
-               "4.0"
-          ],
-          "waktu_berkunjung": [
-               "Okt 2017",
-               "Jul 2017",
-               "Apr 2017",
-               "Agt 2016",
-               "Agt 2016",
-               "Mar 2016"
-          ],
-          "tipe_kunjungan": [
-               "Pasangan",
-               "Teman",
-               "Teman",
-               "Teman",
-               "Keluarga",
-               "Teman"
-          ]
-     },
-     {
-          "peringkat": 79,
-          "nama_objek": "Taman Marga Satwa Budaya Kinantan",
           "nama_akun_pengunjung": [
                "Valiant Vemby",
                "Dhany Alfaruq",
@@ -4666,8 +4504,50 @@
           ]
      },
      {
+          "peringkat": 79,
+          "nama_akun_pengunjung": [
+               "kaumNUsantara",
+               "Ilham I",
+               "Tri Julian H",
+               "jawekmentour",
+               "edwardorusfid",
+               "Fasta'Iza N"
+          ],
+          "asal_pengunjung": [
+               "Jakarta",
+               "",
+               "",
+               "Bekasi",
+               "Jakarta",
+               ""
+          ],
+          "rating_pengunjung": [
+               "4.0",
+               "5.0",
+               "5.0",
+               "5.0",
+               "4.0",
+               "4.0"
+          ],
+          "waktu_berkunjung": [
+               "Okt 2017",
+               "Jul 2017",
+               "Apr 2017",
+               "Agt 2016",
+               "Agt 2016",
+               "Mar 2016"
+          ],
+          "tipe_kunjungan": [
+               "Pasangan",
+               "Teman",
+               "Teman",
+               "Teman",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
           "peringkat": 80,
-          "nama_objek": "Air Terjun Lubuk Hitam",
           "nama_akun_pengunjung": [
                "FebruariCeria",
                "Brigitta",
@@ -4696,7 +4576,6 @@
      },
      {
           "peringkat": 81,
-          "nama_objek": "Monumen Bung Hatta",
           "nama_akun_pengunjung": [
                "LENNI5y",
                "siti jalan jalan",
@@ -4755,7 +4634,6 @@
      },
      {
           "peringkat": 82,
-          "nama_objek": "Pantai Gandoriah",
           "nama_akun_pengunjung": [
                "Sefanya travel",
                "Ahmad Fauzan",
@@ -4794,7 +4672,6 @@
      },
      {
           "peringkat": 83,
-          "nama_objek": "Jembatan Akar",
           "nama_akun_pengunjung": [
                "Pasya",
                "rent car & tour jogja",
@@ -4838,7 +4715,6 @@
      },
      {
           "peringkat": 84,
-          "nama_objek": "Batu Batikam",
           "nama_akun_pengunjung": [
                "evi d",
                "Rachella Homestay",
@@ -4882,7 +4758,6 @@
      },
      {
           "peringkat": 85,
-          "nama_objek": "Makam Muhammad Yamin",
           "nama_akun_pengunjung": [
                "Dizzman",
                "ida_srini",
@@ -4926,7 +4801,6 @@
      },
      {
           "peringkat": 86,
-          "nama_objek": "Lubuk Cimantung",
           "nama_akun_pengunjung": [
                "mr. ari",
                "tjutjukbs",
@@ -4960,7 +4834,6 @@
      },
      {
           "peringkat": 87,
-          "nama_objek": "Nagari 1000 Rumah Gadang",
           "nama_akun_pengunjung": [
                "Pasya",
                "mr. ari",
@@ -4994,7 +4867,6 @@
      },
      {
           "peringkat": 88,
-          "nama_objek": "Museum Rumah Kelahiran Buya Hamka",
           "nama_akun_pengunjung": [
                "rifa'atul K",
                "Fatimah A",
@@ -5028,7 +4900,6 @@
      },
      {
           "peringkat": 89,
-          "nama_objek": "Tabek Gadang",
           "nama_akun_pengunjung": [
                "Valiant Vemby",
                "Fisra A",
@@ -5067,41 +4938,6 @@
      },
      {
           "peringkat": 90,
-          "nama_objek": "Puncak Polan",
-          "nama_akun_pengunjung": [
-               "kk_funky",
-               "tjutjukbs",
-               "hiburansepi",
-               "shafarul i"
-          ],
-          "asal_pengunjung": [
-               "Jakarta",
-               "Surabaya",
-               "Bandung",
-               "Bukittinggi"
-          ],
-          "rating_pengunjung": [
-               "5.0",
-               "4.0",
-               "4.0",
-               "4.0"
-          ],
-          "waktu_berkunjung": [
-               "Des 2017",
-               "Feb 2017",
-               "Sep 2016",
-               "Nov 2015"
-          ],
-          "tipe_kunjungan": [
-               "Sendiri",
-               "Teman",
-               "Teman",
-               "Teman"
-          ]
-     },
-     {
-          "peringkat": 91,
-          "nama_objek": "Pantai Ketaping",
           "nama_akun_pengunjung": [
                "sabrina_ho88",
                "tjutjukbs",
@@ -5139,8 +4975,40 @@
           ]
      },
      {
+          "peringkat": 91,
+          "nama_akun_pengunjung": [
+               "kk_funky",
+               "tjutjukbs",
+               "hiburansepi",
+               "shafarul i"
+          ],
+          "asal_pengunjung": [
+               "Jakarta",
+               "Surabaya",
+               "Bandung",
+               "Bukittinggi"
+          ],
+          "rating_pengunjung": [
+               "5.0",
+               "4.0",
+               "4.0",
+               "4.0"
+          ],
+          "waktu_berkunjung": [
+               "Des 2017",
+               "Feb 2017",
+               "Sep 2016",
+               "Nov 2015"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri",
+               "Teman",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
           "peringkat": 92,
-          "nama_objek": "Kincir Air Talawi",
           "nama_akun_pengunjung": [
                "imgar",
                "Dizzman",
@@ -5174,7 +5042,6 @@
      },
      {
           "peringkat": 93,
-          "nama_objek": "Masjid Raya Bayur",
           "nama_akun_pengunjung": [
                "Citra F",
                "Fisra A",
@@ -5208,7 +5075,6 @@
      },
      {
           "peringkat": 94,
-          "nama_objek": "Lubuak Tempurung",
           "nama_akun_pengunjung": [
                "Ryan O",
                "Kermit Y",
@@ -5242,7 +5108,6 @@
      },
      {
           "peringkat": 95,
-          "nama_objek": "Sungai Belimbing",
           "nama_akun_pengunjung": [
                "MarvinSitorus"
           ],
@@ -5261,7 +5126,6 @@
      },
      {
           "peringkat": 96,
-          "nama_objek": "Jambak Sea Turtle Camp",
           "nama_akun_pengunjung": [
                "Forza"
           ],
@@ -5280,31 +5144,24 @@
      },
      {
           "peringkat": 97,
-          "nama_objek": "Bukit Cambai",
           "nama_akun_pengunjung": [
-               "Fasta'Iza N",
                "Fasta'Iza N"
           ],
           "asal_pengunjung": [
-               "",
                ""
           ],
           "rating_pengunjung": [
-               "4.0",
-               "5.0"
+               "4.0"
           ],
           "waktu_berkunjung": [
-               "Feb 2017",
-               "Nov 2016"
+               "Feb 2017"
           ],
           "tipe_kunjungan": [
-               "Teman",
                "Teman"
           ]
      },
      {
           "peringkat": 98,
-          "nama_objek": "Bukit Sirih",
           "nama_akun_pengunjung": [
                "OkeTravel",
                "Asrilwandi"
@@ -5328,7 +5185,6 @@
      },
      {
           "peringkat": 99,
-          "nama_objek": "Gunung Tandikat",
           "nama_akun_pengunjung": [
                "Ryan",
                "OkeTravel",
@@ -5362,7 +5218,6 @@
      },
      {
           "peringkat": 100,
-          "nama_objek": "Air Terjun Batu Bersurat",
           "nama_akun_pengunjung": [
                "tjutjukbs",
                "Aswarizky A",
@@ -5391,7 +5246,6 @@
      },
      {
           "peringkat": 101,
-          "nama_objek": "Rumah Tuo Kampai Nan Panjang",
           "nama_akun_pengunjung": [
                "Sabai-Nan-Aluih"
           ],
@@ -5410,7 +5264,6 @@
      },
      {
           "peringkat": 102,
-          "nama_objek": "Danau Tarusan Kamang",
           "nama_akun_pengunjung": [
                "elvinadiah",
                "Fisra A",
@@ -5444,7 +5297,6 @@
      },
      {
           "peringkat": 103,
-          "nama_objek": "Pantai Kata",
           "nama_akun_pengunjung": [
                "mr. ari",
                "Aisah I",
@@ -5488,7 +5340,6 @@
      },
      {
           "peringkat": 104,
-          "nama_objek": "Kincir Air Tradisional",
           "nama_akun_pengunjung": [
                "sucyfebriningsih"
           ],
@@ -5507,7 +5358,6 @@
      },
      {
           "peringkat": 105,
-          "nama_objek": "Pulau Sironjong",
           "nama_akun_pengunjung": [
                "rispertani"
           ],
@@ -5526,7 +5376,6 @@
      },
      {
           "peringkat": 106,
-          "nama_objek": "Pulau Karang",
           "nama_akun_pengunjung": [
                "Listia Vidyawat... M",
                "alghozi"
@@ -5550,7 +5399,6 @@
      },
      {
           "peringkat": 107,
-          "nama_objek": "Konservasi Penyu Kota Pariaman",
           "nama_akun_pengunjung": [
                "mr. ari",
                "OkeTravel"
@@ -5574,7 +5422,6 @@
      },
      {
           "peringkat": 108,
-          "nama_objek": "Gereja Katolik Santa Barbara Sawahlunto",
           "nama_akun_pengunjung": [
                "shafarul i",
                "Laurent R",
@@ -5603,7 +5450,6 @@
      },
      {
           "peringkat": 109,
-          "nama_objek": "Air Terjun Baburai",
           "nama_akun_pengunjung": [
                "tanoe7788",
                "tjutjukbs",
@@ -5632,7 +5478,6 @@
      },
      {
           "peringkat": 110,
-          "nama_objek": "Shoot - Pool Lounge & Sport Bar",
           "nama_akun_pengunjung": [
                "Marcus_Me"
           ],
@@ -5651,7 +5496,6 @@
      },
      {
           "peringkat": 111,
-          "nama_objek": "Airport Raillink Service",
           "nama_akun_pengunjung": [
                "sabrina_ho88"
           ],
@@ -5670,7 +5514,24 @@
      },
      {
           "peringkat": 112,
-          "nama_objek": "Pantai Carocok",
+          "nama_akun_pengunjung": [
+               "Kermit Y"
+          ],
+          "asal_pengunjung": [
+               ""
+          ],
+          "rating_pengunjung": [
+               "5.0"
+          ],
+          "waktu_berkunjung": [
+               "Des 2016"
+          ],
+          "tipe_kunjungan": [
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 113,
           "nama_akun_pengunjung": [
                "Rahayus101",
                "tjutjukbs",
@@ -5703,27 +5564,53 @@
           ]
      },
      {
-          "peringkat": 113,
-          "nama_objek": "Air Terjun Ngungun Saok",
+          "peringkat": 114,
           "nama_akun_pengunjung": [
-               "Kermit Y"
+               "Dikki B.A."
           ],
           "asal_pengunjung": [
-               ""
+               "Bogor"
           ],
           "rating_pengunjung": [
                "5.0"
           ],
           "waktu_berkunjung": [
-               "Des 2016"
+               "Sep 2016"
           ],
           "tipe_kunjungan": [
                "Teman"
           ]
      },
      {
-          "peringkat": 114,
-          "nama_objek": "Mentawai Tribe Tour",
+          "peringkat": 115,
+          "nama_akun_pengunjung": [
+               "Randi Novendra",
+               "shafarul i",
+               "Ganda S"
+          ],
+          "asal_pengunjung": [
+               "",
+               "Bukittinggi",
+               ""
+          ],
+          "rating_pengunjung": [
+               "3.0",
+               "4.0",
+               "3.0"
+          ],
+          "waktu_berkunjung": [
+               "Feb 2020",
+               "Feb 2016",
+               "Apr 2016"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 116,
           "nama_akun_pengunjung": [
                "Singgah Sebentar Disini",
                "Rahmaniah_Mardja",
@@ -5781,56 +5668,7 @@
           ]
      },
      {
-          "peringkat": 115,
-          "nama_objek": "Rumah Gadang Tuanku Lareh St",
-          "nama_akun_pengunjung": [
-               "Dikki B.A."
-          ],
-          "asal_pengunjung": [
-               "Bogor"
-          ],
-          "rating_pengunjung": [
-               "5.0"
-          ],
-          "waktu_berkunjung": [
-               "Sep 2016"
-          ],
-          "tipe_kunjungan": [
-               "Teman"
-          ]
-     },
-     {
-          "peringkat": 116,
-          "nama_objek": "Sandiang Gagoan",
-          "nama_akun_pengunjung": [
-               "Randi Novendra",
-               "shafarul i",
-               "Ganda S"
-          ],
-          "asal_pengunjung": [
-               "",
-               "Bukittinggi",
-               ""
-          ],
-          "rating_pengunjung": [
-               "3.0",
-               "4.0",
-               "3.0"
-          ],
-          "waktu_berkunjung": [
-               "Feb 2020",
-               "Feb 2016",
-               "Apr 2016"
-          ],
-          "tipe_kunjungan": [
-               "Sendiri",
-               "Teman",
-               "Teman"
-          ]
-     },
-     {
           "peringkat": 117,
-          "nama_objek": "Pulau kasiak",
           "nama_akun_pengunjung": [
                "mr. ari",
                "tessarahmadani2"
@@ -5854,7 +5692,6 @@
      },
      {
           "peringkat": 118,
-          "nama_objek": "Monumen Merpati Perdamaian",
           "nama_akun_pengunjung": [
                "sabrina_ho88"
           ],
@@ -5873,7 +5710,6 @@
      },
      {
           "peringkat": 119,
-          "nama_objek": "Danau Biru Sawahlunto",
           "nama_akun_pengunjung": [
                "Ahmad Fauzan"
           ],
@@ -5892,7 +5728,6 @@
      },
      {
           "peringkat": 120,
-          "nama_objek": "Padang Private Driver",
           "nama_akun_pengunjung": [
                "Nomad628465",
                "Nur",
@@ -5956,7 +5791,6 @@
      },
      {
           "peringkat": 121,
-          "nama_objek": "Air Terjun Titian Puti (Nyarai)",
           "nama_akun_pengunjung": [
                "endriano"
           ],
@@ -5975,7 +5809,6 @@
      },
      {
           "peringkat": 122,
-          "nama_objek": "Taman Green Lezatta",
           "nama_akun_pengunjung": [
                "Valiant Vemby",
                "Looliequeen"
@@ -5999,7 +5832,6 @@
      },
      {
           "peringkat": 123,
-          "nama_objek": "Puncak Payo Rapuih",
           "nama_akun_pengunjung": [
                "Aban Sheer"
           ],
@@ -6018,7 +5850,6 @@
      },
      {
           "peringkat": 124,
-          "nama_objek": "Puncak Happy",
           "nama_akun_pengunjung": [
                "Fasta'Iza N"
           ],
@@ -6037,7 +5868,6 @@
      },
      {
           "peringkat": 125,
-          "nama_objek": "Masjid Agung Nurul Islam",
           "nama_akun_pengunjung": [
                "shafarul i",
                "sylvandriaprianto"
@@ -6061,45 +5891,6 @@
      },
      {
           "peringkat": 126,
-          "nama_objek": "Pantai Labuang Baruak",
-          "nama_akun_pengunjung": [
-               "rent car & tour jogja"
-          ],
-          "asal_pengunjung": [
-               "Yogyakarta"
-          ],
-          "rating_pengunjung": [
-               "5.0"
-          ],
-          "waktu_berkunjung": [
-               "Mar 2019"
-          ],
-          "tipe_kunjungan": [
-               "Bisnis"
-          ]
-     },
-     {
-          "peringkat": 127,
-          "nama_objek": "Sarasah Sungai Guntuang",
-          "nama_akun_pengunjung": [
-               "Didy Ardiano"
-          ],
-          "asal_pengunjung": [
-               "Palupuh"
-          ],
-          "rating_pengunjung": [
-               "4.0"
-          ],
-          "waktu_berkunjung": [
-               "Jun 2019"
-          ],
-          "tipe_kunjungan": [
-               "Keluarga"
-          ]
-     },
-     {
-          "peringkat": 128,
-          "nama_objek": "Kebun Teh Mitra Kerinci",
           "nama_akun_pengunjung": [
                "jonialexanderheytsit",
                "ypudijanto"
@@ -6122,27 +5913,43 @@
           ]
      },
      {
-          "peringkat": 129,
-          "nama_objek": "Teluk Air Putih",
+          "peringkat": 127,
           "nama_akun_pengunjung": [
-               "Aban Sheer"
+               "rent car & tour jogja"
           ],
           "asal_pengunjung": [
-               "Benggala Barat"
+               "Yogyakarta"
+          ],
+          "rating_pengunjung": [
+               "5.0"
+          ],
+          "waktu_berkunjung": [
+               "Mar 2019"
+          ],
+          "tipe_kunjungan": [
+               "Bisnis"
+          ]
+     },
+     {
+          "peringkat": 128,
+          "nama_akun_pengunjung": [
+               "Didy Ardiano"
+          ],
+          "asal_pengunjung": [
+               "Palupuh"
           ],
           "rating_pengunjung": [
                "4.0"
           ],
           "waktu_berkunjung": [
-               "Mei 2019"
+               "Jun 2019"
           ],
           "tipe_kunjungan": [
-               "Sendiri"
+               "Keluarga"
           ]
      },
      {
-          "peringkat": 130,
-          "nama_objek": "Pulau Batu Nago",
+          "peringkat": 129,
           "nama_akun_pengunjung": [
                "edwardorusfid"
           ],
@@ -6160,8 +5967,25 @@
           ]
      },
      {
+          "peringkat": 130,
+          "nama_akun_pengunjung": [
+               "Aban Sheer"
+          ],
+          "asal_pengunjung": [
+               "Benggala Barat"
+          ],
+          "rating_pengunjung": [
+               "4.0"
+          ],
+          "waktu_berkunjung": [
+               "Mei 2019"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri"
+          ]
+     },
+     {
           "peringkat": 131,
-          "nama_objek": "Pincuran Tujuh",
           "nama_akun_pengunjung": [
                "Aban Sheer"
           ],
@@ -6180,7 +6004,6 @@
      },
      {
           "peringkat": 132,
-          "nama_objek": "Museum Tuanku Imam Bonjol",
           "nama_akun_pengunjung": [
                "Citra F",
                "Ping L",
@@ -6209,7 +6032,6 @@
      },
      {
           "peringkat": 133,
-          "nama_objek": "Pasar Atas Bukittinggi",
           "nama_akun_pengunjung": [
                "Tunas Karya Aluminium",
                "Chiquita P",
@@ -6273,7 +6095,6 @@
      },
      {
           "peringkat": 134,
-          "nama_objek": "Danau Tomosu",
           "nama_akun_pengunjung": [
                "tjutjukbs"
           ],
@@ -6292,7 +6113,6 @@
      },
      {
           "peringkat": 135,
-          "nama_objek": "Lite 'N' Easy Tour",
           "nama_akun_pengunjung": [
                "Ozzi Rahmadeni",
                "Antohokkeh",
@@ -6356,7 +6176,6 @@
      },
      {
           "peringkat": 136,
-          "nama_objek": "Roni's Tours",
           "nama_akun_pengunjung": [
                "Ozzi Rahmadeni",
                "ronip2014",
@@ -6420,7 +6239,6 @@
      },
      {
           "peringkat": 137,
-          "nama_objek": "Mentawai Experience Tour",
           "nama_akun_pengunjung": [
                "Antohokkeh",
                "Jantje1988",
@@ -6484,7 +6302,6 @@
      },
      {
           "peringkat": 138,
-          "nama_objek": "Lawang Park",
           "nama_akun_pengunjung": [
                "Pasya",
                "Forza",
@@ -6548,7 +6365,6 @@
      },
      {
           "peringkat": 139,
-          "nama_objek": "Kripik Balado Shirley",
           "nama_akun_pengunjung": [
                "Lisbet_310183",
                "Antohokkeh",
@@ -6612,7 +6428,6 @@
      },
      {
           "peringkat": 140,
-          "nama_objek": "Aie Angek Bukik Gadang",
           "nama_akun_pengunjung": [
                "anak rantau",
                "Kermit Y",
@@ -6641,7 +6456,6 @@
      },
      {
           "peringkat": 141,
-          "nama_objek": "Batik Tanah Liek Citra Monalisa",
           "nama_akun_pengunjung": [
                "Vivyanti"
           ],
@@ -6660,7 +6474,6 @@
      },
      {
           "peringkat": 142,
-          "nama_objek": "Kakiku Refleksi",
           "nama_akun_pengunjung": [
                "nina hasyim",
                "Sefanya travel",
@@ -6699,7 +6512,6 @@
      },
      {
           "peringkat": 143,
-          "nama_objek": "Martha Tilaar Salon Day Spa",
           "nama_akun_pengunjung": [
                "Sefanya travel"
           ],
@@ -6718,7 +6530,6 @@
      },
      {
           "peringkat": 144,
-          "nama_objek": "Aie Angek Bukik Kili",
           "nama_akun_pengunjung": [
                "anak rantau",
                "Kermit Y",
@@ -6752,7 +6563,6 @@
      },
      {
           "peringkat": 145,
-          "nama_objek": "Komando Paintball & Cafe",
           "nama_akun_pengunjung": [
                "PoetZ"
           ],
@@ -6771,7 +6581,6 @@
      },
      {
           "peringkat": 146,
-          "nama_objek": "Kopi Kiniko",
           "nama_akun_pengunjung": [
                "irwan idris",
                "Satrio B",
@@ -6815,7 +6624,6 @@
      },
      {
           "peringkat": 147,
-          "nama_objek": "Minangkabau Adventures Tour",
           "nama_akun_pengunjung": [
                "Rini",
                "Nanny V",
@@ -6879,7 +6687,6 @@
      },
      {
           "peringkat": 148,
-          "nama_objek": "Samba Lado",
           "nama_akun_pengunjung": [
                "Mike J",
                "Margaux M",
@@ -6908,7 +6715,6 @@
      },
      {
           "peringkat": 149,
-          "nama_objek": "House Of Beauty And Spa",
           "nama_akun_pengunjung": [
                "azah A"
           ],
@@ -6927,7 +6733,6 @@
      },
      {
           "peringkat": 150,
-          "nama_objek": "Tungku Sanjai Amak Haji",
           "nama_akun_pengunjung": [
                "70ava"
           ],
@@ -6946,7 +6751,6 @@
      },
      {
           "peringkat": 151,
-          "nama_objek": "PADANG DESTINATION",
           "nama_akun_pengunjung": [
                "Nofri delni",
                "Tio",
@@ -7010,7 +6814,6 @@
      },
      {
           "peringkat": 152,
-          "nama_objek": "West Sumatra Traveler",
           "nama_akun_pengunjung": [
                "Travel771124",
                "David N",
@@ -7049,7 +6852,6 @@
      },
      {
           "peringkat": 153,
-          "nama_objek": "Duta Pesona",
           "nama_akun_pengunjung": [
                "Akiko N",
                "Antohokkeh",
@@ -7113,7 +6915,6 @@
      },
      {
           "peringkat": 154,
-          "nama_objek": "Matonagari",
           "nama_akun_pengunjung": [
                "Seon",
                "uta_germany",
@@ -7147,7 +6948,6 @@
      },
      {
           "peringkat": 155,
-          "nama_objek": "Ricky Abdi Tour",
           "nama_akun_pengunjung": [
                "Naim G",
                "Shamimi23",
@@ -7211,7 +7011,6 @@
      },
      {
           "peringkat": 156,
-          "nama_objek": "Discover Mentawais",
           "nama_akun_pengunjung": [
                "Elizamurray92",
                "Coal Coast Movement"
@@ -7235,7 +7034,6 @@
      },
      {
           "peringkat": 157,
-          "nama_objek": "Sumatra Adventure",
           "nama_akun_pengunjung": [
                "Hatikasih"
           ],
@@ -7254,7 +7052,6 @@
      },
      {
           "peringkat": 158,
-          "nama_objek": "Habibie DelapanTour",
           "nama_akun_pengunjung": [
                "Easy Holiday Tour Travel Management",
                "Rahayu F",
@@ -7293,7 +7090,6 @@
      },
      {
           "peringkat": 159,
-          "nama_objek": "Menyelam - Starocean",
           "nama_akun_pengunjung": [
                "Claris Lee W"
           ],
@@ -7312,7 +7108,6 @@
      },
      {
           "peringkat": 160,
-          "nama_objek": "Mentawai Tribe Journey with Wetravelinc",
           "nama_akun_pengunjung": [
                "Sella Chalia"
           ],
@@ -7331,7 +7126,6 @@
      },
      {
           "peringkat": 161,
-          "nama_objek": "Platinum Holidays Indonesia",
           "nama_akun_pengunjung": [
                "Janelle O"
           ],
@@ -7350,7 +7144,6 @@
      },
      {
           "peringkat": 162,
-          "nama_objek": "Surf in Mentawais",
           "nama_akun_pengunjung": [
                "nikki088"
           ],
@@ -7369,7 +7162,6 @@
      },
      {
           "peringkat": 163,
-          "nama_objek": "Banto Royo",
           "nama_akun_pengunjung": [
                "roby",
                "Valiant Vemby",
@@ -7403,7 +7195,6 @@
      },
      {
           "peringkat": 164,
-          "nama_objek": "Rizal Tour",
           "nama_akun_pengunjung": [
                "Fauziah Ibrahim"
           ],
@@ -7422,7 +7213,6 @@
      },
      {
           "peringkat": 165,
-          "nama_objek": "Al Wafa Adventure",
           "nama_akun_pengunjung": [
                "Naufal"
           ],
@@ -7441,7 +7231,6 @@
      },
      {
           "peringkat": 166,
-          "nama_objek": "Rianzha Holiday",
           "nama_akun_pengunjung": [
                "imam"
           ],
@@ -7460,7 +7249,6 @@
      },
      {
           "peringkat": 167,
-          "nama_objek": "Santa Lusia Boat",
           "nama_akun_pengunjung": [
                "Reily S"
           ],
