@@ -7,7 +7,7 @@
 
 <h2 align="center">
   <br>
-  Data Scraping, Database Modelling & Data Storing of Courses at <a href="https://ocw.mit.edu">MIT OpenCourseWare</a>.
+  Data Scraping, Database Modelling & Data Storing of Courses at <a href="https://ocw.mit.edu">MIT OpenCourseWare</a>
   <br>
   <br>
 </h2>
@@ -34,12 +34,15 @@ CREATE DATABASE IF NOT EXISTS database_name CHARACTER SET utf8mb4 COLLATE utf8mb
 
 
 ## How to Use
+### Prerequisite
+Please have Python installed on your machine and also MariaDB DBMS. Please also install the required libraries referenced at <a href="#references">References section</a>
+
 ### Scraping
 To scrape the website, use the Python program Scraper.py located in /DataScraping/src/Scraper.py on the src folder. The program will ask the user to input the topic that the user wants and the estimate number of courses that the user wants. After that, the scraper will do it's work, by visiting other each courses page, and produce the .JSON files from the scraping process.
 
 While scraping, the program will remove the 'Show less' text on details and splits data provided to get informations of course semester, year, and id. Whitespaces are also removed. For multivalued data, on department, level, and lecturers, the program will parse for those informations too. For department websites, if none is found, then the default website will be the MIT website. For links, it will be appended with https://ocw.mit.edu to provide a useable link, unless it is stored in a another database.
 
-The data provided now uses the "Computer Science" topic with 96 courses scraped.
+The data provided now uses the "Computer Science" topic with 98 courses scraped.
 
 ### Storing
 To store the scraped data, use the Python program Storing.py located in /DataScraping/src/Storing.py. Run the program, on the src folder. Make sure to already create a database. Don't forget to change the connection function to adhere with your local configuration on database name, host, port, user, and password. The charset is utf8mb4.
