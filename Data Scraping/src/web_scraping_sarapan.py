@@ -91,7 +91,10 @@ print("Json file is successfully created!")
 # Turn json into string
 string_json = json.dumps(json_array)
 
+# Load json string to json object
 json_file = json.loads(string_json)
+
+# Write a csv file
 f = csv.writer(open("../data/products.csv", "w", encoding='utf8', newline=''))
 
 f.writerow(["plu", "item_name", "final_price", "discount", "image", "description", "composition", "warehousename"])
