@@ -8,16 +8,13 @@ async function seventhDiagram(conn) {
   const result = (
     await conn.query(
       `
-      WITH free_problem AS (SELECT * FROM problem WHERE premium_status IS FALSE),
-premium_problem AS (SELECT * FROM problem WHERE premium_status IS TRUE)
-SELECT concat(solution_type, '_premium') solution_type_and_status, COUNT(*) amount FROM premium_problem GROUP BY solution_type
-UNION
-SELECT concat(solution_type, '_free') solution_type_and_status, COUNT(*) amount FROM free_problem GROUP BY solution_type;
+      SELECT solution_type, IF(premium_status, 'Premium', 'Free') is_premium, COUNT(*) amount FROM problem GROUP BY solution_type, premium_status;
       `
     )
-  ).map(({ solution_type_and_status, amount }) => {
+  ).map(({ solution_type, is_premium, amount }) => {
     return {
-      solution_type_and_status,
+      solution_type,
+      is_premium,
       amount: Number(amount),
     };
   });

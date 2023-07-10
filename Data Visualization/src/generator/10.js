@@ -12,10 +12,10 @@ async function tenthDiagram(conn) {
       SELECT difficulty, IF(premium_status IS TRUE, 'premium_problem', 'free_problem') is_premium, COUNT(*) amount FROM problem GROUP BY difficulty, premium_status;
       `
     )
-  ).map(({ difficulty, solution_type, amount }) => {
+  ).map(({ difficulty, is_premium, amount }) => {
     return {
       difficulty,
-      solution_type,
+      is_premium,
       amount: Number(amount),
     };
   });

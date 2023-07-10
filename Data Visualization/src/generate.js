@@ -27,7 +27,8 @@ const pool = mariadb.createPool({
 (async () => {
   const conn = await pool.getConnection();
 
-  await connWrapper(conn, fifteenthDiagram);
+  // Problem to reconsider : 14 and 12
+  await connWrapper(conn, twelfthDiagram);
 })().finally(() => {
   pool.end();
 });

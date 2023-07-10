@@ -8,18 +8,16 @@ async function eightDiagram(conn) {
   const result = (
     await conn.query(
       `
-      WITH free_problem AS (SELECT * FROM problem WHERE premium_status IS FALSE),
-premium_problem AS (SELECT * FROM problem WHERE premium_status IS TRUE),
-number_of_free_problem AS (SELECT COUNT(*) number_of_free_problem FROM free_problem),
-number_of_premium_problem AS (SELECT COUNT(*) number_of_premium_problem FROM premium_problem)
-SELECT concat(solution_type, '_free') solution_type_and_status, (COUNT(*)/ number_of_free_problem) 'normalized_amount' FROM free_problem, number_of_free_problem GROUP BY solution_type
-UNION
-SELECT concat(solution_type, '_premium') solution_type_and_status, (COUNT(*)/ number_of_premium_problem) FROM premium_problem, number_of_premium_problem  GROUP BY solution_type;
+      WITH amount_of_premium AS (SELECT IF(premium_status, 'Premium', 'Free') is_premium, COUNT(*) amount FROM problem GROUP BY premium_status),
+unnormalized_data AS (SELECT solution_type, IF(premium_status, 'Premium', 'Free') is_premium, COUNT(*) amount FROM problem GROUP BY solution_type, premium_status)
+SELECT is_premium, solution_type, (amount / (SELECT amount FROM amount_of_premium WHERE amount_of_premium.is_premium = unnormalized_data.is_premium LIMIT  1)) normalized_amount FROM unnormalized_data;
+
       `
     )
-  ).map(({ solution_type_and_status, normalized_amount }) => {
+  ).map(({ solution_type, is_premium, normalized_amount }) => {
     return {
-      solution_type_and_status,
+      solution_type,
+      is_premium,
       normalized_amount: Number(normalized_amount),
     };
   });

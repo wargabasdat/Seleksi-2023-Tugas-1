@@ -9,7 +9,6 @@ async function twelfthDiagram(conn) {
     await conn.query(
       `
       SELECT number, title, acceptance_rate, difficulty, number_of_submission FROM problem
-      WHERE premium_status IS FALSE
       ORDER BY acceptance_rate DESC LIMIT 5;      `
     )
   ).map(
@@ -19,7 +18,9 @@ async function twelfthDiagram(conn) {
         title,
         difficulty,
         acceptance_rate: Number(acceptance_rate),
-        number_of_submission: Number(number_of_submission),
+        number_of_submission: number_of_submission
+          ? Number(number_of_submission)
+          : null,
       };
     }
   );
