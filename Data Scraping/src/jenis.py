@@ -51,7 +51,8 @@ while (page <= 180) :
 
             # Append ke tempat penyimpanan yang telah diinisialisasi sebelumnya (pilih antara JSON atau CSV)
             list_jenis_objek.append(hasil_jenis_objek) # Ini kalau JSON
-            # list_jenis_objek.append([peringkat, nama_objek, nama_jenis]) # Ini kalau CSV
+            # for i in nama_jenis : # Ini kalau CSV
+            #     list_jenis_objek.append([peringkat, nama_objek, i])
 
             # Test scraping (jadikan komentar apabila tidak digunakan)
             # for i in hasil_jenis_objek :
