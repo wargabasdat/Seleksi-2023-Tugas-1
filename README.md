@@ -71,15 +71,15 @@ Below are the structures of the database.
 ## ERD
 The following database is designed around the structure of the available data scraped from the Formula 1 website.
 
-The center of this database is the `Season`, which is the year of the championship. A season has many `Races`, so their relationship will be _one-to-many_. Each race has its own results, so `Results` is established as its own entity and having a _one-to-one_ relationship with `Races`. 
+The center of this database is the `Season`, which is stores the years of the championships, starting from 1950. A season has many `Races`, so their relationship will be _one-to-many_, with a _total participation_ side on `Races`. Each race has its own results, so `Results` is established as its own entity that has a _one-to-one_ relationship with `Races`. 
 
-A `Driver` is its own entity. In the Formula 1 website, drivers aren't assigned IDs. so the primary key will be their names in this database. Driver's numbers also can't be used to identify drivers, because they can change every year - for example, before Max Verstappen won his first championship in 2021, he raced with the number 33, not 1 (number 1 is usually reserved for championship winners). In other real life examples of databases, people should be assigned unique IDs and not just be uniquely identified by name.
-d
-`Results` contain the results of multiple drivers of each race, so it has a _one-to-many_ relationship. `DriverStandings` is also its own entity. A driver standings keeps track of many drivers at the same time, so its relationship with `Driver` is _one-to-many_.
+A `Driver` is its own entity. In the Formula 1 website, drivers aren't assigned IDs, so because of that - and for the sake of simplicity - the primary key will be their names in this database. Driver's numbers also can't be used to identify drivers, because they can change every year - for example, before Max Verstappen won his first championship in 2021, he raced with the number 33, not 1 (number 1 is usually reserved for championship winners). In real life examples of databases, people should be assigned unique IDs and not just be uniquely identified by name.
+
+`Results` contain the results of multiple drivers of each race, so it has a _many-to-one_ relationship with `Drivers`, with `Results` having a _total participation_. `DriverStandings` is also its own entity and keeps track of many drivers at the same time, so its relationship with `Driver` is _many-to-one_, in which `DriverStandings` has a _total participation_.
 
 The final diagram is as follows:
 
-![Entity relationship diagram of the database in formula1.com website](/Data Storing/design/erd.png)
+![ERD of the Formula 1 website database](<Data Storing/design/ERD.png>)
 
 ## Relational diagram
 

@@ -34,16 +34,6 @@ def print_commands():
     7. Save last dataframe to JSON
     8. Exit the program""")
 
-# def get_all_drivers():
-#     years = []
-#     for i in range(1950, 2024):
-#         years.append(str(i))
-
-#     df = ws.get_drivers(years)
-#     return df
-
-# df = get_all_drivers()
-
 # main program
 populate_seasons()
 print("Welcome to the Formula 1 Data Web Scraper!")
