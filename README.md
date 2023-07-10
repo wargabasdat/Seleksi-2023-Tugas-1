@@ -138,12 +138,25 @@ selecting some columns for a better view
 #### Resource
 <img src = "./Data Storing/screenshot/resource.png">
 
+## Data Visualization
+The visualized data can be viewd at the Python Notebook in Data Visualization folder.
+
+The visualization covers:
+1. Lecturers with 2 Courses or More in Computer Science
+2. Number of Computer Science Courses by Departments
+3. Resource File Type Count
+4. Course Level Count
+
+From the visualized data, it can be deducted that Prof. Erik Demaine, who was a former child prodigy, has 4 courses in Computer Science. Computer Science courses are not only held by the department of Electrical Engineering and Computer Science, but by other majors in engineering and mathematics as it is a fundamental tool to use in engineering and mathematics. The most used type of file to share resource is a PDF File. Most computer science courses are held at graduate level, followed by undergraduate level.
+
 ## References
 Libraries that are used in this program are,
 1. Selenium
 2. BeautifulSoup
 3. JSON
 4. mysql.connector
+5. Pandas
+6. Matplotlib.Pyplot
 
 ## Author
 Matthew Mahendra - 13521007
