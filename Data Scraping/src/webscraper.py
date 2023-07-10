@@ -6,8 +6,6 @@ import numpy as np
 # lambda function to convert to string if integer
 fcn = lambda y: str(y) if type(y) == int else y
 
-# headers : to say hi!
-
 def get_drivers_standings(year):
     """
     Receives a year (can be string or int) and returns the driver's standings for that year.
@@ -54,6 +52,26 @@ def get_drivers_standings(year):
     df['Year'] = year
 
     return df
+
+def get_multiple_drivers_standings(range_of_years):   
+    if type(range_of_years) != list:
+        years = [range_of_years]
+    else:
+        years = range_of_years
+
+    years_df = pd.DataFrame()
+    temp_df = pd.DataFrame()
+    
+    for year in years:
+        fcn = lambda y: str(y) if type(y) == int else y # covert to string if integer
+        year = fcn(year)
+
+        driver_df = get_drivers_standings(year)
+        temp_df = driver_df
+        years_df = pd.concat([temp_df, years_df])
+    
+    years_df = years_df.drop_duplicates()
+    return years_df
 
 def get_races(year):
     """
@@ -171,7 +189,9 @@ def get_race_results(year, location, race_id):
 
     return df
 
-def get_season_ids_location(year):
+# def get_multiple_race_results(race_ids):
+
+def get_race_ids_location(year):
     """
     Receives a year and returns AN ARRAY of the race IDs and location of the races
     that year for use in the F1 website.
@@ -200,6 +220,7 @@ def get_season_ids_location(year):
     df = pd.DataFrame(columns = headers)
     df['Race ID'] = np.nan
     df['Location'] = np.nan
+    df['Year'] = np.nan
 
     # get row values
     for j in table.find_all('tr')[1:]:
@@ -213,14 +234,29 @@ def get_season_ids_location(year):
         race_location = link.split('/')[6]
         row.append(race_id)
         row.append(race_location)
+        row.append(year)
 
         length = len(df)
         df.loc[length] = row
 
-    df = df[df.columns[-2:]]
-    array_ids_location = [df.values]
+    df = df[df.columns[-3:]]
+    array_ids_location = df.values
 
     return array_ids_location
+
+def get_multiple_race_ids_location(years):
+    """
+    Returns all the race IDs and locations in a range of seasons.
+    """
+    results = []
+
+    for year in years:
+        year = fcn(year)
+        temp_arr = get_race_ids_location(year)
+        results.append(temp_arr)
+
+    final_ids = np.concatenate(results, axis=0)
+    return final_ids
 
 def get_drivers(range_of_years):
     """
