@@ -77,13 +77,6 @@
     "Year":"1951"
   },
   {
-    "Grand-Prix":"France",
-    "Date":"01 Jul 1951",
-    "Race-ID":"104",
-    "Location":"france",
-    "Year":"1951"
-  },
-  {
     "Grand-Prix":"Great Britain",
     "Date":"14 Jul 1951",
     "Race-ID":"105",
@@ -350,13 +343,6 @@
     "Year":"1956"
   },
   {
-    "Grand-Prix":"Argentina",
-    "Date":"22 Jan 1956",
-    "Race-ID":"142",
-    "Location":"argentina",
-    "Year":"1956"
-  },
-  {
     "Grand-Prix":"Monaco",
     "Date":"13 May 1956",
     "Race-ID":"143",
@@ -431,13 +417,6 @@
     "Date":"07 Jul 1957",
     "Race-ID":"153",
     "Location":"france",
-    "Year":"1957"
-  },
-  {
-    "Grand-Prix":"Great Britain",
-    "Date":"20 Jul 1957",
-    "Race-ID":"154",
-    "Location":"great-britain",
     "Year":"1957"
   },
   {

@@ -1,20 +1,20 @@
 <h1 align="center">Seleksi 1 Warga Basdat 2023: Data Scraping, Data Storing, and Data Visualization from formula1.com</h1>
-<p align="center">July 17th 2023 - v01.01</p>
+<p align="center"><b>July 17th 2023 - v1.01</b></p>
+<p align="center">Ilmagita Nariswari - 18221101</p>
 
 # Description
-## Data
-Formula 1 .... 
 
-## DBMS
-PostgreSQL is used ...
+Formula 1 is the highest class of four-wheel racing in which teams and drivers compete in a series of Grand Prix to win the championship at the end of the year. In the world of Formula 1, data is constantly generated and consumed by not just the teams to improve their chances of winning the championship, but also the spectators and pundits alike. It is also a great source of data for aspiring data analysts to jump into, as the data of each races from 1950 to recent times is readily available on the formula1.com website, which is part of the reason of why I chose this website to scrape from.
+
+The data scraped is the seasons available on the website that contains driver's standings from 1950-2022, drivers that have raced at least once and appears in the driver's standings from 1950-2023, races from 1950-2022, and race results from 1950-2022 that are broken down to each decade. The data is stored in the `.json` format and then stored into a PostgreSQL database. I chose to use PostgreSQL because I am most familiar with that DBMS.
 
 # Specification
-Below are the libraries used to run this program.
+This program uses Python and uses the following libraries:
 
-* *Beautiful Soup*: To scrape the data
-* *Requests*: To make requests to URL
-* *JSON*: To write JSON encoded data
-* *Pandas*: To manipulate dataframes
+* *Beautiful Soup*: The main library to scrape data. This library is chosen because of its simple syntax and it is easy to use for beginners.
+* *Requests*: This library is used to make requests to the web server that will be scraped.
+* *JSON*: This library is used to parse JSON strings.
+* *Pandas*: This library is used to manipulate and transform the data.
 
 # How to Use
 1. Clone this folder to your local repository
@@ -26,9 +26,33 @@ pip install -r libs.txt
 ```
 python3 main.py
 ```
-4. Follow the instructions in the program as follows. All commands will be done through program.
+4. Follow the instructions in the program. All commands are done in `main.py`.
+
+## Available commands
+  0. See available commands
+  1. Get driver standings of a season or more
+  2. Get the races of a season or more
+  3. Get a race results (requires race IDs on the F1 website)
+  4. Get multiple race results (must set an array of race IDs first)
+  5. Set an array of multiple race IDs
+  6. Get the drivers that raced in a range of seasons
+  7. Save last dataframe to JSON
+  8. Exit the program
 
 # JSON Structure
+* Seasons
+```
+  {
+    Year: years of the seasons in Formula 1 available on the website
+  }
+```
+* Drivers
+```
+  {
+    Driver: driver name
+    Nationality: nationality of driver
+  }
+```
 * Driver standings
 ```
   {
@@ -70,14 +94,11 @@ python3 main.py
 
 The center of this database is the `Season`, which stores the years of the championships, starting from 1950. A season has many `Races`, so their relationship will be _one-to-many_, with a _total participation_ side on `Races`. Each race has its own results, so `Results` is established as its own entity that has a _one-to-one_ relationship with `Races`. 
 
-A `Driver` is its own entity. On the Formula 1 website, drivers aren't assigned IDs, so because of that - and for the sake of simplicity - the primary key will be their names in this database. Driver's numbers also can't be used to identify drivers, because they can change every year - for example, before Max Verstappen won his first championship in 2021, he raced with the number 33, not 1 (number 1 is usually reserved for championship winners). In real life examples of databases, people should be assigned unique IDs and not just be uniquely identified by name.
+A `Driver` is its own entity. On the Formula 1 website, drivers aren't assigned IDs, so the primary key will be their names in this database. Driver's numbers also can't be used to identify drivers, because they can change every year - for example, before Max Verstappen won his first championship in 2021, he raced with the number 33, not 1 (number 1 is usually reserved for championship winners). In real life examples of databases, people should be assigned unique IDs and not just be uniquely identified by name.
 
 `Results` contain the results of multiple drivers of each race, so it has a _many-to-one_ relationship with `Drivers`, with `Results` having a _total participation_. `DriverStandings` is also its own entity and keeps track of many drivers at the same time, so its relationship with `Driver` is _many-to-one_, in which `DriverStandings` has _total participation_.
 
-The final diagram is as follows:
-
 ![Entity relationship diagram of the Formula 1 website](https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/9b389ce2-67e4-4a4d-a17a-f39515631fc1)
-
 
 ## Relational diagram
 
@@ -102,7 +123,6 @@ The `Results` entity has a _many-to-one_ relationship with `Driver`, and the rel
 # References
 ## Documentation
 ## Articles
-
 
 # Author
 Ilmagita Nariswari (18221101)
