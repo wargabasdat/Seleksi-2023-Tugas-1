@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import json
-import pandas as pd
+import csv
 
 # Request the main site
 url = "https://www.klikindomaret.com/category/sarapan"
@@ -12,7 +12,6 @@ doc = BeautifulSoup(result.text, "html.parser")
 content_container = doc.find("div", "product-collection")
 item = content_container.find_all("div", "item")
 json_array = []
-json_dict = {}
 for g in item:
 
     # Request url of each item to get more data from the g item
@@ -31,15 +30,9 @@ for g in item:
     # Find the name of each item
     item_name = g.find("div", "title")
     # Add item name as the value of "Item name" to item_dict
-    item_dict["Item name"] = item_name.text.replace("\n", "") # Replace newline with blank
+    item_dict["Item name"] = (item_name.text.replace("\n", "")).replace(",", ";") # Replace newline with blank and comma with semicolon
 
-    # Find the name of warehouse
-    warehouse_indomaret = g.find("span", "send-store-blue")
-    warehouse_jakarta = g.find("span", "send-warehouse")
-    if warehouse_indomaret != None: # If product comes from toko indomaret
-        item_dict["Warehouse Name"] = warehouse_indomaret.text
-    if warehouse_jakarta != None: # If product comes from warehouse jakarta
-        item_dict["Warehouse Name"] = warehouse_jakarta.text
+    
 
     # Find final price of each item
     final_price = g.find("span", "price-value")
@@ -68,7 +61,7 @@ for g in item:
     if product_description == None: # Product description is not found
         item_dict["Description"] = "N/A"
     else:
-        item_dict["Description"] = product_description.text.replace("\n", "") # Replace newline with blank
+        item_dict["Description"] = (product_description.text.replace("\n", "")).replace(",", ";") # Replace newline with blank and comma with semicolon
 
     # Find product composition
     product_composition = product_doc.find("span", "spec_id_KOMPOSISI")
@@ -76,26 +69,40 @@ for g in item:
     if product_composition == None: # Product composition is not found
         item_dict["Composition"] = "N/A"
     else:
-        item_dict["Composition"] = product_composition.text.replace("\n", "") # Replace newline with blank
+        item_dict["Composition"] = (product_composition.text.replace("\n", "")).replace(",", ";") # Replace newline with blank and comma with semicolon
+
+    # Find the name of warehouse
+    warehouse_indomaret = g.find("span", "send-store-blue")
+    warehouse_jakarta = g.find("span", "send-warehouse")
+    if warehouse_indomaret != None: # If product comes from toko indomaret
+        item_dict["Warehouse Name"] = warehouse_indomaret.text
+    if warehouse_jakarta != None: # If product comes from warehouse jakarta
+        item_dict["Warehouse Name"] = warehouse_jakarta.text
 
     # Add the data from item_dict to the json_array
     json_array.append(item_dict)
 
-# Add json_array as the value of "products" to json_dict
-json_dict["products"] = json_array
-
 # Write json file from json_dict that contains the product data in the data folder
-with open("../data/data_sarapan.json", "w") as outfile:
-    json.dump(json_dict, outfile, indent=4)
+with open("../data/products.json", "w") as outfile:
+    json.dump(json_array, outfile, indent=4)
 
 print("Json file is successfully created!")
 
 # Turn json into string
-string_json = json.dumps(json_dict)
+string_json = json.dumps(json_array)
 
-# Use pandas to read json string
-df = pd.read_json(string_json)
+json_file = json.loads(string_json)
+f = csv.writer(open("../data/products.csv", "w", encoding='utf8', newline=''))
 
-# Turn json string into csv
-df.to_csv('../data/data_sarapan.csv')
+f.writerow(["plu", "item_name", "final_price", "discount", "image", "description", "composition", "warehousename"])
+for row in json_file:
+    f.writerow([row["PLU"],
+               row["Item name"],
+               row["Final price (Rp)"],
+               row["Discount (%)"],
+               row["Image (URL)"],
+               row["Description"],
+               row["Composition"],
+               row["Warehouse Name"]])
+
 print("CSV file is successfully created!")

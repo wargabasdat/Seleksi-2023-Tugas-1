@@ -103,7 +103,7 @@ Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau se
 ## Description of the Data and DBMS
 
 ## Specification of the Program
-Program ini memanfaatkan bahasa pemrograman Python dalam proses _data scraping_
+Program ini memanfaatkan bahasa pemrograman Python 3.11.4 dalam proses _data scraping_
 
 ## How to use
 - Download and extract zip of this repository
@@ -122,8 +122,9 @@ Program ini memanfaatkan bahasa pemrograman Python dalam proses _data scraping_
 
 ## Screenshots of the Program
 #### Proses data scraping tabel "sarapan": 
+Inisialisasi data:
 <p align="center">
-  <img src="./Data%20Scraping/screenshot/data%20sarapan.jpg">
+  <img src="./Data Scraping/screenshot/init scraping.png">
 </p>
 
 ## References
@@ -131,7 +132,7 @@ Berikut _library_ yang saya gunakan:
 - BeautifulSoup4
 - Requests
 - JSON
-- Pandas
+- CSV
 
 ## AUTHOR
 Muhammad Farrel Danendra Rachim (13521048)
