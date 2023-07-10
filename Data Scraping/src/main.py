@@ -119,6 +119,8 @@ while (1):
             file_names = os.listdir(data_directory)
 
             # printing the file names available
+            print("")
+            print("Current saves:")
             i = 1
             for file_name in file_names:
                 print(f'{i}. {file_name}')

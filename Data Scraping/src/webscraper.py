@@ -332,7 +332,6 @@ def get_drivers(range_of_years):
         years_df = pd.concat([temp_df, years_df])
     
     years_df = years_df.drop_duplicates()
-    print('|'.join(years_df.columns))
     return years_df
 
 def get_seasons():

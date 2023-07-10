@@ -1,6 +1,5 @@
-from bs4
+beautifulsoup
 requests
-pandas as pd
-numpy as np
+pandas
+numpy
 json
-progressbar
