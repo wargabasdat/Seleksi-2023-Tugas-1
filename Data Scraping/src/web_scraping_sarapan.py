@@ -33,6 +33,14 @@ for g in item:
     # Add item name as the value of "Item name" to item_dict
     item_dict["Item name"] = item_name.text.replace("\n", "") # Replace newline with blank
 
+    # Find the name of warehouse
+    warehouse_indomaret = g.find("span", "send-store-blue")
+    warehouse_jakarta = g.find("span", "send-warehouse")
+    if warehouse_indomaret != None: # If product comes from toko indomaret
+        item_dict["Warehouse Name"] = warehouse_indomaret.text
+    if warehouse_jakarta != None: # If product comes from warehouse jakarta
+        item_dict["Warehouse Name"] = warehouse_jakarta.text
+
     # Find final price of each item
     final_price = g.find("span", "price-value")
     # Add final price as the value of "Final price (Rp)" to item_dict

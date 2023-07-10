@@ -3,6 +3,7 @@
         {
             "PLU": 10006895,
             "Item name": "Wrp Meal Replacement Cokelat 324G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 83000,
             "Discount (%)": 50,
             "Image (URL)": "https://assets.klikindomaret.com/products/10006895/10006895_thumb.jpg?Version.20.01.1.01",
@@ -12,6 +13,7 @@
         {
             "PLU": 20117263,
             "Item name": "Madu Enak Manuka Honey 250G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 30000,
             "Discount (%)": 48,
             "Image (URL)": "https://assets.klikindomaret.com/products/20117263/20117263_thumb.jpg?Version.20.01.1.01",
@@ -21,6 +23,7 @@
         {
             "PLU": 20123183,
             "Item name": "Puck Cream Cheese Spread 140G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 19900,
             "Discount (%)": 37,
             "Image (URL)": "https://assets.klikindomaret.com/products/20123183/20123183_thumb.jpg?Version.20.01.1.01",
@@ -30,6 +33,7 @@
         {
             "PLU": 20093997,
             "Item name": "Diabetamil Sweetener 50G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 19900,
             "Discount (%)": 29,
             "Image (URL)": "https://assets.klikindomaret.com/products/20093997/20093997_thumb.jpg?Version.20.01.1.01",
@@ -39,6 +43,7 @@
         {
             "PLU": 20119663,
             "Item name": "Captain Oats Instant Oatmeal 12x40g ",
+            "Warehouse Name": "Warehouse Jakarta 1",
             "Final price (Rp)": 24300,
             "Discount (%)": 27,
             "Image (URL)": "https://assets.klikindomaret.com/products/20119663/20119663_thumb.jpg?Version.20.01.1.01",
@@ -48,6 +53,7 @@
         {
             "PLU": 10030665,
             "Item name": "Simba Cereal Choco Chips Cokelat 55G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 6900,
             "Discount (%)": 26,
             "Image (URL)": "https://assets.klikindomaret.com/products/10030665/10030665_thumb.jpg?Version.20.01.1.01",
@@ -57,6 +63,7 @@
         {
             "PLU": 20109980,
             "Item name": "Ovomaltine Crunchy Cream 230G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 45500,
             "Discount (%)": 25,
             "Image (URL)": "https://assets.klikindomaret.com/products/20109980/20109980_thumb.jpg?Version.20.01.1.01",
@@ -66,6 +73,7 @@
         {
             "PLU": 20096795,
             "Item name": "Indomaret Jam Strawberry 170G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 10900,
             "Discount (%)": 22,
             "Image (URL)": "https://assets.klikindomaret.com/products/20096795/20096795_thumb.jpg?Version.20.01.1.01",
@@ -73,17 +81,9 @@
             "Composition": "Gula, buah stroberi, air, pengental pektin, pengatur keasaman asam sitrat, pengemulsi & penstabil nabati, perisa sintetik stroberi, pengawet kalium sorbat, pewarna makanan."
         },
         {
-            "PLU": 10036685,
-            "Item name": "Nutella Jam Spread Kecil Hazelnut 200G ",
-            "Final price (Rp)": 33900,
-            "Discount (%)": 21,
-            "Image (URL)": "https://assets.klikindomaret.com/products/10036685/10036685_thumb.jpg?Version.20.01.1.01",
-            "Description": "Selai cokelat dengan kacang hazel dengan rasa yang enak",
-            "Composition": "Gula, minyak nabati, palma hazelnut (13%), susu bubuk skim (8.7%), bubuk kakao rendah lemak (7.4%), pengemulsi lesitin (kedelai)-ins 322. perisa: vanili."
-        },
-        {
             "PLU": 20127302,
             "Item name": "Bella Spread Choco Cashew 300G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 22300,
             "Discount (%)": 18,
             "Image (URL)": "https://assets.klikindomaret.com/products/20127302/20127302_thumb.jpg?Version.20.01.1.01",
@@ -93,6 +93,7 @@
         {
             "PLU": 10025006,
             "Item name": "Nestle Cereal Breakfast Combo Pack Koko Krunch 32G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 7500,
             "Discount (%)": 17,
             "Image (URL)": "https://assets.klikindomaret.com/products/10025006/10025006_thumb.jpg?Version.20.01.1.01",
@@ -102,6 +103,7 @@
         {
             "PLU": 20096794,
             "Item name": "Indomaret Jam Pineapple 170G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 10900,
             "Discount (%)": 16,
             "Image (URL)": "https://assets.klikindomaret.com/products/20096794/20096794_thumb.jpg?Version.20.01.1.01",
@@ -111,6 +113,7 @@
         {
             "PLU": 20064435,
             "Item name": "Al Shifa Natural Honey 250G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 55200,
             "Discount (%)": 15,
             "Image (URL)": "https://assets.klikindomaret.com/products/20064435/20064435_thumb.jpg?Version.20.01.1.01",
@@ -120,6 +123,7 @@
         {
             "PLU": 20053052,
             "Item name": "Ceres Choco Spread Choco Hazelnut 200G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 26900,
             "Discount (%)": 15,
             "Image (URL)": "https://assets.klikindomaret.com/products/20053052/20053052_thumb.jpg?Version.20.01.1.01",
@@ -129,6 +133,7 @@
         {
             "PLU": 20069858,
             "Item name": "Tresno Joyo Madu Kurma Tj 150G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 20000,
             "Discount (%)": 11,
             "Image (URL)": "https://assets.klikindomaret.com/products/20069858/20069858_thumb.jpg?Version.20.01.1.01",
@@ -138,6 +143,7 @@
         {
             "PLU": 20055265,
             "Item name": "Tresno Joyo Madu Tj Murni 150G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 20000,
             "Discount (%)": 11,
             "Image (URL)": "https://assets.klikindomaret.com/products/20055265/20055265_thumb.jpg?Version.20.01.1.01",
@@ -147,6 +153,7 @@
         {
             "PLU": 20122031,
             "Item name": "Skippy Jam Chunky Peanut Butter 170G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 24500,
             "Discount (%)": 10,
             "Image (URL)": "https://assets.klikindomaret.com/products/20122031/20122031_thumb.jpg?Version.20.01.1.01",
@@ -156,6 +163,7 @@
         {
             "PLU": 20127326,
             "Item name": "Nestle Cereal Breakfast Trix Honey Stars 150G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 19900,
             "Discount (%)": 9,
             "Image (URL)": "https://assets.klikindomaret.com/products/20127326/20127326_thumb.jpg?Version.20.01.1.01",
@@ -165,6 +173,7 @@
         {
             "PLU": 20083837,
             "Item name": "Morin Jam Hazelnut With Cocoa 150G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 25300,
             "Discount (%)": 7,
             "Image (URL)": "https://assets.klikindomaret.com/products/20083837/20083837_thumb.jpg?Version.20.01.1.01",
@@ -174,6 +183,7 @@
         {
             "PLU": 20115438,
             "Item name": "5 Days Croissant Cheese 60G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 7000,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20115438/20115438_thumb.jpg?Version.20.01.1.01",
@@ -183,6 +193,7 @@
         {
             "PLU": 20125077,
             "Item name": "5 Days Croissant Pandan Srikaya 60G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 7000,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20125077/20125077_thumb.jpg?Version.20.01.1.01",
@@ -192,6 +203,7 @@
         {
             "PLU": 20128391,
             "Item name": "7+ Cereal Bar Cocoa Chia 22G ",
+            "Warehouse Name": "Warehouse Jakarta 1",
             "Final price (Rp)": 7500,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20128391/20128391_thumb.jpg?Version.20.01.1.01",
@@ -201,6 +213,7 @@
         {
             "PLU": 20128392,
             "Item name": "7+ Cereal Bar Yoghurt Berry 22G ",
+            "Warehouse Name": "Warehouse Jakarta 1",
             "Final price (Rp)": 7500,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20128392/20128392_thumb.jpg?Version.20.01.1.01",
@@ -210,6 +223,7 @@
         {
             "PLU": 20052206,
             "Item name": "Air Mancur Madurasa Murni 150G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 22000,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20052206/20052206_thumb.jpg?Version.20.01.1.01",
@@ -219,6 +233,7 @@
         {
             "PLU": 20073984,
             "Item name": "Air Mancur Madurasa Original 150G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 15200,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20073984/20073984_thumb.jpg?Version.20.01.1.01",
@@ -228,6 +243,7 @@
         {
             "PLU": 20098940,
             "Item name": "Arnon Roti Kasur 180G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 11000,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20098940/20098940_thumb.jpg?Version.20.01.1.01",
@@ -237,6 +253,7 @@
         {
             "PLU": 20054691,
             "Item name": "Arnon Roti Manis 5'S Cream Messes 200G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 16000,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20054691/20054691_thumb.jpg?Version.20.01.1.01",
@@ -246,6 +263,7 @@
         {
             "PLU": 20099290,
             "Item name": "Arnon Roti Manis Choco Roll ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 7000,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20099290/20099290_thumb.jpg?Version.20.01.1.01",
@@ -255,6 +273,7 @@
         {
             "PLU": 20057573,
             "Item name": "Arnon Roti Manis Cream Meises 40G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 4000,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20057573/20057573_thumb.jpg?Version.20.01.1.01",
@@ -264,6 +283,7 @@
         {
             "PLU": 10003941,
             "Item name": "Budy Jam Pindekas 120G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 16400,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/10003941/10003941_thumb.jpg?Version.20.01.1.01",
@@ -273,6 +293,7 @@
         {
             "PLU": 20054091,
             "Item name": "Budy Jam Selai Coklat 150G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 12200,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20054091/20054091_thumb.jpg?Version.20.01.1.01",
@@ -282,6 +303,7 @@
         {
             "PLU": 10003942,
             "Item name": "Budy Jam Strawberry 150G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 9800,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/10003942/10003942_thumb.jpg?Version.20.01.1.01",
@@ -291,6 +313,7 @@
         {
             "PLU": 20041422,
             "Item name": "Ceres Choco Spread Double Hazelnut 350G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 46500,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20041422/20041422_thumb.jpg?Version.20.01.1.01",
@@ -300,6 +323,7 @@
         {
             "PLU": 10004771,
             "Item name": "Ceres Choco Spread Duo Milk Hazelnut 350G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 46500,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/10004771/10004771_thumb.jpg?Version.20.01.1.01",
@@ -309,6 +333,7 @@
         {
             "PLU": 10036688,
             "Item name": "Ceres Hagelslag Rice Choco Classic 200G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 22500,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/10036688/10036688_thumb.jpg?Version.20.01.1.01",
@@ -318,6 +343,7 @@
         {
             "PLU": 10000128,
             "Item name": "Ceres Hagelslag Rice Choco Classic 80G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 10000,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/10000128/10000128_thumb.jpg?Version.20.01.1.01",
@@ -327,6 +353,7 @@
         {
             "PLU": 10000129,
             "Item name": "Ceres Hagelslag Rice Choco Festive 80G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 10000,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/10000129/10000129_thumb.jpg?Version.20.01.1.01",
@@ -336,6 +363,7 @@
         {
             "PLU": 20093336,
             "Item name": "Diabetasol Zero Calorie Sweetener 100X1g ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 76600,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20093336/20093336_thumb.jpg?Version.20.01.1.01",
@@ -345,6 +373,7 @@
         {
             "PLU": 20042356,
             "Item name": "Diabetasol Zero Calorie Sweetener 50'S 50X1g ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 42300,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20042356/20042356_thumb.jpg?Version.20.01.1.01",
@@ -354,6 +383,7 @@
         {
             "PLU": 20081740,
             "Item name": "Ellenka Fiber Creme 100G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 13800,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20081740/20081740_thumb.jpg?Version.20.01.1.01",
@@ -363,6 +393,7 @@
         {
             "PLU": 10036853,
             "Item name": "Energen Cereal & Susu Instant Vanilla 5X32G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 11000,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/10036853/10036853_thumb.jpg?Version.20.01.1.01",
@@ -372,6 +403,7 @@
         {
             "PLU": 20126111,
             "Item name": "Energen Cereal Instant Champion Coklat 4X35G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 9400,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20126111/20126111_thumb.jpg?Version.20.01.1.01",
@@ -381,6 +413,7 @@
         {
             "PLU": 20001606,
             "Item name": "Energen Cereal Instant Kacang Hijau 10X35G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 23200,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20001606/20001606_thumb.jpg?Version.20.01.1.01",
@@ -390,6 +423,7 @@
         {
             "PLU": 20103565,
             "Item name": "Energen Cereal Instant Kurma 10X30g ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 25800,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20103565/20103565_thumb.jpg?Version.20.01.1.01",
@@ -399,6 +433,7 @@
         {
             "PLU": 20001605,
             "Item name": "Energen Sereal & Susu Cokelat 10X34g ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 23200,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20001605/20001605_thumb.jpg?Version.20.01.1.01",
@@ -408,6 +443,7 @@
         {
             "PLU": 10003340,
             "Item name": "Energen Sereal & Susu Cokelat 5X34g ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 11000,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/10003340/10003340_thumb.jpg?Version.20.01.1.01",
@@ -417,6 +453,7 @@
         {
             "PLU": 20001604,
             "Item name": "Energen Sereal & Susu Vanila 10X32g ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 23200,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20001604/20001604_thumb.jpg?Version.20.01.1.01",
@@ -426,6 +463,7 @@
         {
             "PLU": 20127831,
             "Item name": "Fitbar Cheese Fitbar 20G ",
+            "Warehouse Name": "Warehouse Jakarta 1",
             "Final price (Rp)": 5300,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20127831/20127831_thumb.jpg?Version.20.01.1.01",
@@ -435,6 +473,7 @@
         {
             "PLU": 10004823,
             "Item name": "Flora Madu Tropis 350Ml ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 57700,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/10004823/10004823_thumb.jpg?Version.20.01.1.01",
@@ -444,6 +483,7 @@
         {
             "PLU": 20109716,
             "Item name": "Goldenfil Spread Choco Crunchy 350g ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 33300,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20109716/20109716_thumb.jpg?Version.20.01.1.01",
@@ -453,6 +493,7 @@
         {
             "PLU": 20004032,
             "Item name": "Indomaret Chocolate Meises 90G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 4900,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20004032/20004032_thumb.jpg?Version.20.01.1.01",
@@ -462,6 +503,7 @@
         {
             "PLU": 20112450,
             "Item name": "Indomaret Coklat Meises 225g ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 11200,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20112450/20112450_thumb.jpg?Version.20.01.1.01",
@@ -471,6 +513,7 @@
         {
             "PLU": 20039235,
             "Item name": "Indomaret Coklat Meises Mix 90G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 4900,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20039235/20039235_thumb.jpg?Version.20.01.1.01",
@@ -480,11 +523,22 @@
         {
             "PLU": 20096796,
             "Item name": "Indomaret Spread Chocolate 160G ",
+            "Warehouse Name": "Toko Indomaret",
             "Final price (Rp)": 17000,
             "Discount (%)": 0,
             "Image (URL)": "https://assets.klikindomaret.com/products/20096796/20096796_thumb.jpg?Version.20.01.1.01",
             "Description": "Olesan cokelat yang dibuat dari pasta cokelat berkualitas.",
             "Composition": "Pasta cokelat, susu bubuk, cokelat bubuk, pengemulsi."
+        },
+        {
+            "PLU": 10005455,
+            "Item name": "Kellogg's Cereal Corn Flakes Classic 150G ",
+            "Warehouse Name": "Toko Indomaret",
+            "Final price (Rp)": 22800,
+            "Discount (%)": 0,
+            "Image (URL)": "https://assets.klikindomaret.com/products/10005455/10005455_thumb.jpg?Version.20.01.1.01",
+            "Description": "Kellogs Corn Flakes sereal sarapan jagung yang sehat",
+            "Composition": "Jagung (89%), Gula, Ekstrak Malt, Garam, Premiks Vitamin dan Mineral (Vitamin (A, B1, B2, B3, B6, B9, B12, E dan Mineral Zat Besi)"
         }
     ]
 }
