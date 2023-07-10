@@ -68,7 +68,7 @@ def get_multiple_drivers_standings(range_of_years):
 
         driver_df = get_drivers_standings(year)
         temp_df = driver_df
-        years_df = pd.concat([temp_df, years_df])
+        years_df = pd.concat([temp_df, years_df], ignore_index=True)
     
     years_df = years_df.drop_duplicates()
     return years_df
@@ -128,6 +128,15 @@ def get_races(year):
     df = df.drop(['Winner', 'Car', 'Laps', 'Time'], axis=1)
     df['Year'] = year
 
+    df.rename(columns={'Race ID': 'Race-ID', 'Grand Prix': 'Grand-Prix'}, inplace=True)
+    df.columns = df.columns.str.strip()
+
+    duplicates = df.columns[df.columns.duplicated()]
+    for column in duplicates:
+        df.rename(columns={column: f"{column}_duplicate"}, inplace=True)
+
+    df = df.drop(columns=df.columns[df.columns.str.endswith('_duplicate')])
+
     return df
 
 def get_races_in_a_range(years):
@@ -143,7 +152,7 @@ def get_races_in_a_range(years):
 
         races_df = get_races(year)
         temp_df = years_df
-        years_df = pd.concat([temp_df, races_df])
+        years_df = pd.concat([temp_df, races_df], ignore_index=True)
 
     return years_df
 
@@ -187,6 +196,15 @@ def get_race_results(year, location, race_id):
 
     df['Race ID'] = race_id
 
+    df.rename(columns={'Race ID': 'Race-ID'}, inplace=True)
+    df.columns = df.columns.str.strip()
+
+    duplicates = df.columns[df.columns.duplicated()]
+    for column in duplicates:
+        df.rename(columns={column: f"{column}_duplicate"}, inplace=True)
+
+    df = df.drop(columns=df.columns[df.columns.str.endswith('_duplicate')])
+
     return df
 
 def get_multiple_race_results(arr):
@@ -198,9 +216,9 @@ def get_multiple_race_results(arr):
     
     for val in arr:
         temp_df = get_race_results(val[2], val[1], val[0])
-        final_df = pd.concat([temp_df, final_df])
+        final_df = pd.concat([temp_df, final_df], ignore_index=True)
         temp_df = final_df
-    
+
     return final_df
 
 def get_race_ids_location(year):
@@ -293,6 +311,7 @@ def get_drivers(range_of_years):
         years_df = pd.concat([temp_df, years_df])
     
     years_df = years_df.drop_duplicates()
+    print('|'.join(years_df.columns))
     return years_df
 
 def get_seasons():
@@ -317,3 +336,4 @@ def get_seasons():
 
     df = pd.DataFrame(data={'Year': years})
     return df
+

@@ -11,7 +11,7 @@ data_directory = os.path.join(current_directory, "..", "data")
 # initializations
 df = pd.DataFrame()
 race_ids = []
-
+ 
 # starting functions
 def populate_seasons():
     years_df = ws.get_seasons()
@@ -33,6 +33,16 @@ def print_commands():
     6. Get the drivers that raced in a range of seasons
     7. Save last dataframe to JSON
     8. Exit the program""")
+
+# def get_all_drivers():
+#     years = []
+#     for i in range(1950, 2024):
+#         years.append(str(i))
+
+#     df = ws.get_drivers(years)
+#     return df
+
+# df = get_all_drivers()
 
 # main program
 populate_seasons()

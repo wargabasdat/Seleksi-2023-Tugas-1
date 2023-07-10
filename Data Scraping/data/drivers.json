@@ -20,40 +20,40 @@
     "Nationality":"ESP"
   },
   {
-    "Driver":"Charles Leclerc",
-    "Nationality":"MON"
-  },
-  {
     "Driver":"George Russell",
     "Nationality":"GBR"
+  },
+  {
+    "Driver":"Charles Leclerc",
+    "Nationality":"MON"
   },
   {
     "Driver":"Lance Stroll",
     "Nationality":"CAN"
   },
   {
+    "Driver":"Lando Norris",
+    "Nationality":"GBR"
+  },
+  {
     "Driver":"Esteban Ocon",
     "Nationality":"FRA"
   },
   {
-    "Driver":"Lando Norris",
-    "Nationality":"GBR"
+    "Driver":"Oscar Piastri",
+    "Nationality":"AUS"
   },
   {
     "Driver":"Pierre Gasly",
     "Nationality":"FRA"
   },
   {
-    "Driver":"Nico Hulkenberg",
-    "Nationality":"GER"
-  },
-  {
     "Driver":"Alexander Albon",
     "Nationality":"THA"
   },
   {
-    "Driver":"Oscar Piastri",
-    "Nationality":"AUS"
+    "Driver":"Nico Hulkenberg",
+    "Nationality":"GER"
   },
   {
     "Driver":"Valtteri Bottas",

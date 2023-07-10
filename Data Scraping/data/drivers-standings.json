@@ -2,6 +2,146 @@
   {
     "Pos":"1",
     "Driver":"Max Verstappen",
+    "Car":"Red Bull Racing Honda RBPT",
+    "PTS":"255",
+    "Year":"2023"
+  },
+  {
+    "Pos":"2",
+    "Driver":"Sergio Perez",
+    "Car":"Red Bull Racing Honda RBPT",
+    "PTS":"156",
+    "Year":"2023"
+  },
+  {
+    "Pos":"3",
+    "Driver":"Fernando Alonso",
+    "Car":"Aston Martin Aramco Mercedes",
+    "PTS":"137",
+    "Year":"2023"
+  },
+  {
+    "Pos":"4",
+    "Driver":"Lewis Hamilton",
+    "Car":"Mercedes",
+    "PTS":"121",
+    "Year":"2023"
+  },
+  {
+    "Pos":"5",
+    "Driver":"Carlos Sainz",
+    "Car":"Ferrari",
+    "PTS":"83",
+    "Year":"2023"
+  },
+  {
+    "Pos":"6",
+    "Driver":"George Russell",
+    "Car":"Mercedes",
+    "PTS":"82",
+    "Year":"2023"
+  },
+  {
+    "Pos":"7",
+    "Driver":"Charles Leclerc",
+    "Car":"Ferrari",
+    "PTS":"74",
+    "Year":"2023"
+  },
+  {
+    "Pos":"8",
+    "Driver":"Lance Stroll",
+    "Car":"Aston Martin Aramco Mercedes",
+    "PTS":"44",
+    "Year":"2023"
+  },
+  {
+    "Pos":"9",
+    "Driver":"Lando Norris",
+    "Car":"McLaren Mercedes",
+    "PTS":"42",
+    "Year":"2023"
+  },
+  {
+    "Pos":"10",
+    "Driver":"Esteban Ocon",
+    "Car":"Alpine Renault",
+    "PTS":"31",
+    "Year":"2023"
+  },
+  {
+    "Pos":"11",
+    "Driver":"Oscar Piastri",
+    "Car":"McLaren Mercedes",
+    "PTS":"17",
+    "Year":"2023"
+  },
+  {
+    "Pos":"12",
+    "Driver":"Pierre Gasly",
+    "Car":"Alpine Renault",
+    "PTS":"16",
+    "Year":"2023"
+  },
+  {
+    "Pos":"13",
+    "Driver":"Alexander Albon",
+    "Car":"Williams Mercedes",
+    "PTS":"11",
+    "Year":"2023"
+  },
+  {
+    "Pos":"14",
+    "Driver":"Nico Hulkenberg",
+    "Car":"Haas Ferrari",
+    "PTS":"9",
+    "Year":"2023"
+  },
+  {
+    "Pos":"15",
+    "Driver":"Valtteri Bottas",
+    "Car":"Alfa Romeo Ferrari",
+    "PTS":"5",
+    "Year":"2023"
+  },
+  {
+    "Pos":"16",
+    "Driver":"Zhou Guanyu",
+    "Car":"Alfa Romeo Ferrari",
+    "PTS":"4",
+    "Year":"2023"
+  },
+  {
+    "Pos":"17",
+    "Driver":"Yuki Tsunoda",
+    "Car":"AlphaTauri Honda RBPT",
+    "PTS":"2",
+    "Year":"2023"
+  },
+  {
+    "Pos":"18",
+    "Driver":"Kevin Magnussen",
+    "Car":"Haas Ferrari",
+    "PTS":"2",
+    "Year":"2023"
+  },
+  {
+    "Pos":"19",
+    "Driver":"Logan Sargeant",
+    "Car":"Williams Mercedes",
+    "PTS":"0",
+    "Year":"2023"
+  },
+  {
+    "Pos":"20",
+    "Driver":"Nyck De Vries",
+    "Car":"AlphaTauri Honda RBPT",
+    "PTS":"0",
+    "Year":"2023"
+  },
+  {
+    "Pos":"1",
+    "Driver":"Max Verstappen",
     "Car":"Red Bull Racing RBPT",
     "PTS":"454",
     "Year":"2022"
