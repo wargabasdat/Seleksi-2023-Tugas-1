@@ -76,13 +76,12 @@ while (1):
         df = ws.get_race_results(year, location, race_id)
         print(df)
 
-    # elif (command == 4):        # Get multiple race results (must set an array of race IDs first)
-    #     if (len(race_ids) > 4):
-    #         # do something
-    #     elif (len(race_ids) != 4):
-    #         # do something
-    #     else:
-    #         print("Race IDs is empty. Use command '5' to set an array.")
+    elif (command == 4):        # Get multiple race results (must set an array of race IDs first)
+        if (len(race_ids)):
+            df = ws.get_multiple_race_results(race_ids)
+            print(df)
+        else:
+            print("Race IDs is empty. Use command '5' to set an array.")
 
     elif (command == 5):        # Set an array of multiple race IDs
         print("Current array:")
@@ -96,7 +95,6 @@ while (1):
         else:
             years = inp
             race_ids = ws.get_race_ids_location(year)
-
 
     elif (command == 6):        # get drivers racing in a season or more
         inp = input("Enter season/year (if multiple, separate years by commas): ")

@@ -317,8 +317,3 @@ def get_seasons():
 
     df = pd.DataFrame(data={'Year': years})
     return df
-
-# years = ['2019', '2020', '2021']
-# arr = get_multiple_race_ids_location(years)
-# test_df = get_multiple_race_results(arr)
-# print(test_df)
