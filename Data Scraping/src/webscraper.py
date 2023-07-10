@@ -1,3 +1,4 @@
+# imports
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
@@ -11,9 +12,13 @@ def get_drivers_standings(year):
     Receives a year (can be string or int) and returns the driver's standings for that year.
     """
     year = fcn(year)
+
+    # header - introducing self
     headers = {
         'user-agent': 'Mozilla/5.0 (Windows NT x64); Ilmagita N/18221101@std.stei.itb.ac.id'
     }
+    
+    # setting up beautifulsoup
     source = f'https://www.formula1.com/en/results.html/{year}/drivers.html'
     page = requests.get(source, headers=headers, timeout=5)
     content = BeautifulSoup(page.content, "html.parser")
@@ -59,9 +64,11 @@ def get_multiple_drivers_standings(range_of_years):
     else:
         years = range_of_years
 
+    # making empty dataframes
     years_df = pd.DataFrame()
     temp_df = pd.DataFrame()
-    
+
+    # loop through years
     for year in years:
         fcn = lambda y: str(y) if type(y) == int else y # covert to string if integer
         year = fcn(year)
@@ -78,9 +85,13 @@ def get_races(year):
     Receives a year (can be string or int) and returns the races in a season that year.
     """
     year = fcn(year)
+
+    # headers - introduce self
     headers = {
         'user-agent': 'Mozilla/5.0 (Windows NT x64); Ilmagita N/18221101@std.stei.itb.ac.id'
     }
+
+    # setting up beautifulsoup
     source = f'https://www.formula1.com/en/results.html/{year}/races.html'
     page = requests.get(source, timeout=5, headers=headers)
     content = BeautifulSoup(page.content, "html.parser")
@@ -143,10 +154,12 @@ def get_races_in_a_range(years):
     """
     Returns all the races in a range of seasons.
     """
+    # making empty dataframes
     races_df = pd.DataFrame()
     temp_df = pd.DataFrame()
     years_df = pd.DataFrame()
 
+    # loop through years
     for year in years:
         year = fcn(year)
 
@@ -164,10 +177,13 @@ def get_race_results(year, location, race_id):
     """
     year = fcn(year)
     race_id = fcn(race_id)
+
+    # headers - introduce self
     headers = {
         'user-agent': 'Mozilla/5.0 (Windows NT x64); Ilmagita N/18221101@std.stei.itb.ac.id'
     }
 
+    # setting up beatifulsoup
     source = f'https://www.formula1.com/en/results.html/{year}/races/{race_id}/{location}/race-result.html'
     page = requests.get(source, timeout=5, headers=headers)
     content = BeautifulSoup(page.content, "html.parser")
@@ -227,10 +243,13 @@ def get_race_ids_location(year):
     that year for use in the F1 website.
     """
     year = fcn(year)
+
+    # headers - to introduce self
     headers = {
         'user-agent': 'Mozilla/5.0 (Windows NT x64); Ilmagita N/18221101@std.stei.itb.ac.id'
     }
 
+    # setting up beautifulsoup
     source = f'https://www.formula1.com/en/results.html/{year}/races.html'
     page = requests.get(source, timeout=5, headers=headers)
     content = BeautifulSoup(page.content, "html.parser")
@@ -269,6 +288,7 @@ def get_race_ids_location(year):
         length = len(df)
         df.loc[length] = row
 
+    # get the last three columns only
     df = df[df.columns[-3:]]
     array_ids_location = df.values
 
@@ -299,6 +319,7 @@ def get_drivers(range_of_years):
     else:
         years = range_of_years
     
+    # setting up columns
     years_df = pd.DataFrame(columns=['Driver', 'Nationality'])
     temp_df = pd.DataFrame(columns=['Driver', 'Nationality'])
 
