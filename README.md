@@ -132,16 +132,33 @@ The `Results` entity has a _many-to-one_ relationship with `Driver`, and the rel
 
 # Screenshots
 
-The `.json` files is entered to the database using the `psycopg2` library.
+Main program and web scraper
+<div align="center">
+  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/76cbbf1a-f5f4-4e6c-8de0-d262d6b1f020" width="600"><br><br>
+  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/4f3abc93-67db-4b63-b4d9-3df03add71f1" width="600"><br><br>
+  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/8a5edcf3-e88d-4d8c-9585-52a7ce0149ec" width="600"><br><br>
+  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/0610ddf2-8e42-41e1-8248-2f8447e04429" width="600"><br><br>
+  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/8a8007c7-6490-41e4-8be9-8fd74f33adc2" width="600"><br><br>
+  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/f46c01e3-1671-425e-95b3-52822dd086f4" width="600"><br><br>
+  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/7f7c1672-c816-41fd-8cf5-dafddc025bf2" width="600"><br><br>
+  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/05088234-5ced-46dc-a2d1-728562a64bdf" width="600"><br><br>
+  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/5bf8968b-8916-4c6e-ab8b-6e01fe1dfc93" width="600"><br><br>
+  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/f89fc1e0-db24-454f-bb58-614be456b7d0" width="600"><br><br>
+  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/c9496ac8-779d-467b-954a-97bc3251b07e" width="600"><br><br>
+  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/0f94c485-14d4-4ea2-8e6f-696aaf7ae198" width="600"><br><br>
+  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/7ab6eaa2-ef67-432b-a30e-0449b5461fba" width="600"><br><br>
+</div>
+
+Insertion to database is used using a Python program (`inserttodb.py`) with the library `psycopg2`.
 
 <div align="center">
-  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/e1cd17d8-2797-4cd8-b74b-824425a57e5f" alt="Python program to insert .json to database" width="600">
-  <img width="600" alt="Output of the Python program to insert .json to database" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/2a1c9375-c30d-44e4-a8b1-5d3efdc6245b">
-  <img width="600" alt="pgpadmin4_driverstandings" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/fd63f0ff-a7f8-4486-bd8b-e6be6208ef0d">
-  <img width="600" alt="pgadmin4_seasons" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/27e1330c-7513-48bb-b4fb-5ee76e46cebb">
-  <img width="600" alt="pgadmin4_races" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/b6a331f0-7dac-4f93-9ed4-f4c8b2d70f65">
-  <img width="600" alt="pgadmin4_raceresults" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/eeda6984-e06c-4f24-9b72-c0cc6195fb1e">
-  <img width="600" alt="pgadmin4_drivers" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/5a113103-6c65-4957-b5d9-6319d4c5878c">
+  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/e1cd17d8-2797-4cd8-b74b-824425a57e5f" alt="Python program to insert .json to database" width="600"><br><br>
+  <img width="600" alt="Output of the Python program to insert .json to database" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/2a1c9375-c30d-44e4-a8b1-5d3efdc6245b"><br><br>
+  <img width="600" alt="pgpadmin4_driverstandings" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/fd63f0ff-a7f8-4486-bd8b-e6be6208ef0d"><br><br>
+  <img width="600" alt="pgadmin4_seasons" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/27e1330c-7513-48bb-b4fb-5ee76e46cebb"><br><br>
+  <img width="600" alt="pgadmin4_races" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/b6a331f0-7dac-4f93-9ed4-f4c8b2d70f65"><br><br>
+  <img width="600" alt="pgadmin4_raceresults" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/eeda6984-e06c-4f24-9b72-c0cc6195fb1e"><br><br>
+  <img width="600" alt="pgadmin4_drivers" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/5a113103-6c65-4957-b5d9-6319d4c5878c"><br><br>
 </div>
 
 # References
