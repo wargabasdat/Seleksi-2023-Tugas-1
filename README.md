@@ -11,13 +11,14 @@ The data scraped is the seasons available on the website that contains driver's 
 # Specification
 This program uses Python and uses the following libraries:
 
-* *Beautiful Soup*: The main library to scrape data. This library is chosen because of its simple syntax and it is easy to use for beginners.
-* *Requests*: This library is used to make requests to the web server that will be scraped.
-* *JSON*: This library is used to parse JSON strings.
-* *Pandas*: This library is used to manipulate and transform the data.
+* *BeautifulSoup*: The main library to scrape data. This library is chosen because of its simple syntax and it is easy to use for beginners.
+* *requests*: This library is used to make requests to the web server that will be scraped.
+* *json*: This library is used to parse JSON strings.
+* *pandas*: This library is used to manipulate and transform the data.
+* *psycopg2*: This library is used to make a connection to the PostgreSQL database
 
 # How to Use
-1. Clone this folder to your local repository
+1. Clone this folder to your local repository.
 2. Make sure you have the necessary libraries installed. To do that, simply navigate to `Data Scraping/src` and run the following code in your console program such as Command Prompt:
 ```
 pip install -r libs.txt
@@ -29,6 +30,7 @@ python3 main.py
 4. Follow the instructions in the program. All commands are done in `main.py`.
 
 ## Available commands
+```
   0. See available commands
   1. Get driver standings of a season or more
   2. Get the races of a season or more
@@ -38,6 +40,7 @@ python3 main.py
   6. Get the drivers that raced in a range of seasons
   7. Save last dataframe to JSON
   8. Exit the program
+```
 
 # JSON Structure
 * Seasons
@@ -96,35 +99,62 @@ The center of this database is the `Season`, which stores the years of the champ
 
 A `Driver` is its own entity. On the Formula 1 website, drivers aren't assigned IDs, so the primary key will be their names in this database. Driver's numbers also can't be used to identify drivers, because they can change every year - for example, before Max Verstappen won his first championship in 2021, he raced with the number 33, not 1 (number 1 is usually reserved for championship winners). In real life examples of databases, people should be assigned unique IDs and not just be uniquely identified by name.
 
-`Results` contain the results of multiple drivers of each race, so it has a _many-to-one_ relationship with `Drivers`, with `Results` having a _total participation_. `DriverStandings` is also its own entity and keeps track of many drivers at the same time, so its relationship with `Driver` is _many-to-one_, in which `DriverStandings` has _total participation_.
+`Results` contain the results of multiple drivers of each race, so it has a _many-to-one_ relationship with `Drivers`, with `Results` having a _total participation_. `DriverStandings` is also its own entity and keeps track of many drivers at the same time, so its relationship with `Driver` is _many-to-one_, in which `DriverStandings` has _total participation.
 
-![Entity relationship diagram of the Formula 1 website](https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/9b389ce2-67e4-4a4d-a17a-f39515631fc1)
+<div align="center">
+  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/9b389ce2-67e4-4a4d-a17a-f39515631fc1" width="600" alt="Entity relationship diagram of the Formula 1 website">
+</div>
 
 ## Relational diagram
 
-![Relational diagram of the Formula 1 website](https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/c2f9451c-d094-4cbe-9283-d8ec1eca43ed)
+<div align="center">
+  <img alt="Relational diagram of the Formula 1 website" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/c2f9451c-d094-4cbe-9283-d8ec1eca43ed" width="800"></div>
 
 # ERD to Relational Diagram Translation Process
 
-![reducing1](https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/6fd32b58-6bf7-4a0f-bef6-c66be31e57f8)
+<div align="center">
+  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/6fd32b58-6bf7-4a0f-bef6-c66be31e57f8" alt="Reducing Results, Races, and Driver" width="600">
+</div>
 
 The `Results` entity has a _many-to-one_ relationship with `Driver`, and the relationship is _total_ on `Results` side. `Results` also has a _many-to-one_ relationship with `Races` and is total on `Results` side. Because of this, the entity `Results` becomes the table `raceResults` that has two foreign keys, `raceID` and `driver`, that refers to the primary keys of the table `races` and `driver`, respectively.
 
-![reducing2](https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/5ab2fd4b-7677-45d8-973b-bb1da7bf1de7)
+<div align="center">
+  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/5ab2fd4b-7677-45d8-973b-bb1da7bf1de7" alt="Reducing Races and Season" width="600">
+</div>
 
 `Races` has a _many-to-one_ relationship with `Season` and is also a form of _total participation_. Thus, the table `races` has a foreign key `year` that refers to the primary key in `season`.
 
-![reducing3](https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/de12fc16-2b84-4cc1-b295-6a1c227aa9c5)
+<div align="center">
+  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/de12fc16-2b84-4cc1-b295-6a1c227aa9c5" alt="Reducing DriverStandings, Driver, and Season" width="600">
+</div>
 
 `DriverStandings` has a _many-to-one_ relationship with `Driver`, causing the table `driverStandings` have a foreign key `driver` that refers to the primary key `name` in driver. It also has a _many-to-one_ relationship with `Season`, so it has the foreign key `year` that refers to `season`'s primary key.
 
 # Screenshots
 
+The `.json` files is entered to the database using the `psycopg2` library.
+
+<div align="center">
+  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/e1cd17d8-2797-4cd8-b74b-824425a57e5f" alt="Python program to insert .json to database" width="600">
+  <img width="600" alt="Output of the Python program to insert .json to database" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/2a1c9375-c30d-44e4-a8b1-5d3efdc6245b">
+  <img width="600" alt="pgpadmin4_driverstandings" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/fd63f0ff-a7f8-4486-bd8b-e6be6208ef0d">
+  <img width="600" alt="pgadmin4_seasons" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/27e1330c-7513-48bb-b4fb-5ee76e46cebb">
+  <img width="600" alt="pgadmin4_races" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/b6a331f0-7dac-4f93-9ed4-f4c8b2d70f65">
+  <img width="600" alt="pgadmin4_raceresults" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/eeda6984-e06c-4f24-9b72-c0cc6195fb1e">
+  <img width="600" alt="pgadmin4_drivers" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/5a113103-6c65-4957-b5d9-6319d4c5878c">
+</div>
+
 # References
 ## Documentation
+* [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+* [Pandas Documentation](https://pandas.pydata.org/docs/)
+
 ## Articles
+* [How to Build a Python Web Scraper: Scrape Data from any Website - Teri Eyenike](https://hackernoon.com/how-to-build-a-python-web-scraper-scrape-data-from-any-website)
+* [Formula One: Extracting and analysing historical results - Ciarán Cooney](https://towardsdatascience.com/formula-one-extracting-and-analysing-historical-results-19c950cda1d1)
 
 # Author
-Ilmagita Nariswari (18221101)
-Information System and Technology
+Ilmagita Nariswari (18221101)<br>
+Information System and Technology<br>
 Institut Teknologi Bandung
