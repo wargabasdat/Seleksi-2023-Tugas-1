@@ -17,7 +17,7 @@ This program uses Python and uses the following libraries:
 * *Pandas*: This library is used to manipulate and transform the data.
 
 # How to Use
-1. Clone this folder to your local repository
+1. Clone this folder to your local repository.
 2. Make sure you have the necessary libraries installed. To do that, simply navigate to `Data Scraping/src` and run the following code in your console program such as Command Prompt:
 ```
 pip install -r libs.txt
@@ -29,6 +29,7 @@ python3 main.py
 4. Follow the instructions in the program. All commands are done in `main.py`.
 
 ## Available commands
+```
   0. See available commands
   1. Get driver standings of a season or more
   2. Get the races of a season or more
@@ -38,6 +39,7 @@ python3 main.py
   6. Get the drivers that raced in a range of seasons
   7. Save last dataframe to JSON
   8. Exit the program
+```
 
 # JSON Structure
 * Seasons
@@ -98,7 +100,7 @@ A `Driver` is its own entity. On the Formula 1 website, drivers aren't assigned 
 
 `Results` contain the results of multiple drivers of each race, so it has a _many-to-one_ relationship with `Drivers`, with `Results` having a _total participation_. `DriverStandings` is also its own entity and keeps track of many drivers at the same time, so its relationship with `Driver` is _many-to-one_, in which `DriverStandings` has _total participation_.
 
-![Entity relationship diagram of the Formula 1 website](https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/9b389ce2-67e4-4a4d-a17a-f39515631fc1)
+<img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/9b389ce2-67e4-4a4d-a17a-f39515631fc1" width="600" alt="Entity relationship diagram of the Formula 1 website">
 
 ## Relational diagram
 
