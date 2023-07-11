@@ -155,6 +155,6 @@ The `.json` files is entered to the database using the `psycopg2` library.
 * [Formula One: Extracting and analysing historical results - Ciarán Cooney](https://towardsdatascience.com/formula-one-extracting-and-analysing-historical-results-19c950cda1d1)
 
 # Author
-Ilmagita Nariswari (18221101)
-Information System and Technology
+Ilmagita Nariswari (18221101)<br>
+Information System and Technology<br>
 Institut Teknologi Bandung
