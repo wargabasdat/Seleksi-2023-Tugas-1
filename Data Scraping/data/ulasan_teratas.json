@@ -23,7 +23,7 @@
                "Medan",
                "Palembang",
                "Yogyakarta",
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0,
@@ -50,7 +50,7 @@
                "Des 2018"
           ],
           "tipe_kunjungan": [
-               "",
+               "Keluarga",
                "Teman",
                "Keluarga",
                "Teman",
@@ -122,7 +122,7 @@
                "Teman",
                "Pasangan",
                "Bisnis",
-               ""
+               "Keluarga"
           ]
      },
      {
@@ -141,15 +141,15 @@
           ],
           "asal_pengunjung": [
                "Jakarta",
-               "",
-               "",
                "Padang",
-               "",
+               "Padang",
+               "Padang",
+               "Padang",
                "Pangkal Pinang",
                "Denpasar",
-               "",
-               "",
-               ""
+               "Padang",
+               "Padang",
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0,
@@ -177,15 +177,15 @@
           ],
           "tipe_kunjungan": [
                "Pasangan",
-               "",
-               "",
-               "",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
                "Teman",
                "Bisnis",
                "Teman",
                "Keluarga",
                "Keluarga",
-               ""
+               "Keluarga"
           ]
      },
      {
@@ -240,13 +240,13 @@
           ],
           "tipe_kunjungan": [
                "Keluarga",
-               "",
-               "",
+               "Keluarga",
+               "Keluarga",
                "Bisnis",
                "Teman",
                "Bisnis",
                "Keluarga",
-               "",
+               "Keluarga",
                "Teman",
                "Keluarga"
           ]
@@ -269,13 +269,13 @@
                "Padang",
                "Jakarta",
                "Banda Aceh",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Jakarta",
                "Sentani",
                "Pekanbaru",
-               "",
-               ""
+               "Padang",
+               "Padang"
           ],
           "rating_pengunjung": [
                4.0,
@@ -302,7 +302,7 @@
                "Des 2016"
           ],
           "tipe_kunjungan": [
-               "",
+               "Keluarga",
                "Keluarga",
                "Bisnis",
                "Teman",
@@ -310,8 +310,8 @@
                "Sendiri",
                "Pasangan",
                "Bisnis",
-               "",
-               ""
+               "Keluarga",
+               "Keluarga"
           ]
      },
      {
@@ -333,9 +333,9 @@
                "Jakarta",
                "Padang Pariaman",
                "Jakarta",
-               "",
+               "Padang",
                "Banda Aceh",
-               "",
+               "Padang",
                "Tangerang",
                "Padang",
                "Pekanbaru"
@@ -365,7 +365,7 @@
                "Feb 2019"
           ],
           "tipe_kunjungan": [
-               "",
+               "Keluarga",
                "Teman",
                "Pasangan",
                "Pasangan",
@@ -392,16 +392,16 @@
                "pahlevi p"
           ],
           "asal_pengunjung": [
-               "",
+               "Padang",
                "Padang Pariaman",
                "Palembang",
                "Agam",
                "Jakarta",
                "Palu",
                "Bukittinggi",
-               "",
-               "",
-               ""
+               "Padang",
+               "Padang",
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0,
@@ -463,8 +463,8 @@
                "Bandung",
                "Jakarta",
                "Jakarta",
-               "",
-               ""
+               "Padang",
+               "Padang"
           ],
           "rating_pengunjung": [
                4.0,
@@ -497,7 +497,7 @@
                "Keluarga",
                "Keluarga",
                "Bisnis",
-               "",
+               "Keluarga",
                "Keluarga",
                "Keluarga",
                "Keluarga"
@@ -518,15 +518,15 @@
                "Kadarmanto B"
           ],
           "asal_pengunjung": [
-               "",
+               "Padang",
                "Padang",
                "Padang Pariaman",
                "Sentul",
-               "",
+               "Padang",
                "Banda Aceh",
                "Jambi",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Jakarta"
           ],
           "rating_pengunjung": [
@@ -562,7 +562,7 @@
                "Teman",
                "Teman",
                "Bisnis",
-               "",
+               "Keluarga",
                "Keluarga"
           ]
      },
@@ -581,7 +581,7 @@
           ],
           "asal_pengunjung": [
                "Bukittinggi",
-               "",
+               "Padang",
                "Bukittinggi",
                "Banda Aceh",
                "Tangerang",
@@ -639,9 +639,9 @@
                "Rizky A"
           ],
           "asal_pengunjung": [
-               "",
                "Padang",
-               "",
+               "Padang",
+               "Padang",
                "Palembang",
                "Padang",
                "Jakarta",
@@ -675,14 +675,14 @@
                "Mar 2019"
           ],
           "tipe_kunjungan": [
-               "",
+               "Keluarga",
                "Sendiri",
-               "",
+               "Keluarga",
                "Sendiri",
-               "",
-               "",
+               "Keluarga",
+               "Keluarga",
                "Sendiri",
-               "",
+               "Keluarga",
                "Bisnis",
                "Pasangan"
           ]
@@ -708,10 +708,10 @@
                "Kalimantan Barat",
                "Pekanbaru",
                "Pekanbaru",
-               "",
+               "Padang",
                "Jakarta",
                "Padang",
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0,
@@ -738,7 +738,7 @@
                "Agt 2018"
           ],
           "tipe_kunjungan": [
-               "",
+               "Keluarga",
                "Keluarga",
                "Pasangan",
                "Keluarga",
@@ -766,13 +766,13 @@
           ],
           "asal_pengunjung": [
                "Padang",
-               "",
+               "Padang",
                "Jakarta",
                "Makassar",
                "Medan",
                "Padang",
                "Bukittinggi",
-               "",
+               "Padang",
                "Jakarta",
                "Jakarta"
           ],
@@ -802,7 +802,7 @@
           ],
           "tipe_kunjungan": [
                "Keluarga",
-               "",
+               "Keluarga",
                "Bisnis",
                "Sendiri",
                "Teman",
@@ -835,7 +835,7 @@
                "Banjarmasin",
                "Jakarta",
                "Padang Pariaman",
-               "",
+               "Padang",
                "Bekasi",
                "Padang"
           ],
@@ -865,9 +865,9 @@
           ],
           "tipe_kunjungan": [
                "Keluarga",
-               "",
+               "Keluarga",
                "Teman",
-               "",
+               "Keluarga",
                "Teman",
                "Bisnis",
                "Pasangan",
@@ -893,7 +893,7 @@
           "asal_pengunjung": [
                "Jakarta",
                "Padang",
-               "",
+               "Padang",
                "Padang Pariaman",
                "Banda Aceh",
                "Pekanbaru",
@@ -927,9 +927,9 @@
                "Okt 2017"
           ],
           "tipe_kunjungan": [
-               "",
                "Keluarga",
-               "",
+               "Keluarga",
+               "Keluarga",
                "Pasangan",
                "Keluarga",
                "Keluarga",
@@ -956,13 +956,13 @@
           "asal_pengunjung": [
                "Banda Aceh",
                "Padang",
-               "",
+               "Padang",
                "Medan",
-               "",
+               "Padang",
                "Palembang",
                "Padang",
                "Padang",
-               "",
+               "Padang",
                "Pekanbaru"
           ],
           "rating_pengunjung": [
@@ -1016,14 +1016,14 @@
                "anak rantau"
           ],
           "asal_pengunjung": [
-               "",
-               "",
                "Padang",
                "Padang",
                "Padang",
-               "",
                "Padang",
-               "",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
                "Banda Aceh"
           ],
           "rating_pengunjung": [
@@ -1075,15 +1075,15 @@
                "Sefanya travel"
           ],
           "asal_pengunjung": [
-               "",
                "Padang",
-               "",
-               "",
+               "Padang",
+               "Padang",
+               "Padang",
                "Kalimantan Barat",
                "Banda Aceh",
                "Jakarta",
                "Pekanbaru",
-               "",
+               "Padang",
                "Padang"
           ],
           "rating_pengunjung": [
@@ -1111,8 +1111,8 @@
                "Okt 2018"
           ],
           "tipe_kunjungan": [
-               "",
-               "",
+               "Keluarga",
+               "Keluarga",
                "Teman",
                "Pasangan",
                "Keluarga",
@@ -1141,12 +1141,12 @@
                "Pekanbaru",
                "Padang",
                "Bandung",
-               "",
+               "Padang",
                "Bali",
                "Duri",
                "Padang",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Sentani"
           ],
           "rating_pengunjung": [
@@ -1201,11 +1201,11 @@
                "iwan s"
           ],
           "asal_pengunjung": [
-               "",
+               "Padang",
                "Banda Aceh",
                "Padang",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Padang",
                "Padang",
                "Jakarta",
@@ -1245,7 +1245,7 @@
                "Teman",
                "Keluarga",
                "Sendiri",
-               "",
+               "Keluarga",
                "Pasangan"
           ]
      },
@@ -1266,11 +1266,11 @@
           "asal_pengunjung": [
                "Pekanbaru",
                "Bandung",
-               "",
                "Padang",
                "Padang",
-               "",
-               "",
+               "Padang",
+               "Padang",
+               "Padang",
                "Palembang",
                "Pekanbaru",
                "Tegal"
@@ -1331,7 +1331,7 @@
                "Yogyakarta",
                "Jakarta",
                "Padang",
-               "",
+               "Padang",
                "Jakarta",
                "Banjarbaru",
                "Bekasi",
@@ -1393,9 +1393,9 @@
                "Bukittinggi",
                "Jakarta",
                "Pekanbaru",
-               "",
-               "",
-               "",
+               "Padang",
+               "Padang",
+               "Padang",
                "Depok",
                "Jakarta",
                "Pematang Siantar",
@@ -1453,13 +1453,13 @@
                "korian89"
           ],
           "asal_pengunjung": [
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Jakarta",
                "Abu Dhabi",
                "Bogor",
                "Berkeley",
-               "",
+               "Padang",
                "Lampang",
                "Jakarta",
                "Groningen"
@@ -1481,7 +1481,7 @@
                "Agt 2017",
                "Jan 2016",
                "Jul 2015",
-               "",
+               "Jan 2023",
                "Sep 2019",
                "Jul 2019",
                "Okt 2016",
@@ -1493,11 +1493,11 @@
                "Keluarga",
                "Pasangan",
                "Pasangan",
-               "",
+               "Keluarga",
                "Pasangan",
                "Teman",
                "Sendiri",
-               "",
+               "Keluarga",
                "Sendiri"
           ]
      },
@@ -1517,7 +1517,7 @@
           ],
           "asal_pengunjung": [
                "Pekanbaru",
-               "",
+               "Padang",
                "Bandung",
                "Batam",
                "Riau",
@@ -1555,8 +1555,8 @@
                "Keluarga",
                "Bisnis",
                "Pasangan",
-               "",
-               "",
+               "Keluarga",
+               "Keluarga",
                "Teman",
                "Teman",
                "Keluarga",
@@ -1584,7 +1584,7 @@
                "Jakarta",
                "Batusangkar",
                "Jakarta",
-               "",
+               "Padang",
                "Jakarta",
                "Pekanbaru",
                "Jakarta",
@@ -1618,7 +1618,7 @@
                "Keluarga",
                "Keluarga",
                "Teman",
-               "",
+               "Keluarga",
                "Pasangan",
                "Sendiri",
                "Pasangan",
@@ -1640,7 +1640,7 @@
           "asal_pengunjung": [
                "Pekanbaru",
                "Padang",
-               "",
+               "Padang",
                "Denpasar",
                "Tangerang Selatan",
                "Wellington"
@@ -1688,10 +1688,10 @@
                "Pekanbaru",
                "Padang",
                "Pekanbaru",
-               "",
+               "Padang",
                "Bandar Lampung",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Medan",
                "Pekanbaru",
                "Tegal"
@@ -1752,10 +1752,10 @@
                "Pekanbaru",
                "Padang",
                "Jakarta",
-               "",
+               "Padang",
                "Jakarta",
                "Payakumbuh",
-               "",
+               "Padang",
                "Bukittinggi",
                "Jakarta"
           ],
@@ -1812,9 +1812,9 @@
           "asal_pengunjung": [
                "Bukittinggi",
                "Pekanbaru",
-               "",
-               "",
-               "",
+               "Padang",
+               "Padang",
+               "Padang",
                "Tangerang",
                "Jakarta",
                "Jakarta",
@@ -1849,7 +1849,7 @@
                "Keluarga",
                "Pasangan",
                "Teman",
-               "",
+               "Keluarga",
                "Sendiri",
                "Pasangan"
           ]
@@ -1870,8 +1870,8 @@
           ],
           "asal_pengunjung": [
                "Pekanbaru",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Surabaya",
                "Medan",
                "Padang",
@@ -1968,14 +1968,14 @@
                "Nov 2014"
           ],
           "tipe_kunjungan": [
-               "",
+               "Keluarga",
                "Keluarga",
                "Teman",
                "Keluarga",
                "Teman",
                "Keluarga",
                "Keluarga",
-               "",
+               "Keluarga",
                "Teman",
                "Bisnis"
           ]
@@ -1995,11 +1995,11 @@
           ],
           "asal_pengunjung": [
                "Padang",
-               "",
+               "Padang",
                "Jakarta",
                "Tangerang",
                "Jakarta",
-               "",
+               "Padang",
                "Jakarta",
                "Jakarta",
                "Bandung"
@@ -2051,13 +2051,13 @@
                "partnerst0ur"
           ],
           "asal_pengunjung": [
-               "",
+               "Padang",
                "Pekanbaru",
                "Padang",
-               "",
+               "Padang",
                "Pekanbaru",
                "Jakarta",
-               "",
+               "Padang",
                "Padang"
           ],
           "rating_pengunjung": [
@@ -2141,7 +2141,7 @@
                "Keluarga",
                "Pasangan",
                "Teman",
-               "",
+               "Keluarga",
                "Sendiri",
                "Teman",
                "Keluarga",
@@ -2170,7 +2170,7 @@
                "Padang",
                "Bukittinggi",
                "Kajang",
-               "",
+               "Padang",
                "Jakarta",
                "Payakumbuh",
                "Palembang"
@@ -2208,7 +2208,7 @@
                "Keluarga",
                "Pasangan",
                "Keluarga",
-               "",
+               "Keluarga",
                "Sendiri"
           ]
      },
@@ -2227,15 +2227,15 @@
                "endriano"
           ],
           "asal_pengunjung": [
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Pekanbaru",
                "Solok",
                "Jakarta",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Pekanbaru",
-               "",
+               "Padang",
                "Pekanbaru"
           ],
           "rating_pengunjung": [
@@ -2263,7 +2263,7 @@
                "Des 2016"
           ],
           "tipe_kunjungan": [
-               "",
+               "Keluarga",
                "Teman",
                "Keluarga",
                "Keluarga",
@@ -2289,7 +2289,7 @@
           "asal_pengunjung": [
                "Malang",
                "Jakarta",
-               "",
+               "Padang",
                "Jakarta",
                "Jakarta",
                "Surabaya",
@@ -2314,7 +2314,7 @@
                "Feb 2017"
           ],
           "tipe_kunjungan": [
-               "",
+               "Keluarga",
                "Keluarga",
                "Teman",
                "Keluarga",
@@ -2338,11 +2338,11 @@
           ],
           "asal_pengunjung": [
                "Jakarta",
-               "",
+               "Padang",
                "Padang",
                "Bukittinggi",
                "Depok",
-               "",
+               "Padang",
                "Kuala Lumpur",
                "Johor Bahru",
                "San Diego"
@@ -2390,7 +2390,7 @@
           ],
           "asal_pengunjung": [
                "Palupuh",
-               "",
+               "Padang",
                "Deventer"
           ],
           "rating_pengunjung": [
@@ -2425,12 +2425,12 @@
           ],
           "asal_pengunjung": [
                "Pekanbaru",
-               "",
+               "Padang",
                "Bali",
-               "",
+               "Padang",
                "Makassar",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Glenelg",
                "Hoogstraten",
                "Bukittinggi"
@@ -2463,7 +2463,7 @@
                "Keluarga",
                "Bisnis",
                "Teman",
-               "",
+               "Keluarga",
                "Bisnis",
                "Keluarga",
                "Keluarga",
@@ -2488,11 +2488,11 @@
           ],
           "asal_pengunjung": [
                "Banda Aceh",
-               "",
+               "Padang",
                "Jakarta",
-               "",
-               "",
-               "",
+               "Padang",
+               "Padang",
+               "Padang",
                "Jakarta",
                "Jakarta",
                "Surabaya",
@@ -2550,16 +2550,16 @@
                "Embara"
           ],
           "asal_pengunjung": [
-               "",
+               "Padang",
                "Jakarta",
                "Bukittinggi",
                "Tangerang Selatan",
                "Jakarta",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Makassar",
                "Jakarta",
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                4.0,
@@ -2586,10 +2586,10 @@
                "Jan 2017"
           ],
           "tipe_kunjungan": [
-               "",
+               "Keluarga",
                "Sendiri",
                "Sendiri",
-               "",
+               "Keluarga",
                "Keluarga",
                "Keluarga",
                "Keluarga",
@@ -2614,14 +2614,14 @@
           ],
           "asal_pengunjung": [
                "Padang",
-               "",
+               "Padang",
                "Padang",
                "Riau",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Tangerang Selatan",
                "Padang",
-               "",
+               "Padang",
                "Medan"
           ],
           "rating_pengunjung": [
@@ -2655,7 +2655,7 @@
                "Keluarga",
                "Keluarga",
                "Keluarga",
-               "",
+               "Keluarga",
                "Keluarga",
                "Teman",
                "Teman"
@@ -2677,11 +2677,11 @@
           ],
           "asal_pengunjung": [
                "Medan",
-               "",
+               "Padang",
                "Jakarta",
                "Medan",
                "Surabaya",
-               "",
+               "Padang",
                "Padang",
                "Bukittinggi",
                "Tangerang Selatan",
@@ -2719,7 +2719,7 @@
                "Teman",
                "Keluarga",
                "Bisnis",
-               "",
+               "Keluarga",
                "Keluarga",
                "Pasangan"
           ]
@@ -2744,9 +2744,9 @@
                "Jakarta",
                "Padang",
                "Jakarta",
-               "",
+               "Padang",
                "West Sumatra",
-               "",
+               "Padang",
                "Kuala Lumpur",
                "Jakarta"
           ],
@@ -2770,19 +2770,19 @@
                "Sep 2015",
                "Agt 2015",
                "Agt 2014",
-               "",
+               "Jan 2023",
                "Okt 2015",
                "Des 2014"
           ],
           "tipe_kunjungan": [
                "Teman",
                "Keluarga",
-               "",
                "Keluarga",
                "Keluarga",
                "Keluarga",
                "Keluarga",
-               "",
+               "Keluarga",
+               "Keluarga",
                "Keluarga",
                "Keluarga"
           ]
@@ -2805,13 +2805,13 @@
                "Bukittinggi",
                "Pekanbaru",
                "Bukittinggi",
-               "",
+               "Padang",
                "Bandung",
-               "",
+               "Padang",
                "Padang",
                "Padang",
                "Tangerang",
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                4.0,
@@ -2868,10 +2868,10 @@
                "Bandung",
                "Padang",
                "Padang",
-               "",
+               "Padang",
                "Bukittinggi",
                "Binjai",
-               "",
+               "Padang",
                "Pekanbaru",
                "Bukittinggi",
                "Sentani"
@@ -2929,15 +2929,15 @@
           ],
           "asal_pengunjung": [
                "Yogyakarta",
-               "",
+               "Padang",
                "Padang",
                "Tangerang Selatan",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Jakarta",
                "Tangerang Selatan",
                "Makassar",
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0,
@@ -2964,10 +2964,10 @@
                "Mar 2017"
           ],
           "tipe_kunjungan": [
-               "",
+               "Keluarga",
                "Keluarga",
                "Pasangan",
-               "",
+               "Keluarga",
                "Teman",
                "Sendiri",
                "Keluarga",
@@ -2995,8 +2995,8 @@
                "Riau",
                "Pekanbaru",
                "Surabaya",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Bukittinggi",
                "Kuala Lumpur"
           ],
@@ -3031,7 +3031,7 @@
                "Keluarga",
                "Teman",
                "Teman",
-               ""
+               "Keluarga"
           ]
      },
      {
@@ -3050,13 +3050,13 @@
           ],
           "asal_pengunjung": [
                "Banda Aceh",
-               "",
+               "Padang",
                "Pariaman",
                "Surabaya",
                "Jakarta",
                "Bogor",
                "Bukittinggi",
-               "",
+               "Padang",
                "Payakumbuh",
                "Tangerang Selatan"
           ],
@@ -3092,7 +3092,7 @@
                "Keluarga",
                "Teman",
                "Teman",
-               "",
+               "Keluarga",
                "Keluarga",
                "Keluarga"
           ]
@@ -3117,7 +3117,7 @@
                "Jakarta",
                "Jakarta",
                "Bandung",
-               "",
+               "Padang",
                "Bukittinggi",
                "Jakarta",
                "Singapura",
@@ -3175,15 +3175,15 @@
                "eshaple"
           ],
           "asal_pengunjung": [
-               "",
+               "Padang",
                "Pekanbaru",
                "Pekanbaru",
-               "",
+               "Padang",
                "Riau",
                "Padang",
                "Jakarta",
                "Surabaya",
-               "",
+               "Padang",
                "Medan"
           ],
           "rating_pengunjung": [
@@ -3211,7 +3211,7 @@
                "Jan 2016"
           ],
           "tipe_kunjungan": [
-               "",
+               "Keluarga",
                "Keluarga",
                "Keluarga",
                "Teman",
@@ -3240,11 +3240,11 @@
           "asal_pengunjung": [
                "Bukittinggi",
                "Padang",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Tangerang Selatan",
                "Padang",
-               "",
+               "Padang",
                "Bukittinggi",
                "Padang Panjang",
                "Bekasi"
@@ -3280,7 +3280,7 @@
                "Keluarga",
                "Keluarga",
                "Keluarga",
-               "",
+               "Keluarga",
                "Keluarga",
                "Teman",
                "Keluarga"
@@ -3381,7 +3381,7 @@
                "Jakarta",
                "Jakarta",
                "Jakarta",
-               "",
+               "Padang",
                "Bukittinggi",
                "Jakarta",
                "Singapura",
@@ -3438,9 +3438,9 @@
                "Agusti Esden"
           ],
           "asal_pengunjung": [
-               "",
+               "Padang",
                "Jakarta",
-               "",
+               "Padang",
                "Jakarta",
                "Bukittinggi",
                "Jakarta",
@@ -3469,7 +3469,7 @@
           ],
           "tipe_kunjungan": [
                "Keluarga",
-               "",
+               "Keluarga",
                "Teman",
                "Keluarga",
                "Teman",
@@ -3496,8 +3496,8 @@
                "Depok",
                "Padang",
                "Sumatera Utara",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Petaling Jaya"
           ],
           "rating_pengunjung": [
@@ -3585,8 +3585,8 @@
                "Jakarta",
                "Depok",
                "Padang",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Bukittinggi",
                "Padang Panjang"
           ],
@@ -3617,7 +3617,7 @@
           "tipe_kunjungan": [
                "Keluarga",
                "Teman",
-               "",
+               "Keluarga",
                "Teman",
                "Keluarga",
                "Teman",
@@ -3642,15 +3642,15 @@
                "aria h"
           ],
           "asal_pengunjung": [
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Jakarta",
                "Padang",
-               "",
+               "Padang",
                "Bandung",
                "Sumatera Utara",
                "Padang Panjang",
-               "",
+               "Padang",
                "Solok"
           ],
           "rating_pengunjung": [
@@ -3681,7 +3681,7 @@
                "Teman",
                "Teman",
                "Teman",
-               "",
+               "Keluarga",
                "Sendiri",
                "Bisnis",
                "Keluarga",
@@ -3707,9 +3707,9 @@
           "asal_pengunjung": [
                "Jakarta",
                "Jakarta",
-               "",
-               "",
-               "",
+               "Padang",
+               "Padang",
+               "Padang",
                "Bogor",
                "Kuala Lumpur",
                "Kuala Lumpur",
@@ -3768,16 +3768,16 @@
                "Rustandi E"
           ],
           "asal_pengunjung": [
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Surabaya",
-               "",
+               "Padang",
                "Padang",
                "Padang",
                "Pekanbaru",
                "Kuala Lumpur",
                "Bandung",
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0,
@@ -3808,8 +3808,8 @@
                "Pasangan",
                "Teman",
                "Teman",
-               "",
-               "",
+               "Keluarga",
+               "Keluarga",
                "Teman",
                "Teman",
                "Teman",
@@ -3831,15 +3831,15 @@
                "hkrishna2014"
           ],
           "asal_pengunjung": [
-               "",
+               "Padang",
                "Jakarta",
-               "",
+               "Padang",
                "Surabaya",
                "Pekanbaru",
                "Manado",
                "Bandung",
                "Padang",
-               "",
+               "Padang",
                "Padang"
           ],
           "rating_pengunjung": [
@@ -3871,8 +3871,8 @@
                "Keluarga",
                "Pasangan",
                "Teman",
-               "",
-               "",
+               "Keluarga",
+               "Keluarga",
                "Keluarga",
                "Bisnis",
                "Keluarga",
@@ -3892,7 +3892,7 @@
           ],
           "asal_pengunjung": [
                "Pekanbaru",
-               "",
+               "Padang",
                "Padang",
                "Padang",
                "Pekanbaru",
@@ -3915,16 +3915,16 @@
                "Apr 2014",
                "Apr 2014",
                "Jul 2016",
-               ""
+               "Jan 2023"
           ],
           "tipe_kunjungan": [
                "Keluarga",
                "Pasangan",
-               "",
+               "Keluarga",
                "Keluarga",
                "Teman",
                "Keluarga",
-               ""
+               "Keluarga"
           ]
      },
      {
@@ -3945,13 +3945,13 @@
                "Jakarta",
                "Jakarta",
                "Tangerang",
-               "",
+               "Padang",
                "Tangerang Selatan",
-               "",
+               "Padang",
                "Purwokerto",
                "Jakarta",
                "Jakarta",
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                4.0,
@@ -3978,11 +3978,11 @@
                "Jun 2017"
           ],
           "tipe_kunjungan": [
-               "",
+               "Keluarga",
                "Pasangan",
                "Keluarga",
                "Teman",
-               "",
+               "Keluarga",
                "Teman",
                "Keluarga",
                "Keluarga",
@@ -4001,7 +4001,7 @@
                "Darnel-HDI"
           ],
           "asal_pengunjung": [
-               "",
+               "Padang",
                "Jakarta",
                "Bukittinggi",
                "Padang",
@@ -4108,10 +4108,10 @@
                "Jan 2020"
           ],
           "tipe_kunjungan": [
-               "",
-               "",
                "Keluarga",
-               ""
+               "Keluarga",
+               "Keluarga",
+               "Keluarga"
           ]
      },
      {
@@ -4125,8 +4125,8 @@
           ],
           "asal_pengunjung": [
                "Jakarta",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Bukittinggi",
                "Jakarta"
           ],
@@ -4167,15 +4167,15 @@
                "Ariesadhar"
           ],
           "asal_pengunjung": [
-               "",
                "Padang",
-               "",
+               "Padang",
+               "Padang",
                "Jakarta",
                "Tangerang Selatan",
                "Jakarta",
-               "",
+               "Padang",
                "Jakarta",
-               "",
+               "Padang",
                "Tangerang Selatan"
           ],
           "rating_pengunjung": [
@@ -4252,7 +4252,7 @@
           "tipe_kunjungan": [
                "Keluarga",
                "Teman",
-               "",
+               "Keluarga",
                "Keluarga",
                "Teman",
                "Teman"
@@ -4267,7 +4267,7 @@
           ],
           "asal_pengunjung": [
                "Velbert",
-               "",
+               "Padang",
                "Kepulauan Mentawai"
           ],
           "rating_pengunjung": [
@@ -4300,10 +4300,10 @@
                "Hasnah1962"
           ],
           "asal_pengunjung": [
-               "",
+               "Padang",
                "Kalimantan Barat",
                "Jakarta",
-               "",
+               "Padang",
                "Jakarta",
                "Jakarta",
                "Jakarta",
@@ -4340,7 +4340,7 @@
                "Keluarga",
                "Keluarga",
                "Sendiri",
-               "",
+               "Keluarga",
                "Teman"
           ]
      },
@@ -4397,7 +4397,7 @@
                "Jakarta",
                "Jakarta",
                "Palembang",
-               "",
+               "Padang",
                "Bukittinggi",
                "Singapura",
                "Jakarta",
@@ -4431,7 +4431,7 @@
                "Teman",
                "Keluarga",
                "Sendiri",
-               "",
+               "Keluarga",
                "Bisnis",
                "Teman",
                "Teman",
@@ -4452,11 +4452,11 @@
           ],
           "asal_pengunjung": [
                "Jakarta",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Bekasi",
                "Jakarta",
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                4.0,
@@ -4502,8 +4502,8 @@
                "Bukittinggi",
                "Jakarta",
                "Jakarta",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Pulau Bangka",
                "Bukittinggi",
                "Padang",
@@ -4539,7 +4539,7 @@
                "Keluarga",
                "Keluarga",
                "Keluarga",
-               "",
+               "Keluarga",
                "Keluarga",
                "Keluarga",
                "Teman",
@@ -4569,7 +4569,7 @@
                "Feb 2017"
           ],
           "tipe_kunjungan": [
-               "",
+               "Keluarga",
                "Teman",
                "Teman"
           ]
@@ -4589,14 +4589,14 @@
           ],
           "asal_pengunjung": [
                "Jakarta",
-               "",
+               "Padang",
                "Bukittinggi",
-               "",
+               "Padang",
                "Kuala Lumpur",
                "Yogyakarta",
-               "",
+               "Padang",
                "Petaling Jaya",
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                4.0,
@@ -4625,8 +4625,8 @@
                "Pasangan",
                "Teman",
                "Bisnis",
-               "",
-               "",
+               "Keluarga",
+               "Keluarga",
                "Pasangan",
                "Pasangan",
                "Teman"
@@ -4685,8 +4685,8 @@
                "Yogyakarta",
                "Medan",
                "Jakarta",
-               "",
-               ""
+               "Padang",
+               "Padang"
           ],
           "rating_pengunjung": [
                4.0,
@@ -4726,7 +4726,7 @@
           "asal_pengunjung": [
                "Pekanbaru",
                "Batusangkar",
-               "",
+               "Padang",
                "Bukittinggi",
                "Tangerang Selatan",
                "Jakarta"
@@ -4768,7 +4768,7 @@
           ],
           "asal_pengunjung": [
                "Jakarta",
-               "",
+               "Padang",
                "Bukittinggi",
                "Padang",
                "Tangerang Selatan",
@@ -4794,7 +4794,7 @@
                "Keluarga",
                "Teman",
                "Teman",
-               "",
+               "Keluarga",
                "Keluarga",
                "Bisnis"
           ]
@@ -4844,7 +4844,7 @@
                "Pekanbaru",
                "Pekanbaru",
                "Sumenep",
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                4.0,
@@ -4861,7 +4861,7 @@
           "tipe_kunjungan": [
                "Keluarga",
                "Keluarga",
-               "",
+               "Keluarga",
                "Teman"
           ]
      },
@@ -4875,7 +4875,7 @@
           ],
           "asal_pengunjung": [
                "Agam",
-               "",
+               "Padang",
                "Balikpapan",
                "Seremban"
           ],
@@ -4910,7 +4910,7 @@
           "asal_pengunjung": [
                "Bukittinggi",
                "Jakarta",
-               "",
+               "Padang",
                "Bukittinggi",
                "Padang Panjang"
           ],
@@ -5018,7 +5018,7 @@
           "asal_pengunjung": [
                "Jakarta",
                "Jakarta",
-               "",
+               "Padang",
                "Pekanbaru"
           ],
           "rating_pengunjung": [
@@ -5051,7 +5051,7 @@
           "asal_pengunjung": [
                "Jakarta",
                "Jakarta",
-               "",
+               "Padang",
                "Tangerang Selatan"
           ],
           "rating_pengunjung": [
@@ -5069,7 +5069,7 @@
           "tipe_kunjungan": [
                "Sendiri",
                "Teman",
-               "",
+               "Keluarga",
                "Keluarga"
           ]
      },
@@ -5082,8 +5082,8 @@
                "Agusti Esden"
           ],
           "asal_pengunjung": [
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Padang",
                "Tangerang Selatan"
           ],
@@ -5139,7 +5139,7 @@
                "Agt 2019"
           ],
           "tipe_kunjungan": [
-               ""
+               "Keluarga"
           ]
      },
      {
@@ -5148,7 +5148,7 @@
                "Fasta'Iza N"
           ],
           "asal_pengunjung": [
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                4.0
@@ -5168,7 +5168,7 @@
           ],
           "asal_pengunjung": [
                "Riau",
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0,
@@ -5179,7 +5179,7 @@
                "Jun 2017"
           ],
           "tipe_kunjungan": [
-               "",
+               "Keluarga",
                "Bisnis"
           ]
      },
@@ -5194,7 +5194,7 @@
           "asal_pengunjung": [
                "Malang",
                "Riau",
-               "",
+               "Padang",
                "Bandung"
           ],
           "rating_pengunjung": [
@@ -5210,9 +5210,9 @@
                "Okt 2017"
           ],
           "tipe_kunjungan": [
-               "",
                "Keluarga",
-               "",
+               "Keluarga",
+               "Keluarga",
                "Teman"
           ]
      },
@@ -5226,7 +5226,7 @@
           "asal_pengunjung": [
                "Surabaya",
                "Pariaman",
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                4.0,
@@ -5250,16 +5250,16 @@
                "Sabai-Nan-Aluih"
           ],
           "asal_pengunjung": [
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                3.0
           ],
           "waktu_berkunjung": [
-               ""
+               "Jan 2023"
           ],
           "tipe_kunjungan": [
-               ""
+               "Keluarga"
           ]
      },
      {
@@ -5307,7 +5307,7 @@
           ],
           "asal_pengunjung": [
                "Pekanbaru",
-               "",
+               "Padang",
                "Jakarta",
                "Surabaya",
                "Padang",
@@ -5371,7 +5371,7 @@
                "Jul 2017"
           ],
           "tipe_kunjungan": [
-               ""
+               "Keluarga"
           ]
      },
      {
@@ -5456,7 +5456,7 @@
                "shafarul i"
           ],
           "asal_pengunjung": [
-               "",
+               "Padang",
                "Surabaya",
                "Bukittinggi"
           ],
@@ -5518,7 +5518,7 @@
                "Kermit Y"
           ],
           "asal_pengunjung": [
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0
@@ -5539,7 +5539,7 @@
                "shafarul i"
           ],
           "asal_pengunjung": [
-               "",
+               "Padang",
                "Surabaya",
                "Medan",
                "Bukittinggi"
@@ -5589,9 +5589,9 @@
                "Ganda S"
           ],
           "asal_pengunjung": [
-               "",
+               "Padang",
                "Bukittinggi",
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                3.0,
@@ -5624,14 +5624,14 @@
           ],
           "asal_pengunjung": [
                "Medan",
-               "",
+               "Padang",
                "Madrid",
                "Budapest",
                "Montreal",
-               "",
-               "",
-               "",
-               ""
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0,
@@ -5659,9 +5659,9 @@
                "Teman",
                "Sendiri",
                "Sendiri",
-               "",
+               "Keluarga",
                "Pasangan",
-               "",
+               "Keluarga",
                "Keluarga",
                "Pasangan",
                "Teman"
@@ -5741,15 +5741,15 @@
                "Rahidah S"
           ],
           "asal_pengunjung": [
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
                "Singapura"
           ],
           "rating_pengunjung": [
@@ -5782,9 +5782,9 @@
                "Teman",
                "Teman",
                "Teman",
-               "",
                "Keluarga",
-               "",
+               "Keluarga",
+               "Keluarga",
                "Pasangan",
                "Pasangan"
           ]
@@ -5854,7 +5854,7 @@
                "Fasta'Iza N"
           ],
           "asal_pengunjung": [
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0
@@ -5993,8 +5993,8 @@
           ],
           "asal_pengunjung": [
                "Jakarta",
-               "",
-               ""
+               "Padang",
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0,
@@ -6007,7 +6007,7 @@
                "Mar 2016"
           ],
           "tipe_kunjungan": [
-               "",
+               "Keluarga",
                "Sendiri",
                "Keluarga"
           ]
@@ -6046,14 +6046,14 @@
           ],
           "asal_pengunjung": [
                "Bukittinggi",
-               "",
+               "Padang",
                "Padang",
                "Bukittinggi",
-               "",
+               "Padang",
                "Tangerang Selatan",
                "Kuta",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Jakarta"
           ],
           "rating_pengunjung": [
@@ -6081,11 +6081,11 @@
                "Mar 2017"
           ],
           "tipe_kunjungan": [
-               "",
+               "Keluarga",
                "Teman",
                "Keluarga",
                "Sendiri",
-               "",
+               "Keluarga",
                "Teman",
                "Pasangan",
                "Keluarga",
@@ -6127,12 +6127,12 @@
           ],
           "asal_pengunjung": [
                "Bukittinggi",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Denpasar",
                "Singapura",
                "Jakarta",
-               "",
+               "Padang",
                "Jakarta",
                "Amersfoort",
                "Paris"
@@ -6154,7 +6154,7 @@
                "Jan 2018",
                "Mei 2016",
                "Jan 2016",
-               "",
+               "Jan 2023",
                "Agt 2014",
                "Mar 2014",
                "Jan 2020",
@@ -6162,16 +6162,16 @@
                "Agt 2019"
           ],
           "tipe_kunjungan": [
-               "",
+               "Keluarga",
                "Teman",
                "Pasangan",
                "Pasangan",
-               "",
+               "Keluarga",
                "Teman",
-               "",
                "Keluarga",
                "Keluarga",
-               ""
+               "Keluarga",
+               "Keluarga"
           ]
      },
      {
@@ -6190,15 +6190,15 @@
           ],
           "asal_pengunjung": [
                "Bukittinggi",
-               "",
+               "Padang",
                "Pulau Penang",
                "Grindsted",
-               "",
+               "Padang",
                "Kempten",
-               "",
+               "Padang",
                "Huddersfield",
                "Amsterdam",
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0,
@@ -6214,7 +6214,7 @@
           ],
           "waktu_berkunjung": [
                "Jul 2018",
-               "",
+               "Jan 2023",
                "Agt 2019",
                "Mar 2019",
                "Mar 2019",
@@ -6225,8 +6225,8 @@
                "Okt 2018"
           ],
           "tipe_kunjungan": [
-               "",
-               "",
+               "Keluarga",
+               "Keluarga",
                "Pasangan",
                "Pasangan",
                "Teman",
@@ -6252,16 +6252,16 @@
                "Chris"
           ],
           "asal_pengunjung": [
-               "",
-               "",
-               "",
+               "Padang",
+               "Padang",
+               "Padang",
                "Hellendoorn",
-               "",
-               "",
-               "",
-               "",
-               "",
-               ""
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang"
           ],
           "rating_pengunjung": [
                4.0,
@@ -6290,10 +6290,10 @@
           "tipe_kunjungan": [
                "Sendiri",
                "Teman",
-               "",
+               "Keluarga",
                "Sendiri",
                "Keluarga",
-               "",
+               "Keluarga",
                "Keluarga",
                "Teman",
                "Teman",
@@ -6323,7 +6323,7 @@
                "Padang Panjang",
                "Antwerpen",
                "Manila",
-               "",
+               "Padang",
                "Jakarta"
           ],
           "rating_pengunjung": [
@@ -6352,12 +6352,12 @@
           ],
           "tipe_kunjungan": [
                "Keluarga",
-               "",
+               "Keluarga",
                "Teman",
-               "",
+               "Keluarga",
                "Teman",
                "Teman",
-               "",
+               "Keluarga",
                "Pasangan",
                "Teman",
                "Keluarga"
@@ -6379,9 +6379,9 @@
           ],
           "asal_pengunjung": [
                "Depok",
-               "",
-               "",
-               "",
+               "Padang",
+               "Padang",
+               "Padang",
                "Jakarta",
                "Tangerang Selatan",
                "Jakarta",
@@ -6422,7 +6422,7 @@
                "Sendiri",
                "Teman",
                "Bisnis",
-               "",
+               "Keluarga",
                "Keluarga"
           ]
      },
@@ -6435,8 +6435,8 @@
           ],
           "asal_pengunjung": [
                "Banda Aceh",
-               "",
-               ""
+               "Padang",
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0,
@@ -6460,7 +6460,7 @@
                "Vivyanti"
           ],
           "asal_pengunjung": [
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0
@@ -6482,11 +6482,11 @@
                "Kathleen C"
           ],
           "asal_pengunjung": [
-               "",
                "Padang",
-               "",
+               "Padang",
+               "Padang",
                "Bellingen",
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                1.0,
@@ -6506,7 +6506,7 @@
                "Sendiri",
                "Keluarga",
                "Bisnis",
-               "",
+               "Keluarga",
                "Teman"
           ]
      },
@@ -6538,9 +6538,9 @@
           ],
           "asal_pengunjung": [
                "Banda Aceh",
-               "",
+               "Padang",
                "Jakarta",
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0,
@@ -6567,7 +6567,7 @@
                "PoetZ"
           ],
           "asal_pengunjung": [
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                4.0
@@ -6576,7 +6576,7 @@
                "Agt 2016"
           ],
           "tipe_kunjungan": [
-               ""
+               "Keluarga"
           ]
      },
      {
@@ -6591,11 +6591,11 @@
           ],
           "asal_pengunjung": [
                "Bukittinggi",
-               "",
+               "Padang",
                "Yeovil",
-               "",
-               "",
-               ""
+               "Padang",
+               "Padang",
+               "Padang"
           ],
           "rating_pengunjung": [
                3.0,
@@ -6637,16 +6637,16 @@
                "claire6"
           ],
           "asal_pengunjung": [
-               "",
-               "",
-               "",
-               "",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
                "Arnhem",
                "Kuala Lumpur",
-               "",
-               "",
-               "",
-               ""
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0,
@@ -6673,9 +6673,9 @@
                "Mar 2018"
           ],
           "tipe_kunjungan": [
-               "",
+               "Keluarga",
                "Teman",
-               "",
+               "Keluarga",
                "Keluarga",
                "Keluarga",
                "Pasangan",
@@ -6693,9 +6693,9 @@
                "Sarah johns"
           ],
           "asal_pengunjung": [
-               "",
-               "",
-               ""
+               "Padang",
+               "Padang",
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0,
@@ -6719,7 +6719,7 @@
                "azah A"
           ],
           "asal_pengunjung": [
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                2.0
@@ -6746,7 +6746,7 @@
                "Jun 2023"
           ],
           "tipe_kunjungan": [
-               ""
+               "Keluarga"
           ]
      },
      {
@@ -6764,16 +6764,16 @@
                "Arie Elang Lembah"
           ],
           "asal_pengunjung": [
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               ""
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0,
@@ -6823,10 +6823,10 @@
           ],
           "asal_pengunjung": [
                "Payakumbuh",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Bridgwater",
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                4.0,
@@ -6843,7 +6843,7 @@
                "Okt 2016"
           ],
           "tipe_kunjungan": [
-               "",
+               "Keluarga",
                "Pasangan",
                "Bisnis",
                "Pasangan",
@@ -6865,15 +6865,15 @@
                "indraamir"
           ],
           "asal_pengunjung": [
-               "",
-               "",
-               "",
+               "Padang",
+               "Padang",
+               "Padang",
                "Jakarta",
-               "",
-               "",
-               "",
-               "",
-               "",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
                "Jakarta"
           ],
           "rating_pengunjung": [
@@ -6906,7 +6906,7 @@
                "Teman",
                "Teman",
                "Bisnis",
-               "",
+               "Keluarga",
                "Sendiri",
                "Keluarga",
                "Teman",
@@ -6923,8 +6923,8 @@
           ],
           "asal_pengunjung": [
                "Namyangju",
-               "",
-               "",
+               "Padang",
+               "Padang",
                "Padang"
           ],
           "rating_pengunjung": [
@@ -6934,16 +6934,16 @@
                5.0
           ],
           "waktu_berkunjung": [
-               "",
+               "Jan 2023",
                "Mei 2019",
                "Mei 2019",
                "Sep 2019"
           ],
           "tipe_kunjungan": [
-               "",
+               "Keluarga",
                "Sendiri",
                "Sendiri",
-               ""
+               "Keluarga"
           ]
      },
      {
@@ -6961,16 +6961,16 @@
                "Rita W"
           ],
           "asal_pengunjung": [
-               "",
+               "Padang",
                "Singapura",
-               "",
+               "Padang",
                "Cyberjaya",
-               "",
+               "Padang",
                "Australia Barat",
                "Pulau Penang",
-               "",
-               "",
-               ""
+               "Padang",
+               "Padang",
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0,
@@ -7016,7 +7016,7 @@
                "Coal Coast Movement"
           ],
           "asal_pengunjung": [
-               "",
+               "Padang",
                "Thirroul"
           ],
           "rating_pengunjung": [
@@ -7028,8 +7028,8 @@
                "Apr 2020"
           ],
           "tipe_kunjungan": [
-               "",
-               ""
+               "Keluarga",
+               "Keluarga"
           ]
      },
      {
@@ -7038,7 +7038,7 @@
                "Hatikasih"
           ],
           "asal_pengunjung": [
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                4.0
@@ -7061,10 +7061,10 @@
           ],
           "asal_pengunjung": [
                "Bukittinggi",
-               "",
-               "",
-               "",
-               ""
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0,
@@ -7094,16 +7094,16 @@
                "Claris Lee W"
           ],
           "asal_pengunjung": [
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0
           ],
           "waktu_berkunjung": [
-               ""
+               "Jan 2023"
           ],
           "tipe_kunjungan": [
-               ""
+               "Keluarga"
           ]
      },
      {
@@ -7112,7 +7112,7 @@
                "Sella Chalia"
           ],
           "asal_pengunjung": [
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0
@@ -7121,7 +7121,7 @@
                "Okt 2018"
           ],
           "tipe_kunjungan": [
-               ""
+               "Keluarga"
           ]
      },
      {
@@ -7130,7 +7130,7 @@
                "Janelle O"
           ],
           "asal_pengunjung": [
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0
@@ -7157,7 +7157,7 @@
                "Mar 2019"
           ],
           "tipe_kunjungan": [
-               ""
+               "Keluarga"
           ]
      },
      {
@@ -7169,7 +7169,7 @@
                "hkrishna2014"
           ],
           "asal_pengunjung": [
-               "",
+               "Padang",
                "Bukittinggi",
                "Padang",
                "Padang"
@@ -7235,7 +7235,7 @@
                "imam"
           ],
           "asal_pengunjung": [
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                5.0
@@ -7253,7 +7253,7 @@
                "Reily S"
           ],
           "asal_pengunjung": [
-               ""
+               "Padang"
           ],
           "rating_pengunjung": [
                2.0

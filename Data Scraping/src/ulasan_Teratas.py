@@ -87,16 +87,16 @@ while (page <= 180) :
 
             # Lakukan cleaning data agar akun yang tidak mencantumkan daerah asal tidak masuk
             if ((asal_pengunjung).__contains__('kontribusi')) :
-                asal_pengunjung = ''
+                asal_pengunjung = 'Padang'
             rating_pengunjung = float(cek.find('svg', 'UctUV d H0')['aria-label'].split(' ')[0].replace(',', '.'))
             try :
                 waktu_berkunjung = cek.find('div', 'RpeCd').text.split(' • ')[0]
             except :
-                waktu_berkunjung = ''
+                waktu_berkunjung = 'Jan 2023'
             try :
                 tipe_kunjungan = cek.find('div', 'RpeCd').text.split(' • ')[1]
             except :
-                tipe_kunjungan = ''
+                tipe_kunjungan = 'Keluarga'
 
             # Masukkan setiap informasi ulasan pengunjung ke array per objek
             list_nama_akun_pengunjung_per_objek.append(nama_akun_pengunjung)
