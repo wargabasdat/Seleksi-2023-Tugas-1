@@ -1,0 +1,2002 @@
+[
+  {
+    "Pos":"1",
+    "No":"1",
+    "Driver":"Max Verstappen",
+    "Car":"Red Bull Racing Honda RBPT",
+    "Laps":"52",
+    "Time\/Retired":"1:25:16.938",
+    "PTS":"26",
+    "Race-ID":"1214"
+  },
+  {
+    "Pos":"2",
+    "No":"4",
+    "Driver":"Lando Norris",
+    "Car":"McLaren Mercedes",
+    "Laps":"52",
+    "Time\/Retired":"+3.798s",
+    "PTS":"18",
+    "Race-ID":"1214"
+  },
+  {
+    "Pos":"3",
+    "No":"44",
+    "Driver":"Lewis Hamilton",
+    "Car":"Mercedes",
+    "Laps":"52",
+    "Time\/Retired":"+6.783s",
+    "PTS":"15",
+    "Race-ID":"1214"
+  },
+  {
+    "Pos":"4",
+    "No":"81",
+    "Driver":"Oscar Piastri",
+    "Car":"McLaren Mercedes",
+    "Laps":"52",
+    "Time\/Retired":"+7.776s",
+    "PTS":"12",
+    "Race-ID":"1214"
+  },
+  {
+    "Pos":"5",
+    "No":"63",
+    "Driver":"George Russell",
+    "Car":"Mercedes",
+    "Laps":"52",
+    "Time\/Retired":"+11.206s",
+    "PTS":"10",
+    "Race-ID":"1214"
+  },
+  {
+    "Pos":"6",
+    "No":"11",
+    "Driver":"Sergio Perez",
+    "Car":"Red Bull Racing Honda RBPT",
+    "Laps":"52",
+    "Time\/Retired":"+12.882s",
+    "PTS":"8",
+    "Race-ID":"1214"
+  },
+  {
+    "Pos":"7",
+    "No":"14",
+    "Driver":"Fernando Alonso",
+    "Car":"Aston Martin Aramco Mercedes",
+    "Laps":"52",
+    "Time\/Retired":"+17.193s",
+    "PTS":"6",
+    "Race-ID":"1214"
+  },
+  {
+    "Pos":"8",
+    "No":"23",
+    "Driver":"Alexander Albon",
+    "Car":"Williams Mercedes",
+    "Laps":"52",
+    "Time\/Retired":"+17.878s",
+    "PTS":"4",
+    "Race-ID":"1214"
+  },
+  {
+    "Pos":"9",
+    "No":"16",
+    "Driver":"Charles Leclerc",
+    "Car":"Ferrari",
+    "Laps":"52",
+    "Time\/Retired":"+18.689s",
+    "PTS":"2",
+    "Race-ID":"1214"
+  },
+  {
+    "Pos":"10",
+    "No":"55",
+    "Driver":"Carlos Sainz",
+    "Car":"Ferrari",
+    "Laps":"52",
+    "Time\/Retired":"+19.448s",
+    "PTS":"1",
+    "Race-ID":"1214"
+  },
+  {
+    "Pos":"11",
+    "No":"2",
+    "Driver":"Logan Sargeant",
+    "Car":"Williams Mercedes",
+    "Laps":"52",
+    "Time\/Retired":"+23.632s",
+    "PTS":"0",
+    "Race-ID":"1214"
+  },
+  {
+    "Pos":"12",
+    "No":"77",
+    "Driver":"Valtteri Bottas",
+    "Car":"Alfa Romeo Ferrari",
+    "Laps":"52",
+    "Time\/Retired":"+25.830s",
+    "PTS":"0",
+    "Race-ID":"1214"
+  },
+  {
+    "Pos":"13",
+    "No":"27",
+    "Driver":"Nico Hulkenberg",
+    "Car":"Haas Ferrari",
+    "Laps":"52",
+    "Time\/Retired":"+26.663s",
+    "PTS":"0",
+    "Race-ID":"1214"
+  },
+  {
+    "Pos":"14",
+    "No":"18",
+    "Driver":"Lance Stroll",
+    "Car":"Aston Martin Aramco Mercedes",
+    "Laps":"52",
+    "Time\/Retired":"+27.483s",
+    "PTS":"0",
+    "Race-ID":"1214"
+  },
+  {
+    "Pos":"15",
+    "No":"24",
+    "Driver":"Zhou Guanyu",
+    "Car":"Alfa Romeo Ferrari",
+    "Laps":"52",
+    "Time\/Retired":"+29.820s",
+    "PTS":"0",
+    "Race-ID":"1214"
+  },
+  {
+    "Pos":"16",
+    "No":"22",
+    "Driver":"Yuki Tsunoda",
+    "Car":"AlphaTauri Honda RBPT",
+    "Laps":"52",
+    "Time\/Retired":"+31.225s",
+    "PTS":"0",
+    "Race-ID":"1214"
+  },
+  {
+    "Pos":"17",
+    "No":"21",
+    "Driver":"Nyck De Vries",
+    "Car":"AlphaTauri Honda RBPT",
+    "Laps":"52",
+    "Time\/Retired":"+33.128s",
+    "PTS":"0",
+    "Race-ID":"1214"
+  },
+  {
+    "Pos":"18",
+    "No":"10",
+    "Driver":"Pierre Gasly",
+    "Car":"Alpine Renault",
+    "Laps":"46",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1214"
+  },
+  {
+    "Pos":"NC",
+    "No":"20",
+    "Driver":"Kevin Magnussen",
+    "Car":"Haas Ferrari",
+    "Laps":"31",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1214"
+  },
+  {
+    "Pos":"NC",
+    "No":"31",
+    "Driver":"Esteban Ocon",
+    "Car":"Alpine Renault",
+    "Laps":"9",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1214"
+  },
+  {
+    "Pos":"1",
+    "No":"1",
+    "Driver":"Max Verstappen",
+    "Car":"Red Bull Racing Honda RBPT",
+    "Laps":"71",
+    "Time\/Retired":"1:25:33.607",
+    "PTS":"26",
+    "Race-ID":"1213"
+  },
+  {
+    "Pos":"2",
+    "No":"16",
+    "Driver":"Charles Leclerc",
+    "Car":"Ferrari",
+    "Laps":"71",
+    "Time\/Retired":"+5.155s",
+    "PTS":"18",
+    "Race-ID":"1213"
+  },
+  {
+    "Pos":"3",
+    "No":"11",
+    "Driver":"Sergio Perez",
+    "Car":"Red Bull Racing Honda RBPT",
+    "Laps":"71",
+    "Time\/Retired":"+17.188s",
+    "PTS":"15",
+    "Race-ID":"1213"
+  },
+  {
+    "Pos":"4",
+    "No":"4",
+    "Driver":"Lando Norris",
+    "Car":"McLaren Mercedes",
+    "Laps":"71",
+    "Time\/Retired":"+26.327s",
+    "PTS":"12",
+    "Race-ID":"1213"
+  },
+  {
+    "Pos":"5",
+    "No":"14",
+    "Driver":"Fernando Alonso",
+    "Car":"Aston Martin Aramco Mercedes",
+    "Laps":"71",
+    "Time\/Retired":"+30.317s",
+    "PTS":"10",
+    "Race-ID":"1213"
+  },
+  {
+    "Pos":"6",
+    "No":"55",
+    "Driver":"Carlos Sainz",
+    "Car":"Ferrari",
+    "Laps":"71",
+    "Time\/Retired":"+31.377s",
+    "PTS":"8",
+    "Race-ID":"1213"
+  },
+  {
+    "Pos":"7",
+    "No":"63",
+    "Driver":"George Russell",
+    "Car":"Mercedes",
+    "Laps":"71",
+    "Time\/Retired":"+48.403s",
+    "PTS":"6",
+    "Race-ID":"1213"
+  },
+  {
+    "Pos":"8",
+    "No":"44",
+    "Driver":"Lewis Hamilton",
+    "Car":"Mercedes",
+    "Laps":"71",
+    "Time\/Retired":"+49.196s",
+    "PTS":"4",
+    "Race-ID":"1213"
+  },
+  {
+    "Pos":"9",
+    "No":"18",
+    "Driver":"Lance Stroll",
+    "Car":"Aston Martin Aramco Mercedes",
+    "Laps":"71",
+    "Time\/Retired":"+59.043s",
+    "PTS":"2",
+    "Race-ID":"1213"
+  },
+  {
+    "Pos":"10",
+    "No":"10",
+    "Driver":"Pierre Gasly",
+    "Car":"Alpine Renault",
+    "Laps":"71",
+    "Time\/Retired":"+67.667s",
+    "PTS":"1",
+    "Race-ID":"1213"
+  },
+  {
+    "Pos":"11",
+    "No":"23",
+    "Driver":"Alexander Albon",
+    "Car":"Williams Mercedes",
+    "Laps":"71",
+    "Time\/Retired":"+79.767s",
+    "PTS":"0",
+    "Race-ID":"1213"
+  },
+  {
+    "Pos":"12",
+    "No":"24",
+    "Driver":"Zhou Guanyu",
+    "Car":"Alfa Romeo Ferrari",
+    "Laps":"70",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1213"
+  },
+  {
+    "Pos":"13",
+    "No":"2",
+    "Driver":"Logan Sargeant",
+    "Car":"Williams Mercedes",
+    "Laps":"70",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1213"
+  },
+  {
+    "Pos":"14",
+    "No":"31",
+    "Driver":"Esteban Ocon",
+    "Car":"Alpine Renault",
+    "Laps":"70",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1213"
+  },
+  {
+    "Pos":"15",
+    "No":"77",
+    "Driver":"Valtteri Bottas",
+    "Car":"Alfa Romeo Ferrari",
+    "Laps":"70",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1213"
+  },
+  {
+    "Pos":"16",
+    "No":"81",
+    "Driver":"Oscar Piastri",
+    "Car":"McLaren Mercedes",
+    "Laps":"70",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1213"
+  },
+  {
+    "Pos":"17",
+    "No":"21",
+    "Driver":"Nyck De Vries",
+    "Car":"AlphaTauri Honda RBPT",
+    "Laps":"70",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1213"
+  },
+  {
+    "Pos":"18",
+    "No":"20",
+    "Driver":"Kevin Magnussen",
+    "Car":"Haas Ferrari",
+    "Laps":"70",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1213"
+  },
+  {
+    "Pos":"19",
+    "No":"22",
+    "Driver":"Yuki Tsunoda",
+    "Car":"AlphaTauri Honda RBPT",
+    "Laps":"70",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1213"
+  },
+  {
+    "Pos":"NC",
+    "No":"27",
+    "Driver":"Nico Hulkenberg",
+    "Car":"Haas Ferrari",
+    "Laps":"12",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1213"
+  },
+  {
+    "Pos":"1",
+    "No":"1",
+    "Driver":"Max Verstappen",
+    "Car":"Red Bull Racing Honda RBPT",
+    "Laps":"70",
+    "Time\/Retired":"1:33:58.348",
+    "PTS":"25",
+    "Race-ID":"1212"
+  },
+  {
+    "Pos":"2",
+    "No":"14",
+    "Driver":"Fernando Alonso",
+    "Car":"Aston Martin Aramco Mercedes",
+    "Laps":"70",
+    "Time\/Retired":"+9.570s",
+    "PTS":"18",
+    "Race-ID":"1212"
+  },
+  {
+    "Pos":"3",
+    "No":"44",
+    "Driver":"Lewis Hamilton",
+    "Car":"Mercedes",
+    "Laps":"70",
+    "Time\/Retired":"+14.168s",
+    "PTS":"15",
+    "Race-ID":"1212"
+  },
+  {
+    "Pos":"4",
+    "No":"16",
+    "Driver":"Charles Leclerc",
+    "Car":"Ferrari",
+    "Laps":"70",
+    "Time\/Retired":"+18.648s",
+    "PTS":"12",
+    "Race-ID":"1212"
+  },
+  {
+    "Pos":"5",
+    "No":"55",
+    "Driver":"Carlos Sainz",
+    "Car":"Ferrari",
+    "Laps":"70",
+    "Time\/Retired":"+21.540s",
+    "PTS":"10",
+    "Race-ID":"1212"
+  },
+  {
+    "Pos":"6",
+    "No":"11",
+    "Driver":"Sergio Perez",
+    "Car":"Red Bull Racing Honda RBPT",
+    "Laps":"70",
+    "Time\/Retired":"+51.028s",
+    "PTS":"9",
+    "Race-ID":"1212"
+  },
+  {
+    "Pos":"7",
+    "No":"23",
+    "Driver":"Alexander Albon",
+    "Car":"Williams Mercedes",
+    "Laps":"70",
+    "Time\/Retired":"+60.813s",
+    "PTS":"6",
+    "Race-ID":"1212"
+  },
+  {
+    "Pos":"8",
+    "No":"31",
+    "Driver":"Esteban Ocon",
+    "Car":"Alpine Renault",
+    "Laps":"70",
+    "Time\/Retired":"+61.692s",
+    "PTS":"4",
+    "Race-ID":"1212"
+  },
+  {
+    "Pos":"9",
+    "No":"18",
+    "Driver":"Lance Stroll",
+    "Car":"Aston Martin Aramco Mercedes",
+    "Laps":"70",
+    "Time\/Retired":"+64.402s",
+    "PTS":"2",
+    "Race-ID":"1212"
+  },
+  {
+    "Pos":"10",
+    "No":"77",
+    "Driver":"Valtteri Bottas",
+    "Car":"Alfa Romeo Ferrari",
+    "Laps":"70",
+    "Time\/Retired":"+64.432s",
+    "PTS":"1",
+    "Race-ID":"1212"
+  },
+  {
+    "Pos":"11",
+    "No":"81",
+    "Driver":"Oscar Piastri",
+    "Car":"McLaren Mercedes",
+    "Laps":"70",
+    "Time\/Retired":"+65.101s",
+    "PTS":"0",
+    "Race-ID":"1212"
+  },
+  {
+    "Pos":"12",
+    "No":"10",
+    "Driver":"Pierre Gasly",
+    "Car":"Alpine Renault",
+    "Laps":"70",
+    "Time\/Retired":"+65.249s",
+    "PTS":"0",
+    "Race-ID":"1212"
+  },
+  {
+    "Pos":"13",
+    "No":"4",
+    "Driver":"Lando Norris",
+    "Car":"McLaren Mercedes",
+    "Laps":"70",
+    "Time\/Retired":"+68.363s",
+    "PTS":"0",
+    "Race-ID":"1212"
+  },
+  {
+    "Pos":"14",
+    "No":"22",
+    "Driver":"Yuki Tsunoda",
+    "Car":"AlphaTauri Honda RBPT",
+    "Laps":"70",
+    "Time\/Retired":"+73.423s",
+    "PTS":"0",
+    "Race-ID":"1212"
+  },
+  {
+    "Pos":"15",
+    "No":"27",
+    "Driver":"Nico Hulkenberg",
+    "Car":"Haas Ferrari",
+    "Laps":"69",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1212"
+  },
+  {
+    "Pos":"16",
+    "No":"24",
+    "Driver":"Zhou Guanyu",
+    "Car":"Alfa Romeo Ferrari",
+    "Laps":"69",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1212"
+  },
+  {
+    "Pos":"17",
+    "No":"20",
+    "Driver":"Kevin Magnussen",
+    "Car":"Haas Ferrari",
+    "Laps":"69",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1212"
+  },
+  {
+    "Pos":"18",
+    "No":"21",
+    "Driver":"Nyck De Vries",
+    "Car":"AlphaTauri Honda RBPT",
+    "Laps":"69",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1212"
+  },
+  {
+    "Pos":"NC",
+    "No":"63",
+    "Driver":"George Russell",
+    "Car":"Mercedes",
+    "Laps":"53",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1212"
+  },
+  {
+    "Pos":"NC",
+    "No":"2",
+    "Driver":"Logan Sargeant",
+    "Car":"Williams Mercedes",
+    "Laps":"6",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1212"
+  },
+  {
+    "Pos":"1",
+    "No":"1",
+    "Driver":"Max Verstappen",
+    "Car":"Red Bull Racing Honda RBPT",
+    "Laps":"66",
+    "Time\/Retired":"1:27:57.940",
+    "PTS":"26",
+    "Race-ID":"1211"
+  },
+  {
+    "Pos":"2",
+    "No":"44",
+    "Driver":"Lewis Hamilton",
+    "Car":"Mercedes",
+    "Laps":"66",
+    "Time\/Retired":"+24.090s",
+    "PTS":"18",
+    "Race-ID":"1211"
+  },
+  {
+    "Pos":"3",
+    "No":"63",
+    "Driver":"George Russell",
+    "Car":"Mercedes",
+    "Laps":"66",
+    "Time\/Retired":"+32.389s",
+    "PTS":"15",
+    "Race-ID":"1211"
+  },
+  {
+    "Pos":"4",
+    "No":"11",
+    "Driver":"Sergio Perez",
+    "Car":"Red Bull Racing Honda RBPT",
+    "Laps":"66",
+    "Time\/Retired":"+35.812s",
+    "PTS":"12",
+    "Race-ID":"1211"
+  },
+  {
+    "Pos":"5",
+    "No":"55",
+    "Driver":"Carlos Sainz",
+    "Car":"Ferrari",
+    "Laps":"66",
+    "Time\/Retired":"+45.698s",
+    "PTS":"10",
+    "Race-ID":"1211"
+  },
+  {
+    "Pos":"6",
+    "No":"18",
+    "Driver":"Lance Stroll",
+    "Car":"Aston Martin Aramco Mercedes",
+    "Laps":"66",
+    "Time\/Retired":"+63.320s",
+    "PTS":"8",
+    "Race-ID":"1211"
+  },
+  {
+    "Pos":"7",
+    "No":"14",
+    "Driver":"Fernando Alonso",
+    "Car":"Aston Martin Aramco Mercedes",
+    "Laps":"66",
+    "Time\/Retired":"+64.127s",
+    "PTS":"6",
+    "Race-ID":"1211"
+  },
+  {
+    "Pos":"8",
+    "No":"31",
+    "Driver":"Esteban Ocon",
+    "Car":"Alpine Renault",
+    "Laps":"66",
+    "Time\/Retired":"+69.242s",
+    "PTS":"4",
+    "Race-ID":"1211"
+  },
+  {
+    "Pos":"9",
+    "No":"24",
+    "Driver":"Zhou Guanyu",
+    "Car":"Alfa Romeo Ferrari",
+    "Laps":"66",
+    "Time\/Retired":"+71.878s",
+    "PTS":"2",
+    "Race-ID":"1211"
+  },
+  {
+    "Pos":"10",
+    "No":"10",
+    "Driver":"Pierre Gasly",
+    "Car":"Alpine Renault",
+    "Laps":"66",
+    "Time\/Retired":"+73.530s",
+    "PTS":"1",
+    "Race-ID":"1211"
+  },
+  {
+    "Pos":"11",
+    "No":"16",
+    "Driver":"Charles Leclerc",
+    "Car":"Ferrari",
+    "Laps":"66",
+    "Time\/Retired":"+74.419s",
+    "PTS":"0",
+    "Race-ID":"1211"
+  },
+  {
+    "Pos":"12",
+    "No":"22",
+    "Driver":"Yuki Tsunoda",
+    "Car":"AlphaTauri Honda RBPT",
+    "Laps":"66",
+    "Time\/Retired":"+75.416s",
+    "PTS":"0",
+    "Race-ID":"1211"
+  },
+  {
+    "Pos":"13",
+    "No":"81",
+    "Driver":"Oscar Piastri",
+    "Car":"McLaren Mercedes",
+    "Laps":"65",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1211"
+  },
+  {
+    "Pos":"14",
+    "No":"21",
+    "Driver":"Nyck De Vries",
+    "Car":"AlphaTauri Honda RBPT",
+    "Laps":"65",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1211"
+  },
+  {
+    "Pos":"15",
+    "No":"27",
+    "Driver":"Nico Hulkenberg",
+    "Car":"Haas Ferrari",
+    "Laps":"65",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1211"
+  },
+  {
+    "Pos":"16",
+    "No":"23",
+    "Driver":"Alexander Albon",
+    "Car":"Williams Mercedes",
+    "Laps":"65",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1211"
+  },
+  {
+    "Pos":"17",
+    "No":"4",
+    "Driver":"Lando Norris",
+    "Car":"McLaren Mercedes",
+    "Laps":"65",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1211"
+  },
+  {
+    "Pos":"18",
+    "No":"20",
+    "Driver":"Kevin Magnussen",
+    "Car":"Haas Ferrari",
+    "Laps":"65",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1211"
+  },
+  {
+    "Pos":"19",
+    "No":"77",
+    "Driver":"Valtteri Bottas",
+    "Car":"Alfa Romeo Ferrari",
+    "Laps":"65",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1211"
+  },
+  {
+    "Pos":"20",
+    "No":"2",
+    "Driver":"Logan Sargeant",
+    "Car":"Williams Mercedes",
+    "Laps":"65",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1211"
+  },
+  {
+    "Pos":"1",
+    "No":"1",
+    "Driver":"Max Verstappen",
+    "Car":"Red Bull Racing Honda RBPT",
+    "Laps":"78",
+    "Time\/Retired":"1:48:51.980",
+    "PTS":"25",
+    "Race-ID":"1210"
+  },
+  {
+    "Pos":"2",
+    "No":"14",
+    "Driver":"Fernando Alonso",
+    "Car":"Aston Martin Aramco Mercedes",
+    "Laps":"78",
+    "Time\/Retired":"+27.921s",
+    "PTS":"18",
+    "Race-ID":"1210"
+  },
+  {
+    "Pos":"3",
+    "No":"31",
+    "Driver":"Esteban Ocon",
+    "Car":"Alpine Renault",
+    "Laps":"78",
+    "Time\/Retired":"+36.990s",
+    "PTS":"15",
+    "Race-ID":"1210"
+  },
+  {
+    "Pos":"4",
+    "No":"44",
+    "Driver":"Lewis Hamilton",
+    "Car":"Mercedes",
+    "Laps":"78",
+    "Time\/Retired":"+39.062s",
+    "PTS":"13",
+    "Race-ID":"1210"
+  },
+  {
+    "Pos":"5",
+    "No":"63",
+    "Driver":"George Russell",
+    "Car":"Mercedes",
+    "Laps":"78",
+    "Time\/Retired":"+56.284s",
+    "PTS":"10",
+    "Race-ID":"1210"
+  },
+  {
+    "Pos":"6",
+    "No":"16",
+    "Driver":"Charles Leclerc",
+    "Car":"Ferrari",
+    "Laps":"78",
+    "Time\/Retired":"+61.890s",
+    "PTS":"8",
+    "Race-ID":"1210"
+  },
+  {
+    "Pos":"7",
+    "No":"10",
+    "Driver":"Pierre Gasly",
+    "Car":"Alpine Renault",
+    "Laps":"78",
+    "Time\/Retired":"+62.362s",
+    "PTS":"6",
+    "Race-ID":"1210"
+  },
+  {
+    "Pos":"8",
+    "No":"55",
+    "Driver":"Carlos Sainz",
+    "Car":"Ferrari",
+    "Laps":"78",
+    "Time\/Retired":"+63.391s",
+    "PTS":"4",
+    "Race-ID":"1210"
+  },
+  {
+    "Pos":"9",
+    "No":"4",
+    "Driver":"Lando Norris",
+    "Car":"McLaren Mercedes",
+    "Laps":"77",
+    "Time\/Retired":"+1 lap",
+    "PTS":"2",
+    "Race-ID":"1210"
+  },
+  {
+    "Pos":"10",
+    "No":"81",
+    "Driver":"Oscar Piastri",
+    "Car":"McLaren Mercedes",
+    "Laps":"77",
+    "Time\/Retired":"+1 lap",
+    "PTS":"1",
+    "Race-ID":"1210"
+  },
+  {
+    "Pos":"11",
+    "No":"77",
+    "Driver":"Valtteri Bottas",
+    "Car":"Alfa Romeo Ferrari",
+    "Laps":"77",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1210"
+  },
+  {
+    "Pos":"12",
+    "No":"21",
+    "Driver":"Nyck De Vries",
+    "Car":"AlphaTauri Honda RBPT",
+    "Laps":"77",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1210"
+  },
+  {
+    "Pos":"13",
+    "No":"24",
+    "Driver":"Zhou Guanyu",
+    "Car":"Alfa Romeo Ferrari",
+    "Laps":"77",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1210"
+  },
+  {
+    "Pos":"14",
+    "No":"23",
+    "Driver":"Alexander Albon",
+    "Car":"Williams Mercedes",
+    "Laps":"77",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1210"
+  },
+  {
+    "Pos":"15",
+    "No":"22",
+    "Driver":"Yuki Tsunoda",
+    "Car":"AlphaTauri Honda RBPT",
+    "Laps":"76",
+    "Time\/Retired":"+2 laps",
+    "PTS":"0",
+    "Race-ID":"1210"
+  },
+  {
+    "Pos":"16",
+    "No":"11",
+    "Driver":"Sergio Perez",
+    "Car":"Red Bull Racing Honda RBPT",
+    "Laps":"76",
+    "Time\/Retired":"+2 laps",
+    "PTS":"0",
+    "Race-ID":"1210"
+  },
+  {
+    "Pos":"17",
+    "No":"27",
+    "Driver":"Nico Hulkenberg",
+    "Car":"Haas Ferrari",
+    "Laps":"76",
+    "Time\/Retired":"+2 laps",
+    "PTS":"0",
+    "Race-ID":"1210"
+  },
+  {
+    "Pos":"18",
+    "No":"2",
+    "Driver":"Logan Sargeant",
+    "Car":"Williams Mercedes",
+    "Laps":"76",
+    "Time\/Retired":"+2 laps",
+    "PTS":"0",
+    "Race-ID":"1210"
+  },
+  {
+    "Pos":"19",
+    "No":"20",
+    "Driver":"Kevin Magnussen",
+    "Car":"Haas Ferrari",
+    "Laps":"70",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1210"
+  },
+  {
+    "Pos":"NC",
+    "No":"18",
+    "Driver":"Lance Stroll",
+    "Car":"Aston Martin Aramco Mercedes",
+    "Laps":"53",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1210"
+  },
+  {
+    "Pos":"1",
+    "No":"1",
+    "Driver":"Max Verstappen",
+    "Car":"Red Bull Racing Honda RBPT",
+    "Laps":"57",
+    "Time\/Retired":"1:27:38.241",
+    "PTS":"26",
+    "Race-ID":"1208"
+  },
+  {
+    "Pos":"2",
+    "No":"11",
+    "Driver":"Sergio Perez",
+    "Car":"Red Bull Racing Honda RBPT",
+    "Laps":"57",
+    "Time\/Retired":"+5.384s",
+    "PTS":"18",
+    "Race-ID":"1208"
+  },
+  {
+    "Pos":"3",
+    "No":"14",
+    "Driver":"Fernando Alonso",
+    "Car":"Aston Martin Aramco Mercedes",
+    "Laps":"57",
+    "Time\/Retired":"+26.305s",
+    "PTS":"15",
+    "Race-ID":"1208"
+  },
+  {
+    "Pos":"4",
+    "No":"63",
+    "Driver":"George Russell",
+    "Car":"Mercedes",
+    "Laps":"57",
+    "Time\/Retired":"+33.229s",
+    "PTS":"12",
+    "Race-ID":"1208"
+  },
+  {
+    "Pos":"5",
+    "No":"55",
+    "Driver":"Carlos Sainz",
+    "Car":"Ferrari",
+    "Laps":"57",
+    "Time\/Retired":"+42.511s",
+    "PTS":"10",
+    "Race-ID":"1208"
+  },
+  {
+    "Pos":"6",
+    "No":"44",
+    "Driver":"Lewis Hamilton",
+    "Car":"Mercedes",
+    "Laps":"57",
+    "Time\/Retired":"+51.249s",
+    "PTS":"8",
+    "Race-ID":"1208"
+  },
+  {
+    "Pos":"7",
+    "No":"16",
+    "Driver":"Charles Leclerc",
+    "Car":"Ferrari",
+    "Laps":"57",
+    "Time\/Retired":"+52.988s",
+    "PTS":"6",
+    "Race-ID":"1208"
+  },
+  {
+    "Pos":"8",
+    "No":"10",
+    "Driver":"Pierre Gasly",
+    "Car":"Alpine Renault",
+    "Laps":"57",
+    "Time\/Retired":"+55.670s",
+    "PTS":"4",
+    "Race-ID":"1208"
+  },
+  {
+    "Pos":"9",
+    "No":"31",
+    "Driver":"Esteban Ocon",
+    "Car":"Alpine Renault",
+    "Laps":"57",
+    "Time\/Retired":"+58.123s",
+    "PTS":"2",
+    "Race-ID":"1208"
+  },
+  {
+    "Pos":"10",
+    "No":"20",
+    "Driver":"Kevin Magnussen",
+    "Car":"Haas Ferrari",
+    "Laps":"57",
+    "Time\/Retired":"+62.945s",
+    "PTS":"1",
+    "Race-ID":"1208"
+  },
+  {
+    "Pos":"11",
+    "No":"22",
+    "Driver":"Yuki Tsunoda",
+    "Car":"AlphaTauri Honda RBPT",
+    "Laps":"57",
+    "Time\/Retired":"+64.309s",
+    "PTS":"0",
+    "Race-ID":"1208"
+  },
+  {
+    "Pos":"12",
+    "No":"18",
+    "Driver":"Lance Stroll",
+    "Car":"Aston Martin Aramco Mercedes",
+    "Laps":"57",
+    "Time\/Retired":"+64.754s",
+    "PTS":"0",
+    "Race-ID":"1208"
+  },
+  {
+    "Pos":"13",
+    "No":"77",
+    "Driver":"Valtteri Bottas",
+    "Car":"Alfa Romeo Ferrari",
+    "Laps":"57",
+    "Time\/Retired":"+71.637s",
+    "PTS":"0",
+    "Race-ID":"1208"
+  },
+  {
+    "Pos":"14",
+    "No":"23",
+    "Driver":"Alexander Albon",
+    "Car":"Williams Mercedes",
+    "Laps":"57",
+    "Time\/Retired":"+72.861s",
+    "PTS":"0",
+    "Race-ID":"1208"
+  },
+  {
+    "Pos":"15",
+    "No":"27",
+    "Driver":"Nico Hulkenberg",
+    "Car":"Haas Ferrari",
+    "Laps":"57",
+    "Time\/Retired":"+74.950s",
+    "PTS":"0",
+    "Race-ID":"1208"
+  },
+  {
+    "Pos":"16",
+    "No":"24",
+    "Driver":"Zhou Guanyu",
+    "Car":"Alfa Romeo Ferrari",
+    "Laps":"57",
+    "Time\/Retired":"+78.440s",
+    "PTS":"0",
+    "Race-ID":"1208"
+  },
+  {
+    "Pos":"17",
+    "No":"4",
+    "Driver":"Lando Norris",
+    "Car":"McLaren Mercedes",
+    "Laps":"57",
+    "Time\/Retired":"+87.717s",
+    "PTS":"0",
+    "Race-ID":"1208"
+  },
+  {
+    "Pos":"18",
+    "No":"21",
+    "Driver":"Nyck De Vries",
+    "Car":"AlphaTauri Honda RBPT",
+    "Laps":"57",
+    "Time\/Retired":"+88.949s",
+    "PTS":"0",
+    "Race-ID":"1208"
+  },
+  {
+    "Pos":"19",
+    "No":"81",
+    "Driver":"Oscar Piastri",
+    "Car":"McLaren Mercedes",
+    "Laps":"56",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1208"
+  },
+  {
+    "Pos":"20",
+    "No":"2",
+    "Driver":"Logan Sargeant",
+    "Car":"Williams Mercedes",
+    "Laps":"56",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1208"
+  },
+  {
+    "Pos":"1",
+    "No":"11",
+    "Driver":"Sergio Perez",
+    "Car":"Red Bull Racing Honda RBPT",
+    "Laps":"51",
+    "Time\/Retired":"1:32:42.436",
+    "PTS":"25",
+    "Race-ID":"1207"
+  },
+  {
+    "Pos":"2",
+    "No":"1",
+    "Driver":"Max Verstappen",
+    "Car":"Red Bull Racing Honda RBPT",
+    "Laps":"51",
+    "Time\/Retired":"+2.137s",
+    "PTS":"18",
+    "Race-ID":"1207"
+  },
+  {
+    "Pos":"3",
+    "No":"16",
+    "Driver":"Charles Leclerc",
+    "Car":"Ferrari",
+    "Laps":"51",
+    "Time\/Retired":"+21.217s",
+    "PTS":"15",
+    "Race-ID":"1207"
+  },
+  {
+    "Pos":"4",
+    "No":"14",
+    "Driver":"Fernando Alonso",
+    "Car":"Aston Martin Aramco Mercedes",
+    "Laps":"51",
+    "Time\/Retired":"+22.024s",
+    "PTS":"12",
+    "Race-ID":"1207"
+  },
+  {
+    "Pos":"5",
+    "No":"55",
+    "Driver":"Carlos Sainz",
+    "Car":"Ferrari",
+    "Laps":"51",
+    "Time\/Retired":"+45.491s",
+    "PTS":"10",
+    "Race-ID":"1207"
+  },
+  {
+    "Pos":"6",
+    "No":"44",
+    "Driver":"Lewis Hamilton",
+    "Car":"Mercedes",
+    "Laps":"51",
+    "Time\/Retired":"+46.145s",
+    "PTS":"8",
+    "Race-ID":"1207"
+  },
+  {
+    "Pos":"7",
+    "No":"18",
+    "Driver":"Lance Stroll",
+    "Car":"Aston Martin Aramco Mercedes",
+    "Laps":"51",
+    "Time\/Retired":"+51.617s",
+    "PTS":"6",
+    "Race-ID":"1207"
+  },
+  {
+    "Pos":"8",
+    "No":"63",
+    "Driver":"George Russell",
+    "Car":"Mercedes",
+    "Laps":"51",
+    "Time\/Retired":"+74.240s",
+    "PTS":"5",
+    "Race-ID":"1207"
+  },
+  {
+    "Pos":"9",
+    "No":"4",
+    "Driver":"Lando Norris",
+    "Car":"McLaren Mercedes",
+    "Laps":"51",
+    "Time\/Retired":"+80.376s",
+    "PTS":"2",
+    "Race-ID":"1207"
+  },
+  {
+    "Pos":"10",
+    "No":"22",
+    "Driver":"Yuki Tsunoda",
+    "Car":"AlphaTauri Honda RBPT",
+    "Laps":"51",
+    "Time\/Retired":"+83.862s",
+    "PTS":"1",
+    "Race-ID":"1207"
+  },
+  {
+    "Pos":"11",
+    "No":"81",
+    "Driver":"Oscar Piastri",
+    "Car":"McLaren Mercedes",
+    "Laps":"51",
+    "Time\/Retired":"+86.501s",
+    "PTS":"0",
+    "Race-ID":"1207"
+  },
+  {
+    "Pos":"12",
+    "No":"23",
+    "Driver":"Alexander Albon",
+    "Car":"Williams Mercedes",
+    "Laps":"51",
+    "Time\/Retired":"+88.623s",
+    "PTS":"0",
+    "Race-ID":"1207"
+  },
+  {
+    "Pos":"13",
+    "No":"20",
+    "Driver":"Kevin Magnussen",
+    "Car":"Haas Ferrari",
+    "Laps":"51",
+    "Time\/Retired":"+89.729s",
+    "PTS":"0",
+    "Race-ID":"1207"
+  },
+  {
+    "Pos":"14",
+    "No":"10",
+    "Driver":"Pierre Gasly",
+    "Car":"Alpine Renault",
+    "Laps":"51",
+    "Time\/Retired":"+91.332s",
+    "PTS":"0",
+    "Race-ID":"1207"
+  },
+  {
+    "Pos":"15",
+    "No":"31",
+    "Driver":"Esteban Ocon",
+    "Car":"Alpine Renault",
+    "Laps":"51",
+    "Time\/Retired":"+97.794s",
+    "PTS":"0",
+    "Race-ID":"1207"
+  },
+  {
+    "Pos":"16",
+    "No":"2",
+    "Driver":"Logan Sargeant",
+    "Car":"Williams Mercedes",
+    "Laps":"51",
+    "Time\/Retired":"+100.943s",
+    "PTS":"0",
+    "Race-ID":"1207"
+  },
+  {
+    "Pos":"17",
+    "No":"27",
+    "Driver":"Nico Hulkenberg",
+    "Car":"Haas Ferrari",
+    "Laps":"50",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1207"
+  },
+  {
+    "Pos":"18",
+    "No":"77",
+    "Driver":"Valtteri Bottas",
+    "Car":"Alfa Romeo Ferrari",
+    "Laps":"50",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1207"
+  },
+  {
+    "Pos":"NC",
+    "No":"24",
+    "Driver":"Zhou Guanyu",
+    "Car":"Alfa Romeo Ferrari",
+    "Laps":"36",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1207"
+  },
+  {
+    "Pos":"NC",
+    "No":"21",
+    "Driver":"Nyck De Vries",
+    "Car":"AlphaTauri Honda RBPT",
+    "Laps":"9",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1207"
+  },
+  {
+    "Pos":"1",
+    "No":"1",
+    "Driver":"Max Verstappen",
+    "Car":"Red Bull Racing Honda RBPT",
+    "Laps":"58",
+    "Time\/Retired":"2:32:38.371",
+    "PTS":"25",
+    "Race-ID":"1143"
+  },
+  {
+    "Pos":"2",
+    "No":"44",
+    "Driver":"Lewis Hamilton",
+    "Car":"Mercedes",
+    "Laps":"58",
+    "Time\/Retired":"+0.179s",
+    "PTS":"18",
+    "Race-ID":"1143"
+  },
+  {
+    "Pos":"3",
+    "No":"14",
+    "Driver":"Fernando Alonso",
+    "Car":"Aston Martin Aramco Mercedes",
+    "Laps":"58",
+    "Time\/Retired":"+0.769s",
+    "PTS":"15",
+    "Race-ID":"1143"
+  },
+  {
+    "Pos":"4",
+    "No":"18",
+    "Driver":"Lance Stroll",
+    "Car":"Aston Martin Aramco Mercedes",
+    "Laps":"58",
+    "Time\/Retired":"+3.082s",
+    "PTS":"12",
+    "Race-ID":"1143"
+  },
+  {
+    "Pos":"5",
+    "No":"11",
+    "Driver":"Sergio Perez",
+    "Car":"Red Bull Racing Honda RBPT",
+    "Laps":"58",
+    "Time\/Retired":"+3.320s",
+    "PTS":"11",
+    "Race-ID":"1143"
+  },
+  {
+    "Pos":"6",
+    "No":"4",
+    "Driver":"Lando Norris",
+    "Car":"McLaren Mercedes",
+    "Laps":"58",
+    "Time\/Retired":"+3.701s",
+    "PTS":"8",
+    "Race-ID":"1143"
+  },
+  {
+    "Pos":"7",
+    "No":"27",
+    "Driver":"Nico Hulkenberg",
+    "Car":"Haas Ferrari",
+    "Laps":"58",
+    "Time\/Retired":"+4.939s",
+    "PTS":"6",
+    "Race-ID":"1143"
+  },
+  {
+    "Pos":"8",
+    "No":"81",
+    "Driver":"Oscar Piastri",
+    "Car":"McLaren Mercedes",
+    "Laps":"58",
+    "Time\/Retired":"+5.382s",
+    "PTS":"4",
+    "Race-ID":"1143"
+  },
+  {
+    "Pos":"9",
+    "No":"24",
+    "Driver":"Zhou Guanyu",
+    "Car":"Alfa Romeo Ferrari",
+    "Laps":"58",
+    "Time\/Retired":"+5.713s",
+    "PTS":"2",
+    "Race-ID":"1143"
+  },
+  {
+    "Pos":"10",
+    "No":"22",
+    "Driver":"Yuki Tsunoda",
+    "Car":"AlphaTauri Honda RBPT",
+    "Laps":"58",
+    "Time\/Retired":"+6.052s",
+    "PTS":"1",
+    "Race-ID":"1143"
+  },
+  {
+    "Pos":"11",
+    "No":"77",
+    "Driver":"Valtteri Bottas",
+    "Car":"Alfa Romeo Ferrari",
+    "Laps":"58",
+    "Time\/Retired":"+6.513s",
+    "PTS":"0",
+    "Race-ID":"1143"
+  },
+  {
+    "Pos":"12",
+    "No":"55",
+    "Driver":"Carlos Sainz",
+    "Car":"Ferrari",
+    "Laps":"58",
+    "Time\/Retired":"+6.594s",
+    "PTS":"0",
+    "Race-ID":"1143"
+  },
+  {
+    "Pos":"13",
+    "No":"10",
+    "Driver":"Pierre Gasly",
+    "Car":"Alpine Renault",
+    "Laps":"56",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1143"
+  },
+  {
+    "Pos":"14",
+    "No":"31",
+    "Driver":"Esteban Ocon",
+    "Car":"Alpine Renault",
+    "Laps":"56",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1143"
+  },
+  {
+    "Pos":"15",
+    "No":"21",
+    "Driver":"Nyck De Vries",
+    "Car":"AlphaTauri Honda RBPT",
+    "Laps":"56",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1143"
+  },
+  {
+    "Pos":"16",
+    "No":"2",
+    "Driver":"Logan Sargeant",
+    "Car":"Williams Mercedes",
+    "Laps":"56",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1143"
+  },
+  {
+    "Pos":"17",
+    "No":"20",
+    "Driver":"Kevin Magnussen",
+    "Car":"Haas Ferrari",
+    "Laps":"52",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1143"
+  },
+  {
+    "Pos":"NC",
+    "No":"63",
+    "Driver":"George Russell",
+    "Car":"Mercedes",
+    "Laps":"17",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1143"
+  },
+  {
+    "Pos":"NC",
+    "No":"23",
+    "Driver":"Alexander Albon",
+    "Car":"Williams Mercedes",
+    "Laps":"6",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1143"
+  },
+  {
+    "Pos":"NC",
+    "No":"16",
+    "Driver":"Charles Leclerc",
+    "Car":"Ferrari",
+    "Laps":"0",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1143"
+  },
+  {
+    "Pos":"1",
+    "No":"11",
+    "Driver":"Sergio Perez",
+    "Car":"Red Bull Racing Honda RBPT",
+    "Laps":"50",
+    "Time\/Retired":"1:21:14.894",
+    "PTS":"25",
+    "Race-ID":"1142"
+  },
+  {
+    "Pos":"2",
+    "No":"1",
+    "Driver":"Max Verstappen",
+    "Car":"Red Bull Racing Honda RBPT",
+    "Laps":"50",
+    "Time\/Retired":"+5.355s",
+    "PTS":"19",
+    "Race-ID":"1142"
+  },
+  {
+    "Pos":"3",
+    "No":"14",
+    "Driver":"Fernando Alonso",
+    "Car":"Aston Martin Aramco Mercedes",
+    "Laps":"50",
+    "Time\/Retired":"+20.728s",
+    "PTS":"15",
+    "Race-ID":"1142"
+  },
+  {
+    "Pos":"4",
+    "No":"63",
+    "Driver":"George Russell",
+    "Car":"Mercedes",
+    "Laps":"50",
+    "Time\/Retired":"+25.866s",
+    "PTS":"12",
+    "Race-ID":"1142"
+  },
+  {
+    "Pos":"5",
+    "No":"44",
+    "Driver":"Lewis Hamilton",
+    "Car":"Mercedes",
+    "Laps":"50",
+    "Time\/Retired":"+31.065s",
+    "PTS":"10",
+    "Race-ID":"1142"
+  },
+  {
+    "Pos":"6",
+    "No":"55",
+    "Driver":"Carlos Sainz",
+    "Car":"Ferrari",
+    "Laps":"50",
+    "Time\/Retired":"+35.876s",
+    "PTS":"8",
+    "Race-ID":"1142"
+  },
+  {
+    "Pos":"7",
+    "No":"16",
+    "Driver":"Charles Leclerc",
+    "Car":"Ferrari",
+    "Laps":"50",
+    "Time\/Retired":"+43.162s",
+    "PTS":"6",
+    "Race-ID":"1142"
+  },
+  {
+    "Pos":"8",
+    "No":"31",
+    "Driver":"Esteban Ocon",
+    "Car":"Alpine Renault",
+    "Laps":"50",
+    "Time\/Retired":"+52.832s",
+    "PTS":"4",
+    "Race-ID":"1142"
+  },
+  {
+    "Pos":"9",
+    "No":"10",
+    "Driver":"Pierre Gasly",
+    "Car":"Alpine Renault",
+    "Laps":"50",
+    "Time\/Retired":"+54.747s",
+    "PTS":"2",
+    "Race-ID":"1142"
+  },
+  {
+    "Pos":"10",
+    "No":"20",
+    "Driver":"Kevin Magnussen",
+    "Car":"Haas Ferrari",
+    "Laps":"50",
+    "Time\/Retired":"+64.826s",
+    "PTS":"1",
+    "Race-ID":"1142"
+  },
+  {
+    "Pos":"11",
+    "No":"22",
+    "Driver":"Yuki Tsunoda",
+    "Car":"AlphaTauri Honda RBPT",
+    "Laps":"50",
+    "Time\/Retired":"+67.494s",
+    "PTS":"0",
+    "Race-ID":"1142"
+  },
+  {
+    "Pos":"12",
+    "No":"27",
+    "Driver":"Nico Hulkenberg",
+    "Car":"Haas Ferrari",
+    "Laps":"50",
+    "Time\/Retired":"+70.588s",
+    "PTS":"0",
+    "Race-ID":"1142"
+  },
+  {
+    "Pos":"13",
+    "No":"24",
+    "Driver":"Zhou Guanyu",
+    "Car":"Alfa Romeo Ferrari",
+    "Laps":"50",
+    "Time\/Retired":"+76.060s",
+    "PTS":"0",
+    "Race-ID":"1142"
+  },
+  {
+    "Pos":"14",
+    "No":"21",
+    "Driver":"Nyck De Vries",
+    "Car":"AlphaTauri Honda RBPT",
+    "Laps":"50",
+    "Time\/Retired":"+77.478s",
+    "PTS":"0",
+    "Race-ID":"1142"
+  },
+  {
+    "Pos":"15",
+    "No":"81",
+    "Driver":"Oscar Piastri",
+    "Car":"McLaren Mercedes",
+    "Laps":"50",
+    "Time\/Retired":"+85.021s",
+    "PTS":"0",
+    "Race-ID":"1142"
+  },
+  {
+    "Pos":"16",
+    "No":"2",
+    "Driver":"Logan Sargeant",
+    "Car":"Williams Mercedes",
+    "Laps":"50",
+    "Time\/Retired":"+86.293s",
+    "PTS":"0",
+    "Race-ID":"1142"
+  },
+  {
+    "Pos":"17",
+    "No":"4",
+    "Driver":"Lando Norris",
+    "Car":"McLaren Mercedes",
+    "Laps":"50",
+    "Time\/Retired":"+86.445s",
+    "PTS":"0",
+    "Race-ID":"1142"
+  },
+  {
+    "Pos":"18",
+    "No":"77",
+    "Driver":"Valtteri Bottas",
+    "Car":"Alfa Romeo Ferrari",
+    "Laps":"49",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1142"
+  },
+  {
+    "Pos":"NC",
+    "No":"23",
+    "Driver":"Alexander Albon",
+    "Car":"Williams Mercedes",
+    "Laps":"27",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1142"
+  },
+  {
+    "Pos":"NC",
+    "No":"18",
+    "Driver":"Lance Stroll",
+    "Car":"Aston Martin Aramco Mercedes",
+    "Laps":"16",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1142"
+  },
+  {
+    "Pos":"1",
+    "No":"1",
+    "Driver":"Max Verstappen",
+    "Car":"Red Bull Racing Honda RBPT",
+    "Laps":"57",
+    "Time\/Retired":"1:33:56.736",
+    "PTS":"25",
+    "Race-ID":"1141"
+  },
+  {
+    "Pos":"2",
+    "No":"11",
+    "Driver":"Sergio Perez",
+    "Car":"Red Bull Racing Honda RBPT",
+    "Laps":"57",
+    "Time\/Retired":"+11.987s",
+    "PTS":"18",
+    "Race-ID":"1141"
+  },
+  {
+    "Pos":"3",
+    "No":"14",
+    "Driver":"Fernando Alonso",
+    "Car":"Aston Martin Aramco Mercedes",
+    "Laps":"57",
+    "Time\/Retired":"+38.637s",
+    "PTS":"15",
+    "Race-ID":"1141"
+  },
+  {
+    "Pos":"4",
+    "No":"55",
+    "Driver":"Carlos Sainz",
+    "Car":"Ferrari",
+    "Laps":"57",
+    "Time\/Retired":"+48.052s",
+    "PTS":"12",
+    "Race-ID":"1141"
+  },
+  {
+    "Pos":"5",
+    "No":"44",
+    "Driver":"Lewis Hamilton",
+    "Car":"Mercedes",
+    "Laps":"57",
+    "Time\/Retired":"+50.977s",
+    "PTS":"10",
+    "Race-ID":"1141"
+  },
+  {
+    "Pos":"6",
+    "No":"18",
+    "Driver":"Lance Stroll",
+    "Car":"Aston Martin Aramco Mercedes",
+    "Laps":"57",
+    "Time\/Retired":"+54.502s",
+    "PTS":"8",
+    "Race-ID":"1141"
+  },
+  {
+    "Pos":"7",
+    "No":"63",
+    "Driver":"George Russell",
+    "Car":"Mercedes",
+    "Laps":"57",
+    "Time\/Retired":"+55.873s",
+    "PTS":"6",
+    "Race-ID":"1141"
+  },
+  {
+    "Pos":"8",
+    "No":"77",
+    "Driver":"Valtteri Bottas",
+    "Car":"Alfa Romeo Ferrari",
+    "Laps":"57",
+    "Time\/Retired":"+72.647s",
+    "PTS":"4",
+    "Race-ID":"1141"
+  },
+  {
+    "Pos":"9",
+    "No":"10",
+    "Driver":"Pierre Gasly",
+    "Car":"Alpine Renault",
+    "Laps":"57",
+    "Time\/Retired":"+73.753s",
+    "PTS":"2",
+    "Race-ID":"1141"
+  },
+  {
+    "Pos":"10",
+    "No":"23",
+    "Driver":"Alexander Albon",
+    "Car":"Williams Mercedes",
+    "Laps":"57",
+    "Time\/Retired":"+89.774s",
+    "PTS":"1",
+    "Race-ID":"1141"
+  },
+  {
+    "Pos":"11",
+    "No":"22",
+    "Driver":"Yuki Tsunoda",
+    "Car":"AlphaTauri Honda RBPT",
+    "Laps":"57",
+    "Time\/Retired":"+90.870s",
+    "PTS":"0",
+    "Race-ID":"1141"
+  },
+  {
+    "Pos":"12",
+    "No":"2",
+    "Driver":"Logan Sargeant",
+    "Car":"Williams Mercedes",
+    "Laps":"56",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1141"
+  },
+  {
+    "Pos":"13",
+    "No":"20",
+    "Driver":"Kevin Magnussen",
+    "Car":"Haas Ferrari",
+    "Laps":"56",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1141"
+  },
+  {
+    "Pos":"14",
+    "No":"21",
+    "Driver":"Nyck De Vries",
+    "Car":"AlphaTauri Honda RBPT",
+    "Laps":"56",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1141"
+  },
+  {
+    "Pos":"15",
+    "No":"27",
+    "Driver":"Nico Hulkenberg",
+    "Car":"Haas Ferrari",
+    "Laps":"56",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1141"
+  },
+  {
+    "Pos":"16",
+    "No":"24",
+    "Driver":"Zhou Guanyu",
+    "Car":"Alfa Romeo Ferrari",
+    "Laps":"56",
+    "Time\/Retired":"+1 lap",
+    "PTS":"0",
+    "Race-ID":"1141"
+  },
+  {
+    "Pos":"17",
+    "No":"4",
+    "Driver":"Lando Norris",
+    "Car":"McLaren Mercedes",
+    "Laps":"55",
+    "Time\/Retired":"+2 laps",
+    "PTS":"0",
+    "Race-ID":"1141"
+  },
+  {
+    "Pos":"NC",
+    "No":"31",
+    "Driver":"Esteban Ocon",
+    "Car":"Alpine Renault",
+    "Laps":"41",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1141"
+  },
+  {
+    "Pos":"NC",
+    "No":"16",
+    "Driver":"Charles Leclerc",
+    "Car":"Ferrari",
+    "Laps":"39",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1141"
+  },
+  {
+    "Pos":"NC",
+    "No":"81",
+    "Driver":"Oscar Piastri",
+    "Car":"McLaren Mercedes",
+    "Laps":"13",
+    "Time\/Retired":"DNF",
+    "PTS":"0",
+    "Race-ID":"1141"
+  }
+]

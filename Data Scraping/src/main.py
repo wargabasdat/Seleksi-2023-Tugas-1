@@ -93,7 +93,7 @@ while (1):
             years = [year for year in inp.split(', ')]
             race_ids = ws.get_multiple_race_ids_location(years)
         else:
-            years = inp
+            year = inp
             race_ids = ws.get_race_ids_location(year)
 
     elif (command == 6):        # get drivers racing in a season or more
