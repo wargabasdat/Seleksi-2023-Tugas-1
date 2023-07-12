@@ -88,7 +88,7 @@ while (page <= 180) :
             # Lakukan cleaning data agar akun yang tidak mencantumkan daerah asal tidak masuk
             if ((asal_pengunjung).__contains__('kontribusi')) :
                 asal_pengunjung = ''
-            rating_pengunjung = cek.find('svg', 'UctUV d H0')['aria-label'].split(' ')[0].replace(',', '.')
+            rating_pengunjung = float(cek.find('svg', 'UctUV d H0')['aria-label'].split(' ')[0].replace(',', '.'))
             try :
                 waktu_berkunjung = cek.find('div', 'RpeCd').text.split(' • ')[0]
             except :

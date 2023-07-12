@@ -33,11 +33,11 @@ while (page <= 180) :
         except :
             nama_jenis = ''
         try :
-            rata_rata_rating = objek.find('svg', 'UctUV d H0 hzzSG')['aria-label'].split(' ')[0].replace(',', '.')
+            rata_rata_rating = float(objek.find('svg', 'UctUV d H0 hzzSG')['aria-label'].split(' ')[0].replace(',', '.'))
         except :
             rata_rata_rating = ''
         try :
-            jumlah_ulasan = objek.find('span', 'biGQs _P pZUbB osNWb').text
+            jumlah_ulasan = int(objek.find('span', 'biGQs _P pZUbB osNWb').text)
         except :
             jumlah_ulasan = ''
         
@@ -64,15 +64,15 @@ while (page <= 180) :
         n = 1
         for item in item_rating :
             if (n == 1) :
-                jumlah_rating_5 = item.find('div', 'biGQs _P pZUbB osNWb').text
+                jumlah_rating_5 = int(item.find('div', 'biGQs _P pZUbB osNWb').text)
             elif (n == 2) :
-                jumlah_rating_4 = item.find('div', 'biGQs _P pZUbB osNWb').text
+                jumlah_rating_4 = int(item.find('div', 'biGQs _P pZUbB osNWb').text)
             elif (n == 3) :
-                jumlah_rating_3 = item.find('div', 'biGQs _P pZUbB osNWb').text
+                jumlah_rating_3 = int(item.find('div', 'biGQs _P pZUbB osNWb').text)
             elif (n == 4) :
-                jumlah_rating_2 = item.find('div', 'biGQs _P pZUbB osNWb').text
+                jumlah_rating_2 = int(item.find('div', 'biGQs _P pZUbB osNWb').text)
             elif (n == 5) :
-                jumlah_rating_1 = item.find('div', 'biGQs _P pZUbB osNWb').text
+                jumlah_rating_1 = int(item.find('div', 'biGQs _P pZUbB osNWb').text)
             n += 1
 
         # Melakukan penyimpanan hasil ekstrak data ke tempat penyimpanan yang telah diinisialisasi sebelumnya
