@@ -165,21 +165,21 @@ Below is the Entity-Relationship Diagram (ERD) of the "Indomaret" database. The 
 </p>
 
 ## Explanation of the ERD to Relational Diagram Process
-1. Turn strong entities into relations like "Products", "Warehouse, "CartProduct", "Customers", and "Payment"/
+1. Turn strong entities into relations like "Products", "Warehouse, "CartProduct", "Customers", and "Payment"
 2. Represent multivalued attributes as a separate schema that contains the primary key of the original entity and the multivalued attribute itself
-  1. Make a new schema "Customers_Phone" that contains <u>customer_id</u> and <u>phoneNumber</u>
-  2. Make a new schema "Warehouse_Phone" that contains <u>warehouseName</u> and <u>phone_number</u>
+    1. Make a new schema "Customers_Phone" that contains <u>customer_id</u> and <u>phoneNumber</u>
+    2. Make a new schema "Warehouse_Phone" that contains <u>warehouseName</u> and <u>phone_number</u>
 3. Represent the "Payment" specialization by forming a schema for each payment method, including the primary key of "Payment" and the local attributes.
-  1. Credit_Card = (<u>payment_id</u>, CCNumber, CV)
-  2. Debit_Card = (<u>payment_id</u>, DCNumber)
-  3. Online_Payment = (<u>payment_id</u>, PaymentPhoneNumber, CompanyName)
+    1. Credit_Card = (<u>payment_id</u>, CCNumber, CV)
+    2. Debit_Card = (<u>payment_id</u>, DCNumber)
+    3. Online_Payment = (<u>payment_id</u>, PaymentPhoneNumber, CompanyName)
 4. Represent the one-to-one relationships, by picking one of the tables in the relationship (prioritizing the entity in the "total participation" side) to be inserted with an extra attribute corresponding to the two entity sets.
-  1. "CartProduct" and "Customers" have a one-to-one relationship, so add <u>customer_id</u> attribute into the "CartProduct" table since it has a total participation.
-  2. "CartProduct" and "Payment" have a one-to-one relationship, so add <u>payment_id</u> attribute into the "CartProduct" table since it has a total participation.
+    1. "CartProduct" and "Customers" have a one-to-one relationship, so add <u>customer_id</u> attribute into the "CartProduct" table since it has a total participation.
+    2. "CartProduct" and "Payment" have a one-to-one relationship, so add <u>payment_id</u> attribute into the "CartProduct" table since it has a total participation.
 5. Represent the many-to-one relationship by adding an extra attribute to the "many" side, containing the primary key of the "one" side
-  1. "Products" and "Warehouse" have a many-to-one relationship, so add <u>warehouseName</u> to the "Products" table since it's in the "many" side.
+    1. "Products" and "Warehouse" have a many-to-one relationship, so add <u>warehouseName</u> to the "Products" table since it's in the "many" side.
 6. Represent the many-to-many relationship by creating a schema that contains a) both primary keys from the two entities involved and b) additional attributes within the relationship
-  1. "Products" and "CartProduct" have a many-to-many relationship, so add <u>PLU</u> and <u>cart_id</u> into a new schema called "FillingCart" based off of the "Fills" relationship that connects both entities. Also, add the product_quantity attribute as it is the descriptive attribute from the "Fills" relationship.
+    1. "Products" and "CartProduct" have a many-to-many relationship, so add <u>PLU</u> and <u>cart_id</u> into a new schema called "FillingCart" based off of the "Fills" relationship that connects both entities. Also, add the product_quantity attribute as it is the descriptive attribute from the "Fills" relationship.
 
 ## Screenshots of the Program
 Data initialization
