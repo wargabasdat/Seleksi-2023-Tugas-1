@@ -177,9 +177,6 @@ ALTER TABLE public.warehouse_phone OWNER TO postgres;
 --
 
 COPY public.cartproduct (cart_id, cart_date, status, customer_id, payment_id) FROM stdin;
-100	2008-01-01	Done	234	134
-101	2008-01-02	Done	234	135
-102	2008-01-03	Ongoing	234	136
 \.
 
 
@@ -188,7 +185,6 @@ COPY public.cartproduct (cart_id, cart_date, status, customer_id, payment_id) FR
 --
 
 COPY public.credit_card (payment_id, ccnumber, cv) FROM stdin;
-134	63363636	234
 \.
 
 
@@ -197,7 +193,6 @@ COPY public.credit_card (payment_id, ccnumber, cv) FROM stdin;
 --
 
 COPY public.customers (customer_id, customer_firstname, customer_lastname, address, city, postalcode) FROM stdin;
-234	Farrel	Danendra	Jl Elang Raya	Tangerang Selatan	15229
 \.
 
 
@@ -206,8 +201,6 @@ COPY public.customers (customer_id, customer_firstname, customer_lastname, addre
 --
 
 COPY public.customers_phone (customer_id, phonenumber) FROM stdin;
-234	0818-111-036
-234	0811-222-333
 \.
 
 
@@ -216,7 +209,6 @@ COPY public.customers_phone (customer_id, phonenumber) FROM stdin;
 --
 
 COPY public.debit_card (payment_id, dcnumber) FROM stdin;
-135	373737373
 \.
 
 
@@ -225,11 +217,6 @@ COPY public.debit_card (payment_id, dcnumber) FROM stdin;
 --
 
 COPY public.fillingcart (plu, cart_id, product_quantity) FROM stdin;
-20127831	100	5
-20126111	100	1
-10000129	101	2
-20041422	101	1
-20103565	102	1
 \.
 
 
@@ -238,7 +225,6 @@ COPY public.fillingcart (plu, cart_id, product_quantity) FROM stdin;
 --
 
 COPY public.online_payment (payment_id, paymentphonenumber, companyname) FROM stdin;
-136	0818181828	Gopay
 \.
 
 
@@ -247,9 +233,6 @@ COPY public.online_payment (payment_id, paymentphonenumber, companyname) FROM st
 --
 
 COPY public.payment (payment_id, payment_date, amount, payment_method) FROM stdin;
-134	2008-11-11	50000	Credit_Card                                       
-135	2008-11-12	60000	Debit_Card                                        
-136	2008-11-13	70000	Online_Payment                                    
 \.
 
 
@@ -320,8 +303,8 @@ COPY public.products (plu, item_name, final_price, discount, image, description,
 --
 
 COPY public.warehouse (warehousename, address) FROM stdin;
-Toko Indomaret	Di toko terdekat Anda
-Warehouse Jakarta 1	Jl. Ancol Barat VIII No.2, RT.1/RW.3
+Toko Indomaret	Jl. X
+Warehouse Jakarta 1	Jl. Y
 \.
 
 
@@ -330,8 +313,6 @@ Warehouse Jakarta 1	Jl. Ancol Barat VIII No.2, RT.1/RW.3
 --
 
 COPY public.warehouse_phone (warehousename, phone_number) FROM stdin;
-Toko Indomaret	1500280
-Warehouse Jakarta 1	unknown
 \.
 
 
