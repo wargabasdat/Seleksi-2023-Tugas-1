@@ -111,7 +111,6 @@ I decided to pick the "klikindomaret" site because I understand how important ma
 ### Data scraping:
 This program uses Python 3.11.4 programming language and the BeautifulSoup for the data scraping process. The data is first gathered from the page's HTML file, parsed, transformed, and cleaned before being appended to the array filled with dictionaries, each containing information of an item gathered. Later on, the dictionary is converted into JSON and CSV files which can be seen at ```Data Scraping/data```.
 
-<br>
 
 ### Data storing:
 This program uses PostgreSQL as the DBMS for the data storing process. The schema of the database is represented as the ER diagram and the relational diagram. The ER diagram contains the entities involved within a minimarket environment like "product", "cart", "customer", "warehouse", and "payment". The relational diagram is made by transforming the ER diagram (the full process can be seen in [Explanation of the ERD to Relational Diagram Process](#explanation-of-the-erd-to-relational-diagram-process)). The only table that is filled with scraped data is the "product" table, while the other tables are left empty. The entire database can be used with the SQL file in ```Data Storing/export```
@@ -125,7 +124,6 @@ First of all, please download and extract zip of this repository.
 - __Please wait__, it usually takes around +30 seconds to gather the data
 - After the process is over, a couple of messages will show up in the terminal telling you that the JSON and CSV files are successfully created.
 - You can access them in ```Data Scraping/data```
-<br>
 
 ### Data storing:
 - Grab the ```indomaret_database.sql``` file inside the ```Data Storing/export``` folder.
