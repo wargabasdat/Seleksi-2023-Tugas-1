@@ -7,95 +7,159 @@
 
 <h2 align="center">
   <br>
-  Data Scraping, Database Modelling & Data Storing
+  Data Scraping, Database Modelling & Data Storing of Courses at <a href="https://ocw.mit.edu">MIT OpenCourseWare</a>
   <br>
   <br>
 </h2>
 
 
-## Spesifikasi
+## Data and DBMS Description
+The data used in this project are courses of a specific topic from MIT OpenCourseWare, an Open Educational Resources (OER) from MIT.
 
+Every course has details of the course itself such as the lecturer(s), url, semester, course id, year, department, etc. For every department, there are details of the department's website and number of courses within the topic chosen. For every course, there are non-mandatory resources that contains the name of the resoruce, the file type, the type of resource, and the url of the resource itself.
+
+The data is stored in a relational model using SQL and managed with MariaDB.
+
+Accessing resources for open courses online is a privilege that I have in order to study better. By scraping MIT OpenCourseWare, I could help others to immediately get resource without having to open the internet. Not only that, I also want to compare about Indonesia's education by looking up on certain topics such as computer science and analysing which department holds courses for it.
+
+
+## Program Specification
+The scraping program is build using Python 3.11.1 and libraries such as BeautifulSoup, JSON, and Selenium. To gather courses, the scraper uses Selenium, since the website is a dynamically loaded website. After gathering the courses, using BeautifulSoup, the program gathers the details of the courses and the resources, if any exists. The next step is finding the department website for every department. After that, it is a matter of storing the data as JSON.
+
+To store JSON to MariaDB, a Python script is used to execute the JSON data into a database. The database name is up to the user, but for the character encoding setting must be set to utf8mb4. To ensure this, the code to create the database on MariaDB is as follows,
+
+```sql
+CREATE DATABASE IF NOT EXISTS database_name CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+```
+
+
+## How to Use
+### Prerequisite
+Please have Python installed on your machine and also MariaDB DBMS. Please also install the required libraries referenced at <a href="#references">References section</a>
+
+### Scraping
+To scrape the website, use the Python program Scraper.py located in /DataScraping/src/Scraper.py on the src folder. The program will ask the user to input the topic that the user wants and the estimate number of courses that the user wants. After that, the scraper will do it's work, by visiting other each courses page, and produce the .JSON files from the scraping process.
+
+While scraping, the program will remove the 'Show less' text on details and splits data provided to get informations of course semester, year, and id. Whitespaces are also removed. For multivalued data, on department, level, and lecturers, the program will parse for those informations too. For department websites, if none is found, then the default website will be the MIT website. For links, it will be appended with https://ocw.mit.edu to provide a useable link, unless it is stored in a another database.
+
+The data provided now uses the "Computer Science" topic with 98 courses scraped.
+
+### Storing
+To store the scraped data, use the Python program Storing.py located in /DataScraping/src/Storing.py. Run the program, on the src folder. Make sure to already create a database. Don't forget to change the connection function to adhere with your local configuration on database name, host, port, user, and password. The charset is utf8mb4.
+
+The dumped SQL file is available in /Data Storing/export/ folder. To dump the database, simply run this command on your terminal
+```
+mysqldump -u root -p database_name > file_name.sql
+```
+
+## JSON Structure
+There are three JSON files used in this program
+1. courses.json
+
+```json
+{
+  "course_id": The id of the course,
+  "semester": The semester of the course (Fall, Spring, Summer, etc.),
+  "year": The year of the course,
+  "title": The course title/name,
+  "url": The link to the course,
+  "lecturers": The courses' lecturer(s),
+  "department": The courses' department(s),
+  "courseImage": The course image on the web,
+  "level": The level(s) of the course (Undergraduate, Graduate, etc.),
+  "downloadLink": The Courses resource download page
+}
+```
+
+2. departments.json
+```json
+{
+  "name": The department name,
+  "numberOfCourses": Number of courses that this department held for the topic,
+  "departmentWeb": The department's website
+}
+```
+
+3. resourses.json
+```json
+{
+  "name": The Resource Name,
+  "url": The URL to The Resource,
+  "type": The type of the resource (assignments, readings, exams, etc.),
+  "fType": The file type of the resource (video file, pdf file, etc.),
+  "cid": The course's id of the resource,
+  "semester": The course's semester of the resource,
+  "year": The course's year of the resource
+}
+```
+
+## Database Structure
+The Entity-Relation Diagram (ERD) for the database created to support the data that is scraped is as below,
+
+<img src = "./Data Storing/design/SeleksiBasdat-ERD.png" alt="ERD">
+
+and the translated ERD into a RDBMS design is as below,
+
+<img src = "./Data Storing/design/SeleksiBasdat-Schema.png" alt = "Schema">
+
+
+## Translating ERD to RDBMS Model Explanation
+The explanation is as follows,
+1. The weak-entity 'Resources' is made into it's own relation, with primary keys name, url, type, course_id, semester, and year. Therefore the attributes are name, url, type, course_id, semester, year, and type
+2. The entity 'Course' is made into it's own relation, with atomic attributes made into it's own attribute and primary keys course_id, semester, and year. Therefore the attributes are course_id, semester, year, title, url, detail, courseImage, and downloadLink
+3. The multivalued attribute lecturers, department, and level are each made into it's own separate relations with primary keys the values of lecturers, department, and level then adding a primary key of the course relation i.e., course_id, semester, and year
+4. The department entity is made into it's own relation with primary key the name of the department. Therefore the attributes are name, numberOfCourses, and departmentWeb
+
+## Screenshots
 ### Data Scraping
+<img src = "./Data Scraping/screenshot/scraping1.png">
+<img src = "./Data Scraping/screenshot/scraping2.png">
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
+### Data Storing
+#### Storing with Python
+<img src = "./Data Storing/screenshot/storing.png">
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
+#### Courses
+<img src = "./Data Storing/screenshot/courses1.png">
 
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
+selecting some columns for a better view
 
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
+<img src = "./Data Storing/screenshot/courses.png">
 
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
+#### Departments
+<img src = "./Data Storing/screenshot/departments.png">
 
-### Database Modelling & Data Storing
+#### Course Level
+<img src = "./Data Storing/screenshot/courseLevel.png">
 
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
+#### Course Department
+<img src = "./Data Storing/screenshot/courseDepartment.png">
 
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
+#### Course Lecturers
+<img src = "./Data Storing/screenshot/courseLecturers.png">
 
-4. Tools yang digunakan __dibebaskan__ pada peserta.
+#### Resource
+<img src = "./Data Storing/screenshot/resource.png">
 
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
+## Data Visualization
+The visualized data can be viewd at the Python Notebook in Data Visualization folder.
 
+The visualization covers:
+1. Lecturers with 2 Courses or More in Computer Science
+2. Number of Computer Science Courses by Departments
+3. Resource File Type Count
+4. Course Level Count
 
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
+From the visualized data, it can be deducted that Prof. Erik Demaine, who was a former child prodigy, has 4 courses in Computer Science. Computer Science courses are not only held by the department of Electrical Engineering and Computer Science, but by other majors in engineering and mathematics as it is a fundamental tool to use in engineering and mathematics. The most used type of file to share resource is a PDF File. Most computer science courses are held at graduate level, followed by undergraduate level.
 
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
+## References
+Libraries that are used in this program are,
+1. Selenium
+2. BeautifulSoup
+3. JSON
+4. mysql.connector
+5. Pandas
+6. Matplotlib.Pyplot
 
-### Pengumpulan
-
-
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
-
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
-
-
-```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
-
-
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
-
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
-
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
-<br>
+## Author
+Matthew Mahendra - 13521007
