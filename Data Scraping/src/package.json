@@ -1,0 +1,17 @@
+{
+  "name": "seleksi-warga-basdat-1",
+  "version": "1.0.0",
+  "description": "scrapping from website kurs pajak indonesia",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "clean": "rmdir /s /q node_modules"
+  },
+  "author": "ahmad rizki",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "moment": "^2.29.4"
+  }
+}
