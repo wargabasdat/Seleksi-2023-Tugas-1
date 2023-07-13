@@ -7,7 +7,7 @@
 
 <h2 align="center">
   <br>
-  Data Scraping, Database Modelling & Data Storing
+  Muhammad Farrel Danendra Rachim (13521048)
   <br>
   <br>
 </h2>
@@ -99,6 +99,11 @@ Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau se
   </i>
 </p>
 <br>
+
+## Visualization of KlikIndomaret Products
+<p align="center">
+  <img src="./Data Visualization/Dashboard.png">
+</p>
 
 ## Description of the Data and DBMS
 Indomaret is a minimarket retail store from Indonesia that has been active since the 1980s. Until March 2023, Indomaret have had more than 21.000 stores spread across the country. Indomaret has become a dominant place for customers to fulfill their daily wants and needs. As technology progresses, customers can also buy products from Indomaret through online means, specifically from their official website: https://www.klikindomaret.com. <br>
