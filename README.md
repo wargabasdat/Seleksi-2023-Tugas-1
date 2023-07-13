@@ -2,6 +2,11 @@
 <p align="center"><b>July 17th 2023 - v1.01</b></p>
 <p align="center">Ilmagita Nariswari - 18221101</p>
 
+![A glimpse of Red Bull Racing](https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/dbc52e96-a2f5-4f56-913d-374a7aa0aae2)
+![Vettel vs. Webber](https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/2abb0654-fe89-482b-bcb6-d3a17a2c2950)
+
+![Link to interactive dashboard](https://public.tableau.com/views/RedBullF1/ThetaleoftheRedBullDrivers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 # Description
 
 Formula 1 is the highest class of four-wheel racing in which teams and drivers compete in a series of Grand Prix to win the championship at the end of the year. In the world of Formula 1, data is constantly generated and consumed by not just the teams to improve their chances of winning the championship, but also the spectators and pundits alike. It is also a great source of data for aspiring data analysts to jump into, as the data of each races from 1950 to recent times is readily available on the formula1.com website, which is part of the reason of why I chose this website to scrape from.
