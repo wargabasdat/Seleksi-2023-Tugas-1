@@ -1,0 +1,1006 @@
+[
+  {
+    "Book ID":"BOOK001",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK001",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK001",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK002",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK002",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK002",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK003",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK003",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK004",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK004",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK005",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK005",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK005",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK006",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK006",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK006",
+    "Genre":"Frightening"
+  },
+  {
+    "Book ID":"BOOK006",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK007",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK008",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK008",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK009",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK010",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK010",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK011",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK011",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK011",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK012",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK012",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK012",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK013",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK014",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK014",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK014",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK015",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK015",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK015",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK015",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK016",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK016",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK017",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK017",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK018",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK018",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK018",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK019",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK019",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK019",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK020",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK020",
+    "Genre":"Food"
+  },
+  {
+    "Book ID":"BOOK020",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK020",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK021",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK021",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK022",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK022",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK023",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK023",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK023",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK023",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK024",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK024",
+    "Genre":"Frightening"
+  },
+  {
+    "Book ID":"BOOK024",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK025",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK026",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK026",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK027",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK027",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK028",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK028",
+    "Genre":"Food"
+  },
+  {
+    "Book ID":"BOOK028",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK028",
+    "Genre":"Frightening"
+  },
+  {
+    "Book ID":"BOOK028",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK029",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK029",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK029",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK029",
+    "Genre":"Frightening"
+  },
+  {
+    "Book ID":"BOOK029",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK030",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK030",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK030",
+    "Genre":"Frightening"
+  },
+  {
+    "Book ID":"BOOK030",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK031",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK031",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK032",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK032",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK032",
+    "Genre":"Food"
+  },
+  {
+    "Book ID":"BOOK032",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK032",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK033",
+    "Genre":"Frightening"
+  },
+  {
+    "Book ID":"BOOK033",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK034",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK034",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK034",
+    "Genre":"Food"
+  },
+  {
+    "Book ID":"BOOK034",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK034",
+    "Genre":"Frightening"
+  },
+  {
+    "Book ID":"BOOK034",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK035",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK035",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK035",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK036",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK036",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK036",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK037",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK037",
+    "Genre":"Food"
+  },
+  {
+    "Book ID":"BOOK037",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK037",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK038",
+    "Genre":"Food"
+  },
+  {
+    "Book ID":"BOOK038",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK038",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK039",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK040",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK040",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK041",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK041",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK041",
+    "Genre":"Food"
+  },
+  {
+    "Book ID":"BOOK041",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK041",
+    "Genre":"Frightening"
+  },
+  {
+    "Book ID":"BOOK041",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK042",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK042",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK042",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK043",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK044",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK045",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK045",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK045",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK045",
+    "Genre":"Frightening"
+  },
+  {
+    "Book ID":"BOOK045",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK046",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK047",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK047",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK047",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK048",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK048",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK048",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK049",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK049",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK049",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK049",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK050",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK050",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK051",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK051",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK052",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK052",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK053",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK053",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK054",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK054",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK054",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK055",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK055",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK055",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK056",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK056",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK056",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK056",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK057",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK057",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK057",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK058",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK058",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK059",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK060",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK060",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK060",
+    "Genre":"Frightening"
+  },
+  {
+    "Book ID":"BOOK060",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK061",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK061",
+    "Genre":"Food"
+  },
+  {
+    "Book ID":"BOOK061",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK062",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK062",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK063",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK063",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK063",
+    "Genre":"Frightening"
+  },
+  {
+    "Book ID":"BOOK063",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK064",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK064",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK065",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK065",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK065",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK065",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK066",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK066",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK066",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK067",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK067",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK067",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK068",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK069",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK069",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK069",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK069",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK070",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK070",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK071",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK071",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK071",
+    "Genre":"Frightening"
+  },
+  {
+    "Book ID":"BOOK071",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK072",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK072",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK072",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK073",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK073",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK073",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK074",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK074",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK074",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK075",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK075",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK075",
+    "Genre":"Frightening"
+  },
+  {
+    "Book ID":"BOOK075",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK076",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK076",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK076",
+    "Genre":"Frightening"
+  },
+  {
+    "Book ID":"BOOK076",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK077",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK077",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK077",
+    "Genre":"Frightening"
+  },
+  {
+    "Book ID":"BOOK077",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK078",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK078",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK078",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK078",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK079",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK079",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK079",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK080",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK080",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK080",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK080",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK081",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK081",
+    "Genre":"Food"
+  },
+  {
+    "Book ID":"BOOK081",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK081",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK082",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK082",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK082",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK083",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK083",
+    "Genre":"Frightening"
+  },
+  {
+    "Book ID":"BOOK083",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK084",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK084",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK084",
+    "Genre":"Komik"
+  },
+  {
+    "Book ID":"BOOK085",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK085",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK085",
+    "Genre":"Novel"
+  },
+  {
+    "Book ID":"BOOK086",
+    "Genre":"Family"
+  },
+  {
+    "Book ID":"BOOK086",
+    "Genre":"Fantasy"
+  },
+  {
+    "Book ID":"BOOK086",
+    "Genre":"Friendship"
+  },
+  {
+    "Book ID":"BOOK086",
+    "Genre":"Komik"
+  }
+]
