@@ -2,6 +2,13 @@
 <p align="center"><b>July 17th 2023 - v1.01</b></p>
 <p align="center">Ilmagita Nariswari - 18221101</p>
 
+# Visualization
+
+![image](https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/4bf37815-02c7-4b08-88d5-13200ec0da9d)
+![image](https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/2fca9366-823c-42e3-b8a1-128c222d3ce0)
+
+<h2 align="center">Link to <a href="https://public.tableau.com/shared/YXN2P3RY8?:display_count=n&:origin=viz_share_link">interactive dashboard</a></p>
+
 # Description
 
 Formula 1 is the highest class of four-wheel racing in which teams and drivers compete in a series of Grand Prix to win the championship at the end of the year. In the world of Formula 1, data is constantly generated and consumed by not just the teams to improve their chances of winning the championship, but also the spectators and pundits alike. It is also a great source of data for aspiring data analysts to jump into, as the data of each races from 1950 to recent times is readily available on the formula1.com website, which is part of the reason of why I chose this website to scrape from.
@@ -111,6 +118,8 @@ A `Driver` is its own entity. On the Formula 1 website, drivers aren't assigned 
   <img alt="Relational diagram of the Formula 1 website" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/c2f9451c-d094-4cbe-9283-d8ec1eca43ed" width="800"></div>
 
 # ERD to Relational Diagram Translation Process
+
+Each entities are translated to their own tables and the attributes become columns in each of the relations. `Drivers` becomes the relation `drivers`, `Races` becomes relation table `races`, `Results` becomes the relation `raceResults`, `DriverStandings` becomes `driverStandings`, and lastly, `season` becomes `Season`.
 
 <div align="center">
   <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/6fd32b58-6bf7-4a0f-bef6-c66be31e57f8" alt="Reducing Results, Races, and Driver" width="600">
