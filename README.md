@@ -7,37 +7,39 @@
 
 <h2 align="center">
   <br>
-  Data Scraping, Database Modelling & Data Storing
+  Data Scraping, Database Modelling, and Data Storing
   <br>
   <br>
 </h2>
 
+- Description of the data and DBMS (Why you choose it)
+- Specification of the program
+- How to use
+- JSON Structure
+- Database Structure (ERD and relational diagram)
+- Explanation of ERD to relational diagram translation process
+- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
+- Reference (Library used, etc)
+- Author
 
-## Spesifikasi
 
-### Data Scraping
+## Data _Events_ di Indonesia
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
+### Deskripsi Data dan DBMS
+  Data yang digunakan merupakan hasil scraping dari website [Eventbrite](https://www.eventbrite.com/). 
+  akwdkwkdoekdlekwslkddddddddd
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
+### Spesifikasi Program
+  Program ini dibuat menggunakan bahasa pemrograman Python. Program ini dapat digunakan untuk melakukan scraping data dari website [Eventbrite](https://www.eventbrite.com/). Program ini juga dapat melakukan penyimpanan data hasil scraping ke dalam database MySQL.
 
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
+### Cara Menggunakan Program
 
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
+### JSON
 
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
+### Database Structure
 
-### Database Modelling & Data Storing
+
+
 
 1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
    
