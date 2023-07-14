@@ -5,7 +5,7 @@
 ![image](https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/17e88a67-d99d-431d-9043-137323f8ab31)
 ![image](https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/217eff0d-cec6-438d-9e8e-122455d232ba)
 
-<p align="center">[![Link to interactive dashboard]](https://public.tableau.com/shared/YXN2P3RY8?:display_count=n&:origin=viz_share_link)</p>
+<p align="center">![Link to interactive dashboard](https://public.tableau.com/shared/YXN2P3RY8?:display_count=n&:origin=viz_share_link)</p>
 
 # Description
 
