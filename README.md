@@ -4,10 +4,10 @@
 
 # Visualization
 
-![image](https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/17e88a67-d99d-431d-9043-137323f8ab31)
-![image](https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/217eff0d-cec6-438d-9e8e-122455d232ba)
+![image](https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/4bf37815-02c7-4b08-88d5-13200ec0da9d)
+![image](https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/2fca9366-823c-42e3-b8a1-128c222d3ce0)
 
-<p align="center"><a href="https://public.tableau.com/shared/YXN2P3RY8?:display_count=n&:origin=viz_share_link">Interactive dashboard</a></p>
+<h2 align="center">Link to <a href="https://public.tableau.com/shared/YXN2P3RY8?:display_count=n&:origin=viz_share_link">interactive dashboard</a></p>
 
 # Description
 
@@ -118,6 +118,8 @@ A `Driver` is its own entity. On the Formula 1 website, drivers aren't assigned 
   <img alt="Relational diagram of the Formula 1 website" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/c2f9451c-d094-4cbe-9283-d8ec1eca43ed" width="800"></div>
 
 # ERD to Relational Diagram Translation Process
+
+Each entities are translated to their own tables and the attributes become columns in each of the relations. `Drivers` becomes the relation `drivers`, `Races` becomes relation table `races`, `Results` becomes the relation `raceResults`, `DriverStandings` becomes `driverStandings`, and lastly, `season` becomes `Season`.
 
 <div align="center">
   <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/6fd32b58-6bf7-4a0f-bef6-c66be31e57f8" alt="Reducing Results, Races, and Driver" width="600">
