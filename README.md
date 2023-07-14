@@ -12,7 +12,7 @@
   <br>
 </h2>
 
-//logo disini gan
+![Logo IMDb](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/IMDB_Logo_2016.svg.png)
 
 ## Table of Contents
 
