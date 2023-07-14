@@ -1,0 +1,6028 @@
+{
+    "schema":{
+        "fields":[
+            {
+                "name":"index",
+                "type":"integer"
+            },
+            {
+                "name":"judul",
+                "type":"string"
+            },
+            {
+                "name":"harga",
+                "type":"integer"
+            },
+            {
+                "name":"penulis",
+                "type":"string"
+            }
+        ],
+        "primaryKey":[
+            "index"
+        ],
+        "pandas_version":"1.4.0"
+    },
+    "data":[
+        {
+            "index":0,
+            "judul":"World Ghost Stories Eropa",
+            "harga":37500,
+            "penulis":"Yim Kang Jae"
+        },
+        {
+            "index":1,
+            "judul":"Muhammad Membangun Madinah",
+            "harga":135000,
+            "penulis":"Zhaenal Fanani - Regu Kancil Studio"
+        },
+        {
+            "index":2,
+            "judul":"The Apothecary Diaries 09",
+            "harga":36000,
+            "penulis":"NATSU HYUUGA \/ NEKOKURAGE"
+        },
+        {
+            "index":3,
+            "judul":"Full Bloom Cheekiness 18",
+            "harga":25600,
+            "penulis":"Miyuki Mitsubachi"
+        },
+        {
+            "index":4,
+            "judul":"Level Comic: Tokyo Revengers 09",
+            "harga":32000,
+            "penulis":"Ken Wakui"
+        },
+        {
+            "index":5,
+            "judul":"Akasha : Chainsaw Man 03",
+            "harga":38400,
+            "penulis":"Tatsuki Fujimoto"
+        },
+        {
+            "index":6,
+            "judul":"Level Comic: Just The Two of Us 03",
+            "harga":36000,
+            "penulis":"Yoshimura Akemi"
+        },
+        {
+            "index":7,
+            "judul":"Akasha : Gyo Complete Edition - 2 In 1",
+            "harga":71200,
+            "penulis":"Ito Junji"
+        },
+        {
+            "index":8,
+            "judul":"Level Comic: Zom 100 vol 01",
+            "harga":40000,
+            "penulis":"Haro Aso, Kotaro Takata"
+        },
+        {
+            "index":9,
+            "judul":"C.M.B 43",
+            "harga":25600,
+            "penulis":"Motohiro Katou"
+        },
+        {
+            "index":10,
+            "judul":"Blue Lock 09",
+            "harga":36000,
+            "penulis":"Muneyuki Kaneshiro"
+        },
+        {
+            "index":11,
+            "judul":"Akasha : Trace, Recollections Of A Forensic Researcher 11",
+            "harga":27200,
+            "penulis":"Kei Koga"
+        },
+        {
+            "index":12,
+            "judul":"Akasha : City Hunter - Complete Edition 15",
+            "harga":52000,
+            "penulis":"Hojo Tsukasa"
+        },
+        {
+            "index":13,
+            "judul":"Level Comic (LC): Jojo`s Bizarre Adventure 03 - Part 1 Phantom Blood",
+            "harga":60000,
+            "penulis":"Hirohiko Araki"
+        },
+        {
+            "index":14,
+            "judul":"Level Comic: Aku no Hana-Kembang Jahanam 02",
+            "harga":40000,
+            "penulis":"SHUZO OSHIMI"
+        },
+        {
+            "index":15,
+            "judul":"Level Comic: Bungo Stray Dogs 04",
+            "harga":40000,
+            "penulis":"Kafka Asagiri"
+        },
+        {
+            "index":16,
+            "judul":"PET BOOM - Dark Urban Legend 4-",
+            "harga":32000,
+            "penulis":"Ryo Azuki"
+        },
+        {
+            "index":17,
+            "judul":"MAO 07",
+            "harga":32000,
+            "penulis":"Takahashi Rumiko"
+        },
+        {
+            "index":18,
+            "judul":"Why? Insects - Serangga (Edisi Baru)",
+            "harga":89250,
+            "penulis":"Kwangwoong Lee"
+        },
+        {
+            "index":19,
+            "judul":"Solo Leveling 01",
+            "harga":68000,
+            "penulis":"Chugong None"
+        },
+        {
+            "index":20,
+            "judul":"AKASHA : Ito Junji Compilation 03 -  Souichi's Convenient Curses",
+            "harga":76000,
+            "penulis":"Ito Junji"
+        },
+        {
+            "index":21,
+            "judul":"Detektif Conan 102",
+            "harga":42500,
+            "penulis":"Aoyama Gosho"
+        },
+        {
+            "index":22,
+            "judul":"Plants Vs Zombies - Komik Dinosaurus : Planet Dinosaurus",
+            "harga":93750,
+            "penulis":"Xiao Jiangnan"
+        },
+        {
+            "index":23,
+            "judul":"Death Note - New Edition 02",
+            "harga":70400,
+            "penulis":"Ohba Tsugumi"
+        },
+        {
+            "index":24,
+            "judul":"Level Comic: Fight Ippo 131",
+            "harga":28000,
+            "penulis":"Joji Morikawa"
+        },
+        {
+            "index":25,
+            "judul":"Fujiwara is Almost Right 07",
+            "harga":32000,
+            "penulis":"Nao Hinachi"
+        },
+        {
+            "index":26,
+            "judul":"A Couple of Cuckoos 08",
+            "harga":32000,
+            "penulis":"Miki Yoshikawa"
+        },
+        {
+            "index":27,
+            "judul":"Kindaichi 37 tahun 11",
+            "harga":33600,
+            "penulis":"Seimaru Amagi & Fumiya Sato"
+        },
+        {
+            "index":28,
+            "judul":"Karena Kamu Sangat Berharga",
+            "harga":169000,
+            "penulis":"Kim Ji Hun"
+        },
+        {
+            "index":29,
+            "judul":"High Rise Invasion 17",
+            "harga":25600,
+            "penulis":"Tsuina Miura \/ Takahiro Oba"
+        },
+        {
+            "index":30,
+            "judul":"AKASHA : Dead Mount Death Play 08",
+            "harga":38400,
+            "penulis":"RYOHGO NARITA\/SHINTA FUJIMOTO"
+        },
+        {
+            "index":31,
+            "judul":"Hololive Id:Entity Official Fanbook",
+            "harga":159200,
+            "penulis":"M&C"
+        },
+        {
+            "index":32,
+            "judul":"Kutukan Mustika Ular",
+            "harga":88000,
+            "penulis":"Prasodjo Muhammad"
+        },
+        {
+            "index":33,
+            "judul":"Mieruko-chan : The Girl That Sees 02",
+            "harga":38400,
+            "penulis":"Tomoki Izumi"
+        },
+        {
+            "index":34,
+            "judul":"Komik Laksamana Malahayati",
+            "harga":90000,
+            "penulis":"Nurul Chomaria"
+        },
+        {
+            "index":35,
+            "judul":"Mission: Yozakura Family 02",
+            "harga":36000,
+            "penulis":"Hitsuji Gondaira"
+        },
+        {
+            "index":36,
+            "judul":"Detektif Conan Shinichi Kudo Selection Vol. 01",
+            "harga":60000,
+            "penulis":"Aoyama Gosho"
+        },
+        {
+            "index":37,
+            "judul":"It Ends With Us",
+            "harga":232200,
+            "penulis":"Colleen Hoover"
+        },
+        {
+            "index":38,
+            "judul":"Sekotak Senja Untuk Nirbita",
+            "harga":99000,
+            "penulis":"Yupitawdr None"
+        },
+        {
+            "index":39,
+            "judul":"Take a Chance",
+            "harga":84150,
+            "penulis":"Oldheva None"
+        },
+        {
+            "index":40,
+            "judul":"AKASHA : Fist of the North Star 15",
+            "harga":60000,
+            "penulis":"Tetsuo Hara & Buronson"
+        },
+        {
+            "index":41,
+            "judul":"Tokyo Ghoul 03",
+            "harga":44000,
+            "penulis":"Sui Ishida"
+        },
+        {
+            "index":42,
+            "judul":"SAMURAI 8 - The Tale of Hachimaru 02",
+            "harga":36000,
+            "penulis":"Masashi Kishimoto"
+        },
+        {
+            "index":43,
+            "judul":"Komi Sulit Berkomunikasi 16",
+            "harga":25600,
+            "penulis":"Tomohito ODA"
+        },
+        {
+            "index":44,
+            "judul":"Teasing Master, Takagi 12",
+            "harga":32000,
+            "penulis":"Soichiro YAMAMOTO"
+        },
+        {
+            "index":45,
+            "judul":"Oh My God! Penemuan Keren dari Alam",
+            "harga":71250,
+            "penulis":"YeaRimDang"
+        },
+        {
+            "index":46,
+            "judul":"Teasing Master, Takagi 7",
+            "harga":30000,
+            "penulis":"YAMAMOTO SOUICHIROU"
+        },
+        {
+            "index":47,
+            "judul":"AKASHA : Fragments of Horror",
+            "harga":48000,
+            "penulis":"Ito Junji"
+        },
+        {
+            "index":48,
+            "judul":"The Witch & Dinner",
+            "harga":64000,
+            "penulis":"Rumiko Takahashi"
+        },
+        {
+            "index":49,
+            "judul":"Plants VS Zombies - Tubuh Manusia : Ambulans Agen Rahasia",
+            "harga":93750,
+            "penulis":"Xiao Jiangnan"
+        },
+        {
+            "index":50,
+            "judul":"AKASHA : The Journey of Elaina 03",
+            "harga":38400,
+            "penulis":"Jougi Shiraishi"
+        },
+        {
+            "index":51,
+            "judul":"The Irregular at Magic High School 04 - tamat",
+            "harga":40000,
+            "penulis":"TSUTOMO SATO"
+        },
+        {
+            "index":52,
+            "judul":"Pralaya",
+            "harga":159200,
+            "penulis":"Cixin Liu"
+        },
+        {
+            "index":53,
+            "judul":"The King`s Beast 05",
+            "harga":32000,
+            "penulis":"Rei Toma"
+        },
+        {
+            "index":54,
+            "judul":"Shaman King Complete Edition 07",
+            "harga":60000,
+            "penulis":"Hiroyuki Takei"
+        },
+        {
+            "index":55,
+            "judul":"Mob Psycho 100 14",
+            "harga":32000,
+            "penulis":""
+        },
+        {
+            "index":56,
+            "judul":"Hanako Si Arwah Penasaran 18",
+            "harga":25600,
+            "penulis":"Aida Iro"
+        },
+        {
+            "index":57,
+            "judul":"One Punch Man 24",
+            "harga":25600,
+            "penulis":"One & Yusuke Murata"
+        },
+        {
+            "index":58,
+            "judul":"Fate Grand Order Epic of Remnant: Seven Duels of Swordmasters 3",
+            "harga":36000,
+            "penulis":"TYPE-MOON \/ REI WATARU"
+        },
+        {
+            "index":59,
+            "judul":"Dr. Slump 03",
+            "harga":60000,
+            "penulis":"Akira Toriyama"
+        },
+        {
+            "index":60,
+            "judul":"Atelier of Witch Hat 08",
+            "harga":25600,
+            "penulis":"Kamome Shirahama"
+        },
+        {
+            "index":61,
+            "judul":"Sorry For Not Answering The Phone, Im Too Busy Trying To Fly",
+            "harga":88000,
+            "penulis":"JVSAN"
+        },
+        {
+            "index":62,
+            "judul":"Job? Akulah Ahlinya Hewan Peliharaan",
+            "harga":75000,
+            "penulis":"Kugil Publishing"
+        },
+        {
+            "index":63,
+            "judul":"Laut Pasang 1994",
+            "harga":99000,
+            "penulis":"Lilpudu None"
+        },
+        {
+            "index":64,
+            "judul":"Final Fantasy : Lost Stranger 07",
+            "harga":36000,
+            "penulis":"HAZUKI MINASE, ITSUKI KAMEYA"
+        },
+        {
+            "index":65,
+            "judul":"Sekar Pati",
+            "harga":99000,
+            "penulis":"Erni Windiyarti"
+        },
+        {
+            "index":66,
+            "judul":"I Found You 1991",
+            "harga":84150,
+            "penulis":"Usbatun Shaliha"
+        },
+        {
+            "index":67,
+            "judul":"My Hero Academia 24",
+            "harga":36000,
+            "penulis":"Kohei Horikoshi"
+        },
+        {
+            "index":68,
+            "judul":"Samurai X Hokkaido Arc Vol. 03",
+            "harga":40000,
+            "penulis":"Nobuhiro Watsuki"
+        },
+        {
+            "index":69,
+            "judul":"Q.E.D IFF 11",
+            "harga":32000,
+            "penulis":"Motohiro Katou"
+        },
+        {
+            "index":70,
+            "judul":"Oh My God! Smallest, Deadliest - Cara Virus Bekerja dalam Tubuh",
+            "harga":71250,
+            "penulis":"YeaRimDang"
+        },
+        {
+            "index":71,
+            "judul":"Oh My God! Ih, Bau! Serba-Serbi Kentut",
+            "harga":71250,
+            "penulis":"YeaRimDang"
+        },
+        {
+            "index":72,
+            "judul":"Plants VS Zombies - Komik Dinosaurus : Kebangkitan Sang Pahlawan",
+            "harga":93750,
+            "penulis":"Xiao Jiangnan"
+        },
+        {
+            "index":73,
+            "judul":"Koloni Flawless Vol. 3",
+            "harga":46500,
+            "penulis":"Shinshinhye None"
+        },
+        {
+            "index":74,
+            "judul":"Koloni Senior Bekalmu! Vol. 1",
+            "harga":46500,
+            "penulis":"Sihanjir \/Bangsyah"
+        },
+        {
+            "index":75,
+            "judul":"Juliet of The Boarding School 16 - tamat",
+            "harga":24000,
+            "penulis":"Yousuke Kaneda"
+        },
+        {
+            "index":76,
+            "judul":"One Room of Happiness 10",
+            "harga":24000,
+            "penulis":"HAKURI"
+        },
+        {
+            "index":77,
+            "judul":"Hiroshi Nohara's Lunch Style 07",
+            "harga":30000,
+            "penulis":"YOICHI TSUKAHARA\/YOSHITO USUI"
+        },
+        {
+            "index":78,
+            "judul":"AKASHA : Re:ZERO -Starting Life in Another World- The Frozen Bond 1",
+            "harga":36000,
+            "penulis":"TAPPEI NAGATSUKI\/MAKOTO FUGETSU\/SHINICHIROU OTSUKA"
+        },
+        {
+            "index":79,
+            "judul":"A Man & His Cat 6",
+            "harga":30000,
+            "penulis":"UMI SAKURAI"
+        },
+        {
+            "index":80,
+            "judul":"One Piece Party 07",
+            "harga":24000,
+            "penulis":"Eiichiro Oda"
+        },
+        {
+            "index":81,
+            "judul":"Virgo and The Sparkling Season II Vol. 02",
+            "harga":54000,
+            "penulis":"Annisa Nisfihani"
+        },
+        {
+            "index":82,
+            "judul":"Kubo Won`t Let Me Be Invisible 03",
+            "harga":37500,
+            "penulis":"Nene Yukimori"
+        },
+        {
+            "index":83,
+            "judul":"Mashle 03",
+            "harga":33750,
+            "penulis":"Hajime Komoto"
+        },
+        {
+            "index":84,
+            "judul":"Radiant 05",
+            "harga":36000,
+            "penulis":"TONY VALENTE"
+        },
+        {
+            "index":85,
+            "judul":"Agharna",
+            "harga":80750,
+            "penulis":"Saniyyah Putri Salsabila Said"
+        },
+        {
+            "index":86,
+            "judul":"Lentera Senja",
+            "harga":80750,
+            "penulis":"Alfia Ramadhani"
+        },
+        {
+            "index":87,
+            "judul":"Perjanjian Dua Surga",
+            "harga":84150,
+            "penulis":"Dianobi None"
+        },
+        {
+            "index":88,
+            "judul":"Komik Doa Anak Muslim Edisi Revisi",
+            "harga":119250,
+            "penulis":"Dian K & Aan W"
+        },
+        {
+            "index":89,
+            "judul":"Loversation",
+            "harga":126650,
+            "penulis":"Valerie Patkar"
+        },
+        {
+            "index":90,
+            "judul":"Keluarga Cemara#1",
+            "harga":74250,
+            "penulis":"Arswendo Atmowiloto"
+        },
+        {
+            "index":91,
+            "judul":"Komik Riwayat Peradaban Arab Sebelum Islam",
+            "harga":74800,
+            "penulis":"Kak Freddie & Kak Andiko"
+        },
+        {
+            "index":92,
+            "judul":"Komik Petualangan Sula 2: Menyusuri Jejak Al-Fatih Di Kota Kemenangan",
+            "harga":97750,
+            "penulis":"Irvan Aqila"
+        },
+        {
+            "index":93,
+            "judul":"AKASHA : Hellstar Remina",
+            "harga":51000,
+            "penulis":"ITO Junji"
+        },
+        {
+            "index":94,
+            "judul":"Aquatic Company! 01",
+            "harga":33750,
+            "penulis":"Wataru ISHII"
+        },
+        {
+            "index":95,
+            "judul":"Level Comic: Gokushufudo - The Way of House Husband 08",
+            "harga":30000,
+            "penulis":"Kousuke Oono"
+        },
+        {
+            "index":96,
+            "judul":"Level Comic: Tokyo Revengers 08",
+            "harga":30000,
+            "penulis":"Ken Wakui"
+        },
+        {
+            "index":97,
+            "judul":"Chion And The Cat Temple 08",
+            "harga":24000,
+            "penulis":"Ojiro Makoto"
+        },
+        {
+            "index":98,
+            "judul":"Fly Me to the Moon 10",
+            "harga":24000,
+            "penulis":"Hata Kenjiro"
+        },
+        {
+            "index":99,
+            "judul":"Black Butler 32",
+            "harga":24000,
+            "penulis":"Yana Toboso"
+        },
+        {
+            "index":100,
+            "judul":"DEMON SLAYER: Kimetsu no Yaiba 13",
+            "harga":30000,
+            "penulis":"Koyoharu Gotouge"
+        },
+        {
+            "index":101,
+            "judul":"One Piece 102",
+            "harga":33750,
+            "penulis":"Eiichiro Oda"
+        },
+        {
+            "index":102,
+            "judul":"Buku Ensiklopedia Sains & Teknologi: Alat dan Mesin",
+            "harga":131250,
+            "penulis":"KL Management"
+        },
+        {
+            "index":103,
+            "judul":"Unrivaled",
+            "harga":89250,
+            "penulis":"Marsella Tina"
+        },
+        {
+            "index":104,
+            "judul":"Radiant 04",
+            "harga":33750,
+            "penulis":"TONY VALENTE"
+        },
+        {
+            "index":105,
+            "judul":"AKASHA : Oshi no Ko : Anak Idola 07",
+            "harga":36000,
+            "penulis":"Aka AKASAKA"
+        },
+        {
+            "index":106,
+            "judul":"Si Juki Anak Kosan Vol 3",
+            "harga":71400,
+            "penulis":"Faza Meonk"
+        },
+        {
+            "index":107,
+            "judul":"My Wife`s My Lecturer, My Husband`s My Student",
+            "harga":72250,
+            "penulis":"Akhmad Fauzan & Eli Antina"
+        },
+        {
+            "index":108,
+            "judul":"AKASHA : Chainsaw Man 02",
+            "harga":36000,
+            "penulis":"Tatsuki Fujimoto"
+        },
+        {
+            "index":109,
+            "judul":"AKASHA : Wotakoi : Love is Hard for Otaku 09",
+            "harga":30000,
+            "penulis":"FUJITA"
+        },
+        {
+            "index":110,
+            "judul":"KOLONI Kill Starter Vol. 2",
+            "harga":46500,
+            "penulis":"Erfan Fajar"
+        },
+        {
+            "index":111,
+            "judul":"Plants VS Zombies - Komik Tubuh Manusia : Penjaga Kehidupan",
+            "harga":93750,
+            "penulis":"Xiao Jiangnan"
+        },
+        {
+            "index":112,
+            "judul":"Full Bloom Cheekiness 17",
+            "harga":24000,
+            "penulis":"Miyuki Mitsubachi"
+        },
+        {
+            "index":113,
+            "judul":"Cat Tales 07",
+            "harga":24000,
+            "penulis":"Konomi Wagata"
+        },
+        {
+            "index":114,
+            "judul":"Kaguya-sama, Love is War 13",
+            "harga":33750,
+            "penulis":"Aka AKASAKA"
+        },
+        {
+            "index":115,
+            "judul":"AKASHA : Record of Ragnarok 11",
+            "harga":33750,
+            "penulis":"AJI Chika, Shinya UMEMURA"
+        },
+        {
+            "index":116,
+            "judul":"AKASHA : Higehiro 02",
+            "harga":36000,
+            "penulis":"Shimesaba\/Booota\/ Imaru Adachi"
+        },
+        {
+            "index":117,
+            "judul":"Level Comic: Giant Killing 58",
+            "harga":26250,
+            "penulis":"Tsujitomo, Masaya Tsunamoto"
+        },
+        {
+            "index":118,
+            "judul":"Level Comic: Jojo`s BIzarre Adventure 05 - Part 2 Battle Tendency",
+            "harga":63750,
+            "penulis":"Hirohiko Araki"
+        },
+        {
+            "index":119,
+            "judul":"Ruler of The Land 83",
+            "harga":24000,
+            "penulis":"Jeon Keuk Jin & Yang Jae Hyun"
+        },
+        {
+            "index":120,
+            "judul":"Interview with Monster Girls 06",
+            "harga":30000,
+            "penulis":"Petos None"
+        },
+        {
+            "index":121,
+            "judul":"Restaurant To Another World Vol. 01",
+            "harga":33750,
+            "penulis":"Junpei Inuzuka"
+        },
+        {
+            "index":122,
+            "judul":"Libra of Nil Admirari 02",
+            "harga":33750,
+            "penulis":"Otome, Sho Yuzuki"
+        },
+        {
+            "index":123,
+            "judul":"Kisah Hantu-Hantu Di Nusantara",
+            "harga":55250,
+            "penulis":"Ipnu R. Nugroho"
+        },
+        {
+            "index":124,
+            "judul":"Meet Me in Amsterdam",
+            "harga":84150,
+            "penulis":"Kalea None"
+        },
+        {
+            "index":125,
+            "judul":"Buku Ensiklopedia Sains & Teknologi: Kehidupan Sehari-hari",
+            "harga":131250,
+            "penulis":"KL Management"
+        },
+        {
+            "index":126,
+            "judul":"Komik 10 Ulama Perawi Hadits",
+            "harga":123250,
+            "penulis":"Izzah Annisa&fajar Istiqlal"
+        },
+        {
+            "index":127,
+            "judul":"The Cold Sato is only Sweet to Me 01",
+            "harga":33750,
+            "penulis":"Kazami Sawatari"
+        },
+        {
+            "index":128,
+            "judul":"Lc: The Drops Of God 39",
+            "harga":12000,
+            "penulis":"Agi Tadashi,shu Okimoto"
+        },
+        {
+            "index":129,
+            "judul":"Yowamushi Pedal, Go! 20",
+            "harga":44250,
+            "penulis":"Wataru Watanabe"
+        },
+        {
+            "index":130,
+            "judul":"AKASHA : Dead Mount Death Play 07",
+            "harga":36000,
+            "penulis":"RYOHGO NARITA\/SHINTA FUJIMOTO"
+        },
+        {
+            "index":131,
+            "judul":"AKASHA : Fate\/Type Redline : Strange Story of Imperial Capital Holy Grail 01",
+            "harga":46400,
+            "penulis":"Ryoji Hirano\/Keikenti\/ Type-Moon"
+        },
+        {
+            "index":132,
+            "judul":"Level Comic: Kanojo Okarishimasu 10",
+            "harga":30000,
+            "penulis":"REIJI MIYAJIMA"
+        },
+        {
+            "index":133,
+            "judul":"Teasing Master, Takagi 11",
+            "harga":30000,
+            "penulis":"Soichiro YAMAMOTO"
+        },
+        {
+            "index":134,
+            "judul":"Detektif Conan Spesial 46",
+            "harga":30000,
+            "penulis":"Aoyama Gosho"
+        },
+        {
+            "index":135,
+            "judul":"Komik Waktu dalam Alquran",
+            "harga":96750,
+            "penulis":"Aan Wulandari Usman"
+        },
+        {
+            "index":136,
+            "judul":"Komik Mahfudzat: 22 Peribahasa Arab untuk Keseharianmu",
+            "harga":111750,
+            "penulis":"Dian K & Aan W"
+        },
+        {
+            "index":137,
+            "judul":"Level Comic: Bungo Stray Dogs 02",
+            "harga":37500,
+            "penulis":"Kafka Asagiri"
+        },
+        {
+            "index":138,
+            "judul":"Detektif Kindaichi (Premium) 10",
+            "harga":21000,
+            "penulis":"Seimaru Amagi & Fumiya Sato"
+        },
+        {
+            "index":139,
+            "judul":"Dia Bara",
+            "harga":80750,
+            "penulis":"Nurwina Sari"
+        },
+        {
+            "index":140,
+            "judul":"Lautan dan Dendamnya",
+            "harga":86250,
+            "penulis":"Adib Izra Mirza"
+        },
+        {
+            "index":141,
+            "judul":"Sakamoto Days 02",
+            "harga":33750,
+            "penulis":"Yuto Suzuki"
+        },
+        {
+            "index":142,
+            "judul":"Arakawa Under the Bridge 01",
+            "harga":37500,
+            "penulis":"Nakamura Hikaru"
+        },
+        {
+            "index":143,
+            "judul":"Blue Box 01",
+            "harga":30000,
+            "penulis":"Miura Kouji"
+        },
+        {
+            "index":144,
+            "judul":"Naruto the Movie: Ninja Clash in the Land of Snow Vol. 1",
+            "harga":51750,
+            "penulis":"Masashi Kishimoto"
+        },
+        {
+            "index":145,
+            "judul":"Yotsuba &! 15",
+            "harga":37500,
+            "penulis":"Kiyohiko Azuma"
+        },
+        {
+            "index":146,
+            "judul":"Oh My God! - Misteri Sulap Warna dan Cahaya",
+            "harga":71250,
+            "penulis":"YeaRimDang"
+        },
+        {
+            "index":147,
+            "judul":"Oh My God! Ke Mana Perginya Kotoran?",
+            "harga":71250,
+            "penulis":"YeaRimDang"
+        },
+        {
+            "index":148,
+            "judul":"Warisan dalam Kamar Pendaringan",
+            "harga":51000,
+            "penulis":"Widz Stoops"
+        },
+        {
+            "index":149,
+            "judul":"Arshaka : The Prince Charming",
+            "harga":84150,
+            "penulis":"Gulla None"
+        },
+        {
+            "index":150,
+            "judul":"Selat : In The Time I Spent With You",
+            "harga":84150,
+            "penulis":"Devitna None"
+        },
+        {
+            "index":151,
+            "judul":"High Rise Invasion 16",
+            "harga":24000,
+            "penulis":"Tsuina Miura \/ Takahiro Oba"
+        },
+        {
+            "index":152,
+            "judul":"AKASHA : Fist of the North Star 14",
+            "harga":56250,
+            "penulis":"Tetsuo Hara & Buronson"
+        },
+        {
+            "index":153,
+            "judul":"The Misfit of Demon King Academy 03",
+            "harga":33750,
+            "penulis":"Shu, Kaya Haruka"
+        },
+        {
+            "index":154,
+            "judul":"A Couple of Cuckoos 07",
+            "harga":30000,
+            "penulis":"Miki Yoshikawa"
+        },
+        {
+            "index":155,
+            "judul":"Black Clover 21",
+            "harga":30000,
+            "penulis":"Yuki TABATA"
+        },
+        {
+            "index":156,
+            "judul":"Detektif Conan Premium 14",
+            "harga":48750,
+            "penulis":"Aoyama Gosho"
+        },
+        {
+            "index":157,
+            "judul":"Fairy Tail 100 years Quest 10",
+            "harga":30000,
+            "penulis":"Hiro Mashima"
+        },
+        {
+            "index":158,
+            "judul":"The Blue Orchestra 06",
+            "harga":24000,
+            "penulis":"Makoto Akui"
+        },
+        {
+            "index":159,
+            "judul":"Level Comic: Tokyo Revengers 07",
+            "harga":30000,
+            "penulis":"Ken Wakui"
+        },
+        {
+            "index":160,
+            "judul":"Hello (Again), Cello",
+            "harga":93500,
+            "penulis":"NADIA RISTIVANI"
+        },
+        {
+            "index":161,
+            "judul":"Paket Hai, Miiko 1-3",
+            "harga":92250,
+            "penulis":"Eriko Ono"
+        },
+        {
+            "index":162,
+            "judul":"Level Comic: Tokyo Revengers 4",
+            "harga":30000,
+            "penulis":"Ken Wakui"
+        },
+        {
+            "index":163,
+            "judul":"Parodi Negeri Kami: 38 tahun Timun di Kompas (1985-2023) jilid 2",
+            "harga":159200,
+            "penulis":"Rahmat Riyadi"
+        },
+        {
+            "index":164,
+            "judul":"Parodi Negeri Kami: 38 tahun Timun di Kompas (1985-2023) jilid 1",
+            "harga":159200,
+            "penulis":"Rahmat Riyadi"
+        },
+        {
+            "index":165,
+            "judul":"Plants VS Zombies - Komik Dinosaurus : Pertarungan Sintas di Pulau Surga",
+            "harga":93750,
+            "penulis":"Xiao Jiangnan"
+        },
+        {
+            "index":166,
+            "judul":"AKASHA : Fate\/Strange Fake 04",
+            "harga":52500,
+            "penulis":"SIDUKI MORII\/RYOHGO NARITA\/TYPE-MOON"
+        },
+        {
+            "index":167,
+            "judul":"Edens Zero 14",
+            "harga":32000,
+            "penulis":"Hiro Mashima"
+        },
+        {
+            "index":168,
+            "judul":"MAO 06",
+            "harga":30000,
+            "penulis":"Takahashi Rumiko"
+        },
+        {
+            "index":169,
+            "judul":"Virgo and The Sparklings Season II Vol. 01: Langkah Baru",
+            "harga":57600,
+            "penulis":"Annisa Nisfihani dan Ellie Goh"
+        },
+        {
+            "index":170,
+            "judul":"The King`s Beast 04",
+            "harga":30000,
+            "penulis":"Rei Toma"
+        },
+        {
+            "index":171,
+            "judul":"Ito Junji Compilation \u2013 Tomie Part 2",
+            "harga":63750,
+            "penulis":"Ito Junji"
+        },
+        {
+            "index":172,
+            "judul":"AKASHA : Futo Detective 06",
+            "harga":33750,
+            "penulis":"Sanjo Riku\/ Masaki Sato"
+        },
+        {
+            "index":173,
+            "judul":"Pasta Kacang Merah (An Sweet Bean Paste)",
+            "harga":73500,
+            "penulis":"Durian Sukegawa"
+        },
+        {
+            "index":174,
+            "judul":"Gita Cinta dari SMA",
+            "harga":65000,
+            "penulis":"Eddy D. Iskandar"
+        },
+        {
+            "index":175,
+            "judul":"Rajendra",
+            "harga":84150,
+            "penulis":"Zahra Sahira Ruhwani"
+        },
+        {
+            "index":176,
+            "judul":"Dickon",
+            "harga":63750,
+            "penulis":"J. Sheridan Le Fanu"
+        },
+        {
+            "index":177,
+            "judul":"One Piece 100",
+            "harga":46750,
+            "penulis":"Eiichiro Oda"
+        },
+        {
+            "index":178,
+            "judul":"Black Clover 19",
+            "harga":30000,
+            "penulis":"Yuki TABATA"
+        },
+        {
+            "index":179,
+            "judul":"Sri Asih Celestial Goddess Vol. 03 - Alana`s Secret",
+            "harga":59250,
+            "penulis":"Devita Krisanti"
+        },
+        {
+            "index":180,
+            "judul":"Yona, the Girl Standing in the Blush of Dawn 34",
+            "harga":24000,
+            "penulis":"Mizuho Kusanagi"
+        },
+        {
+            "index":181,
+            "judul":"Sword Art Online 004 Fairy Dance",
+            "harga":73500,
+            "penulis":"REKI KAWAHARA \/ ABEC"
+        },
+        {
+            "index":182,
+            "judul":"Haikyu!!: Fly High! Volleyball! 32",
+            "harga":24000,
+            "penulis":"Haruichi Furudate"
+        },
+        {
+            "index":183,
+            "judul":"One Piece Party 06",
+            "harga":24000,
+            "penulis":"Eiichiro Oda"
+        },
+        {
+            "index":184,
+            "judul":"Alice in Borderland Vol. 02",
+            "harga":60000,
+            "penulis":"Haro Aso"
+        },
+        {
+            "index":185,
+            "judul":"PRETENDING NOT TO SEE - Dark Urban Legend 3-",
+            "harga":30000,
+            "penulis":"Ryo Azuki"
+        },
+        {
+            "index":186,
+            "judul":"AKASHA : The Journey of Elaina 02",
+            "harga":36000,
+            "penulis":"Jougi Shiraishi"
+        },
+        {
+            "index":187,
+            "judul":"Fate Grand Order Epic of Remnant: Seven Duels of Swordmasters 2",
+            "harga":33750,
+            "penulis":"TYPE-MOON \/ REI WATARU"
+        },
+        {
+            "index":188,
+            "judul":"Dragon Ball Super Vol. 16",
+            "harga":30000,
+            "penulis":"Akira Toriyama"
+        },
+        {
+            "index":189,
+            "judul":"Komi Sulit Berkomunikasi 15",
+            "harga":24000,
+            "penulis":"Tomohito ODA"
+        },
+        {
+            "index":190,
+            "judul":"Jurnal Mukai Usagido 07",
+            "harga":24000,
+            "penulis":"HISA TAKANO"
+        },
+        {
+            "index":191,
+            "judul":"Fujiwara is Almost Right 06",
+            "harga":30000,
+            "penulis":"Nao Hinachi"
+        },
+        {
+            "index":192,
+            "judul":"Mob Psycho 100 13",
+            "harga":30000,
+            "penulis":""
+        },
+        {
+            "index":193,
+            "judul":"Komik Tokyo Ghoul 01",
+            "harga":41250,
+            "penulis":"Sui Ishida"
+        },
+        {
+            "index":194,
+            "judul":"AKASHA : Takopi\u2019s Original Sin 01",
+            "harga":36000,
+            "penulis":"Taizan5 None"
+        },
+        {
+            "index":195,
+            "judul":"The Misfit of Demon King Academy 02",
+            "harga":33750,
+            "penulis":"Shu, Kaya Haruka"
+        },
+        {
+            "index":196,
+            "judul":"Level Comic Kanojo Okarishimasu 8",
+            "harga":30000,
+            "penulis":"REIJI MIYAJIMA"
+        },
+        {
+            "index":197,
+            "judul":"Job? Akulah Ahlinya YouTube Creator",
+            "harga":75000,
+            "penulis":"Kugil Publishing"
+        },
+        {
+            "index":198,
+            "judul":"Dragon Ball Super Vol. 15",
+            "harga":30000,
+            "penulis":"Akita Toriyama"
+        },
+        {
+            "index":199,
+            "judul":"Fairy Tail Happy Adventure 4",
+            "harga":33000,
+            "penulis":"Hiro Mashima"
+        },
+        {
+            "index":200,
+            "judul":"Black Site: Dark Urban Legend",
+            "harga":33000,
+            "penulis":"Ryo Azuki"
+        },
+        {
+            "index":201,
+            "judul":"On Children",
+            "harga":106250,
+            "penulis":"Wu Xiaole"
+        },
+        {
+            "index":202,
+            "judul":"Hanako Si Arwah Penasaran 0",
+            "harga":41250,
+            "penulis":"Aida Iro"
+        },
+        {
+            "index":203,
+            "judul":"Koloni Jawara Sejati",
+            "harga":38400,
+            "penulis":"Tanfidz Tammamudin & Ragha Sukma"
+        },
+        {
+            "index":204,
+            "judul":"YOUTH X MACHINEGUN Aoharu x Kikanju 05",
+            "harga":33750,
+            "penulis":"Naoe None"
+        },
+        {
+            "index":205,
+            "judul":"Hai, Miiko! 03 - Bookpaper",
+            "harga":33750,
+            "penulis":"Eriko Ono"
+        },
+        {
+            "index":206,
+            "judul":"KOLONI Rajasa - Demon of the Wood",
+            "harga":36000,
+            "penulis":"Akhmad Fadly"
+        },
+        {
+            "index":207,
+            "judul":"Final Fantasy : Lost Stranger 09",
+            "harga":36000,
+            "penulis":"HAZUKI MINASE, ITSUKI KAMEYA"
+        },
+        {
+            "index":208,
+            "judul":"SAMURAI 8 - The Tale of Hachimaru vol 01",
+            "harga":33750,
+            "penulis":"Masashi Kishimoto"
+        },
+        {
+            "index":209,
+            "judul":"Level Comic: Aku no Hana-Kembang Jahanam 01",
+            "harga":40000,
+            "penulis":"SHUZO OSHIMI"
+        },
+        {
+            "index":210,
+            "judul":"Level Comic: Bungo Stray Dogs 03",
+            "harga":37500,
+            "penulis":"Kafka Asagiri"
+        },
+        {
+            "index":211,
+            "judul":"Death Note - New Edition 01",
+            "harga":66000,
+            "penulis":"Ohba Tsugumi"
+        },
+        {
+            "index":212,
+            "judul":"Battle Game In 5 Seconds 14",
+            "harga":24000,
+            "penulis":"Saizou Harawata & Kashiwa Miyako"
+        },
+        {
+            "index":213,
+            "judul":"Tokyo Ghoul 02",
+            "harga":41250,
+            "penulis":"Sui Ishida"
+        },
+        {
+            "index":214,
+            "judul":"Fullmetal Alchemist 20th Anniversary Book",
+            "harga":74250,
+            "penulis":"Hiromu Arakawa"
+        },
+        {
+            "index":215,
+            "judul":"Jika Cinta itu Suci, yang Salah Manusianya",
+            "harga":46750,
+            "penulis":"Charansa"
+        },
+        {
+            "index":216,
+            "judul":"Jangan Panggil Namaku : Kumpulan Kisah Terhoror True Story",
+            "harga":56525,
+            "penulis":"Asri Satitis, Siti Zulia Agustina, Myrra Shalsa Nabila, Azzahra Viana, Febri Ardhita Sidik, Dll"
+        },
+        {
+            "index":217,
+            "judul":"Like a Stupid",
+            "harga":59075,
+            "penulis":"Diandra Kanaya"
+        },
+        {
+            "index":218,
+            "judul":"One Week Friends 06",
+            "harga":30000,
+            "penulis":"Matcha Hazuki"
+        },
+        {
+            "index":219,
+            "judul":"Ruler of The Land 82",
+            "harga":24000,
+            "penulis":"Jeon Keuk Jin"
+        },
+        {
+            "index":220,
+            "judul":"Classics: Jalan ke Wigan Pier (Road to Wigan Pier)",
+            "harga":68000,
+            "penulis":"George Orwell"
+        },
+        {
+            "index":221,
+            "judul":"Runtuhnya Dinasti Wang (A House Divided)",
+            "harga":95250,
+            "penulis":"Pearl S. Buck"
+        },
+        {
+            "index":222,
+            "judul":"Wang si Macan (Sons)",
+            "harga":101250,
+            "penulis":"Pearl S. Buck"
+        },
+        {
+            "index":223,
+            "judul":"Medicine",
+            "harga":84150,
+            "penulis":"Theofani Caroline"
+        },
+        {
+            "index":224,
+            "judul":"My Gus My Husband",
+            "harga":84150,
+            "penulis":"Aulia Rahimah"
+        },
+        {
+            "index":225,
+            "judul":"Alezra",
+            "harga":84150,
+            "penulis":"Kusdina Ain"
+        },
+        {
+            "index":226,
+            "judul":"Ningsih",
+            "harga":74800,
+            "penulis":"Teguh Faluvie"
+        },
+        {
+            "index":227,
+            "judul":"Ship of Theseus 10 - tamat",
+            "harga":24000,
+            "penulis":"Toshiya Higashimoto"
+        },
+        {
+            "index":228,
+            "judul":"AKASHA : Takopi\u2019s Original Sin 02 - tamat",
+            "harga":36000,
+            "penulis":"Taizan5 None"
+        },
+        {
+            "index":229,
+            "judul":"AKASHA : Higehiro 01",
+            "harga":36000,
+            "penulis":"Shimesaba\/Booota\/ Imaru Adachi"
+        },
+        {
+            "index":230,
+            "judul":"The Cold Sato is only Sweet to Me 02",
+            "harga":33750,
+            "penulis":"Kazami Sawatari"
+        },
+        {
+            "index":231,
+            "judul":"Calon Mama",
+            "harga":84150,
+            "penulis":"Bita Maharani"
+        },
+        {
+            "index":232,
+            "judul":"Teknik",
+            "harga":84150,
+            "penulis":"Renita Nozaria"
+        },
+        {
+            "index":233,
+            "judul":"Harlequin Koleksi Istimewa: Cinderella Sang Taipan Yunani (Secrets of Cinderella's Awakening)",
+            "harga":51750,
+            "penulis":"Sharon Kendrick"
+        },
+        {
+            "index":234,
+            "judul":"Samurai X Hokkaido Arc vol. 02",
+            "harga":37500,
+            "penulis":"Nobuhiro Watsuki"
+        },
+        {
+            "index":235,
+            "judul":"Dr. Slump 02",
+            "harga":56250,
+            "penulis":"Akira Toriyama"
+        },
+        {
+            "index":236,
+            "judul":"One Week Friends 07",
+            "harga":30000,
+            "penulis":"Matcha Hazuki"
+        },
+        {
+            "index":237,
+            "judul":"Blue Lock 07",
+            "harga":33750,
+            "penulis":"Muneyuki Kaneshiro"
+        },
+        {
+            "index":238,
+            "judul":"Level Comic: Bakemonogatari 11",
+            "harga":30000,
+            "penulis":"NISIOISIN,OH!GREAT"
+        },
+        {
+            "index":239,
+            "judul":"Mission: Yozakura Family 01",
+            "harga":33750,
+            "penulis":"Hitsuji Gondaira"
+        },
+        {
+            "index":240,
+            "judul":"Plants VS Zombies - Komik Dinosaurus : Dinosaurus dan Harta Karun Rahasia",
+            "harga":93750,
+            "penulis":"Xiao Jiangnan"
+        },
+        {
+            "index":241,
+            "judul":"Eknath",
+            "harga":80750,
+            "penulis":"Sotogakpaketomat None"
+        },
+        {
+            "index":242,
+            "judul":"Hadratus Syaikh Hasyim Asyari",
+            "harga":89250,
+            "penulis":"Ririn Astutiningrum dan Rohmat Kurnia"
+        },
+        {
+            "index":243,
+            "judul":"Komik Cut Nyak Din",
+            "harga":126650,
+            "penulis":"Fedrian Hasmand"
+        },
+        {
+            "index":244,
+            "judul":"Ayahku (Bukan) Pembohong",
+            "harga":80750,
+            "penulis":"Tere Liye"
+        },
+        {
+            "index":245,
+            "judul":"The Liar Between Us",
+            "harga":84150,
+            "penulis":"Raven None"
+        },
+        {
+            "index":246,
+            "judul":"Gemariel",
+            "harga":80750,
+            "penulis":"Rima Hidayatul Aeni"
+        },
+        {
+            "index":247,
+            "judul":"Si Juki Anak Kos London",
+            "harga":70125,
+            "penulis":"Pionicon"
+        },
+        {
+            "index":248,
+            "judul":"The Black Detective 07",
+            "harga":26250,
+            "penulis":"Yen Hioka"
+        },
+        {
+            "index":249,
+            "judul":"Q.E.D IFF 10",
+            "harga":30000,
+            "penulis":"Motohiro Katou"
+        },
+        {
+            "index":250,
+            "judul":"Cat Tales 06",
+            "harga":25600,
+            "penulis":"Konomi Wagata"
+        },
+        {
+            "index":251,
+            "judul":"Chion And The Cat Temple 07",
+            "harga":24000,
+            "penulis":"Ojiro Makoto"
+        },
+        {
+            "index":252,
+            "judul":"AKASHA : Chainsaw Man 01",
+            "harga":40800,
+            "penulis":"Tatsuki Fujimoto"
+        },
+        {
+            "index":253,
+            "judul":"Garis Takdir Untuk Hawa",
+            "harga":84150,
+            "penulis":"Dutahappygirl None"
+        },
+        {
+            "index":254,
+            "judul":"Kontrakan Nyai Suman",
+            "harga":84150,
+            "penulis":"Alitast None"
+        },
+        {
+            "index":255,
+            "judul":"Komik Jingga dalam Elegi",
+            "harga":62250,
+            "penulis":"Esti Kinasih"
+        },
+        {
+            "index":256,
+            "judul":"Petualangan Tintin: Perjalanan Ke Bulan",
+            "harga":66750,
+            "penulis":"Herge"
+        },
+        {
+            "index":257,
+            "judul":"Koloni Journal Of Terror 1",
+            "harga":36000,
+            "penulis":"Sweta Kartika"
+        },
+        {
+            "index":258,
+            "judul":"The Soaring Quadrable 2",
+            "harga":25000,
+            "penulis":"Arai Takahiro"
+        },
+        {
+            "index":259,
+            "judul":"Level Comic : Takasugi`s Lunch Box 10",
+            "harga":24000,
+            "penulis":"Nozomi Yanahara"
+        },
+        {
+            "index":260,
+            "judul":"Why? Game Science - Sains Permainan",
+            "harga":82500,
+            "penulis":"YeaRimDang"
+        },
+        {
+            "index":261,
+            "judul":"Plants VS Zombies - Komik Dinosaurus : Raja Dinosaurus",
+            "harga":93750,
+            "penulis":"Xiao Jiangnan"
+        },
+        {
+            "index":262,
+            "judul":"Ragna Crimson 04",
+            "harga":37500,
+            "penulis":"Daiki Kobayashi"
+        },
+        {
+            "index":263,
+            "judul":"Psychic Detective Yakumo Another Files: Silence Prophecy",
+            "harga":73500,
+            "penulis":"Manabu Kaminaga"
+        },
+        {
+            "index":264,
+            "judul":"Hai, Miiko! 35 - Edisi Khusus (bonus cardholder)",
+            "harga":51000,
+            "penulis":"Eriko Ono"
+        },
+        {
+            "index":265,
+            "judul":"Juliet of The Boarding School 15",
+            "harga":25600,
+            "penulis":"Yousuke Kaneda"
+        },
+        {
+            "index":266,
+            "judul":"Historical Romance: Proyek Sang Duchess (Project Duchess)",
+            "harga":84000,
+            "penulis":"Sabrina Jeffries"
+        },
+        {
+            "index":267,
+            "judul":"The Life We Lead",
+            "harga":78750,
+            "penulis":"Johana Melisa"
+        },
+        {
+            "index":268,
+            "judul":"A Terrified Teacher at Ghoul School! 01",
+            "harga":33750,
+            "penulis":"Mai Tanaka"
+        },
+        {
+            "index":269,
+            "judul":"She Is More Ordinary Than I Expected 04",
+            "harga":37500,
+            "penulis":"Eita Mizuno"
+        },
+        {
+            "index":270,
+            "judul":"One Room of Happiness 09",
+            "harga":26250,
+            "penulis":"HAKURI"
+        },
+        {
+            "index":271,
+            "judul":"Detektif Conan 101",
+            "harga":42500,
+            "penulis":"Aoyama Gosho"
+        },
+        {
+            "index":272,
+            "judul":"Mashle 02",
+            "harga":33750,
+            "penulis":"Hajime Komoto"
+        },
+        {
+            "index":273,
+            "judul":"Libra of Nil Admirari 01",
+            "harga":33750,
+            "penulis":"Otome, Sho Yuzuki"
+        },
+        {
+            "index":274,
+            "judul":"The Irregular at Magic High School 03",
+            "harga":37500,
+            "penulis":"TSUTOMO SATO"
+        },
+        {
+            "index":275,
+            "judul":"Pesta Dansa Alabaster kutukan ciuman terakhir",
+            "harga":90000,
+            "penulis":"Beatrix Gurian"
+        },
+        {
+            "index":276,
+            "judul":"Layla Majnun",
+            "harga":49300,
+            "penulis":"Syekh Nizami"
+        },
+        {
+            "index":277,
+            "judul":"KOLONI 5 Menit Sebelum Tayang Vol. 4",
+            "harga":44000,
+            "penulis":"Ockto Barimbing"
+        },
+        {
+            "index":278,
+            "judul":"Fate\/Grand Order - Mortalis : Stella - 03",
+            "harga":33750,
+            "penulis":"Shiramine, Type-Moon"
+        },
+        {
+            "index":279,
+            "judul":"Why? Dinosaurus",
+            "harga":82500,
+            "penulis":"Yearim dang"
+        },
+        {
+            "index":280,
+            "judul":"Why? Earth`s Disaster - Bencana di Bumi",
+            "harga":82500,
+            "penulis":"YeaRimDang"
+        },
+        {
+            "index":281,
+            "judul":"Level Comic: Jojo`s BIzarre Adventure 04 - Part 2 Battle Tendency",
+            "harga":63750,
+            "penulis":"Hirohiko Araki"
+        },
+        {
+            "index":282,
+            "judul":"Level Comic: Fight Ippo 129",
+            "harga":26250,
+            "penulis":"Joji Morikawa"
+        },
+        {
+            "index":283,
+            "judul":"Level Comic (LC): Fight Ippo 128",
+            "harga":26250,
+            "penulis":"Joji Morikawa"
+        },
+        {
+            "index":284,
+            "judul":"Komik Sahabat Anak Muslim",
+            "harga":34500,
+            "penulis":"Watiek Ideo"
+        },
+        {
+            "index":285,
+            "judul":"Why? People - Helen Keller",
+            "harga":82500,
+            "penulis":"YeaRimDang"
+        },
+        {
+            "index":286,
+            "judul":"AKASHA : Record of Ragnarok 10",
+            "harga":33750,
+            "penulis":"AJI Chika, Shinya UMEMURA"
+        },
+        {
+            "index":287,
+            "judul":"AKASHA : Oshi no Ko : Anak Idola 06",
+            "harga":36000,
+            "penulis":"Aka AKASAKA"
+        },
+        {
+            "index":288,
+            "judul":"LiT: Planet Luna",
+            "harga":82500,
+            "penulis":"Ray Antariksa Yasmine"
+        },
+        {
+            "index":289,
+            "judul":"Plants VS Zombies - Komik Dinosaurus : Pulau Terpencil",
+            "harga":93750,
+            "penulis":"Xiao Jiangnan"
+        },
+        {
+            "index":290,
+            "judul":"Kaguya-sama, Love is War 12",
+            "harga":33750,
+            "penulis":"Aka AKASAKA"
+        },
+        {
+            "index":291,
+            "judul":"Juru Masak Para Maiko 11",
+            "harga":24000,
+            "penulis":"Koyama Aiko"
+        },
+        {
+            "index":292,
+            "judul":"Mob Psycho 100 12",
+            "harga":30000,
+            "penulis":"One"
+        },
+        {
+            "index":293,
+            "judul":"Kembali Bebas",
+            "harga":60000,
+            "penulis":"Sasa Ahadiah"
+        },
+        {
+            "index":294,
+            "judul":"AKASHA : City Hunter - Complete Edition 13",
+            "harga":48750,
+            "penulis":"Hojo Tsukasa"
+        },
+        {
+            "index":295,
+            "judul":"Kindaichi 37 Tahun 10",
+            "harga":31500,
+            "penulis":"Seimaru Amagi & Fumiya Sato"
+        },
+        {
+            "index":296,
+            "judul":"Sakamoto Days 01",
+            "harga":33750,
+            "penulis":"Yuto Suzuki"
+        },
+        {
+            "index":297,
+            "judul":"One Piece 101",
+            "harga":51000,
+            "penulis":"Eiichiro Oda"
+        },
+        {
+            "index":298,
+            "judul":"Yoshizawa-kun 02 (END)",
+            "harga":52500,
+            "penulis":""
+        },
+        {
+            "index":299,
+            "judul":"AKASHA : The Journey of Elaina 01",
+            "harga":36000,
+            "penulis":"Jougi Shiraishi"
+        },
+        {
+            "index":300,
+            "judul":"Secret The Power",
+            "harga":120000,
+            "penulis":"Rhonda Byrne"
+        },
+        {
+            "index":301,
+            "judul":"Light Novel One Piece: The Adventure of Deadend The Movie",
+            "harga":52500,
+            "penulis":"Eiichiro Oda"
+        },
+        {
+            "index":302,
+            "judul":"Atelier of Witch Hat 07",
+            "harga":24000,
+            "penulis":"Kamome Shirahama"
+        },
+        {
+            "index":303,
+            "judul":"Mereka Sudah Mati",
+            "harga":69750,
+            "penulis":"Arumi Ekowati"
+        },
+        {
+            "index":304,
+            "judul":"Bungo Stray Dogs 2 - Osamu Dazai Dan Periode Hitam",
+            "harga":73500,
+            "penulis":"Kafka Asagiri"
+        },
+        {
+            "index":305,
+            "judul":"Level Comic: Kanojo Okarishimasu 09",
+            "harga":30000,
+            "penulis":"REIJI MIYAJIMA"
+        },
+        {
+            "index":306,
+            "judul":"Teasing Master, Takagi 10",
+            "harga":30000,
+            "penulis":"Soichiro YAMAMOTO"
+        },
+        {
+            "index":307,
+            "judul":"Shaman King Complete Edition 06",
+            "harga":56250,
+            "penulis":"Hiroyuki Takei"
+        },
+        {
+            "index":308,
+            "judul":"AKASHA : Fist of the North Star 13",
+            "harga":56250,
+            "penulis":"Tetsuo Hara & Buronson"
+        },
+        {
+            "index":309,
+            "judul":"Level Comic: Giant Killing 57",
+            "harga":26250,
+            "penulis":"Tsujitomo"
+        },
+        {
+            "index":310,
+            "judul":"Akasha : Ito Junji - Tomie",
+            "harga":72250,
+            "penulis":"Ito Junji"
+        },
+        {
+            "index":311,
+            "judul":"Kaiju No. 8 Vol. 05",
+            "harga":41250,
+            "penulis":"Naoya Matsumoto"
+        },
+        {
+            "index":312,
+            "judul":"Hanako Si Arwah Penasaran 12",
+            "harga":24000,
+            "penulis":"Aida Iro"
+        },
+        {
+            "index":313,
+            "judul":"Kaiju No. 8 Vol. 04",
+            "harga":41250,
+            "penulis":"Naoya Matsumoto"
+        },
+        {
+            "index":314,
+            "judul":"Atelier of Witch Hat 02",
+            "harga":24000,
+            "penulis":"Kamome Shirahama"
+        },
+        {
+            "index":315,
+            "judul":"Why? Animals",
+            "harga":82500,
+            "penulis":"Yearim dang"
+        },
+        {
+            "index":316,
+            "judul":"The School for Good and Evil 5 - Kristal Waktu",
+            "harga":176250,
+            "penulis":"Soman Chainani"
+        },
+        {
+            "index":317,
+            "judul":"AKASHA : City Hunter - Complete Edition 11",
+            "harga":43500,
+            "penulis":"TSUKASA HOJO"
+        },
+        {
+            "index":318,
+            "judul":"Destination: Jakarta 2040",
+            "harga":82500,
+            "penulis":"Muhammad Mashuri Adinugroho"
+        },
+        {
+            "index":319,
+            "judul":"STAR & DUST -Don`t Worry, Be Happy!- 04",
+            "harga":30000,
+            "penulis":"Kaori Hoshiya"
+        },
+        {
+            "index":320,
+            "judul":"Belajar dari Komik - Pintar Matematika Buku 4",
+            "harga":66000,
+            "penulis":"Gakken"
+        },
+        {
+            "index":321,
+            "judul":"Petualangan Tintin: Penerbangan 714 Ke Sydney",
+            "harga":67125,
+            "penulis":"Herge"
+        },
+        {
+            "index":322,
+            "judul":"Si Juki Seri Jalan-Jalan: Petualangan Di Thailand",
+            "harga":39000,
+            "penulis":"Faza Ibnu Ubaydillah Salman"
+        },
+        {
+            "index":323,
+            "judul":"Chion And The Cat Temple 06",
+            "harga":24000,
+            "penulis":"Ojiro Makoto"
+        },
+        {
+            "index":324,
+            "judul":"Level Comic: Gokushufudo - The Way of House Husband 07",
+            "harga":30000,
+            "penulis":"Kousuke Oono"
+        },
+        {
+            "index":325,
+            "judul":"Jingga Untuk Sandyakala - Part 1",
+            "harga":85500,
+            "penulis":"Esti Kinasih"
+        },
+        {
+            "index":326,
+            "judul":"DEMON SLAYER: Kimetsu no Yaiba 12",
+            "harga":30000,
+            "penulis":"Koyoharu Gotouge"
+        },
+        {
+            "index":327,
+            "judul":"KOLONI Gastronomale Vol. 1",
+            "harga":46500,
+            "penulis":"Kathrinna Rakhmavika"
+        },
+        {
+            "index":328,
+            "judul":"AKASHA : Fate\/Strange Fake 03",
+            "harga":52500,
+            "penulis":"SIDUKI MORII\/RYOHGO NARITA\/TYPE-MOON"
+        },
+        {
+            "index":329,
+            "judul":"The Apothecary Diaries 07",
+            "harga":33750,
+            "penulis":"NATSU HYUUGA \/ NEKOKURAGE"
+        },
+        {
+            "index":330,
+            "judul":"My Hero Academia 23",
+            "harga":33750,
+            "penulis":"Kohei Horikoshi"
+        },
+        {
+            "index":331,
+            "judul":"Atelier of Witch Hat 03",
+            "harga":24000,
+            "penulis":"Kamome Shirahama"
+        },
+        {
+            "index":332,
+            "judul":"Spy x Family 08",
+            "harga":38250,
+            "penulis":"Endo Tatsuya"
+        },
+        {
+            "index":333,
+            "judul":"Perfect World 12 - tamat",
+            "harga":24000,
+            "penulis":"Rie Aruga"
+        },
+        {
+            "index":334,
+            "judul":"KOLONI ANAY-NAY Vol. 1",
+            "harga":46500,
+            "penulis":"Olvyanda Ariesta"
+        },
+        {
+            "index":335,
+            "judul":"Plants VS Zombies - Komik Dinosaurus : Penyerbuan ke Kota Dinosaurus",
+            "harga":93750,
+            "penulis":"Xiao Jiangnan"
+        },
+        {
+            "index":336,
+            "judul":"Risa & The Ghost",
+            "harga":74800,
+            "penulis":"JURNAL RISA PROJECT"
+        },
+        {
+            "index":337,
+            "judul":"Komik Next G Mukbang",
+            "harga":33150,
+            "penulis":"Alliyaah Kanza Zyfaara, Indha Dkk"
+        },
+        {
+            "index":338,
+            "judul":"Trials Of Apollo #5: The Tower Of Nero (Int. Edt)",
+            "harga":178200,
+            "penulis":"Rick Riordan"
+        },
+        {
+            "index":339,
+            "judul":"Komik Next G Back To School",
+            "harga":33150,
+            "penulis":"KHALISA GHANIYA AZZA A., DKK"
+        },
+        {
+            "index":340,
+            "judul":"Genta & Nandea",
+            "harga":79050,
+            "penulis":"Eko Ivano Winata (Kata Kokoh)"
+        },
+        {
+            "index":341,
+            "judul":"Imaduddin Zanki",
+            "harga":62050,
+            "penulis":"Handri Satria & Sayf Muhammad Isa"
+        },
+        {
+            "index":342,
+            "judul":"Komik Kkpk : Balirina",
+            "harga":33150,
+            "penulis":"Muthia Fadhila Khairunnisa,Dkk"
+        },
+        {
+            "index":343,
+            "judul":"Silent Killer",
+            "harga":84575,
+            "penulis":"Sabrina Febrianti"
+        },
+        {
+            "index":344,
+            "judul":"Komik Next G Real Friend",
+            "harga":33150,
+            "penulis":"Talitha, dkk."
+        },
+        {
+            "index":345,
+            "judul":"Love & Olives",
+            "harga":163800,
+            "penulis":"JENNA WELCH"
+        },
+        {
+            "index":346,
+            "judul":"King Of Scars Duology #1",
+            "harga":203400,
+            "penulis":"Leigh Bardugo"
+        },
+        {
+            "index":347,
+            "judul":"Unofficial Harry Potter Reference Library : The Unoffici",
+            "harga":265500,
+            "penulis":"MUGGLENET"
+        },
+        {
+            "index":348,
+            "judul":"Seri Belajar Alkitab Dengan Cerita Binatang: Melawan Arus",
+            "harga":32300,
+            "penulis":"Ellis Wong Dan Haziella N"
+        },
+        {
+            "index":349,
+            "judul":"Sapiens: A Graphic History: The Birth Of Humankind (Vol. 1)",
+            "harga":332100,
+            "penulis":"Yuval Noah Harari"
+        },
+        {
+            "index":350,
+            "judul":"Exit",
+            "harga":83300,
+            "penulis":"ESSA"
+        },
+        {
+            "index":351,
+            "judul":"Queen",
+            "harga":93500,
+            "penulis":"Umi Wandira Gajah"
+        },
+        {
+            "index":352,
+            "judul":"Komik Kkpk Kutukan Kucing",
+            "harga":33150,
+            "penulis":""
+        },
+        {
+            "index":353,
+            "judul":"Kkpk.K-Pop Idol Photocard",
+            "harga":33150,
+            "penulis":"Naura Athaya Dkk"
+        },
+        {
+            "index":354,
+            "judul":"Cara Menghentikan Waktu (How To Stop Time)",
+            "harga":96750,
+            "penulis":"Matt Haig"
+        },
+        {
+            "index":355,
+            "judul":"Children Of Virtue And Vengeance (Legacy Of Orisha #2)",
+            "harga":82500,
+            "penulis":"Tomi Adeyemi"
+        },
+        {
+            "index":356,
+            "judul":"Tik",
+            "harga":53400,
+            "penulis":"SHORESTORY"
+        },
+        {
+            "index":357,
+            "judul":"Teenlit: Sixth Angel",
+            "harga":57000,
+            "penulis":"Luna Torashyngu"
+        },
+        {
+            "index":358,
+            "judul":"The Royals #3: Istana Kusut (Twisted Palace)",
+            "harga":59400,
+            "penulis":"ERIN WATT"
+        },
+        {
+            "index":359,
+            "judul":"Living With Bad Boy",
+            "harga":74800,
+            "penulis":"Cutputrikh & Cuplukpluk05"
+        },
+        {
+            "index":360,
+            "judul":"You Matter",
+            "harga":65450,
+            "penulis":"Puri Viera"
+        },
+        {
+            "index":361,
+            "judul":"Bendungan Jatibarang",
+            "harga":70000,
+            "penulis":"Tim Penulis Bbws Pemali Juana"
+        },
+        {
+            "index":362,
+            "judul":"Komik Next G Belajar Mandiri",
+            "harga":33150,
+            "penulis":"Anna Aqilah Fathiya Aifa"
+        },
+        {
+            "index":363,
+            "judul":"SC: Solely S, Absolutely M",
+            "harga":30000,
+            "penulis":"Rei Toma"
+        },
+        {
+            "index":364,
+            "judul":"La La Love Choir 02",
+            "harga":30000,
+            "penulis":"Yakko Kaga"
+        },
+        {
+            "index":365,
+            "judul":"Legend of An Emperor III : The Rogue Prince 05",
+            "harga":86250,
+            "penulis":"Tony Wong"
+        },
+        {
+            "index":366,
+            "judul":"Detektif Kindaichi (Premium) 30",
+            "harga":30000,
+            "penulis":"Seimaru Amagi & Fumiya Sato"
+        },
+        {
+            "index":367,
+            "judul":"Psikologi Umum Dasar",
+            "harga":110500,
+            "penulis":"Ahmad Saifuddin"
+        },
+        {
+            "index":368,
+            "judul":"Paranoia",
+            "harga":42500,
+            "penulis":"Shirley Jackson"
+        },
+        {
+            "index":369,
+            "judul":"Cat Kid Comic Club #3: On Purpose",
+            "harga":226000,
+            "penulis":"Dav Pilkey"
+        },
+        {
+            "index":370,
+            "judul":"Si Juki: Diplomasi Vs Pandemi",
+            "harga":43500,
+            "penulis":"Faza Ibnu Ubaydillah Salman"
+        },
+        {
+            "index":371,
+            "judul":"Light Novel One Piece: Clockwork Island Adventure",
+            "harga":56250,
+            "penulis":"Eiichiro Oda"
+        },
+        {
+            "index":372,
+            "judul":"Black Clover 18",
+            "harga":30000,
+            "penulis":"Yuki TABATA"
+        },
+        {
+            "index":373,
+            "judul":"Cut Nyak Dien Pejuang Wanita Yang Gigih Dan Berani",
+            "harga":33150,
+            "penulis":"Frida Firdiani"
+        },
+        {
+            "index":374,
+            "judul":"Mohammad Natsir Ulama Dan Politisi Yang Bersahaja Serta Tegu",
+            "harga":33150,
+            "penulis":"Pratiwi Subrata dkk"
+        },
+        {
+            "index":375,
+            "judul":"AKASHA : City Hunter Rebirth 07",
+            "harga":33750,
+            "penulis":"Hojo Tsukasa"
+        },
+        {
+            "index":376,
+            "judul":"Abu Bakar Penjaga Risalah Kenabian",
+            "harga":79900,
+            "penulis":"Diyah Rahma"
+        },
+        {
+            "index":377,
+            "judul":"AKASHA : Trace, Recollections of A Forensic Researcher 08",
+            "harga":25500,
+            "penulis":"Kei Koga"
+        },
+        {
+            "index":378,
+            "judul":"Detective Xeno and The Seven Locked Murder Rooms 04",
+            "harga":21000,
+            "penulis":"Kyouichi Nanatsuki \/ Teppei Sugiyama"
+        },
+        {
+            "index":379,
+            "judul":"A Baby Shark Book, I Love You, Baby Shark: Doo Doo Doo Doo D",
+            "harga":108000,
+            "penulis":"John John Bajet"
+        },
+        {
+            "index":380,
+            "judul":"Yona, the Girl Standing in the Blush of Dawn 33",
+            "harga":21000,
+            "penulis":"Mizuho Kusanagi"
+        },
+        {
+            "index":381,
+            "judul":"I Can Wash Up!: Helping Kids Develop Healthy Habits",
+            "harga":136800,
+            "penulis":"Meg Walters"
+        },
+        {
+            "index":382,
+            "judul":"Ready To Learn: Kindergarten Math Workbook",
+            "harga":54900,
+            "penulis":"Silver Dolphin"
+        },
+        {
+            "index":383,
+            "judul":"Picture Board Book: My Touch",
+            "harga":162000,
+            "penulis":"Jeffrey Turner"
+        },
+        {
+            "index":384,
+            "judul":"6 Button Sound Book: Sesame Street - Rubber Duckie Bath Time",
+            "harga":262800,
+            "penulis":""
+        },
+        {
+            "index":385,
+            "judul":"10 Button Sound Book: Sesame Street - I`M Ready To Read With",
+            "harga":186300,
+            "penulis":""
+        },
+        {
+            "index":386,
+            "judul":"Paket Komik-Ultah Elex 37",
+            "harga":27750,
+            "penulis":""
+        },
+        {
+            "index":387,
+            "judul":"AKASHA : Futo Detective 01",
+            "harga":33750,
+            "penulis":"Ishinomori Shotarou"
+        },
+        {
+            "index":388,
+            "judul":"Surga Yang Tak Di Rindukan 3",
+            "harga":104550,
+            "penulis":"Asma Nadia"
+        },
+        {
+            "index":389,
+            "judul":"Harlequin Koleksi Istimewa: Pernikahan Sang Raja (One Night Before the Royal Wedding)",
+            "harga":51750,
+            "penulis":"Sharon Kendrick"
+        },
+        {
+            "index":390,
+            "judul":"Romansa Hari Libur",
+            "harga":42500,
+            "penulis":"Charles Dickens"
+        },
+        {
+            "index":391,
+            "judul":"Cinta yang Memulihkan",
+            "harga":65250,
+            "penulis":"Alberthiene Endah"
+        },
+        {
+            "index":392,
+            "judul":"Flesh Out",
+            "harga":74250,
+            "penulis":"Bellazmr"
+        },
+        {
+            "index":393,
+            "judul":"MetroPop: My Perfect Imperfection",
+            "harga":63750,
+            "penulis":"Erlin Cahyadi"
+        },
+        {
+            "index":394,
+            "judul":"Fairy Tail 100 years Quest 09",
+            "harga":30000,
+            "penulis":"HIRO MASHIMA,ATSUO UEDA"
+        },
+        {
+            "index":395,
+            "judul":"Level Comic: Tokyo Revengers 06",
+            "harga":30000,
+            "penulis":"Ken Wakui"
+        },
+        {
+            "index":396,
+            "judul":"Fire Force 20",
+            "harga":24000,
+            "penulis":"Atsushi Ohkubo"
+        },
+        {
+            "index":397,
+            "judul":"AKASHA : Cells at Work! Black 05",
+            "harga":33750,
+            "penulis":"Akane Shimizu"
+        },
+        {
+            "index":398,
+            "judul":"Hai, Miiko! 01 - Bookpaper",
+            "harga":33750,
+            "penulis":"Eriko Ono"
+        },
+        {
+            "index":399,
+            "judul":"Educomics Plants vs Zombies: Tumbuhan",
+            "harga":93750,
+            "penulis":"Xiao Jiang Nan"
+        },
+        {
+            "index":400,
+            "judul":"Educomics Plants vs Zombies Komik Sains Robot: Pulau Kitchen",
+            "harga":93750,
+            "penulis":"Xiao Jiang Nan"
+        },
+        {
+            "index":401,
+            "judul":"Educomics Plants vs Zombies Komik Sains Robot: Aku Superstar!",
+            "harga":93750,
+            "penulis":"Xiao Jiang Nan"
+        },
+        {
+            "index":402,
+            "judul":"Virgin River Novel #1: Virgin River",
+            "harga":135000,
+            "penulis":"Robyn Carr"
+        },
+        {
+            "index":403,
+            "judul":"A Man & His Cat 09",
+            "harga":33750,
+            "penulis":"UMI SAKURAI"
+        },
+        {
+            "index":404,
+            "judul":"Educomics Plants vs Zombies: Warisan Dunia",
+            "harga":93750,
+            "penulis":"Xiao Jiang Nan"
+        },
+        {
+            "index":405,
+            "judul":"Yowamushi Pedal, Go! 19",
+            "harga":44250,
+            "penulis":"Wataru Watanabe"
+        },
+        {
+            "index":406,
+            "judul":"Fate\/Grand Order - Mortalis : Stella - 02",
+            "harga":33750,
+            "penulis":"Shiramine, Type-Moon"
+        },
+        {
+            "index":407,
+            "judul":"Take My Hand",
+            "harga":72250,
+            "penulis":"Ary Nilandari"
+        },
+        {
+            "index":408,
+            "judul":"Sword Art Online 003 Fairy Dance",
+            "harga":73500,
+            "penulis":"REKI KAWAHARA \/ ABEC"
+        },
+        {
+            "index":409,
+            "judul":"AKASHA : Dead Mount Death Play 06",
+            "harga":36000,
+            "penulis":"Shinta Fujimoto"
+        },
+        {
+            "index":410,
+            "judul":"Juliet of The Boarding School 14",
+            "harga":24000,
+            "penulis":"Yousuke Kaneda"
+        },
+        {
+            "index":411,
+            "judul":"One Room of Happiness 08",
+            "harga":24000,
+            "penulis":"HAKURI"
+        },
+        {
+            "index":412,
+            "judul":"Komik Kkpk The Halloween Cafe",
+            "harga":33150,
+            "penulis":"Nafisa Mahdiya, dkk."
+        },
+        {
+            "index":413,
+            "judul":"Komik Next G: Angkot Tua Rpl",
+            "harga":33150,
+            "penulis":"Sausan Apsarini, dkk."
+        },
+        {
+            "index":414,
+            "judul":"Komik Next G: Menjaga Sepupu Sendiri",
+            "harga":33150,
+            "penulis":"Cendekia Brilliantina P.S.W, Dkk"
+        },
+        {
+            "index":415,
+            "judul":"I`ve Been Killing Slimes for 300 Years (07)",
+            "harga":33750,
+            "penulis":"SHIBA YUUSUKE"
+        },
+        {
+            "index":416,
+            "judul":"LC: BLOOD LAD 11",
+            "harga":26250,
+            "penulis":"Yuuki KODAMA"
+        },
+        {
+            "index":417,
+            "judul":"Theory Of The Mistaken Destiny 01",
+            "harga":33750,
+            "penulis":"Niko Wakuhara"
+        },
+        {
+            "index":418,
+            "judul":"High Rise Invasion 15",
+            "harga":24000,
+            "penulis":"Tsuina Miura \/ Takahiro Oba"
+        },
+        {
+            "index":419,
+            "judul":"KOLONI 5 Menit Sebelum Tayang Vol. 2",
+            "harga":41250,
+            "penulis":"Matto Haq"
+        },
+        {
+            "index":420,
+            "judul":"AKASHA : Fate\/Apocrypha 04",
+            "harga":33750,
+            "penulis":"Yuichiro Higashide"
+        },
+        {
+            "index":421,
+            "judul":"Perfect World 10",
+            "harga":24000,
+            "penulis":"Rie Aruga"
+        },
+        {
+            "index":422,
+            "judul":"Frieren : After the End 03",
+            "harga":33750,
+            "penulis":"Tsukasa Abe"
+        },
+        {
+            "index":423,
+            "judul":"Komik Next G: Perkataan Itu Doa",
+            "harga":33150,
+            "penulis":""
+        },
+        {
+            "index":424,
+            "judul":"Komik Next G: Rebutan Tiket Bioskop",
+            "harga":33150,
+            "penulis":""
+        },
+        {
+            "index":425,
+            "judul":"Haji Boim 2.Sketsa Receh & Komik Bergizi",
+            "harga":84150,
+            "penulis":"Boim Lebon"
+        },
+        {
+            "index":426,
+            "judul":"Magic Writing Book Huruf Besar & Kecil",
+            "harga":67150,
+            "penulis":"ADELA KINARA"
+        },
+        {
+            "index":427,
+            "judul":"Komik Pintar : X-Venture the Golden Age - Sarang Minotaur Kreta",
+            "harga":58800,
+            "penulis":""
+        },
+        {
+            "index":428,
+            "judul":"Komik Next G: Kucingku Banyak",
+            "harga":33150,
+            "penulis":"Muhammad Rifky Abqory Dkk"
+        },
+        {
+            "index":429,
+            "judul":"Cerita Spesial Doraemon - Nobita Graffiti",
+            "harga":26250,
+            "penulis":"Fujiko F. Fujio"
+        },
+        {
+            "index":430,
+            "judul":"LC: Bakemonogatari 07",
+            "harga":30000,
+            "penulis":"NISIOISIN,OH!GREAT"
+        },
+        {
+            "index":431,
+            "judul":"Blonote",
+            "harga":101150,
+            "penulis":"TABLO"
+        },
+        {
+            "index":432,
+            "judul":"Dragon Ball Super Vol. 13",
+            "harga":30000,
+            "penulis":"Akita Toriyama"
+        },
+        {
+            "index":433,
+            "judul":"Jangan Kalah Sama Marah",
+            "harga":40800,
+            "penulis":"Yunda Fitrian, S.Psi"
+        },
+        {
+            "index":434,
+            "judul":"Kecil-Kecil Punya Karya (KKPK): Seoul Mates",
+            "harga":33150,
+            "penulis":"Hati Bening"
+        },
+        {
+            "index":435,
+            "judul":"Komik Next G Sedekah Membawa Berkah",
+            "harga":33150,
+            "penulis":"CAHAYA SHAREEFA, DKK"
+        },
+        {
+            "index":436,
+            "judul":"Komik Next G Merawat Kucing Diam-Diam",
+            "harga":33150,
+            "penulis":"GADIESA EFELINNEVA, DKK"
+        },
+        {
+            "index":437,
+            "judul":"Komik Next G: Piket Diaper",
+            "harga":33150,
+            "penulis":"IHSAN GAGAH MUHAMMAD, DKK"
+        },
+        {
+            "index":438,
+            "judul":"I Sold My Life For Ten Thousand Yen Per Year 03 Of 03",
+            "harga":21000,
+            "penulis":"MIAKI SUGARU \/ TAGUCHI SHOUICHI"
+        },
+        {
+            "index":439,
+            "judul":"Mengusir Para Cacing",
+            "harga":33000,
+            "penulis":"LEE HYE-OK, HWANG SEONG-HYE"
+        },
+        {
+            "index":440,
+            "judul":"Kembalikan Rumahku!",
+            "harga":33000,
+            "penulis":"LEE WON-GYEONG, JEON BYEONG-JUN"
+        },
+        {
+            "index":441,
+            "judul":"Juliet Of The Boarding School 09",
+            "harga":21000,
+            "penulis":"Yousuke Kaneda"
+        },
+        {
+            "index":442,
+            "judul":"Doraemon Petualangan 02",
+            "harga":24000,
+            "penulis":"Fujiko F. Fujio"
+        },
+        {
+            "index":443,
+            "judul":"Komik Kkpk Welcome To Unicorn World",
+            "harga":33150,
+            "penulis":"Naura Nuraqila, Dkk"
+        },
+        {
+            "index":444,
+            "judul":"Same Campus With Wife",
+            "harga":52800,
+            "penulis":"FARAH VIDA KARINA"
+        },
+        {
+            "index":445,
+            "judul":"Jejak Di Benak",
+            "harga":58800,
+            "penulis":"Faradita"
+        },
+        {
+            "index":446,
+            "judul":"Komik Kecil-Kecil Punya Karya (KKPK): Prank Time!",
+            "harga":33150,
+            "penulis":"ASMA WAFA SYAHIDAH, DKK"
+        },
+        {
+            "index":447,
+            "judul":"Komik Next G: Buah Keikhlasan",
+            "harga":33150,
+            "penulis":"HAMIM EINSINQOV, DKK"
+        },
+        {
+            "index":448,
+            "judul":"Komik Next G Omelan Mama Rpl",
+            "harga":33150,
+            "penulis":"Shasa Nabila Purnitarini & Elsy, Dkk"
+        },
+        {
+            "index":449,
+            "judul":"Hakim Boco Kebingungan",
+            "harga":33000,
+            "penulis":"YANG DAE-SEUNG, PARK SU-JEONG"
+        },
+        {
+            "index":450,
+            "judul":"Alaia",
+            "harga":84575,
+            "penulis":"Raden Chedid"
+        },
+        {
+            "index":451,
+            "judul":"Komik Next G Sahabat Al Quran",
+            "harga":39000,
+            "penulis":"Kayisa Harmony Genawan"
+        },
+        {
+            "index":452,
+            "judul":"Everyday Is Miracle",
+            "harga":39000,
+            "penulis":"LEE ANN NAA , DKK"
+        },
+        {
+            "index":453,
+            "judul":"Dinara",
+            "harga":84915,
+            "penulis":"Vinnara None"
+        },
+        {
+            "index":454,
+            "judul":"DEMON SLAYER: Kimetsu no Yaiba 11",
+            "harga":30000,
+            "penulis":"Koyoharu Gotouge"
+        },
+        {
+            "index":455,
+            "judul":"Komik Kkpk: Para Pemburu Hantu",
+            "harga":33150,
+            "penulis":"Rhafi Nadhir, Dkk"
+        },
+        {
+            "index":456,
+            "judul":"Ship of Theseus 08",
+            "harga":24000,
+            "penulis":"Toshiya Higashimoto"
+        },
+        {
+            "index":457,
+            "judul":"Alice in Borderland Vol. 01",
+            "harga":60000,
+            "penulis":"Haro Aso"
+        },
+        {
+            "index":458,
+            "judul":"Komik Tajwid",
+            "harga":61200,
+            "penulis":"Mifdah Hasanah"
+        },
+        {
+            "index":459,
+            "judul":"AKASHA : Wotakoi : Love is Hard for Otaku 03",
+            "harga":30000,
+            "penulis":"FUJITA"
+        },
+        {
+            "index":460,
+            "judul":"Job? Akulah Ahlinya AI - Artificial Intelligence",
+            "harga":75000,
+            "penulis":"Kugil Publishing"
+        },
+        {
+            "index":461,
+            "judul":"Dr. Stone 03",
+            "harga":33750,
+            "penulis":"Riichiro Inagaki"
+        },
+        {
+            "index":462,
+            "judul":"Theory Of The Mistaken Destiny 02",
+            "harga":33750,
+            "penulis":"Niko Wakuhara"
+        },
+        {
+            "index":463,
+            "judul":"MAO 05",
+            "harga":30000,
+            "penulis":"Takahashi Rumiko"
+        },
+        {
+            "index":464,
+            "judul":"Historical Romance: Tujuh Menit di Surga (Seven Minutes in Heaven)",
+            "harga":77250,
+            "penulis":"Eloisa James"
+        },
+        {
+            "index":465,
+            "judul":"Juliet of The Boarding School 01",
+            "harga":24000,
+            "penulis":"Yousuke Kaneda"
+        },
+        {
+            "index":466,
+            "judul":"Hibiki : Kiat Menjadi Novelis 13 - tamat",
+            "harga":28500,
+            "penulis":"Mitsuharu Yanamoto"
+        },
+        {
+            "index":467,
+            "judul":"Funny Si Kembar",
+            "harga":51000,
+            "penulis":"Falya Azka Huwaida"
+        },
+        {
+            "index":468,
+            "judul":"Muhammad 2 : Risalah & Nubuwah",
+            "harga":101150,
+            "penulis":"Zhaenal Fanani - Regu Kancil Studio"
+        },
+        {
+            "index":469,
+            "judul":"Detektif Kindaichi (Premium) 31",
+            "harga":26250,
+            "penulis":"Seimaru Amagi & Fumiya Sato"
+        },
+        {
+            "index":470,
+            "judul":"Fairy Tail City Hero 04",
+            "harga":30000,
+            "penulis":"Hiro Mashima"
+        },
+        {
+            "index":471,
+            "judul":"Si Juki Seri Keroyokan #16",
+            "harga":65450,
+            "penulis":"Pionicon"
+        },
+        {
+            "index":472,
+            "judul":"Tari Tari (1 & 2)",
+            "harga":60000,
+            "penulis":"Tomiyaki Kagisora"
+        },
+        {
+            "index":473,
+            "judul":"Komik Next G Vol. 499: Kipas Angin Misteri",
+            "harga":33150,
+            "penulis":"Djayanti Prabowo Dkk"
+        },
+        {
+            "index":474,
+            "judul":"Komik Next G: Rahasia Rambut Kakak Rpl",
+            "harga":33150,
+            "penulis":"Azka Aulia Rahman & Mie, Dkk"
+        },
+        {
+            "index":475,
+            "judul":"Magic Writing Book Garis Angka Dan Bentuk",
+            "harga":67150,
+            "penulis":"ADELA KINARA"
+        },
+        {
+            "index":476,
+            "judul":"Magic Writing Book Calistung",
+            "harga":67150,
+            "penulis":"ADELA KINARA"
+        },
+        {
+            "index":477,
+            "judul":"Cerita Si Kucing",
+            "harga":29750,
+            "penulis":""
+        },
+        {
+            "index":478,
+            "judul":"Komik Next G Vol. 495: Pelit Jadi Baik",
+            "harga":33150,
+            "penulis":"Safira Dwi Putri"
+        },
+        {
+            "index":479,
+            "judul":"Komik Kkpk: Let`s Play With Teddy",
+            "harga":33150,
+            "penulis":"Nadya Zahira, dkk."
+        },
+        {
+            "index":480,
+            "judul":"Seri Komik Matcha-Klub Pemasak Cilik",
+            "harga":33150,
+            "penulis":"Sherina Salsabila"
+        },
+        {
+            "index":481,
+            "judul":"Waru",
+            "harga":67500,
+            "penulis":"Aji Fauzi"
+        },
+        {
+            "index":482,
+            "judul":"Sri Asih Celestial Goddess Vol. 02 - Alana`s Identity",
+            "harga":59250,
+            "penulis":"Devita Krisanti"
+        },
+        {
+            "index":483,
+            "judul":"Kubo Won`t Let Me Be Invisible 02",
+            "harga":37500,
+            "penulis":"Nene Yukimori"
+        },
+        {
+            "index":484,
+            "judul":"Mutsunohana Exodus 01",
+            "harga":37500,
+            "penulis":"Shamu Ito"
+        },
+        {
+            "index":485,
+            "judul":"Level Comic: Just The Two of Us 01",
+            "harga":33750,
+            "penulis":"Yoshimura Akemi"
+        },
+        {
+            "index":486,
+            "judul":"Immortal Butterfly: Dark Urban Legend",
+            "harga":30000,
+            "penulis":"Ryo Azuki"
+        },
+        {
+            "index":487,
+            "judul":"C.M.B 42",
+            "harga":24000,
+            "penulis":"Motohiro Katou"
+        },
+        {
+            "index":488,
+            "judul":"Circe",
+            "harga":101250,
+            "penulis":"Madeline Miller"
+        },
+        {
+            "index":489,
+            "judul":"Satu Musim Panas  di Paris (One Summer in Paris)",
+            "harga":93750,
+            "penulis":"Sarah Morgan"
+        },
+        {
+            "index":490,
+            "judul":"Educomics Plants vs Zombies: Hidup Sehat",
+            "harga":93750,
+            "penulis":"Xiao Jiang Nan"
+        },
+        {
+            "index":491,
+            "judul":"Educomics Keluarga Super Irit 39: Hemat Itu Ada Seninya",
+            "harga":93750,
+            "penulis":"STORYBOX"
+        },
+        {
+            "index":492,
+            "judul":"Ship of Theseus 09",
+            "harga":24000,
+            "penulis":"Toshiya Higashimoto"
+        },
+        {
+            "index":493,
+            "judul":"YOUTH X MACHINEGUN Aoharu x Kikanju 04",
+            "harga":33750,
+            "penulis":""
+        },
+        {
+            "index":494,
+            "judul":"Hey, I'm Popular 14 - tamat",
+            "harga":21000,
+            "penulis":"Junko"
+        },
+        {
+            "index":495,
+            "judul":"Komik Pintar : Detektif Sains Anak CSI 06 - CSI, Tunjukkan Kemampuan Kalian!",
+            "harga":82500,
+            "penulis":"GO HEE-JUNG\/YANG SEON MO"
+        },
+        {
+            "index":496,
+            "judul":"Sherlock : A Scandal in Belgravia Part 2",
+            "harga":41250,
+            "penulis":"Hartswood Films"
+        },
+        {
+            "index":497,
+            "judul":"Seven Deadly Sins 41",
+            "harga":24000,
+            "penulis":"Nakaba Suzuki"
+        },
+        {
+            "index":498,
+            "judul":"Jurnal Mukai Usagido 06",
+            "harga":24000,
+            "penulis":"HISA TAKANO"
+        },
+        {
+            "index":499,
+            "judul":"KOLONI Gundala Son of Lightning 1",
+            "harga":51000,
+            "penulis":"Bumilangit Comics"
+        },
+        {
+            "index":500,
+            "judul":"Fate\/Grand Order -Turas Realta- 10",
+            "harga":33750,
+            "penulis":"Takeshi Kawaguchi & Type-Moon"
+        },
+        {
+            "index":501,
+            "judul":"Kartun Riwayat Peradaban Jilid III",
+            "harga":62500,
+            "penulis":"Larry Gonick"
+        },
+        {
+            "index":502,
+            "judul":"Kartun Riwayat Peradaban Jilid II",
+            "harga":62500,
+            "penulis":"Larry Gonick"
+        },
+        {
+            "index":503,
+            "judul":"Kartun Riwayat Peradaban Jilid I",
+            "harga":101250,
+            "penulis":"Larry Gonick"
+        },
+        {
+            "index":504,
+            "judul":"AKASHA : Brother for Rent 03",
+            "harga":33750,
+            "penulis":"Ichiiro Hako"
+        },
+        {
+            "index":505,
+            "judul":"AKASHA : Fist of the North Star 12",
+            "harga":56250,
+            "penulis":"Tetsuo Hara & Buronson"
+        },
+        {
+            "index":506,
+            "judul":"AKASHA : Fate\/Strange Fake 02",
+            "harga":52500,
+            "penulis":"SIDUKI MORII\/RYOHGO NARITA\/TYPE-MOON"
+        },
+        {
+            "index":507,
+            "judul":"Kaguya-sama, Love is War 11",
+            "harga":33750,
+            "penulis":"Aka AKASAKA"
+        },
+        {
+            "index":508,
+            "judul":"One Week Friends 05",
+            "harga":30000,
+            "penulis":"Matcha Hazuki"
+        },
+        {
+            "index":509,
+            "judul":"AKASHA : The Hellbound 02",
+            "harga":82500,
+            "penulis":"SANG-HO YEON, GYU-SEOK CHOI"
+        },
+        {
+            "index":510,
+            "judul":"The Irregular at Magic High School 02",
+            "harga":37500,
+            "penulis":"TSUTOMO SATO"
+        },
+        {
+            "index":511,
+            "judul":"Seri Edukasi Britannica: Fungi dan Lumut",
+            "harga":82500,
+            "penulis":"Bombom Story"
+        },
+        {
+            "index":512,
+            "judul":"Job? Akulah Ahlinya Drone",
+            "harga":75000,
+            "penulis":"Kugil Publishing"
+        },
+        {
+            "index":513,
+            "judul":"The Black Detective 06",
+            "harga":24000,
+            "penulis":"Yen Hioka"
+        },
+        {
+            "index":514,
+            "judul":"Interview with Monster Girls 05",
+            "harga":30000,
+            "penulis":""
+        },
+        {
+            "index":515,
+            "judul":"Kungfu Boy Legends 28",
+            "harga":24000,
+            "penulis":"Takeshi Maekawa"
+        },
+        {
+            "index":516,
+            "judul":"Sri Asih Celestial Goddess Vol. 01 - Alana`s Story",
+            "harga":59250,
+            "penulis":"Archie The Redcat"
+        },
+        {
+            "index":517,
+            "judul":"AKASHA : Record of Ragnarok 09",
+            "harga":33750,
+            "penulis":"AJI Chika, Shinya UMEMURA"
+        },
+        {
+            "index":518,
+            "judul":"Yowamushi Pedal, Go! 18",
+            "harga":44250,
+            "penulis":"Wataru Watanabe"
+        },
+        {
+            "index":519,
+            "judul":"Hiroshi Nohara's Lunch Style 06",
+            "harga":30000,
+            "penulis":"YOICHI TSUKAHARA\/YOSHITO USUI"
+        },
+        {
+            "index":520,
+            "judul":"Kaguya-sama, Love is War 10",
+            "harga":33750,
+            "penulis":"Aka AKASAKA"
+        },
+        {
+            "index":521,
+            "judul":"KOLONI 5 Menit Sebelum Tayang Vol. 1",
+            "harga":41250,
+            "penulis":"Matto Haq"
+        },
+        {
+            "index":522,
+            "judul":"She Is More Ordinary Than I Expected 02",
+            "harga":37500,
+            "penulis":"Eita Mizuno"
+        },
+        {
+            "index":523,
+            "judul":"Shaman King Complete Edition 05",
+            "harga":56250,
+            "penulis":"Hiroyuki Takei"
+        },
+        {
+            "index":524,
+            "judul":"Legenda Naga III 06",
+            "harga":24000,
+            "penulis":"Yoshito Yamahara"
+        },
+        {
+            "index":525,
+            "judul":"Educomics Plant vs Zombie Komik Sains Robot 1: Labirin Robot",
+            "harga":93750,
+            "penulis":"Xiao Jiang Nan"
+        },
+        {
+            "index":526,
+            "judul":"AKASHA : Brother for Rent 02",
+            "harga":33750,
+            "penulis":"Ichiiro Hako"
+        },
+        {
+            "index":527,
+            "judul":"AKASHA : Fist of the North Star 11",
+            "harga":56250,
+            "penulis":"Tetsuo Hara & Buronson"
+        },
+        {
+            "index":528,
+            "judul":"Hibiki : Kiat Menjadi Novelis 12",
+            "harga":28500,
+            "penulis":"Mitsuharu Yanamoto"
+        },
+        {
+            "index":529,
+            "judul":"Akasha : The Hellbound 01",
+            "harga":82500,
+            "penulis":"SANG-HO YEON, GYU-SEOK CHOI"
+        },
+        {
+            "index":530,
+            "judul":"Full Bloom Cheekiness 16",
+            "harga":24000,
+            "penulis":"Miyuki Mitsubachi"
+        },
+        {
+            "index":531,
+            "judul":"Juliet Of The Boarding School 13",
+            "harga":24000,
+            "penulis":"Yousuke Kaneda"
+        },
+        {
+            "index":532,
+            "judul":"The Irregular At Magic High School 01",
+            "harga":37500,
+            "penulis":"TSUTOMO SATO"
+        },
+        {
+            "index":533,
+            "judul":"La La Love Choir 03",
+            "harga":30000,
+            "penulis":"Yakko Kaga"
+        },
+        {
+            "index":534,
+            "judul":"The Misfit of Demon King Academy 01",
+            "harga":33750,
+            "penulis":"Shu, Kaya Haruka"
+        },
+        {
+            "index":535,
+            "judul":"Memoir of Vanitas 09",
+            "harga":24000,
+            "penulis":"Jun Mochizuki"
+        },
+        {
+            "index":536,
+            "judul":"Educomics Anak Tangguh Pintar Keuangan",
+            "harga":73500,
+            "penulis":""
+        },
+        {
+            "index":537,
+            "judul":"Educomics Anak Tangguh Rajin Belajar",
+            "harga":73500,
+            "penulis":"Lee young Joo"
+        },
+        {
+            "index":538,
+            "judul":"Light Comic: Gokushufudo - The Way of House Husband 06",
+            "harga":30000,
+            "penulis":"Kousuke Oono"
+        },
+        {
+            "index":539,
+            "judul":"Dr. Stone 01",
+            "harga":33750,
+            "penulis":"Riichiro Inagaki"
+        },
+        {
+            "index":540,
+            "judul":"No Choice",
+            "harga":55250,
+            "penulis":"Elmira Arasy"
+        },
+        {
+            "index":541,
+            "judul":"Ke Surga Bareng Abi Recca",
+            "harga":57800,
+            "penulis":""
+        },
+        {
+            "index":542,
+            "judul":"Yes Mr.Husband Semester 2",
+            "harga":76075,
+            "penulis":"Windi Sulistriani"
+        },
+        {
+            "index":543,
+            "judul":"Kamar Nomor 7",
+            "harga":84575,
+            "penulis":""
+        },
+        {
+            "index":544,
+            "judul":"Literature for Teens: Mereka Bilang Aku Kemlinthi",
+            "harga":75000,
+            "penulis":"Hanifa Vidya"
+        },
+        {
+            "index":545,
+            "judul":"Detektif Conan: Kaito Kid MIraculous Midair Walk\/Kaito Kid Vs. Makoto Kyogoku",
+            "harga":73500,
+            "penulis":"Aoyama Gosho"
+        },
+        {
+            "index":546,
+            "judul":"Harlequin Koleksi Istimewa: Rahasia yang Mengikat (Bound by Her Shocking Secret)",
+            "harga":51750,
+            "penulis":"Abby Green"
+        },
+        {
+            "index":547,
+            "judul":"AKASHA : Brother for Rent 04 - tamat",
+            "harga":37500,
+            "penulis":"Ichiiro Hako"
+        },
+        {
+            "index":548,
+            "judul":"The School for Good and Evil 4 - Meraih Kejayaan",
+            "harga":161250,
+            "penulis":"Soman Chainani"
+        },
+        {
+            "index":549,
+            "judul":"The School for Good and Evil 3 - Akhir Bahagia Selamanya",
+            "harga":176250,
+            "penulis":"Soman Chainani"
+        },
+        {
+            "index":550,
+            "judul":"Sherlock Holmes : Teka Teki Empat Pemburu Harta Karun",
+            "harga":56525,
+            "penulis":"Sir Arthur Conan Doyle"
+        },
+        {
+            "index":551,
+            "judul":"Q.E.D IFF 09",
+            "harga":30000,
+            "penulis":"Motohiro Katou"
+        },
+        {
+            "index":552,
+            "judul":"Komik Next G Vol. 471: Ketika Ayah Pulang",
+            "harga":33150,
+            "penulis":"Naifa Humaira Dunan dkk"
+        },
+        {
+            "index":553,
+            "judul":"Kisah Misteri Enola Holmes: Kasus Kode Rahasia Crinoline",
+            "harga":59250,
+            "penulis":"NANCY SPRINGER"
+        },
+        {
+            "index":554,
+            "judul":"Final Fantasy : Lost Stranger 08",
+            "harga":36000,
+            "penulis":"HAZUKI MINASE, ITSUKI KAMEYA"
+        },
+        {
+            "index":555,
+            "judul":"AKASHA : Oshi no Ko : Anak Idola 05",
+            "harga":36000,
+            "penulis":"Tomohito ODA"
+        },
+        {
+            "index":556,
+            "judul":"Dr. Stone 02",
+            "harga":33750,
+            "penulis":"Riichiro Inagaki"
+        },
+        {
+            "index":557,
+            "judul":"Hanako Si Arwah Penasaran 17",
+            "harga":24000,
+            "penulis":"Aida Iro"
+        },
+        {
+            "index":558,
+            "judul":"Komik Next G Vol. 503: Sirkus Horor",
+            "harga":33150,
+            "penulis":"Ayesha Dkk"
+        },
+        {
+            "index":559,
+            "judul":"Komik Next G Vol. 498: Itulah Gunanya Teman",
+            "harga":33150,
+            "penulis":"Marwah Mufidah, Dkk"
+        },
+        {
+            "index":560,
+            "judul":"Haikyu!!: Fly High! Volleyball! 30",
+            "harga":24000,
+            "penulis":"Haruichi Furudate"
+        },
+        {
+            "index":561,
+            "judul":"Buku Tulis-Hapus Belajar Dasar Aktivitas Anak Cerdas",
+            "harga":63750,
+            "penulis":"Abi Lingga"
+        },
+        {
+            "index":562,
+            "judul":"Blue Lock 06",
+            "harga":37125,
+            "penulis":"Muneyuki Kaneshiro"
+        },
+        {
+            "index":563,
+            "judul":"Spy x Family 07",
+            "harga":42075,
+            "penulis":"ENDOU TATSUYA"
+        },
+        {
+            "index":564,
+            "judul":"LC: Shiomi-chan 05 (END)",
+            "harga":33000,
+            "penulis":"Inoue Kazurou"
+        },
+        {
+            "index":565,
+            "judul":"A Man & His Cat 05",
+            "harga":33000,
+            "penulis":"UMI SAKURAI"
+        },
+        {
+            "index":566,
+            "judul":"100 Days Left!! 01",
+            "harga":37125,
+            "penulis":"NATA KOKONE"
+        },
+        {
+            "index":567,
+            "judul":"Why? Content Creator - Kreator Konten",
+            "harga":90750,
+            "penulis":"Yearimdang"
+        },
+        {
+            "index":568,
+            "judul":"Lc: Honda, Are You Alive? 01",
+            "harga":37125,
+            "penulis":"Yoshiki Tonogai"
+        },
+        {
+            "index":569,
+            "judul":"Detektif Conan Premium 06",
+            "harga":53625,
+            "penulis":"Aoyama Gosho"
+        },
+        {
+            "index":570,
+            "judul":"Spy x Family 02",
+            "harga":37125,
+            "penulis":"Endon Tatsuya"
+        },
+        {
+            "index":571,
+            "judul":"AKASHA : Cops & Robbers 05",
+            "harga":28125,
+            "penulis":"FUKUDA Shu"
+        },
+        {
+            "index":572,
+            "judul":"AKASHA : My Name is A 04 - tamat",
+            "harga":37125,
+            "penulis":"CHIKARA KIMIZUKA\/YEN HIOKA"
+        },
+        {
+            "index":573,
+            "judul":"Hitman Reborn! 22",
+            "harga":37125,
+            "penulis":"Akira Amano"
+        },
+        {
+            "index":574,
+            "judul":"Hiroshi Nohara's Lunch Style 03",
+            "harga":33000,
+            "penulis":"Tsukahara Youichi"
+        },
+        {
+            "index":575,
+            "judul":"My Hero Academia 16",
+            "harga":37125,
+            "penulis":"Kohei Horikoshi"
+        },
+        {
+            "index":576,
+            "judul":"The Star and I",
+            "harga":81750,
+            "penulis":"Ilana Tan"
+        },
+        {
+            "index":577,
+            "judul":"Kisah Zulaikha : Ulang Tahun Terindah",
+            "harga":66000,
+            "penulis":"Kadokawa Gempak Starz"
+        },
+        {
+            "index":578,
+            "judul":"Rengat",
+            "harga":64800,
+            "penulis":"Crowdstroia"
+        },
+        {
+            "index":579,
+            "judul":"Educomics Plants Vs Zombies : Migrasi Hewan",
+            "harga":103125,
+            "penulis":"Xiao Jiang Nan"
+        },
+        {
+            "index":580,
+            "judul":"Legend Of An Emperor Iii : The Rogue Prince 01",
+            "harga":66000,
+            "penulis":"Tony Wong"
+        },
+        {
+            "index":581,
+            "judul":"Wisma Cisantuy",
+            "harga":27600,
+            "penulis":"GALANG TIRTAKUSUMA DKK"
+        },
+        {
+            "index":582,
+            "judul":"Wingit",
+            "harga":82500,
+            "penulis":"Sara Wijayanto"
+        },
+        {
+            "index":583,
+            "judul":"The Grim Reaper and an Argent Cavalier 6",
+            "harga":23100,
+            "penulis":"Irono ."
+        },
+        {
+            "index":584,
+            "judul":"Bono-chan 02",
+            "harga":26400,
+            "penulis":"Mikio Igarashi"
+        },
+        {
+            "index":585,
+            "judul":"Educomics Plants Vs Zombies : Hewan Dan Tumbuhan Langka",
+            "harga":103125,
+            "penulis":"Xiao Jiang Nan"
+        },
+        {
+            "index":586,
+            "judul":"The Quintessential Quintuplets 07",
+            "harga":33000,
+            "penulis":"Negi Haruba"
+        },
+        {
+            "index":587,
+            "judul":"Educomics Plants Vs Zombies : Keselamatan Penerbangan",
+            "harga":103125,
+            "penulis":"Xiao Jiang Nan"
+        },
+        {
+            "index":588,
+            "judul":"Pengunjung Adalah Dewa",
+            "harga":18600,
+            "penulis":""
+        },
+        {
+            "index":589,
+            "judul":"Why? Endangered Animals & Plants - Hewan Dan Tumbuhan Terancam Punah",
+            "harga":72600,
+            "penulis":"Yearimdang"
+        },
+        {
+            "index":590,
+            "judul":"I Sold My Life For Ten Thousand Yen Per Year 01 Of 03",
+            "harga":26250,
+            "penulis":"MIAKI SUGARU \/ TAGUCHI SHOUICHI"
+        },
+        {
+            "index":591,
+            "judul":"The Quintessential Quintuplets 05",
+            "harga":33000,
+            "penulis":"Negi Haruba"
+        },
+        {
+            "index":592,
+            "judul":"Detektif Conan Premium 02",
+            "harga":53625,
+            "penulis":"Aoyama Gosho"
+        },
+        {
+            "index":593,
+            "judul":"Horimiya 14",
+            "harga":21000,
+            "penulis":"Hero,daisuke Hagiwara"
+        },
+        {
+            "index":594,
+            "judul":"Ariadne in the Blue Sky 01",
+            "harga":9300,
+            "penulis":"Norihiro Yagi"
+        },
+        {
+            "index":595,
+            "judul":"LC: Fight Ippo 124",
+            "harga":19800,
+            "penulis":"Joji Morikawa"
+        },
+        {
+            "index":596,
+            "judul":"Bonobono 01",
+            "harga":13201,
+            "penulis":"Mikio Igarashi"
+        },
+        {
+            "index":597,
+            "judul":"Why? People: Wolfgang Mozart",
+            "harga":72600,
+            "penulis":"Yearimdang"
+        },
+        {
+            "index":598,
+            "judul":"Detektif Conan Premium 01",
+            "harga":53625,
+            "penulis":"Aoyama Gosho"
+        },
+        {
+            "index":599,
+            "judul":"The Quintessential Quintuplets 03",
+            "harga":33000,
+            "penulis":"Negi Haruba"
+        },
+        {
+            "index":600,
+            "judul":"Kungfu Boy Legends 25",
+            "harga":23250,
+            "penulis":"Takeshi Maekawa"
+        },
+        {
+            "index":601,
+            "judul":"Educomics : Keluarga Super Irit 34: Si Ahli Irit",
+            "harga":103125,
+            "penulis":"Lim, Chang ho dan Ryu Soo hyung"
+        },
+        {
+            "index":602,
+            "judul":"Di Sini Ada Setan: Taman Penuh Hantu",
+            "harga":33000,
+            "penulis":"Crow Studio"
+        },
+        {
+            "index":603,
+            "judul":"Hanako Si Arwah Penasaran 07",
+            "harga":26250,
+            "penulis":"Aida Iro"
+        },
+        {
+            "index":604,
+            "judul":"Cookie Run Sweet Escape Adventure! - Antariksa",
+            "harga":78375,
+            "penulis":"Seoul Cultural Publisher, Inc."
+        },
+        {
+            "index":605,
+            "judul":"One Punch Man 18",
+            "harga":21000,
+            "penulis":"One & Yusuke Murata"
+        },
+        {
+            "index":606,
+            "judul":"The Promised Neverland 1",
+            "harga":26250,
+            "penulis":"Kaiu Shirai, Posuka Demizu"
+        },
+        {
+            "index":607,
+            "judul":"Virgo and The Sparklings 2: Pelangi Hitam Putih",
+            "harga":19800,
+            "penulis":"BUMI LANGIT"
+        },
+        {
+            "index":608,
+            "judul":"Why? Amazon",
+            "harga":72600,
+            "penulis":"Yearimdang"
+        },
+        {
+            "index":609,
+            "judul":"Why? Country - Spain",
+            "harga":90750,
+            "penulis":"Yearimdang"
+        },
+        {
+            "index":610,
+            "judul":"Seri Keluarga Super Irit 24: Irit-Irit Dahulu Berwisata Kemudian",
+            "harga":103125,
+            "penulis":"Yim Chang Ho"
+        },
+        {
+            "index":611,
+            "judul":"Tumbal",
+            "harga":57750,
+            "penulis":"Jounatan & Guntur Alam"
+        },
+        {
+            "index":612,
+            "judul":"Arwah",
+            "harga":57750,
+            "penulis":"Jounatan & Guntur Alam"
+        },
+        {
+            "index":613,
+            "judul":"Si Juki - Kisah Kusut Dunia Dongeng 1",
+            "harga":48750,
+            "penulis":"Faza Ibnu"
+        },
+        {
+            "index":614,
+            "judul":"Komik Waktu Dalam Al-Qur'An : Pergantian Siang Dan Malam",
+            "harga":89100,
+            "penulis":"Aan W."
+        },
+        {
+            "index":615,
+            "judul":"Lima Sekawan: Menyamarkan Teman",
+            "harga":35625,
+            "penulis":"Enid Blyton"
+        },
+        {
+            "index":616,
+            "judul":"Young Adult: Rahasia Tergelap",
+            "harga":46200,
+            "penulis":"Lexie Xu"
+        },
+        {
+            "index":617,
+            "judul":"Komik Next G Vol. 472: Kompleks Angker",
+            "harga":36550,
+            "penulis":"Ranaa Novia Althafunnisa & Mustafa"
+        },
+        {
+            "index":618,
+            "judul":"Kisah Zulaikha : Bahagia Sambut Ramadhan",
+            "harga":66000,
+            "penulis":"Kadokawa Gempak Starz"
+        },
+        {
+            "index":619,
+            "judul":"Kisah Zulaikha : Takoyaki Sisters Bermula",
+            "harga":66000,
+            "penulis":"Kadokawa Gempak Starz"
+        },
+        {
+            "index":620,
+            "judul":"Haikyu!!: Fly High! Volleyball! 17",
+            "harga":23250,
+            "penulis":"Haruichi Furudate"
+        },
+        {
+            "index":621,
+            "judul":"Haikyu!! Fly High! Volleyball! 09",
+            "harga":26250,
+            "penulis":"Haruichi Furudate"
+        },
+        {
+            "index":622,
+            "judul":"Haikyu!! Fly High! Volleyball! 08",
+            "harga":26250,
+            "penulis":"Haruichi Furudate"
+        },
+        {
+            "index":623,
+            "judul":"Komik Next G Chat Misterius",
+            "harga":36550,
+            "penulis":"SYIFA AZKA AMALIA, DKK"
+        },
+        {
+            "index":624,
+            "judul":"Rembulan Tenggelam Di Wajahmu",
+            "harga":93075,
+            "penulis":"Tere Liye"
+        },
+        {
+            "index":625,
+            "judul":"Museum Dan Kita",
+            "harga":102850,
+            "penulis":"Amanda Margareth"
+        },
+        {
+            "index":626,
+            "judul":"Komik Next G For My Best Friend",
+            "harga":33575,
+            "penulis":"Razita Khairani, Dkk"
+        },
+        {
+            "index":627,
+            "judul":"Komik Next G Cooking Class",
+            "harga":33575,
+            "penulis":"Naifah Athiyah Ghassani, Dkk"
+        },
+        {
+            "index":628,
+            "judul":"Tenung",
+            "harga":71825,
+            "penulis":"Dimas Tri Aditiyo"
+        },
+        {
+            "index":629,
+            "judul":"Si Juki Seri Keroyokan #8",
+            "harga":60500,
+            "penulis":"Pionicon"
+        },
+        {
+            "index":630,
+            "judul":"Firefiles",
+            "harga":102000,
+            "penulis":"Aletheia Agatha"
+        },
+        {
+            "index":631,
+            "judul":"Preman Sekolah",
+            "harga":92650,
+            "penulis":"MAULIDYA UTAMI"
+        },
+        {
+            "index":632,
+            "judul":"Juz Amma For Kids",
+            "harga":111350,
+            "penulis":"Tim Redaksi Noura Books"
+        },
+        {
+            "index":633,
+            "judul":"Komik Next G Rindu Bunda",
+            "harga":36550,
+            "penulis":"ZAHRAH SHABRINA NUR FAUZIAH & DESI"
+        },
+        {
+            "index":634,
+            "judul":"Antariksa",
+            "harga":92650,
+            "penulis":"Tresia ."
+        },
+        {
+            "index":635,
+            "judul":"Geez & Ann #1",
+            "harga":71825,
+            "penulis":"Rintik Sedu"
+        },
+        {
+            "index":636,
+            "judul":"The Darkest Shadows",
+            "harga":83300,
+            "penulis":""
+        },
+        {
+            "index":637,
+            "judul":"Galaksi Andromeda",
+            "harga":93500,
+            "penulis":""
+        },
+        {
+            "index":638,
+            "judul":"Komik Muhammad Al Fatih Vs Vlad Dracula Series",
+            "harga":289850,
+            "penulis":"Handri Satria & Safy Muhammad Isa"
+        },
+        {
+            "index":639,
+            "judul":"Komik Shalahuddin Vol 5 Pertempuran",
+            "harga":84150,
+            "penulis":"Handri Satria & Sayf Muhammad Isa"
+        },
+        {
+            "index":640,
+            "judul":"Juz Amma Tajwid Warna 3 Bahasa",
+            "harga":32725,
+            "penulis":"UST GIBRAN AR - ROSYID"
+        },
+        {
+            "index":641,
+            "judul":"Komik 25 Nabi & Rasul",
+            "harga":126225,
+            "penulis":"AISHA SHAFA & AGUS WILLY"
+        },
+        {
+            "index":642,
+            "judul":"Komik Lingkar : Bersih-Bersih Hati",
+            "harga":56100,
+            "penulis":"TANFIDZ T, BANGZIA, ASA G. LIZADI"
+        },
+        {
+            "index":643,
+            "judul":"Kkpk Piknik Panik",
+            "harga":36550,
+            "penulis":"NAJWA FUTHANA RAMADHANI"
+        },
+        {
+            "index":644,
+            "judul":"Si Juki Seri Keroyokan: The Rose of Buckingham Palace #14",
+            "harga":56525,
+            "penulis":"Pionicon"
+        },
+        {
+            "index":645,
+            "judul":"Komik Shalahuddin Al Ayyubi Seri 03",
+            "harga":85850,
+            "penulis":"HANDRI SATRIA DAN SAYF MUHAMMAD ISA"
+        },
+        {
+            "index":646,
+            "judul":"Komik Next G Gara-Gara Es Teh",
+            "harga":33575,
+            "penulis":"SHAFA QUENNA AQILA, DKK"
+        },
+        {
+            "index":647,
+            "judul":"Tokyo Ghoul : Re 02",
+            "harga":45000,
+            "penulis":"Sui Ishida"
+        },
+        {
+            "index":648,
+            "judul":"AKASHA : Fist of the North Star 08",
+            "harga":51750,
+            "penulis":"Tetsuo Hara & Buronson"
+        },
+        {
+            "index":649,
+            "judul":"AKASHA : City Hunter - Complete Edition 08",
+            "harga":43500,
+            "penulis":"Hojo Tsukasa"
+        },
+        {
+            "index":650,
+            "judul":"Final Fantasy : Lost Stranger 03",
+            "harga":36000,
+            "penulis":"HAZUKI MINASE, ITSUKI KAMEYA"
+        },
+        {
+            "index":651,
+            "judul":"Kisah Zulaikha - Bangku Sahabat",
+            "harga":73500,
+            "penulis":""
+        },
+        {
+            "index":652,
+            "judul":"Komik Pintar : Detektif Sains Anak CSI 05 - Identitas Pelaku Perlahan Terungkap",
+            "harga":73500,
+            "penulis":"GO HEE-JUNG\/YANG SEON MO"
+        },
+        {
+            "index":653,
+            "judul":"Papa and Daddy's Home Cooking 10",
+            "harga":21000,
+            "penulis":"Yuu Toyota"
+        },
+        {
+            "index":654,
+            "judul":"Hibiki - Kiat Menjadi Novelis 09",
+            "harga":26250,
+            "penulis":"Mitsuharu Yanamoto"
+        },
+        {
+            "index":655,
+            "judul":"Akasha : Re: Zero, Starting Life In Another World Ch 2 : 05 (Tamat)",
+            "harga":33750,
+            "penulis":"TAPPEI NAGATSUKI"
+        },
+        {
+            "index":656,
+            "judul":"Love, Be Loved, Leave, Be Left 08",
+            "harga":21000,
+            "penulis":"Io Sakisaka"
+        },
+        {
+            "index":657,
+            "judul":"AKASHA : Fist of the North Star 07",
+            "harga":51750,
+            "penulis":"Tetsuo Hara & Buronson"
+        },
+        {
+            "index":658,
+            "judul":"AKASHA : Dead Mount Death Play 02",
+            "harga":36000,
+            "penulis":"Narita Ryohgo"
+        },
+        {
+            "index":659,
+            "judul":"Yona, the Girl Standing in the Blush of Dawn 32",
+            "harga":21000,
+            "penulis":"Mizuho Kusanagi"
+        },
+        {
+            "index":660,
+            "judul":"Ther Melian: Recollection (Collector's Edition)",
+            "harga":56100,
+            "penulis":"Shienny M.s"
+        },
+        {
+            "index":661,
+            "judul":"Boruto - Naruto Next Generation Vol. 14",
+            "harga":30000,
+            "penulis":"Masashi Kishimoto"
+        },
+        {
+            "index":662,
+            "judul":"The King`s Beast 03",
+            "harga":30000,
+            "penulis":"Rei Toma"
+        },
+        {
+            "index":663,
+            "judul":"A Couple of Cuckoos 06",
+            "harga":30000,
+            "penulis":"Miki Yoshikawa"
+        },
+        {
+            "index":664,
+            "judul":"Light Novel Detektif Conan Jolly Roger in The Deep Azure",
+            "harga":52500,
+            "penulis":"Aoyama Gosho"
+        },
+        {
+            "index":665,
+            "judul":"Hai, Miiko! 02 - Edisi Khusus",
+            "harga":33750,
+            "penulis":"Eriko Ono"
+        },
+        {
+            "index":666,
+            "judul":"Haikyu!!: Fly High! Volleyball! 31",
+            "harga":24000,
+            "penulis":"Haruichi Furudate"
+        },
+        {
+            "index":667,
+            "judul":"AKASHA : Futo Detective 05",
+            "harga":33750,
+            "penulis":"Sanjo Riku\/ Masaki Sato"
+        },
+        {
+            "index":668,
+            "judul":"Samurai X Hokkaido Arc vol. 01",
+            "harga":37500,
+            "penulis":"Nobuhiro Watsuki"
+        },
+        {
+            "index":669,
+            "judul":"AKASHA : Wotakoi : Love is Hard for Otaku 10",
+            "harga":30000,
+            "penulis":"FUJITA"
+        },
+        {
+            "index":670,
+            "judul":"Yoshizawa-kun 01",
+            "harga":52500,
+            "penulis":"301 None"
+        },
+        {
+            "index":671,
+            "judul":"D.Gray-Man 25 - tamat",
+            "harga":25000,
+            "penulis":"Katsura Hoshino"
+        },
+        {
+            "index":672,
+            "judul":"Doraemon Movie: Nobita Dan Pulau Harta Karun",
+            "harga":18000,
+            "penulis":"Fujiko F. Fujio"
+        },
+        {
+            "index":673,
+            "judul":"Biarkan Aku Menulismu Sekali Lagi",
+            "harga":46750,
+            "penulis":"Ichwannul Suenta"
+        },
+        {
+            "index":674,
+            "judul":"Halo, Mantan!",
+            "harga":84150,
+            "penulis":"Dheti Azmi"
+        },
+        {
+            "index":675,
+            "judul":"Burung Nuri Untuk Nenek",
+            "harga":45000,
+            "penulis":"SOJEONG SHIM, SEOULHUI JEONG"
+        },
+        {
+            "index":676,
+            "judul":"Raihan &  Raisya",
+            "harga":47400,
+            "penulis":"LiaRezaVahlefi"
+        },
+        {
+            "index":677,
+            "judul":"The Silver Linings Playbook",
+            "harga":54000,
+            "penulis":"Matthew Quick"
+        },
+        {
+            "index":678,
+            "judul":"LC: Erased 06",
+            "harga":30000,
+            "penulis":"Kei Sanbe"
+        },
+        {
+            "index":679,
+            "judul":"Le Mariage: Despacito",
+            "harga":82500,
+            "penulis":"Indah Hanaco"
+        },
+        {
+            "index":680,
+            "judul":"Afeksi",
+            "harga":58800,
+            "penulis":"Nur Indah Sari Rini Palupi"
+        },
+        {
+            "index":681,
+            "judul":"Detektif Kindaichi (Premium) 25",
+            "harga":21000,
+            "penulis":"Seimaru Amagi & Fumiya Sato"
+        },
+        {
+            "index":682,
+            "judul":"Detektif Kindaichi (Premium) 24",
+            "harga":24000,
+            "penulis":"Seimaru Amagi & Fumiya Sato"
+        },
+        {
+            "index":683,
+            "judul":"Fly Me To The Moon 03",
+            "harga":16800,
+            "penulis":"Hata Kenjiro"
+        },
+        {
+            "index":684,
+            "judul":"Naga, Jangan Bucin!",
+            "harga":75650,
+            "penulis":"Andhyrama"
+        },
+        {
+            "index":685,
+            "judul":"Eclipse (Gerhana)",
+            "harga":69000,
+            "penulis":"Stephenie Meyer"
+        },
+        {
+            "index":686,
+            "judul":"Life is Beautiful",
+            "harga":36000,
+            "penulis":"Agnes Davonar"
+        },
+        {
+            "index":687,
+            "judul":"I Saw the Same Dream Again 03-tamat",
+            "harga":21000,
+            "penulis":"Idumi Kirihara"
+        },
+        {
+            "index":688,
+            "judul":"Through His World",
+            "harga":58800,
+            "penulis":"Rania Thahirah"
+        },
+        {
+            "index":689,
+            "judul":"X-Venture Dinosaur - Raja Lautan",
+            "harga":57000,
+            "penulis":"Kadokawa Gempak Starz"
+        },
+        {
+            "index":690,
+            "judul":"Breaking Dawn (Awal yang Baru)",
+            "harga":105000,
+            "penulis":"Stephenie Meyer"
+        },
+        {
+            "index":691,
+            "judul":"New Moon (Dua Cinta)",
+            "harga":63000,
+            "penulis":"Stephenie Meyer"
+        },
+        {
+            "index":692,
+            "judul":"The Antagonist Program",
+            "harga":53400,
+            "penulis":"Aranindy ."
+        },
+        {
+            "index":693,
+            "judul":"Twilight",
+            "harga":57000,
+            "penulis":"Stephenie Meyer"
+        },
+        {
+            "index":694,
+            "judul":"Kubo Won`t Let Me Be Invinsible 01",
+            "harga":37500,
+            "penulis":"Nene Yukimori"
+        },
+        {
+            "index":695,
+            "judul":"Frieren : After the End 04",
+            "harga":33750,
+            "penulis":"Kanehito Yamada"
+        },
+        {
+            "index":696,
+            "judul":"Ragna Crimson 03",
+            "harga":41250,
+            "penulis":"Daiki Kobayashi"
+        },
+        {
+            "index":697,
+            "judul":"Scrambled ~We Are Scrambled!~",
+            "harga":17400,
+            "penulis":"Rosalina Lintang"
+        },
+        {
+            "index":698,
+            "judul":"Cat Tales 05",
+            "harga":24000,
+            "penulis":"Konomi Wagata"
+        },
+        {
+            "index":699,
+            "judul":"Fate\/Strange Fake 4",
+            "harga":73500,
+            "penulis":"RYOHGO NARITA & SIDUKI MORII"
+        },
+        {
+            "index":700,
+            "judul":"Regarding Reincarnated to Slime 11",
+            "harga":24000,
+            "penulis":"Taiki Kawakami"
+        },
+        {
+            "index":701,
+            "judul":"Why? Internet of Things: Internet untuk Segala",
+            "harga":82500,
+            "penulis":"Yearimdang"
+        },
+        {
+            "index":702,
+            "judul":"Komik Akhlak Sehari-Hari",
+            "harga":55250,
+            "penulis":"Yeti Nurmayati Dan Suryarini"
+        },
+        {
+            "index":703,
+            "judul":"Buya Hamka Sang Ulama Pejuang",
+            "harga":52700,
+            "penulis":"Ratnani Latifah Dan Pak Lele Studio"
+        },
+        {
+            "index":704,
+            "judul":"Komik Baik, Jago Sains Hafal Qur`An, Bisa!",
+            "harga":55000,
+            "penulis":"Nurhayati Pujiastuti"
+        },
+        {
+            "index":705,
+            "judul":"Komik Tauhid Mengenal Keesaan Allah",
+            "harga":44200,
+            "penulis":"Fajriatun Nur"
+        },
+        {
+            "index":706,
+            "judul":"Komik Mahfuzhat: Pepatah Muslim Anti Nyerah",
+            "harga":84150,
+            "penulis":"Adya Tuti & Pak Lele Studio"
+        },
+        {
+            "index":707,
+            "judul":"Komik Kkpk: My Cool Teacher",
+            "harga":33150,
+            "penulis":"Syifa Tsabita Wiangga, Dkk"
+        },
+        {
+            "index":708,
+            "judul":"Komik Kkpk Misteri Rawon Setan",
+            "harga":33150,
+            "penulis":"Ilma Maqul Istima Dkk"
+        },
+        {
+            "index":709,
+            "judul":"Mewarnai Binatang Peliharaan Bonus Stiker (Indonesia-Inggris",
+            "harga":34000,
+            "penulis":"ELLY ZR"
+        },
+        {
+            "index":710,
+            "judul":"Perfect World 11",
+            "harga":24000,
+            "penulis":"Rie Aruga"
+        },
+        {
+            "index":711,
+            "judul":"Mob Psycho 100 11",
+            "harga":30000,
+            "penulis":""
+        },
+        {
+            "index":712,
+            "judul":"Detektif Conan Premium 13",
+            "harga":48750,
+            "penulis":"Aoyama Gosho"
+        },
+        {
+            "index":713,
+            "judul":"Teasing Master, Takagi 09",
+            "harga":30000,
+            "penulis":"Soichiro YAMAMOTO"
+        },
+        {
+            "index":714,
+            "judul":"Fairy Tail City Hero 03",
+            "harga":30000,
+            "penulis":"Hiro Mashima"
+        },
+        {
+            "index":715,
+            "judul":"Detektif Conan Zero`s Tea Time 05",
+            "harga":37500,
+            "penulis":"Aoyama Gosho"
+        },
+        {
+            "index":716,
+            "judul":"One Week Friends 03",
+            "harga":30000,
+            "penulis":"Matcha Hazuki"
+        },
+        {
+            "index":717,
+            "judul":"One Piece Blue : Grand Data File",
+            "harga":33750,
+            "penulis":"Eiichiro Oda"
+        },
+        {
+            "index":718,
+            "judul":"Koloni Ghosty'S Comic Vol. 1 - Para Pencari Uang Dan Pengabd",
+            "harga":30000,
+            "penulis":"FAJAR HADRIA PUTRA DAN JARET FAJRIANTO"
+        },
+        {
+            "index":719,
+            "judul":"Akasha : Futo Detective 04",
+            "harga":33750,
+            "penulis":"SANJO RIKU\/MASAKI SATO"
+        },
+        {
+            "index":720,
+            "judul":"Komi Sulit Berkomunikasi 13",
+            "harga":24000,
+            "penulis":"Tomohito ODA"
+        },
+        {
+            "index":721,
+            "judul":"Why? Biomimetics - Biomimetika",
+            "harga":82500,
+            "penulis":"YeaRimDang"
+        },
+        {
+            "index":722,
+            "judul":"Cat Tales 04",
+            "harga":24000,
+            "penulis":"Konomi Wagata"
+        },
+        {
+            "index":723,
+            "judul":"Your Sweet Poison 01",
+            "harga":30000,
+            "penulis":"Yakko Kaga"
+        },
+        {
+            "index":724,
+            "judul":"Koloni: Rumah Mice Vol. 2",
+            "harga":45000,
+            "penulis":"Muhammad Mice Misrad"
+        },
+        {
+            "index":725,
+            "judul":"KOLONI Sinawang",
+            "harga":33750,
+            "penulis":"Dedy Koerniawan Soesanto"
+        },
+        {
+            "index":726,
+            "judul":"Volt 2: G.A.R.U.D.A",
+            "harga":45000,
+            "penulis":"Aswin Mc Siregar"
+        },
+        {
+            "index":727,
+            "judul":"One Piece Blue Deep Characters World",
+            "harga":48750,
+            "penulis":"Eiichiro Oda"
+        },
+        {
+            "index":728,
+            "judul":"Detektif Conan Premium 12",
+            "harga":48750,
+            "penulis":"Aoyama Gosho"
+        },
+        {
+            "index":729,
+            "judul":"King`s Beast Vol. 2",
+            "harga":30000,
+            "penulis":"Rei Toma"
+        },
+        {
+            "index":730,
+            "judul":"Koloni : Abdijiwo",
+            "harga":33750,
+            "penulis":"RETNO W."
+        },
+        {
+            "index":731,
+            "judul":"Sm: The Escape Game",
+            "harga":21000,
+            "penulis":"HANAKA HARUSE"
+        },
+        {
+            "index":732,
+            "judul":"Akasha : The Birds Of Death 02",
+            "harga":20400,
+            "penulis":"DR. IM"
+        },
+        {
+            "index":733,
+            "judul":"Garuda Eleven 01",
+            "harga":42000,
+            "penulis":"SWETA KARTIKA,DS STUDIO INDONESIA"
+        },
+        {
+            "index":734,
+            "judul":"Look Forward For The Next Death Game 01",
+            "harga":16800,
+            "penulis":"PERICO"
+        },
+        {
+            "index":735,
+            "judul":"Akasha : Legal X Love 03",
+            "harga":24000,
+            "penulis":"TAKEKO YASU"
+        },
+        {
+            "index":736,
+            "judul":"Lc: Mitsume Cleaned The Plates Again Today 01",
+            "harga":18000,
+            "penulis":"DODO YAMAZAKI,TUREDUREHANAKO"
+        },
+        {
+            "index":737,
+            "judul":"LC: Shanghai White Snake Mansion Mysteries 2",
+            "harga":18000,
+            "penulis":"SHOU KIMIZUKA"
+        },
+        {
+            "index":738,
+            "judul":"Akasha : King'S Game - Origin 05",
+            "harga":20400,
+            "penulis":"J-TA YAMADA \/ NOBUAKI KANAZAWA"
+        },
+        {
+            "index":739,
+            "judul":"Dear Ex 01",
+            "harga":16800,
+            "penulis":"MIZUKI HOSHINO"
+        },
+        {
+            "index":740,
+            "judul":"Dragon Village - Sekolah Detektif Matematika : Pengukuran",
+            "harga":72000,
+            "penulis":"Yearimdang"
+        },
+        {
+            "index":741,
+            "judul":"LC: Bakemonogatari 05",
+            "harga":30000,
+            "penulis":"NISIOISIN,OH!GREAT"
+        },
+        {
+            "index":742,
+            "judul":"Akasha : Fist Of The North Star 04",
+            "harga":51750,
+            "penulis":"BURONSON\/HARA TETSUO"
+        },
+        {
+            "index":743,
+            "judul":"Science Wonder Quest: Ayo Jelajahi Sistem Pencernaan Tubuh!",
+            "harga":58800,
+            "penulis":"GAKKEN PLUS"
+        },
+        {
+            "index":744,
+            "judul":"Good Morning Teacher! Lesson 08",
+            "harga":48000,
+            "penulis":"Kadokawa Gempak Starz"
+        },
+        {
+            "index":745,
+            "judul":"Switch Witch 02",
+            "harga":16800,
+            "penulis":"Sayaka Mogi"
+        },
+        {
+            "index":746,
+            "judul":"Ariadne in the Blue Sky 02",
+            "harga":16800,
+            "penulis":"Norihiro Yagi"
+        },
+        {
+            "index":747,
+            "judul":"Seven Deadly Sins 36",
+            "harga":16800,
+            "penulis":"Nakaba Suzuki"
+        },
+        {
+            "index":748,
+            "judul":"Dragon Village - Sekolah Detektif Matematika : Bentuk",
+            "harga":72000,
+            "penulis":"JUNBEOM LEE \/ NTOON"
+        },
+        {
+            "index":749,
+            "judul":"Akasha : Legal X Love 02",
+            "harga":24000,
+            "penulis":"TAKEKO YASU"
+        },
+        {
+            "index":750,
+            "judul":"Lc: Shanghai White Snake Mansion Mysteries 01",
+            "harga":18000,
+            "penulis":"SHOU KIMIZUKA"
+        },
+        {
+            "index":751,
+            "judul":"Scary Lessons - Reincarnation 09",
+            "harga":16800,
+            "penulis":"Emi Ishikawa"
+        },
+        {
+            "index":752,
+            "judul":"Im ~ Great Priest Imhotep 10",
+            "harga":16800,
+            "penulis":"Morishita Makoto"
+        },
+        {
+            "index":753,
+            "judul":"Akasha : Chiruran, Shinsengumi Requiem 03",
+            "harga":25500,
+            "penulis":"EIJI HASHIMOTO \/ SHINYA UMEMURA"
+        },
+        {
+            "index":754,
+            "judul":"The Ancient Magus' Bride 12",
+            "harga":16800,
+            "penulis":"Kore Yamazaki"
+        },
+        {
+            "index":755,
+            "judul":"Sc: I Won`T Do Unrequited Love",
+            "harga":8400,
+            "penulis":"Niko Wakuhara"
+        },
+        {
+            "index":756,
+            "judul":"Tsubaki-Chou Lonely Planet 01",
+            "harga":16800,
+            "penulis":"YAMAMORI MIKA"
+        },
+        {
+            "index":757,
+            "judul":"Detektif Kindaichi (Premium) 23",
+            "harga":21000,
+            "penulis":"Seimaru Amagi & Fumiya Sato"
+        },
+        {
+            "index":758,
+            "judul":"The Grim Reaper And An Argent Cavalier 5",
+            "harga":8400,
+            "penulis":"Irono ."
+        },
+        {
+            "index":759,
+            "judul":"The Ancient Magus' Bride 11",
+            "harga":16800,
+            "penulis":"Kore Yamazaki"
+        },
+        {
+            "index":760,
+            "judul":"Filokomik",
+            "harga":101250,
+            "penulis":"Jean -Philippe"
+        },
+        {
+            "index":761,
+            "judul":"I'm Going to Protect My Self",
+            "harga":52800,
+            "penulis":"Hsiao Pei"
+        },
+        {
+            "index":762,
+            "judul":"Akasha : Sweet Marriage 01",
+            "harga":24000,
+            "penulis":"Ryu Yuuhi"
+        },
+        {
+            "index":763,
+            "judul":"Psychic Detective Yakumo - The Alternate Story 14",
+            "harga":23400,
+            "penulis":"Manabu Kaminaga \/ Suzuka Oda"
+        },
+        {
+            "index":764,
+            "judul":"Battle Science : Drone",
+            "harga":58800,
+            "penulis":"LEE JOON BEOM\/MUNG SUN SEANG"
+        },
+        {
+            "index":765,
+            "judul":"Detektif Conan The Movie: Crossroad In The Ancient Capital 02",
+            "harga":30000,
+            "penulis":"Aoyama Gosho"
+        },
+        {
+            "index":766,
+            "judul":"The Ancient Magu's Bride 10",
+            "harga":16800,
+            "penulis":"Kore Yamazaki"
+        },
+        {
+            "index":767,
+            "judul":"Cells At Work! 02",
+            "harga":30000,
+            "penulis":"Akane Shimizu"
+        },
+        {
+            "index":768,
+            "judul":"Twin Star Exorcists 06",
+            "harga":8400,
+            "penulis":"Yoshiaki Sukeno"
+        },
+        {
+            "index":769,
+            "judul":"Lc: Erased 03",
+            "harga":30000,
+            "penulis":"Kei Sanbe"
+        },
+        {
+            "index":770,
+            "judul":"The Royal Tutor 12",
+            "harga":8400,
+            "penulis":"Higasa Akai"
+        },
+        {
+            "index":771,
+            "judul":"Gg Stories Of Oedo 9",
+            "harga":8400,
+            "penulis":"Ai Takahashi"
+        },
+        {
+            "index":772,
+            "judul":"Handa Kun Anthology",
+            "harga":8400,
+            "penulis":"Satsuki Yoshino"
+        },
+        {
+            "index":773,
+            "judul":"My Youth Romantic Comedy Is Wrong As I Expected @Comic 01",
+            "harga":8400,
+            "penulis":"Wataru Watari, Naomichi Io, Ponkan"
+        },
+        {
+            "index":774,
+            "judul":"Bono-Chan 01",
+            "harga":12000,
+            "penulis":"Mikio Igarashi"
+        },
+        {
+            "index":775,
+            "judul":"Sofia Fashion Investigations Season 2 Vol. 3",
+            "harga":18000,
+            "penulis":"Galih Bondan Rambatan"
+        },
+        {
+            "index":776,
+            "judul":"Yugioh Arc V 06",
+            "harga":8400,
+            "penulis":"Naohito Miyoshi,Kazuki Takahashi"
+        },
+        {
+            "index":777,
+            "judul":"Nisekoi: False Love 25 (END)",
+            "harga":9000,
+            "penulis":"Naoshi Komi"
+        },
+        {
+            "index":778,
+            "judul":"Sc: Wrinkle",
+            "harga":8400,
+            "penulis":"BUZZG & MOGELATTE"
+        },
+        {
+            "index":779,
+            "judul":"Komikus Shojo Nozaki 11",
+            "harga":16800,
+            "penulis":"Izumi Tsubaki"
+        },
+        {
+            "index":780,
+            "judul":"Sofia Fashion Investigations Season 2 vol. 2",
+            "harga":18000,
+            "penulis":"Galih Bondan Rambatan"
+        },
+        {
+            "index":781,
+            "judul":"Battle Science: Luar Angkasa",
+            "harga":29400,
+            "penulis":"Shin Kyung Soon"
+        },
+        {
+            "index":782,
+            "judul":"Battle Science: Forensik",
+            "harga":29400,
+            "penulis":"Lee Joon Beom, Ju Sung Yun"
+        },
+        {
+            "index":783,
+            "judul":"100 Blossoms Of Love 01",
+            "harga":8400,
+            "penulis":"Yuka Shibano"
+        },
+        {
+            "index":784,
+            "judul":"SC: I`ll Leave You Two Alone",
+            "harga":8400,
+            "penulis":"SUNAO NAGAE"
+        },
+        {
+            "index":785,
+            "judul":"Unkiss My Best Friend, I Don'T Want To 04",
+            "harga":8400,
+            "penulis":"Airi Sano"
+        },
+        {
+            "index":786,
+            "judul":"Cafe De Laylah 01",
+            "harga":8400,
+            "penulis":"TAKEYUKI SATO"
+        },
+        {
+            "index":787,
+            "judul":"Kuroko's Basketball 25",
+            "harga":16800,
+            "penulis":"Tadatoshi Fujimaki"
+        },
+        {
+            "index":788,
+            "judul":"Sc: A Warm Goodbye",
+            "harga":8400,
+            "penulis":"Yuka Nakajima"
+        },
+        {
+            "index":789,
+            "judul":"Untukmu Yang Abadi 06",
+            "harga":16800,
+            "penulis":"Yoshitoki Oima"
+        },
+        {
+            "index":790,
+            "judul":"The Grim Reaper and an Argent Cavalier 3",
+            "harga":8400,
+            "penulis":"Irono ."
+        },
+        {
+            "index":791,
+            "judul":"The Prince of Tennis II Vol. 21",
+            "harga":8400,
+            "penulis":"Takeshi Konomi"
+        },
+        {
+            "index":792,
+            "judul":"Youthful Note 01",
+            "harga":8400,
+            "penulis":"Umi Ayase"
+        },
+        {
+            "index":793,
+            "judul":"Koloni Jagabumi Vol 1 - Legenda",
+            "harga":36000,
+            "penulis":"Bumilangit Comic Media\/Andy Wijaya"
+        },
+        {
+            "index":794,
+            "judul":"KOLONI : OZONE",
+            "harga":14400,
+            "penulis":"Raisa Insyirah"
+        },
+        {
+            "index":795,
+            "judul":"Komik Kok Gitu Sih?",
+            "harga":33000,
+            "penulis":"Dian Kristiani"
+        },
+        {
+            "index":796,
+            "judul":"Di Sini Ada Setan: Mal Berhantu",
+            "harga":29970,
+            "penulis":"Max"
+        },
+        {
+            "index":797,
+            "judul":"Juru Masak Para Maiko 04",
+            "harga":7500,
+            "penulis":"Koyama Aiko"
+        },
+        {
+            "index":798,
+            "judul":"Yona, The Girl Standing In The Blush Of Dawn 26",
+            "harga":18750,
+            "penulis":"Mizuho Kusanagi"
+        },
+        {
+            "index":799,
+            "judul":"Seven Deadly Sins 32",
+            "harga":7500,
+            "penulis":"Nakaba Suzuki"
+        },
+        {
+            "index":800,
+            "judul":"Sofia Fashion Investigations Season 2 Vol. 1",
+            "harga":18000,
+            "penulis":"Galih Bondan Rambatan"
+        },
+        {
+            "index":801,
+            "judul":"Stories After Dark : Korea",
+            "harga":25501,
+            "penulis":"HUANG JIA JUN"
+        },
+        {
+            "index":802,
+            "judul":"KOLONI Journal of Terror 3",
+            "harga":36000,
+            "penulis":"Sweta Kartika"
+        },
+        {
+            "index":803,
+            "judul":"Belajar dari Komik - Pintar Matematika Buku 3",
+            "harga":66000,
+            "penulis":"Gakken"
+        },
+        {
+            "index":804,
+            "judul":"Chion And The Cat Temple 05",
+            "harga":24000,
+            "penulis":"Ojiro Makoto"
+        },
+        {
+            "index":805,
+            "judul":"LC: Tokyo Revengers 05",
+            "harga":30000,
+            "penulis":"Ken Wakui"
+        },
+        {
+            "index":806,
+            "judul":"Mashle 01",
+            "harga":33750,
+            "penulis":"Hajime Komoto"
+        },
+        {
+            "index":807,
+            "judul":"Kemari Kota 01",
+            "harga":30000,
+            "penulis":"Takashi Murakami"
+        },
+        {
+            "index":808,
+            "judul":"Mob Psycho 100 03",
+            "harga":30000,
+            "penulis":"One"
+        },
+        {
+            "index":809,
+            "judul":"LN: The Promised Neverland Surat dari Norman",
+            "harga":56250,
+            "penulis":"Kaiu Shirai, Posuka Demizu"
+        },
+        {
+            "index":810,
+            "judul":"Komik Cerita Hantu di Sekolah Eropa",
+            "harga":93750,
+            "penulis":"Yim, Kang jae dan Jung, Hyun hee"
+        },
+        {
+            "index":811,
+            "judul":"Seven Deadly Sins 40",
+            "harga":22500,
+            "penulis":"Nakaba Suzuki"
+        },
+        {
+            "index":812,
+            "judul":"SC: Love Judgement",
+            "harga":30000,
+            "penulis":"Niko Wakuhara"
+        },
+        {
+            "index":813,
+            "judul":"KOLONI : CODE HELIX 03",
+            "harga":46500,
+            "penulis":"NIKKI DIBYA, BRYAN ARFIANDY"
+        },
+        {
+            "index":814,
+            "judul":"Job? Akulah Ahlinya Pendidikan",
+            "harga":75000,
+            "penulis":"Kugil Publishing"
+        },
+        {
+            "index":815,
+            "judul":"KOLONI Masak Apa Papa Hari Ini",
+            "harga":43500,
+            "penulis":""
+        },
+        {
+            "index":816,
+            "judul":"Detektif Conan The Movie: Zero the Enforcer 02",
+            "harga":33750,
+            "penulis":"Aoyama Gosho"
+        },
+        {
+            "index":817,
+            "judul":"Fly Me to the Moon 09",
+            "harga":24000,
+            "penulis":"Hata Kenjiro"
+        },
+        {
+            "index":818,
+            "judul":"Detektif Conan The Movie: Zero the Enforcer 01",
+            "harga":33750,
+            "penulis":"Aoyama Gosho"
+        },
+        {
+            "index":819,
+            "judul":"Juru Masak Para Maiko 10",
+            "harga":24000,
+            "penulis":"Koyama Aiko"
+        },
+        {
+            "index":820,
+            "judul":"Daily Lives Of High School Boys 07",
+            "harga":24000,
+            "penulis":"Yasunabu Yamauchi"
+        },
+        {
+            "index":821,
+            "judul":"Fujiwara is Almost Right 05",
+            "harga":30000,
+            "penulis":"Nao Hinachi"
+        },
+        {
+            "index":822,
+            "judul":"Final Fantasy : Lost Stranger 06",
+            "harga":36000,
+            "penulis":"HAZUKI MINASE, ITSUKI KAMEYA"
+        },
+        {
+            "index":823,
+            "judul":"Level Comic (LC): Gokushufudo - The Way of House Husband 06",
+            "harga":40000,
+            "penulis":"Kousuke Oono"
+        },
+        {
+            "index":824,
+            "judul":"FS Lc: Shiomi-Chan 03",
+            "harga":40000,
+            "penulis":"Inoue Kazurou"
+        },
+        {
+            "index":825,
+            "judul":"FS Fire Force 16",
+            "harga":28000,
+            "penulis":"Atsushi Ohkubo"
+        },
+        {
+            "index":826,
+            "judul":"FS Atelier Of Witch Hat 06",
+            "harga":28000,
+            "penulis":"Kamome Shirahama"
+        },
+        {
+            "index":827,
+            "judul":"FS That Summer 1959 Volume 2",
+            "harga":40000,
+            "penulis":"Ashibi Fukui"
+        },
+        {
+            "index":828,
+            "judul":"FS Bono-Chan 02",
+            "harga":40000,
+            "penulis":"Mikio Igarashi"
+        },
+        {
+            "index":829,
+            "judul":"FS Ruler of The Land 78",
+            "harga":28000,
+            "penulis":"Jeon Keuk-jin & Yang Jae-hyun"
+        },
+        {
+            "index":830,
+            "judul":"FS Battle Game In 5 Seconds 11",
+            "harga":28000,
+            "penulis":"Saizou Harawata & Kashiwa Miyako"
+        },
+        {
+            "index":831,
+            "judul":"FS Fairy Tail 100 Years Quest 05",
+            "harga":40000,
+            "penulis":"HIRO MASHIMA,ATSUO UEDA"
+        },
+        {
+            "index":832,
+            "judul":"FS Fly Me To The Moon 03",
+            "harga":28000,
+            "penulis":"Hata Kenjiro"
+        },
+        {
+            "index":833,
+            "judul":"FS Detektif Conan Movie: The Fist of Blue Sapphire (first)",
+            "harga":80000,
+            "penulis":"Aoyama Gosho"
+        },
+        {
+            "index":834,
+            "judul":"Komik Next G Vol. 492: Tetap Semangat",
+            "harga":33150,
+            "penulis":"Putri Aida Alfa Khira, Dkk Putri Aida Alfa Khira, Dkk"
+        },
+        {
+            "index":835,
+            "judul":"Kecil-Kecil Punya Karya (KKPK): The Brave Princess",
+            "harga":33150,
+            "penulis":"Fildzah Hanifa Syukra"
+        },
+        {
+            "index":836,
+            "judul":"Komik Nabi Muhammad",
+            "harga":80750,
+            "penulis":"AISHA SHAFA & AGUS WILLY"
+        },
+        {
+            "index":837,
+            "judul":"AKASHA : Cells at Work! Black 02",
+            "harga":33750,
+            "penulis":"Shigemitsu Harada"
+        },
+        {
+            "index":838,
+            "judul":"AKASHA : Futo Detective 03",
+            "harga":33750,
+            "penulis":"Sanjo Riku\/ Masaki Sato"
+        },
+        {
+            "index":839,
+            "judul":"She is More Ordinary Than I Expected 01",
+            "harga":37500,
+            "penulis":"Kyo Shirodaira"
+        },
+        {
+            "index":840,
+            "judul":"Hanako Si Arwah Penasaran 16",
+            "harga":21000,
+            "penulis":"Aida Iro"
+        },
+        {
+            "index":841,
+            "judul":"Fairy Tail 100 years Quest 08",
+            "harga":30000,
+            "penulis":"Hiro Mashima"
+        },
+        {
+            "index":842,
+            "judul":"Final Fantasy : Lost Stranger 05",
+            "harga":36000,
+            "penulis":"HAZUKI MINASE, ITSUKI KAMEYA"
+        },
+        {
+            "index":843,
+            "judul":"Love, Be Loved, Leave, Be Left 10",
+            "harga":21000,
+            "penulis":"Io Sakisaka"
+        },
+        {
+            "index":844,
+            "judul":"Kaiju No. 8 Vol. 03",
+            "harga":41250,
+            "penulis":"Naoya Matsumoto"
+        },
+        {
+            "index":845,
+            "judul":"Why? Fine Dust - Debu Halus",
+            "harga":82500,
+            "penulis":"YeaRimDang"
+        },
+        {
+            "index":846,
+            "judul":"LC: Blood Lad 10",
+            "harga":22500,
+            "penulis":"Yuuki KODAMA"
+        },
+        {
+            "index":847,
+            "judul":"STAR & DUST -Don`t Worry, Be Happy!- 03",
+            "harga":30000,
+            "penulis":"Kaori Hoshiya"
+        },
+        {
+            "index":848,
+            "judul":"LC: Tokyo Revengers 03",
+            "harga":30000,
+            "penulis":"Ken Wakui"
+        },
+        {
+            "index":849,
+            "judul":"AKASHA : Oshi no Ko : Anak Idola 03",
+            "harga":36000,
+            "penulis":"Yokoyari Mengo"
+        },
+        {
+            "index":850,
+            "judul":"AKASHA : Wotakoi : Love is Hard for Otaku 07",
+            "harga":30000,
+            "penulis":"FUJITA"
+        },
+        {
+            "index":851,
+            "judul":"Moriarty the Patriot 14",
+            "harga":21000,
+            "penulis":"Miyoshi Hikaru"
+        },
+        {
+            "index":852,
+            "judul":"Daily Lives Of High School Boys 06",
+            "harga":21000,
+            "penulis":"Yasunabu Yamauchi"
+        },
+        {
+            "index":853,
+            "judul":"Boruto - Naruto Next Generation Vol. 12",
+            "harga":30000,
+            "penulis":"Masashi Kishimoto"
+        },
+        {
+            "index":854,
+            "judul":"Hitman Reborn! 24",
+            "harga":33750,
+            "penulis":"Akira Amano"
+        },
+        {
+            "index":855,
+            "judul":"AKASHA : Uzumaki",
+            "harga":96000,
+            "penulis":"Ito Junji"
+        },
+        {
+            "index":856,
+            "judul":"Azur Lane Queen's Order 02",
+            "harga":33750,
+            "penulis":"Tsuchii"
+        },
+        {
+            "index":857,
+            "judul":"Love, Be Loved, Leave, Be Left 09",
+            "harga":21000,
+            "penulis":"Io Sakisaka"
+        },
+        {
+            "index":858,
+            "judul":"First Learning Things That Go Play Set (Bb)",
+            "harga":234000,
+            "penulis":"Roger Priddy"
+        },
+        {
+            "index":859,
+            "judul":"Hitman Reborn! 21",
+            "harga":33750,
+            "penulis":"Akira Amano"
+        },
+        {
+            "index":860,
+            "judul":"LC: Shanghai White Snake Mansion Mysteries 03",
+            "harga":22500,
+            "penulis":"SHOU KIMIZUKA"
+        },
+        {
+            "index":861,
+            "judul":"Jurnal Mukai Usagido 03",
+            "harga":21000,
+            "penulis":"HISA TAKANO"
+        },
+        {
+            "index":862,
+            "judul":"Komik Pintar : The Yummy Science 03 - Proses Pencernaan Makanan",
+            "harga":78750,
+            "penulis":"JIN-SUB UM\/DONG-SU LEE"
+        },
+        {
+            "index":863,
+            "judul":"Good Morning Teacher! LESSON 10",
+            "harga":60000,
+            "penulis":"Kadokawa Gempak Starz"
+        },
+        {
+            "index":864,
+            "judul":"Komik Pintar : Battle Braves Vs Ular Berbisa & Laba-Laba Pembunuh",
+            "harga":73500,
+            "penulis":"HIROTSUGU ONO\/WEBISUYA BONKO\/TEAM GALILEO"
+        },
+        {
+            "index":865,
+            "judul":"Takahashi is Hearing It 02",
+            "harga":30000,
+            "penulis":"YU HOKUO"
+        },
+        {
+            "index":866,
+            "judul":"Lc: Honda, Are You Alive? 02",
+            "harga":33750,
+            "penulis":"Yoshiki Tonogai"
+        },
+        {
+            "index":867,
+            "judul":"High Rise Invasion 09",
+            "harga":21000,
+            "penulis":"TSUINA MIURA \/ TAKAHIRO OHBA"
+        },
+        {
+            "index":868,
+            "judul":"Komik Pintar : The Yummy Science 02 - Nutrisi Makanan",
+            "harga":78750,
+            "penulis":"JIN-SUB UM\/DONG-SU LEE"
+        },
+        {
+            "index":869,
+            "judul":"Look Forward For The Next Death Game 03 - Tamat",
+            "harga":24000,
+            "penulis":"PERICO"
+        },
+        {
+            "index":870,
+            "judul":"Look Forward For The Next Death Game 02",
+            "harga":16800,
+            "penulis":"PERICO"
+        },
+        {
+            "index":871,
+            "judul":"Takahashi Is Hearing It 01",
+            "harga":30000,
+            "penulis":"YU HOKUO"
+        },
+        {
+            "index":872,
+            "judul":"Legend Of An Emperor Iii : The Rogue Prince 02",
+            "harga":60000,
+            "penulis":"Tony Wong"
+        },
+        {
+            "index":873,
+            "judul":"Akasha : King's Game - Origin 06 - Tamat",
+            "harga":20400,
+            "penulis":"J-TA YAMADA \/ NOBUAKI KANAZAWA"
+        },
+        {
+            "index":874,
+            "judul":"Lc: Asterix - Asterix Dan Cleopatra Classic",
+            "harga":44250,
+            "penulis":"Uderzo & Goscinny"
+        },
+        {
+            "index":875,
+            "judul":"Akasha : King's Game - Origin 04",
+            "harga":20400,
+            "penulis":"J-TA YAMADA \/ NOBUAKI KANAZAWA"
+        },
+        {
+            "index":876,
+            "judul":"Tale of Kaguya 1",
+            "harga":16800,
+            "penulis":"Saito Chiho"
+        },
+        {
+            "index":877,
+            "judul":"Juru Masak Para Maiko 07",
+            "harga":16800,
+            "penulis":"Koyama Aiko"
+        },
+        {
+            "index":878,
+            "judul":"Hikari on Stage! 02",
+            "harga":24000,
+            "penulis":"Nakahara An"
+        },
+        {
+            "index":879,
+            "judul":"Dagashikashi 02",
+            "harga":16800,
+            "penulis":"KOTOYAMA"
+        },
+        {
+            "index":880,
+            "judul":"Miss Mini Market 6",
+            "harga":16800,
+            "penulis":"Atsumu Matsumoto"
+        },
+        {
+            "index":881,
+            "judul":"Hikari On Stage! 01",
+            "harga":24000,
+            "penulis":"Nakahara An"
+        },
+        {
+            "index":882,
+            "judul":"The Prince Of Tennis Ii Vol. 23",
+            "harga":16800,
+            "penulis":"Takeshi Konomi"
+        },
+        {
+            "index":883,
+            "judul":"The World's Cleanest First Love Story 01",
+            "harga":16800,
+            "penulis":"Marina Umezawa"
+        },
+        {
+            "index":884,
+            "judul":"Flying Witch 8",
+            "harga":8400,
+            "penulis":"Ishizuka Chihiro"
+        },
+        {
+            "index":885,
+            "judul":"Lc: A Meal Makes Her Forget 11",
+            "harga":9000,
+            "penulis":"Jun Abe"
+        },
+        {
+            "index":886,
+            "judul":"Toriko 28",
+            "harga":8400,
+            "penulis":"Mitsutoshi Shimabukuro"
+        },
+        {
+            "index":887,
+            "judul":"Real Account 07",
+            "harga":8400,
+            "penulis":"OKUSHOU, SHIZUMU WATANABE"
+        },
+        {
+            "index":888,
+            "judul":"Long Hu Men The Vengeance Continues 31",
+            "harga":30000,
+            "penulis":"Tony Wong"
+        },
+        {
+            "index":889,
+            "judul":"Komik Aku Anak Pintar : Dinosaurus",
+            "harga":36000,
+            "penulis":"Carrot Korea Agency"
+        },
+        {
+            "index":890,
+            "judul":"Sket Dance 29",
+            "harga":8400,
+            "penulis":"Kenta Shinohara"
+        },
+        {
+            "index":891,
+            "judul":"Komik: Jingga dan Senja",
+            "harga":32500,
+            "penulis":"Esti Kinasih"
+        },
+        {
+            "index":892,
+            "judul":"The Potion of Twilight",
+            "harga":58000,
+            "penulis":"Ratih Kumala"
+        },
+        {
+            "index":893,
+            "judul":"Seri Keluarga Super Irit 25 : Jagoan Hidup Hemat (Edisi Spesial)",
+            "harga":93750,
+            "penulis":"Lee Bong-gi"
+        },
+        {
+            "index":894,
+            "judul":"Artemis Fowl#5: The Lost Colony (Koloni yang Hilang)",
+            "harga":43500,
+            "penulis":"Eoin Colfer"
+        },
+        {
+            "index":895,
+            "judul":"Artemis Fowl#4: The Opal Deception (Muslihat Opal)",
+            "harga":41500,
+            "penulis":"Eoin Colfer"
+        },
+        {
+            "index":896,
+            "judul":"A Carribean Mystery (Misteri Karibia)",
+            "harga":39750,
+            "penulis":"Agatha Christie"
+        },
+        {
+            "index":897,
+            "judul":"Jangan Lepaskan Aku (Never Let Me Go) - PENGARANG PEMENANG NOBEL SASTRA 2017",
+            "harga":39500,
+            "penulis":"Kazuo Ishiguro"
+        },
+        {
+            "index":898,
+            "judul":"KOLONI Teman Rasa Pacar Vol. 1",
+            "harga":46500,
+            "penulis":""
+        },
+        {
+            "index":899,
+            "judul":"After You",
+            "harga":74800,
+            "penulis":"Mia Chuz"
+        },
+        {
+            "index":900,
+            "judul":"Si Juki The Movie : Panitia Hari Akhir Extended Version",
+            "harga":62900,
+            "penulis":"Faza Meonk"
+        },
+        {
+            "index":901,
+            "judul":"Komik Next G Mom Versus Dad Rpl",
+            "harga":30600,
+            "penulis":""
+        },
+        {
+            "index":902,
+            "judul":"Komik Next G Sahabat Luar Negeri Republish 2",
+            "harga":30600,
+            "penulis":"Najwa Khalisa & Indha, Dkk"
+        },
+        {
+            "index":903,
+            "judul":"Komik Next G Berbagi Dengan Tetangga",
+            "harga":30600,
+            "penulis":"NABILA RAHMALIA PUTRI, DKK"
+        },
+        {
+            "index":904,
+            "judul":"Si Juki Seri Keroyokan #12",
+            "harga":46750,
+            "penulis":"Pionicon"
+        },
+        {
+            "index":905,
+            "judul":"Komik Next G Ditraktir Terus",
+            "harga":30600,
+            "penulis":"Aisha Rahmatiara Anarghya, dkk"
+        },
+        {
+            "index":906,
+            "judul":"Komik Next G Dokter Untuk Adikku",
+            "harga":30600,
+            "penulis":"Nurulita Aulia Karindra, dkk"
+        },
+        {
+            "index":907,
+            "judul":"Komik Next G Petualangan Mengasuh Adik",
+            "harga":30600,
+            "penulis":"Naura Janeeta, dkk"
+        },
+        {
+            "index":908,
+            "judul":"Komik KKPK Little Youtuber Diary",
+            "harga":33150,
+            "penulis":"Zara Nugroho"
+        },
+        {
+            "index":909,
+            "judul":"Komik Next G Lovely Hikari RPL 2",
+            "harga":30600,
+            "penulis":"Farhana Almira Adawiyah"
+        },
+        {
+            "index":910,
+            "judul":"Terlalu Tampan ; Masih Diary Orang Ganteng",
+            "harga":35000,
+            "penulis":"M. A. Avisiena Helvin & Savenia Melinda S"
+        },
+        {
+            "index":911,
+            "judul":"Komik Next G Temanku Artis",
+            "harga":36000,
+            "penulis":"Puri Mahayu"
+        },
+        {
+            "index":912,
+            "judul":"#Beranibeda Juki Untuk Indonesia Satu",
+            "harga":55000,
+            "penulis":"Faza Meonk, Yahya M & Tim Sukses Juki"
+        },
+        {
+            "index":913,
+            "judul":"Doraemon 05",
+            "harga":16800,
+            "penulis":"Fujiko F. Fujio"
+        },
+        {
+            "index":914,
+            "judul":"Doraemon 02 (Terbit Ulang)",
+            "harga":21000,
+            "penulis":"Fujiko F. Fujio"
+        },
+        {
+            "index":915,
+            "judul":"Educomics Belajar Matematika: Putiput Membangun Rumah Manki",
+            "harga":63750,
+            "penulis":"Wafiq Sehat"
+        },
+        {
+            "index":916,
+            "judul":"Penyelamatan Huruf Lota",
+            "harga":33150,
+            "penulis":"Yoana Dianika"
+        },
+        {
+            "index":917,
+            "judul":"Smile at the Runway 09",
+            "harga":21000,
+            "penulis":"Kotoba Inoya"
+        },
+        {
+            "index":918,
+            "judul":"Educomics Anak Tangguh Sayangi Hewan",
+            "harga":73500,
+            "penulis":"Heo Ji young"
+        },
+        {
+            "index":919,
+            "judul":"Komik Sahabat Anak Muslim  Edisi Revisi",
+            "harga":108750,
+            "penulis":"Watiek Ideo & Riera Faaizah"
+        },
+        {
+            "index":920,
+            "judul":"AKASHA : Trace, Recollections of A Forensic Researcher 01",
+            "harga":25500,
+            "penulis":"Kei Koga"
+        },
+        {
+            "index":921,
+            "judul":"Si Genius Sains #3 : Bertualang Ke Dunia Dinosaurus",
+            "harga":115000,
+            "penulis":"Shin Tae  Hoon"
+        },
+        {
+            "index":922,
+            "judul":"The Last Love In This World 06",
+            "harga":25000,
+            "penulis":"Keiko Notoyama"
+        },
+        {
+            "index":923,
+            "judul":"Noragami 19",
+            "harga":25000,
+            "penulis":"Adachitoka"
+        },
+        {
+            "index":924,
+            "judul":"Clean Freak! Aoyama kun 02",
+            "harga":25000,
+            "penulis":"Taku Sakamoto"
+        },
+        {
+            "index":925,
+            "judul":"Connect 2",
+            "harga":30000,
+            "penulis":"Suzuki Manatsu"
+        },
+        {
+            "index":926,
+            "judul":"Sweetness And Lightning 8",
+            "harga":25000,
+            "penulis":"Gido Amagakure"
+        },
+        {
+            "index":927,
+            "judul":"Shisho Series 06",
+            "harga":25000,
+            "penulis":"Uni & Shu Katayama"
+        },
+        {
+            "index":928,
+            "judul":"Silver Spoon 14",
+            "harga":25000,
+            "penulis":"Hiromu Arakawa"
+        },
+        {
+            "index":929,
+            "judul":"Why Emergency Treatment",
+            "harga":33000,
+            "penulis":"Lee, Papyrus"
+        },
+        {
+            "index":930,
+            "judul":"Republik Naga (The Dragon Republic)",
+            "harga":141750,
+            "penulis":"R.F. Kuang"
+        },
+        {
+            "index":931,
+            "judul":"Gemblongers Series : Diajeng - Camilan, Gembolan, dan Cinta yang Belingsatan",
+            "harga":69000,
+            "penulis":"Netty Virgiantini"
+        },
+        {
+            "index":932,
+            "judul":"Gemblongers Series : Mara - Ditaktor, Eksim, dan Cinta yang NayalNayal",
+            "harga":69000,
+            "penulis":"Wiwien Wintarto"
+        },
+        {
+            "index":933,
+            "judul":"Job? Akulah Ahlinya Kosmetik",
+            "harga":75000,
+            "penulis":"Kugil Publishing"
+        },
+        {
+            "index":934,
+            "judul":"Seraph Of The End 23",
+            "harga":21000,
+            "penulis":"Yamamoto Yamato & Kagami Takaya"
+        },
+        {
+            "index":935,
+            "judul":"A Springtime with Ninjas 3",
+            "harga":21000,
+            "penulis":"NARUMI HASEGAKI"
+        },
+        {
+            "index":936,
+            "judul":"Bonobono 03",
+            "harga":30000,
+            "penulis":"Mikio Igarashi"
+        },
+        {
+            "index":937,
+            "judul":"Battle Game In 5 Seconds 12",
+            "harga":21000,
+            "penulis":"Saizou Harawata & Kashiwa Miyako"
+        },
+        {
+            "index":938,
+            "judul":"3 Hours to Master: Cara Mengembangkan Kreativitasmu",
+            "harga":75000,
+            "penulis":"Kadokawa Gempak Starz"
+        },
+        {
+            "index":939,
+            "judul":"Why? Bacteria and Virus - Bakteri dan Virus",
+            "harga":82500,
+            "penulis":"YeaRimDang"
+        },
+        {
+            "index":940,
+            "judul":"Why? People - Elon Musk",
+            "harga":82500,
+            "penulis":"Yearimdang"
+        },
+        {
+            "index":941,
+            "judul":"X-Venture Dinosaur - Berkeliling di Era Paleozoikum",
+            "harga":90000,
+            "penulis":"Kadokawa Gempak Starz"
+        },
+        {
+            "index":942,
+            "judul":"Apa Itu Surga ?Apa Itu Neraka?",
+            "harga":53550,
+            "penulis":"Aan Wulandari Dan Wawan Kungkang"
+        },
+        {
+            "index":943,
+            "judul":"Komik Kecil-Kecil Punya Karya: No Plastic Bag",
+            "harga":33150,
+            "penulis":"Naura Janeeta, dkk"
+        },
+        {
+            "index":944,
+            "judul":"Lc: Black Torch 04",
+            "harga":27000,
+            "penulis":"Tsuyoshi Takaki"
+        },
+        {
+            "index":945,
+            "judul":"Lc: Black Torch 02",
+            "harga":27000,
+            "penulis":"Tsuyoshi Takaki"
+        },
+        {
+            "index":946,
+            "judul":"Lc: Karate Master Minoru 26",
+            "harga":27000,
+            "penulis":"Baba Yasushi"
+        },
+        {
+            "index":947,
+            "judul":"Yokai Watch 14",
+            "harga":25000,
+            "penulis":"Konishi Noriyuki"
+        },
+        {
+            "index":948,
+            "judul":"Castle Town Dandelion 2",
+            "harga":22500,
+            "penulis":"Kasugu Ayumu"
+        },
+        {
+            "index":949,
+            "judul":"Chopperman 3",
+            "harga":25000,
+            "penulis":"Hirofumi Takei"
+        },
+        {
+            "index":950,
+            "judul":"KOLONI ReON & Friends Vol. 1",
+            "harga":56250,
+            "penulis":"Reon Comics Team"
+        },
+        {
+            "index":951,
+            "judul":"AKASHA : The Secret Garden",
+            "harga":45000,
+            "penulis":"Nana Shiiba"
+        },
+        {
+            "index":952,
+            "judul":"Anohana - The Flower We Saw That Day 03 - tamat",
+            "harga":48000,
+            "penulis":"MITSU IZUMI \/ CHO-HEIWA BUSTERS"
+        },
+        {
+            "index":953,
+            "judul":"AKASHA : Wavering Love",
+            "harga":45000,
+            "penulis":"Hikaru Asagi"
+        },
+        {
+            "index":954,
+            "judul":"Aku Bisa Kaya : Jalan-Jalan Keliling Dunia",
+            "harga":95000,
+            "penulis":"Papyrus"
+        },
+        {
+            "index":955,
+            "judul":"Artemis Fowl#3: The Eternity Code (Sandi Abadi)",
+            "harga":41500,
+            "penulis":"Eoin Colfer"
+        },
+        {
+            "index":956,
+            "judul":"Regarding Reincarnated as Slime 2",
+            "harga":25000,
+            "penulis":"Taiki Kawakami"
+        },
+        {
+            "index":957,
+            "judul":"Korean Dictionary Workbook + Cd",
+            "harga":144800,
+            "penulis":"Kang Hyoun Hwa"
+        },
+        {
+            "index":958,
+            "judul":"50 Kisah Akhlak Mulia Rasulullah Saw",
+            "harga":55250,
+            "penulis":"Mulasih Tary & Devi Ardiyanti"
+        },
+        {
+            "index":959,
+            "judul":"I Want To Eat Your Pancreas 02 - Tamat",
+            "harga":24000,
+            "penulis":"YORU SUMINO \/ IDUMI KIRIHARA"
+        },
+        {
+            "index":960,
+            "judul":"Kuroko's Basketball 20",
+            "harga":25000,
+            "penulis":"Tadatoshi Fujimaki"
+        },
+        {
+            "index":961,
+            "judul":"Pod:New Legenda Naga 10",
+            "harga":68000,
+            "penulis":"Kodansha - Yoshito Yamahara"
+        },
+        {
+            "index":962,
+            "judul":"Pod:Salesman Idola Dalam Komik",
+            "harga":66000,
+            "penulis":"David Kadisihe & Angel Oematan"
+        },
+        {
+            "index":963,
+            "judul":"Pod:Top Notch #4",
+            "harga":66000,
+            "penulis":"Yoko Maki \/ Aki Mochida"
+        },
+        {
+            "index":964,
+            "judul":"Pod:My Girlfriend Is A Bodyguard",
+            "harga":70000,
+            "penulis":"Rie Takada"
+        },
+        {
+            "index":965,
+            "judul":"Pod:Old Man`S Love",
+            "harga":63000,
+            "penulis":"Kakeru Tsutsumi"
+        },
+        {
+            "index":966,
+            "judul":"Pod:The Warmth Of Your Fingertips",
+            "harga":66000,
+            "penulis":"Yuka Kitagawa"
+        },
+        {
+            "index":967,
+            "judul":"Pod:Android Odette #2",
+            "harga":70000,
+            "penulis":"Julietta Suzuki"
+        },
+        {
+            "index":968,
+            "judul":"Pod:Niina`S First Love Story #4",
+            "harga":70000,
+            "penulis":"Koyomi Minamori"
+        },
+        {
+            "index":969,
+            "judul":"Pod:Train Of First Love",
+            "harga":64000,
+            "penulis":"Yuka Kitagawa"
+        },
+        {
+            "index":970,
+            "judul":"Pod:For Justice And Love",
+            "harga":70000,
+            "penulis":"Mitsubachi Miyuki"
+        },
+        {
+            "index":971,
+            "judul":"Pod:Niina`S First Love Story #2",
+            "harga":70000,
+            "penulis":"Koyomi Minamori"
+        },
+        {
+            "index":972,
+            "judul":"Pod:Android Odette #1 (Karakuri Odette)",
+            "harga":70000,
+            "penulis":"Julietta Suzuki"
+        },
+        {
+            "index":973,
+            "judul":"Pod:600 Pages Mystery",
+            "harga":70000,
+            "penulis":"Alto Yukimura"
+        },
+        {
+            "index":974,
+            "judul":"Pod:Goodbye Chocolate",
+            "harga":68000,
+            "penulis":"Hisamu Oto"
+        },
+        {
+            "index":975,
+            "judul":"Pod:Petualangan Naif Dan Mesin Waktu Naif 3: Menjelajah Dime",
+            "harga":56000,
+            "penulis":"Franki Indrasmoro"
+        },
+        {
+            "index":976,
+            "judul":"Pod:Honey And The Butterfly (Hachimitsu No Butterfly)",
+            "harga":70000,
+            "penulis":"Alto Yukimura"
+        },
+        {
+            "index":977,
+            "judul":"Pod:Real Masjid 2",
+            "harga":56000,
+            "penulis":"Tony Hernanto, Faza Meonk"
+        },
+        {
+            "index":978,
+            "judul":"Nan Nan\u2019s Daily Life 2",
+            "harga":68000,
+            "penulis":"Ananda"
+        },
+        {
+            "index":979,
+            "judul":"Pod:Kornchonx Chaos",
+            "harga":50000,
+            "penulis":"Iwank"
+        },
+        {
+            "index":980,
+            "judul":"Pod:Pamali!",
+            "harga":53000,
+            "penulis":"Norvan Pecandupagi"
+        },
+        {
+            "index":981,
+            "judul":"Battle Game In 5 Seconds 7",
+            "harga":28000,
+            "penulis":"Saizou Harawata & Kashiwa Miyako"
+        },
+        {
+            "index":982,
+            "judul":"Lc: Btoom 17",
+            "harga":27000,
+            "penulis":"Junya Inoue"
+        },
+        {
+            "index":983,
+            "judul":"2.5 D Boyfriend 2",
+            "harga":25000,
+            "penulis":"Mitsu Aoi"
+        },
+        {
+            "index":984,
+            "judul":"Lc: Mujirushi The Sign Of Dreams",
+            "harga":39000,
+            "penulis":"NAOKI URASAWA"
+        },
+        {
+            "index":985,
+            "judul":"Cerita Spesial Doraemon - Nilai Nol & Pergi Dari Rumah",
+            "harga":26250,
+            "penulis":"Fujiko F. Fujio"
+        },
+        {
+            "index":986,
+            "judul":"AKASHA : The Birds of Death 03 - tamat",
+            "harga":25500,
+            "penulis":""
+        },
+        {
+            "index":987,
+            "judul":"Kkpk Reg: My Twin, My Best Friend",
+            "harga":33150,
+            "penulis":"DIEZA KAYLA ZIVANKA"
+        },
+        {
+            "index":988,
+            "judul":"Komik Next G: Youtuber Al-Quran",
+            "harga":39000,
+            "penulis":"Adiva Lubna Khairunnisa Dkk"
+        },
+        {
+            "index":989,
+            "judul":"Gaul Anti Galau",
+            "harga":33575,
+            "penulis":"Fajar Istiqlal"
+        },
+        {
+            "index":990,
+            "judul":"C.M.B 40",
+            "harga":16800,
+            "penulis":"Motohiro Katou"
+        },
+        {
+            "index":991,
+            "judul":"SC: The Gravelord with Ribbon",
+            "harga":18000,
+            "penulis":"Chitose Azuya"
+        },
+        {
+            "index":992,
+            "judul":"Re-Creators One More",
+            "harga":25000,
+            "penulis":"Hiroe Rei"
+        },
+        {
+            "index":993,
+            "judul":"Fullmetal Alchemist (Premium) 13",
+            "harga":57000,
+            "penulis":"Hiromu Arakawa"
+        },
+        {
+            "index":994,
+            "judul":"Inuyasha Premium 24",
+            "harga":37500,
+            "penulis":"Takahashi Rumiko"
+        },
+        {
+            "index":995,
+            "judul":"Dragon Ball Vol. 39",
+            "harga":25000,
+            "penulis":"Akita Toriyama"
+        },
+        {
+            "index":996,
+            "judul":"Yamada and the 7 Witches Vol. 24",
+            "harga":25000,
+            "penulis":"Miki Yoshikawa"
+        },
+        {
+            "index":997,
+            "judul":"Battle Game In 5 Seconds 06",
+            "harga":25000,
+            "penulis":"Saizou Harawata & Kashiwa Miyako"
+        },
+        {
+            "index":998,
+            "judul":"The Sluggish Tanaka 10",
+            "harga":25000,
+            "penulis":"Nozomi Uda"
+        },
+        {
+            "index":999,
+            "judul":"LC: Giant Killing 45",
+            "harga":27000,
+            "penulis":"Tsujitomo, Masaya Tsunamoto"
+        }
+    ]
+}
