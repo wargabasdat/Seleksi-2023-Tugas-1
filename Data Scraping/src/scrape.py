@@ -1,7 +1,12 @@
+import time
 from bs4 import BeautifulSoup
 import requests
 import json
 from datetime import datetime, timedelta
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 def get_name(soup,i):
     # fungsi find all untuk mencari element dengan tag h2 dan class yang sesuai
@@ -43,12 +48,11 @@ def get_address(url):
     address = meta_tag['value']
     return address
 
-def get_price(url):
-    response = requests.get(url)
-    soup = BeautifulSoup(response.text, 'html.parser')
-    div_tag = soup.find('div', class_='conversion-bar__panel-info')
+def get_price(soup, i):
+    time.sleep(5)
+    p_tag = soup.find('p', class_='Typography_root__4bejd #585163 Typography_body-md-bold__4bejd Typography_align-match-parent__4bejd')
     # Mendapatkan teks dari elemen <div>
-    text = div_tag.text
+    text = p_tag.text
     if text == 'Free':
         lowest_price = 0
         highest_price = 0
@@ -109,9 +113,29 @@ def get_longitude(url):
 
 
 url = 'https://www.eventbrite.com/d/indonesia/business--events/?page=1/'
-response = requests.get(url)
-soup = BeautifulSoup(response.text, 'html.parser')
-url1 = get_event_url(soup,0)
-print(get_organizer(url1))
+# Membuat objek WebDriver
+driver = webdriver.Chrome()
 
+# Memuat halaman web
+driver.get(url)
+
+# Menunggu hingga semua elemen dimuat menggunakan Explicit Waits
+wait = WebDriverWait(driver, 100)
+wait.until(EC.presence_of_element_located((By.CLASS_NAME, "Typography_root__4bejd")))
+# wait.until(EC.presence_of_element_located((By.CLASS_NAME, "#585163")))
+# wait.until(EC.presence_of_element_located((By.CLASS_NAME, "Typography_body-md-bold__4bejd")))
+# wait.until(EC.presence_of_element_located((By.CLASS_NAME, "Typography_align-match-parent__4bejd")))
+
+# Mendapatkan HTML dari halaman yang telah dimuat
+html = driver.page_source
+
+# Menutup WebDriver
+driver.quit()
+
+soup = BeautifulSoup(html, 'html.parser')
+
+url1 = get_event_url(soup,0)
+print(url1)
+print(get_price(soup,0))
+# print(get_price('https://www.eventbrite.com/e/the-weight-loss-key-you-havent-heard-yet-limiting-beliefs-beauty-sleep-tickets-656780527237?aff=ebdssbdestsearch'))
 
