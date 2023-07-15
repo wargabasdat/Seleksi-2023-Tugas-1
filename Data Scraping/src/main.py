@@ -68,18 +68,26 @@ for category in categories_url:
                 organizers.append(organizer)
             if location not in locations:
                 locations.append(location)
+            with open('..\data\events.json', 'w') as json_file:
+                json.dump(events, json_file)
+            with open('..\data\organizers.json', 'w') as json_file:
+                json.dump(organizers, json_file)
+            with open('..\data\locations.json', 'w') as json_file:
+                json.dump(locations, json_file)
+            with open('..\data\categories.json', 'w') as json_file:
+                json.dump(categories, json_file)
             ID_event += 1
             x += 1
         print('Scraping page {} in category {} done.'.format(i, category))
-        print('Saving to json...')
-        with open('..\data\events.json', 'w') as json_file:
-            json.dump(events, json_file)
-        with open('..\data\organizers.json', 'w') as json_file:
-            json.dump(organizers, json_file)
-        with open('..\data\locations.json', 'w') as json_file:
-            json.dump(locations, json_file)
-        with open('..\data\categories.json', 'w') as json_file:
-            json.dump(categories, json_file)   
+        # print('Saving to json...')
+        # with open('..\data\events.json', 'w') as json_file:
+        #     json.dump(events, json_file)
+        # with open('..\data\organizers.json', 'w') as json_file:
+        #     json.dump(organizers, json_file)
+        # with open('..\data\locations.json', 'w') as json_file:
+        #     json.dump(locations, json_file)
+        # with open('..\data\categories.json', 'w') as json_file:
+        #     json.dump(categories, json_file)   
 print('Scraping is finished')
 
 
