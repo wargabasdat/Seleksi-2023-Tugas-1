@@ -1,43 +1,45 @@
 <h1 align="center">
   <br>
-  Seleksi Warga Basdat 2023
+  Tugas 1 Seleksi Warga Basdat 2023
   <br>
   <br>
 </h1>
 
 <h2 align="center">
   <br>
-  Data Scraping, Database Modelling & Data Storing
+  Muhammad Rafi Haidar - 18221134
+  18221134@std.stei.itb.ac.id
   <br>
   <br>
 </h2>
 
 
-## Spesifikasi
+### Description of the data and DBMS
 
-### Data Scraping
+Ray White Indonesia adalah anak perusahaan Ray White Group, perusahaan real estat multinasional yang berbasis di Australia. Dengan kehadiran melalui 175 kantor cabangnya yang tersebar di 25 kota besar di Indonesia, serta didukung oleh 4000 Marketing Executive yang berpengalaman, Ray White Indonesia mampu menawarkan berbagai layanan unggulan kepada para kliennya. Melalui layanan seperti manajemen properti yang profesional, penjualan properti yang efektif, dan appraisal properti yang akurat, Ray White Indonesia menjadi salah satu pemain utama dalam industri real estat di Indonesia.
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
+Data hasil scraping merupakan hasil pengumpulan informasi dari situs web https://www.raywhite.co.id/ yang mencakup informasi tentang listing properti yang dijual. Data tersebut mencakup judul listing beserta ID listing properti dan live ID properti. Data juga mencakup spesifikasi relevan mengenai properti tersebut, seperti tipe properti, lokasi properti yang mencakup kota dan provinsi, nilai jual properti dalam mata uang dolar AS dan rupiah, status negosiasi harga properti, ukuran tanah dan bangunan dari properti, jenis sertifikat kepemilikan properti, serta jumlah kamar tidur, kamar mandi, dan garasi yang tersedia dalam properti. Selain itu, data juga mencakup informasi tentang agen real estat yang mengurus properti tersebut. Informasi tersebut meliputi nama agen, ID pegawai agen, nomor telepon agen, dan kantor tempat agen tersebut bekerja.
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
+Hasil scraping data disimpan ke dalam beberapa berkas JSON yang terpisah berdasarkan tipe properti dan satu berkas yang merupakan gabungan dari semua berkas JSON. Selain itu, data juga disimpan dalam format CSV sebagai redundancy dan untuk memudahkan penulis dalam memasukkan data ke dalam DBMS. Selain itu, data hasil scraping juga disimpan dalam beberapa tabel di dalam basis data SQL dengan encoding UTF8 menggunakan DBMS PostgreSQL.
 
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
+Pemilihan PostgreSQL sebagai DBMS didasarkan oleh familiaritas penulis dengan program tersebut. Selain itu, DBMS ini juga dipilih karena sifat open source dari PostgreSQL yang memungkinkan akses dan penggunaan data hasil dumping basis data oleh siapapun.
 
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
+Penulis memilih untuk melakukan scraping data properti yang dijual di situs https://www.raywhite.co.id/ dengan tujuan mendapatkan gambaran umum tentang pasar properti di Indonesia. Ray White, sebagai salah satu pemain utama dalam industri real estat di Indonesia, dapat menjadi sebagai sumber sampel data yang baik untuk dianalisis.
 
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
+Data yang diperoleh melalui scraping dapat dianalisis untuk menghasilkan informasi tentang harga properti dan persebarannya di seluruh Indonesia. Analisis tersebut dapat memberikan informasi  bagi calon pembeli dalam menentukan properti yang sesuai dengan kebutuhan mereka. Selain itu, hasil analisis juga dapat digunakan oleh investor real estat untuk mempelajari tren pasar properti di Indonesia dan membantu mereka dalam membuat keputusan investasi.
 
-### Database Modelling & Data Storing
+Selain itu, hasil analisis data properti juga dapat menjadi alat bagi pemangku kepentingan publik dalam merencanakan dan mengembangkan daerah. Informasi tentang harga properti, jumlah listing, dan lokasi dapat membantu pengambil kebijakan dalam merencanakan pengembangan wilayah, kebijakan perumahan, dan kebijakan publik lainnya yang berkaitan dengan sektor properti secara umum ataupun perumahan.
+
+
+### Specification of the program
+
+
+
+### How to use
+
+### JSON Structure
+
+{"listing_id":384815,"live_id":"L22197450","type":"house","title":"Rumah Mewah Siap Huni Harga Bersahabat Di Taman Laguna","province":"Jawa Barat","city":"Bekasi","value_usd":165104,"value_idr":2487787072,"negotiable":false,"building_size":null,"land_size":165.0,"certificate":"SHM\/Freehold","bedroom":5.0,"bathroom":4.0,"carport":2.0,"realtor_id":26577,"realtor":"Dini Aryati","realtor_phone":"+6281296632515","realtor_office":"Ray White Pondok Indah Arteri"}
 
 1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
    
@@ -69,7 +71,7 @@ Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau se
 
 
 ```
-- Description of the data and DBMS (Why you choose it)
+- Description of the data and DBMS (Why you choose it) +
 - Specification of the program
 - How to use
 - JSON Structure
@@ -77,25 +79,5 @@ Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau se
 - Explanation of ERD to relational diagram translation process
 - Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
 - Reference (Library used, etc)
-- Author
+- Author +
 ```
-
-
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
-
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
-
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
-<br>
