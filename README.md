@@ -39,15 +39,20 @@ Runtime : Node.js v16.16.0
 ### Data Scrapping
 
 1. Clone repository ini
-2. Pada terminal, masuk ke direktori src dengan perintah `cd "pathfolder/src"`
+2. Pada terminal, masuk ke direktori src dengan perintah `cd "pathfolder/Data Scraping/src"`
 3. Install library yang dibutuhkan dengan perintah `npm install`
 4. Jalankan script dengan perintah `npm run start`
+5. Tunggu hingga proses scrapping selesai
+6. JSON hasil scrapping dapat dilihat pada direktori `"Data Scrapping/data/"`
 
 _**note :** File hasil scrapping dituliskan pada file di direktori `"Data Scrapping/data/"`_
 
 ### Data Storing
 
-
+1. Clone repository ini
+2. Pada terminal/cmd jalankan perintah `pathfolder/Data Storing/export/kurs_pajak_indonesia.sql`.
+3. Restore database dengan perintah `psql -U {username} -d {database_name} < kurs_pajak_indonesia.sql`
+4. Database siap digunakan
 
 ## JSON Structure
 
@@ -154,7 +159,7 @@ Hasil scrapping disimpan di dalam 2 jenis file JSON, yaitu:
     ![Fields Description of Currency](./Data%20Storing/screenshot/info_currency.png)
     ![Fields Description of Kurs Pajak Document](./Data%20Storing/screenshot/info_kurs_pajak_document.png)
     ![Fields Description of Nilai Kurs](./Data%20Storing/screenshot/info_nilai_kurs.png)
-    
+
    - Data in Tables
     ![Data in Country](./Data%20Storing/screenshot/select_country.png)
     ![Data in Currency](./Data%20Storing/screenshot/select_currency.png)
