@@ -1,4 +1,4 @@
-peringkat,nama_objek,nama_jenis
+peringkat,nama_jenis
 1,Bangunan Arsitektur
 2,Monumen & Patung
 3,Air Terjun
@@ -80,13 +80,13 @@ peringkat,nama_objek,nama_jenis
 71,Museum Kesenian
 72,Tempat Belanja
 73,Museum Sejarah
-74,Tempat Menarik & Tengara
-74,Tempat Misterius
-75,Air Terjun
-76,Perairan
+74,Air Terjun
+75,Perairan
+76,Tempat Menarik & Tengara
+76,Tempat Misterius
 77,Museum Benda Khusus
-78,Kebun Binatang
-79,Area Pengamatan
+78,Area Pengamatan
+79,Kebun Binatang
 80,Air Terjun
 81,Tempat Menarik & Tengara
 81,Monumen & Patung
@@ -111,22 +111,22 @@ peringkat,nama_objek,nama_jenis
 97,Jalur Lintas Alam
 98,Area Pengamatan
 98,Area Indah Pejalan Kaki
-99,Pegunungan
-100,Air Terjun
+99,Air Terjun
+100,Pegunungan
 101,Tempat Menarik & Tengara
 102,Perairan
 103,Pantai
 104,Tempat Menarik & Tengara
 105,Pulau
-106,Pulau
-106,Pantai
-107,Area Wisata Alam& Taman Margasatwa
+106,Area Wisata Alam& Taman Margasatwa
+107,Pulau
+107,Pantai
 108,Tempat Menarik & Tengara
 109,Air Terjun
 110,Kompleks Olahraga
 111,Sistem Transportasi Umum
-112,Air Terjun
-113,Pantai
+112,Pantai
+113,Air Terjun
 114,Tempat Bersejarah
 115,Ngarai
 115,Area Pengamatan
@@ -145,8 +145,8 @@ peringkat,nama_objek,nama_jenis
 124,Jalur Lintas Alam
 125,Tempat Menarik & Tengara
 126,Pertanian
-127,Pantai
-128,Air Terjun
+127,Air Terjun
+128,Pantai
 129,Pulau
 129,Pantai
 130,Perairan

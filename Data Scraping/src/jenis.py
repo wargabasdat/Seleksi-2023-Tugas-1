@@ -49,24 +49,24 @@ while (page <= 180) :
             }
 
             # Append ke tempat penyimpanan yang telah diinisialisasi sebelumnya (pilih antara JSON atau CSV)
-            list_jenis_objek.append(hasil_jenis_objek) # Ini kalau JSON
-            # for i in nama_jenis : # Ini kalau CSV
-            #     list_jenis_objek.append([peringkat, i])
+            # list_jenis_objek.append(hasil_jenis_objek) # Ini kalau JSON
+            for i in nama_jenis : # Ini kalau CSV
+                list_jenis_objek.append([peringkat, i])
 
             # Test scraping (jadikan komentar apabila tidak digunakan)
-            # for i in hasil_jenis_objek :
-            #     print(i, ' : ', hasil_jenis_objek[i])
-            # print('\n')
+            for i in hasil_jenis_objek :
+                print(i, ' : ', hasil_jenis_objek[i])
+            print('\n')
     page += 30
 
 # PENYIMPANAN (PILIH ANTARA JSON ATAU CSV)
 # Proses penyimpanan dan formatting hasil ekstrak data ke bentuk JSON
-with open('Data Scraping/data/jenis.json', 'w') as file:
-    json.dump(list_jenis_objek, file, indent = 4)
+# with open('Data Scraping/data/jenis.json', 'w') as file:
+#     json.dump(list_jenis_objek, file, indent = 4)
 
 # Proses penyimpanan dan formatting hasil ekstrak data ke bentuk CSV
-# kepala = ['peringkat', 'nama_objek', 'nama_jenis']
-# writer = csv.writer(open('Data Scraping/data/jenis.csv', 'w', newline = ''))
-# writer.writerow(kepala)
-# for data in list_jenis_objek :
-#     writer.writerow(data)
+kepala = ['peringkat', 'nama_jenis']
+writer = csv.writer(open('Data Scraping/data/jenis.csv', 'w', newline = ''))
+writer.writerow(kepala)
+for data in list_jenis_objek :
+    writer.writerow(data)
