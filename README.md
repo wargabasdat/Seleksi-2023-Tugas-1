@@ -9,13 +9,14 @@
 
 ### Data
 
-Kurs Pajak adalah kurs yang secara resmi ditetapkan oleh pemerintah dan digunakan dalam perhitungan pajak yang melibatkan mata uang asing. Nilai Kurs Pajak tetap selama periode tertentu dan ditentukan oleh Keputusan Menteri Keuangan Republik Indonesia.
+Kurs Pajak adalah kurs yang secara resmi ditetapkan oleh pemerintah dan digunakan dalam perhitungan pajak yang melibatkan mata uang asing. Nilai Kurs Pajak tetap selama periode tertentu dan ditentukan oleh Keputusan Menteri Keuangan Republik Indonesia. Nilai Kurs Pajak ini biasanya diperbarui setiap minggu sekali.
 
 Script ini melakukan scraping pada laman [Kurs Pajak Badan Kebijakan Fiskal, Kementerian Keuangan RI](https://fiskal.kemenkeu.go.id/informasi-publik/kurs-pajak) untuk mendapatkan informasi Kurs Pajak historis. Informasi yang didapatkan adalah:
 
 - Nama mata uang
 - Kode mata uang
 - Nilai mata uang saat ini dibandingkan dengan Rupiah
+- Perubahan nilai mata uang dibandingkan dengan nilai pada periode sebelumnya
 - Tanggal mulai berlaku
 - Tanggal akhir berlaku
 
@@ -49,63 +50,86 @@ _File hasil scrapping dituliskan pada file di direktori `"Data Scrapping/data/"`
 Hasil scrapping disimpan di dalam 2 jenis file JSON, yaitu:
 
 1. `kurs_pajak.json` : berisi data kurs pajak yang masih bersarang berdasarkan tanggal kurs pajak berlaku
-   ```
+    ```
     [
-        {
-            "start_date": "2023-07-12",
-            "end_date": "2023-07-18",
-            "data": [
-                {
-                    "currency": "Dolar Amerika Serikat",
-                    "currency_code": "USD",
-                    "value": 15053,
-                    "change": 40
-                },
-                ...
-            ]
-        },
-        ...
-   ]
+      {
+        "start_date": "2023-07-12",
+        "end_date": "2023-07-18",
+        "data": [
+          {
+            "currency": "Dolar Amerika Serikat",
+            "currency_code": "USD",
+            "value": 15053,
+            "change": 40
+          },
+          ...
+        ]
+      },
+      ...
+    ]
    ```
 2. `kurs_pajak_normalized.json` : berisi data kurs pajak yang sudah dinormalisasi menjadi bentuk relasional. Terdapat 2 relasi, yaitu `currencies` dan `kurs_pajak`
     ```
     {
-        "currencies": [
-            {
-                "currency": "Dolar Amerika Serikat",
-                "currency_code": "USD"
-            },
-            ...
-        ],
-        "kurs_pajak": [
-            {
-                "currency_code": "USD",
-                "value": 15053,
-                "change": 40,
-                "start_date": "2023-07-12",
-                "end_date": "2023-07-18"
-            },
-            ...
-        ]
+      "currencies": [
+        {
+          "currency": "Dolar Amerika Serikat",
+          "currency_code": "USD"
+        },
+        ...
+      ],
+      "kurs_pajak": [
+        {
+          "currency_code": "USD",
+          "value": 15053,
+          "change": 40,
+          "start_date": "2023-07-12",
+          "end_date": "2023-07-18"
+        },
+        ...
+      ]
     }
     ```
 
 ## Database Structure
 
+1. Entity Relationship Diagram
+   
+   ![ERD](./Data%20Storing/design/ERD_Kurs.png)
+2. Relational Diagram
+   
+   ![Relational Diagram](./Data%20Storing/design/Relational_Kurs.png)
+
 ## Explanation of ERD to Relational Diagram Translation Process
+
+1. Pada relasi country ditambahkan atribut currency_code yang merupakan primary key dari relasi currency, sebab pada E-R diagram entitas currency memiliki hubungan one-to-many dengan entitas country, dengan many berada pada entitas country.
+   
+   ![country_translate](Data%20Storing/design/country_translate.png)
+
+2. Relasi *currency* memiliki atribut yang sama seperti pada E-R diagram karena memiliki hubungan *one-to-many* dengan entitas country, dengan one berada di entitas currency, dan hubungan *weak-entity-set* dengan nilai kurs, dengan curs sebagai *strong entity*.
+   
+   ![currency_translate](Data%20Storing/design/currency_tranlate.png)
+
+3. Pada relasi nilai_kurs, ditambahkan atribut doc_id yang merujuk pada *primary key* dari relasi kurs_pajak_document, juga ditambahkan atribut currency_code yang merujuk pada relasi *currency*. Hal tersebut dilakukan karena nilai_kurs adalah weak entity yang memiliki 2 *strong entity* yaitu kurs_pajak_document dan *currency*.
+   
+   ![nilai_kurs_translate](Data%20Storing/design/nilai_kurs_translate.png)
+
+4. Relasi kurs_pajak_document memiliki atribut yang sama seperti pada E-R diagram karena hanya memilik hubungan weak-entity-set dengan nilai_kurs dengan kurs_pajak_document adalah strong entity.
+   
+   ![kurs_pajak_document_translate](Data%20Storing/design/kurs_pajak_document_translate.png)
 
 ## Screenshots of the Program
 
 1. Website to be scraped
-
+   
    ![Webpage to be scraped](./Data%20Scraping/screenshot/Website.png)
 
 2. Running the script
-
+   
    ![Running the script](./Data%20Scraping/screenshot/CLI.png)
 
 3. Result of the script
-
+   
    ![Result of the script](./Data%20Scraping/screenshot/JSON.png)
 
 
@@ -125,7 +149,8 @@ Berikut adalah referensi yang digunakan untuk memahami cara kerja library dan fr
 
 ## Author
 
-Ahmad Rizki
+**Ahmad Rizki
 <br>18221071
-<br>Seleksi Warga Basdat 2021
+<br>Seleksi Warga Basdat 2021**
+
 <br>See [LICENSE](LICENSE) file.
