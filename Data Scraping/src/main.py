@@ -11,7 +11,7 @@ locations = []
 categories = []
 ID_event = 1
 ID_organizer = 1
-url = 'https://www.eventbrite.com/d/indonesia/{category}/?page={i}/'
+url = 'https://www.eventbrite.com/d/indonesia/{category}/?page={i}&cur=USD'
 for category in categories_url:
     ct = {
         'ID_category' : categories_code[categories_url.index(category)],
@@ -26,26 +26,25 @@ for category in categories_url:
         x = 0
         while (sf.get_name(soup,x)!=None):
             name = sf.get_name(soup,x)
-            print('tes')
-            time = sf.get_time(soup,x)
-            print(time)
-            lowest_price, highest_price= sf.get_price(soup,x)
+            print(f"Scraping event {x+1} ({name})...")
+            price= sf.get_price(soup,x)
             order_link = sf.get_event_url(soup,x)
+            print(order_link)
             soup2 = sf.create_soup(sf.load_page_event(order_link))
             address = sf.get_address(soup2)
             date = sf.get_date(soup2)
+            time = sf.get_time(soup2)
             latitude = sf.get_lattitude(soup2)
             longitude = sf.get_longitude(soup2)
             duration = sf.get_duration(soup2)
             organizer = sf.get_organizer(soup2)
-            totalfolowersorganizer = sf.get_totalfolowersorganizer(soup2)
+            totalfollowersorganizer = sf.get_totalfollowersorganizer(soup2)
             organizerpage = sf.get_organizerpage(soup2)
             # menyimpan ke dalam json
             event = {
                 'ID_event': ID_event,
                 'Name': name,
-                'Lowest_price': lowest_price,
-                'Highest_price': highest_price,
+                'Price': price,
                 'Date': date,
                 'Start_time': time,
                 'Duration': duration,
@@ -56,7 +55,7 @@ for category in categories_url:
             }
             organizer = {
                 'Name' : organizer,
-                'Total_folowers' : totalfolowersorganizer,
+                'Total_followers' : totalfollowersorganizer,
                 'Organizer_page' : organizerpage,
             }
             location = {
@@ -72,19 +71,16 @@ for category in categories_url:
             ID_event += 1
             x += 1
         print('Scraping page {} in category {} done.'.format(i, category))
+        print('Saving to json...')
+        with open('..\data\events.json', 'w') as json_file:
+            json.dump(events, json_file)
+        with open('..\data\organizers.json', 'w') as json_file:
+            json.dump(organizers, json_file)
+        with open('..\data\locations.json', 'w') as json_file:
+            json.dump(locations, json_file)
+        with open('..\data\categories.json', 'w') as json_file:
+            json.dump(categories, json_file)   
 print('Scraping is finished')
-
-print('Saving to json...')
-with open('../data/events.json', 'w') as json_file:
-    json.dump(events, json_file)
-with open('../data/organizers.json', 'w') as json_file:
-    json.dump(organizers, json_file)
-with open('../data/locations.json', 'w') as json_file:
-    json.dump(locations, json_file)
-with open('../data/categories.json', 'w') as json_file:
-    json.dump(categories, json_file)  
-print('Saving is finished')  
-
 
 
 

@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Seleksi Warga Basdat 2023
+  Data Events di Indonesia
   <br>
   <br>
 </h1>
@@ -9,95 +9,93 @@
   <br>
   Data Scraping, Database Modelling, and Data Storing
   <br>
+  Website Eventbrite.com
   <br>
 </h2>
 
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
+## Description
+  ### Data
+  Data yang digunakan merupakan hasil scraping dari website [Eventbrite](https://www.eventbrite.com/). Website ini dimanfaatkan oleh para _event organizer_ untuk mempromosikan berbagai event di seluruh dunia, mulai dari _seminar_, _class_, _conference_, hingga _festival_. Berbagai event tersebut juga terdiri dari berbagai kategori mulai dari bisnis, sains, teknologi, spiritual, hingga musik. Data yang diambil dari website ini adalah data event yang ada di Indonesia. Data yang diambil meliputi nama _event_, tanggal dan waktu _event_, lokasi _event_ (alamat, _latitude, longitude_), harga tiket, _event organizer_, kategori, dan link pemesanan.
+  ### DBMS
+  DBMS yang digunakan untuk menyimpan data hasil scraping adalah PostgreSQL. PostgreSQL merupakan DBMS yang bersifat open source dan memiliki banyak fitur yang dapat digunakan untuk mengelola data. PostgreSQL mendukung berbagai jenis data, termasuk data terstruktur (JSON). PostgreSQL juga mendukung berbagai bahasa pemrograman, termasuk Python.
 
+## Specification
+  Program ini dibuat menggunakan bahasa pemrograman Python dengan beberapa library dan tools tambahan, yaitu:
+  - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 
+    untuk melakukan scraping data dari website
+  - [Selenium](https://www.selenium.dev/) 
+    untuk melakukan request ke website yang dynamic dengan menggunakan fungsi wait.
+  - JSON 
+    untuk mengubah data menjadi format JSON
+  - Datetime 
+    untuk membantu formatting tanggal dan waktu pada data
 
-## Data _Events_ di Indonesia
+## How to Use
+  1. Clone repository ini ke directory lokal
+  2. Install library yang dibutuhkan dengan menjalankan perintah berikut pada terminal:
+  ```
+  pip install bs4
+  pip install selenium
+  ```
+  3. Jalankan program dengan menjalankan perintah berikut pada terminal:
+  ```
+  python main.py
+  ```
+  4. Tunggu hingga program selesai berjalan. Program akan mengambil data dari website dan menyimpannya dalam format JSON. Program juga akan menyimpan data ke dalam database PostgreSQL.
 
-### Deskripsi Data dan DBMS
-  Data yang digunakan merupakan hasil scraping dari website [Eventbrite](https://www.eventbrite.com/). 
-  akwdkwkdoekdlekwslkddddddddd
+## JSON Structure
+  Pada program ini, terdapat 4 file JSON yang dihasilkan, yaitu:
+  - `events.json`
+     dengan struktur sebagai berikut:
+     ```
+     {"ID_event": 1, 
+      "Name": "Free Career Empowerment & Meditation Class - Jakarta", 
+      "Price": 0.0, 
+      "Date": "2023-07-19", 
+      "Start_time": "07:30", 
+      "Duration": 24, 
+      "Order_link": "https://www.eventbrite.com/e/free-career-empowerment-meditation-class-jakarta-tickets-558392485957?aff=ebdssbdestsearch", 
+      "Address": "See Confirmation Email for Zoom Link, Jakarta, Jakarta 10110", 
+      "Organizer": "https://www.eventbrite.com/o/career-bliss-academy-34346634153", "Category": "B"}
+     ```
+  - `organizers.json`
+    dengan struktur sebagai berikut:
+    ```
+    {
+      "Name": "Career Bliss Academy"
+      "Total_folowers": 5100, 
+      "Organizer_page": "https://www.eventbrite.com/o/career-bliss-academy-34346634153"
+      }, 
+     
+    ```
+  - `categories.json`
+    dengan struktur sebagai berikut:
+    ```
+    {
+      "ID_category": "B", 
+      "Name": "business events"
+      }
+    ```
+  - `locations.json`
+    dengan struktur sebagai berikut:
+    ```
+    {
+      "Address": "Jalan Daan Mogot No.63 Tj. Duren Utara Kec. Grogol petamburan, Daerah Khusus Ibukota Jakarta 11470", 
+      "Latitude": -6.1753942, 
+      "Longitude": 106.827183
+      }
+    ```
 
-### Spesifikasi Program
-  Program ini dibuat menggunakan bahasa pemrograman Python. Program ini dapat digunakan untuk melakukan scraping data dari website [Eventbrite](https://www.eventbrite.com/). Program ini juga dapat melakukan penyimpanan data hasil scraping ke dalam database MySQL.
+## Database Structure
+   ERD dari database yang digunakan adalah sebagai berikut:
+    ![ERD](Data%20Storing/design/ERD.png)
+   Relational diagram dari database yang digunakan adalah sebagai berikut:
+    ![Relational Design](Data%20Storing/design/Relational%20Diagram.png)
+## Screenshots
 
-### Cara Menggunakan Program
+## References
 
-### JSON
-
-### Database Structure
-
-
-
-
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
-
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
-
-4. Tools yang digunakan __dibebaskan__ pada peserta.
-
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
-
-
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
-
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
-
-### Pengumpulan
-
-
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
-
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
-
-
-```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
-
-
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
-
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
-
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
-<br>
+## Author
+  - Naura Valda Prameswari - 18221173
+  - Sistem dan Teknologi Informasi
+  - Institut Teknologi Bandung

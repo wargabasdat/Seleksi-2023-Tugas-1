@@ -1,6 +1,6 @@
 import time
 from bs4 import BeautifulSoup
-import requests
+# import requests
 from datetime import datetime, timedelta
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -11,7 +11,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
-
+# load page source menggunakan selenium
 def load_page_source(url):
     # Membuat objek options untuk mengatur header
     options = Options()
@@ -33,7 +33,7 @@ def load_page_source(url):
     # Memuat halaman web
     driver.get(url)
     # Menunggu hingga semua elemen dimuat menggunakan Explicit Waits
-    wait = WebDriverWait(driver, 100)
+    wait = WebDriverWait(driver, 20)
     wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, "Typography_body-md-bold__4bejd")))
     # Mendapatkan HTML dari halaman yang telah dimuat
     html = driver.page_source
@@ -41,6 +41,7 @@ def load_page_source(url):
     driver.quit()
     return html
 
+# load page event menggunakan selenium
 def load_page_event(url):
     # Membuat objek options untuk mengatur header
     options = Options()
@@ -62,7 +63,7 @@ def load_page_event(url):
     # Memuat halaman web
     driver.get(url)
     # Menunggu hingga semua elemen dimuat menggunakan Explicit Waits
-    wait = WebDriverWait(driver, 20)
+    wait = WebDriverWait(driver, 25)
     wait.until(EC.presence_of_element_located((By.TAG_NAME, "time")))
     wait.until(EC.presence_of_all_elements_located((By.TAG_NAME, "meta")))
     wait.until(EC.presence_of_all_elements_located((By.TAG_NAME, "span"))) 
@@ -72,14 +73,12 @@ def load_page_event(url):
     driver.quit()
     return html
 
+# membuat objek soup
 def create_soup(html):
     soup = BeautifulSoup(html, 'html.parser')
     return soup
 
-def get_panel_event(soup,i):
-    panel = soup.find_all('section', class_="event-card-details")
-    return panel[i]
-
+# scrape nama event
 def get_name(soup,i):
     # fungsi find all untuk mencari element dengan tag h2 dan class yang sesuai
     try:
@@ -88,28 +87,18 @@ def get_name(soup,i):
     except:
         return None
 
-# def get_time(soup,i):
-#     elements = soup.find_all('p', class_='Typography_root__4bejd #585163 Typography_body-md-bold__4bejd eds-text-color--ui-800 Typography_align-match-parent__4bejd')[i].text
-#     print(elements)
-#     elTime = elements.split(' ')[2] + ' ' + elements.split(' ')[3]
-#     print(elTime)
-#     if elements.split(' ')[3] != "PM" or elements.split(' ')[3] != "AM":
-#         elTime = elements.split(' ')[4] +' ' + elements.split(' ')[5]
-#     if elTime[0]==' ':
-#         elTime = elTime[1:]
-#     print(elTime)
-#     time = datetime.strptime(elTime, "%I:%M %p")
-#     # Mengubah format waktu
-#     formatted_time = time.strftime("%H:%M") 
-#     return formatted_time
-
+# scrape link event
 def get_event_url(soup,i):
-    event_url = soup.find_all('a', class_='event-card-link')[i]
+    section = soup.find_all('section', class_='event-card-details')[i*2]
+    event_url = section.find('a', class_='event-card-link')
     return event_url['href']
 
+# scrape tanggal event
 def get_date(soup):
     date = soup.find('time').get('datetime')
     return date
+
+# scrape waktu mulai event
 def get_time(soup):
     element = soup.find('meta', attrs={'name': 'twitter:data2'})['value']
     elTime = element.split(' ')[5] + ' ' + element.split(' ')[6]
@@ -118,14 +107,13 @@ def get_time(soup):
     formatted_time = time.strftime("%H:%M")
     return formatted_time
 
-
-
-# pake url event
+# scrape alamat lokasi event
 def get_address(soup):
     meta_tag = soup.find('meta', attrs={'name': 'twitter:data1'})
     address = meta_tag['value']
     return address
 
+# scrape event price
 def get_price(soup, i):
     section = soup.find_all('section', class_='event-card-details')[i*2+1]
     p_tag = section.find('p', class_='Typography_root__4bejd #585163 Typography_body-md-bold__4bejd Typography_align-match-parent__4bejd')
@@ -143,25 +131,8 @@ def get_price(soup, i):
             el = text.split('-')
             price = float(el[0].replace('$', '').strip())
     return price
-
-# def get_price(soup):
-#     tag = soup.find('span', class_='eds-text-bm eds-text-weight--heavy')
-#     if tag == None:
-#         print('p')
-#         tag = soup.find('div', class_='conversion-bar__panel-info')
-#         if tag == None:
-#             tag = soup.find('div', class_='eds-text-bm eds-text-weight--heavy')
-#     text = tag.text
-#     if text == 'Free':
-#         price=0
-#     else:
-#         print(text)
-#         idx = text.find('$')
-#         price = float(text[idx+1:])
-#     return price
     
-
-# pake url event
+# scrape durasi event
 def get_duration(soup):
     # Menggunakan metode find() untuk mencari elemen <li> dengan class yang diberikan
     li_tag = soup.find('li', class_='eds-text-bm eds-text-weight--heavy css-1eys03p')
@@ -176,6 +147,7 @@ def get_duration(soup):
     total_hours = days * 24 + hours
     return total_hours
 
+# scrape nama organizer event
 def get_organizer(soup):
     # Menggunakan metode find() untuk mencari elemen <a>
     a_tag = soup.find('a', class_='descriptive-organizer-info__name-link')
@@ -183,7 +155,8 @@ def get_organizer(soup):
     organizer = a_tag.text
     return organizer
 
-def get_totalfolowersorganizer(soup):
+# scrape total followers organizer event
+def get_totalfollowersorganizer(soup):
     # Mendapatkan teks dari elemen span
     text = soup.find('span', class_='organizer-stats__highlight').text
     # Mengonversi teks menjadi angka
@@ -199,6 +172,7 @@ def get_totalfolowersorganizer(soup):
         value = int(text)
     return int(value)
 
+# scrape event organizer page
 def get_organizerpage(soup):
     # Menggunakan metode find() untuk mencari elemen <a>
     a_tag = soup.find('a', class_='descriptive-organizer-info__name-link')
@@ -206,7 +180,7 @@ def get_organizerpage(soup):
     organizerpage = a_tag['href']
     return organizerpage
 
-
+# scrape latitude lokasi event
 def get_lattitude(soup):
     # Menggunakan metode find() untuk mencari elemen <meta> dengan atribut property
     meta_tag = soup.find('meta', attrs={'property': 'event:location:latitude'})
@@ -214,6 +188,7 @@ def get_lattitude(soup):
     latitude = meta_tag['content']
     return latitude
 
+# scrape longitude lokasi event
 def get_longitude(soup):
     # Menggunakan metode find() untuk mencari elemen <meta> dengan atribut property
     meta_tag = soup.find('meta', attrs={'property': 'event:location:longitude'})
@@ -221,53 +196,11 @@ def get_longitude(soup):
     longitude = meta_tag['content']
     return longitude
 
+# mengubah format string
 def replace_hyphens_with_spaces(string):
     val = string.replace('--', ' ')
     val = val.replace('-', ' ')
     return val
-
-# url = 'https://www.eventbrite.com/d/indonesia/business--events/?page=1/'
-# # Membuat objek WebDriver
-# driver = webdriver.Chrome()
-
-# # Memuat halaman web
-# driver.get(url)
-
-# # Menunggu hingga semua elemen dimuat menggunakan Explicit Waits
-# wait = WebDriverWait(driver, 100)
-# # wait.until(EC.presence_of_element_located((By.CLASS_NAME, "Typography_root__4bejd")))
-# # wait.until(EC.presence_of_element_located((By.CLASS_NAME, "#585163")))
-# wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, "Typography_body-md-bold__4bejd")))
-# # wait.until(EC.presence_of_element_located((By.CLASS_NAME, "Typography_align-match-parent__4bejd")))
-
-# # Mendapatkan HTML dari halaman yang telah dimuat
-# html = driver.page_source
-
-# # Menutup WebDriver
-# driver.quit()
-
-# soup = BeautifulSoup(html, 'html.parser')
-url = 'https://www.eventbrite.com/d/indonesia/business--events/?page=2'
-html = load_page_source(url)
-soup = create_soup(html)
-print(get_name(soup,1))
-# print(get_time(soup,0))
-url1 = get_event_url(soup,1)
-print(url1)
-print(get_price(soup,1))
-# url1 = 'https://www.eventbrite.com/e/jakarta-leadership-delegation-skills-for-busy-leaders-why-how-tickets-449153629597?aff=ebdssbdestsearch'
-# soup1 = create_soup(load_page_event(url1))
-# print(get_date(soup1))
-# print(get_time(soup1))
-# print(get_price(soup1))
-# print(get_address(soup1))
-# print(get_duration(soup1))
-# print(get_organizer(soup1))
-# print(get_totalfolowersorganizer(soup1))
-# print(get_organizerpage(soup1))
-# print(get_lattitude(soup1))
-# print(get_longitude(soup1))
-# print(url1)
 
 
 
