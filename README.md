@@ -148,11 +148,13 @@ Hasil scrapping disimpan di dalam 2 jenis file JSON, yaitu:
 4. Result of stroring data to DBMS
    - Tables in Database
     ![Tables in Database](./Data%20Storing/screenshot/info_table_db.png)
+
    - Fields Description of Tables
     ![Fields Description of Country](./Data%20Storing/screenshot/info_country.png)
     ![Fields Description of Currency](./Data%20Storing/screenshot/info_currency.png)
     ![Fields Description of Kurs Pajak Document](./Data%20Storing/screenshot/info_kurs_pajak_document.png)
     ![Fields Description of Nilai Kurs](./Data%20Storing/screenshot/info_nilai_kurs.png)
+    
    - Data in Tables
     ![Data in Country](./Data%20Storing/screenshot/select_country.png)
     ![Data in Currency](./Data%20Storing/screenshot/select_currency.png)
