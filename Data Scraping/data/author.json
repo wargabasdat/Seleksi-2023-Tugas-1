@@ -27,31 +27,625 @@
         {
             "index":0,
             "authorID":"AU0001",
-            "authorName":"Ruth Ware",
+            "authorName":"TSUTOMO SATO",
             "description":"by 18221171"
         },
         {
             "index":1,
             "authorID":"AU0002",
-            "authorName":"Yim Kang Jae",
+            "authorName":"Ojiro Makoto",
             "description":"by 18221171"
         },
         {
             "index":2,
             "authorID":"AU0003",
-            "authorName":"Zhaenal Fanani - Regu Kancil Studio",
+            "authorName":"Faza Meonk",
             "description":"by 18221171"
         },
         {
             "index":3,
             "authorID":"AU0004",
-            "authorName":"Pionicon",
+            "authorName":"RYOHGO NARITA\/SHINTA FUJIMOTO",
             "description":"by 18221171"
         },
         {
             "index":4,
             "authorID":"AU0005",
+            "authorName":"TAPPEI NAGATSUKI\/MAKOTO FUGETSU\/SHINICHIROU OTSUKA",
+            "description":"by 18221171"
+        },
+        {
+            "index":5,
+            "authorID":"AU0006",
+            "authorName":"Motohiro Katou,",
+            "description":"by 18221171"
+        },
+        {
+            "index":6,
+            "authorID":"AU0007",
+            "authorName":"Soichiro YAMAMOTO",
+            "description":"by 18221171"
+        },
+        {
+            "index":7,
+            "authorID":"AU0008",
+            "authorName":"Tsuina Miura \/ Takahiro Oba",
+            "description":"by 18221171"
+        },
+        {
+            "index":8,
+            "authorID":"AU0009",
+            "authorName":"FUJITA",
+            "description":"by 18221171"
+        },
+        {
+            "index":9,
+            "authorID":"AU0010",
+            "authorName":"Jougi Shiraishi",
+            "description":"by 18221171"
+        },
+        {
+            "index":10,
+            "authorID":"AU0011",
+            "authorName":"Muneyuki Kaneshiro,",
+            "description":"by 18221171"
+        },
+        {
+            "index":11,
+            "authorID":"AU0012",
+            "authorName":"Motohiro Katou",
+            "description":"by 18221171"
+        },
+        {
+            "index":12,
+            "authorID":"AU0013",
+            "authorName":"Irvan Aqila",
+            "description":"by 18221171"
+        },
+        {
+            "index":13,
+            "authorID":"AU0014",
+            "authorName":"Sihanjir \/Bangsyah",
+            "description":"by 18221171"
+        },
+        {
+            "index":14,
+            "authorID":"AU0015",
+            "authorName":"One",
+            "description":"by 18221171"
+        },
+        {
+            "index":15,
+            "authorID":"AU0016",
+            "authorName":"Valerie Patkar",
+            "description":"by 18221171"
+        },
+        {
+            "index":16,
+            "authorID":"AU0017",
+            "authorName":"Hitsuji Gondaira",
+            "description":"by 18221171"
+        },
+        {
+            "index":17,
+            "authorID":"AU0018",
+            "authorName":"Nobuhiro Watsuki",
+            "description":"by 18221171"
+        },
+        {
+            "index":18,
+            "authorID":"AU0019",
+            "authorName":"Kafka Asagiri",
+            "description":"by 18221171"
+        },
+        {
+            "index":19,
+            "authorID":"AU0020",
+            "authorName":"Erni Windiyarti",
+            "description":"by 18221171"
+        },
+        {
+            "index":20,
+            "authorID":"AU0021",
+            "authorName":"Akhmad Fauzan & Eli Antina",
+            "description":"by 18221171"
+        },
+        {
+            "index":21,
+            "authorID":"AU0022",
+            "authorName":"Seimaru Amagi & Fumiya Sato",
+            "description":"by 18221171"
+        },
+        {
+            "index":22,
+            "authorID":"AU0023",
+            "authorName":"Aoyama Gosho",
+            "description":"by 18221171"
+        },
+        {
+            "index":23,
+            "authorID":"AU0024",
+            "authorName":"SHUZO OSHIMI",
+            "description":"by 18221171"
+        },
+        {
+            "index":24,
+            "authorID":"AU0025",
+            "authorName":"Rumiko Takahashi",
+            "description":"by 18221171"
+        },
+        {
+            "index":25,
+            "authorID":"AU0026",
+            "authorName":"Zhaenal Fanani - Regu Kancil Studio",
+            "description":"by 18221171"
+        },
+        {
+            "index":26,
+            "authorID":"AU0027",
+            "authorName":"Hojo Tsukasa",
+            "description":"by 18221171"
+        },
+        {
+            "index":27,
+            "authorID":"AU0028",
+            "authorName":"Dianobi",
+            "description":"by 18221171"
+        },
+        {
+            "index":28,
+            "authorID":"AU0029",
+            "authorName":"JVSAN",
+            "description":"by 18221171"
+        },
+        {
+            "index":29,
+            "authorID":"AU0030",
+            "authorName":"Usbatun Shaliha",
+            "description":"by 18221171"
+        },
+        {
+            "index":30,
+            "authorID":"AU0031",
+            "authorName":"Annisa Nisfihani",
+            "description":"by 18221171"
+        },
+        {
+            "index":31,
+            "authorID":"AU0032",
+            "authorName":"Yana Toboso",
+            "description":"by 18221171"
+        },
+        {
+            "index":32,
+            "authorID":"AU0033",
+            "authorName":"Arswendo Atmowiloto",
+            "description":"by 18221171"
+        },
+        {
+            "index":33,
+            "authorID":"AU0034",
+            "authorName":"Haruichi Furudate",
+            "description":"by 18221171"
+        },
+        {
+            "index":34,
+            "authorID":"AU0035",
+            "authorName":"Miyuki Mitsubachi,",
+            "description":"by 18221171"
+        },
+        {
+            "index":35,
+            "authorID":"AU0036",
+            "authorName":"Nao Hinachi",
+            "description":"by 18221171"
+        },
+        {
+            "index":36,
+            "authorID":"AU0037",
+            "authorName":"Kak Freddie & Kak Andiko",
+            "description":"by 18221171"
+        },
+        {
+            "index":37,
+            "authorID":"AU0038",
+            "authorName":"Ruth Ware",
+            "description":"by 18221171"
+        },
+        {
+            "index":38,
+            "authorID":"AU0039",
+            "authorName":"KL Management",
+            "description":"by 18221171"
+        },
+        {
+            "index":39,
+            "authorID":"AU0040",
+            "authorName":"HAZUKI MINASE, ITSUKI KAMEYA",
+            "description":"by 18221171"
+        },
+        {
+            "index":40,
+            "authorID":"AU0041",
+            "authorName":"Xiao Jiangnan",
+            "description":"by 18221171"
+        },
+        {
+            "index":41,
+            "authorID":"AU0042",
+            "authorName":"Dian K & Aan W",
+            "description":"by 18221171"
+        },
+        {
+            "index":42,
+            "authorID":"AU0043",
+            "authorName":"Hata Kenjiro",
+            "description":"by 18221171"
+        },
+        {
+            "index":43,
+            "authorID":"AU0044",
+            "authorName":"Aida Iro",
+            "description":"by 18221171"
+        },
+        {
+            "index":44,
+            "authorID":"AU0045",
+            "authorName":"Yim Kang Jae",
+            "description":"by 18221171"
+        },
+        {
+            "index":45,
+            "authorID":"AU0046",
             "authorName":"Muhammad 'Mice' Mirsad",
+            "description":"by 18221171"
+        },
+        {
+            "index":46,
+            "authorID":"AU0047",
+            "authorName":"Nurul Chomaria",
+            "description":"by 18221171"
+        },
+        {
+            "index":47,
+            "authorID":"AU0048",
+            "authorName":"M&C",
+            "description":"by 18221171"
+        },
+        {
+            "index":48,
+            "authorID":"AU0049",
+            "authorName":"YeaRimDang",
+            "description":"by 18221171"
+        },
+        {
+            "index":49,
+            "authorID":"AU0050",
+            "authorName":"Kamome Shirahama",
+            "description":"by 18221171"
+        },
+        {
+            "index":50,
+            "authorID":"AU0051",
+            "authorName":"Akira Toriyama",
+            "description":"by 18221171"
+        },
+        {
+            "index":51,
+            "authorID":"AU0052",
+            "authorName":"Ohba Tsugumi",
+            "description":"by 18221171"
+        },
+        {
+            "index":52,
+            "authorID":"AU0053",
+            "authorName":"Eiichiro Oda",
+            "description":"by 18221171"
+        },
+        {
+            "index":53,
+            "authorID":"AU0054",
+            "authorName":"Saniyyah Putri Salsabila Said",
+            "description":"by 18221171"
+        },
+        {
+            "index":54,
+            "authorID":"AU0055",
+            "authorName":"Miki Yoshikawa",
+            "description":"by 18221171"
+        },
+        {
+            "index":55,
+            "authorID":"AU0056",
+            "authorName":"Lilpudu",
+            "description":"by 18221171"
+        },
+        {
+            "index":56,
+            "authorID":"AU0057",
+            "authorName":"HAKURI",
+            "description":"by 18221171"
+        },
+        {
+            "index":57,
+            "authorID":"AU0058",
+            "authorName":"UMI SAKURAI",
+            "description":"by 18221171"
+        },
+        {
+            "index":58,
+            "authorID":"AU0059",
+            "authorName":"Yoshimura Akemi,",
+            "description":"by 18221171"
+        },
+        {
+            "index":59,
+            "authorID":"AU0060",
+            "authorName":"Rei Toma",
+            "description":"by 18221171"
+        },
+        {
+            "index":60,
+            "authorID":"AU0061",
+            "authorName":"One & Yusuke Murata",
+            "description":"by 18221171"
+        },
+        {
+            "index":61,
+            "authorID":"AU0062",
+            "authorName":"Hiroyuki Takei",
+            "description":"by 18221171"
+        },
+        {
+            "index":62,
+            "authorID":"AU0063",
+            "authorName":"Marsella Tina",
+            "description":"by 18221171"
+        },
+        {
+            "index":63,
+            "authorID":"AU0064",
+            "authorName":"Chugong",
+            "description":"by 18221171"
+        },
+        {
+            "index":64,
+            "authorID":"AU0065",
+            "authorName":"Kwangwoong Lee",
+            "description":"by 18221171"
+        },
+        {
+            "index":65,
+            "authorID":"AU0066",
+            "authorName":"Sui Ishida",
+            "description":"by 18221171"
+        },
+        {
+            "index":66,
+            "authorID":"AU0067",
+            "authorName":"Hirohiko Araki",
+            "description":"by 18221171"
+        },
+        {
+            "index":67,
+            "authorID":"AU0068",
+            "authorName":"Tatsuki Fujimoto",
+            "description":"by 18221171"
+        },
+        {
+            "index":68,
+            "authorID":"AU0069",
+            "authorName":"NATSU HYUUGA \/ NEKOKURAGE",
+            "description":"by 18221171"
+        },
+        {
+            "index":69,
+            "authorID":"AU0070",
+            "authorName":"Kohei Horikoshi",
+            "description":"by 18221171"
+        },
+        {
+            "index":70,
+            "authorID":"AU0071",
+            "authorName":"Tomohito ODA",
+            "description":"by 18221171"
+        },
+        {
+            "index":71,
+            "authorID":"AU0072",
+            "authorName":"Yousuke Kaneda",
+            "description":"by 18221171"
+        },
+        {
+            "index":72,
+            "authorID":"AU0073",
+            "authorName":"TYPE-MOON \/ REI WATARU",
+            "description":"by 18221171"
+        },
+        {
+            "index":73,
+            "authorID":"AU0074",
+            "authorName":"Hajime Komoto",
+            "description":"by 18221171"
+        },
+        {
+            "index":74,
+            "authorID":"AU0075",
+            "authorName":"Yuto Suzuki",
+            "description":"by 18221171"
+        },
+        {
+            "index":75,
+            "authorID":"AU0076",
+            "authorName":"Tetsuo Hara & Buronson",
+            "description":"by 18221171"
+        },
+        {
+            "index":76,
+            "authorID":"AU0077",
+            "authorName":"Takahashi Rumiko",
+            "description":"by 18221171"
+        },
+        {
+            "index":77,
+            "authorID":"AU0078",
+            "authorName":"Oldheva",
+            "description":"by 18221171"
+        },
+        {
+            "index":78,
+            "authorID":"AU0079",
+            "authorName":"Wataru ISHII",
+            "description":"by 18221171"
+        },
+        {
+            "index":79,
+            "authorID":"AU0080",
+            "authorName":"YAMAMOTO SOUICHIROU",
+            "description":"by 18221171"
+        },
+        {
+            "index":80,
+            "authorID":"AU0081",
+            "authorName":"Shinshinhye",
+            "description":"by 18221171"
+        },
+        {
+            "index":81,
+            "authorID":"AU0082",
+            "authorName":"Kousuke Oono",
+            "description":"by 18221171"
+        },
+        {
+            "index":82,
+            "authorID":"AU0083",
+            "authorName":"Masashi Kishimoto",
+            "description":"by 18221171"
+        },
+        {
+            "index":83,
+            "authorID":"AU0084",
+            "authorName":"Alfia Ramadhani",
+            "description":"by 18221171"
+        },
+        {
+            "index":84,
+            "authorID":"AU0085",
+            "authorName":"Kugil Publishing",
+            "description":"by 18221171"
+        },
+        {
+            "index":85,
+            "authorID":"AU0086",
+            "authorName":"Haro Aso, Kotaro Takata,",
+            "description":"by 18221171"
+        },
+        {
+            "index":86,
+            "authorID":"AU0087",
+            "authorName":"Prasodjo Muhammad",
+            "description":"by 18221171"
+        },
+        {
+            "index":87,
+            "authorID":"AU0088",
+            "authorName":"Gege Akutami",
+            "description":"by 18221171"
+        },
+        {
+            "index":88,
+            "authorID":"AU0089",
+            "authorName":"ITO Junji",
+            "description":"by 18221171"
+        },
+        {
+            "index":89,
+            "authorID":"AU0090",
+            "authorName":"Yupitawdr",
+            "description":"by 18221171"
+        },
+        {
+            "index":90,
+            "authorID":"AU0091",
+            "authorName":"Ito Junji",
+            "description":"by 18221171"
+        },
+        {
+            "index":91,
+            "authorID":"AU0092",
+            "authorName":"Kim Ji Hun",
+            "description":"by 18221171"
+        },
+        {
+            "index":92,
+            "authorID":"AU0093",
+            "authorName":"Nene Yukimori",
+            "description":"by 18221171"
+        },
+        {
+            "index":93,
+            "authorID":"AU0094",
+            "authorName":"TONY VALENTE",
+            "description":"by 18221171"
+        },
+        {
+            "index":94,
+            "authorID":"AU0095",
+            "authorName":"Tomoki Izumi",
+            "description":"by 18221171"
+        },
+        {
+            "index":95,
+            "authorID":"AU0096",
+            "authorName":"YOICHI TSUKAHARA\/YOSHITO USUI",
+            "description":"by 18221171"
+        },
+        {
+            "index":96,
+            "authorID":"AU0097",
+            "authorName":"Ken Wakui",
+            "description":"by 18221171"
+        },
+        {
+            "index":97,
+            "authorID":"AU0098",
+            "authorName":"Koyoharu Gotouge",
+            "description":"by 18221171"
+        },
+        {
+            "index":98,
+            "authorID":"AU0099",
+            "authorName":"Cixin Liu",
+            "description":"by 18221171"
+        },
+        {
+            "index":99,
+            "authorID":"AU0100",
+            "authorName":"Yearim dang",
+            "description":"by 18221171"
+        },
+        {
+            "index":100,
+            "authorID":"AU0101",
+            "authorName":"Pionicon",
+            "description":"by 18221171"
+        },
+        {
+            "index":101,
+            "authorID":"AU0102",
+            "authorName":"Kei Koga",
+            "description":"by 18221171"
+        },
+        {
+            "index":102,
+            "authorID":"AU0103",
+            "authorName":"Ryo Azuki",
+            "description":"by 18221171"
+        },
+        {
+            "index":103,
+            "authorID":"AU0104",
+            "authorName":"Joji Morikawa",
             "description":"by 18221171"
         }
     ]
