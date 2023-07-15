@@ -1,0 +1,76 @@
+{
+    "tag_event": [
+        {
+            "id_tag": 165001,
+            "tag": "badminton"
+        },
+        {
+            "id_tag": 165002,
+            "tag": "basket"
+        },
+        {
+            "id_tag": 165003,
+            "tag": "bazaar"
+        },
+        {
+            "id_tag": 165004,
+            "tag": "bazar"
+        },
+        {
+            "id_tag": 165005,
+            "tag": "doorprize"
+        },
+        {
+            "id_tag": 165006,
+            "tag": "futsal"
+        },
+        {
+            "id_tag": 165007,
+            "tag": "lomba-debat"
+        },
+        {
+            "id_tag": 165008,
+            "tag": "lomba-esai"
+        },
+        {
+            "id_tag": 165009,
+            "tag": "lomba-essay"
+        },
+        {
+            "id_tag": 165010,
+            "tag": "lomba-fotografi"
+        },
+        {
+            "id_tag": 165011,
+            "tag": "lomba-karya-tulis"
+        },
+        {
+            "id_tag": 165012,
+            "tag": "lomba-mewarnai"
+        },
+        {
+            "id_tag": 165013,
+            "tag": "lomba-poster"
+        },
+        {
+            "id_tag": 165014,
+            "tag": "piagam-penghargaan"
+        },
+        {
+            "id_tag": 165015,
+            "tag": "seminar-bersertifikat"
+        },
+        {
+            "id_tag": 165016,
+            "tag": "sertifikat"
+        },
+        {
+            "id_tag": 165017,
+            "tag": "trofi"
+        },
+        {
+            "id_tag": 165018,
+            "tag": "workshop"
+        }
+    ]
+}
