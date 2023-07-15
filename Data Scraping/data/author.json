@@ -1,0 +1,58 @@
+{
+    "schema":{
+        "fields":[
+            {
+                "name":"index",
+                "type":"integer"
+            },
+            {
+                "name":"authorID",
+                "type":"string"
+            },
+            {
+                "name":"authorName",
+                "type":"string"
+            },
+            {
+                "name":"description",
+                "type":"string"
+            }
+        ],
+        "primaryKey":[
+            "index"
+        ],
+        "pandas_version":"1.4.0"
+    },
+    "data":[
+        {
+            "index":0,
+            "authorID":"AU0001",
+            "authorName":"Ruth Ware",
+            "description":"by 18221171"
+        },
+        {
+            "index":1,
+            "authorID":"AU0002",
+            "authorName":"Yim Kang Jae",
+            "description":"by 18221171"
+        },
+        {
+            "index":2,
+            "authorID":"AU0003",
+            "authorName":"Zhaenal Fanani - Regu Kancil Studio",
+            "description":"by 18221171"
+        },
+        {
+            "index":3,
+            "authorID":"AU0004",
+            "authorName":"Pionicon",
+            "description":"by 18221171"
+        },
+        {
+            "index":4,
+            "authorID":"AU0005",
+            "authorName":"Muhammad 'Mice' Mirsad",
+            "description":"by 18221171"
+        }
+    ]
+}

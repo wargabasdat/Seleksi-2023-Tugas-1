@@ -1,0 +1,67 @@
+{
+    "schema":{
+        "fields":[
+            {
+                "name":"index",
+                "type":"integer"
+            },
+            {
+                "name":"publisherID",
+                "type":"string"
+            },
+            {
+                "name":"publisherName",
+                "type":"string"
+            },
+            {
+                "name":"address",
+                "type":"string"
+            },
+            {
+                "name":"phone",
+                "type":"string"
+            }
+        ],
+        "primaryKey":[
+            "index"
+        ],
+        "pandas_version":"1.4.0"
+    },
+    "data":[
+        {
+            "index":0,
+            "publisherID":"PB0001",
+            "publisherName":"m&c!",
+            "address":"by 18221171",
+            "phone":"by 18221171"
+        },
+        {
+            "index":1,
+            "publisherID":"PB0002",
+            "publisherName":"Bhuana Ilmu Populer",
+            "address":"by 18221171",
+            "phone":"by 18221171"
+        },
+        {
+            "index":2,
+            "publisherID":"PB0003",
+            "publisherName":"Salsabila",
+            "address":"by 18221171",
+            "phone":"by 18221171"
+        },
+        {
+            "index":3,
+            "publisherID":"PB0004",
+            "publisherName":"Noura Books Publishing",
+            "address":"by 18221171",
+            "phone":"by 18221171"
+        },
+        {
+            "index":4,
+            "publisherID":"PB0005",
+            "publisherName":"Bukune",
+            "address":"by 18221171",
+            "phone":"by 18221171"
+        }
+    ]
+}
