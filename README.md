@@ -65,6 +65,7 @@ Tools
 
 https://github.com/DamianMarvel7/TUGAS_SELEKSI_1_18221164/assets/110451781/5f8e3146-2bde-4e51-9f92-fafcf9cdfc6a
 
+Berdasarkan dashboard yang sudah dibuat, bisa dilihat data statistik pemain Real Madrid di halaman pertama. Bisa dilihat bahwa Karim Benzema merupakan pencetak gol terbanyak, diikuti dengan Vinicius Junior, Rodrygo, dan Marco Asensio. Selain menjadi pencetak gol kedua terbanyak, Vinicius Junior juga merupakan pemain yang memiliki total menit bermain terbnayak dibandingkan yang lain. Pemain Real Madrid juga berasal dari berbagai negara, dengan negara paling banyak yaitu Spanyol, Brazil, dan Perancis. Di halaman kedua, kita dapat melihat visualisasi bagaimana keberjalanan Real Madrid di tahun 2022-2023. Pada awal musim, Real Madrid tampil sangat perkasa dengan presentase loss yang sangat sedikit. Namun menjelang musim berakhir, Real Madrid kelihatan kehilangan fokus dengan mengalami kekalahan secara berenter.
 
 
 ### Author
