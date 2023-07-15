@@ -13,12 +13,14 @@ Kurs Pajak adalah kurs yang secara resmi ditetapkan oleh pemerintah dan digunaka
 
 Script ini melakukan scraping pada laman [Kurs Pajak Badan Kebijakan Fiskal, Kementerian Keuangan RI](https://fiskal.kemenkeu.go.id/informasi-publik/kurs-pajak) untuk mendapatkan informasi Kurs Pajak historis. Informasi yang didapatkan adalah:
 
+- Nomor KMK (Keputusan Menteri Keuangan)
+- Tanggal mulai berlaku
+- Tanggal akhir berlaku
 - Nama mata uang
 - Kode mata uang
 - Nilai mata uang saat ini dibandingkan dengan Rupiah
 - Perubahan nilai mata uang dibandingkan dengan nilai pada periode sebelumnya
-- Tanggal mulai berlaku
-- Tanggal akhir berlaku
+
 
 ### DBMS
 
@@ -41,9 +43,11 @@ Runtime : Node.js v16.16.0
 3. Install library yang dibutuhkan dengan perintah `npm install`
 4. Jalankan script dengan perintah `npm run start`
 
+_**note :** File hasil scrapping dituliskan pada file di direktori `"Data Scrapping/data/"`_
+
 ### Data Storing
 
-_File hasil scrapping dituliskan pada file di direktori `"Data Scrapping/data/"`_
+
 
 ## JSON Structure
 
@@ -53,10 +57,12 @@ Hasil scrapping disimpan di dalam 2 jenis file JSON, yaitu:
     ```
     [
       {
+        "doc_id": "35/KM.10/2023",
         "start_date": "2023-07-12",
         "end_date": "2023-07-18",
         "data": [
           {
+            "row_id": 1,
             "currency": "Dolar Amerika Serikat",
             "currency_code": "USD",
             "value": 15053,
@@ -68,23 +74,30 @@ Hasil scrapping disimpan di dalam 2 jenis file JSON, yaitu:
       ...
     ]
    ```
-2. `kurs_pajak_normalized.json` : berisi data kurs pajak yang sudah dinormalisasi menjadi bentuk relasional. Terdapat 2 relasi, yaitu `currencies` dan `kurs_pajak`
+2. `kurs_pajak_normalized.json` : berisi data kurs pajak yang sudah dinormalisasi menjadi bentuk relasional. Terdapat 3 relasi pada file ini, yaitu `currency`, `kurs_pajak_document` dan `nilai_kurs`.
     ```
     {
-      "currencies": [
+      "currency": [
         {
-          "currency": "Dolar Amerika Serikat",
-          "currency_code": "USD"
+          "currency_code": "USD",
+          "currency_name": "Dolar Amerika Serikat"
         },
         ...
       ],
-      "kurs_pajak": [
+      "kurs_pajak_document": [
         {
-          "currency_code": "USD",
-          "value": 15053,
-          "change": 40,
+          "doc_id": "35/KM.10/2023",
           "start_date": "2023-07-12",
           "end_date": "2023-07-18"
+        },
+        ...
+      ],
+      "nilai_kurs": [
+        {
+          "doc_id": "35/KM.10/2023",
+          "no_urut": 1,
+          "currency_code": "USD",
+          "value_in_rupiah": 15053
         },
         ...
       ]
@@ -104,19 +117,19 @@ Hasil scrapping disimpan di dalam 2 jenis file JSON, yaitu:
 
 1. Pada relasi country ditambahkan atribut currency_code yang merupakan primary key dari relasi currency, sebab pada E-R diagram entitas currency memiliki hubungan one-to-many dengan entitas country, dengan many berada pada entitas country.
    
-   ![country_translate](Data%20Storing/design/country_translate.png)
+   ![country_translate](Data%20Storing/design/translate_country.png)
 
 2. Relasi *currency* memiliki atribut yang sama seperti pada E-R diagram karena memiliki hubungan *one-to-many* dengan entitas country, dengan one berada di entitas currency, dan hubungan *weak-entity-set* dengan nilai kurs, dengan curs sebagai *strong entity*.
    
-   ![currency_translate](Data%20Storing/design/currency_tranlate.png)
+   ![currency_translate](Data%20Storing/design/translate_currency.png)
 
-3. Pada relasi nilai_kurs, ditambahkan atribut doc_id yang merujuk pada *primary key* dari relasi kurs_pajak_document, juga ditambahkan atribut currency_code yang merujuk pada relasi *currency*. Hal tersebut dilakukan karena nilai_kurs adalah weak entity yang memiliki 2 *strong entity* yaitu kurs_pajak_document dan *currency*.
+3. Pada relasi nilai_kurs, ditambahkan atribut doc_id yang merujuk pada *primary key* dari relasi kurs_pajak_document, juga ditambahkan atribut currency_code yang merujuk pada relasi *currency*. Hal tersebut dilakukan karena nilai_kurs adalah weak entity yang memiliki 2 *strong entity* yaitu kurs_pajak_document dan *currency*. Pada relasi ini juga atribut change tidak dimasukkan ke model relasional, sebab merupakan derived atribut dari atribut value_in_rupiah.
    
-   ![nilai_kurs_translate](Data%20Storing/design/nilai_kurs_translate.png)
+   ![nilai_kurs_translate](Data%20Storing/design/translate_nilai_kurs.png)
 
 4. Relasi kurs_pajak_document memiliki atribut yang sama seperti pada E-R diagram karena hanya memilik hubungan weak-entity-set dengan nilai_kurs dengan kurs_pajak_document adalah strong entity.
    
-   ![kurs_pajak_document_translate](Data%20Storing/design/kurs_pajak_document_translate.png)
+   ![kurs_pajak_document_translate](Data%20Storing/design/translate_kurs_pajak_document.png)
 
 ## Screenshots of the Program
 
@@ -124,14 +137,27 @@ Hasil scrapping disimpan di dalam 2 jenis file JSON, yaitu:
    
    ![Webpage to be scraped](./Data%20Scraping/screenshot/Website.png)
 
-2. Running the script
+2. Running the scraping script
    
    ![Running the script](./Data%20Scraping/screenshot/CLI.png)
 
-3. Result of the script
+3. Result of the scraping script
    
    ![Result of the script](./Data%20Scraping/screenshot/JSON.png)
 
+4. Result of stroring data to DBMS
+   - Tables in Database
+    ![Tables in Database](./Data%20Storing/screenshot/info_table_db.png)
+   - Fields Description of Tables
+    ![Fields Description of Country](./Data%20Storing/screenshot/info_country.png)
+    ![Fields Description of Currency](./Data%20Storing/screenshot/info_currency.png)
+    ![Fields Description of Kurs Pajak Document](./Data%20Storing/screenshot/info_kurs_pajak_document.png)
+    ![Fields Description of Nilai Kurs](./Data%20Storing/screenshot/info_nilai_kurs.png)
+   - Data in Tables
+    ![Data in Country](./Data%20Storing/screenshot/select_country.png)
+    ![Data in Currency](./Data%20Storing/screenshot/select_currency.png)
+    ![Data in Kurs Pajak Document](./Data%20Storing/screenshot/select_kurs_pajak_document.png)
+    ![Data in Nilai Kurs](./Data%20Storing/screenshot/select_nilai_kurs.png)
 
 ## References
 
@@ -146,6 +172,7 @@ Berikut adalah referensi yang digunakan untuk memahami cara kerja library dan fr
 - https://axios-http.com/docs/post_example
 - https://www.npmjs.com/package/cheerio
 - https://www.youtube.com/watch?v=-ZMwRnxIxZY
+- https://dba.stackexchange.com/questions/260500/can-a-weak-entity-have-relationship-with-multiple-strong-entities
 
 ## Author
 

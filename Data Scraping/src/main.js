@@ -24,11 +24,13 @@ async function main() {
 
   for (let i = 0; i < ITERATION; i++) {
     let html = await retriever(date);
+    let id = parser.extract_id(html);
     let start_date = parser.extract_start_date(html);
     let end_date = parser.extract_end_date(html);
     let tables = parser.extract_tables(html);
 
     nested_data.push({
+      doc_id : id,
       start_date: start_date,
       end_date: end_date,
       data: tables
@@ -71,8 +73,11 @@ function write_to_json(filename, data) {
  */
 function normalize_to_rdb(data) {
   let currency_map = {};
+  let documment_map = {};
   let currency_records = [];
   let currency_names = [];
+  let documents = [];
+
 
   // iterate through nested data
   data.forEach((row) => {
@@ -82,27 +87,40 @@ function normalize_to_rdb(data) {
       if (!currency_map[record.currency_code]) {
         // add currency name
         currency_names.push({
-          currency: record.currency,
-          currency_code: record.currency_code
+          currency_code: record.currency_code,
+          currency_name: record.currency
         });
 
         // add currency code to map
         currency_map[record.currency_code] = true;
       }
 
+      // check if document is already added
+      if (!documment_map[row.doc_id]) {
+        // add document
+        documents.push({
+          doc_id: row.doc_id,
+          start_date: row.start_date,
+          end_date: row.end_date,
+        });
+
+        // add document to map
+        documment_map[row.doc_id] = true;
+      }
+
       // add currency record
       currency_records.push({
+        doc_id: row.doc_id,
+        no_urut: record.row_id,
         currency_code: record.currency_code,
-        value: record.value,
-        change: record.change,
-        start_date: row.start_date,
-        end_date: row.end_date
+        value_in_rupiah: record.value,
       })
     });
   });
 
   return {
-    currencies: currency_names,
-    kurs_pajak: currency_records
+    currency: currency_names,
+    kurs_pajak_document: documents,
+    nilai_kurs: currency_records
   };
 };

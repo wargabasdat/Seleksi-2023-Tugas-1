@@ -49,6 +49,21 @@ module.exports.extract_tables = (html) => {
 
 
 /**
+ * 
+ * @param html (raw HTML string)
+ * @returns str (id of the records)
+ */
+module.exports.extract_id = (html) => {
+  const $ = cheerio.load(html);
+
+  let strong_block = $('strong');
+  let id = strong_block.text().trim().replace("KMK Nomor ", '');
+
+  return id;
+}
+
+
+/**
  * extract start_date of the records
  * @param html (raw HTML string)
  * @returns date (YYYY-MM-DD)
@@ -134,6 +149,7 @@ function extract_cells(cheerio, row) {
  */
 function parse_row(row) {
   return {
+    row_id: parseInt(row[0]),
     currency: get_currency_name(row[1]),
     currency_code: get_currency_code(row[1]),
     value: format_float(row[2]),
