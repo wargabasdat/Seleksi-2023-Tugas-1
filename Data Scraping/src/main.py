@@ -1,34 +1,39 @@
 import scrape_function as sf
 import json
 
-catagories_url = ['business--events', 'food-and-drink--events', 'health--events', 'music--events', 'auto-boat-and-air--events', 'charity-and-causes--events', 'community--events', 'family-and-education--events', 'fashion--events', 'film-and-media--events', 'hobbies--events', 'home-and-lifestyle--events', 'arts--events', 'government--events', 'spirituality--events', 'school-activities--events', 'science-and-tech--events', 'holiday--events','sports-and-fitness--events','travel-and-outdoor--events', 'other--events']
-catagories_code = ['B','FD','H','M','ABA','CC','C','FE','F','FM','H','HL','A','G','S','SA','ST','Hl','SF','TO','O']
-max_page = 10
+# categories_url = ['business--events', 'food-and-drink--events', 'health--events', 'music--events', 'auto-boat-and-air--events', 'charity-and-causes--events', 'community--events', 'family-and-education--events', 'fashion--events', 'film-and-media--events', 'hobbies--events', 'home-and-lifestyle--events', 'arts--events', 'government--events', 'spirituality--events', 'school-activities--events', 'science-and-tech--events', 'holiday--events','sports-and-fitness--events','travel-and-outdoor--events', 'other--events']
+categories_url = ['business--events']
+categories_code = ['B','FD','H','M','ABA','CC','C','FE','F','FM','H','HL','A','G','S','SA','ST','Hl','SF','TO','O']
+max_page = 3
 organizers = []
 events = []
 locations = []
-catagories = []
+categories = []
 ID_event = 1
 ID_organizer = 1
-url = 'https://www.eventbrite.com/d/indonesia/{catagory}/?page={i}/'
-for catagory in catagories:
+url = 'https://www.eventbrite.com/d/indonesia/{category}/?page={i}/'
+for category in categories_url:
     ct = {
-        'ID_catagory' : catagories_code[catagories.index(catagory)],
-        'Name' : catagory,
+        'ID_category' : categories_code[categories_url.index(category)],
+        'Name' : sf.replace_hyphens_with_spaces(category),
     }
-    catagories.append(ct)
+    categories.append(ct)
     for i in range(1, max_page+1):
-        url_page = url.format(catagory=catagory, i=i)
+        url_page = url.format(category=category, i=i)
         html = sf.load_page_source(url_page)
+        print('Scraping page {} in category {}...'.format(i, category))
         soup = sf.create_soup(html)
         x = 0
-        while (sf.get_name(soup,x)==None):
+        while (sf.get_name(soup,x)!=None):
             name = sf.get_name(soup,x)
-            date,time = get_datetime(soup,x)
+            print('tes')
+            time = sf.get_time(soup,x)
+            print(time)
             lowest_price, highest_price= sf.get_price(soup,x)
-            order_link = sf.get_order_link(soup,x)
-            soup2 = sf.create_soup(order_link)
+            order_link = sf.get_event_url(soup,x)
+            soup2 = sf.create_soup(sf.load_page_event(order_link))
             address = sf.get_address(soup2)
+            date = sf.get_date(soup2)
             latitude = sf.get_lattitude(soup2)
             longitude = sf.get_longitude(soup2)
             duration = sf.get_duration(soup2)
@@ -47,6 +52,7 @@ for catagory in catagories:
                 'Order_link': order_link,
                 'Address': address,
                 'Organizer': organizerpage,
+                'Category': categories_code[categories_url.index(category)],
             }
             organizer = {
                 'Name' : organizer,
@@ -65,17 +71,19 @@ for catagory in catagories:
                 locations.append(location)
             ID_event += 1
             x += 1
-        print('Scraping page {} of {} in catagory {}'.format(i, max_page, catagory))
+        print('Scraping page {} in category {} done.'.format(i, category))
 print('Scraping is finished')
 
-with open('events.json', 'w') as json_file:
+print('Saving to json...')
+with open('../data/events.json', 'w') as json_file:
     json.dump(events, json_file)
-with open('organizers.json', 'w') as json_file:
+with open('../data/organizers.json', 'w') as json_file:
     json.dump(organizers, json_file)
-with open('locations.json', 'w') as json_file:
+with open('../data/locations.json', 'w') as json_file:
     json.dump(locations, json_file)
-with open('catagories.json', 'w') as json_file:
-    json.dump(catagories, json_file)    
+with open('../data/categories.json', 'w') as json_file:
+    json.dump(categories, json_file)  
+print('Saving is finished')  
 
 
 
