@@ -19,10 +19,6 @@
 
 ### Description of the data and DBMS
 
-Dashboard
-
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Visualization/RayWhiteDataVisualization.png)
-
 Ray White Indonesia adalah anak perusahaan Ray White Group, perusahaan real estat multinasional yang berbasis di Australia. Dengan kehadiran melalui 175 kantor cabangnya yang tersebar di 25 kota besar di Indonesia, serta didukung oleh 4000 Marketing Executive yang berpengalaman, Ray White Indonesia mampu menawarkan berbagai layanan unggulan kepada para kliennya. Melalui layanan seperti manajemen properti yang profesional, penjualan properti yang efektif, dan appraisal properti yang akurat, Ray White Indonesia menjadi salah satu pemain utama dalam industri real estat di Indonesia.
 
 Data hasil scraping merupakan hasil pengumpulan informasi dari situs web https://www.raywhite.co.id/ yang mencakup informasi tentang listing properti yang dijual. Data tersebut mencakup judul listing beserta ID listing properti dan live ID properti. Data juga mencakup spesifikasi relevan mengenai properti tersebut, seperti tipe properti, lokasi properti yang mencakup kota dan provinsi, nilai jual properti dalam mata uang dolar AS dan rupiah, status negosiasi harga properti, ukuran tanah dan bangunan dari properti, jenis sertifikat kepemilikan properti, serta jumlah kamar tidur, kamar mandi, dan tempat parkir mobil yang tersedia dalam properti. Selain itu, data juga mencakup informasi tentang agen real estat yang mengurus properti tersebut. Informasi tersebut meliputi nama agen, ID pegawai agen, nomor telepon agen, dan kantor tempat agen tersebut bekerja.
@@ -36,6 +32,11 @@ Penulis memilih untuk melakukan scraping data properti yang dijual di situs http
 Data yang diperoleh melalui scraping dapat dianalisis untuk menghasilkan informasi tentang harga properti dan persebarannya di seluruh Indonesia. Analisis tersebut dapat memberikan informasi  bagi calon pembeli dalam menentukan properti yang sesuai dengan kebutuhan mereka. Selain itu, hasil analisis juga dapat digunakan oleh investor real estat untuk mempelajari tren pasar properti di Indonesia dan membantu mereka dalam membuat keputusan investasi.
 
 Selain itu, hasil analisis data properti juga dapat menjadi alat bagi pemangku kepentingan umum seperti pemerintah dalam merencanakan dan mengembangkan daerah. Informasi tentang harga properti, jumlah listing, dan lokasi dapat membantu pihak terkait dalam merencanakan pengembangan wilayah, kebijakan perumahan, dan kebijakan publik lainnya yang berkaitan dengan sektor properti secara umum ataupun perumahan.
+
+
+### Dashboard
+
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Visualization/RayWhiteDataVisualization.png)
 
 Dashboard yang dibuat merupakan gambaran umum data yang didapat dari proses scraping. Informasi yang diperoleh mencakup data tentang 10 agen properti dan kantor yang memiliki jumlah listing terbanyak. Selain itu, daashboard juga mencakup informasi perihal jumlah listing untuk setiap tipe properti serta nilai mean dan median harga properti untuk setiap tipe tersebut.
 
