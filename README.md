@@ -165,6 +165,9 @@ Libraries:
 - requests
 - json
 
+Web Scraping with Beautiful Soup Tutorial
+- https://www.youtube.com/watch?v=YIiYeyfo7MM&t=250s
+
 ## Author
 
 Josua Adriel Sinabutar (18221065)
