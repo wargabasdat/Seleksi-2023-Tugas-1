@@ -28,7 +28,6 @@ def adjustment(title) :
 def get_item(title, book_id) :
     url = "https://kecilkecilpunyakarya.com/product/" + title + "/"
     response = requests.get(url, headers = headers)
-    print(f"{response} : Berhasil melakukan scraping dari produk {title}")
     soup = BeautifulSoup(response.content, "html.parser")
 
     # Each information is stored in a p tag
@@ -77,6 +76,8 @@ def get_item(title, book_id) :
         for a in authors :
             new_row = [book_id, a]
             author_df.loc[len(author_df)] = new_row
+    
+    return response
 
 # Declare variable to count how many books in the catalogue
 count = 0
@@ -89,7 +90,6 @@ for i in range (11) :
         url = "https://kecilkecilpunyakarya.com/shop/page/" + str(i+1) + "/"
 
     response = requests.get(url, headers = headers)
-    print(f"{response} : Berhasil melakukan scraping dari halaman ke-{i + 1}")
     soup = BeautifulSoup(response.content, "html.parser")
 
     # Every information of the product is stored in a div with class "woocommerce-product-inner"
@@ -115,13 +115,17 @@ for i in range (11) :
             book_id = "BOOK0" + str(count)
         id.append(book_id)
 
-        book_title = adjustment(book_title)
-        get_item(book_title, book_id)
+        book_url = adjustment(book_title)
+        item_response = get_item(book_url, book_id)
+        print(f"{item_response} : Scraped {book_title}")
+
 
         # If the book have information about the genre, add it to the genre_df
         for g in genres :
             new_row = [book_id, g]
             genre_df.loc[len(genre_df)] = new_row
+    
+    print(f"{response} : Done scraping from page {i + 1}")
 
 product_dict = {
     "Book ID" : id,
@@ -130,23 +134,17 @@ product_dict = {
     "ISBN" : isbn
 }
 
-dir = os.getcwd()
-print(dir)
-
 book_df = pd.DataFrame(product_dict, columns = ["Book ID", "Book Title", "Price", "ISBN"])
-print(len(book_df))
-print(len(genre_df))
-print(len(author_df))
 
 book_df.sort_values("Book ID", ascending = True)
 genre_df.sort_values("Book ID", ascending = True)
 author_df.sort_values("Book ID", ascending = True)
+# print(len(book_df))
+# print(len(genre_df))
+# print(len(author_df))
+
+dir = os.getcwd()
+
 book_df.to_json(dir[:-3] + 'data\\book_details.json', orient = 'records', indent = 2)
 genre_df.to_json(dir[:-3] + 'data\\book_genre.json', orient = 'records', indent = 2)
 author_df.to_json(dir[:-3] + 'data\\book_author.json', orient = 'records', indent = 2)
-
-# Utk referensi
-# https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_json.html
-# https://docs.devart.com/studio-for-postgresql/exporting-and-importing-data/json-import.html
-# https://www.youtube.com/watch?v=C5AOZZWxvIY
-# https://sparkbyexamples.com/pandas/pandas-add-row-to-dataframe/
