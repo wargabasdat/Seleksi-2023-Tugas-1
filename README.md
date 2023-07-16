@@ -82,3 +82,11 @@ contoh isi JSON file
           "count_reviews":76
      },
 ```
+
+## Database Structure
+
+Berikut merupakan ERD dari database
+![erd_design](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ERD_kokoro_japan.png)
+
+Berikut merupakan Relational diagram dari database
+![relational_diagram](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Relational%20Diagram_kokoro_japan.png)
