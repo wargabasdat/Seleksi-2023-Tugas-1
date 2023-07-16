@@ -35,7 +35,8 @@ Source Code dibentuk menggunakan bahasa Python dengan penambahan library utama B
 dst.
 
 ## Database Structure (ERD and relational diagram)
-(picture here)
+![image](https://github.com/justinjya/TUGAS_SELEKSI_1_18221016/assets/103380665/261becc9-343b-4d2c-8f07-340be272ea9c)
+![image](https://github.com/justinjya/TUGAS_SELEKSI_1_18221016/assets/103380665/38d40d57-9114-4b3c-ba3d-ccb8d74eecff)
 
 ## Explanation of ERD to relational diagram translation process
 Entitas Categories dan Subcategories pada ERD apabila ditranslasikan menjadi relational diagram memiliki bentuk entitas yang sama dengan bentuk pada ERD.
@@ -45,7 +46,7 @@ Entitas Products memiliki penambahan FK CategoryID dan SubcategoryID karena memi
 Entitas Products karena memiliki dua atribut multi-value maka pada relational diagram ditranslasikan dengan membentuk entitas baru bernama ProductsColors dan ProductsSizes untuk menyimpan nilai warna dan ukuran lebih dari satu untuk setiap produk
 
 ## Screenshot of program
-(di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
+![image](https://github.com/justinjya/TUGAS_SELEKSI_1_18221016/assets/103380665/749ee812-6c58-4815-8a04-f216e251be42)
 
 ## References (Library used, etc)
 - Beautiful Soup
