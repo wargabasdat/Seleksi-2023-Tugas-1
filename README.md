@@ -1,101 +1,79 @@
 <h1 align="center">
   <br>
-  Seleksi Warga Basdat 2023
+  Scraping Data Laptop Bhinneka
   <br>
   <br>
 </h1>
 
 <h2 align="center">
   <br>
-  Data Scraping, Database Modelling & Data Storing
+  Data Scraping, Database Modelling & Data Storing, and Data Visualization from bhinneka.com
   <br>
   <br>
 </h2>
 
+## Deskripsi Data & DBMS
+
+Pada Tugas 1 ini, saya memilih untuk melakukan scraping pada website bhinneka.com. Seperti yang tertulis di website bhinneka.com, website ini merupakan platform bisnis online. Berawal sebagai distributor mesin cetak format besar hingga saat ini  menyediakan produk IT, MRO, Business Solution dan Professional Services, untuk segmen UMKM,  korporasi dan institusi pemerintahan. Saat ini bhinneka tersebar di toko dan 33 kantor perwakilan di seluruh Indonesia. 
+
+Alasan saya memilih website tersebut adalah maraknya jual beli online pada masa kini dan tidak dapat dipungkiri terdapat beberapa oknum yang menipu saat melakukan kegiatan jual beli online tersebut. Kategori yang saya pilih adalah laptop karena sebagian besar masyarakat Indonesia khususnya mahasiswa menggunakan laptop untuk menunjang kesehariaannya. Data yang saya ambil berupa nama produk, harga, cicilan, nama toko, lokasi toko, garansi, keunggulan, spesifikasi, deskripsi, estimasi,dan rating. Diakhir data saya menambahkan kolom id untuk membedakan setiap item.
+
+DBMS yang saya gunakan untuk menyimpan hasil scraping tersebut adalah Postgresql. Alasan penggunaan Postgresql karena file hasil export dari web scraping berformat JSON dimana kita dapat menyimpan data JSON secara langsung dalam kolom JSON dan menggunakan fungsi-fungsi untuk memanipulasi data JSON. Selain itu, PostgreSQL menyediakan fleksibilitas dalam mengolah data JSON untuk mengakses, memperbarui, dan memanipulasi data JSON menggunakan query SQL.
 
 ## Spesifikasi
 
-### Data Scraping
+Program web scraping ini menggunakan bahasa pemrograman Python dengan bantuan library BeautifulSoup dan Selenium untuk melakukan scraping-nya. Terdapat beberapa library lain yang digunakan pada program ini yang akan dijelaskan kemudian serta dapat dilihat pada file library.txt.
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
+## How To Use
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
+1. Install library yang dibutuhkan
+2. Clone repository ini ke local repository di PC Anda
+3. Buka folder ini dengan Jupyter Notebook atau IDE yang biasa Anda gunakan
+4. Run setiap kode di file bhinneka_scrape.ipynb
+5. File hasil scraping akan berada di folder Data Scraping/data dan bernama Data_Laptop_Bhinneka.json
 
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
+## JSON Structure
 
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
-
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
-
-### Database Modelling & Data Storing
-
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
-
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
-
-4. Tools yang digunakan __dibebaskan__ pada peserta.
-
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
-
-
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
-
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
-
-### Pengumpulan
-
-
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
-
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
-
+Berikut format file JSON yang dihasilkan dari scraping data:
 
 ```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
+{
+        "nama_produk": string,
+        "harga": string,
+        "cicilan": string,
+        "nama_toko": string,
+        "lokasi_toko": string,
+        "info_detail": [
+            {
+                "garansi": string,
+                "keunggulan": string,
+                "estimasi": string,
+                "rating": float
+            }
+        ],
+        "id": int
+    }
 ```
 
+## Database Structure
 
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
+Berikut merupakan struktur database yang tercipta. Primary key dari struktur ini merupakan id dari setiap item.
 
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
+![DataLaptop_ERD](https://github.com/RazanPtr/Seleksi-2023-Tugas-1/assets/88721317/0be884e0-60cd-4cd3-bddc-6bed038b2d45)
 
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
-<br>
+Berikut merupakan relational diagram dari pemetaan ERD yang telah dibuat
+
+![image](https://github.com/RazanPtr/Seleksi-2023-Tugas-1/assets/88721317/c756ca04-8b6d-4d06-b7cd-8d5c91b30492)
+
+## Explanation of ERD to relational diagram translation process
+
+Semua atribut yang ada di dalam entitas lemah dipetakan menjadi relasi (tabel) yang melibatkan seluruh atribut yang sama pada entitas tersebut dengan menambahkan primary key dari entitas kuatnya (owner entity type) yang akan digunakan sebagai bersama dengan partial key dari entitas lemah.
+
+|Sebelum|Sesudah|
+|-------|-------|
+|![DataLaptop_ERD](https://github.com/RazanPtr/Seleksi-2023-Tugas-1/assets/88721317/4e6a8c23-7038-448a-9802-a1b88307d465)|![image](https://github.com/RazanPtr/Seleksi-2023-Tugas-1/assets/88721317/c756ca04-8b6d-4d06-b7cd-8d5c91b30492)|
+
+## Screenshot
+
+Import Libraries
+
