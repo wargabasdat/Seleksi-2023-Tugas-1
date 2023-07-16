@@ -130,10 +130,13 @@ realtor_office : kantor tempat agen properti yang mengurus listing bekerja
 ### Database Structure (ERD and relational diagram)
 
 Desain Diagram ER
-https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/raywhite_ERD.png
+![raywhite_ERD](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/raywhite_ERD.png)
 
 Desain Relational Diagram
-https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/raywhite_Relational%20Model.png
+![reaywhite_RelationalModel](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/raywhite_Relational%20Model.png
+)
+
+
 
 
 ### Explanation of ERD to relational diagram translation process
