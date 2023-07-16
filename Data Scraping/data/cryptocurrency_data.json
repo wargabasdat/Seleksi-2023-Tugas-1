@@ -1,0 +1,584 @@
+[
+    {
+        "Symbol": "BTC-USD",
+        "Name": "Bitcoin USD",
+        "Market Cap (in M)": 588893.0,
+        "Circulating Supply (in M)": 19.43
+    },
+    {
+        "Symbol": "ETH-USD",
+        "Name": "Ethereum USD",
+        "Market Cap (in M)": 232343.0,
+        "Circulating Supply (in M)": 120.202
+    },
+    {
+        "Symbol": "USDT-USD",
+        "Name": "Tether USD",
+        "Market Cap (in M)": 83637.0,
+        "Circulating Supply (in M)": 83614.0
+    },
+    {
+        "Symbol": "BNB-USD",
+        "Name": "BNB USD",
+        "Market Cap (in M)": 39029.0,
+        "Circulating Supply (in M)": 155.849
+    },
+    {
+        "Symbol": "XRP-USD",
+        "Name": "XRP USD",
+        "Market Cap (in M)": 37264.0,
+        "Circulating Supply (in M)": 52544.0
+    },
+    {
+        "Symbol": "USDC-USD",
+        "Name": "USD Coin USD",
+        "Market Cap (in M)": 27281.0,
+        "Circulating Supply (in M)": 27282.0
+    },
+    {
+        "Symbol": "STETH-USD",
+        "Name": "Lido Staked ETH USD",
+        "Market Cap (in M)": 14886.0,
+        "Circulating Supply (in M)": 7.727
+    },
+    {
+        "Symbol": "ADA-USD",
+        "Name": "Cardano USD",
+        "Market Cap (in M)": 11533.0,
+        "Circulating Supply (in M)": 34976.0
+    },
+    {
+        "Symbol": "SOL-USD",
+        "Name": "Solana USD",
+        "Market Cap (in M)": 11152.0,
+        "Circulating Supply (in M)": 402.546
+    },
+    {
+        "Symbol": "DOGE-USD",
+        "Name": "Dogecoin USD",
+        "Market Cap (in M)": 10218.0,
+        "Circulating Supply (in M)": 140185.0
+    },
+    {
+        "Symbol": "WTRX-USD",
+        "Name": "Wrapped TRON USD",
+        "Market Cap (in M)": 8212.0,
+        "Circulating Supply (in M)": 101676.0
+    },
+    {
+        "Symbol": "MATIC-USD",
+        "Name": "Polygon USD",
+        "Market Cap (in M)": 7501.0,
+        "Circulating Supply (in M)": 9319.0
+    },
+    {
+        "Symbol": "TRX-USD",
+        "Name": "TRON USD",
+        "Market Cap (in M)": 7239.0,
+        "Circulating Supply (in M)": 89779.0
+    },
+    {
+        "Symbol": "LTC-USD",
+        "Name": "Litecoin USD",
+        "Market Cap (in M)": 6939.0,
+        "Circulating Supply (in M)": 73.368
+    },
+    {
+        "Symbol": "DOT-USD",
+        "Name": "Polkadot USD",
+        "Market Cap (in M)": 6305.0,
+        "Circulating Supply (in M)": 1204.0
+    },
+    {
+        "Symbol": "WKAVA-USD",
+        "Name": "Wrapped Kava USD",
+        "Market Cap (in M)": 5249.0,
+        "Circulating Supply (in M)": 497.669
+    },
+    {
+        "Symbol": "AVAX-USD",
+        "Name": "Avalanche USD",
+        "Market Cap (in M)": 5224.0,
+        "Circulating Supply (in M)": 345.851
+    },
+    {
+        "Symbol": "BCH-USD",
+        "Name": "Bitcoin Cash USD",
+        "Market Cap (in M)": 4928.0,
+        "Circulating Supply (in M)": 19.449
+    },
+    {
+        "Symbol": "WBTC-USD",
+        "Name": "Wrapped Bitcoin USD",
+        "Market Cap (in M)": 4787.0,
+        "Circulating Supply (in M)": null
+    },
+    {
+        "Symbol": "DAI-USD",
+        "Name": "Dai USD",
+        "Market Cap (in M)": 4663.0,
+        "Circulating Supply (in M)": 4666.0
+    },
+    {
+        "Symbol": "TON11419-USD",
+        "Name": "Toncoin USD",
+        "Market Cap (in M)": 4632.0,
+        "Circulating Supply (in M)": 3432.0
+    },
+    {
+        "Symbol": "SHIB-USD",
+        "Name": "Shiba Inu USD",
+        "Market Cap (in M)": 4431.0,
+        "Circulating Supply (in M)": 589347000.0
+    },
+    {
+        "Symbol": "BUSD-USD",
+        "Name": "Binance USD USD",
+        "Market Cap (in M)": 3988.0,
+        "Circulating Supply (in M)": 3988.0
+    },
+    {
+        "Symbol": "LINK-USD",
+        "Name": "Chainlink USD",
+        "Market Cap (in M)": 3760.0,
+        "Circulating Supply (in M)": 538.1
+    },
+    {
+        "Symbol": "LEO-USD",
+        "Name": "UNUS SED LEO USD",
+        "Market Cap (in M)": 3712.0,
+        "Circulating Supply (in M)": 929.842
+    },
+    {
+        "Symbol": "UNI7083-USD",
+        "Name": "Uniswap USD",
+        "Market Cap (in M)": 3086.0,
+        "Circulating Supply (in M)": 577.501
+    },
+    {
+        "Symbol": "XMR-USD",
+        "Name": "Monero USD",
+        "Market Cap (in M)": 3021.0,
+        "Circulating Supply (in M)": 18.305
+    },
+    {
+        "Symbol": "TUSD-USD",
+        "Name": "TrueUSD USD",
+        "Market Cap (in M)": 2844.0,
+        "Circulating Supply (in M)": 2845.0
+    },
+    {
+        "Symbol": "ETC-USD",
+        "Name": "Ethereum Classic USD",
+        "Market Cap (in M)": 2747.0,
+        "Circulating Supply (in M)": 141.97
+    },
+    {
+        "Symbol": "OKB-USD",
+        "Name": "OKB USD",
+        "Market Cap (in M)": 2616.0,
+        "Circulating Supply (in M)": 60.0
+    },
+    {
+        "Symbol": "CNX-USD",
+        "Name": "Cryptonex USD",
+        "Market Cap (in M)": 2407.0,
+        "Circulating Supply (in M)": 107.405
+    },
+    {
+        "Symbol": "FGC-USD",
+        "Name": "FantasyGold USD",
+        "Market Cap (in M)": 2113.0,
+        "Circulating Supply (in M)": 139.66
+    },
+    {
+        "Symbol": "FIL-USD",
+        "Name": "Filecoin USD",
+        "Market Cap (in M)": 1927.0,
+        "Circulating Supply (in M)": 436.472
+    },
+    {
+        "Symbol": "ICP-USD",
+        "Name": "Internet Computer USD",
+        "Market Cap (in M)": 1829.0,
+        "Circulating Supply (in M)": 438.352
+    },
+    {
+        "Symbol": "HEX-USD",
+        "Name": "HEX USD",
+        "Market Cap (in M)": 1780.0,
+        "Circulating Supply (in M)": 173411.0
+    },
+    {
+        "Symbol": "HBAR-USD",
+        "Name": "Hedera USD",
+        "Market Cap (in M)": 1677.0,
+        "Circulating Supply (in M)": 32287.999999999996
+    },
+    {
+        "Symbol": "LDO-USD",
+        "Name": "Lido DAO USD",
+        "Market Cap (in M)": 1673.0,
+        "Circulating Supply (in M)": 878.74
+    },
+    {
+        "Symbol": "WHBAR-USD",
+        "Name": "Wrapped HBAR USD",
+        "Market Cap (in M)": 1672.0,
+        "Circulating Supply (in M)": 32287.999999999996
+    },
+    {
+        "Symbol": "BTCB-USD",
+        "Name": "Bitcoin BEP2 USD",
+        "Market Cap (in M)": 1630.0,
+        "Circulating Supply (in M)": null
+    },
+    {
+        "Symbol": "ARB11841-USD",
+        "Name": "Arbitrum USD",
+        "Market Cap (in M)": 1611.0,
+        "Circulating Supply (in M)": 1275.0
+    },
+    {
+        "Symbol": "APT21794-USD",
+        "Name": "Aptos USD",
+        "Market Cap (in M)": 1606.0,
+        "Circulating Supply (in M)": 215.606
+    },
+    {
+        "Symbol": "CRO-USD",
+        "Name": "Cronos USD",
+        "Market Cap (in M)": 1526.0,
+        "Circulating Supply (in M)": 25263.0
+    },
+    {
+        "Symbol": "VET-USD",
+        "Name": "VeChain USD",
+        "Market Cap (in M)": 1430.0,
+        "Circulating Supply (in M)": 72715.0
+    },
+    {
+        "Symbol": "NEAR-USD",
+        "Name": "NEAR Protocol USD",
+        "Market Cap (in M)": 1392.0,
+        "Circulating Supply (in M)": 936.797
+    },
+    {
+        "Symbol": "QNT-USD",
+        "Name": "Quant USD",
+        "Market Cap (in M)": 1227.0,
+        "Circulating Supply (in M)": 12.073
+    },
+    {
+        "Symbol": "AAVE-USD",
+        "Name": "Aave USD",
+        "Market Cap (in M)": 1093.0,
+        "Circulating Supply (in M)": 14.473
+    },
+    {
+        "Symbol": "GRT6719-USD",
+        "Name": "The Graph USD",
+        "Market Cap (in M)": 1067.0,
+        "Circulating Supply (in M)": 9075.0
+    },
+    {
+        "Symbol": "FRAX-USD",
+        "Name": "Frax USD",
+        "Market Cap (in M)": 1002.9999999999999,
+        "Circulating Supply (in M)": 1004.0
+    },
+    {
+        "Symbol": "XLM-USD",
+        "Name": "Stellar USD",
+        "Market Cap (in M)": 3496.0,
+        "Circulating Supply (in M)": 1844.0
+    },
+    {
+        "Symbol": "OP-USD",
+        "Name": "Optimism USD",
+        "Market Cap (in M)": 943.467,
+        "Circulating Supply (in M)": 644.595
+    },
+    {
+        "Symbol": "EGLD-USD",
+        "Name": "MultiversX USD",
+        "Market Cap (in M)": 904.909,
+        "Circulating Supply (in M)": 25.691
+    },
+    {
+        "Symbol": "STX4847-USD",
+        "Name": "Stacks USD",
+        "Market Cap (in M)": 896.873,
+        "Circulating Supply (in M)": 1391.0
+    },
+    {
+        "Symbol": "ALGO-USD",
+        "Name": "Algorand USD",
+        "Market Cap (in M)": 874.07,
+        "Circulating Supply (in M)": 7711.0
+    },
+    {
+        "Symbol": "MKR-USD",
+        "Name": "Maker USD",
+        "Market Cap (in M)": 864.87,
+        "Circulating Supply (in M)": null
+    },
+    {
+        "Symbol": "EOS-USD",
+        "Name": "EOS USD",
+        "Market Cap (in M)": 846.001,
+        "Circulating Supply (in M)": 1097.0
+    },
+    {
+        "Symbol": "XTZ-USD",
+        "Name": "Tezos USD",
+        "Market Cap (in M)": 834.564,
+        "Circulating Supply (in M)": 945.206
+    },
+    {
+        "Symbol": "WEOS-USD",
+        "Name": "Wrapped EOS USD",
+        "Market Cap (in M)": 825.697,
+        "Circulating Supply (in M)": 1097.0
+    },
+    {
+        "Symbol": "IMX10603-USD",
+        "Name": "Immutable USD",
+        "Market Cap (in M)": 808.244,
+        "Circulating Supply (in M)": 1082.0
+    },
+    {
+        "Symbol": "THETA-USD",
+        "Name": "Theta Network USD",
+        "Market Cap (in M)": 798.853,
+        "Circulating Supply (in M)": 1000.0
+    },
+    {
+        "Symbol": "SAND-USD",
+        "Name": "The Sandbox USD",
+        "Market Cap (in M)": 793.979,
+        "Circulating Supply (in M)": 1870.0
+    },
+    {
+        "Symbol": "MANA-USD",
+        "Name": "Decentraland USD",
+        "Market Cap (in M)": 789.486,
+        "Circulating Supply (in M)": 1893.0
+    },
+    {
+        "Symbol": "FTM-USD",
+        "Name": "Fantom USD",
+        "Market Cap (in M)": 769.511,
+        "Circulating Supply (in M)": 2799.0
+    },
+    {
+        "Symbol": "RNDR-USD",
+        "Name": "Render Token USD",
+        "Market Cap (in M)": 743.594,
+        "Circulating Supply (in M)": 368.853
+    },
+    {
+        "Symbol": "USDD-USD",
+        "Name": "USDD USD",
+        "Market Cap (in M)": 739.795,
+        "Circulating Supply (in M)": 740.36
+    },
+    {
+        "Symbol": "AXS-USD",
+        "Name": "Axie Infinity USD",
+        "Market Cap (in M)": 730.132,
+        "Circulating Supply (in M)": 119.285
+    },
+    {
+        "Symbol": "SNX-USD",
+        "Name": "Synthetix USD",
+        "Market Cap (in M)": 726.262,
+        "Circulating Supply (in M)": 267.073
+    },
+    {
+        "Symbol": "BSV-USD",
+        "Name": "Bitcoin SV USD",
+        "Market Cap (in M)": 721.573,
+        "Circulating Supply (in M)": 19.266
+    },
+    {
+        "Symbol": "RPL-USD",
+        "Name": "Rocket Pool USD",
+        "Market Cap (in M)": 715.517,
+        "Circulating Supply (in M)": 19.547
+    },
+    {
+        "Symbol": "APE18876-USD",
+        "Name": "ApeCoin USD",
+        "Market Cap (in M)": 688.493,
+        "Circulating Supply (in M)": 368.594
+    },
+    {
+        "Symbol": "CRV-USD",
+        "Name": "Curve DAO Token USD",
+        "Market Cap (in M)": 687.936,
+        "Circulating Supply (in M)": 868.621
+    },
+    {
+        "Symbol": "BGB-USD",
+        "Name": "Bitget Token USD",
+        "Market Cap (in M)": 661.188,
+        "Circulating Supply (in M)": 1400.0
+    },
+    {
+        "Symbol": "NEO-USD",
+        "Name": "Neo USD",
+        "Market Cap (in M)": 657.836,
+        "Circulating Supply (in M)": 70.539
+    },
+    {
+        "Symbol": "XRD-USD",
+        "Name": "Radix USD",
+        "Market Cap (in M)": 653.977,
+        "Circulating Supply (in M)": 10213.0
+    },
+    {
+        "Symbol": "BIT11221-USD",
+        "Name": "BitDAO USD",
+        "Market Cap (in M)": 960.013,
+        "Circulating Supply (in M)": 1844.0
+    },
+    {
+        "Symbol": "XEC-USD",
+        "Name": "eCash USD",
+        "Market Cap (in M)": 640.372,
+        "Circulating Supply (in M)": 19442000.0
+    },
+    {
+        "Symbol": "FLOW-USD",
+        "Name": "Flow USD",
+        "Market Cap (in M)": 628.756,
+        "Circulating Supply (in M)": 1036.0
+    },
+    {
+        "Symbol": "TNC5524-USD",
+        "Name": "TNC Coin USD",
+        "Market Cap (in M)": 613.605,
+        "Circulating Supply (in M)": 5851.0
+    },
+    {
+        "Symbol": "USDP-USD",
+        "Name": "Pax Dollar USD",
+        "Market Cap (in M)": 613.835,
+        "Circulating Supply (in M)": 616.553
+    },
+    {
+        "Symbol": "KCS-USD",
+        "Name": "KuCoin Token USD",
+        "Market Cap (in M)": 594.656,
+        "Circulating Supply (in M)": 96.794
+    },
+    {
+        "Symbol": "COMP5692-USD",
+        "Name": "Compound USD",
+        "Market Cap (in M)": 591.123,
+        "Circulating Supply (in M)": 7.76
+    },
+    {
+        "Symbol": "KAVA-USD",
+        "Name": "Kava USD",
+        "Market Cap (in M)": 587.825,
+        "Circulating Supply (in M)": 630.324
+    },
+    {
+        "Symbol": "CFX-USD",
+        "Name": "Conflux USD",
+        "Market Cap (in M)": 581.99,
+        "Circulating Supply (in M)": 3071.0
+    },
+    {
+        "Symbol": "CHZ-USD",
+        "Name": "Chiliz USD",
+        "Market Cap (in M)": 580.668,
+        "Circulating Supply (in M)": 7105.0
+    },
+    {
+        "Symbol": "WBNB-USD",
+        "Name": "Wrapped BNB USD",
+        "Market Cap (in M)": 565.697,
+        "Circulating Supply (in M)": 2.3
+    },
+    {
+        "Symbol": "GUSD-USD",
+        "Name": "Gemini Dollar USD",
+        "Market Cap (in M)": 559.667,
+        "Circulating Supply (in M)": 564.428
+    },
+    {
+        "Symbol": "KLAY-USD",
+        "Name": "Klaytn USD",
+        "Market Cap (in M)": 543.158,
+        "Circulating Supply (in M)": 3144.0
+    },
+    {
+        "Symbol": "KAS-USD",
+        "Name": "Kaspa USD",
+        "Market Cap (in M)": 539.743,
+        "Circulating Supply (in M)": 19650.0
+    },
+    {
+        "Symbol": "MIOTA-USD",
+        "Name": "IOTA USD",
+        "Market Cap (in M)": 530.257,
+        "Circulating Supply (in M)": 2780.0
+    },
+    {
+        "Symbol": "GALA-USD",
+        "Name": "Gala USD",
+        "Market Cap (in M)": 526.37,
+        "Circulating Supply (in M)": 21624.0
+    },
+    {
+        "Symbol": "FTT-USD",
+        "Name": "FTX Token USD",
+        "Market Cap (in M)": 523.516,
+        "Circulating Supply (in M)": 328.895
+    },
+    {
+        "Symbol": "ZEC-USD",
+        "Name": "Zcash USD",
+        "Market Cap (in M)": 516.21,
+        "Circulating Supply (in M)": 16.328
+    },
+    {
+        "Symbol": "GMX11857-USD",
+        "Name": "GMX USD",
+        "Market Cap (in M)": 508.625,
+        "Circulating Supply (in M)": 8.873
+    },
+    {
+        "Symbol": "LUNC-USD",
+        "Name": "Terra Classic USD",
+        "Market Cap (in M)": 499.69,
+        "Circulating Supply (in M)": 5819000.0
+    },
+    {
+        "Symbol": "PAXG-USD",
+        "Name": "PAX Gold USD",
+        "Market Cap (in M)": 492.157,
+        "Circulating Supply (in M)": null
+    },
+    {
+        "Symbol": "XAUT-USD",
+        "Name": "Tether Gold USD",
+        "Market Cap (in M)": 481.805,
+        "Circulating Supply (in M)": null
+    },
+    {
+        "Symbol": "FXS-USD",
+        "Name": "Frax Share USD",
+        "Market Cap (in M)": 458.342,
+        "Circulating Supply (in M)": 72.884
+    },
+    {
+        "Symbol": "BTTOLD-USD",
+        "Name": "BitTorrent USD",
+        "Market Cap (in M)": 456.93,
+        "Circulating Supply (in M)": 990000.0
+    }
+]

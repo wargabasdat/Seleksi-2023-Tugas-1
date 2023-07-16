@@ -1,0 +1,584 @@
+[
+    {
+        "Symbol": "BTC-USD",
+        "Price (Intraday)": 30308.38,
+        "Change": -624.78,
+        "% Change": -2.02
+    },
+    {
+        "Symbol": "ETH-USD",
+        "Price (Intraday)": 1932.94,
+        "Change": -38.07,
+        "% Change": -1.93
+    },
+    {
+        "Symbol": "USDT-USD",
+        "Price (Intraday)": 1.0003,
+        "Change": -0.0002,
+        "% Change": -0.02
+    },
+    {
+        "Symbol": "BNB-USD",
+        "Price (Intraday)": 250.43,
+        "Change": -2.13,
+        "% Change": -0.84
+    },
+    {
+        "Symbol": "XRP-USD",
+        "Price (Intraday)": 0.709199,
+        "Change": -0.01576,
+        "% Change": -2.17
+    },
+    {
+        "Symbol": "USDC-USD",
+        "Price (Intraday)": 0.99996,
+        "Change": -0.000192,
+        "% Change": -0.02
+    },
+    {
+        "Symbol": "STETH-USD",
+        "Price (Intraday)": 1926.48,
+        "Change": -42.76,
+        "% Change": -2.17
+    },
+    {
+        "Symbol": "ADA-USD",
+        "Price (Intraday)": 0.329745,
+        "Change": -0.005925,
+        "% Change": -1.77
+    },
+    {
+        "Symbol": "SOL-USD",
+        "Price (Intraday)": 27.7,
+        "Change": 0.47,
+        "% Change": 1.73
+    },
+    {
+        "Symbol": "DOGE-USD",
+        "Price (Intraday)": 0.072887,
+        "Change": 0.00226,
+        "% Change": 3.2
+    },
+    {
+        "Symbol": "WTRX-USD",
+        "Price (Intraday)": 0.080763,
+        "Change": -6.6e-05,
+        "% Change": -0.08
+    },
+    {
+        "Symbol": "MATIC-USD",
+        "Price (Intraday)": 0.804844,
+        "Change": -0.018188,
+        "% Change": -2.21
+    },
+    {
+        "Symbol": "TRX-USD",
+        "Price (Intraday)": 0.080635,
+        "Change": 5.8e-05,
+        "% Change": 0.07
+    },
+    {
+        "Symbol": "LTC-USD",
+        "Price (Intraday)": 94.58,
+        "Change": -3.74,
+        "% Change": -3.81
+    },
+    {
+        "Symbol": "DOT-USD",
+        "Price (Intraday)": 5.2356,
+        "Change": -0.0219,
+        "% Change": -0.42
+    },
+    {
+        "Symbol": "WKAVA-USD",
+        "Price (Intraday)": 10.55,
+        "Change": 2.24,
+        "% Change": 26.98
+    },
+    {
+        "Symbol": "AVAX-USD",
+        "Price (Intraday)": 15.1,
+        "Change": -0.57,
+        "% Change": -3.65
+    },
+    {
+        "Symbol": "BCH-USD",
+        "Price (Intraday)": 253.37,
+        "Change": -11.62,
+        "% Change": -4.38
+    },
+    {
+        "Symbol": "WBTC-USD",
+        "Price (Intraday)": 30299.55,
+        "Change": -664.25,
+        "% Change": -2.15
+    },
+    {
+        "Symbol": "DAI-USD",
+        "Price (Intraday)": 0.999559,
+        "Change": 0.000988,
+        "% Change": 0.1
+    },
+    {
+        "Symbol": "TON11419-USD",
+        "Price (Intraday)": 1.3498,
+        "Change": -0.0096,
+        "% Change": -0.71
+    },
+    {
+        "Symbol": "SHIB-USD",
+        "Price (Intraday)": 7.52e-06,
+        "Change": -2e-08,
+        "% Change": -0.3
+    },
+    {
+        "Symbol": "BUSD-USD",
+        "Price (Intraday)": 0.999944,
+        "Change": -0.000182,
+        "% Change": -0.02
+    },
+    {
+        "Symbol": "LINK-USD",
+        "Price (Intraday)": 6.988,
+        "Change": -0.0067,
+        "% Change": -0.1
+    },
+    {
+        "Symbol": "LEO-USD",
+        "Price (Intraday)": 3.9917,
+        "Change": 0.0264,
+        "% Change": 0.67
+    },
+    {
+        "Symbol": "UNI7083-USD",
+        "Price (Intraday)": 5.3433,
+        "Change": -0.0042,
+        "% Change": -0.08
+    },
+    {
+        "Symbol": "XMR-USD",
+        "Price (Intraday)": 165.05,
+        "Change": 3.81,
+        "% Change": 2.36
+    },
+    {
+        "Symbol": "TUSD-USD",
+        "Price (Intraday)": 0.999853,
+        "Change": 0.000268,
+        "% Change": 0.03
+    },
+    {
+        "Symbol": "ETC-USD",
+        "Price (Intraday)": 19.35,
+        "Change": -0.21,
+        "% Change": -1.07
+    },
+    {
+        "Symbol": "OKB-USD",
+        "Price (Intraday)": 43.59,
+        "Change": -0.65,
+        "% Change": -1.46
+    },
+    {
+        "Symbol": "CNX-USD",
+        "Price (Intraday)": 22.41,
+        "Change": -0.45,
+        "% Change": -1.99
+    },
+    {
+        "Symbol": "FGC-USD",
+        "Price (Intraday)": 15.13,
+        "Change": -5.2,
+        "% Change": -25.57
+    },
+    {
+        "Symbol": "FIL-USD",
+        "Price (Intraday)": 4.4159,
+        "Change": -0.1538,
+        "% Change": -3.3663
+    },
+    {
+        "Symbol": "ICP-USD",
+        "Price (Intraday)": 4.1729,
+        "Change": 0.0021,
+        "% Change": 0.05
+    },
+    {
+        "Symbol": "HEX-USD",
+        "Price (Intraday)": 0.0103,
+        "Change": -0.0009,
+        "% Change": -8.1553
+    },
+    {
+        "Symbol": "HBAR-USD",
+        "Price (Intraday)": 0.0519,
+        "Change": -0.0009,
+        "% Change": -1.6953
+    },
+    {
+        "Symbol": "LDO-USD",
+        "Price (Intraday)": 1.9044,
+        "Change": -0.0162,
+        "% Change": -0.85
+    },
+    {
+        "Symbol": "WHBAR-USD",
+        "Price (Intraday)": 0.051786,
+        "Change": -0.000916,
+        "% Change": -1.74
+    },
+    {
+        "Symbol": "BTCB-USD",
+        "Price (Intraday)": 30292.28,
+        "Change": -647.14,
+        "% Change": -2.09
+    },
+    {
+        "Symbol": "ARB11841-USD",
+        "Price (Intraday)": 1.2637,
+        "Change": -0.0121,
+        "% Change": -0.95
+    },
+    {
+        "Symbol": "APT21794-USD",
+        "Price (Intraday)": 7.4476,
+        "Change": -0.1201,
+        "% Change": -1.59
+    },
+    {
+        "Symbol": "CRO-USD",
+        "Price (Intraday)": 0.0604,
+        "Change": 0.0001,
+        "% Change": 0.1841
+    },
+    {
+        "Symbol": "VET-USD",
+        "Price (Intraday)": 0.0197,
+        "Change": -0.0002,
+        "% Change": -1.1573
+    },
+    {
+        "Symbol": "NEAR-USD",
+        "Price (Intraday)": 1.4863,
+        "Change": -0.0698,
+        "% Change": -4.49
+    },
+    {
+        "Symbol": "QNT-USD",
+        "Price (Intraday)": 101.63,
+        "Change": -2.47,
+        "% Change": -2.37
+    },
+    {
+        "Symbol": "AAVE-USD",
+        "Price (Intraday)": 75.54,
+        "Change": -1.06,
+        "% Change": -1.39
+    },
+    {
+        "Symbol": "GRT6719-USD",
+        "Price (Intraday)": 0.117568,
+        "Change": 0.000653,
+        "% Change": 0.56
+    },
+    {
+        "Symbol": "FRAX-USD",
+        "Price (Intraday)": 0.998758,
+        "Change": -0.000536,
+        "% Change": -0.05
+    },
+    {
+        "Symbol": "XLM-USD",
+        "Price (Intraday)": 0.1288,
+        "Change": -0.0021,
+        "% Change": -1.5845
+    },
+    {
+        "Symbol": "OP-USD",
+        "Price (Intraday)": 1.4637,
+        "Change": -0.0378,
+        "% Change": -2.52
+    },
+    {
+        "Symbol": "EGLD-USD",
+        "Price (Intraday)": 35.22,
+        "Change": -0.38,
+        "% Change": -1.07
+    },
+    {
+        "Symbol": "STX4847-USD",
+        "Price (Intraday)": 0.64457,
+        "Change": -0.043139,
+        "% Change": -6.27
+    },
+    {
+        "Symbol": "ALGO-USD",
+        "Price (Intraday)": 0.113355,
+        "Change": -0.003884,
+        "% Change": -3.31
+    },
+    {
+        "Symbol": "MKR-USD",
+        "Price (Intraday)": 884.66,
+        "Change": -13.7,
+        "% Change": -1.53
+    },
+    {
+        "Symbol": "EOS-USD",
+        "Price (Intraday)": 0.771298,
+        "Change": -0.023355,
+        "% Change": -2.94
+    },
+    {
+        "Symbol": "XTZ-USD",
+        "Price (Intraday)": 0.882944,
+        "Change": -0.009131,
+        "% Change": -1.02
+    },
+    {
+        "Symbol": "WEOS-USD",
+        "Price (Intraday)": 0.752788,
+        "Change": -0.012127,
+        "% Change": -1.59
+    },
+    {
+        "Symbol": "IMX10603-USD",
+        "Price (Intraday)": 0.747068,
+        "Change": -0.030729,
+        "% Change": -3.95
+    },
+    {
+        "Symbol": "THETA-USD",
+        "Price (Intraday)": 0.798853,
+        "Change": -0.021704,
+        "% Change": -2.65
+    },
+    {
+        "Symbol": "SAND-USD",
+        "Price (Intraday)": 0.424649,
+        "Change": -0.005623,
+        "% Change": -1.31
+    },
+    {
+        "Symbol": "MANA-USD",
+        "Price (Intraday)": 0.417034,
+        "Change": -0.010266,
+        "% Change": -2.4
+    },
+    {
+        "Symbol": "FTM-USD",
+        "Price (Intraday)": 0.274912,
+        "Change": -0.014926,
+        "% Change": -5.15
+    },
+    {
+        "Symbol": "RNDR-USD",
+        "Price (Intraday)": 2.016,
+        "Change": -0.0781,
+        "% Change": -3.73
+    },
+    {
+        "Symbol": "USDD-USD",
+        "Price (Intraday)": 0.999238,
+        "Change": -2.7e-05,
+        "% Change": -0.0
+    },
+    {
+        "Symbol": "AXS-USD",
+        "Price (Intraday)": 6.1209,
+        "Change": 0.1164,
+        "% Change": 1.94
+    },
+    {
+        "Symbol": "SNX-USD",
+        "Price (Intraday)": 2.7193,
+        "Change": -0.168,
+        "% Change": -5.82
+    },
+    {
+        "Symbol": "BSV-USD",
+        "Price (Intraday)": 37.45,
+        "Change": 0.44,
+        "% Change": 1.2
+    },
+    {
+        "Symbol": "RPL-USD",
+        "Price (Intraday)": 36.6,
+        "Change": -1.48,
+        "% Change": -3.88
+    },
+    {
+        "Symbol": "APE18876-USD",
+        "Price (Intraday)": 1.8679,
+        "Change": -0.0442,
+        "% Change": -2.31
+    },
+    {
+        "Symbol": "CRV-USD",
+        "Price (Intraday)": 0.791987,
+        "Change": -0.009138,
+        "% Change": -1.14
+    },
+    {
+        "Symbol": "BGB-USD",
+        "Price (Intraday)": 0.472277,
+        "Change": -0.01061,
+        "% Change": -2.2
+    },
+    {
+        "Symbol": "NEO-USD",
+        "Price (Intraday)": 9.3259,
+        "Change": -0.1496,
+        "% Change": -1.58
+    },
+    {
+        "Symbol": "XRD-USD",
+        "Price (Intraday)": 0.064035,
+        "Change": -0.006316,
+        "% Change": -8.98
+    },
+    {
+        "Symbol": "BIT11221-USD",
+        "Price (Intraday)": 0.520708,
+        "Change": -0.000558,
+        "% Change": -0.11
+    },
+    {
+        "Symbol": "XEC-USD",
+        "Price (Intraday)": 3.3e-05,
+        "Change": -1e-06,
+        "% Change": -2.97
+    },
+    {
+        "Symbol": "FLOW-USD",
+        "Price (Intraday)": 0.60679,
+        "Change": -0.032691,
+        "% Change": -5.11
+    },
+    {
+        "Symbol": "TNC5524-USD",
+        "Price (Intraday)": 0.104868,
+        "Change": -0.000745,
+        "% Change": -0.71
+    },
+    {
+        "Symbol": "USDP-USD",
+        "Price (Intraday)": 0.995592,
+        "Change": -0.001208,
+        "% Change": -0.12
+    },
+    {
+        "Symbol": "KCS-USD",
+        "Price (Intraday)": 6.1435,
+        "Change": -0.0698,
+        "% Change": -1.12
+    },
+    {
+        "Symbol": "COMP5692-USD",
+        "Price (Intraday)": 76.17,
+        "Change": 6.76,
+        "% Change": 9.73
+    },
+    {
+        "Symbol": "KAVA-USD",
+        "Price (Intraday)": 0.932576,
+        "Change": -0.0203,
+        "% Change": -2.13
+    },
+    {
+        "Symbol": "CFX-USD",
+        "Price (Intraday)": 0.189533,
+        "Change": -0.011813,
+        "% Change": -5.87
+    },
+    {
+        "Symbol": "CHZ-USD",
+        "Price (Intraday)": 0.08173,
+        "Change": -0.000346,
+        "% Change": -0.42
+    },
+    {
+        "Symbol": "WBNB-USD",
+        "Price (Intraday)": 245.98,
+        "Change": -1.46,
+        "% Change": -0.59
+    },
+    {
+        "Symbol": "GUSD-USD",
+        "Price (Intraday)": 0.991564,
+        "Change": -0.001285,
+        "% Change": -0.13
+    },
+    {
+        "Symbol": "KLAY-USD",
+        "Price (Intraday)": 0.172737,
+        "Change": -0.00223,
+        "% Change": -1.27
+    },
+    {
+        "Symbol": "KAS-USD",
+        "Price (Intraday)": 0.027468,
+        "Change": -0.001083,
+        "% Change": -3.79
+    },
+    {
+        "Symbol": "MIOTA-USD",
+        "Price (Intraday)": 0.190772,
+        "Change": 1.9e-05,
+        "% Change": 0.01
+    },
+    {
+        "Symbol": "GALA-USD",
+        "Price (Intraday)": 0.024342,
+        "Change": -0.000445,
+        "% Change": -1.79
+    },
+    {
+        "Symbol": "FTT-USD",
+        "Price (Intraday)": 1.5917,
+        "Change": -0.0033,
+        "% Change": -0.21
+    },
+    {
+        "Symbol": "ZEC-USD",
+        "Price (Intraday)": 31.61,
+        "Change": -0.72,
+        "% Change": -2.22
+    },
+    {
+        "Symbol": "GMX11857-USD",
+        "Price (Intraday)": 57.32,
+        "Change": -2.57,
+        "% Change": -4.29
+    },
+    {
+        "Symbol": "LUNC-USD",
+        "Price (Intraday)": 8.6e-05,
+        "Change": -2e-06,
+        "% Change": -2.13
+    },
+    {
+        "Symbol": "PAXG-USD",
+        "Price (Intraday)": 1947.43,
+        "Change": 22.7,
+        "% Change": 1.18
+    },
+    {
+        "Symbol": "XAUT-USD",
+        "Price (Intraday)": 1954.39,
+        "Change": -1.77,
+        "% Change": -0.09
+    },
+    {
+        "Symbol": "FXS-USD",
+        "Price (Intraday)": 6.2887,
+        "Change": -0.0531,
+        "% Change": -0.84
+    },
+    {
+        "Symbol": "BTTOLD-USD",
+        "Price (Intraday)": 0.000462,
+        "Change": -1e-05,
+        "% Change": -2.05
+    }
+]
