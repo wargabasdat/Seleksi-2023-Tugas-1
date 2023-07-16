@@ -14,7 +14,7 @@
   <br>
 </h2>
 
-![logo](Data%20Visualization\pic\eventbrite.png)
+![logo](Data%20Visualization/pic/eventbrite.png)
 
 ## Table of Contents
   - [Description](#description)
