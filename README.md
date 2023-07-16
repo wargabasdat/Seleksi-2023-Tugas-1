@@ -23,7 +23,6 @@ Data yang di-scrape pada proyek kali ini adalah statistik para pro player Valora
 
 Untuk DBMS, saya menggunakan PostgreSQL, alasan utama dibalik pemilihan DBMS ini adalah karena saya familiar dalam menggunakannya. Namun, dibalik itu, PostgreSQL memiliki range fitur yang luas dalam memenuhi kebutuhan dalam memanajemen data, serta sudah mendukung sebagian besar fitur standar SQL dan juga memiliki ekstensi yang memperluas kemampuannya lebih jauh.
 
-
 ### Spesifikasi Program
 
 Untuk spesifikasi program, saya menggunakan Selenium sebagai tools untuk web scraping agar bisa mendapat data yang digunakan, saya menggunakan fungsi driver.get() untuk membaca link source. Kemudian, akan terbuka tab baru pada browser (di proyek ini, saya menggunakan Chrome) dan Selenium akan menjalankan webnya dan mensimulasikan dirinya sebagai seorang user. Lalu, saya mencari data yang diinginkan menggunakan XPATH dari file html. Setelah saya mendapatkan data-data yang diinginkan, tidak lupa saya melakukan pre-processing agar data-data yang sudah discraping menjadi lebih teratur, mudah dibaca, dan outputnya sesuai dengan apa yang saya inginkan. Selanjutnya, dilakukan pemodelan ERD dan saya pun mentransformasikan ERD tersebut ke dalam diagram relasional. Tak lupa, saya menggunakan PowerBI untuk memvisualisasikan data tersebut ke dalam bentuk dashboard untuk mendapatkan insight-insight yang saya perlukan.
