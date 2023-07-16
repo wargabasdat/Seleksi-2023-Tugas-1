@@ -118,25 +118,25 @@ Setiap strong entity pada ERD akan menjadi tabel tersendiri. dan setiap atribut 
 ## Screenshots of the program
 ### Data scraping
 * search key function
-![search]()
+![search](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/search_key.png)
 
 * data cleaning function
-![cleaning]()
+![cleaning](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/data_cleaning_function.png)
 
 * df to JSON function
-![JSON]()
+![JSON](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/df_to_json.png)
 
 * df to CSV function
-![CSV]()
+![CSV](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/df_to_csv.png)
 
 * load HTML function
-![load]()
+![load](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/load_html_function.png)
 
 * extracting product data function
-![extract]()
+![extract](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/preprocessing.png)
 
 * Main function
-![main]()
+![main](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/main.png)
 
 * program succesfully run
-![run]()
+![run](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/running.png)
