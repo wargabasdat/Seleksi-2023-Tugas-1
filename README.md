@@ -15,27 +15,20 @@
 
 ## Spesifikasi
 
-### Data Scraping
+### Description of the data and DBMS 
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
+The data for this project was obtained through web scraping from the Grab Food website. The website provides information about restaurants, their menus, opening hours, and pricing details. By scraping this data, we can gather insights into the pricing trends in the targeted area, ratings, and more.
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
+For this project, the chosen DBMS is PostgreSQL. Several factors influenced the decision to use PostgreSQL:
 
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
+1. Data Integrity and Reliability: PostgreSQL is known for its robustness and reliability in handling large datasets. It provides ACID (Atomicity, Consistency, Isolation, Durability) compliance, ensuring data integrity and consistency.
 
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
+2. Flexibility and Scalability: PostgreSQL offers a wide range of features and data types, making it flexible enough to accommodate various data structures. It supports complex queries, indexing, and advanced data manipulation capabilities. Additionally, PostgreSQL scales well and can handle increasing data volumes efficiently.
 
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
+3. Compatibility: PostgreSQL adheres to SQL standards, which ensures compatibility with other SQL-based systems and allows for easy integration with different tools and frameworks.
+
+4. Security: PostgreSQL provides robust security features, including user authentication, access control, and data encryption options, which are crucial for handling sensitive data.
+
 
 ### Database Modelling & Data Storing
 
