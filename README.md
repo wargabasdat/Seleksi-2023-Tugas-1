@@ -19,6 +19,10 @@
 
 ### Description of the data and DBMS
 
+Dashboard
+
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Visualization/RayWhiteDataVisualization.png)
+
 Ray White Indonesia adalah anak perusahaan Ray White Group, perusahaan real estat multinasional yang berbasis di Australia. Dengan kehadiran melalui 175 kantor cabangnya yang tersebar di 25 kota besar di Indonesia, serta didukung oleh 4000 Marketing Executive yang berpengalaman, Ray White Indonesia mampu menawarkan berbagai layanan unggulan kepada para kliennya. Melalui layanan seperti manajemen properti yang profesional, penjualan properti yang efektif, dan appraisal properti yang akurat, Ray White Indonesia menjadi salah satu pemain utama dalam industri real estat di Indonesia.
 
 Data hasil scraping merupakan hasil pengumpulan informasi dari situs web https://www.raywhite.co.id/ yang mencakup informasi tentang listing properti yang dijual. Data tersebut mencakup judul listing beserta ID listing properti dan live ID properti. Data juga mencakup spesifikasi relevan mengenai properti tersebut, seperti tipe properti, lokasi properti yang mencakup kota dan provinsi, nilai jual properti dalam mata uang dolar AS dan rupiah, status negosiasi harga properti, ukuran tanah dan bangunan dari properti, jenis sertifikat kepemilikan properti, serta jumlah kamar tidur, kamar mandi, dan tempat parkir mobil yang tersedia dalam properti. Selain itu, data juga mencakup informasi tentang agen real estat yang mengurus properti tersebut. Informasi tersebut meliputi nama agen, ID pegawai agen, nomor telepon agen, dan kantor tempat agen tersebut bekerja.
@@ -32,6 +36,10 @@ Penulis memilih untuk melakukan scraping data properti yang dijual di situs http
 Data yang diperoleh melalui scraping dapat dianalisis untuk menghasilkan informasi tentang harga properti dan persebarannya di seluruh Indonesia. Analisis tersebut dapat memberikan informasi  bagi calon pembeli dalam menentukan properti yang sesuai dengan kebutuhan mereka. Selain itu, hasil analisis juga dapat digunakan oleh investor real estat untuk mempelajari tren pasar properti di Indonesia dan membantu mereka dalam membuat keputusan investasi.
 
 Selain itu, hasil analisis data properti juga dapat menjadi alat bagi pemangku kepentingan umum seperti pemerintah dalam merencanakan dan mengembangkan daerah. Informasi tentang harga properti, jumlah listing, dan lokasi dapat membantu pihak terkait dalam merencanakan pengembangan wilayah, kebijakan perumahan, dan kebijakan publik lainnya yang berkaitan dengan sektor properti secara umum ataupun perumahan.
+
+Dashboard yang dibuat merupakan gambaran umum data yang didapat dari proses scraping. Informasi yang diperoleh mencakup data tentang 10 agen properti dan kantor yang memiliki jumlah listing terbanyak. Selain itu, daashboard juga mencakup informasi perihal jumlah listing untuk setiap tipe properti serta nilai mean dan median harga properti untuk setiap tipe tersebut.
+
+Selain data pasar properti umum, terdapat juga informasi perihal jumlah listing, luas bangunan, dan harga rata-rata untuk listing rumah di setiap provinsi di Indonesia. Informasi tentang persebaran harga rumah berdasarkan jumlah listing juga disajikan dalam bentuk distribusi normal.
 
 
 ### Specification of the program
@@ -61,29 +69,53 @@ Data hasil scraping dibagi ke beberapa berkas JSON berdasarkan tipe propertinya.
 Berikut merupakan sampel entri dari salah satu berkas JSON hasil scraping data:
 
 [
+
   ...,
+
   {
+
     "listing_id": 384815,
+
     "live_id": "L22197450",
+
     "type": "house",
+
     "title": "Rumah Mewah Siap Huni Harga Bersahabat Di Taman Laguna",
+
     "province": "Jawa Barat",
+
     "city": "Bekasi",
+
     "value_usd": 165104,
+
     "value_idr": 2487787072,
+
     "negotiable": false,
+
     "building_size": null,
+
     "land_size": 165.0,
+
     "certificate": "SHM/Freehold",
+
     "bedroom": 5.0,
+
     "bathroom": 4.0,
+
     "carport": 2.0,
+
     "realtor_id": 26577,
+
     "realtor": "Dini Aryati",
+
     "realtor_phone": "+6281296632515",
+
     "realtor_office": "Ray White Pondok Indah Arteri"
+
   },
+
   ...
+
 ]
 
 Berikut penjelasan key dan nilai dari struktur JSON di atas
@@ -230,10 +262,10 @@ Relationship kedua merupakan hubungan one-to-many bernama About dengan strong en
 
 ### Screenshot program
 
+1. Data Scraping
+
 Library yang digunakan oleh program scraping dan nilai dari konstanta URL ke laman situs dan XPATH elemen HTML
 ![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_header.png)
-
-![1](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_header.png)
 
 Fungsi yang digunakan untuk melakukan scraping data dari laman situs
 
@@ -265,27 +297,67 @@ Program untuk melakukan merging data hasil scraping
 ![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_merging.png)
 
 Hasil merging data
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_merging_result.png)
+
+2. Data Storing
+Daftar tabel pada basis data
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_sql_table_list.png)
+
+Deskripsi tabel buyer
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_sql_table_buyer.png)
+
+Deskripsi tabel inquiry_request
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_sql_table_inquiry_request.png)
+
+Deskripsi tabel property
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_sql_table_property.png)
+
+Deskripsi tabel realtor
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_sql_table_realtor.png)
+
+Deskripsi tabel realtor_office
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_sql_table_realtor_office.png)
+
+Deskripsi tabel seller
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_sql_table_seller.png)
+
+Deskripsi tabel transaction
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_sql_table_transaction.png)
+
+Hasil SELECT * tabel property
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_sql_select_property_1.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_sql_select_property_2.png)
+
+Hasil SELECT * tabel realtor
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_sql_select_realtor_1.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_sql_select_realtor_2.png)
+
+Hasil SELECT * tabel realtor_office
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_sql_select_realtor_office_1.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_sql_select_realtor_office_2.png)
 
 
+### Reference, Credits, and Libraries Used
+Python Libraries:
 
+1. BeautifulSoup
+2. lxml
+3. json
+4. simplejson
+5. os
+6. pandas
+7. requests
+8. re
+9. tqdm
+10. seaborn
+11. matplotlib
 
+Credits:
 
+Data diperoleh dari https://www.raywhite.co.id/
 
+Ray White Indonesia merupakan bagian dari Ray White Group
 
+References:
 
-### Reference
-
-
-
-
-```
-- Description of the data and DBMS (Why you choose it) +
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author +
-```
+https://towardsdatascience.com/
