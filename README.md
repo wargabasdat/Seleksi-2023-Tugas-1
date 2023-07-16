@@ -157,10 +157,10 @@ Setiap strong entity pada ERD akan menjadi tabel tersendiri. dan setiap atribut 
 ![tabel](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/table.jpg)
 
 * Berikut mengenai tabel product
-![product](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/show_product.jpg)
+![product](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/product.jpg)
 
 * Berikut isi tabel product
-![show](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/product.jpg)
+![show](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/show_product.jpg)
 
 ## Referensi
 - BeautifulSoup
