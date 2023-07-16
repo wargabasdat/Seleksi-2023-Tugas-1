@@ -14,6 +14,15 @@
 
 ## Daftar Isi
 - [Deskripsi Data & DBMS](#deskripsi-data-&-dbms)
+- [Spesifikasi](#spesifikasi)
+- [How To Use](#how-to-use)
+- [JSON Structure](#json-structure)
+- [Database Structure](#database-structure)
+- [Explanation of ERD to relational diagram translation process](#explanation-of-erd-to-relational-diagram-translation-process)
+        - [Keterangan](#keterangan)
+- [Screenshot](#screenshot)
+    - [Bonus](#bonus)
+- [Reference](#reference)
 - [Author](#author)
 
 ## Deskripsi Data & DBMS
@@ -120,7 +129,7 @@ Test Ambil Data Dengan Tambahan Kondisi
 
 ![TestData_Condition_Postgresql](https://github.com/RazanPtr/Seleksi-2023-Tugas-1/assets/88721317/410d2bcf-165a-444c-9fc7-56cf1eaa19f8)
 
-#### Bonus
+### Bonus
 
 Preview File JSON Menggunakan Pandas
 
