@@ -1,0 +1,1815 @@
+[
+    {
+        "ApartmentID":1,
+        "Price":3575,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"West Wharf | 60 Wharf Dr, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":2,
+        "Price":4308,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"West Wharf | 60 Wharf Dr, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":3,
+        "Price":8250,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"West Wharf | 60 Wharf Dr, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":4,
+        "Price":9167,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"West Wharf | 60 Wharf Dr, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":5,
+        "Price":3254,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"Avalon Willoughby Square | 214 Duffield St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":6,
+        "Price":3864,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"Avalon Willoughby Square | 214 Duffield St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":7,
+        "Price":3600,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"AVA DoBro | 100 Willoughby St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":8,
+        "Price":4451,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"AVA DoBro | 100 Willoughby St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":9,
+        "Price":5462,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"AVA DoBro | 100 Willoughby St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":10,
+        "Price":6075,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"AVA DoBro | 100 Willoughby St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":11,
+        "Price":3204,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"THE BELLSLIP | 1 Bell Slip, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":12,
+        "Price":4930,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"THE BELLSLIP | 1 Bell Slip, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":13,
+        "Price":7094,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"THE BELLSLIP | 1 Bell Slip, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":14,
+        "Price":3775,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"AVA Fort Greene | 343 Gold St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":15,
+        "Price":3835,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"AVA Fort Greene | 343 Gold St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":16,
+        "Price":5105,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"AVA Fort Greene | 343 Gold St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":17,
+        "Price":7832,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"AVA Fort Greene | 343 Gold St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":18,
+        "Price":3245,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"461 Dean | 461 Dean St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":19,
+        "Price":3995,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"461 Dean | 461 Dean St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":20,
+        "Price":3995,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"461 Dean, 461 Dean St APT 33F, Brooklyn, NY 11217"
+    },
+    {
+        "ApartmentID":21,
+        "Price":3655,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"One Blue Slip | 1 Blue Slip, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":22,
+        "Price":3875,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"One Blue Slip | 1 Blue Slip, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":23,
+        "Price":7055,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"One Blue Slip | 1 Blue Slip, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":24,
+        "Price":4071,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"180 Montague | 180 Montague St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":25,
+        "Price":3575,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"West Wharf | 60 Wharf Dr, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":26,
+        "Price":4308,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"West Wharf | 60 Wharf Dr, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":27,
+        "Price":8250,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"West Wharf | 60 Wharf Dr, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":28,
+        "Price":9167,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"West Wharf | 60 Wharf Dr, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":29,
+        "Price":3254,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"Avalon Willoughby Square | 214 Duffield St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":30,
+        "Price":3864,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"Avalon Willoughby Square | 214 Duffield St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":31,
+        "Price":3600,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"AVA DoBro | 100 Willoughby St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":32,
+        "Price":4451,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"AVA DoBro | 100 Willoughby St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":33,
+        "Price":5462,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"AVA DoBro | 100 Willoughby St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":34,
+        "Price":6075,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"AVA DoBro | 100 Willoughby St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":35,
+        "Price":3204,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"THE BELLSLIP | 1 Bell Slip, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":36,
+        "Price":4930,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"THE BELLSLIP | 1 Bell Slip, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":37,
+        "Price":7094,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"THE BELLSLIP | 1 Bell Slip, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":38,
+        "Price":3775,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"AVA Fort Greene | 343 Gold St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":39,
+        "Price":3835,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"AVA Fort Greene | 343 Gold St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":40,
+        "Price":5105,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"AVA Fort Greene | 343 Gold St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":41,
+        "Price":7832,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"AVA Fort Greene | 343 Gold St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":42,
+        "Price":3245,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"461 Dean | 461 Dean St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":43,
+        "Price":3995,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"461 Dean | 461 Dean St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":44,
+        "Price":3995,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"461 Dean, 461 Dean St APT 33F, Brooklyn, NY 11217"
+    },
+    {
+        "ApartmentID":45,
+        "Price":3655,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"One Blue Slip | 1 Blue Slip, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":46,
+        "Price":3875,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"One Blue Slip | 1 Blue Slip, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":47,
+        "Price":7055,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"One Blue Slip | 1 Blue Slip, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":48,
+        "Price":4071,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"180 Montague | 180 Montague St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":49,
+        "Price":3057,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"810 Flushing Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":50,
+        "Price":3600,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"277 Classon Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":51,
+        "Price":3500,
+        "NumberOfBedrooms":4,
+        "NumberOfBathrooms":1,
+        "Address":"277 Classon Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":52,
+        "Price":2800,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"221 E 57th St #2, Brooklyn, NY 11203"
+    },
+    {
+        "ApartmentID":53,
+        "Price":2150,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"1119 Broadway #6-A, Brooklyn, NY 11221"
+    },
+    {
+        "ApartmentID":54,
+        "Price":2100,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"1530 E 8th St, Brooklyn, NY 11230"
+    },
+    {
+        "ApartmentID":55,
+        "Price":2600,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"10 Sackman St APT 1, Brooklyn, NY 11233"
+    },
+    {
+        "ApartmentID":56,
+        "Price":2550,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"1770 E 14th St APT 6E, Brooklyn, NY 11229"
+    },
+    {
+        "ApartmentID":57,
+        "Price":2450,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"19 Jardine Pl #2, Brooklyn, NY 11233"
+    },
+    {
+        "ApartmentID":58,
+        "Price":2900,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":2,
+        "Address":"290 Linden Blvd #2G, Brooklyn, NY 11226"
+    },
+    {
+        "ApartmentID":59,
+        "Price":3500,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"708 Lorimer St APT 2R, Brooklyn, NY 11211"
+    },
+    {
+        "ApartmentID":60,
+        "Price":3100,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"808 Putnam Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":61,
+        "Price":2800,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"4603 8th Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":62,
+        "Price":3400,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"4603 8th Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":63,
+        "Price":6600,
+        "NumberOfBedrooms":7,
+        "NumberOfBathrooms":1,
+        "Address":"4603 8th Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":64,
+        "Price":1550,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"650 Ocean Ave #14, Brooklyn, NY 11226"
+    },
+    {
+        "ApartmentID":65,
+        "Price":4200,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"640 Halsey St #4, Brooklyn, NY 11233"
+    },
+    {
+        "ApartmentID":66,
+        "Price":6250,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"704 8th Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":67,
+        "Price":2453,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"824 E New York Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":68,
+        "Price":3300,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"375 Dean St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":69,
+        "Price":4200,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"375 Dean St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":70,
+        "Price":7100,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"375 Dean St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":71,
+        "Price":5500,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"754 Grand St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":72,
+        "Price":2200,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"107 Vanderveer St #1D, Brooklyn, NY 11207"
+    },
+    {
+        "ApartmentID":73,
+        "Price":3700,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"142 Scholes St APT 5, Brooklyn, NY 11206"
+    },
+    {
+        "ApartmentID":74,
+        "Price":2499,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"362 Stockton St APT 22, Brooklyn, NY 11206"
+    },
+    {
+        "ApartmentID":75,
+        "Price":2500,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"1875 Atlantic Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":76,
+        "Price":2800,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"1875 Atlantic Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":77,
+        "Price":3550,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"1875 Atlantic Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":78,
+        "Price":3975,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":5,
+        "Address":"92 Decatur St #1K, Brooklyn, NY 11216"
+    },
+    {
+        "ApartmentID":79,
+        "Price":1900,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"839 53rd St FLOOR 2, Brooklyn, NY 11220"
+    },
+    {
+        "ApartmentID":80,
+        "Price":2350,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"579 E 84th St #1, Brooklyn, NY 11236"
+    },
+    {
+        "ApartmentID":81,
+        "Price":5250,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"46 India St FLOOR 2, Brooklyn, NY 11222"
+    },
+    {
+        "ApartmentID":82,
+        "Price":3150,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"280 Meeker Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":83,
+        "Price":4900,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"280 Meeker Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":84,
+        "Price":4800,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"280 Meeker Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":85,
+        "Price":7900,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"280 Meeker Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":86,
+        "Price":4200,
+        "NumberOfBedrooms":4,
+        "NumberOfBathrooms":1,
+        "Address":"375 Vernon Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":87,
+        "Price":5299,
+        "NumberOfBedrooms":5,
+        "NumberOfBathrooms":1,
+        "Address":"375 Vernon Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":88,
+        "Price":2850,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"123 Melrose St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":89,
+        "Price":3615,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"123 Melrose St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":90,
+        "Price":4015,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"123 Melrose St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":91,
+        "Price":4800,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"195 Spencer St APT 4B, Brooklyn, NY 11205"
+    },
+    {
+        "ApartmentID":92,
+        "Price":3495,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"25 E 21st St #4F, Brooklyn, NY 11226"
+    },
+    {
+        "ApartmentID":93,
+        "Price":2500,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"22 Tehama St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":94,
+        "Price":3322,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"333 Schermerhorn St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":95,
+        "Price":4327,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"333 Schermerhorn St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":96,
+        "Price":2462,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"10 Montieth St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":97,
+        "Price":3080,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"10 Montieth St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":98,
+        "Price":4480,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"10 Montieth St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":99,
+        "Price":2500,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":2,
+        "Address":"165 Wilson Ave APT 2R, Brooklyn, NY 11237"
+    },
+    {
+        "ApartmentID":100,
+        "Price":3000,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"555 Waverly Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":101,
+        "Price":4000,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"555 Waverly Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":102,
+        "Price":1700,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"1104 Dean St APT 1, Brooklyn, NY 11216"
+    },
+    {
+        "ApartmentID":103,
+        "Price":4150,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"244 Garfield Pl APT 2, Brooklyn, NY 11215"
+    },
+    {
+        "ApartmentID":104,
+        "Price":4800,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":2,
+        "Address":"125 Lefferts Pl APT 3, Brooklyn, NY 11238"
+    },
+    {
+        "ApartmentID":105,
+        "Price":3500,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"105 Vanderveer St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":106,
+        "Price":4000,
+        "NumberOfBedrooms":4,
+        "NumberOfBathrooms":1,
+        "Address":"105 Vanderveer St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":107,
+        "Price":2400,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"138 Saint Marks Pl, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":108,
+        "Price":8800,
+        "NumberOfBedrooms":4,
+        "NumberOfBathrooms":1,
+        "Address":"475 Grand St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":109,
+        "Price":10800,
+        "NumberOfBedrooms":5,
+        "NumberOfBathrooms":1,
+        "Address":"475 Grand St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":110,
+        "Price":4995,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":2,
+        "Address":"301 3rd St APT 4, Brooklyn, NY 11215"
+    },
+    {
+        "ApartmentID":111,
+        "Price":3921,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"180 Myrtle Ave APT 6V, Brooklyn, NY 11201"
+    },
+    {
+        "ApartmentID":112,
+        "Price":6400,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"295 N 7th St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":113,
+        "Price":9500,
+        "NumberOfBedrooms":4,
+        "NumberOfBathrooms":1,
+        "Address":"295 N 7th St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":114,
+        "Price":4300,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":2,
+        "Address":"959 Metropolitan Ave APT 4R, Brooklyn, NY 11211"
+    },
+    {
+        "ApartmentID":115,
+        "Price":4800,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"88 Lewis Ave APT 2, Brooklyn, NY 11206"
+    },
+    {
+        "ApartmentID":116,
+        "Price":2595,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"7410 Ridge Blvd APT 4M, Brooklyn, NY 11209"
+    },
+    {
+        "ApartmentID":117,
+        "Price":3850,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":2,
+        "Address":"1420 Nostrand Ave #24, Brooklyn, NY 11226"
+    },
+    {
+        "ApartmentID":118,
+        "Price":2999,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"123 Park Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":119,
+        "Price":5999,
+        "NumberOfBedrooms":4,
+        "NumberOfBathrooms":1,
+        "Address":"123 Park Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":120,
+        "Price":4100,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":5,
+        "Address":"555 Graham Ave APT 1A, Brooklyn, NY 11222"
+    },
+    {
+        "ApartmentID":121,
+        "Price":4000,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"595 Marcy Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":122,
+        "Price":5950,
+        "NumberOfBedrooms":5,
+        "NumberOfBathrooms":1,
+        "Address":"595 Marcy Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":123,
+        "Price":3618,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"125 Borinquen Pl, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":124,
+        "Price":4750,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"125 Borinquen Pl, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":125,
+        "Price":4350,
+        "NumberOfBedrooms":4,
+        "NumberOfBathrooms":1,
+        "Address":"181 Eldert St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":126,
+        "Price":2999,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"930A Lafayette Ave #1, Brooklyn, NY 11221"
+    },
+    {
+        "ApartmentID":127,
+        "Price":9000,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"511 Hicks St #1, Brooklyn, NY 11231"
+    },
+    {
+        "ApartmentID":128,
+        "Price":4000,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":2,
+        "Address":"924 President St APT 1R, Brooklyn, NY 11215"
+    },
+    {
+        "ApartmentID":129,
+        "Price":3600,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"177 Garfield Pl, Brooklyn, NY 11215"
+    },
+    {
+        "ApartmentID":130,
+        "Price":2950,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"150 Myrtle Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":131,
+        "Price":3500,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"8 Vanderbilt Ave APT 8J, Brooklyn, NY 11205"
+    },
+    {
+        "ApartmentID":132,
+        "Price":5500,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"285 Division Ave APT 33, Brooklyn, NY 11211"
+    },
+    {
+        "ApartmentID":133,
+        "Price":5000,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":5,
+        "Address":"148 Meserole St #3L1, Brooklyn, NY 11206"
+    },
+    {
+        "ApartmentID":134,
+        "Price":2500,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"383 Knickerbocker Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":135,
+        "Price":3750,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"383 Knickerbocker Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":136,
+        "Price":3750,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"383 Knickerbocker Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":137,
+        "Price":4600,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"155 Havemeyer St #3B, Brooklyn, NY 11211"
+    },
+    {
+        "ApartmentID":138,
+        "Price":5449,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"1012 Halsey St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":139,
+        "Price":4795,
+        "NumberOfBedrooms":4,
+        "NumberOfBathrooms":1,
+        "Address":"1012 Halsey St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":140,
+        "Price":6850,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"108 Saint Marks Pl #1, Brooklyn, NY 11217"
+    },
+    {
+        "ApartmentID":141,
+        "Price":4200,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"1426 De Kalb Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":142,
+        "Price":4066,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"1328 Fulton St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":143,
+        "Price":2400,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"171 Minna St #2R, Brooklyn, NY 11218"
+    },
+    {
+        "ApartmentID":144,
+        "Price":2900,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"277 Irving Ave #2R, Brooklyn, NY 11237"
+    },
+    {
+        "ApartmentID":145,
+        "Price":4500,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"336 12th St #3, Brooklyn, NY 11215"
+    },
+    {
+        "ApartmentID":146,
+        "Price":3595,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"506 Eastern Pkwy APT B2, Brooklyn, NY 11225"
+    },
+    {
+        "ApartmentID":147,
+        "Price":7700,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":2,
+        "Address":"199 N 6th St APT 1, Brooklyn, NY 11211"
+    },
+    {
+        "ApartmentID":148,
+        "Price":3900,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"100 Powers St APT 1R, Brooklyn, NY 11211"
+    },
+    {
+        "ApartmentID":149,
+        "Price":4500,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":5,
+        "Address":"43 Mac Donough St #3, Brooklyn, NY 11216"
+    },
+    {
+        "ApartmentID":150,
+        "Price":18500,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"72 Poplar St #3C, Brooklyn, NY 11201"
+    },
+    {
+        "ApartmentID":151,
+        "Price":3700,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"806 Saint Johns Pl, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":152,
+        "Price":3399,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"1178 Gates Ave #2F, Brooklyn, NY 11221"
+    },
+    {
+        "ApartmentID":153,
+        "Price":3500,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"109 Winthrop St #4A, Brooklyn, NY 11225"
+    },
+    {
+        "ApartmentID":154,
+        "Price":3599,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"201 Woodpoint Rd APT 1L, Brooklyn, NY 11211"
+    },
+    {
+        "ApartmentID":155,
+        "Price":3900,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"79 Bridge St APT 4I, Brooklyn, NY 11201"
+    },
+    {
+        "ApartmentID":156,
+        "Price":4250,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"35 Eastern Pkwy, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":157,
+        "Price":4395,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"35 Eastern Pkwy, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":158,
+        "Price":2799,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"303 Malcolm X Blvd, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":159,
+        "Price":4199,
+        "NumberOfBedrooms":4,
+        "NumberOfBathrooms":1,
+        "Address":"303 Malcolm X Blvd, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":160,
+        "Price":2650,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"920 Eastern Pkwy, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":161,
+        "Price":6950,
+        "NumberOfBedrooms":4,
+        "NumberOfBathrooms":1,
+        "Address":"920 Eastern Pkwy, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":162,
+        "Price":4250,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"410 State St APT 40, Brooklyn, NY 11217"
+    },
+    {
+        "ApartmentID":163,
+        "Price":4000,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"220 Rogers Ave #2, Brooklyn, NY 11225"
+    },
+    {
+        "ApartmentID":164,
+        "Price":4830,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":2,
+        "Address":"625 Park Pl APT 4, Brooklyn, NY 11238"
+    },
+    {
+        "ApartmentID":165,
+        "Price":4000,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"81 Douglass St APT 4, Brooklyn, NY 11231"
+    },
+    {
+        "ApartmentID":166,
+        "Price":2975,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"996 Carroll St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":167,
+        "Price":3298,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"996 Carroll St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":168,
+        "Price":3950,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"996 Carroll St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":169,
+        "Price":4645,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"996 Carroll St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":170,
+        "Price":3500,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"290 Hancock St APT 3, Brooklyn, NY 11216"
+    },
+    {
+        "ApartmentID":171,
+        "Price":4800,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"470 Humboldt St #1, Brooklyn, NY 11211"
+    },
+    {
+        "ApartmentID":172,
+        "Price":3500,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"545 Saint Marks Ave, Brooklyn, NY 11216"
+    },
+    {
+        "ApartmentID":173,
+        "Price":3400,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":2,
+        "Address":"2484 Bedford Ave #3A, Brooklyn, NY 11226"
+    },
+    {
+        "ApartmentID":174,
+        "Price":2700,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"1430 Fulton St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":175,
+        "Price":2800,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"1430 Fulton St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":176,
+        "Price":3600,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"1430 Fulton St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":177,
+        "Price":3200,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"685 Manhattan Ave APT 2F, Brooklyn, NY 11222"
+    },
+    {
+        "ApartmentID":178,
+        "Price":3250,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"756 Myrtle Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":179,
+        "Price":4800,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"7A Lexington Ave #7AC, Brooklyn, NY 11238"
+    },
+    {
+        "ApartmentID":180,
+        "Price":4500,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"412 Evergreen Ave APT 3G, Brooklyn, NY 11221"
+    },
+    {
+        "ApartmentID":181,
+        "Price":4800,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"140 Hope St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":182,
+        "Price":5995,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":2,
+        "Address":"174 Meserole St APT 2L, Brooklyn, NY 11206"
+    },
+    {
+        "ApartmentID":183,
+        "Price":8250,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"390 Bergen St #1, Brooklyn, NY 11217"
+    },
+    {
+        "ApartmentID":184,
+        "Price":3300,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"2025 Farragut Rd #5F, Brooklyn, NY 11210"
+    },
+    {
+        "ApartmentID":185,
+        "Price":2718,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"300 Lincoln Rd APT 2D, Brooklyn, NY 11225"
+    },
+    {
+        "ApartmentID":186,
+        "Price":2250,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"2950 Ocean Ave APT C3, Brooklyn, NY 11235"
+    },
+    {
+        "ApartmentID":187,
+        "Price":6500,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"145 Henry St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":188,
+        "Price":9750,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"145 Henry St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":189,
+        "Price":4400,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"30 Bayard St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":190,
+        "Price":7000,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"30 Bayard St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":191,
+        "Price":6650,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"258 Richardson St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":192,
+        "Price":6650,
+        "NumberOfBedrooms":4,
+        "NumberOfBathrooms":1,
+        "Address":"258 Richardson St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":193,
+        "Price":2850,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"925 Bushwick Ave #4B, Brooklyn, NY 11221"
+    },
+    {
+        "ApartmentID":194,
+        "Price":4995,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"168 Dean St, Brooklyn, NY 11217"
+    },
+    {
+        "ApartmentID":195,
+        "Price":1800,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"5210 Church Ave #1R, Brooklyn, NY 11203"
+    },
+    {
+        "ApartmentID":196,
+        "Price":3275,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"596 Washington Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":197,
+        "Price":4846,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"596 Washington Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":198,
+        "Price":3750,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":2,
+        "Address":"1382 Nostrand Ave APT 5, Brooklyn, NY 11226"
+    },
+    {
+        "ApartmentID":199,
+        "Price":3899,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"979 Bedford Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":200,
+        "Price":2750,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"875 De Kalb Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":201,
+        "Price":3599,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"875 De Kalb Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":202,
+        "Price":3650,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"875 De Kalb Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":203,
+        "Price":3400,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"316 Himrod St APT 504, Brooklyn, NY 11237"
+    },
+    {
+        "ApartmentID":204,
+        "Price":3500,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"532 10th St APT 2, Brooklyn, NY 11215"
+    },
+    {
+        "ApartmentID":205,
+        "Price":2999,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"568 Willoughby Ave APT 3, Brooklyn, NY 11206"
+    },
+    {
+        "ApartmentID":206,
+        "Price":2300,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"571 E 19th St #1B, Brooklyn, NY 11226"
+    },
+    {
+        "ApartmentID":207,
+        "Price":4700,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"440 Kent Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":208,
+        "Price":12500,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"440 Kent Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":209,
+        "Price":3500,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"598 Willoughby Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":210,
+        "Price":4500,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"598 Willoughby Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":211,
+        "Price":4000,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"241 Troutman St APT 3R, Brooklyn, NY 11237"
+    },
+    {
+        "ApartmentID":212,
+        "Price":2999,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"1212 Lincoln Pl APT 4D, Brooklyn, NY 11213"
+    },
+    {
+        "ApartmentID":213,
+        "Price":3500,
+        "NumberOfBedrooms":4,
+        "NumberOfBathrooms":1,
+        "Address":"896 Gates Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":214,
+        "Price":2900,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"24 Troutman St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":215,
+        "Price":3800,
+        "NumberOfBedrooms":4,
+        "NumberOfBathrooms":1,
+        "Address":"24 Troutman St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":216,
+        "Price":2900,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"255 Powers St APT 3L, Brooklyn, NY 11211"
+    },
+    {
+        "ApartmentID":217,
+        "Price":2950,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"50 Ocean Pkwy APT 5C, Brooklyn, NY 11218"
+    },
+    {
+        "ApartmentID":218,
+        "Price":7000,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"22 N 6th St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":219,
+        "Price":7500,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":5,
+        "Address":"58 Graham Ave #2, Brooklyn, NY 11206"
+    },
+    {
+        "ApartmentID":220,
+        "Price":2575,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"240 Irving Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":221,
+        "Price":1795,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"2307 Clarendon Rd #A10, Brooklyn, NY 11226"
+    },
+    {
+        "ApartmentID":222,
+        "Price":2295,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"1571 Sterling Pl #B2, Brooklyn, NY 11213"
+    },
+    {
+        "ApartmentID":223,
+        "Price":5000,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"60 S 8th St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":224,
+        "Price":7000,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"60 S 8th St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":225,
+        "Price":2750,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"74 Ryerson St #3, Brooklyn, NY 11205"
+    },
+    {
+        "ApartmentID":226,
+        "Price":3000,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"126 Malcolm X Blvd #4, Brooklyn, NY 11221"
+    },
+    {
+        "ApartmentID":227,
+        "Price":4850,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"40 N 4th St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":228,
+        "Price":6650,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"40 N 4th St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":229,
+        "Price":6650,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"40 N 4th St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":230,
+        "Price":6000,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":2,
+        "Address":"187 State St #2F, Brooklyn, NY 11201"
+    },
+    {
+        "ApartmentID":231,
+        "Price":3250,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"134 Boerum St #C4, Brooklyn, NY 11206"
+    },
+    {
+        "ApartmentID":232,
+        "Price":4017,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"200 N 11th St APT 4H, Brooklyn, NY 11211"
+    },
+    {
+        "ApartmentID":233,
+        "Price":2850,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"548 11th St APT 4, Brooklyn, NY 11215"
+    },
+    {
+        "ApartmentID":234,
+        "Price":3750,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"263 Melrose St APT 2L, Brooklyn, NY 11206"
+    },
+    {
+        "ApartmentID":235,
+        "Price":2200,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"10571 Avenue N FLOOR 2, Brooklyn, NY 11236"
+    },
+    {
+        "ApartmentID":236,
+        "Price":4995,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"2 Northside Piers, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":237,
+        "Price":7995,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"2 Northside Piers, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":238,
+        "Price":9300,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"260 N 9th St APT 2A, Brooklyn, NY 11211"
+    },
+    {
+        "ApartmentID":239,
+        "Price":4100,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"249 Willoughby Ave, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":240,
+        "Price":2800,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"7903 14th Ave #1, Brooklyn, NY 11228"
+    },
+    {
+        "ApartmentID":241,
+        "Price":3850,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"144 West St APT 303, Brooklyn, NY 11222"
+    },
+    {
+        "ApartmentID":242,
+        "Price":3500,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"156 Knickerbocker Ave APT 2R, Brooklyn, NY 11237"
+    },
+    {
+        "ApartmentID":243,
+        "Price":3800,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"89 Grattan St APT 2, Brooklyn, NY 11237"
+    },
+    {
+        "ApartmentID":244,
+        "Price":3700,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"117 S 4th St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":245,
+        "Price":4010,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"60 Duffield St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":246,
+        "Price":5757,
+        "NumberOfBedrooms":2,
+        "NumberOfBathrooms":1,
+        "Address":"60 Duffield St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":247,
+        "Price":2999,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":2,
+        "Address":"343 Grove St APT 3L, Brooklyn, NY 11237"
+    },
+    {
+        "ApartmentID":248,
+        "Price":3499,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"187 20th St #2C, Brooklyn, NY 11232"
+    },
+    {
+        "ApartmentID":249,
+        "Price":4100,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":2,
+        "Address":"921 Broadway APT 4L, Brooklyn, NY 11206"
+    },
+    {
+        "ApartmentID":250,
+        "Price":5200,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"69 Ten Eyck St #2O, Brooklyn, NY 11206"
+    },
+    {
+        "ApartmentID":251,
+        "Price":3895,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":5,
+        "Address":"542 Chauncey St #1E, Brooklyn, NY 11233"
+    },
+    {
+        "ApartmentID":252,
+        "Price":4500,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":2,
+        "Address":"30 Fayette St #2C, Brooklyn, NY 11206"
+    },
+    {
+        "ApartmentID":253,
+        "Price":2795,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"148 Kingsland Ave #3, Brooklyn, NY 11222"
+    },
+    {
+        "ApartmentID":254,
+        "Price":2450,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"203 17th St APT 19, Brooklyn, NY 11215"
+    },
+    {
+        "ApartmentID":255,
+        "Price":3500,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"308 Court St #2, Brooklyn, NY 11231"
+    },
+    {
+        "ApartmentID":256,
+        "Price":3995,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":0,
+        "Address":"1520 Fulton St APT 7E, Brooklyn, NY 11216"
+    },
+    {
+        "ApartmentID":257,
+        "Price":4000,
+        "NumberOfBedrooms":3,
+        "NumberOfBathrooms":1,
+        "Address":"691 Chauncey St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":258,
+        "Price":5650,
+        "NumberOfBedrooms":5,
+        "NumberOfBathrooms":1,
+        "Address":"691 Chauncey St, Brooklyn, NY"
+    },
+    {
+        "ApartmentID":259,
+        "Price":3250,
+        "NumberOfBedrooms":0,
+        "NumberOfBathrooms":1,
+        "Address":"74 Sherman St #2L, Brooklyn, NY 11215"
+    }
+]
