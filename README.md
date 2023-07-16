@@ -79,6 +79,7 @@ Weak entity info_detail terhubung dengan strong entity DataLaptop sehingga prima
 ## Screenshot
 
 Import Libraries
+
 ![import_libraries](https://github.com/RazanPtr/Seleksi-2023-Tugas-1/assets/88721317/d834d719-621e-46f7-87d4-a69558b32837)
 
 Main Program Data Scraping
