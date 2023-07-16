@@ -134,10 +134,10 @@
     ![ERD](Data%20Storing/design/ERD.png)
    ### Explanation of ERD to relational diagram translation process
    Berikut adalah langkah-langkah untuk mengubah ERD menjadi relational diagram:
-    1. Relasi `organizer` pada relational diagram memiliki atribut yang sama seperti pada ERD, yaitu `Name`, `Total_followers`, dan `Organizer_page` karena hanya memiliki hubungan one-to-many dengan `event`. Primary key dari `organizer` (`Organizer_page`) menjadi atribut pada `event` sebagai foreign key di relational diagram.
-    2. Relasi `category` pada relational diagram memiliki atribut yang sama seperti pada ERD, yaitu `ID_category` dan `Name` karena hanya memiliki hubungan one-to-many dengan `event`. Primary key dari `category` (`ID`) menjadi atribut pada `event` sebagai foreign key di relational diagram.
-    3. Relasi `location` pada relational diagram memiliki atribut yang sama seperti pada ERD, yaitu `Address`, `Latitude`, dan `Longitude` karena hanya memiliki hubungan one-to-many dengan `event`. Primary key dari `location` (`Address`) menjadi atribut pada `event` sebagai foreign key di relational diagram.
-    4. Sehingga, masing-masing relasi pada relational diagram memiliki atribut sebagai berikut:
+  1. Relasi `organizer` pada relational diagram memiliki atribut yang sama seperti pada ERD, yaitu `Name`, `Total_followers`, dan `Organizer_page` karena hanya memiliki hubungan one-to-many dengan `event`. Primary key dari `organizer` (`Organizer_page`) menjadi atribut pada `event` sebagai foreign key di relational diagram.
+  2. Relasi `category` pada relational diagram memiliki atribut yang sama seperti pada ERD, yaitu `ID_category` dan `Name` karena hanya memiliki hubungan one-to-many dengan `event`. Primary key dari `category` (`ID`) menjadi atribut pada `event` sebagai foreign key di relational diagram.
+  3. Relasi `location` pada relational diagram memiliki atribut yang sama seperti pada ERD, yaitu `Address`, `Latitude`, dan `Longitude` karena hanya memiliki hubungan one-to-many dengan `event`. Primary key dari `location` (`Address`) menjadi atribut pada `event` sebagai foreign key di relational diagram.
+  4. Sehingga, masing-masing relasi pada relational diagram memiliki atribut sebagai berikut:
        - `event` = (<u>**ID_event**<u>, Name, Price, Date, Start_time, Duration, Order_link, Address, Organizer, Category)
         FK = event(Organizer) -> organizer(Organizer_page)
         FK = event(Category) -> category(ID)
@@ -205,6 +205,6 @@
     - [Stackoverflow](https://stackoverflow.com/)
 
 ## Author
-  - Naura Valda Prameswari - 18221173
-  - Sistem dan Teknologi Informasi
-  - Institut Teknologi Bandung
+  _Naura Valda Prameswari - 18221173_
+  _Sistem dan Teknologi Informasi_
+  _Institut Teknologi Bandung_
