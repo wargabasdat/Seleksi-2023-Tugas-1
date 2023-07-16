@@ -106,7 +106,7 @@ Here is the first rank movie data stored in JSON format.
 
 ## Database Structure
 
-![ER Diagram](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/ER%20Diagram.png)
+![ER Diagram](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ER%20Diagram.png)
 
 At first, the author has scraped the movie data, which are rank, title, year of creation, duration, classification, and rating. These categories become attributes in the main entity named movie. The author than expand this database by creating new entities that related to movies such as genre, award, rating input, people in the movie (including director and cast), and production house. Each enitity is made with its own identifier in order to uniquely identify them. The author create a weak entity called rating input. Since there is no rating without the existance of the movie, rating is dependant to the movie. Other thing to notice is the author create person entity that are further specialized as director and cast. Both entities have some common attributes but they are differentiated with a specific attributes that match their characteristic. You can also notice that the author use multiple value and composite attributes to describe some detail for production house entity. 
 
@@ -133,7 +133,7 @@ Translating the relationship sets, all entities that have many to many relations
 
 While doing this translation, the author also establish the primary keys and foreign keys to the schema. Here are the final Relational Schema and full list of keys that exist in this database.
 
-![Relational Schema](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Relational%20Schema.drawio.png)
+![Relational Schema](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Relational%20Schema.drawio.png)
 
 ## ScreenShots
 
@@ -147,7 +147,7 @@ While doing this translation, the author also establish the primary keys and for
 
 - #### Preprocessing Input Data
 
-![Preprocessing Input Data](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Preprocessing%20Input%20Data.png)
+![Preprocessing Input Data](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Preprocessing%20Input%20Data.png)
 
 - #### JSON Output
 
@@ -155,8 +155,8 @@ While doing this translation, the author also establish the primary keys and for
 
 - #### Data Storing in PostreSQL
 
-![Data Storing 1](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Data%20Storing%20in%20PostreSQL%201.png)
+![Data Storing 1](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Data%20Storing%20in%20PostreSQL%201.png)
 
-![Data Storing 2](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Data%20Storing%20in%20PostreSQL%202.png)
+![Data Storing 2](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Data%20Storing%20in%20PostreSQL%202.png)
 
 
