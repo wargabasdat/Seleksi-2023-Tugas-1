@@ -170,7 +170,7 @@ Hasil scrapping disimpan di dalam 2 jenis file JSON, yaitu:
 ## Data Visualization Analysis (**BONUS**)
 
 ### Grafik
-  <div style="background-color:white;">
+  <div style="background-color:whitesmoke !important;">
   <img src="Data Visualization/Tren_Kurs.png">
   <img src="Data Visualization/kurs_change_latest.png">
   <img src="Data Visualization/Nilai_kenaikan_tertinggi_dalam_bulan.png">
