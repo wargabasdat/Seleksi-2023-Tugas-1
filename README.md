@@ -1,101 +1,210 @@
 <h1 align="center">
   <br>
-  Seleksi Warga Basdat 2023
+  Data Events Indonesia
   <br>
   <br>
 </h1>
 
 <h2 align="center">
   <br>
-  Data Scraping, Database Modelling & Data Storing
+  Data Scraping, Database Modelling, and Data Storing
   <br>
+  <br>
+  Website Eventbrite.com
+
+  ![logo](Data%20Visualization/pic/eventbrite.png)
   <br>
 </h2>
 
+## Table of Contents
+  - [Description](#description)
+    - [Data](#data)
+    - [DBMS](#dbms)
+  - [Specification](#specification)
+  - [How to Use](#how-to-use)
+    - [Data Scraping](#data-scraping)
+    - [Data Storing](#data-storing)
+  - [JSON Structure](#json-structure)
+  - [Database Structure](#database-structure)
+    - [ERD](#erd)
+    - [Explanation of ERD to relational diagram translation process](#explanation-of-erd-to-relational-diagram-translation-process)
+    - [Relational Diagram](#relational-diagram)
+  - [Data Visualization](#data-visualization)
+  - [Screenshots](#screenshots)
+  - [References](#references)
+  - [Author](#author)
 
-## Spesifikasi
+## Description
+  ### Data
+  Data yang digunakan merupakan hasil scraping dari website [Eventbrite](https://www.eventbrite.com/). Website ini dimanfaatkan oleh para _event organizer_ untuk mempromosikan berbagai event di seluruh dunia, mulai dari _seminar_, _class_, _conference_, hingga _festival_. Berbagai event tersebut juga terdiri dari berbagai kategori mulai dari bisnis, sains, teknologi, spiritual, hingga musik. Data yang diambil dari website ini adalah data event yang ada di Indonesia. Pada website ini, pengguna bisa mengetahui detail event sekaligus memesan tiket. Selain itu, pengguna juga dapat mengunjungi profil _event organizer_ yang mengadakan event tersebut.
+  Berikut adalah data yang diambil dari website:
+  - Nama event
+  - Harga tiket
+  - Tanggal event
+  - Waktu mulai event
+  - Durasi event
+  - Link pemesanan tiket
+  - Alamat event
+  - Nama _event organizer_
+  - Jumlah _followers_ _event organizer_
+  - Page _event organizer_
+  - Kategori event
+  - Latitude dan longitude alamat event
+  
+  ### DBMS
+  DBMS yang digunakan untuk menyimpan data hasil _scraping_ adalah PostgreSQL. PostgreSQL merupakan DBMS yang bersifat _open source_ dan memiliki banyak fitur yang dapat digunakan untuk mengelola data. PostgreSQL mendukung berbagai jenis data, termasuk JSON. PostgreSQL juga mendukung berbagai bahasa pemrograman, termasuk Python, sehingga mempermudah untuk _export_ _file_ hasil _scraping_ ke _database_.
 
-### Data Scraping
+## Specification
+  Program ini dibuat menggunakan bahasa pemrograman [Python](https://https://www.python.org/doc/) dengan beberapa library dan tools tambahan, yaitu:
+  - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) : Library untuk melakukan _scraping_ data dari _website_
+  - [Selenium](https://www.selenium.dev/) : Library untuk melakukan request ke website yang _dynamic_ dengan memanfaatkan fungsi _wait_.
+  - JSON : Format data yang digunakan untuk menyimpan data hasil scraping
+  - Datetime : Library untuk membantu formatting tanggal dan waktu pada data
+  - [psycopg2](https://pypi.org/project/psycopg2/) : Library untuk melakukan koneksi ke database PostgreSQL
+  - [Matplotlib](https://matplotlib.org/) : Library visualisasi data
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
+## How to Use
+  ### Data Scraping
+  1. Clone repository ini ke directory lokal
+  2. Install library yang dibutuhkan dengan menjalankan perintah berikut pada terminal:
+  ```
+  pip install bs4
+  pip install selenium
+  ```
+  3. Jalankan program dengan menjalankan perintah berikut pada terminal:
+  ```
+  python main.py
+  ```
+  4. Tunggu hingga program selesai berjalan. Program akan mengambil data dari website dan menyimpannya dalam format JSON. Program juga akan menyimpan data ke dalam database PostgreSQL.
+  5. Untuk melihat hasil data scraping, buka file `events.json`, `organizers.json`, `categories.json`, dan `locations.json` yang ada di folder `Data Storing\data`.
+  ### Data Storing
+  1. Clone repository ini ke directory lokal
+  2. Buka path `Data Storing\export` pada terminal
+  3. Jalankan command berikut pada terminal:
+  ```
+  pg_dump -U {username} -d {database} < events_data.sql
+  ```
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
+## JSON Structure
+  Pada program ini, terdapat 4 file JSON hasil _scraping_, yaitu:
+  - `events.json`
+     dengan struktur sebagai berikut:
+     ```
+     {"ID_event": 1, 
+      "Name": "Free Career Empowerment & Meditation Class - Jakarta", 
+      "Price": 0.0, 
+      "Date": "2023-07-19", 
+      "Start_time": "07:30", 
+      "Duration": 24, 
+      "Order_link": "https://www.eventbrite.com/e/free-career-empowerment-meditation-class-jakarta-tickets-558392485957?aff=ebdssbdestsearch", 
+      "Address": "See Confirmation Email for Zoom Link, Jakarta, Jakarta 10110", 
+      "Organizer": "https://www.eventbrite.com/o/career-bliss-academy-34346634153", "Category": "B"}
+     ```
+  - `organizers.json`
+    dengan struktur sebagai berikut:
+    ```
+    {
+      "Name": "Career Bliss Academy"
+      "Total_folowers": 5100, 
+      "Organizer_page": "https://www.eventbrite.com/o/career-bliss-academy-34346634153"
+      }, 
+     
+    ```
+  - `categories.json`
+    dengan struktur sebagai berikut:
+    ```
+    {
+      "ID_category": "B", 
+      "Name": "business events"
+      }
+    ```
+  - `locations.json`
+    dengan struktur sebagai berikut:
+    ```
+    {
+      "Address": "Jalan Daan Mogot No.63 Tj. Duren Utara Kec. Grogol petamburan, Daerah Khusus Ibukota Jakarta 11470", 
+      "Latitude": -6.1753942, 
+      "Longitude": 106.827183
+      }
+    ```
 
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
+## Database Structure
+   ### ERD
+  ER Diagram dari database yang digunakan adalah sebagai berikut:
+    ![ERD](Data%20Storing/design/ERD.png)
+   ### Explanation of ERD to relational diagram translation process
+   Berikut adalah langkah-langkah untuk mengubah ERD menjadi relational diagram:
+  1. Relasi `organizer` pada relational diagram memiliki atribut yang sama seperti pada ERD, yaitu `Name`, `Total_followers`, dan `Organizer_page` karena hanya memiliki hubungan one-to-many dengan `event`. Primary key dari `organizer` (`Organizer_page`) menjadi atribut pada `event` sebagai foreign key di relational diagram.
+  2. Relasi `category` pada relational diagram memiliki atribut yang sama seperti pada ERD, yaitu `ID_category` dan `Name` karena hanya memiliki hubungan one-to-many dengan `event`. Primary key dari `category` (`ID`) menjadi atribut pada `event` sebagai foreign key di relational diagram.
+  3. Relasi `location` pada relational diagram memiliki atribut yang sama seperti pada ERD, yaitu `Address`, `Latitude`, dan `Longitude` karena hanya memiliki hubungan one-to-many dengan `event`. Primary key dari `location` (`Address`) menjadi atribut pada `event` sebagai foreign key di relational diagram.
+  4. Sehingga, masing-masing relasi pada relational diagram memiliki atribut sebagai berikut:
+       - `event` = (<u>**ID_event**<u>, Name, Price, Date, Start_time, Duration, Order_link, Address, Organizer, Category)
+          - FK = event(Organizer) -> organizer(Organizer_page)
+          - FK = event(Category) -> category(ID)
+          - FK = event(Address) -> location(Address)
+       - `organizer` = (Name, Total_followers, **Organizer_page**)
+       - `category` = (**ID**, Name)
+       - `location` = (**Address**, Latitude, dan Longitude).
+   ### Relational Diagram
+  Relational Diagram dari database yang digunakan adalah sebagai berikut:
+    ![Relational Design](Data%20Storing/design/Relational%20Diagram.png)
 
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
+## Data Visualization
+  Berikut adalah dashboard yang menampilkan visualisasi data dari database:
+  ![Data Visualization](Data%20Visualization/DASHBOARD.png)
+  Informasi yang ditampilkan pada dashboard adalah:
+  - Jumlah event yang di-_publish_ dari waktu ke waktu
+  - Jumlah event tiap kategori
+  - Leaderboard _event organizer_ berdasarkan jumlah event yang di-_publish_
+  - Leaderboard _event organizer_ berdasarkan popularitas (_followers_)
+  
+  _note : code visualisasi data terdapat di folder `Data Visualization`_
 
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
-
-### Database Modelling & Data Storing
-
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
-
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
-
-4. Tools yang digunakan __dibebaskan__ pada peserta.
-
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
-
-
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
-
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
-
-### Pengumpulan
-
-
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
-
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
-
-
-```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
+## Screenshots
+  ### Data Scraping
+  - Scrape Function
+    ![scrape_func_01_load](Data%20Scraping/screenshot/scrape_func_01_load.png)
+    ![scrape_func_02_load](Data%20Scraping/screenshot/scrape_func_02_load.png)
+    ![scrape_func_03](Data%20Scraping/screenshot/scrape_func_03.png)
+    ![scrape_func_04](Data%20Scraping/screenshot/scrape_func_04.png)
+    ![scrape_func_05](Data%20Scraping/screenshot/scrape_func_05.png)
+    ![scrape_func_06](Data%20Scraping/screenshot/scrape_func_06.png)
+  - Main Program
+    ![main1](Data%20Scraping/screenshot/main1.png)
+    ![main2](Data%20Scraping/screenshot/main2.png)
+    ![main3](Data%20Scraping/screenshot/main3.png)
+  - Terminal while running
+    ![terminal1](Data%20Scraping/screenshot/Terminal/01_business_page1.png)
+  ### Data Storing
+  - Tables in Database
+    <br>
+    ![d_tables](Data%20Storing/screenshot/d_tables.png)
+  - Description of Tables
+    ![d_event_table](Data%20Storing/screenshot/d_event_table.png)
+    ![d_organizer_table](Data%20Storing/screenshot/d_organizer_table.png)
+    ![d_category_table](Data%20Storing/screenshot/d_category_table.png)
+    ![d_location_table](Data%20Storing/screenshot/d_location_table.png)
+  - Data in Tables
+    ![event_table](Data%20Storing/screenshot/event_table.png)
+    ![organizer_table](Data%20Storing/screenshot/organizer_table.png)
+    ![category_table](Data%20Storing/screenshot/category_table.png)
+    ![location_table](Data%20Storing/screenshot/location_table.png)
 
 
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
+## References
+  - Documentation
+    - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+    - [Selenium](https://www.selenium.dev/)
+    - [psycopg2](https://pypi.org/project/psycopg2/)
+    - [Matplotlib](https://matplotlib.org/)
+    - [PostgreSQL](https://www.postgresql.org/docs/)
+    - [Eventbrite](https://www.eventbrite.com/)
+    - [Python](https://https://www.python.org/doc/)
+  - Others
+    - [Scrape data using Python](https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe/)
+    - [Stackoverflow](https://stackoverflow.com/)
 
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
-
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
-<br>
+## Author
+  Naura Valda Prameswari - 18221173 <br>
+  Sistem dan Teknologi Informasi <br>
+  Institut Teknologi Bandung
