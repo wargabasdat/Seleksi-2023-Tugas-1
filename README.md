@@ -16,9 +16,9 @@
 
 # Description
 
-Formula 1 is the highest class of four-wheel racing in which teams and drivers compete in a series of Grand Prix to win the championship at the end of the year. In the world of Formula 1, data is constantly generated and consumed by not just the teams to improve their chances of winning the championship, but also the spectators and pundits alike. It is also a great source of data for aspiring data analysts to jump into, as the data of each races from 1950 to recent times is readily available on the formula1.com website.
+Formula 1 is the highest class of four-wheel racing in which teams and drivers compete in a series of Grand Prix to win the championship at the end of the year. In the world of Formula 1, data is constantly generated and consumed by not just the teams to improve their chances of winning the championship, but also the spectators and pundits alike. It is also a great source of data for aspiring data analysts to jump into, as the data of each race from 1950 to recent times is readily available on the [formula1.com](https://formula1.com/) website.
 
-The data scraped is the seasons available on the website that contains driver's standings from 1950-2022, drivers that have raced at least once and appears in the driver's standings from 1950-2023, races from 1950-2022, and race results from 1950-2022 that are broken down to each decade. The data is stored in the `.json` format and then stored into a PostgreSQL database. For this project, PostgreSQL is chosen as its RDBMS because it is open-source, reliable, and offers a rich set of features.
+The data scraped is the seasons available on the website that contains driver's standings from 1950-2022, drivers that have raced at least once and appear in the driver's standings from 1950-2023, races from 1950-2022, and race results from 1950-2022 that are broken down to each decade. The data is stored in the `.json` format and then stored in a PostgreSQL database. PostgreSQL is chosen as its RDBMS for this project because it is open-source, reliable, and offers a rich set of features.
 
 # Specification
 This program uses Python and uses the following libraries:
@@ -46,7 +46,7 @@ python3 main.py
   0. See available commands
   1. Get driver standings of a season or more
   2. Get the races of a season or more
-  3. Get a race results (requires race IDs on the F1 website)
+  3. Get race results (requires race IDs on the F1 website)
   4. Get multiple race results (must set an array of race IDs first)
   5. Set an array of multiple race IDs
   6. Get the drivers that raced in a range of seasons
@@ -65,7 +65,7 @@ python3 main.py
 ```
   {
     Driver: driver name
-    Nationality: nationality of driver
+    Nationality: nationality of the driver
   }
 ```
 * Driver standings
@@ -132,19 +132,19 @@ Each strong entities are translated to their own tables and their attributes bec
   <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/6fd32b58-6bf7-4a0f-bef6-c66be31e57f8" alt="Reducing Results, Races, and Driver" width="600">
 </div>
 
-The `Results` entity has a _many-to-one_ relationship with `Driver`, and the relationship is _total_ on `Results` side. `Results` also has a _many-to-one_ relationship with `Races` and is total on `Results` side. Because of this, the entity `Results` becomes the table `raceResults` that has two foreign keys, `raceID` and `driver`, that refers to the primary keys of the table `races` and `driver`, respectively.
+The `Results` entity has a _many-to-one_ relationship with `Driver`, and the relationship is _total_ on `Results` side. `Results` also has a _many-to-one_ relationship with `Races` and requires total participation on the `Results` side. Because of this, an extra attribute is added on the _many_ side. The entity `Results` becomes the table `raceResults` that has two foreign keys, *raceID*and *driver*, that refer to the primary keys of the table `races` and `driver`, respectively.
 
 <div align="center">
   <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/5ab2fd4b-7677-45d8-973b-bb1da7bf1de7" alt="Reducing Races and Season" width="600">
 </div>
 
-`Races` has a _many-to-one_ relationship with `Season` and is also a form of _total participation_. Thus, the table `races` has a foreign key `year` that refers to the primary key in `season`.
+`Races` has a _many-to-one_ relationship with `Season` and is also a form of _total participation_. Thus, the table `races` has a foreign key *year* that refers to the primary key in `season`.
 
 <div align="center">
   <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/de12fc16-2b84-4cc1-b295-6a1c227aa9c5" alt="Reducing DriverStandings, Driver, and Season" width="600">
 </div>
 
-`DriverStandings` has a _many-to-one_ relationship with `Driver`, causing the table `driverStandings` have a foreign key `driver` that refers to the primary key `name` in driver. It also has a _many-to-one_ relationship with `Season`, so it has the foreign key `year` that refers to `season`'s primary key.
+`DriverStandings` has a _many-to-one_ relationship with `Driver`, causing the table `driverStandings` to have a foreign key `driver` that refers to the primary key *name* in `driver`. It also has a _many-to-one_ relationship with `Season`, so it has the foreign key *year* that refers to `season`'s primary key.
 
 Thus, the final tables are (**bold**: primary keys, *italics*: foreign keys)
 
