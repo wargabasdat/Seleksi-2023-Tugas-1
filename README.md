@@ -13,7 +13,8 @@
 </h2>
 
 ## Visualization
-![visual]()
+![visual](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Visualization/Dashboard%201.png)
+Link for <a href="https://public.tableau.com/app/profile/ken.azizan/viz/SeleksiBasdat/Dashboard1?publish=yes">live dashboard</a>
 
 ## Description of the Data and DBMS
 <p>
