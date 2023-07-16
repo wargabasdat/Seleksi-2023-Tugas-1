@@ -91,7 +91,7 @@ Here is the structure of the JSON data that were exported, for simplicity's sake
 # Database Structure
 
 ### ERD
-![alt text](https://github.com/darrendoang/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ERD.jpg?raw=true)
+![alt text](https://github.com/darrendoang/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ERD.png?raw=true)
 
 The provided ERD represents the database structure derived from the scraped data. To translate the ERD into a relational diagram, we examine each relationship that connects the entities.
 
@@ -104,7 +104,7 @@ Lastly, the `resto_dish` relationship establishes a many-to-many connection betw
 By following these steps, we can successfully translate the ERD into a relational diagram that accurately represents the relationships between the entities.
 
 ### Relational Diagram
-![alt text](https://github.com/darrendoang/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Relational%20Diagram.jpg?raw=true)
+![alt text](https://github.com/darrendoang/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Relational%20Diagram.png?raw=true)
 
 # Screenshots
 These are some screenshots from the scraper and the RDBMS
