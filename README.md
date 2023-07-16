@@ -8,7 +8,9 @@
 <h2 align="center">
   <br>
   Author
+
   18221134 / Muhammad Rafi Haidar
+
   18221134@std.stei.itb.ac.id
   <br>
   <br>
@@ -87,23 +89,41 @@ Berikut merupakan sampel entri dari salah satu berkas JSON hasil scraping data:
 Berikut penjelasan key dan nilai dari struktur JSON di atas
 
 listing_id : ID listing properti
+
 live_id : ID live properti
+
 type : jenis properti
+
 title : judul listing properti
+
 province : provinsi tempat properti berlokasi
+
 city : kota tempat properti berlokasi
+
 value_usd : harga jual properti dalam dolar AS
+
 value_idr : harga jual properti dalam rupiah
+
 negotiable : status yang menunjukan apakah harga jual properti dapat dinegosiasi (true jika iya, false jika tidak)
+
 building_size : ukuran gedung properti dalam m2
+
 land_size : ukuran tanah properti dalam m2
+
 certificate : jenis sertifikat kepemilikan properti
+
 bedroom: jumlah kamar tidur di properti
+
 bathroom: jumlah kamar mandi di properti
+
 carport: jumlah tempat parkir mobil di properti
+
 realtor_id : ID pegawai milik agen properti yang mengurus listing
+
 realtor : nama agen properti yang mengurus listing
+
 realtor_phone : nomor telepon milik agen properti yang mengurus listing
+
 realtor_office : kantor tempat agen properti yang mengurus listing bekerja
 
 
