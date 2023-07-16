@@ -304,40 +304,40 @@ Hasil merging data
 
 Daftar tabel pada basis data
 
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_sql_table_list.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_storing_table_list.png)
 
 Deskripsi tabel buyer
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_sql_table_buyer.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_storing_table_buyer.png)
 
 Deskripsi tabel inquiry_request
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_sql_table_inquiry_request.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_storing_table_inquiry_request.png)
 
 Deskripsi tabel property
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_sql_table_property.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_storing_table_property.png)
 
 Deskripsi tabel realtor
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_sql_table_realtor.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_storing_table_realtor.png)
 
 Deskripsi tabel realtor_office
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_sql_table_realtor_office.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_storing_table_realtor_office.png)
 
 Deskripsi tabel seller
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_sql_table_seller.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_storing_table_seller.png)
 
 Deskripsi tabel transaction
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_sql_table_transaction.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reaywhite_storing_table_transaction.png)
 
 Hasil SELECT * tabel property
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_sql_select_property_1.png)
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_sql_select_property_2.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_storing_select_property_1.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_storing_select_property_2.png)
 
 Hasil SELECT * tabel realtor
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_sql_select_realtor_1.png)
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_sql_select_realtor_2.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_storing_select_realtor_1.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_storing_select_realtor_2.png)
 
 Hasil SELECT * tabel realtor_office
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_sql_select_realtor_office_1.png)
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_sql_select_realtor_office_2.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_storing_select_realtor_office_1.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_storing_select_realtor_office_2.png)
 
 
 ### Reference, Credits, and Libraries Used
