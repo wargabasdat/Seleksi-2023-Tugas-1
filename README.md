@@ -301,6 +301,7 @@ Hasil merging data
 ![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_merging_result.png)
 
 2. Data Storing
+
 Daftar tabel pada basis data
 ![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/raywhite_sql_table_list.png)
 
