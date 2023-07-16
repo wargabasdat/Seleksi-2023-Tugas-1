@@ -11,10 +11,10 @@
   <br>
   <br>
   Website Eventbrite.com
+
+  ![logo](Data%20Visualization/pic/eventbrite.png)
   <br>
 </h2>
-
-![logo](Data%20Visualization/pic/eventbrite.png)
 
 ## Table of Contents
   - [Description](#description)
@@ -82,7 +82,7 @@
   2. Buka path `Data Storing\export` pada terminal
   3. Jalankan perintah berikut pada terminal:
   ```
-  pg_dump -U {username} -d {database} < events.sql
+  pg_dump -U {username} -d {database} < events_data.sql
   ```
 
 ## JSON Structure
@@ -130,7 +130,7 @@
 
 ## Database Structure
    ### ERD
-    ER Diagram dari database yang digunakan adalah sebagai berikut:
+  ER Diagram dari database yang digunakan adalah sebagai berikut:
     ![ERD](Data%20Storing/design/ERD.png)
    ### Explanation of ERD to relational diagram translation process
    Berikut adalah langkah-langkah untuk mengubah ERD menjadi relational diagram:
@@ -146,7 +146,7 @@
        - `category` = (ID, Name)
        - `location` = (Address, Latitude, dan Longitude).
    ### Relational Diagram
-    Relational Diagram dari database yang digunakan adalah sebagai berikut:
+  Relational Diagram dari database yang digunakan adalah sebagai berikut:
     ![Relational Design](Data%20Storing/design/Relational%20Diagram.png)
 
 ## Data Visualization
@@ -157,7 +157,7 @@
   - Jumlah event tiap kategori
   - Leaderboard _event organizer_ berdasarkan jumlah event yang di-_publish_
   - Leaderboard _event organizer_ berdasarkan popularitas (_followers_)
-  <br>
+  
   _note : code untuk membuat dashboard ini ada di folder `Data Visualization`_
 
 ## Screenshots
