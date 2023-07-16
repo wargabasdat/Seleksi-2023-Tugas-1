@@ -14,6 +14,7 @@
 
 ## Daftar Isi
 - [Deskripsi Data & DBMS](#deskripsi-data-&-dbms)
+- [Author](#author)
 
 ## Deskripsi Data & DBMS
 
