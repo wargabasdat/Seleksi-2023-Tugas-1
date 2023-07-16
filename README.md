@@ -231,38 +231,38 @@ Relationship kedua merupakan hubungan one-to-many bernama About dengan strong en
 ### Screenshot program
 
 Library yang digunakan oleh program scraping dan nilai dari konstanta URL ke laman situs dan XPATH elemen HTML
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%2520Scraping/screenshot/raywhite_scraping_header.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_header.png)
 
 ![1](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_header.png)
 
 Fungsi yang digunakan untuk melakukan scraping data dari laman situs
 
 Fungsi terbagi menjadi fungsi yang melakukan scraping elemen data spesifik dan scraping secara keseluruhan
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%2520Scraping/screenshot/raywhite_scraping_scraping_function_1.png)
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%2520Scraping/screenshot/raywhite_scraping_scraping_function_2.png)
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%2520Scraping/screenshot/raywhite_scraping_scraping_function_3.png)
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%2520Scraping/screenshot/raywhite_scraping_scraping_function_4.png)
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%2520Scraping/screenshot/raywhite_scraping_scraping_function_5.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_scraping_function_1.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_scraping_function_2.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_scraping_function_3.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_scraping_function_4.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_scraping_function_5.png)
 
 Fungsi lain yang digunakan untuk pembersihan data hasil scraping dan ekspor berkas JSON dan CSV
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%2520Scraping/screenshot/raywhite_scraping_other_function.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_other_function.png)
 
 Program utama untuk melakukan scraping
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%2520Scraping/screenshot/raywhite_scraping_main_1.png)
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%2520Scraping/screenshot/raywhite_scraping_main_2.png)
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%2520Scraping/screenshot/raywhite_scraping_main_3.png)
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%2520Scraping/screenshot/raywhite_scraping_main_4.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_main_1.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_main_2.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_main_3.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_main_4.png)
 
 Hasil scraping data
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%2520Scraping/screenshot/raywhite_scraping_main_result_1.png)
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%2520Scraping/screenshot/raywhite_scraping_main_result_2.png)
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%2520Scraping/screenshot/raywhite_scraping_main_result_3.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_main_result_1.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_main_result_2.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_main_result_3.png)
 
 Program untuk me-reset progress bar
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%2520Scraping/screenshot/raywhite_scraping_bar_reset.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_bar_reset.png)
 
 Program untuk melakukan merging data hasil scraping
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%2520Scraping/screenshot/raywhite_scraping_merging.png)
+![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_merging.png)
 
 Hasil merging data
 
