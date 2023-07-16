@@ -144,3 +144,30 @@ Setiap strong entity pada ERD akan menjadi tabel tersendiri. dan setiap atribut 
 
 * program succesfully run
 ![run](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/running.png)
+
+### Data Storing
+
+* Saya menambahkan kolom id_product dengan query berikut
+![add_id](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/create_id_product.jpg)
+
+* Saya juga menambahkan constraint pada atribut status di tabel product hanya dapat diisi dengan 'Sale','Not sale', dan 'Sold out'
+![cons](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/constraint.jpg)
+
+* Berikut tabel yang ada pada database
+![tabel](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/table.jpg)
+
+* Berikut mengenai tabel product
+![product](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/show_product.jpg)
+
+* Berikut isi tabel product
+![show](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/product.jpg)
+
+## Referensi
+-BeautifulSoup
+-Selenium
+-Pandas
+-Chromedriver
+-time
+
+## Author
+Ken Azizan - 18221107
