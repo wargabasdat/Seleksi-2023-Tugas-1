@@ -7,95 +7,154 @@
 
 <h2 align="center">
   <br>
-  Data Scraping, Database Modelling & Data Storing
+  Grab Food Data Scraping, Database Modelling & Data Storing
   <br>
   <br>
 </h2>
 
 
-## Spesifikasi
+# Description of the data and DBMS 
 
-### Data Scraping
+The data for this project was obtained through web scraping from the Grab Food website. The website provides information about restaurants, their menus, opening hours, and pricing details. By scraping this data, we can gather insights into the pricing trends in the targeted area, ratings, and more. The reason the Grab Food website was chosen for this project was that the website can be looped through the links of each restaurant to extract the data quite easily.
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
+For this project, the chosen DBMS is PostgreSQL. Several factors influenced the decision to use PostgreSQL:
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
+1. Data Integrity and Reliability: PostgreSQL is known for its robustness and reliability in handling large datasets. It provides ACID (Atomicity, Consistency, Isolation, Durability) compliance, ensuring data integrity and consistency.
 
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
+2. Flexibility and Scalability: PostgreSQL offers a wide range of features and data types, making it flexible enough to accommodate various data structures. It supports complex queries, indexing, and advanced data manipulation capabilities. Additionally, PostgreSQL scales well and can handle increasing data volumes efficiently.
 
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
+3. Compatibility: PostgreSQL adheres to SQL standards, which ensures compatibility with other SQL-based systems and allows for easy integration with different tools and frameworks.
 
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
+4. Security: PostgreSQL provides robust security features, including user authentication, access control, and data encryption options, which are crucial for handling sensitive data.
 
-### Database Modelling & Data Storing
 
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
+# Specification of the program
+
+The data scraping program for the Grab Food website is designed to extract restaurant information, including links, dish type details, opening hours, pricing data, and more. The program is built using Python and utilizes various libraries and tools for web scraping, data manipulation, and automation. The program follows these specifications:
+
+1. Language: Python 3
+
+2. Libraries Used:
+
+    Selenium: For automating web browser interactions and extracting data
+    Pandas: For data manipulation and analysis
+    Other supporting libraries as necessary
+3. Scraping Logic:
+
+    The program utilizes Selenium to automate web browser interactions and extract restaurant links from the Grab Food website. Selenium uses browser drivers, in this project, I use Chromium to control the web browser and perform actions like clicking, scrolling, and extracting data. Once the restaurant links are obtained, the program loops through each link to gather additional data such as menu items, opening hours, pricing, and other relevant details.
+
+5. Data cleaning:
+    The program applies data cleaning and transformation techniques to handle missing values, format inconsistencies, and other data quality issues using Pandas or other appropriate libraries.
    
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
-
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
-
-4. Tools yang digunakan __dibebaskan__ pada peserta.
-
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
+6. Data Storing:
+    The extracted data can be stored in various formats, such as CSV or JSON files, for further analysis and retrieval. The program uses Pandas library for data manipulation and preprocessing tasks, including creating and organizing data structures. Then the data is stored in a database using PostgreSQL.
 
 
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
+# How to use the program
 
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
+You can use the scraper by running all the command blocks that exist in the notebook. 
 
-### Pengumpulan
+These are the simplified steps for using the program:
 
+1. Scrape all restaurant category links on the home page.
+2. Loop through the category links to scrape all the restaurant links in each category.
+3. Loop through each restaurant links to scrape all the necessary data that you need such as prices, opening hours, rating, etc.
+4. Preprocess the data that you scraped.
+5. Export the data into a JSON/CSV output.
+6. Do the data modeling by creating a valid ERD based on the data you scraped.
+7. Store the data in a database using a DBMS, in this case, PostgreSQL.
 
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
+# JSON Structure 
 
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
+As mentioned before in the program usage, the scraped data will be exported into a JSON output.
+Here is the structure of the JSON data that were exported, for simplicity's sake, only the first record was screenshotted.
+1. Restaurant JSON Structure
+   
+![alt text](https://github.com/darrendoang/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/restoJson.jpg?raw=true)
 
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
+2. Opening Hours JSON Structure
 
+![alt text](https://github.com/darrendoang/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/openhourJson.jpg?raw=true)
 
-```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
+3. Price Info JSON Structure
 
+![alt text](https://github.com/darrendoang/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/priceJson.jpg?raw=true)
 
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
+4. Restaurant Dish JSON Structure
 
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
+![alt text](https://github.com/darrendoang/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/restoDishJson.jpg?raw=true)
 
+5. Dish Type JSON Structure
+
+![alt text](https://github.com/darrendoang/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/dishJson.jpg?raw=true)
+
+# Database Structure
+
+### ERD
+![alt text](https://github.com/darrendoang/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ERD.png?raw=true)
+
+The provided ERD represents the database structure derived from the scraped data. To translate the ERD into a relational diagram, we examine each relationship that connects the entities.
+
+The `resto_hours` relationship establishes a connection between the `restaurant` entity and the `opening_hours` entity. This relationship exhibits a many-to-one pattern from the `restaurant` entity to the `opening_hours` entity. To reflect this relationship in the relational diagram, we include the primary key of the `opening_hours` entity, which is `opening_id`, as a foreign key in the `restaurant` entity.
+
+Similarly, the `resto_price` relationship links the `restaurant` entity with the `price_info` entity. This relationship also demonstrates a many-to-one association, requiring us to incorporate the primary key of the `price_info` entity, `price_id`, as a foreign key in the `restaurant` entity.
+
+Lastly, the `resto_dish` relationship establishes a many-to-many connection between the `restaurant` entity and the `dish_type` entity. To represent this relationship in the relational diagram, we create a new entity that serves as a translation or junction table. This table contains the primary keys of both entities, `dish_id` and `resto_id`, as foreign keys.
+
+By following these steps, we can successfully translate the ERD into a relational diagram that accurately represents the relationships between the entities.
+
+### Relational Diagram
+![alt text](https://github.com/darrendoang/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Relational%20Diagram.png?raw=true)
+
+# Screenshots
+These are some screenshots from the scraper and the RDBMS
+![alt text](https://github.com/darrendoang/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Data%20Scraping.jpg?raw=true)
+
+![alt text](https://github.com/darrendoang/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Data%20Storing.jpg?raw=true)
+
+# Some insightful Visualization
+### Price vs Rating 
+![alt_text](https://github.com/darrendoang/Seleksi-2023-Tugas-1/blob/main/Data%20Visualization/screenshot/PriceVsRating.jpg)
+
+The visualization above indicates that for some restaurants, there is a positive correlation between the average price and the rating. Higher average prices tend to be associated with higher ratings. Additionally, it can be observed that restaurants with an average price above Rp 120,000 consistently receive ratings of 4 or higher.
+
+### Rating Distribution
+![alt_text](https://github.com/darrendoang/Seleksi-2023-Tugas-1/blob/main/Data%20Visualization/screenshot/ratingDistribution.jpg)
+
+The visualization above illustrates the distribution of ratings given by customers on Grab Food. It can be observed that the majority of ratings fall within the range of 4 to 5, with the highest count occurring at a rating of 4.7.
+
+### Price Trend and Average Price Distribution
+![alt_text](https://github.com/darrendoang/Seleksi-2023-Tugas-1/blob/main/Data%20Visualization/screenshot/priceTrend.jpg)
+![alt_text](https://github.com/darrendoang/Seleksi-2023-Tugas-1/blob/main/Data%20Visualization/screenshot/avgPriceDistribution.jpg)
+
+The visualizations above provide insights into the average price trends and distribution among restaurants. It can be observed that most restaurants have an average price ranging from Rp 20,000 to Rp 100,000, with the highest count occurring at an average price of Rp 50,000.
+
+These visualizations offer valuable insights into the relationship between price and rating, the distribution of ratings, and the average price trends among restaurants.
+
+# References
+
+In this data scraping project for the Grab Food website, the following libraries were used:
+
+1. Selenium: A powerful web automation library used to control web browsers and interact with web elements.
+2. Pandas: A versatile data manipulation and analysis library for handling structured data.
+3. Matplotlib: A popular data visualization library used to create various types of plots and charts.
+4. Seaborn: A statistical data visualization library built on top of Matplotlib, providing enhanced aesthetics and additional plotting functionalities.
+5. PostgreSQL: An advanced, open-source, object-relational database management system (DBMS).
+
+These libraries were chosen for their capabilities in web automation, data manipulation, and data visualization, making them ideal for extracting and analyzing data from the Grab Food website.
+
+To learn more about these libraries and their usage, you can refer to their official documentation:
+1. Selenium: https://www.selenium.dev/documentation/en/
+2. Pandas: https://pandas.pydata.org/docs/
+3. Matplotlib: https://matplotlib.org/stable/contents.html
+4. Seaborn: https://seaborn.pydata.org/tutorial.html
+5. PostgreSQL: https://www.postgresql.org/docs/
+
+These references provide detailed documentation, examples, and tutorials to help you understand and utilize the functionalities of these libraries effectively in your own projects.
 <p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
+
+  <br>
+   ~Darren~
+
 </p>
 <br>

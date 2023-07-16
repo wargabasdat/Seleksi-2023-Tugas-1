@@ -1,0 +1,1173 @@
+resto_id,resto_name,url,kota,rating,preferred,opening_id
+1,wbc burger sabang kebon sirih,https://food.grab.com/id/id/restaurant/wbc-burger-sabang-kebon-sirih-delivery/6-C251LB5HL7UCRN?,Jakarta,5.0,1,1.0
+2,two fat indians by queen s tandoor gondangdia,https://food.grab.com/id/id/restaurant/two-fat-indians-by-queen-s-tandoor-gondangdia-delivery/6-C2XUATKHG66YLN?,Jakarta,4.3,1,2.0
+3,count three posbloc,https://food.grab.com/id/id/restaurant/count-three-posbloc-delivery/6-C3BUEEEBN4K1EA?,Jakarta,4.2,1,3.0
+4,johnny rockets sahid sudirman,https://food.grab.com/id/id/restaurant/johnny-rockets-sahid-sudirman-delivery/IDGFSTI000002pd?,Jakarta,4.8,1,2.0
+5,burger bros duren sawit,https://food.grab.com/id/id/restaurant/burger-bros-duren-sawit-delivery/6-C3TJFFVCBEUAKE?,Jakarta,4.8,1,4.0
+6,burger sultan duri kepa,https://food.grab.com/id/id/restaurant/burger-sultan-duri-kepa-delivery/6-C3N1AGBCVALEG2?,Jakarta,5.0,1,2.0
+7,d clate food jati,https://food.grab.com/id/id/restaurant/d-clate-food-jati-delivery/6-CZMARZKVNUJUTA?,Jakarta,,1,2.0
+8,meatz burger and toast kelapa gading barat,https://food.grab.com/id/id/restaurant/meatz-burger-and-toast-kelapa-gading-barat-delivery/6-C253VEK1RXLUFE?,Jakarta,4.9,1,2.0
+9,keikpop by the food chain thamrin,https://food.grab.com/id/id/restaurant/keikpop-by-the-food-chain-thamrin-delivery/6-C26EC3ADRBDZJ2?,Jakarta,4.8,1,5.0
+10,pisang goreng madu pasti menteng,https://food.grab.com/id/id/restaurant/pisang-goreng-madu-pasti-menteng-delivery/6-C3NTWF6TJEUKVX?,Jakarta,4.7,1,2.0
+11,bittersweet by najla kebon kelapa,https://food.grab.com/id/id/restaurant/bittersweet-by-najla-kebon-kelapa-delivery/6-C3CEN7JBSBTFJT?,Jakarta,4.9,1,6.0
+12,sengkoeloen cikini,https://food.grab.com/id/id/restaurant/sengkoeloen-cikini-delivery/6-C3LYGJ63CEC3WE?,Jakarta,4.8,1,7.0
+13,martabak pecenongan 78 kwitang kembang raya,https://food.grab.com/id/id/restaurant/martabak-pecenongan-78-kwitang-kembang-raya-delivery/6-CZDYNRMVVB5DAX?,Jakarta,4.8,1,8.0
+14,bronuts bungur,https://food.grab.com/id/id/restaurant/bronuts-bungur-delivery/6-CZNGCU32FBTAPE?,Jakarta,4.9,1,7.0
+15,roti srikaya devarliss cikini,https://food.grab.com/id/id/restaurant/roti-srikaya-devarliss-cikini-delivery/6-C2EUELMTJ2LEJT?,Jakarta,4.8,1,8.0
+16,martabak pizza orins gondangdia,https://food.grab.com/id/id/restaurant/martabak-pizza-orins-gondangdia-delivery/IDGFSTI000036eo?,Jakarta,4.8,1,9.0
+17,jakartacheesefactoryxdifabis menteng,https://food.grab.com/id/id/restaurant/jakartacheesefactoryxdifabis-menteng-delivery/6-C3VVAYCUR8ACBA?,Jakarta,4.7,1,2.0
+18,holland bakery spbu abdul muis,https://food.grab.com/id/id/restaurant/holland-bakery-spbu-abdul-muis-delivery/6-CYLELYBGEVADMA?,Jakarta,4.8,1,10.0
+19,siliwangi bolu kukus stasiun tanah abang,https://food.grab.com/id/id/restaurant/siliwangi-bolu-kukus-stasiun-tanah-abang-delivery/6-C3XBGETAGUJ3CN?,Jakarta,,0,2.0
+20,starbucks tanah abang,https://food.grab.com/id/id/restaurant/starbucks-tanah-abang-delivery/6-CZCZLJ5FRCN3WE?,Jakarta,4.9,1,2.0
+21,premium roti bakar krukut,https://food.grab.com/id/id/restaurant/premium-roti-bakar-krukut-delivery/6-CZN1E8JDEK63RX?,Jakarta,4.8,1,11.0
+22,sengkoeloen yellow bee tanah abang,https://food.grab.com/id/id/restaurant/sengkoeloen-yellow-bee-tanah-abang-delivery/6-C32HNAUZVEXTG6?,Jakarta,4.8,1,12.0
+23,point coffee indomaret juanda raya tzut,https://food.grab.com/id/id/restaurant/point-coffee-indomaret-juanda-raya-tzut-delivery/6-CZD2A3U3JA31RE?,Jakarta,4.8,1,10.0
+24,ponut donat kentang plaza indonesia,https://food.grab.com/id/id/restaurant/ponut-donat-kentang-plaza-indonesia-delivery/6-CZMGA74XNNXGAX?,Jakarta,4.9,1,2.0
+25,krispy kreme harmoni exchange,https://food.grab.com/id/id/restaurant/krispy-kreme-harmoni-exchange-delivery/6-C35KN35XCA4HG2?,Jakarta,4.9,1,13.0
+26,kibo cheese petojo selatan,https://food.grab.com/id/id/restaurant/kibo-cheese-petojo-selatan-delivery/6-C3CYCN6AE2CVNT?,Jakarta,4.9,1,14.0
+27,restoran beautika manado petojo selatan,https://food.grab.com/id/id/restaurant/restoran-beautika-manado-petojo-selatan-delivery/IDGFSTI0000343k?,Jakarta,4.8,1,2.0
+28,c bakes plaza indonesia,https://food.grab.com/id/id/restaurant/c-bakes-plaza-indonesia-delivery/6-C35THCJKEZJXRE?,Jakarta,5.0,1,15.0
+29,kue macho mbak sri tanah tinggi,https://food.grab.com/id/id/restaurant/kue-macho-mbak-sri-tanah-tinggi-delivery/6-C2AGTBKUGFEFCA?,Jakarta,4.4,1,2.0
+30,potato donuts pasar baru,https://food.grab.com/id/id/restaurant/potato-donuts-pasar-baru-delivery/6-C3BFUEWFTAE3CJ?,Jakarta,4.3,1,2.0
+31,j co donuts coffee menteng central,https://food.grab.com/id/id/restaurant/j-co-donuts-coffee-menteng-central-delivery/IDGFSTI000000kx?,Jakarta,4.8,1,16.0
+32,roti srikaya tet fai maphar,https://food.grab.com/id/id/restaurant/roti-srikaya-tet-fai-maphar-delivery/6-C2MDVZD3KAAHE2?,Jakarta,4.9,1,7.0
+33,rotiboy stasiun juanda,https://food.grab.com/id/id/restaurant/rotiboy-stasiun-juanda-delivery/6-C2VDRUJWGFMYNN?,Jakarta,4.8,1,2.0
+34,kopi soe x bonsoe budi kemuliaan,https://food.grab.com/id/id/restaurant/kopi-soe-x-bonsoe-budi-kemuliaan-delivery/6-C3E2FGC3RABBMA?,Jakarta,4.6,1,2.0
+35,le chic bakehouse the boxx in pecenongan,https://food.grab.com/id/id/restaurant/le-chic-bakehouse-the-boxx-in-pecenongan-delivery/6-C26ULLMZKBVUNE?,Jakarta,4.8,1,2.0
+36,kembang api snack indonesia kampung bali,https://food.grab.com/id/id/restaurant/kembang-api-snack-indonesia-kampung-bali-delivery/6-C36JR651CJ5WNN?,Jakarta,5.0,1,2.0
+37,toko kue dan bolu putra mahkota palmerah,https://food.grab.com/id/id/restaurant/toko-kue-dan-bolu-putra-mahkota-palmerah-delivery/6-C2BUNAKGCVECEN?,Jakarta,4.5,1,17.0
+38,capital bakery cake maphar,https://food.grab.com/id/id/restaurant/capital-bakery-cake-maphar-delivery/6-C2DKVRDFCUL3VJ?,Jakarta,4.9,1,18.0
+39,xxi cafe djakarta teater,https://food.grab.com/id/id/restaurant/xxi-cafe-djakarta-teater-delivery/6-CZMKTCM3PGB2AA?,Jakarta,,0,2.0
+40,rokusku kebon kacang,https://food.grab.com/id/id/restaurant/rokusku-kebon-kacang-delivery/6-CY4GN3DWSFDZE2?,Jakarta,4.9,1,12.0
+41,brownies amanda garuda gunung sahari selatan,https://food.grab.com/id/id/restaurant/brownies-amanda-garuda-gunung-sahari-selatan-delivery/6-CYX2WCJDTTWWR6?,Jakarta,4.8,1,19.0
+42,beard papa s st gambir,https://food.grab.com/id/id/restaurant/beard-papa-s-st-gambir-delivery/6-C36ZGT5TPEVFLJ?,Jakarta,4.7,1,20.0
+43,roti o st gambir 4,https://food.grab.com/id/id/restaurant/roti-o-st-gambir-4-delivery/6-C333JFWJGJJTNA?,Jakarta,5.0,1,21.0
+44,roti bakar super premium galur,https://food.grab.com/id/id/restaurant/roti-bakar-super-premium-galur-delivery/6-C2LJNY5FC7KVLN?,Jakarta,4.8,1,22.0
+45,kerotian by roti eneng cikini,https://food.grab.com/id/id/restaurant/kerotian-by-roti-eneng-cikini-delivery/6-C33CVRMDV7JEAN?,Jakarta,,0,2.0
+46,amanda brownies lapis talas bogor kramat,https://food.grab.com/id/id/restaurant/amanda-brownies-lapis-talas-bogor-kramat-delivery/6-C3DJTTMBVUCDLX?,Jakarta,4.9,1,23.0
+47,roti unyil jiw bread gambir,https://food.grab.com/id/id/restaurant/roti-unyil-jiw-bread-gambir-delivery/6-CY2XMB2ZWANXGN?,Jakarta,4.8,1,24.0
+48,lets toast mnc kebon sirih,https://food.grab.com/id/id/restaurant/lets-toast-mnc-kebon-sirih-delivery/6-C2U1J64AVVMHCX?,Jakarta,4.5,1,25.0
+49,the harvest thamrin,https://food.grab.com/id/id/restaurant/the-harvest-thamrin-delivery/IDGFSTI00001y2j?,Jakarta,4.9,1,16.0
+50,bakpau a satu grand indonesia west mall,https://food.grab.com/id/id/restaurant/bakpau-a-satu-grand-indonesia-west-mall-delivery/6-C35GGYLCDA62CE?,Jakarta,4.8,1,26.0
+51,cinnabon grand indonesia,https://food.grab.com/id/id/restaurant/cinnabon-grand-indonesia-delivery/6-C3UAEA6CNP3APA?,Jakarta,4.9,1,15.0
+52,dunkin donuts hayam wuruk,https://food.grab.com/id/id/restaurant/dunkin-donuts-hayam-wuruk-delivery/IDGFSTI00000cbt?,Jakarta,4.7,1,10.0
+53,dapur cokelat menteng,https://food.grab.com/id/id/restaurant/dapur-cokelat-menteng-delivery/IDGFSTI00000se0?,Jakarta,4.8,1,27.0
+54,first love patisserie plaza indonesia mall,https://food.grab.com/id/id/restaurant/first-love-patisserie-plaza-indonesia-mall-delivery/IDGFSTI00001qhv?,Jakarta,4.9,1,15.0
+55,grace patisserie menteng,https://food.grab.com/id/id/restaurant/grace-patisserie-menteng-delivery/6-C3EAGKBGCNAETX?,Jakarta,5.0,1,2.0
+56,kue ulang tahun anis johar baru,https://food.grab.com/id/id/restaurant/kue-ulang-tahun-anis-johar-baru-delivery/6-C2EACRCFJCJKGE?,Jakarta,4.5,1,28.0
+57,kedai roti kobi thamrin,https://food.grab.com/id/id/restaurant/kedai-roti-kobi-thamrin-delivery/6-CYVZTP53VYKACX?,Jakarta,4.7,1,25.0
+58,dear butter croffle the boxxin kebon kelapa,https://food.grab.com/id/id/restaurant/dear-butter-croffle-the-boxxin-kebon-kelapa-delivery/6-C3DJEUNACB4YKE?,Jakarta,4.8,1,27.0
+59,breadlife ketapang,https://food.grab.com/id/id/restaurant/breadlife-ketapang-delivery/6-C3VZNUC3GKEYLX?,Jakarta,4.8,1,13.0
+60,bakpao gaga kawangkoan petojo,https://food.grab.com/id/id/restaurant/bakpao-gaga-kawangkoan-petojo-delivery/6-C3MTEUJDSEWZJ2?,Jakarta,4.7,1,2.0
+61,martabak 777 sb kebon kacang,https://food.grab.com/id/id/restaurant/martabak-777-sb-kebon-kacang-delivery/6-C3UYRAVGVEUFN6?,Jakarta,4.6,1,29.0
+62,nutriliv cideng,https://food.grab.com/id/id/restaurant/nutriliv-cideng-delivery/6-C2DZTZL2C2J2E2?,Jakarta,4.9,1,2.0
+63,king egg tart roti bakery and coffee kartini,https://food.grab.com/id/id/restaurant/king-egg-tart-roti-bakery-and-coffee-kartini-delivery/6-CZKHCY4VL2XFWE?,Jakarta,4.9,1,30.0
+64,home made menara thamrin,https://food.grab.com/id/id/restaurant/home-made-menara-thamrin-delivery/6-C2CFLAXJA2DJTX?,Jakarta,4.8,1,2.0
+65,kief bakery raden saleh,https://food.grab.com/id/id/restaurant/kief-bakery-raden-saleh-delivery/6-C3LAAZL2JT5VEN?,Jakarta,4.3,1,16.0
+66,chill n box by dapur cokelat sawah besar,https://food.grab.com/id/id/restaurant/chill-n-box-by-dapur-cokelat-sawah-besar-delivery/6-C3TDA7KDLJBZHE?,Jakarta,4.7,1,31.0
+67,latre patisserie menteng,https://food.grab.com/id/id/restaurant/latre-patisserie-menteng-delivery/6-C252CGLTLKUERE?,Jakarta,4.8,1,27.0
+68,union grand indonesia,https://food.grab.com/id/id/restaurant/union-grand-indonesia-delivery/IDGFSTI00002ylp?,Jakarta,4.9,1,2.0
+69,bika ambon rica rico harmoniexchange hxc,https://food.grab.com/id/id/restaurant/bika-ambon-rica-rico-harmoniexchange-hxc-delivery/6-C3VHBE6TLKMZJE?,Jakarta,5.0,1,2.0
+70,tomaple plaza indonesia,https://food.grab.com/id/id/restaurant/tomaple-plaza-indonesia-delivery/6-C3BXRELTPF3UNJ?,Jakarta,4.8,1,15.0
+71,don bakeshop grand indonesia,https://food.grab.com/id/id/restaurant/don-bakeshop-grand-indonesia-delivery/6-C3C1VN33TEBDGA?,Jakarta,4.9,1,15.0
+72,snug coffee tanjung duren,https://food.grab.com/id/id/restaurant/snug-coffee-tanjung-duren-delivery/6-C32JFEECFCJEVA?,Jakarta,4.9,1,10.0
+73,ayam geprek gold chick kebon kacang,https://food.grab.com/id/id/restaurant/ayam-geprek-gold-chick-kebon-kacang-delivery/6-C2W3E34BEGEASA?,Jakarta,4.0,1,32.0
+74,mcdonald s thamrin jaya,https://food.grab.com/id/id/restaurant/mcdonald-s-thamrin-jaya-delivery/6-C4BGN76ZTUCJJ2?,Jakarta,4.5,1,32.0
+75,burger king cideng jakarta,https://food.grab.com/id/id/restaurant/burger-king-cideng-jakarta-delivery/6-CYN3PFCFR4M2TN?,Jakarta,4.5,1,32.0
+76,dimsum endut kwitang,https://food.grab.com/id/id/restaurant/dimsum-endut-kwitang-delivery/6-C22WGZBHFCLZRA?,Jakarta,4.9,1,33.0
+77,dapur mama kembar kota bambu utara,https://food.grab.com/id/id/restaurant/dapur-mama-kembar-kota-bambu-utara-delivery/6-C2ACL2BGG7E2FA?,Jakarta,4.7,1,32.0
+78,pisang goreng pontianak zackhey kebon kacang,https://food.grab.com/id/id/restaurant/pisang-goreng-pontianak-zackhey-kebon-kacang-delivery/6-CYL1PBNYR4KYCA?,Jakarta,4.8,1,9.0
+79,pisang goreng madu ny rikrik petojo selatan,https://food.grab.com/id/id/restaurant/pisang-goreng-madu-ny-rikrik-petojo-selatan-delivery/6-C24VC25KNGKAEE?,Jakarta,4.5,1,2.0
+80,ayam geprek kambal kampung bali,https://food.grab.com/id/id/restaurant/ayam-geprek-kambal-kampung-bali-delivery/6-C3U1FFLWTAL2LN?,Jakarta,4.7,1,10.0
+81,faasos kebab wrap menteng,https://food.grab.com/id/id/restaurant/faasos-kebab-wrap-menteng-delivery/6-C3TULYMJC7U1WA?,Jakarta,4.7,1,34.0
+82,ayam geprek master cideng,https://food.grab.com/id/id/restaurant/ayam-geprek-master-cideng-delivery/6-CZEVAE6EAZLBCT?,Jakarta,4.5,1,2.0
+83,serabi solo jl sabang kebon sirih,https://food.grab.com/id/id/restaurant/serabi-solo-jl-sabang-kebon-sirih-delivery/6-CY6YEZNCET3KVJ?,Jakarta,4.9,1,2.0
+84,mangkokku rice bowl mid point,https://food.grab.com/id/id/restaurant/mangkokku-rice-bowl-mid-point-delivery/6-C2BWLJ6ULEJCV6?,Jakarta,4.8,1,2.0
+85,yoshinoya beef bowl atrium senen,https://food.grab.com/id/id/restaurant/yoshinoya-beef-bowl-atrium-senen-delivery/IDGFSTI00002ym2?,Jakarta,4.8,1,15.0
+86,pisang goreng madu pasti menteng,https://food.grab.com/id/id/restaurant/pisang-goreng-madu-pasti-menteng-delivery/6-C3NTWF6TJEUKVX?,Jakarta,4.7,1,2.0
+87,ayam pusaka abadi petojo selatan,https://food.grab.com/id/id/restaurant/ayam-pusaka-abadi-petojo-selatan-delivery/6-CZEATCDDWETFDE?,Jakarta,4.7,1,2.0
+88,batagor dan siomay davin pasar baru,https://food.grab.com/id/id/restaurant/batagor-dan-siomay-davin-pasar-baru-delivery/6-C2A3PCMEGK2AV2?,Jakarta,4.4,1,2.0
+89,takoyaki tanaka san cideng,https://food.grab.com/id/id/restaurant/takoyaki-tanaka-san-cideng-delivery/IDGFSTI00001yxv?,Jakarta,4.6,1,2.0
+90,warung seblak kojay kota bambu utara,https://food.grab.com/id/id/restaurant/warung-seblak-kojay-kota-bambu-utara-delivery/6-C2UXAE2JJCNULX?,Jakarta,4.7,1,32.0
+91,mr kang petojo utara,https://food.grab.com/id/id/restaurant/mr-kang-petojo-utara-delivery/6-C3UDN7U2TYUCCA?,Jakarta,4.8,1,2.0
+92,bakso rusuk aulia putri gambir,https://food.grab.com/id/id/restaurant/bakso-rusuk-aulia-putri-gambir-delivery/6-C2UZRKMGEN5YE2?,Jakarta,4.4,1,32.0
+93,gamchi potato cheese bread thamrin,https://food.grab.com/id/id/restaurant/gamchi-potato-cheese-bread-thamrin-delivery/6-C4B1VVBXN3T3LJ?,Jakarta,4.7,1,31.0
+94,martabak pecenongan 78 kwitang kembang raya,https://food.grab.com/id/id/restaurant/martabak-pecenongan-78-kwitang-kembang-raya-delivery/6-CZDYNRMVVB5DAX?,Jakarta,4.8,1,8.0
+95,mr ollie sarinah,https://food.grab.com/id/id/restaurant/mr-ollie-sarinah-delivery/6-C32XL7UTHFDFAJ?,Jakarta,4.9,1,3.0
+96,mo tahu aja hayam wuruk,https://food.grab.com/id/id/restaurant/mo-tahu-aja-hayam-wuruk-delivery/6-C2DJV3EZNFLBJA?,Jakarta,4.6,1,2.0
+97,tahu go wahid hasyim,https://food.grab.com/id/id/restaurant/tahu-go-wahid-hasyim-delivery/6-C2BXKEMZTYJZC6?,Jakarta,4.6,1,2.0
+98,healthylicious dapurhub,https://food.grab.com/id/id/restaurant/healthylicious-dapurhub-delivery/6-C3CET7AGJ6JJWE?,Jakarta,4.7,1,2.0
+99,cita rasa pedas kebon kelapa,https://food.grab.com/id/id/restaurant/cita-rasa-pedas-kebon-kelapa-delivery/6-C3WAVTJZLPECET?,Jakarta,4.7,1,35.0
+100,nasi kulit gokskin gambir,https://food.grab.com/id/id/restaurant/nasi-kulit-gokskin-gambir-delivery/6-CZNKJJKHN26WGX?,Jakarta,4.7,1,36.0
+101,burger bangor gondangdia,https://food.grab.com/id/id/restaurant/burger-bangor-gondangdia-delivery/6-C2VBRNACNJ6AAE?,Jakarta,4.6,1,30.0
+102,point coffee indomaret juanda raya tzut,https://food.grab.com/id/id/restaurant/point-coffee-indomaret-juanda-raya-tzut-delivery/6-CZD2A3U3JA31RE?,Jakarta,4.8,1,10.0
+103,martabak pizza orins gondangdia,https://food.grab.com/id/id/restaurant/martabak-pizza-orins-gondangdia-delivery/IDGFSTI000036eo?,Jakarta,4.8,1,9.0
+104,xiji senen,https://food.grab.com/id/id/restaurant/xiji-senen-delivery/6-CZLXCYNJN2EXJT?,Jakarta,4.7,1,2.0
+105,astro kitchen menteng,https://food.grab.com/id/id/restaurant/astro-kitchen-menteng-delivery/6-C351KACTE3WFNN?,Jakarta,4.9,1,32.0
+106,sari sari jajan pasar gedung sarinah,https://food.grab.com/id/id/restaurant/sari-sari-jajan-pasar-gedung-sarinah-delivery/6-C3VYR2VXVB3CN6?,Jakarta,4.8,1,31.0
+107,ayam goreng petojo gambir,https://food.grab.com/id/id/restaurant/ayam-goreng-petojo-gambir-delivery/IDGFSTI000004og?,Jakarta,4.7,1,2.0
+108,endoq telur gulung cilok pedas petojo selatan,https://food.grab.com/id/id/restaurant/endoq-telur-gulung-cilok-pedas-petojo-selatan-delivery/6-C3DHC3VHGXEACN?,Jakarta,4.5,1,37.0
+109,d cost petojo gambir,https://food.grab.com/id/id/restaurant/d-cost-petojo-gambir-delivery/6-C3BVSACYGT4FGN?,Jakarta,4.7,1,15.0
+110,reddog %EB%A0%88%EB%93%9C%EB%8F%85 plaza indonesia,https://food.grab.com/id/id/restaurant/reddog-%EB%A0%88%EB%93%9C%EB%8F%85-plaza-indonesia-delivery/6-C2NWNN2HRXEYHA?,Jakarta,4.8,1,38.0
+111,cabang bakmi masadi kwitang kwitang,https://food.grab.com/id/id/restaurant/cabang-bakmi-masadi-kwitang-kwitang-delivery/6-CY5CENATJ2DJFA?,Jakarta,4.8,1,39.0
+112,potato donuts pasar baru,https://food.grab.com/id/id/restaurant/potato-donuts-pasar-baru-delivery/6-C3BFUEWFTAE3CJ?,Jakarta,4.3,1,2.0
+113,kopi kenangan ruko cideng,https://food.grab.com/id/id/restaurant/kopi-kenangan-ruko-cideng-delivery/6-CZEKVXXBAZKFV2?,Jakarta,4.9,1,40.0
+114,molen onde small kwitang,https://food.grab.com/id/id/restaurant/molen-onde-small-kwitang-delivery/6-CZMCRTNYCVDDPE?,Jakarta,4.6,1,2.0
+115,warung bubur manado dan snack samrat gondangdia,https://food.grab.com/id/id/restaurant/warung-bubur-manado-dan-snack-samrat-gondangdia-delivery/6-C2BJE6NWVEUHL6?,Jakarta,4.8,1,2.0
+116,makaroni ngehe makaroni ngehe express st tanah abang,https://food.grab.com/id/id/restaurant/makaroni-ngehe-makaroni-ngehe-express-st-tanah-abang-delivery/6-C3U3GUXHWBU2G6?,Jakarta,4.7,1,41.0
+117,a w hayam wuruk,https://food.grab.com/id/id/restaurant/a-w-hayam-wuruk-delivery/6-CYNCG2XJUGNJJT?,Jakarta,,0,2.0
+118,kopi soe x bonsoe budi kemuliaan,https://food.grab.com/id/id/restaurant/kopi-soe-x-bonsoe-budi-kemuliaan-delivery/6-C3E2FGC3RABBMA?,Jakarta,4.6,1,2.0
+119,cfc stasiun tanah abang,https://food.grab.com/id/id/restaurant/cfc-stasiun-tanah-abang-delivery/6-CY5KAPXUFABEEE?,Jakarta,4.6,1,2.0
+120,selera manado grogol,https://food.grab.com/id/id/restaurant/selera-manado-grogol-delivery/6-C2VKLTNZDCBFG6?,Jakarta,4.8,1,2.0
+121,tung s cafe cakwe bok cui pasar baru,https://food.grab.com/id/id/restaurant/tung-s-cafe-cakwe-bok-cui-pasar-baru-delivery/IDGFSTI00000wac?,Jakarta,4.7,1,2.0
+122,shake shake in a tub gajah mada plaza,https://food.grab.com/id/id/restaurant/shake-shake-in-a-tub-gajah-mada-plaza-delivery/6-C3LCLPCYG3TWTE?,Jakarta,4.7,1,42.0
+123,pempek megaria kwitang,https://food.grab.com/id/id/restaurant/pempek-megaria-kwitang-delivery/AWhL_MpSUxnp0OW7PobA?,Jakarta,4.7,1,2.0
+124,pempek cawan putih kebon sirih,https://food.grab.com/id/id/restaurant/pempek-cawan-putih-kebon-sirih-delivery/6-C22FLVD3TAJXE6?,Jakarta,4.8,1,2.0
+125,cireng corner gajah mada plaza,https://food.grab.com/id/id/restaurant/cireng-corner-gajah-mada-plaza-delivery/IDGFSTI0000256e?,Jakarta,4.6,1,43.0
+126,asinan kebon kacang yusra kebon kacang,https://food.grab.com/id/id/restaurant/asinan-kebon-kacang-yusra-kebon-kacang-delivery/IDGFSTI000020h8?,Jakarta,4.8,1,2.0
+127,enni kue pasar baru,https://food.grab.com/id/id/restaurant/enni-kue-pasar-baru-delivery/6-C23YVYKFHA53TE?,Jakarta,,0,2.0
+128,boom burger menteng,https://food.grab.com/id/id/restaurant/boom-burger-menteng-delivery/6-C3TUL35HUF22L6?,Jakarta,4.6,1,34.0
+129,sugakiya ramen stasiun senen,https://food.grab.com/id/id/restaurant/sugakiya-ramen-stasiun-senen-delivery/6-C25DLNACGBVTVX?,Jakarta,4.8,1,10.0
+130,roti o st gambir 4,https://food.grab.com/id/id/restaurant/roti-o-st-gambir-4-delivery/6-C333JFWJGJJTNA?,Jakarta,5.0,1,21.0
+131,puyo desserts plaza indonesia,https://food.grab.com/id/id/restaurant/puyo-desserts-plaza-indonesia-delivery/6-CZJVRNXVCVMDUA?,Jakarta,5.0,1,3.0
+132,mochi mochio harmonie exchange,https://food.grab.com/id/id/restaurant/mochi-mochio-harmonie-exchange-delivery/6-C2X2VKTYR4LGBA?,Jakarta,4.8,1,2.0
+133,mab toppoki pasar baru,https://food.grab.com/id/id/restaurant/mab-toppoki-pasar-baru-delivery/6-C2UJRLJZFEUTEN?,Jakarta,4.4,1,2.0
+134,greenly healthy salad bowl juice menteng,https://food.grab.com/id/id/restaurant/greenly-healthy-salad-bowl-juice-menteng-delivery/6-C3UHG7JDR8BUTJ?,Jakarta,4.6,1,16.0
+135,lawson jb tower,https://food.grab.com/id/id/restaurant/lawson-jb-tower-delivery/6-CZBHSB2DRKJ3TT?,Jakarta,4.7,1,2.0
+136,lets toast mnc kebon sirih,https://food.grab.com/id/id/restaurant/lets-toast-mnc-kebon-sirih-delivery/6-C2U1J64AVVMHCX?,Jakarta,4.5,1,2.0
+137,the halal guys grand indonesia,https://food.grab.com/id/id/restaurant/the-halal-guys-grand-indonesia-delivery/IDGFSTI000024au?,Jakarta,4.7,1,15.0
+138,subway setiabudi one,https://food.grab.com/id/id/restaurant/subway-setiabudi-one-delivery/6-C25JTCKGRRAACN?,Jakarta,4.6,1,44.0
+139,lasagna sendja tanah tinggi,https://food.grab.com/id/id/restaurant/lasagna-sendja-tanah-tinggi-delivery/6-C2UHA72JE4MHVT?,Jakarta,4.8,1,31.0
+140,pizza hive johar baru,https://food.grab.com/id/id/restaurant/pizza-hive-johar-baru-delivery/6-C2WGVYABLX2HTJ?,Jakarta,4.6,1,45.0
+141,nasta nasi dan cerita ku tanjung duren,https://food.grab.com/id/id/restaurant/nasta-nasi-dan-cerita-ku-tanjung-duren-delivery/6-CZLBR4CKC3AJE2?,Jakarta,4.8,1,2.0
+142,mad bagel kuningan,https://food.grab.com/id/id/restaurant/mad-bagel-kuningan-delivery/6-CZMJRTCBL25ANX?,Jakarta,4.7,1,10.0
+143,pizza krust karet kuningan,https://food.grab.com/id/id/restaurant/pizza-krust-karet-kuningan-delivery/6-C2KKMGLHVUWFLJ?,Jakarta,4.6,1,46.0
+144,burger bangor pademangan timur,https://food.grab.com/id/id/restaurant/burger-bangor-pademangan-timur-delivery/6-C2AAL73CC7M3V2?,Jakarta,4.7,1,2.0
+145,burgo bites tomang,https://food.grab.com/id/id/restaurant/burgo-bites-tomang-delivery/6-CZKHA2VUC3M2CT?,Jakarta,4.9,1,2.0
+146,wicked pies chillax,https://food.grab.com/id/id/restaurant/wicked-pies-chillax-delivery/6-C3XHJT5ZJYUFKA?,Jakarta,4.3,1,2.0
+147,my pizza kemanggisan,https://food.grab.com/id/id/restaurant/my-pizza-kemanggisan-delivery/6-CYUBJ7JUWF5XRJ?,Jakarta,4.6,1,47.0
+148,pasta booth kebon sirih,https://food.grab.com/id/id/restaurant/pasta-booth-kebon-sirih-delivery/6-C25DTCM2WFKYVX?,Jakarta,,0,2.0
+149,box in kuningan barat,https://food.grab.com/id/id/restaurant/box-in-kuningan-barat-delivery/6-CZLJELJYGX6UUA?,Jakarta,4.7,1,48.0
+150,shahrazad turkish resto sudirman park,https://food.grab.com/id/id/restaurant/shahrazad-turkish-resto-sudirman-park-delivery/6-C2KBRK6HL6CAE2?,Jakarta,4.5,1,49.0
+151,the buffalo petogogan,https://food.grab.com/id/id/restaurant/the-buffalo-petogogan-delivery/6-C3EJALJGAA5UC2?,Jakarta,4.5,1,15.0
+152,topokki pojangmacha alfa midi bendungan jago 1 utan panjang,https://food.grab.com/id/id/restaurant/topokki-pojangmacha-alfa-midi-bendungan-jago-1-utan-panjang-delivery/6-CZNJRB4VTF6GLT?,Jakarta,5.0,1,32.0
+153,la vera pizza thamrin residence,https://food.grab.com/id/id/restaurant/la-vera-pizza-thamrin-residence-delivery/6-C2V1JLEYG23EVA?,Jakarta,4.0,1,2.0
+154,tjikinii lima cikini,https://food.grab.com/id/id/restaurant/tjikinii-lima-cikini-delivery/IDGFSTI00001za8?,Jakarta,4.7,1,2.0
+155,rumah jajan pasto harapan mulya,https://food.grab.com/id/id/restaurant/rumah-jajan-pasto-harapan-mulya-delivery/6-C3TTTFNUFCKWMA?,Jakarta,5.0,1,2.0
+156,old chang kee mangga dua square,https://food.grab.com/id/id/restaurant/old-chang-kee-mangga-dua-square-delivery/6-CY5HMEDZR7LKNE?,Jakarta,2.7,1,2.0
+157,raffel s sandwich kota kasablanka,https://food.grab.com/id/id/restaurant/raffel-s-sandwich-kota-kasablanka-delivery/6-CZKZRPWVGLJZUA?,Jakarta,4.6,1,50.0
+158,mad bagel tebet,https://food.grab.com/id/id/restaurant/mad-bagel-tebet-delivery/6-C26HN4DTR22XR2?,Jakarta,4.8,1,10.0
+159,hotdog boy cempaka putih,https://food.grab.com/id/id/restaurant/hotdog-boy-cempaka-putih-delivery/6-C22VJYKTEKMWAN?,Jakarta,4.3,1,51.0
+160,karas la cucina cab gm petojo utara,https://food.grab.com/id/id/restaurant/karas-la-cucina-cab-gm-petojo-utara-delivery/6-C2UBRVJHPF5ETN?,Jakarta,,1,2.0
+161,hitam putih ribs n steak bendungan hilir,https://food.grab.com/id/id/restaurant/hitam-putih-ribs-n-steak-bendungan-hilir-delivery/6-C3EJT3LYG3EXNT?,Jakarta,,1,2.0
+162,sirlo steak kebon baru,https://food.grab.com/id/id/restaurant/sirlo-steak-kebon-baru-delivery/6-C2BHKF63BGNHJN?,Jakarta,4.5,1,2.0
+163,paloma bistro des indes hotel,https://food.grab.com/id/id/restaurant/paloma-bistro-des-indes-hotel-delivery/6-C2KTFAVDJLDBVX?,Jakarta,,1,39.0
+164,quiznos sub rawamangun,https://food.grab.com/id/id/restaurant/quiznos-sub-rawamangun-delivery/6-CZC2FBKHEPCBEX?,Jakarta,4.8,1,39.0
+165,biang burger rawasari,https://food.grab.com/id/id/restaurant/biang-burger-rawasari-delivery/6-CYU3LT33JUJUNA?,Jakarta,4.3,1,9.0
+166,chopchop bendungan hilir,https://food.grab.com/id/id/restaurant/chopchop-bendungan-hilir-delivery/6-C2KKC2DBVFBTA6?,Jakarta,,1,2.0
+167,dapoer kite utan kayu utara,https://food.grab.com/id/id/restaurant/dapoer-kite-utan-kayu-utara-delivery/6-C2WTGN2TFCBHR6?,Jakarta,4.7,1,52.0
+168,hakuna matata jakarta cijantung,https://food.grab.com/id/id/restaurant/hakuna-matata-jakarta-cijantung-delivery/6-C2A3VPT2V3EUVX?,Jakarta,4.8,1,53.0
+169,supergrain central park,https://food.grab.com/id/id/restaurant/supergrain-central-park-delivery/6-C2KBTACEKALKLT?,Jakarta,4.7,1,54.0
+170,lime light family karaoke tanjung duren utara,https://food.grab.com/id/id/restaurant/lime-light-family-karaoke-tanjung-duren-utara-delivery/6-CZNDJA41GA4DCE?,Jakarta,4.0,1,55.0
+171,kebab kedai azka karet,https://food.grab.com/id/id/restaurant/kebab-kedai-azka-karet-delivery/6-CZNFC8KATXM1EN?,Jakarta,4.3,1,16.0
+172,floret cafe patisserie bukit duri,https://food.grab.com/id/id/restaurant/floret-cafe-patisserie-bukit-duri-delivery/6-CZEUT4BKVT5TVX?,Jakarta,4.3,1,56.0
+173,sundaybestid grogol utara,https://food.grab.com/id/id/restaurant/sundaybestid-grogol-utara-delivery/6-CZNYJZMVCGEJN6?,Jakarta,4.2,1,2.0
+174,pan flip supermall karawaci,https://food.grab.com/id/id/restaurant/pan-flip-supermall-karawaci-delivery/IDGFSTI00002cmn?,Jakarta,4.8,1,15.0
+175,burger mbeleber pisangan baru,https://food.grab.com/id/id/restaurant/burger-mbeleber-pisangan-baru-delivery/6-C2E2LEXVGFXJN6?,Jakarta,,1,9.0
+176,fogo brazilian bbq intiland intiland tower,https://food.grab.com/id/id/restaurant/fogo-brazilian-bbq-intiland-intiland-tower-delivery/6-CY2TLZKXL8J3FE?,Jakarta,4.4,1,2.0
+177,magal %EB%A7%88%ED%8F%AC%EA%B0%88%EB%A7%A4%EA%B8%B0 selong,https://food.grab.com/id/id/restaurant/magal-%EB%A7%88%ED%8F%AC%EA%B0%88%EB%A7%A4%EA%B8%B0-selong-delivery/6-C2AJSGKZV2AWVX?,Jakarta,4.7,1,46.0
+178,metropolitan coffee shop karet kuningan,https://food.grab.com/id/id/restaurant/metropolitan-coffee-shop-karet-kuningan-delivery/6-C2CXDA2EGPMGE2?,Jakarta,4.8,1,2.0
+179,kokokopi bungur,https://food.grab.com/id/id/restaurant/kokokopi-bungur-delivery/6-CZNHTE53CN6BAT?,Jakarta,5.0,1,57.0
+180,stacksite express graha antero,https://food.grab.com/id/id/restaurant/stacksite-express-graha-antero-delivery/6-CZNHTF23E4NHJJ?,Jakarta,,0,2.0
+181,tasti id duri kepa,https://food.grab.com/id/id/restaurant/tasti-id-duri-kepa-delivery/6-C2TCUAEYPGNUVJ?,Jakarta,,1,2.0
+182,the meat mob sunter agung,https://food.grab.com/id/id/restaurant/the-meat-mob-sunter-agung-delivery/6-C3B3RB31TB4GA2?,Jakarta,4.7,1,2.0
+183,vanes kitchen mall grand itc permata hijau,https://food.grab.com/id/id/restaurant/vanes-kitchen-mall-grand-itc-permata-hijau-delivery/6-C2BUTA2WKA3DNX?,Jakarta,4.6,1,2.0
+184,baby face planets pluit pluit,https://food.grab.com/id/id/restaurant/baby-face-planets-pluit-pluit-delivery/6-C3BTC7WZE23DRN?,Jakarta,5.0,1,2.0
+185,the rollingsteaks perigi lama,https://food.grab.com/id/id/restaurant/the-rollingsteaks-perigi-lama-delivery/6-C3EFJKXZRB6ETT?,Jakarta,4.6,1,2.0
+186,ayam geprek arsyi menteng,https://food.grab.com/id/id/restaurant/ayam-geprek-arsyi-menteng-delivery/6-CZNHRUEWJ6LUN6?,Jakarta,4.3,1,32.0
+187,box in jati padang,https://food.grab.com/id/id/restaurant/box-in-jati-padang-delivery/6-CZLWCTWVNJV2L6?,Jakarta,4.6,1,9.0
+188,cutt grill rawa barat,https://food.grab.com/id/id/restaurant/cutt-grill-rawa-barat-delivery/6-C2AKETUDCTKZRE?,Jakarta,5.0,1,9.0
+189,nasi goreng foodplus sunter agung,https://food.grab.com/id/id/restaurant/nasi-goreng-foodplus-sunter-agung-delivery/6-C2WTWBN1JVKYBE?,Jakarta,3.3,1,58.0
+190,lumbung bhumi kemanggisan,https://food.grab.com/id/id/restaurant/lumbung-bhumi-kemanggisan-delivery/6-CZN2GFBDJ2T3LN?,Jakarta,4.7,1,2.0
+191,djangfud menteng dalam,https://food.grab.com/id/id/restaurant/djangfud-menteng-dalam-delivery/6-C2A1VNLEG362TA?,Jakarta,4.5,1,57.0
+192,human burger pisangan baru,https://food.grab.com/id/id/restaurant/human-burger-pisangan-baru-delivery/6-C2CUBATZC7VAEX?,Jakarta,4.0,1,2.0
+193,bakpau a satu mall of indonesia,https://food.grab.com/id/id/restaurant/bakpau-a-satu-mall-of-indonesia-delivery/6-CZKTTN4XVA4AAT?,Jakarta,4.8,1,15.0
+194,segafredo zanetti espresso kota kasablanka,https://food.grab.com/id/id/restaurant/segafredo-zanetti-espresso-kota-kasablanka-delivery/6-CZLXWGNCLRNWVX?,Jakarta,4.8,1,2.0
+195,benedict by the union group pacific place,https://food.grab.com/id/id/restaurant/benedict-by-the-union-group-pacific-place-delivery/IDGFSTI00003duc?,Jakarta,4.6,1,2.0
+196,honu poke matcha bar healthy bintaro the lapan,https://food.grab.com/id/id/restaurant/honu-poke-matcha-bar-healthy-bintaro-the-lapan-delivery/6-C2LZJCJHTYXTHA?,Jakarta,4.7,1,59.0
+197,meaters kamal muara,https://food.grab.com/id/id/restaurant/meaters-kamal-muara-delivery/6-C2BCJEJHFF2XAX?,Jakarta,4.7,1,60.0
+198,nubi springhill pademangan timur,https://food.grab.com/id/id/restaurant/nubi-springhill-pademangan-timur-delivery/6-CY63KF21SAA3JN?,Jakarta,,0,2.0
+199,pearl chinese restaurant jw marriott jakarta,https://food.grab.com/id/id/restaurant/pearl-chinese-restaurant-jw-marriott-jakarta-delivery/IDGFSTI0000210a?,Jakarta,,1,2.0
+200,meaters steak ribs specialist tegal alur,https://food.grab.com/id/id/restaurant/meaters-steak-ribs-specialist-tegal-alur-delivery/IDGFSTI000022yc?,Jakarta,,0,2.0
+201,gado gado dan lontong sayur pak madra e gambir,https://food.grab.com/id/id/restaurant/gado-gado-dan-lontong-sayur-pak-madra-e-gambir-delivery/6-C34KL3XXUBNTAA?,Jakarta,4.4,1,2.0
+202,nasi kulit mak judes tanah abang,https://food.grab.com/id/id/restaurant/nasi-kulit-mak-judes-tanah-abang-delivery/6-C3DBBANXJA3XL6?,Jakarta,4.4,1,2.0
+203,warung sate pak agus kebon melati,https://food.grab.com/id/id/restaurant/warung-sate-pak-agus-kebon-melati-delivery/6-CZMKLGJTSF4XGA?,Jakarta,4.7,1,32.0
+204,sate dan sop iga pak imron tanah abang,https://food.grab.com/id/id/restaurant/sate-dan-sop-iga-pak-imron-tanah-abang-delivery/6-C3A1WATCEFTFAX?,Jakarta,4.6,1,61.0
+205,sate ayam kambing suramad kebon sirih,https://food.grab.com/id/id/restaurant/sate-ayam-kambing-suramad-kebon-sirih-delivery/6-CZCFDFTBGCLYFA?,Jakarta,4.7,1,62.0
+206,sate madura roni lapola kebon kelapa,https://food.grab.com/id/id/restaurant/sate-madura-roni-lapola-kebon-kelapa-delivery/6-C2VKETJJUFKDG6?,Jakarta,4.8,1,32.0
+207,sate padang minang saiyo menteng,https://food.grab.com/id/id/restaurant/sate-padang-minang-saiyo-menteng-delivery/6-C22AJ6CGTU5ZSA?,Jakarta,4.8,1,63.0
+208,ayam goreng pecel ayam go kartini,https://food.grab.com/id/id/restaurant/ayam-goreng-pecel-ayam-go-kartini-delivery/6-C22EEE2HLACXG6?,Jakarta,4.4,1,2.0
+209,tongseng solo pak gendhut petojo utara,https://food.grab.com/id/id/restaurant/tongseng-solo-pak-gendhut-petojo-utara-delivery/6-CYNVBEUWR3MWA2?,Jakarta,4.6,1,2.0
+210,sate ayam yudi benhil bendungan hilir,https://food.grab.com/id/id/restaurant/sate-ayam-yudi-benhil-bendungan-hilir-delivery/6-C2BKGJDVBCNWEA?,Jakarta,4.7,1,64.0
+211,sate padang karisma pasar baru,https://food.grab.com/id/id/restaurant/sate-padang-karisma-pasar-baru-delivery/6-C23YET4XGJC1KE?,Jakarta,4.6,1,32.0
+212,sate ayam kambing theresia cideng,https://food.grab.com/id/id/restaurant/sate-ayam-kambing-theresia-cideng-delivery/6-CZLELCNBVEJFVX?,Jakarta,4.7,1,34.0
+213,sate lumayan tanah abang kebon sirih,https://food.grab.com/id/id/restaurant/sate-lumayan-tanah-abang-kebon-sirih-delivery/6-C2NTCAUVAXMUCJ?,Jakarta,5.0,1,2.0
+214,sate ayam ca lutfi senen,https://food.grab.com/id/id/restaurant/sate-ayam-ca-lutfi-senen-delivery/6-C2JWUCLZTT61SA?,Jakarta,4.0,1,32.0
+215,warkop 1899 st juanda kebon kelapa,https://food.grab.com/id/id/restaurant/warkop-1899-st-juanda-kebon-kelapa-delivery/6-CZKFJAJKPEB3C6?,Jakarta,4.5,1,32.0
+216,sate dan sop rafka jabun kebon melati,https://food.grab.com/id/id/restaurant/sate-dan-sop-rafka-jabun-kebon-melati-delivery/6-C2L2A33YFE3UGE?,Jakarta,4.6,1,32.0
+217,bebek meteor cak edo pegangsaan,https://food.grab.com/id/id/restaurant/bebek-meteor-cak-edo-pegangsaan-delivery/6-CZNHCACYREEEDE?,Jakarta,4.5,1,16.0
+218,sate ayam blora petojo utara,https://food.grab.com/id/id/restaurant/sate-ayam-blora-petojo-utara-delivery/6-CYW1LFCGGZNCL2?,Jakarta,4.7,1,9.0
+219,sate taican mabes madura senayan tanah abang,https://food.grab.com/id/id/restaurant/sate-taican-mabes-madura-senayan-tanah-abang-delivery/6-CY5DAF3UKE3BN6?,Jakarta,4.7,1,32.0
+220,sate padang didong kebon kacang,https://food.grab.com/id/id/restaurant/sate-padang-didong-kebon-kacang-delivery/IDGFSTI0000215q?,Jakarta,4.6,1,65.0
+221,serasa bali thamrin,https://food.grab.com/id/id/restaurant/serasa-bali-thamrin-delivery/6-C4AAREABGPEHKE?,Jakarta,4.9,1,2.0
+222,sate nasi goreng putri minang kota bambu selatan,https://food.grab.com/id/id/restaurant/sate-nasi-goreng-putri-minang-kota-bambu-selatan-delivery/6-C2ADWFJGJ32TRA?,Jakarta,4.6,1,66.0
+223,sate ahmad khas jawa timur arema tomang,https://food.grab.com/id/id/restaurant/sate-ahmad-khas-jawa-timur-arema-tomang-delivery/6-CZB1GZMUAYCVEN?,Jakarta,4.7,1,67.0
+224,sate ayam pak nur suramadu kota bambu selatan,https://food.grab.com/id/id/restaurant/sate-ayam-pak-nur-suramadu-kota-bambu-selatan-delivery/6-C22XEN2YJJJDRE?,Jakarta,4.6,1,68.0
+225,warung sate solo pak dodi duri pulo,https://food.grab.com/id/id/restaurant/warung-sate-solo-pak-dodi-duri-pulo-delivery/6-CZNECNAUDFXTSE?,Jakarta,4.7,1,9.0
+226,sate padang salero basamo duri pulo,https://food.grab.com/id/id/restaurant/sate-padang-salero-basamo-duri-pulo-delivery/6-C2LARP5GJ2MEVN?,Jakarta,4.7,1,69.0
+227,nasi jagal gondangdia kebon sirih,https://food.grab.com/id/id/restaurant/nasi-jagal-gondangdia-kebon-sirih-delivery/6-C2BHJB2CNT5CSA?,Jakarta,4.7,1,2.0
+228,nasi goreng kambing h salim kebon sirih kebon sirih,https://food.grab.com/id/id/restaurant/nasi-goreng-kambing-h-salim-kebon-sirih-kebon-sirih-delivery/6-CZLGKFNYNPUWSE?,Jakarta,4.6,1,70.0
+229,sate maranggi dan soto khas madura kebon melati,https://food.grab.com/id/id/restaurant/sate-maranggi-dan-soto-khas-madura-kebon-melati-delivery/6-C3NVJJBELJNYCA?,Jakarta,4.7,1,71.0
+230,sate padang aji oji jl veteran2 gambir,https://food.grab.com/id/id/restaurant/sate-padang-aji-oji-jl-veteran2-gambir-delivery/6-C25HTNVHGJNYVX?,Jakarta,4.8,1,2.0
+231,warung sate mas amin cabang sate dinas sosial kebon kosong,https://food.grab.com/id/id/restaurant/warung-sate-mas-amin-cabang-sate-dinas-sosial-kebon-kosong-delivery/6-C2EFEBE1CTNVTA?,Jakarta,4.6,1,48.0
+232,ayam bakar pak heri kebon kacang,https://food.grab.com/id/id/restaurant/ayam-bakar-pak-heri-kebon-kacang-delivery/6-C2WZE6AHMALGT6?,Jakarta,3.9,1,45.0
+233,sate ayam dan ayam bakar pak heri kebon kacang,https://food.grab.com/id/id/restaurant/sate-ayam-dan-ayam-bakar-pak-heri-kebon-kacang-delivery/6-C2UCFBB3WE5ATN?,Jakarta,3.9,1,48.0
+234,sate cak ahmad maphar,https://food.grab.com/id/id/restaurant/sate-cak-ahmad-maphar-delivery/6-C2D2J32KAEJANA?,Jakarta,4.8,1,2.0
+235,warung sate solo pak min kota bambu utara,https://food.grab.com/id/id/restaurant/warung-sate-solo-pak-min-kota-bambu-utara-delivery/6-CZLHUE6WJBMAAT?,Jakarta,4.4,1,57.0
+236,warung sate fauzi bend hilir,https://food.grab.com/id/id/restaurant/warung-sate-fauzi-bend-hilir-delivery/6-CZMWWA33PELVC6?,Jakarta,4.2,1,65.0
+237,sate taichan mbk fia petamburan,https://food.grab.com/id/id/restaurant/sate-taichan-mbk-fia-petamburan-delivery/6-C2BCKF4HGXLWCA?,Jakarta,4.5,1,2.0
+238,warung sate solo pak dadi gunung sahari selatan,https://food.grab.com/id/id/restaurant/warung-sate-solo-pak-dadi-gunung-sahari-selatan-delivery/6-C3NGJUAEG8NACE?,Jakarta,5.0,1,9.0
+239,ayam bakar ikan bakar warung makan mega jaya duri pulo,https://food.grab.com/id/id/restaurant/ayam-bakar-ikan-bakar-warung-makan-mega-jaya-duri-pulo-delivery/6-CYV3LKA1LBMYC6?,Jakarta,4.6,1,72.0
+240,sate madura pak subur cikini,https://food.grab.com/id/id/restaurant/sate-madura-pak-subur-cikini-delivery/6-C2THDE3ZUEUXDA?,Jakarta,4.8,1,4.0
+241,sate ayam kambing theresia gondangdia,https://food.grab.com/id/id/restaurant/sate-ayam-kambing-theresia-gondangdia-delivery/6-C33XAK6VAKNCN2?,Jakarta,4.6,1,36.0
+242,warung sate solo pak bejo tanah sereal,https://food.grab.com/id/id/restaurant/warung-sate-solo-pak-bejo-tanah-sereal-delivery/AWhL99M8LieWGVhxyJfl?,Jakarta,4.0,1,47.0
+243,sate madura galaxy krukut,https://food.grab.com/id/id/restaurant/sate-madura-galaxy-krukut-delivery/6-C3EUENTDMF5KEX?,Jakarta,4.7,1,2.0
+244,sate seafood senayan tanah abang,https://food.grab.com/id/id/restaurant/sate-seafood-senayan-tanah-abang-delivery/IDGFSTI000004sz?,Jakarta,4.8,1,63.0
+245,sate soto sop iga bang nair mpok siti kota bambu selatan,https://food.grab.com/id/id/restaurant/sate-soto-sop-iga-bang-nair-mpok-siti-kota-bambu-selatan-delivery/6-CZLHHANCBFKVT6?,Jakarta,4.6,1,10.0
+246,warung tongseng sate solo bu putri tanah abang,https://food.grab.com/id/id/restaurant/warung-tongseng-sate-solo-bu-putri-tanah-abang-delivery/IDGFSTI000005pw?,Jakarta,4.6,1,73.0
+247,kuliner theresia gondangdia,https://food.grab.com/id/id/restaurant/kuliner-theresia-gondangdia-delivery/IDGFSTI00002w9f?,Jakarta,4.6,1,2.0
+248,sate padang salero minang kramat,https://food.grab.com/id/id/restaurant/sate-padang-salero-minang-kramat-delivery/6-CZNJJYUCTB33LT?,Jakarta,4.6,1,32.0
+249,dis is taichan kebon kacang,https://food.grab.com/id/id/restaurant/dis-is-taichan-kebon-kacang-delivery/6-CY6VPAX3NA3HCN?,Jakarta,4.6,1,74.0
+250,bubur ayam parkiran gondangdia,https://food.grab.com/id/id/restaurant/bubur-ayam-parkiran-gondangdia-delivery/IDGFSTI00001siu?,Jakarta,4.6,1,75.0
+251,sate ayam dan kambing madura senen,https://food.grab.com/id/id/restaurant/sate-ayam-dan-kambing-madura-senen-delivery/6-C3BTE7DUG6MKRA?,Jakarta,,1,57.0
+252,warung sate solo pak yanto kramat sentiong,https://food.grab.com/id/id/restaurant/warung-sate-solo-pak-yanto-kramat-sentiong-delivery/IDGFSTI00001xth?,Jakarta,4.4,1,2.0
+253,sate taichan terjoss taman sari,https://food.grab.com/id/id/restaurant/sate-taichan-terjoss-taman-sari-delivery/6-C35KLVKAJPNEGT?,Jakarta,,0,2.0
+254,sate taichan bang maman sawah besar,https://food.grab.com/id/id/restaurant/sate-taichan-bang-maman-sawah-besar-delivery/6-CZKJSBEBEK3VLT?,Jakarta,4.7,1,2.0
+255,tongseng sate kambing pak agus mentenng,https://food.grab.com/id/id/restaurant/tongseng-sate-kambing-pak-agus-mentenng-delivery/6-CY4VAF2WAA6ZE6?,Jakarta,4.7,1,2.0
+256,ayam bakar rembiga khas lombok 818 tanah tinggi,https://food.grab.com/id/id/restaurant/ayam-bakar-rembiga-khas-lombok-818-tanah-tinggi-delivery/6-C2WZE64YEEB1V2?,Jakarta,4.6,1,27.0
+257,sate madura cak hasan kebon kelapa,https://food.grab.com/id/id/restaurant/sate-madura-cak-hasan-kebon-kelapa-delivery/6-C3LFGFAEPFTUCT?,Jakarta,4.7,1,76.0
+258,soto ayam selan semarang pintu air,https://food.grab.com/id/id/restaurant/soto-ayam-selan-semarang-pintu-air-delivery/IDGFSTI00000ayi?,Jakarta,4.6,1,2.0
+259,sate dan ayam bakar suramadu kota bambu selatan,https://food.grab.com/id/id/restaurant/sate-dan-ayam-bakar-suramadu-kota-bambu-selatan-delivery/6-C2VVJCKZVEMUSA?,Jakarta,4.6,1,77.0
+260,sate ayam pak heri asli kebon kacang,https://food.grab.com/id/id/restaurant/sate-ayam-pak-heri-asli-kebon-kacang-delivery/6-C2TYTUMDA22HJJ?,Jakarta,3.7,1,45.0
+261,sate soto sop gado gado h muhamad kota bambu selatan,https://food.grab.com/id/id/restaurant/sate-soto-sop-gado-gado-h-muhamad-kota-bambu-selatan-delivery/6-C2BFN4MYCE5WLX?,Jakarta,4.6,1,2.0
+262,sate kambing jaya agung kebon sirih,https://food.grab.com/id/id/restaurant/sate-kambing-jaya-agung-kebon-sirih-delivery/6-CZLYNKBKAE6KCN?,Jakarta,4.5,1,47.0
+263,dis is taichan mangga besar,https://food.grab.com/id/id/restaurant/dis-is-taichan-mangga-besar-delivery/6-CY5HMA2VVJCCNE?,Jakarta,4.6,1,73.0
+264,soto ayam sate kambing sate ayam kebon sirih,https://food.grab.com/id/id/restaurant/soto-ayam-sate-kambing-sate-ayam-kebon-sirih-delivery/6-C2VXABJJV7XTDE?,Jakarta,4.9,1,2.0
+265,nasi goreng legend krukut,https://food.grab.com/id/id/restaurant/nasi-goreng-legend-krukut-delivery/6-C2UYRNLVHAJEBE?,Jakarta,4.8,1,31.0
+266,nasi goreng sibungsu kebon sirih,https://food.grab.com/id/id/restaurant/nasi-goreng-sibungsu-kebon-sirih-delivery/6-C2BFWETBBCNDTN?,Jakarta,4.4,1,32.0
+267,dimsum endut kwitang,https://food.grab.com/id/id/restaurant/dimsum-endut-kwitang-delivery/6-C22WGZBHFCLZRA?,Jakarta,4.9,1,2.0
+268,chinese food 90 kemayoran,https://food.grab.com/id/id/restaurant/chinese-food-90-kemayoran-delivery/AWhbPc4Bkk5cOZVWu3fg?,Jakarta,4.3,1,78.0
+269,nasi goreng seafood 24 dan chinese food halal kebon kacang,https://food.grab.com/id/id/restaurant/nasi-goreng-seafood-24-dan-chinese-food-halal-kebon-kacang-delivery/6-C2VDNLBYVXMJLT?,Jakarta,4.3,1,79.0
+270,pondok sibungsu kh wahid hasyim,https://food.grab.com/id/id/restaurant/pondok-sibungsu-kh-wahid-hasyim-delivery/6-CY5WKEKGCEMGUE?,Jakarta,4.5,1,32.0
+271,sego goreng merakyattt slipi,https://food.grab.com/id/id/restaurant/sego-goreng-merakyattt-slipi-delivery/6-C2LVAGBDT7CXNA?,Jakarta,4.7,1,73.0
+272,siomay batagor sakaruhun karet tengsin,https://food.grab.com/id/id/restaurant/siomay-batagor-sakaruhun-karet-tengsin-delivery/6-C2K3SCJJLXTZVJ?,Jakarta,4.8,1,77.0
+273,toedjoeh naga paseban,https://food.grab.com/id/id/restaurant/toedjoeh-naga-paseban-delivery/6-C3D2LPAHEXXHRA?,Jakarta,4.7,1,10.0
+274,mixue mangga besar,https://food.grab.com/id/id/restaurant/mixue-mangga-besar-delivery/6-C3XDAXMAE6V2NE?,Jakarta,4.9,1,2.0
+275,kwetiaw sapi 78 mangga besar mangga besar,https://food.grab.com/id/id/restaurant/kwetiaw-sapi-78-mangga-besar-mangga-besar-delivery/IDGFSTI00000wdm?,Jakarta,4.7,1,11.0
+276,lim thiam kie petojo selatan,https://food.grab.com/id/id/restaurant/lim-thiam-kie-petojo-selatan-delivery/IDGFSTI00001538?,Jakarta,4.6,1,2.0
+277,bakmi jempol chinese food kebon kacang,https://food.grab.com/id/id/restaurant/bakmi-jempol-chinese-food-kebon-kacang-delivery/IDGFSTI0000031k?,Jakarta,4.7,1,2.0
+278,ayam goreng petojo gambir,https://food.grab.com/id/id/restaurant/ayam-goreng-petojo-gambir-delivery/IDGFSTI000004og?,Jakarta,4.7,1,2.0
+279,roast pork jack john babi kriuk thamrin,https://food.grab.com/id/id/restaurant/roast-pork-jack-john-babi-kriuk-thamrin-delivery/6-C36VTA2VCATFA6?,Jakarta,4.4,1,15.0
+280,demie menteng,https://food.grab.com/id/id/restaurant/demie-menteng-delivery/6-C2DWLKLTPCABVE?,Jakarta,4.8,1,16.0
+281,d cost petojo gambir,https://food.grab.com/id/id/restaurant/d-cost-petojo-gambir-delivery/6-C3BVSACYGT4FGN?,Jakarta,4.7,1,15.0
+282,kwetiau medan yongky tanjung duren selatan,https://food.grab.com/id/id/restaurant/kwetiau-medan-yongky-tanjung-duren-selatan-delivery/IDGFSTI00001zeh?,Jakarta,4.6,1,47.0
+283,mie kwetiau seafood medan kebon melati,https://food.grab.com/id/id/restaurant/mie-kwetiau-seafood-medan-kebon-melati-delivery/6-CZMAVAMDR26DDA?,Jakarta,4.6,1,80.0
+284,tung s cafe cakwe bok cui pasar baru,https://food.grab.com/id/id/restaurant/tung-s-cafe-cakwe-bok-cui-pasar-baru-delivery/IDGFSTI00000wac?,Jakarta,4.7,1,2.0
+285,bakmi agoan hasyim ashari,https://food.grab.com/id/id/restaurant/bakmi-agoan-hasyim-ashari-delivery/IDGFSTI000000be?,Jakarta,,0,2.0
+286,hsc hongkong style cooking grogol petamburan,https://food.grab.com/id/id/restaurant/hsc-hongkong-style-cooking-grogol-petamburan-delivery/6-CZN2ALKBGUDJN6?,Jakarta,4.8,1,2.0
+287,fajar express hainan chicken mgk mall,https://food.grab.com/id/id/restaurant/fajar-express-hainan-chicken-mgk-mall-delivery/IDGFSTI0000099d?,Jakarta,4.7,1,2.0
+288,rumah makan san san duri utara,https://food.grab.com/id/id/restaurant/rumah-makan-san-san-duri-utara-delivery/6-C2XBFE4ETBTYA2?,Jakarta,4.8,1,2.0
+289,xiang wei chef karet,https://food.grab.com/id/id/restaurant/xiang-wei-chef-karet-delivery/6-C3EHCP6YE7B3JN?,Jakarta,3.8,1,81.0
+290,bakmi naga resto mall plaza atrium,https://food.grab.com/id/id/restaurant/bakmi-naga-resto-mall-plaza-atrium-delivery/IDGFSTI000025m6?,Jakarta,4.5,1,2.0
+291,pondok raos setiabudi,https://food.grab.com/id/id/restaurant/pondok-raos-setiabudi-delivery/IDGFSTI00002yb4?,Jakarta,4.8,1,2.0
+292,restaurant cahaya setiabudi 786 setiabudi,https://food.grab.com/id/id/restaurant/restaurant-cahaya-setiabudi-786-setiabudi-delivery/IDGFSTI0000071a?,Jakarta,4.7,1,2.0
+293,nasi goreng menter mangga besar,https://food.grab.com/id/id/restaurant/nasi-goreng-menter-mangga-besar-delivery/6-C3EBGNMUGCLGTX?,Jakarta,4.8,1,2.0
+294,fuk kee nasi ayam hainam pasar baru,https://food.grab.com/id/id/restaurant/fuk-kee-nasi-ayam-hainam-pasar-baru-delivery/6-C3K2VYACC3BAWE?,Jakarta,4.7,1,2.0
+295,nasi goreng asap by asap group setiabudi,https://food.grab.com/id/id/restaurant/nasi-goreng-asap-by-asap-group-setiabudi-delivery/IDGFSTI00000cob?,Jakarta,4.6,1,82.0
+296,seafood aroma laut dan chinese food pasar baru,https://food.grab.com/id/id/restaurant/seafood-aroma-laut-dan-chinese-food-pasar-baru-delivery/6-CY21FABVJ26HBE?,Jakarta,4.7,1,9.0
+297,bakmi salemba 43 bungur,https://food.grab.com/id/id/restaurant/bakmi-salemba-43-bungur-delivery/IDGFSTI000009va?,Jakarta,4.8,1,2.0
+298,dimsum hagie kebon kacang,https://food.grab.com/id/id/restaurant/dimsum-hagie-kebon-kacang-delivery/6-C2V1EAWKGGD3WE?,Jakarta,4.9,1,83.0
+299,imperial kitchen dimsum plaza atrium,https://food.grab.com/id/id/restaurant/imperial-kitchen-dimsum-plaza-atrium-delivery/IDGFSTI00001mse?,Jakarta,4.7,1,2.0
+300,dimsum arsyif st sudirman menteng,https://food.grab.com/id/id/restaurant/dimsum-arsyif-st-sudirman-menteng-delivery/6-C24ETAK1AEUTJE?,Jakarta,4.9,1,2.0
+301,dimsumx gambir,https://food.grab.com/id/id/restaurant/dimsumx-gambir-delivery/6-C25JNXLTLTCVJX?,Jakarta,4.8,1,2.0
+302,bakmi afu pek cham kee petojo selatan,https://food.grab.com/id/id/restaurant/bakmi-afu-pek-cham-kee-petojo-selatan-delivery/6-CZBBATCVAY5VRJ?,Jakarta,4.6,1,2.0
+303,madam sichuan citywalk sudirman,https://food.grab.com/id/id/restaurant/madam-sichuan-citywalk-sudirman-delivery/6-C2VBRF6YG8JKR2?,Jakarta,4.5,1,2.0
+304,nasi gorengteduh seafood capcay mie gelora,https://food.grab.com/id/id/restaurant/nasi-gorengteduh-seafood-capcay-mie-gelora-delivery/6-C3LJJRB1L4NBTN?,Jakarta,4.2,1,32.0
+305,pondok reagan senen,https://food.grab.com/id/id/restaurant/pondok-reagan-senen-delivery/6-CYLFGLAGNFLYSA?,Jakarta,4.4,1,32.0
+306,nasi campur kenanga pecenongan kebon kelapa,https://food.grab.com/id/id/restaurant/nasi-campur-kenanga-pecenongan-kebon-kelapa-delivery/6-CYNHR7JHTAXYCX?,Jakarta,4.7,1,2.0
+307,roti srikaya bakpao achin tambora,https://food.grab.com/id/id/restaurant/roti-srikaya-bakpao-achin-tambora-delivery/6-CY31EEXHAJTGCN?,Jakarta,4.8,1,84.0
+308,swikee purwodadi gloris mangga besar,https://food.grab.com/id/id/restaurant/swikee-purwodadi-gloris-mangga-besar-delivery/6-CZKVFA4UUFBTRE?,Jakarta,4.7,1,2.0
+309,samcan goreng epenk sampoerna strategic square,https://food.grab.com/id/id/restaurant/samcan-goreng-epenk-sampoerna-strategic-square-delivery/6-C3NCTGD2JGDZG6?,Jakarta,4.7,1,2.0
+310,kuetiauw sapi a ciap mangga besar,https://food.grab.com/id/id/restaurant/kuetiauw-sapi-a-ciap-mangga-besar-delivery/6-C2LHNVJHTGDACT?,Jakarta,4.8,1,85.0
+311,mie ayam nasi goreng bakmi hakka 88 karang anyar,https://food.grab.com/id/id/restaurant/mie-ayam-nasi-goreng-bakmi-hakka-88-karang-anyar-delivery/6-CZL3VE4XLXTFGX?,Jakarta,4.5,1,49.0
+312,wingheng hongkong dimsum %E6%B0%B8%E5%85%B4 tanjung duren,https://food.grab.com/id/id/restaurant/wingheng-hongkong-dimsum-%E6%B0%B8%E5%85%B4-tanjung-duren-delivery/6-C3BFRVNWNTXJJT?,Jakarta,4.7,1,32.0
+313,gitu deh seafood karet tengsin,https://food.grab.com/id/id/restaurant/gitu-deh-seafood-karet-tengsin-delivery/6-C2LDKBMFMBM3EJ?,Jakarta,4.6,1,44.0
+314,peanut garden frozen food kebon kacang,https://food.grab.com/id/id/restaurant/peanut-garden-frozen-food-kebon-kacang-delivery/6-C2UUHBNTLB33RA?,Jakarta,4.7,1,32.0
+315,bakmi limatuju karet kuningan,https://food.grab.com/id/id/restaurant/bakmi-limatuju-karet-kuningan-delivery/6-CY5XHECBTAXDHE?,Jakarta,4.7,1,2.0
+316,bakmi nasi tim sinar boentjit jembatan lima,https://food.grab.com/id/id/restaurant/bakmi-nasi-tim-sinar-boentjit-jembatan-lima-delivery/6-CZAWFCKYBB2FE6?,Jakarta,4.8,1,86.0
+317,central restaurant %E4%B8%AD%E5%A4%AE%E6%A2%81%E5%AE%B6%E5%8E%A8 mangga besar,https://food.grab.com/id/id/restaurant/central-restaurant-%E4%B8%AD%E5%A4%AE%E6%A2%81%E5%AE%B6%E5%8E%A8-mangga-besar-delivery/AWhHhUVNLieWGVhx2ZWG?,Jakarta,4.8,1,2.0
+318,rumah makan simpati 101 maphar,https://food.grab.com/id/id/restaurant/rumah-makan-simpati-101-maphar-delivery/6-CYUDGX5XEE6DFA?,Jakarta,4.7,1,87.0
+319,kamseng restaurant mangga besar,https://food.grab.com/id/id/restaurant/kamseng-restaurant-mangga-besar-delivery/IDGFSTI00001ztd?,Jakarta,4.6,1,45.0
+320,sui sen pasar baru,https://food.grab.com/id/id/restaurant/sui-sen-pasar-baru-delivery/IDGFSTI00002o8p?,Jakarta,4.6,1,2.0
+321,lamian palace grand indonesia,https://food.grab.com/id/id/restaurant/lamian-palace-grand-indonesia-delivery/6-CYLHCUX3AJLWGT?,Jakarta,4.7,1,2.0
+322,kuotie shantung 77 mangga besar,https://food.grab.com/id/id/restaurant/kuotie-shantung-77-mangga-besar-delivery/6-C2DDAU23AYAYTX?,Jakarta,4.8,1,88.0
+323,henis mangga besar,https://food.grab.com/id/id/restaurant/henis-mangga-besar-delivery/IDGFSTI000033br?,Jakarta,4.8,1,2.0
+324,rm doel hopeng lama pejagalan,https://food.grab.com/id/id/restaurant/rm-doel-hopeng-lama-pejagalan-delivery/6-CYLGVTNGTFXZDA?,Jakarta,4.8,1,9.0
+325,nasi kuning xing xing krendang,https://food.grab.com/id/id/restaurant/nasi-kuning-xing-xing-krendang-delivery/6-C3AFV72FEY2GN6?,Jakarta,4.5,1,2.0
+326,moy kong pasar baru,https://food.grab.com/id/id/restaurant/moy-kong-pasar-baru-delivery/6-CY63HB6UV3LWAA?,Jakarta,4.6,1,79.0
+327,bakmie congsim medan pasar rame mangga besar,https://food.grab.com/id/id/restaurant/bakmie-congsim-medan-pasar-rame-mangga-besar-delivery/IDGFSTI00001y83?,Jakarta,4.7,1,89.0
+328,rumah makan pa nam kramat,https://food.grab.com/id/id/restaurant/rumah-makan-pa-nam-kramat-delivery/6-C34ZPFTVTNE1NA?,Jakarta,5.0,1,2.0
+329,nasi padang sederhana jaya duri selatan,https://food.grab.com/id/id/restaurant/nasi-padang-sederhana-jaya-duri-selatan-delivery/6-C322ATWYTZAJLJ?,Jakarta,4.7,1,73.0
+330,sambal bakar indonesia grogol,https://food.grab.com/id/id/restaurant/sambal-bakar-indonesia-grogol-delivery/6-C3XZT23AVXDUNJ?,Jakarta,4.2,1,9.0
+331,ketoprak telor kuliner budi kemuliaan gambir,https://food.grab.com/id/id/restaurant/ketoprak-telor-kuliner-budi-kemuliaan-gambir-delivery/6-C2XTCTDCUEWACA?,Jakarta,4.7,1,2.0
+332,nasi uduk ayam tulang lunak waroeng pak eddy kebon sirih,https://food.grab.com/id/id/restaurant/nasi-uduk-ayam-tulang-lunak-waroeng-pak-eddy-kebon-sirih-delivery/6-C26VCFLXJVCEN6?,Jakarta,4.7,1,2.0
+333,ayam gepuk pak gembus bsm kuliner,https://food.grab.com/id/id/restaurant/ayam-gepuk-pak-gembus-bsm-kuliner-delivery/IDGFSTI00001laq?,Jakarta,4.5,1,2.0
+334,sei sapi wagyu sekotak sapi tanah abang petojo selatan,https://food.grab.com/id/id/restaurant/sei-sapi-wagyu-sekotak-sapi-tanah-abang-petojo-selatan-delivery/6-C3TCTZKHAGJFJN?,Jakarta,4.7,1,2.0
+335,nasi padang mini jaya kebon sirih,https://food.grab.com/id/id/restaurant/nasi-padang-mini-jaya-kebon-sirih-delivery/6-C3LWTJCHACEXCT?,Jakarta,4.7,1,16.0
+336,ayam geprek gold chick keagungan,https://food.grab.com/id/id/restaurant/ayam-geprek-gold-chick-keagungan-delivery/6-C3M3L4MVVYCTJX?,Jakarta,4.0,1,32.0
+337,nasi padang sederhana minang gambir,https://food.grab.com/id/id/restaurant/nasi-padang-sederhana-minang-gambir-delivery/6-C3LBN6DYLE4AR6?,Jakarta,4.5,1,16.0
+338,ayam bakar madu bu tuti grogol,https://food.grab.com/id/id/restaurant/ayam-bakar-madu-bu-tuti-grogol-delivery/6-C3VYRCNXKGNETX?,Jakarta,4.6,1,32.0
+339,burger bros menteng,https://food.grab.com/id/id/restaurant/burger-bros-menteng-delivery/6-C3TJEXCUJ6C1BA?,Jakarta,4.8,1,34.0
+340,nasi goreng seafood bos rt kebon sirih,https://food.grab.com/id/id/restaurant/nasi-goreng-seafood-bos-rt-kebon-sirih-delivery/6-C3UTLUMFAXN1RX?,Jakarta,4.3,1,32.0
+341,bubur ayam h hadi kebon sirih,https://food.grab.com/id/id/restaurant/bubur-ayam-h-hadi-kebon-sirih-delivery/6-CZDJGEJKV3BHVA?,Jakarta,4.7,1,2.0
+342,onde onde gurih dadakan petojo selatan,https://food.grab.com/id/id/restaurant/onde-onde-gurih-dadakan-petojo-selatan-delivery/6-C3CKG7NKNF4ELJ?,Jakarta,4.5,1,2.0
+343,ayam geprek kambal kampung bali,https://food.grab.com/id/id/restaurant/ayam-geprek-kambal-kampung-bali-delivery/6-C3U1FFLWTAL2LN?,Jakarta,4.7,1,2.0
+344,pondok sibungsu kh wahid hasyim,https://food.grab.com/id/id/restaurant/pondok-sibungsu-kh-wahid-hasyim-delivery/6-CY5WKEKGCEMGUE?,Jakarta,4.5,1,32.0
+345,sisapi beefbowl menteng,https://food.grab.com/id/id/restaurant/sisapi-beefbowl-menteng-delivery/6-C26BTLCDBBBYEN?,Jakarta,4.6,1,2.0
+346,ngedagging pasar baru,https://food.grab.com/id/id/restaurant/ngedagging-pasar-baru-delivery/6-C2LCGY2JA2UACX?,Jakarta,4.7,1,2.0
+347,mie ayam teh is senen,https://food.grab.com/id/id/restaurant/mie-ayam-teh-is-senen-delivery/6-C26FJ232TY6EVA?,Jakarta,4.8,1,2.0
+348,dcrepes sarinah,https://food.grab.com/id/id/restaurant/dcrepes-sarinah-delivery/6-C3CCAFWWPGLYLN?,Jakarta,4.8,1,3.0
+349,roti bakar bandung edds robaba kebon sirih,https://food.grab.com/id/id/restaurant/roti-bakar-bandung-edds-robaba-kebon-sirih-delivery/6-C3CYCN6ALX2TJX?,Jakarta,,0,2.0
+350,sederhana sabang kebon sirih,https://food.grab.com/id/id/restaurant/sederhana-sabang-kebon-sirih-delivery/6-C3TGEBBBPFVYL6?,Jakarta,4.4,1,2.0
+351,pisang goreng madu pasti menteng,https://food.grab.com/id/id/restaurant/pisang-goreng-madu-pasti-menteng-delivery/6-C3NTWF6TJEUKVX?,Jakarta,4.7,1,2.0
+352,nasi goreng kambing kebon sirih pasar nusantara sarinah,https://food.grab.com/id/id/restaurant/nasi-goreng-kambing-kebon-sirih-pasar-nusantara-sarinah-delivery/6-C3VJNX4XGKEXSE?,Jakarta,4.9,1,2.0
+353,gamchi potato cheese bread thamrin,https://food.grab.com/id/id/restaurant/gamchi-potato-cheese-bread-thamrin-delivery/6-C4B1VVBXN3T3LJ?,Jakarta,4.7,1,2.0
+354,bittersweet by najla kebon kelapa,https://food.grab.com/id/id/restaurant/bittersweet-by-najla-kebon-kelapa-delivery/6-C3CEN7JBSBTFJT?,Jakarta,4.9,1,6.0
+355,mango jelly milk thamrin 10 kebon sirih,https://food.grab.com/id/id/restaurant/mango-jelly-milk-thamrin-10-kebon-sirih-delivery/6-C34ENADXBELYSA?,Jakarta,4.7,1,90.0
+356,martabak pecenongan 78 pecenongan,https://food.grab.com/id/id/restaurant/martabak-pecenongan-78-pecenongan-delivery/6-CZDHMCD3LRKZWA?,Jakarta,4.8,1,29.0
+357,siomay enaaak by riva tanah sereal,https://food.grab.com/id/id/restaurant/siomay-enaaak-by-riva-tanah-sereal-delivery/6-C3WEANUKJY6DTE?,Jakarta,4.8,1,2.0
+358,nasi timbel gurame bakar putri ayu petojo selatan,https://food.grab.com/id/id/restaurant/nasi-timbel-gurame-bakar-putri-ayu-petojo-selatan-delivery/6-C2BUN3LYVE22VT?,Jakarta,4.4,1,23.0
+359,sate padang sawah besar,https://food.grab.com/id/id/restaurant/sate-padang-sawah-besar-delivery/6-C3AHLTLTRN61TE?,Jakarta,4.4,1,91.0
+360,nasi bakar nabox tanah abang,https://food.grab.com/id/id/restaurant/nasi-bakar-nabox-tanah-abang-delivery/6-C34ULVCBDBLJVA?,Jakarta,4.7,1,2.0
+361,filosofi kopi sarinah,https://food.grab.com/id/id/restaurant/filosofi-kopi-sarinah-delivery/6-C34FGB3BPA5TFE?,Jakarta,4.6,1,39.0
+362,mr ollie sarinah,https://food.grab.com/id/id/restaurant/mr-ollie-sarinah-delivery/6-C32XL7UTHFDFAJ?,Jakarta,4.9,1,2.0
+363,bruule sarinah,https://food.grab.com/id/id/restaurant/bruule-sarinah-delivery/6-C3XFTBMGMEAWT6?,Jakarta,4.9,1,15.0
+364,d cost petojo gambir,https://food.grab.com/id/id/restaurant/d-cost-petojo-gambir-delivery/6-C3BVSACYGT4FGN?,Jakarta,4.7,1,15.0
+365,geprek bensu tanah abang,https://food.grab.com/id/id/restaurant/geprek-bensu-tanah-abang-delivery/IDGFSTI00002yg4?,Jakarta,4.5,1,2.0
+366,martabak pizza orins gondangdia,https://food.grab.com/id/id/restaurant/martabak-pizza-orins-gondangdia-delivery/IDGFSTI000036eo?,Jakarta,4.8,1,9.0
+367,endoq telur gulung cilok pedas petojo selatan,https://food.grab.com/id/id/restaurant/endoq-telur-gulung-cilok-pedas-petojo-selatan-delivery/6-C3DHC3VHGXEACN?,Jakarta,4.5,1,2.0
+368,salad hut menteng,https://food.grab.com/id/id/restaurant/salad-hut-menteng-delivery/6-C35JUBTWWA2KJN?,Jakarta,4.8,1,2.0
+369,sari sari jajan pasar gedung sarinah,https://food.grab.com/id/id/restaurant/sari-sari-jajan-pasar-gedung-sarinah-delivery/6-C3VYR2VXVB3CN6?,Jakarta,4.8,1,2.0
+370,soto tangkar daging asap babe tito menteng,https://food.grab.com/id/id/restaurant/soto-tangkar-daging-asap-babe-tito-menteng-delivery/6-C36TC7N1V3WVJ2?,Jakarta,4.7,1,2.0
+371,nasi ayam ori menteng,https://food.grab.com/id/id/restaurant/nasi-ayam-ori-menteng-delivery/6-C4BGR3BURB2VDA?,Jakarta,4.6,1,9.0
+372,maranello by spoonify petojo utara,https://food.grab.com/id/id/restaurant/maranello-by-spoonify-petojo-utara-delivery/6-C3NBGXWDVNCDBE?,Jakarta,4.8,1,92.0
+373,tomoro coffee sabang,https://food.grab.com/id/id/restaurant/tomoro-coffee-sabang-delivery/6-C3U3GLKBFAAVBA?,Jakarta,4.9,1,2.0
+374,ketoprak telor bu aisyah kebon sirih,https://food.grab.com/id/id/restaurant/ketoprak-telor-bu-aisyah-kebon-sirih-delivery/6-C4BZWCD1VUVGC2?,Jakarta,4.7,1,2.0
+375,nyambel rampai geh tanjung duren,https://food.grab.com/id/id/restaurant/nyambel-rampai-geh-tanjung-duren-delivery/6-C3LBPGAKUBTJDE?,Jakarta,4.7,1,9.0
+376,grainsly tj duren,https://food.grab.com/id/id/restaurant/grainsly-tj-duren-delivery/6-C3A3A8JFJ4K3EN?,Jakarta,4.7,1,2.0
+377,seblak smaput palmerah,https://food.grab.com/id/id/restaurant/seblak-smaput-palmerah-delivery/6-C3DXGVCCACD1JA?,Jakarta,4.6,1,53.0
+378,lekker story petamburan,https://food.grab.com/id/id/restaurant/lekker-story-petamburan-delivery/6-C3WHARM3DFWBRN?,Jakarta,4.8,1,93.0
+379,samalam rayya gambir,https://food.grab.com/id/id/restaurant/samalam-rayya-gambir-delivery/6-C3KBLPNVMACKEN?,Jakarta,4.5,1,2.0
+380,fingers butter rice petojo,https://food.grab.com/id/id/restaurant/fingers-butter-rice-petojo-delivery/6-C3AHL72YG3MANT?,Jakarta,4.9,1,2.0
+381,nasi bakar nusantara palmerah,https://food.grab.com/id/id/restaurant/nasi-bakar-nusantara-palmerah-delivery/6-C3KHTE5WGVEJC6?,Jakarta,4.8,1,9.0
+382,gado gado boplo pasar nusantara sarinah,https://food.grab.com/id/id/restaurant/gado-gado-boplo-pasar-nusantara-sarinah-delivery/6-C3VJNX4XJPBCWE?,Jakarta,4.7,1,2.0
+383,es teler 77 sarinah,https://food.grab.com/id/id/restaurant/es-teler-77-sarinah-delivery/6-C32KV36ZCJ2JTX?,Jakarta,4.7,1,2.0
+384,donbobo menteng,https://food.grab.com/id/id/restaurant/donbobo-menteng-delivery/6-C3L3VVLAVK4GHE?,Jakarta,4.7,1,2.0
+385,ayam bakar wong tegal tanjung duren selatan,https://food.grab.com/id/id/restaurant/ayam-bakar-wong-tegal-tanjung-duren-selatan-delivery/6-C3BFJTMWRAUZHA?,Jakarta,4.6,1,63.0
+386,nasi padang cinto bundo petamburan,https://food.grab.com/id/id/restaurant/nasi-padang-cinto-bundo-petamburan-delivery/6-C4ABTXKTFA42JA?,Jakarta,4.9,1,19.0
+387,pop wine wahid hasyim,https://food.grab.com/id/id/restaurant/pop-wine-wahid-hasyim-delivery/6-C3KARXXDRB6BAE?,Jakarta,4.7,1,9.0
+388,nasi jagal gondangdia kebon sirih,https://food.grab.com/id/id/restaurant/nasi-jagal-gondangdia-kebon-sirih-delivery/6-C2BHJB2CNT5CSA?,Jakarta,4.7,1,2.0
+389,ayam goreng bakar aulia senen,https://food.grab.com/id/id/restaurant/ayam-goreng-bakar-aulia-senen-delivery/6-C2XFE74CVPW3PE?,Jakarta,4.8,1,94.0
+390,kopi konnichiwa tanah abang,https://food.grab.com/id/id/restaurant/kopi-konnichiwa-tanah-abang-delivery/6-C34GENJ3GJEUE6?,Jakarta,4.8,1,2.0
+391,martabakku pecenongan,https://food.grab.com/id/id/restaurant/martabakku-pecenongan-delivery/IDGFSTI00001od7?,Jakarta,4.8,1,95.0
+392,five monkeys burgers sarinah,https://food.grab.com/id/id/restaurant/five-monkeys-burgers-sarinah-delivery/6-C34HG6KDEZLTVT?,Jakarta,4.7,1,15.0
+393,mcdonald s thamrin jaya,https://food.grab.com/id/id/restaurant/mcdonald-s-thamrin-jaya-delivery/6-C4BGN76ZTUCJJ2?,Jakarta,4.5,1,32.0
+394,rm sinar surya masakan padang group cideng,https://food.grab.com/id/id/restaurant/rm-sinar-surya-masakan-padang-group-cideng-delivery/6-C2WZLB4HFEK1CN?,Jakarta,4.4,1,2.0
+395,burger king cideng jakarta,https://food.grab.com/id/id/restaurant/burger-king-cideng-jakarta-delivery/6-CYN3PFCFR4M2TN?,Jakarta,4.5,1,32.0
+396,ayam gepuk pak gembus petojo catering,https://food.grab.com/id/id/restaurant/ayam-gepuk-pak-gembus-petojo-catering-delivery/6-C4DCEUXTTKCZL2?,Jakarta,,1,2.0
+397,nasi bakar oseng mercon angry kebon kacang,https://food.grab.com/id/id/restaurant/nasi-bakar-oseng-mercon-angry-kebon-kacang-delivery/6-C2VFEUXWJ7KWAA?,Jakarta,4.7,1,2.0
+398,popeyes skyline,https://food.grab.com/id/id/restaurant/popeyes-skyline-delivery/6-C32KCBBWV3BDTT?,Jakarta,,0,2.0
+399,hokben menteng huis,https://food.grab.com/id/id/restaurant/hokben-menteng-huis-delivery/6-CY4XJATHL6KBNA?,Jakarta,4.8,1,2.0
+400,ayam kalasan mas boy tanah abang,https://food.grab.com/id/id/restaurant/ayam-kalasan-mas-boy-tanah-abang-delivery/6-C3TWA3TKCCEBJE?,Jakarta,4.4,1,2.0
+401,sushi yay cikini,https://food.grab.com/id/id/restaurant/sushi-yay-cikini-delivery/6-C2V3DEMHGTTDNE?,Jakarta,4.8,1,44.0
+402,kfc harco pasar baru,https://food.grab.com/id/id/restaurant/kfc-harco-pasar-baru-delivery/IDGFSTI00000cb8?,Jakarta,4.7,1,2.0
+403,moon chicken by hangry harmoni,https://food.grab.com/id/id/restaurant/moon-chicken-by-hangry-harmoni-delivery/6-CZE1RLEXATDCJ6?,Jakarta,4.8,1,96.0
+404,jatinangor house kebon melati,https://food.grab.com/id/id/restaurant/jatinangor-house-kebon-melati-delivery/6-C3N3RX4ZCJCUVA?,Jakarta,4.6,1,2.0
+405,banzai menteng,https://food.grab.com/id/id/restaurant/banzai-menteng-delivery/6-C3TUJUXGTGLTCX?,Jakarta,4.7,1,34.0
+406,wingstop grand indonesia,https://food.grab.com/id/id/restaurant/wingstop-grand-indonesia-delivery/6-CYTWMA5ARNDVCN?,Jakarta,4.7,1,9.0
+407,rm kartini jaya kartini,https://food.grab.com/id/id/restaurant/rm-kartini-jaya-kartini-delivery/6-C2K3VUW1WACZMA?,Jakarta,4.5,1,44.0
+408,siomay batagor bandung setiyoroso gambir,https://food.grab.com/id/id/restaurant/siomay-batagor-bandung-setiyoroso-gambir-delivery/6-C2U2NY2JFAUGHE?,Jakarta,4.3,1,2.0
+409,ayam pusaka abadi petojo selatan,https://food.grab.com/id/id/restaurant/ayam-pusaka-abadi-petojo-selatan-delivery/6-CZEATCDDWETFDE?,Jakarta,4.7,1,2.0
+410,ayam goreng kalasan mama dani duta merlin harmoni petojo utara,https://food.grab.com/id/id/restaurant/ayam-goreng-kalasan-mama-dani-duta-merlin-harmoni-petojo-utara-delivery/6-C32KVYC3AJD2G2?,Jakarta,4.8,1,2.0
+411,bebek kaleyo menteng,https://food.grab.com/id/id/restaurant/bebek-kaleyo-menteng-delivery/6-CY3WRVJCFCC1ME?,Jakarta,4.8,1,8.0
+412,kfc box thamrin city,https://food.grab.com/id/id/restaurant/kfc-box-thamrin-city-delivery/IDGFSTI00003h50?,Jakarta,4.6,1,77.0
+413,cireng rujak crispy petamburan,https://food.grab.com/id/id/restaurant/cireng-rujak-crispy-petamburan-delivery/6-C2WCNEJULBJBV6?,Jakarta,4.8,1,2.0
+414,burger bros cempaka putih,https://food.grab.com/id/id/restaurant/burger-bros-cempaka-putih-delivery/6-C3TJE2EZGBEBME?,Jakarta,4.8,1,36.0
+415,burger bangor gondangdia,https://food.grab.com/id/id/restaurant/burger-bangor-gondangdia-delivery/6-C2VBRNACNJ6AAE?,Jakarta,4.6,1,2.0
+416,geprek bensu tanah abang,https://food.grab.com/id/id/restaurant/geprek-bensu-tanah-abang-delivery/IDGFSTI00002yg4?,Jakarta,4.5,1,2.0
+417,rm padang sederhana minang gambir,https://food.grab.com/id/id/restaurant/rm-padang-sederhana-minang-gambir-delivery/6-C2WFEPEBEJ4WFE?,Jakarta,4.4,1,16.0
+418,d cost petojo gambir,https://food.grab.com/id/id/restaurant/d-cost-petojo-gambir-delivery/6-C3BVSACYGT4FGN?,Jakarta,4.7,1,2.0
+419,fastfit cikini,https://food.grab.com/id/id/restaurant/fastfit-cikini-delivery/6-C2BXE7EZE7NVME?,Jakarta,4.5,1,2.0
+420,samji chicken by peome kebon sirih,https://food.grab.com/id/id/restaurant/samji-chicken-by-peome-kebon-sirih-delivery/6-C3JGC8CUTUKVLT?,Jakarta,4.9,1,2.0
+421,rm padang karya sinar bundo kampung bali,https://food.grab.com/id/id/restaurant/rm-padang-karya-sinar-bundo-kampung-bali-delivery/6-C2XDGEWZLBNHRJ?,Jakarta,4.6,1,2.0
+422,bento yay cikini,https://food.grab.com/id/id/restaurant/bento-yay-cikini-delivery/6-C2V3EE2ZFAWFRA?,Jakarta,4.8,1,2.0
+423,makaroni ngehe makaroni ngehe express st tanah abang,https://food.grab.com/id/id/restaurant/makaroni-ngehe-makaroni-ngehe-express-st-tanah-abang-delivery/6-C3U3GUXHWBU2G6?,Jakarta,4.7,1,2.0
+424,cfc stasiun tanah abang,https://food.grab.com/id/id/restaurant/cfc-stasiun-tanah-abang-delivery/6-CY5KAPXUFABEEE?,Jakarta,4.6,1,2.0
+425,nasi gudeg yogya ibu laminten kebon sirih,https://food.grab.com/id/id/restaurant/nasi-gudeg-yogya-ibu-laminten-kebon-sirih-delivery/6-C3ECT6JUTXXJVJ?,Jakarta,,0,2.0
+426,kebulin kota bambu selatan,https://food.grab.com/id/id/restaurant/kebulin-kota-bambu-selatan-delivery/6-C32YFGA1DBDER6?,Jakarta,4.7,1,2.0
+427,xxi cafe djakarta teater,https://food.grab.com/id/id/restaurant/xxi-cafe-djakarta-teater-delivery/6-CZMKTCM3PGB2AA?,Jakarta,4.8,1,2.0
+428,gado gado boplo pasar nusantara sarinah,https://food.grab.com/id/id/restaurant/gado-gado-boplo-pasar-nusantara-sarinah-delivery/6-C3VJNX4XJPBCWE?,Jakarta,4.7,1,2.0
+429,mac macs eden kitchens office park thamrin city,https://food.grab.com/id/id/restaurant/mac-macs-eden-kitchens-office-park-thamrin-city-delivery/6-C3W3LY2KLUEGNE?,Jakarta,4.8,1,2.0
+430,al nawab restaurant kebon kacang,https://food.grab.com/id/id/restaurant/al-nawab-restaurant-kebon-kacang-delivery/6-C3VZJ3KYJFVHNJ?,Jakarta,4.2,1,87.0
+431,cimol 8dlapan tomang,https://food.grab.com/id/id/restaurant/cimol-8dlapan-tomang-delivery/6-C3LEVTJHRU4VTT?,Jakarta,4.3,1,2.0
+432,five monkeys burgers sarinah,https://food.grab.com/id/id/restaurant/five-monkeys-burgers-sarinah-delivery/6-C34HG6KDEZLTVT?,Jakarta,4.7,1,2.0
+433,yumpotle gambir,https://food.grab.com/id/id/restaurant/yumpotle-gambir-delivery/6-C34JA8NDAA6FEX?,Jakarta,4.4,1,2.0
+434,hot stuff menteng,https://food.grab.com/id/id/restaurant/hot-stuff-menteng-delivery/6-C2KATXKTKEXFVA?,Jakarta,4.7,1,95.0
+435,roti o st gambir 4,https://food.grab.com/id/id/restaurant/roti-o-st-gambir-4-delivery/6-C333JFWJGJJTNA?,Jakarta,5.0,1,2.0
+436,rawon premium by salina kitchen thamrin,https://food.grab.com/id/id/restaurant/rawon-premium-by-salina-kitchen-thamrin-delivery/6-C3U2WBXZG8DUA6?,Jakarta,4.7,1,2.0
+437,beard papa s st gambir,https://food.grab.com/id/id/restaurant/beard-papa-s-st-gambir-delivery/6-C36ZGT5TPEVFLJ?,Jakarta,4.7,1,2.0
+438,kedai ross kramat,https://food.grab.com/id/id/restaurant/kedai-ross-kramat-delivery/6-C3WKNRM1UAXCLN?,Jakarta,5.0,1,97.0
+439,gado gado ketoprak petojo selatan,https://food.grab.com/id/id/restaurant/gado-gado-ketoprak-petojo-selatan-delivery/6-C3AYLAJHRY3ZE6?,Jakarta,4.6,1,2.0
+440,sushi tei grand indonesia,https://food.grab.com/id/id/restaurant/sushi-tei-grand-indonesia-delivery/6-C26XUB5CJ6UCNT?,Jakarta,4.8,1,2.0
+441,beef mafia cikini,https://food.grab.com/id/id/restaurant/beef-mafia-cikini-delivery/6-C2V3EGB1LNLFTT?,Jakarta,4.7,1,2.0
+442,d besto chicken burger kartini,https://food.grab.com/id/id/restaurant/d-besto-chicken-burger-kartini-delivery/6-C2KWNNCYTZATLT?,Jakarta,4.7,1,32.0
+443,hisana fried chicken kramat,https://food.grab.com/id/id/restaurant/hisana-fried-chicken-kramat-delivery/6-C3BEE22CR6A3SE?,Jakarta,4.7,1,2.0
+444,nasi ikan katsu selayar petojo utara,https://food.grab.com/id/id/restaurant/nasi-ikan-katsu-selayar-petojo-utara-delivery/6-C2LYJFD3C64CCE?,Jakarta,4.8,1,2.0
+445,bowls two go thamrin,https://food.grab.com/id/id/restaurant/bowls-two-go-thamrin-delivery/6-C3UFEGAZAXMZJA?,Jakarta,4.8,1,2.0
+446,salmon fit sudirman,https://food.grab.com/id/id/restaurant/salmon-fit-sudirman-delivery/6-C36EKGLYHB42DA?,Jakarta,4.0,1,2.0
+447,kebab devira turki krukut,https://food.grab.com/id/id/restaurant/kebab-devira-turki-krukut-delivery/6-C3CXEXJCLPLVVE?,Jakarta,4.4,1,32.0
+448,deuseyo korean bbq jjigae pasar baru,https://food.grab.com/id/id/restaurant/deuseyo-korean-bbq-jjigae-pasar-baru-delivery/6-C2WUGUJHEE21CA?,Jakarta,5.0,1,2.0
+449,ayam goreng suharti gondangdia,https://food.grab.com/id/id/restaurant/ayam-goreng-suharti-gondangdia-delivery/IDGFSTI00002h1x?,Jakarta,4.8,1,2.0
+450,burger byurger coffee menteng,https://food.grab.com/id/id/restaurant/burger-byurger-coffee-menteng-delivery/6-C2WGRA4ERU6XA2?,Jakarta,4.8,1,39.0
+451,jagoan ayam geprek vgm gunung sahari utara,https://food.grab.com/id/id/restaurant/jagoan-ayam-geprek-vgm-gunung-sahari-utara-delivery/6-C2N1EJJJGTVAVX?,Jakarta,4.0,1,98.0
+452,ayam geprek fragrant chicken johar baru,https://food.grab.com/id/id/restaurant/ayam-geprek-fragrant-chicken-johar-baru-delivery/6-C2NXAX2HR35ZUA?,Jakarta,4.2,1,32.0
+453,nasi bebek kharisma ibu inayah kebon sirih,https://food.grab.com/id/id/restaurant/nasi-bebek-kharisma-ibu-inayah-kebon-sirih-delivery/6-C3BWJXMTCY2HRN?,Jakarta,4.5,1,2.0
+454,pondok teduh cikini,https://food.grab.com/id/id/restaurant/pondok-teduh-cikini-delivery/6-C32ZGRCHA7U2WA?,Jakarta,5.0,1,32.0
+455,taco to go kenari,https://food.grab.com/id/id/restaurant/taco-to-go-kenari-delivery/6-C3A1EK4XABTBJ2?,Jakarta,4.6,1,99.0
+456,pempek dosis thamrin 10 kebon sirih,https://food.grab.com/id/id/restaurant/pempek-dosis-thamrin-10-kebon-sirih-delivery/6-C4DWEFXXLGEELX?,Jakarta,5.0,1,2.0
+457,martabak bang bhucek grogol,https://food.grab.com/id/id/restaurant/martabak-bang-bhucek-grogol-delivery/6-C26XG3B3NN23GT?,Jakarta,4.4,1,100.0
+458,martabak pecenongan 78 kwitang kembang raya,https://food.grab.com/id/id/restaurant/martabak-pecenongan-78-kwitang-kembang-raya-delivery/6-CZDYNRMVVB5DAX?,Jakarta,4.8,1,8.0
+459,martabak bangka komeng kebon sirih,https://food.grab.com/id/id/restaurant/martabak-bangka-komeng-kebon-sirih-delivery/6-CZCVUEVGMEN1RT?,Jakarta,4.6,1,101.0
+460,martabak pizza orins gondangdia,https://food.grab.com/id/id/restaurant/martabak-pizza-orins-gondangdia-delivery/IDGFSTI000036eo?,Jakarta,4.8,1,9.0
+461,martabak kang wawan tanah abang,https://food.grab.com/id/id/restaurant/martabak-kang-wawan-tanah-abang-delivery/6-C2L3NKJHLFJWT6?,Jakarta,4.8,1,65.0
+462,martabak alfa 88 kramat,https://food.grab.com/id/id/restaurant/martabak-alfa-88-kramat-delivery/6-C3XJMFDYG62XE6?,Jakarta,4.8,1,100.0
+463,martabak bangka piki 99 kramat,https://food.grab.com/id/id/restaurant/martabak-bangka-piki-99-kramat-delivery/6-CZBCNNW2GXAKRA?,Jakarta,4.5,1,100.0
+464,martabak redjo 88 pasar manggis,https://food.grab.com/id/id/restaurant/martabak-redjo-88-pasar-manggis-delivery/6-C3UCAU5XUADWNA?,Jakarta,4.6,1,102.0
+465,martabak apollo bangka tomang,https://food.grab.com/id/id/restaurant/martabak-apollo-bangka-tomang-delivery/6-CY6FR25TL66YWE?,Jakarta,4.8,1,103.0
+466,martabak rudy sawah besar,https://food.grab.com/id/id/restaurant/martabak-rudy-sawah-besar-delivery/IDGFSTI00001n7y?,Jakarta,4.8,1,104.0
+467,martabak djuara kebon melati,https://food.grab.com/id/id/restaurant/martabak-djuara-kebon-melati-delivery/6-CZNEC3CUCFWCG6?,Jakarta,4.8,1,105.0
+468,martabakku cikini,https://food.grab.com/id/id/restaurant/martabakku-cikini-delivery/6-CYVFRTEDRB5XDA?,Jakarta,4.8,1,2.0
+469,martabak pecenongan express 33 cideng,https://food.grab.com/id/id/restaurant/martabak-pecenongan-express-33-cideng-delivery/6-C252DENAHBLCET?,Jakarta,4.5,1,32.0
+470,warung teh aco kebon melati,https://food.grab.com/id/id/restaurant/warung-teh-aco-kebon-melati-delivery/6-C2B2A63HNFJEFA?,Jakarta,4.6,1,105.0
+471,martabak bangka al hikmah 165 utan kayu selatan,https://food.grab.com/id/id/restaurant/martabak-bangka-al-hikmah-165-utan-kayu-selatan-delivery/6-C23XJ8CXEBMGGN?,Jakarta,4.8,1,36.0
+472,martabak marbest pejompongan,https://food.grab.com/id/id/restaurant/martabak-marbest-pejompongan-delivery/6-CY2ARBUAFFNFV6?,Jakarta,4.3,1,106.0
+473,martabak manis amira jaya pasar manggis,https://food.grab.com/id/id/restaurant/martabak-manis-amira-jaya-pasar-manggis-delivery/6-C2XGNJJHLVKKGJ?,Jakarta,4.6,1,67.0
+474,martabak begadang karang anyar,https://food.grab.com/id/id/restaurant/martabak-begadang-karang-anyar-delivery/6-C3NHG6MKV6NKR2?,Jakarta,4.6,1,32.0
+475,roti bakar 78 kramat,https://food.grab.com/id/id/restaurant/roti-bakar-78-kramat-delivery/AWh-1uSeZXYdMpch2aYp?,Jakarta,4.3,1,32.0
+476,martabak ko apin pademangan timur,https://food.grab.com/id/id/restaurant/martabak-ko-apin-pademangan-timur-delivery/6-CYKERPEVLYLXTE?,Jakarta,4.8,1,107.0
+477,martabak rizky 99 pasar baru,https://food.grab.com/id/id/restaurant/martabak-rizky-99-pasar-baru-delivery/6-C3LCKGAZLREUBE?,Jakarta,4.8,1,108.0
+478,mie aceh sultan kebon kacang,https://food.grab.com/id/id/restaurant/mie-aceh-sultan-kebon-kacang-delivery/6-C32ZCNJCBEJJNA?,Jakarta,4.1,1,32.0
+479,martabak aa pasar manggis,https://food.grab.com/id/id/restaurant/martabak-aa-pasar-manggis-delivery/6-CZMGCPW2LFXCVJ?,Jakarta,4.8,1,109.0
+480,martabak seneng hati gang kancil keagungan,https://food.grab.com/id/id/restaurant/martabak-seneng-hati-gang-kancil-keagungan-delivery/6-C2AZJE53JE3AEN?,Jakarta,4.6,1,2.0
+481,martabak hooland78 grogol,https://food.grab.com/id/id/restaurant/martabak-hooland78-grogol-delivery/6-C3DTNZDBR3W3DA?,Jakarta,4.5,1,110.0
+482,martabak sinar bulan grogol,https://food.grab.com/id/id/restaurant/martabak-sinar-bulan-grogol-delivery/IDGFSTI000000pq?,Jakarta,4.6,1,111.0
+483,martabak bangka akim tanjung duren utara,https://food.grab.com/id/id/restaurant/martabak-bangka-akim-tanjung-duren-utara-delivery/IDGFSTI00002s5h?,Jakarta,4.8,1,47.0
+484,martabak kue pukis mega rasa tangki,https://food.grab.com/id/id/restaurant/martabak-kue-pukis-mega-rasa-tangki-delivery/6-CYVTVE5TLNCAAN?,Jakarta,4.8,1,2.0
+485,martabak sniper karet kuningan,https://food.grab.com/id/id/restaurant/martabak-sniper-karet-kuningan-delivery/IDGFSTI00002st5?,Jakarta,4.6,1,65.0
+486,martabak 777 sb kebon kacang,https://food.grab.com/id/id/restaurant/martabak-777-sb-kebon-kacang-delivery/6-C3UYRAVGVEUFN6?,Jakarta,4.6,1,29.0
+487,martabak 4215 kayu putih,https://food.grab.com/id/id/restaurant/martabak-4215-kayu-putih-delivery/IDGFSTI00001rlh?,Jakarta,4.7,1,112.0
+488,pukis martabak kota baru karet semanggi,https://food.grab.com/id/id/restaurant/pukis-martabak-kota-baru-karet-semanggi-delivery/6-C4B2R7XFELETG6?,Jakarta,4.7,1,8.0
+489,martabak boss tomang,https://food.grab.com/id/id/restaurant/martabak-boss-tomang-delivery/IDGFSTI000001ds?,Jakarta,4.6,1,113.0
+490,martabak 88 manis telor kemayoran,https://food.grab.com/id/id/restaurant/martabak-88-manis-telor-kemayoran-delivery/6-CYXTLNX1VCBVTJ?,Jakarta,4.6,1,2.0
+491,martabak boncang kebon kacang,https://food.grab.com/id/id/restaurant/martabak-boncang-kebon-kacang-delivery/6-CZNVUGCYCBJBCE?,Jakarta,4.8,1,65.0
+492,martabak aidolai duri selatan,https://food.grab.com/id/id/restaurant/martabak-aidolai-duri-selatan-delivery/6-CZBHCAJDAGLGV6?,Jakarta,4.6,1,114.0
+493,martabak bangka faiz johar baru,https://food.grab.com/id/id/restaurant/martabak-bangka-faiz-johar-baru-delivery/6-CY6ERXUHEPT3FE?,Jakarta,4.8,1,101.0
+494,martabak top bandung heroy 2 kebon kacang,https://food.grab.com/id/id/restaurant/martabak-top-bandung-heroy-2-kebon-kacang-delivery/IDGFSTI00003fh8?,Jakarta,4.7,1,65.0
+495,martabak mas jokos tangki,https://food.grab.com/id/id/restaurant/martabak-mas-jokos-tangki-delivery/6-C2VDRU2AA2KDEE?,Jakarta,4.4,1,73.0
+496,martabak legit group tebet,https://food.grab.com/id/id/restaurant/martabak-legit-group-tebet-delivery/6-C2KYN66AC32EHA?,Jakarta,4.6,1,115.0
+497,martabak origin tanjung duren selatan,https://food.grab.com/id/id/restaurant/martabak-origin-tanjung-duren-selatan-delivery/6-CZKENEUZTBLWDA?,Jakarta,4.8,1,116.0
+498,risoles harajuku by asap group setiabudi,https://food.grab.com/id/id/restaurant/risoles-harajuku-by-asap-group-setiabudi-delivery/6-C2JFAA3KJBU1N2?,Jakarta,4.7,1,82.0
+499,martabak mr huang duri utara,https://food.grab.com/id/id/restaurant/martabak-mr-huang-duri-utara-delivery/6-C2AHJX2YWEAXVT?,Jakarta,4.9,1,117.0
+500,martabak manis telor 72 serdang,https://food.grab.com/id/id/restaurant/martabak-manis-telor-72-serdang-delivery/6-CZADLXKTGN4EN2?,Jakarta,4.8,1,61.0
+501,martabak bangka melani 99 kramat sentiong,https://food.grab.com/id/id/restaurant/martabak-bangka-melani-99-kramat-sentiong-delivery/6-C2BBNNJFJJBJE2?,Jakarta,,0,2.0
+502,martabak top tomang krukut,https://food.grab.com/id/id/restaurant/martabak-top-tomang-krukut-delivery/6-CY6KDCL2LRNETE?,Jakarta,4.7,1,104.0
+503,martabak bangka ortega angke,https://food.grab.com/id/id/restaurant/martabak-bangka-ortega-angke-delivery/6-CZNGRTKWRJJART?,Jakarta,4.7,1,118.0
+504,martabak josh tanjung duren selatan,https://food.grab.com/id/id/restaurant/martabak-josh-tanjung-duren-selatan-delivery/6-CZCWRUCUTB41A2?,Jakarta,5.0,1,64.0
+505,martabak pukis lbs kemanggisan,https://food.grab.com/id/id/restaurant/martabak-pukis-lbs-kemanggisan-delivery/6-CZDTVGEWTETCLJ?,Jakarta,4.6,1,115.0
+506,mie aceh abi mardani cempaka putih barat,https://food.grab.com/id/id/restaurant/mie-aceh-abi-mardani-cempaka-putih-barat-delivery/IDGFSTI000020th?,Jakarta,4.7,1,2.0
+507,martabak borneo setiabudi,https://food.grab.com/id/id/restaurant/martabak-borneo-setiabudi-delivery/IDGFSTI000001kw?,Jakarta,4.7,1,116.0
+508,martabak bangka nusantara pejagalan,https://food.grab.com/id/id/restaurant/martabak-bangka-nusantara-pejagalan-delivery/6-C2MTRPUBRA33R2?,Jakarta,4.7,1,32.0
+509,martabak bangka 168 grogol,https://food.grab.com/id/id/restaurant/martabak-bangka-168-grogol-delivery/IDGFSTI000003is?,Jakarta,4.8,1,65.0
+510,martabak muv on menteng,https://food.grab.com/id/id/restaurant/martabak-muv-on-menteng-delivery/6-C3D2LXX1T75KGX?,Jakarta,,0,2.0
+511,martabak sipit bangka 99 utan kayu selatan,https://food.grab.com/id/id/restaurant/martabak-sipit-bangka-99-utan-kayu-selatan-delivery/6-C32ZSCAAKA2JFA?,Jakarta,4.9,1,65.0
+512,martabak bangka manis telor arwina jelambar baru,https://food.grab.com/id/id/restaurant/martabak-bangka-manis-telor-arwina-jelambar-baru-delivery/6-CYU1V73FLUAVTE?,Jakarta,4.5,1,32.0
+513,martabak katz duri utara,https://food.grab.com/id/id/restaurant/martabak-katz-duri-utara-delivery/6-CZLJUEUCJPXFMA?,Jakarta,4.7,1,34.0
+514,martabaks kebon sirih,https://food.grab.com/id/id/restaurant/martabaks-kebon-sirih-delivery/6-C4CYA74XTULBJN?,Jakarta,5.0,1,64.0
+515,martabak manis dan telor aufa berkah sunter agung,https://food.grab.com/id/id/restaurant/martabak-manis-dan-telor-aufa-berkah-sunter-agung-delivery/6-C3B2LYDYV4NEUA?,Jakarta,4.9,1,2.0
+516,martabak maksi 99 utan kayu selatan,https://food.grab.com/id/id/restaurant/martabak-maksi-99-utan-kayu-selatan-delivery/6-C2ECREW1CUJUDA?,Jakarta,4.8,1,36.0
+517,binus martabak bandung 69 binus,https://food.grab.com/id/id/restaurant/binus-martabak-bandung-69-binus-delivery/IDGFSTI00000r1l?,Jakarta,4.5,1,100.0
+518,martabak enak palmerah,https://food.grab.com/id/id/restaurant/martabak-enak-palmerah-delivery/6-C2EZNRM3L35GCT?,Jakarta,4.5,1,119.0
+519,martabak bangka 97 manggarai,https://food.grab.com/id/id/restaurant/martabak-bangka-97-manggarai-delivery/6-C36GTRLUVPE1L2?,Jakarta,4.7,1,32.0
+520,hokben menteng huis,https://food.grab.com/id/id/restaurant/hokben-menteng-huis-delivery/6-CY4XJATHL6KBNA?,Jakarta,4.8,1,2.0
+521,sushi yay cikini,https://food.grab.com/id/id/restaurant/sushi-yay-cikini-delivery/6-C2V3DEMHGTTDNE?,Jakarta,4.8,1,2.0
+522,ryujin beef bowl by legit group tomang,https://food.grab.com/id/id/restaurant/ryujin-beef-bowl-by-legit-group-tomang-delivery/6-C23YRJ61EUCZCX?,Jakarta,4.6,1,2.0
+523,yoshinoya beef bowl suryopranoto,https://food.grab.com/id/id/restaurant/yoshinoya-beef-bowl-suryopranoto-delivery/6-CYLELTLZNVC1RN?,Jakarta,4.8,1,2.0
+524,takoyaki tanaka san cideng,https://food.grab.com/id/id/restaurant/takoyaki-tanaka-san-cideng-delivery/IDGFSTI00001yxv?,Jakarta,4.6,1,2.0
+525,gokana ramen teppan chubb square plaza uob,https://food.grab.com/id/id/restaurant/gokana-ramen-teppan-chubb-square-plaza-uob-delivery/6-C3LGSAM2E7W2VX?,Jakarta,4.8,1,2.0
+526,sushi stop kampung bali,https://food.grab.com/id/id/restaurant/sushi-stop-kampung-bali-delivery/6-C2WEGBVKVTVVTA?,Jakarta,4.8,1,2.0
+527,hangry all in one harmoni,https://food.grab.com/id/id/restaurant/hangry-all-in-one-harmoni-delivery/6-CZA1N8AGGTU3SA?,Jakarta,4.7,1,96.0
+528,tanoshii sushi senen,https://food.grab.com/id/id/restaurant/tanoshii-sushi-senen-delivery/6-CYMADGMFLBNXVJ?,Jakarta,4.0,1,69.0
+529,honu poke matcha bar healthy office park thamrin city eden kitchens,https://food.grab.com/id/id/restaurant/honu-poke-matcha-bar-healthy-office-park-thamrin-city-eden-kitchens-delivery/IDGFSTI00001yud?,Jakarta,4.7,1,2.0
+530,beef gyu by asap group kebon kelapa,https://food.grab.com/id/id/restaurant/beef-gyu-by-asap-group-kebon-kelapa-delivery/6-C3NFJLADJATZWA?,Jakarta,4.7,1,35.0
+531,san gyu by hangry harmoni,https://food.grab.com/id/id/restaurant/san-gyu-by-hangry-harmoni-delivery/6-CZAXSATXCF2XRX?,Jakarta,4.8,1,96.0
+532,kimukatsu grand indonesia,https://food.grab.com/id/id/restaurant/kimukatsu-grand-indonesia-delivery/6-CYLGEUNGA6U1VE?,Jakarta,4.7,1,2.0
+533,bento yay cikini,https://food.grab.com/id/id/restaurant/bento-yay-cikini-delivery/6-C2V3EE2ZFAWFRA?,Jakarta,4.8,1,2.0
+534,bento by san gyu cikini,https://food.grab.com/id/id/restaurant/bento-by-san-gyu-cikini-delivery/6-C343EFMHHBDZJN?,Jakarta,4.8,1,4.0
+535,dimsum yay harmoni,https://food.grab.com/id/id/restaurant/dimsum-yay-harmoni-delivery/6-C2VBA4JHNBJTGJ?,Jakarta,4.5,1,2.0
+536,kedai takkasi takoyaki cab setiabudi jaksel,https://food.grab.com/id/id/restaurant/kedai-takkasi-takoyaki-cab-setiabudi-jaksel-delivery/6-C3X3AJV2MELARE?,Jakarta,4.8,1,48.0
+537,shirato by dailybox gajah mada plaza,https://food.grab.com/id/id/restaurant/shirato-by-dailybox-gajah-mada-plaza-delivery/6-C3VZMGBEVJVZJE?,Jakarta,4.7,1,2.0
+538,sushi mate salemba,https://food.grab.com/id/id/restaurant/sushi-mate-salemba-delivery/IDGFSTI000001os?,Jakarta,4.7,1,120.0
+539,ichiban sushi harris vertu hotel harmoni jakarta,https://food.grab.com/id/id/restaurant/ichiban-sushi-harris-vertu-hotel-harmoni-jakarta-delivery/6-CY2EJ633JEAUHA?,Jakarta,4.7,1,2.0
+540,new japanese resto kebon kelapa,https://food.grab.com/id/id/restaurant/new-japanese-resto-kebon-kelapa-delivery/6-C3TTRCJCEGNFJ2?,Jakarta,4.7,1,35.0
+541,saltesse petojo,https://food.grab.com/id/id/restaurant/saltesse-petojo-delivery/6-CYLXV6A1GGDCG2?,Jakarta,4.4,1,2.0
+542,nasi goreng asap by asap group setiabudi,https://food.grab.com/id/id/restaurant/nasi-goreng-asap-by-asap-group-setiabudi-delivery/IDGFSTI00000cob?,Jakarta,4.6,1,82.0
+543,currygatou thamrin,https://food.grab.com/id/id/restaurant/currygatou-thamrin-delivery/6-C36ZL6EYV2AVPE?,Jakarta,4.9,1,2.0
+544,tokyo belly ramen house by ismaya setiabudi one,https://food.grab.com/id/id/restaurant/tokyo-belly-ramen-house-by-ismaya-setiabudi-one-delivery/IDGFSTI00000053?,Jakarta,4.6,1,2.0
+545,sugakiya ramen grand indonesia,https://food.grab.com/id/id/restaurant/sugakiya-ramen-grand-indonesia-delivery/6-CZKYUB42RYT3DA?,Jakarta,4.8,1,2.0
+546,midori japanese restaurant menteng,https://food.grab.com/id/id/restaurant/midori-japanese-restaurant-menteng-delivery/6-C2TYTXKGTVM3BE?,Jakarta,4.8,1,2.0
+547,nasi tim five star setiabudi,https://food.grab.com/id/id/restaurant/nasi-tim-five-star-setiabudi-delivery/6-C2VTFGAAL34AGA?,Jakarta,4.6,1,2.0
+548,marugame udon tempura grand indonesia,https://food.grab.com/id/id/restaurant/marugame-udon-tempura-grand-indonesia-delivery/IDGFSTI000000xe?,Jakarta,4.8,1,2.0
+549,ramenya %E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E5%B1%8B grand indonesia,https://food.grab.com/id/id/restaurant/ramenya-%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E5%B1%8B-grand-indonesia-delivery/6-C25GGA2BDF3BKE?,Jakarta,4.8,1,2.0
+550,mab toppoki pasar baru,https://food.grab.com/id/id/restaurant/mab-toppoki-pasar-baru-delivery/6-C2UJRLJZFEUTEN?,Jakarta,4.4,1,2.0
+551,oishi bento sbm sport club,https://food.grab.com/id/id/restaurant/oishi-bento-sbm-sport-club-delivery/IDGFSTI00000ef1?,Jakarta,4.7,1,2.0
+552,pepper lunch plaza indonesia,https://food.grab.com/id/id/restaurant/pepper-lunch-plaza-indonesia-delivery/IDGFSTI000000xv?,Jakarta,4.7,1,2.0
+553,nasi ikan katsu selayar petojo utara,https://food.grab.com/id/id/restaurant/nasi-ikan-katsu-selayar-petojo-utara-delivery/6-C2LYJFD3C64CCE?,Jakarta,4.8,1,2.0
+554,ciz n chic tomang,https://food.grab.com/id/id/restaurant/ciz-n-chic-tomang-delivery/IDGFSTI00003bpq?,Jakarta,,0,2.0
+555,beef mafia cikini,https://food.grab.com/id/id/restaurant/beef-mafia-cikini-delivery/6-C2V3EGB1LNLFTT?,Jakarta,4.7,1,2.0
+556,sushi cuy foodcourt dpr,https://food.grab.com/id/id/restaurant/sushi-cuy-foodcourt-dpr-delivery/6-C3LWVK3ZVZEFTX?,Jakarta,4.6,1,2.0
+557,sushi tei plaza indonesia,https://food.grab.com/id/id/restaurant/sushi-tei-plaza-indonesia-delivery/6-C26XUB5CR4JXKE?,Jakarta,4.8,1,2.0
+558,maudon tanjung duren selatan,https://food.grab.com/id/id/restaurant/maudon-tanjung-duren-selatan-delivery/6-C3UWDEL1AU51FA?,Jakarta,4.9,1,2.0
+559,lawson jb tower,https://food.grab.com/id/id/restaurant/lawson-jb-tower-delivery/6-CZBHSB2DRKJ3TT?,Jakarta,4.7,1,2.0
+560,salmon fit sudirman,https://food.grab.com/id/id/restaurant/salmon-fit-sudirman-delivery/6-C36EKGLYHB42DA?,Jakarta,4.0,1,2.0
+561,sushi ikari taman sari,https://food.grab.com/id/id/restaurant/sushi-ikari-taman-sari-delivery/6-CY4VT66VAU52EN?,Jakarta,4.5,1,32.0
+562,genki sushi plaza indonesia,https://food.grab.com/id/id/restaurant/genki-sushi-plaza-indonesia-delivery/6-CY3ZEAJFV66HNE?,Jakarta,4.8,1,2.0
+563,sukiya %E3%81%99%E3%81%8D%E5%AE%B6 cideng timur,https://food.grab.com/id/id/restaurant/sukiya-%E3%81%99%E3%81%8D%E5%AE%B6-cideng-timur-delivery/AWgYYEch5b9pQDOtkxrr?,Jakarta,4.7,1,2.0
+564,sushigan tambora,https://food.grab.com/id/id/restaurant/sushigan-tambora-delivery/6-CYLFEEEFCXEWTT?,Jakarta,4.7,1,2.0
+565,butanoya japan pork bowl bento pademangan,https://food.grab.com/id/id/restaurant/butanoya-japan-pork-bowl-bento-pademangan-delivery/6-C2AJKAU3WECBT6?,Jakarta,4.8,1,2.0
+566,fure sushi duri selatan,https://food.grab.com/id/id/restaurant/fure-sushi-duri-selatan-delivery/6-CYKVJKCDV8DVTE?,Jakarta,4.8,1,2.0
+567,peanut garden frozen food kebon kacang,https://food.grab.com/id/id/restaurant/peanut-garden-frozen-food-kebon-kacang-delivery/6-C2UUHBNTLB33RA?,Jakarta,4.7,1,32.0
+568,mentaistic id pademangan timur,https://food.grab.com/id/id/restaurant/mentaistic-id-pademangan-timur-delivery/6-CZNXVGAVL7K1JA?,Jakarta,4.9,1,2.0
+569,sushimoo kebon sirih,https://food.grab.com/id/id/restaurant/sushimoo-kebon-sirih-delivery/6-C25EEZMXGK4JJT?,Jakarta,4.7,1,2.0
+570,ayamu kartini,https://food.grab.com/id/id/restaurant/ayamu-kartini-delivery/6-C3TDN6ECEJXXLX?,Jakarta,4.9,1,2.0
+571,fried chicken geprek gian galur,https://food.grab.com/id/id/restaurant/fried-chicken-geprek-gian-galur-delivery/IDGFSTI00002oz1?,Jakarta,4.6,1,93.0
+572,sushi go ciputra mall,https://food.grab.com/id/id/restaurant/sushi-go-ciputra-mall-delivery/6-C25DR36KJPTCVX?,Jakarta,4.8,1,2.0
+573,ramen ten 10 gajah mada plaza,https://food.grab.com/id/id/restaurant/ramen-ten-10-gajah-mada-plaza-delivery/6-CZNEGRMWGADVNA?,Jakarta,4.5,1,2.0
+574,sushi hiro %E5%AF%BF%E5%8F%B8%E3%83%92%E3%83%AD plaza indonesia,https://food.grab.com/id/id/restaurant/sushi-hiro-%E5%AF%BF%E5%8F%B8%E3%83%92%E3%83%AD-plaza-indonesia-delivery/6-CZJFAYTGLN41V6?,Jakarta,4.7,1,2.0
+575,osakayaki tanjung duren utara,https://food.grab.com/id/id/restaurant/osakayaki-tanjung-duren-utara-delivery/6-C3T1JZE1LXUUG2?,Jakarta,4.8,1,2.0
+576,ikkudo ichi %E4%B8%80%E5%96%B0%E5%A0%82 plaza indonesia,https://food.grab.com/id/id/restaurant/ikkudo-ichi-%E4%B8%80%E5%96%B0%E5%A0%82-plaza-indonesia-delivery/6-C2W1APLKJTLXL6?,Jakarta,4.7,1,2.0
+577,shirato by dailybox tanjung duren,https://food.grab.com/id/id/restaurant/shirato-by-dailybox-tanjung-duren-delivery/6-C2B2A2VYKALTVE?,Jakarta,4.6,1,121.0
+578,ichiban dorayaki food court gajah mada plaza,https://food.grab.com/id/id/restaurant/ichiban-dorayaki-food-court-gajah-mada-plaza-delivery/6-C3X2SBCVCX3XAX?,Jakarta,4.3,1,2.0
+579,tazawa ramen menteng,https://food.grab.com/id/id/restaurant/tazawa-ramen-menteng-delivery/6-C25DNRLHGA4YNX?,Jakarta,4.6,1,2.0
+580,ramen 38 sanpachi sarinah,https://food.grab.com/id/id/restaurant/ramen-38-sanpachi-sarinah-delivery/6-C3JVT7NYRT5CPA?,Jakarta,4.2,1,2.0
+581,grains of glory salad menteng,https://food.grab.com/id/id/restaurant/grains-of-glory-salad-menteng-delivery/6-CYWDNABJDEL2DE?,Jakarta,4.7,1,2.0
+582,iki bento setiabudi,https://food.grab.com/id/id/restaurant/iki-bento-setiabudi-delivery/6-C2VFALKHEKKGUA?,Jakarta,4.6,1,23.0
+583,menya ichiza mangga besar,https://food.grab.com/id/id/restaurant/menya-ichiza-mangga-besar-delivery/IDGFSTI000020zs?,Jakarta,4.6,1,2.0
+584,nasi goreng sibungsu kebon sirih,https://food.grab.com/id/id/restaurant/nasi-goreng-sibungsu-kebon-sirih-delivery/6-C2BFWETBBCNDTN?,Jakarta,4.4,1,32.0
+585,mie ayam bakso abi manyu petojo selatan,https://food.grab.com/id/id/restaurant/mie-ayam-bakso-abi-manyu-petojo-selatan-delivery/6-C2VCN34GEXUDLN?,Jakarta,4.8,1,2.0
+586,nasi goreng pak iyas gambir,https://food.grab.com/id/id/restaurant/nasi-goreng-pak-iyas-gambir-delivery/6-C2WXV8DFLYVYEJ?,Jakarta,4.6,1,65.0
+587,cabang bakmi roxy kebon sirih,https://food.grab.com/id/id/restaurant/cabang-bakmi-roxy-kebon-sirih-delivery/6-CY6BEE41MBDWL6?,Jakarta,4.7,1,2.0
+588,bakmi roxy cikini,https://food.grab.com/id/id/restaurant/bakmi-roxy-cikini-delivery/IDGFSTI00003inb?,Jakarta,4.7,1,122.0
+589,ayam geprek kambal kampung bali,https://food.grab.com/id/id/restaurant/ayam-geprek-kambal-kampung-bali-delivery/6-C3U1FFLWTAL2LN?,Jakarta,4.7,1,2.0
+590,mie ayam teh is senen,https://food.grab.com/id/id/restaurant/mie-ayam-teh-is-senen-delivery/6-C26FJ232TY6EVA?,Jakarta,4.8,1,2.0
+591,mie ayam yamin petamburan,https://food.grab.com/id/id/restaurant/mie-ayam-yamin-petamburan-delivery/6-C2MFPGKYLXWKDA?,Jakarta,4.9,1,2.0
+592,nasi goreng kambing kebon sirih pasar nusantara sarinah,https://food.grab.com/id/id/restaurant/nasi-goreng-kambing-kebon-sirih-pasar-nusantara-sarinah-delivery/6-C3VJNX4XGKEXSE?,Jakarta,4.9,1,2.0
+593,nasi tim kita taman sari,https://food.grab.com/id/id/restaurant/nasi-tim-kita-taman-sari-delivery/6-C2NTEBVBSBNJSE?,Jakarta,4.8,1,2.0
+594,kwetiau 88 kebon kelapa,https://food.grab.com/id/id/restaurant/kwetiau-88-kebon-kelapa-delivery/6-C3M1PF6DFEKXGJ?,Jakarta,4.6,1,2.0
+595,nasi uduk ayam tulang lunak waroeng pak eddy kebon kacang,https://food.grab.com/id/id/restaurant/nasi-uduk-ayam-tulang-lunak-waroeng-pak-eddy-kebon-kacang-delivery/6-CZLYNPKWT6XFV6?,Jakarta,4.6,1,2.0
+596,pastaria by legit group tomang,https://food.grab.com/id/id/restaurant/pastaria-by-legit-group-tomang-delivery/6-C24XBAT2NK2DUA?,Jakarta,4.6,1,2.0
+597,mie ayam senen,https://food.grab.com/id/id/restaurant/mie-ayam-senen-delivery/6-C3KANK3GRT5BDE?,Jakarta,4.8,1,2.0
+598,mie ayam gondangdia 1968 cikini,https://food.grab.com/id/id/restaurant/mie-ayam-gondangdia-1968-cikini-delivery/6-C2LVVF22GE31VJ?,Jakarta,4.7,1,2.0
+599,nasi goreng kebuli apjay bakmi jogja cikini,https://food.grab.com/id/id/restaurant/nasi-goreng-kebuli-apjay-bakmi-jogja-cikini-delivery/6-C2MAJTW1UFDHLX?,Jakarta,4.7,1,2.0
+600,gokana ramen teppan gajah mada plaza,https://food.grab.com/id/id/restaurant/gokana-ramen-teppan-gajah-mada-plaza-delivery/IDGFSTI00000eej?,Jakarta,4.5,1,2.0
+601,lapo siantar tanah jawa senen,https://food.grab.com/id/id/restaurant/lapo-siantar-tanah-jawa-senen-delivery/6-C22VNXBYAKXXNA?,Jakarta,4.5,1,2.0
+602,bakmi gang kelinci pasar baru,https://food.grab.com/id/id/restaurant/bakmi-gang-kelinci-pasar-baru-delivery/IDGFSTI00000cat?,Jakarta,4.8,1,2.0
+603,bakmi ayam soso maphar,https://food.grab.com/id/id/restaurant/bakmi-ayam-soso-maphar-delivery/6-CZKCFBM3AT2AEJ?,Jakarta,4.7,1,2.0
+604,ayam penyet sambel ulek dan sambel ijo jetar kebon kacang,https://food.grab.com/id/id/restaurant/ayam-penyet-sambel-ulek-dan-sambel-ijo-jetar-kebon-kacang-delivery/6-CZMGEJ6ET3JHSA?,Jakarta,3.7,1,2.0
+605,bakmi gm stasiun gambir,https://food.grab.com/id/id/restaurant/bakmi-gm-stasiun-gambir-delivery/IDGFSTI0000008e?,Jakarta,4.7,1,2.0
+606,cabang bakmi masadi kwitang kwitang,https://food.grab.com/id/id/restaurant/cabang-bakmi-masadi-kwitang-kwitang-delivery/6-CY5CENATJ2DJFA?,Jakarta,4.8,1,2.0
+607,bakmi jempol chinese food kebon kacang,https://food.grab.com/id/id/restaurant/bakmi-jempol-chinese-food-kebon-kacang-delivery/IDGFSTI0000031k?,Jakarta,4.7,1,2.0
+608,cwie mie malang orens kebon sirih,https://food.grab.com/id/id/restaurant/cwie-mie-malang-orens-kebon-sirih-delivery/6-C2KKLBBYAULXFE?,Jakarta,4.6,1,2.0
+609,nasi goreng dan roti bakar ala warkop kramat,https://food.grab.com/id/id/restaurant/nasi-goreng-dan-roti-bakar-ala-warkop-kramat-delivery/6-C3LZC74KENMKCE?,Jakarta,4.3,1,2.0
+610,mie ayam pak bejo kramat,https://food.grab.com/id/id/restaurant/mie-ayam-pak-bejo-kramat-delivery/6-CZEUVJCJTTEWC2?,Jakarta,4.7,1,2.0
+611,kwetiau 28 aho mall grand indonesia,https://food.grab.com/id/id/restaurant/kwetiau-28-aho-mall-grand-indonesia-delivery/6-C3NYEX5DVJBWV2?,Jakarta,4.8,1,2.0
+612,geprek bensu tanah abang,https://food.grab.com/id/id/restaurant/geprek-bensu-tanah-abang-delivery/IDGFSTI00002yg4?,Jakarta,,0,2.0
+613,kwetiau 28 aho pasar nusantara sarinah,https://food.grab.com/id/id/restaurant/kwetiau-28-aho-pasar-nusantara-sarinah-delivery/6-C3VJN6UVEXVXCT?,Jakarta,5.0,1,2.0
+614,mie ayam berkat tanah abang kebon kacang,https://food.grab.com/id/id/restaurant/mie-ayam-berkat-tanah-abang-kebon-kacang-delivery/6-C3EEV7WHAPCWNE?,Jakarta,4.8,1,2.0
+615,bakmie kami roxy cideng,https://food.grab.com/id/id/restaurant/bakmie-kami-roxy-cideng-delivery/6-CY4TEN4ULBKJAJ?,Jakarta,4.4,1,2.0
+616,bakmi agoan hasyim ashari,https://food.grab.com/id/id/restaurant/bakmi-agoan-hasyim-ashari-delivery/IDGFSTI000000be?,Jakarta,4.5,1,2.0
+617,bakmie gg kampung bali,https://food.grab.com/id/id/restaurant/bakmie-gg-kampung-bali-delivery/6-CZN1GF5XTNEATT?,Jakarta,4.5,1,2.0
+618,nasi jagal gondangdia kebon sirih,https://food.grab.com/id/id/restaurant/nasi-jagal-gondangdia-kebon-sirih-delivery/6-C2BHJB2CNT5CSA?,Jakarta,4.7,1,2.0
+619,mie ayam kriuk jati pulo,https://food.grab.com/id/id/restaurant/mie-ayam-kriuk-jati-pulo-delivery/6-C2MCC4MEA66GAT?,Jakarta,4.5,1,32.0
+620,bakmi naga resto mall plaza atrium,https://food.grab.com/id/id/restaurant/bakmi-naga-resto-mall-plaza-atrium-delivery/IDGFSTI000025m6?,Jakarta,4.5,1,2.0
+621,cwie mie malang rosie marcie kebon kacang,https://food.grab.com/id/id/restaurant/cwie-mie-malang-rosie-marcie-kebon-kacang-delivery/6-C2JKJREFRN5ASE?,Jakarta,4.6,1,2.0
+622,misop medan bakmi medan lapo siantar,https://food.grab.com/id/id/restaurant/misop-medan-bakmi-medan-lapo-siantar-delivery/6-CYWDSEDCCE6KVA?,Jakarta,4.2,1,2.0
+623,bu panda by spoonify petojo utara,https://food.grab.com/id/id/restaurant/bu-panda-by-spoonify-petojo-utara-delivery/6-C3M2NN4TNAKYAE?,Jakarta,4.8,1,2.0
+624,bakmi medan aliang 168 everplate pintu air pasar baru,https://food.grab.com/id/id/restaurant/bakmi-medan-aliang-168-everplate-pintu-air-pasar-baru-delivery/6-C253DEDWUBEGGJ?,Jakarta,4.7,1,2.0
+625,bakmi cratu smar krukut,https://food.grab.com/id/id/restaurant/bakmi-cratu-smar-krukut-delivery/AWkASWejkk5cOZVWvbdu?,Jakarta,4.7,1,2.0
+626,kwetiaw sapi roxy petojo utara,https://food.grab.com/id/id/restaurant/kwetiaw-sapi-roxy-petojo-utara-delivery/6-CZECLN2DE2LJVE?,Jakarta,4.5,1,2.0
+627,ramenya %E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E5%B1%8B grand indonesia,https://food.grab.com/id/id/restaurant/ramenya-%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E5%B1%8B-grand-indonesia-delivery/6-C25GGA2BDF3BKE?,Jakarta,4.8,1,2.0
+628,mie kriting luwes cikini,https://food.grab.com/id/id/restaurant/mie-kriting-luwes-cikini-delivery/6-C2VXRE4DE3DDEN?,Jakarta,4.7,1,2.0
+629,bakmi salemba 43 bungur,https://food.grab.com/id/id/restaurant/bakmi-salemba-43-bungur-delivery/IDGFSTI000009va?,Jakarta,4.8,1,2.0
+630,sugakiya ramen grand indonesia,https://food.grab.com/id/id/restaurant/sugakiya-ramen-grand-indonesia-delivery/6-CZKYUB42RYT3DA?,Jakarta,4.8,1,2.0
+631,kedai mama tyffani jati pulo,https://food.grab.com/id/id/restaurant/kedai-mama-tyffani-jati-pulo-delivery/6-CZNTGE32AX5JSE?,Jakarta,4.2,1,32.0
+632,bakmi aboen pasar baru,https://food.grab.com/id/id/restaurant/bakmi-aboen-pasar-baru-delivery/6-CZDVR2KVCXKASA?,Jakarta,4.8,1,2.0
+633,mie ayam cucak rowo gambir,https://food.grab.com/id/id/restaurant/mie-ayam-cucak-rowo-gambir-delivery/6-C2CVABU1NXMKJE?,Jakarta,4.6,1,2.0
+634,seblak mama dede jatipulo,https://food.grab.com/id/id/restaurant/seblak-mama-dede-jatipulo-delivery/6-C24EPBJEGTJGME?,Jakarta,3.9,1,2.0
+635,warung seblak super hot jati pulo,https://food.grab.com/id/id/restaurant/warung-seblak-super-hot-jati-pulo-delivery/6-C2W2FFM3T3W1GE?,Jakarta,4.5,1,32.0
+636,warkop heroy kebon kacang,https://food.grab.com/id/id/restaurant/warkop-heroy-kebon-kacang-delivery/6-C2AEALKUA3WWJ2?,Jakarta,,0,2.0
+637,bpk khas lapo siantar senen,https://food.grab.com/id/id/restaurant/bpk-khas-lapo-siantar-senen-delivery/6-C2BDERJJPAUTJE?,Jakarta,4.6,1,2.0
+638,warkop segitiga02 kebon kelapa,https://food.grab.com/id/id/restaurant/warkop-segitiga02-kebon-kelapa-delivery/6-C32XL7UUFF5WJE?,Jakarta,5.0,1,32.0
+639,imperial kitchen dimsum plaza atrium,https://food.grab.com/id/id/restaurant/imperial-kitchen-dimsum-plaza-atrium-delivery/IDGFSTI00001mse?,Jakarta,4.7,1,2.0
+640,you ma you la grand indonesia,https://food.grab.com/id/id/restaurant/you-ma-you-la-grand-indonesia-delivery/6-C2AEAKBWJXJHGJ?,Jakarta,4.5,1,2.0
+641,bakmi afu pek cham kee petojo selatan,https://food.grab.com/id/id/restaurant/bakmi-afu-pek-cham-kee-petojo-selatan-delivery/6-CZBBATCVAY5VRJ?,Jakarta,4.6,1,2.0
+642,bakso sapi wahid kebon sirih,https://food.grab.com/id/id/restaurant/bakso-sapi-wahid-kebon-sirih-delivery/6-C3K1GRD1J72AN2?,Jakarta,5.0,1,2.0
+643,warunk upnormal cikini,https://food.grab.com/id/id/restaurant/warunk-upnormal-cikini-delivery/6-CY2WEA3VEN3ZRT?,Jakarta,4.5,1,77.0
+644,warkop 1899 berkah kramat pulo kramat,https://food.grab.com/id/id/restaurant/warkop-1899-berkah-kramat-pulo-kramat-delivery/6-CZLBRXBXTAVZHE?,Jakarta,4.7,1,32.0
+645,lapo dan bakmi pem tanah jawa senen,https://food.grab.com/id/id/restaurant/lapo-dan-bakmi-pem-tanah-jawa-senen-delivery/6-C26CJ73HJVCVVX?,Jakarta,4.8,1,2.0
+646,coriander kitchen kampung bali,https://food.grab.com/id/id/restaurant/coriander-kitchen-kampung-bali-delivery/6-C4AEVUWCMBKBDA?,Jakarta,4.8,1,2.0
+647,mie ayam nur gambir,https://food.grab.com/id/id/restaurant/mie-ayam-nur-gambir-delivery/6-C2BESA2FAZDZA6?,Jakarta,4.6,1,2.0
+648,mixue kota bambu,https://food.grab.com/id/id/restaurant/mixue-kota-bambu-delivery/6-C3XTCNVBTCJ1N6?,Jakarta,4.9,1,2.0
+649,xiboba sarinah,https://food.grab.com/id/id/restaurant/xiboba-sarinah-delivery/6-CYXWGTTHGUBWC2?,Jakarta,4.7,1,2.0
+650,master boba indonesia kota bambu utara,https://food.grab.com/id/id/restaurant/master-boba-indonesia-kota-bambu-utara-delivery/6-C3UGDCEYJREBSE?,Jakarta,4.8,1,2.0
+651,sharetea plaza atrium,https://food.grab.com/id/id/restaurant/sharetea-plaza-atrium-delivery/IDGFSTI0000005m?,Jakarta,4.7,1,2.0
+652,haus x hot oppa jkt stasiun gambir,https://food.grab.com/id/id/restaurant/haus-x-hot-oppa-jkt-stasiun-gambir-delivery/6-C3UVGGC2RY52TA?,Jakarta,,0,2.0
+653,happy lemon chubb square,https://food.grab.com/id/id/restaurant/happy-lemon-chubb-square-delivery/6-C2NKR4JFVJ6JNT?,Jakarta,4.9,1,2.0
+654,boba brost mangga besar tangki,https://food.grab.com/id/id/restaurant/boba-brost-mangga-besar-tangki-delivery/6-C2AXN2DWNX62RA?,Jakarta,4.6,1,119.0
+655,dsruput utan panjang,https://food.grab.com/id/id/restaurant/dsruput-utan-panjang-delivery/6-C232ENKYLTB3G6?,Jakarta,4.7,1,2.0
+656,gong cha %E8%B2%A2%E8%8C%B6 senayan park,https://food.grab.com/id/id/restaurant/gong-cha-%E8%B2%A2%E8%8C%B6-senayan-park-delivery/6-C2E1RAXENGMERX?,Jakarta,,0,2.0
+657,ayam penyet sambel ijo lestari cempaka baru,https://food.grab.com/id/id/restaurant/ayam-penyet-sambel-ijo-lestari-cempaka-baru-delivery/6-C2BXRBXZNRAAJJ?,Jakarta,4.5,1,32.0
+658,ban ban cheese tea grand indonesia,https://food.grab.com/id/id/restaurant/ban-ban-cheese-tea-grand-indonesia-delivery/6-CYUXLFAGUF2ZAN?,Jakarta,4.8,1,2.0
+659,kopi pick cup graha harmoni,https://food.grab.com/id/id/restaurant/kopi-pick-cup-graha-harmoni-delivery/6-C2CKGXTJRB5CVE?,Jakarta,4.9,1,2.0
+660,gulu gulu gadjah mada plaza,https://food.grab.com/id/id/restaurant/gulu-gulu-gadjah-mada-plaza-delivery/6-CZB2JEEJUE6UCX?,Jakarta,4.7,1,2.0
+661,xie xie boba taman sari,https://food.grab.com/id/id/restaurant/xie-xie-boba-taman-sari-delivery/6-CZB3EXKFEBEUGE?,Jakarta,3.9,1,2.0
+662,koi the plaza indonesia level 4,https://food.grab.com/id/id/restaurant/koi-the-plaza-indonesia-level-4-delivery/6-CY21EXXWUFW1CN?,Jakarta,4.9,1,2.0
+663,street boba mangga besar,https://food.grab.com/id/id/restaurant/street-boba-mangga-besar-delivery/6-C2AYJ4AYAF31JT?,Jakarta,4.9,1,2.0
+664,hop hop bubble drink gajah mada plaza,https://food.grab.com/id/id/restaurant/hop-hop-bubble-drink-gajah-mada-plaza-delivery/IDGFSTI000000ep?,Jakarta,4.6,1,2.0
+665,xiyue sarinah,https://food.grab.com/id/id/restaurant/xiyue-sarinah-delivery/6-C4BVRXBFTGBBLA?,Jakarta,4.2,1,2.0
+666,jelly potter kebon melati,https://food.grab.com/id/id/restaurant/jelly-potter-kebon-melati-delivery/6-C2VDNBAYJ2XBAA?,Jakarta,4.8,1,123.0
+667,aus kebon kosong,https://food.grab.com/id/id/restaurant/aus-kebon-kosong-delivery/6-C2NFVKCAR6TGRJ?,Jakarta,4.6,1,2.0
+668,kam sia boba kepa duri duri kepa,https://food.grab.com/id/id/restaurant/kam-sia-boba-kepa-duri-duri-kepa-delivery/6-C24YN66WNEE3TN?,Jakarta,3.8,1,2.0
+669,wee nam kee %E5%A8%81%E5%8D%97%E8%A8%98%E6%B5%B7%E5%8D%97%E9%9B%9E%E9%A3%AF plaza indonesia,https://food.grab.com/id/id/restaurant/wee-nam-kee-%E5%A8%81%E5%8D%97%E8%A8%98%E6%B5%B7%E5%8D%97%E9%9B%9E%E9%A3%AF-plaza-indonesia-delivery/6-C3WBSEVXBAKYVJ?,Jakarta,4.6,1,2.0
+670,kokumi hublife,https://food.grab.com/id/id/restaurant/kokumi-hublife-delivery/6-CYVBNJ6WRT5YCT?,Jakarta,4.8,1,2.0
+671,minqu tomang,https://food.grab.com/id/id/restaurant/minqu-tomang-delivery/6-C2DDBGLAJ2NCWE?,Jakarta,4.8,1,2.0
+672,greenly healthy salad bowl juice sudirman,https://food.grab.com/id/id/restaurant/greenly-healthy-salad-bowl-juice-sudirman-delivery/6-C22CAGLDUBMKWE?,Jakarta,,0,2.0
+673,nasi goreng tick tock gajah mada,https://food.grab.com/id/id/restaurant/nasi-goreng-tick-tock-gajah-mada-delivery/6-C3D3ECADV8LBTA?,Jakarta,4.9,1,2.0
+674,run dan run cikini,https://food.grab.com/id/id/restaurant/run-dan-run-cikini-delivery/6-C2A2RCEXFABYVA?,Jakarta,5.0,1,2.0
+675,hejo2 hxc cendol kebon kelapa,https://food.grab.com/id/id/restaurant/hejo2-hxc-cendol-kebon-kelapa-delivery/6-C2CBEJXXCN6WUE?,Jakarta,4.4,1,2.0
+676,thai tea thaiyo johar baru,https://food.grab.com/id/id/restaurant/thai-tea-thaiyo-johar-baru-delivery/6-CY5VRBBANNLVAN?,Jakarta,5.0,1,2.0
+677,xie boba menteng wadas,https://food.grab.com/id/id/restaurant/xie-boba-menteng-wadas-delivery/6-CZMJRVLJGB5DEX?,Jakarta,4.5,1,2.0
+678,moji grand indonesia mall,https://food.grab.com/id/id/restaurant/moji-grand-indonesia-mall-delivery/6-CYVFN8NATA6UNA?,Jakarta,4.8,1,2.0
+679,lolipop food and drink tanah sereal,https://food.grab.com/id/id/restaurant/lolipop-food-and-drink-tanah-sereal-delivery/6-C22TVY4AC4AEET?,Jakarta,4.6,1,32.0
+680,kopi dari hati sawah besar,https://food.grab.com/id/id/restaurant/kopi-dari-hati-sawah-besar-delivery/6-C2XTEY4JRE2JCT?,Jakarta,4.5,1,2.0
+681,r b tea grand indonesia,https://food.grab.com/id/id/restaurant/r-b-tea-grand-indonesia-delivery/6-C3MFACMUKCKZGX?,Jakarta,,0,2.0
+682,thaiyo kramat kwitang,https://food.grab.com/id/id/restaurant/thaiyo-kramat-kwitang-delivery/6-CY2CNTCUTRBJT6?,Jakarta,4.9,1,2.0
+683,mutiara donuts sumur batu,https://food.grab.com/id/id/restaurant/mutiara-donuts-sumur-batu-delivery/6-C2CCATW3G2LZRX?,Jakarta,4.9,1,2.0
+684,bube x heytato tanjung duren utara,https://food.grab.com/id/id/restaurant/bube-x-heytato-tanjung-duren-utara-delivery/6-CYXKNX4XEE2JVA?,Jakarta,4.8,1,2.0
+685,xibobah tanjung duren mandalika tanjung duren selatan,https://food.grab.com/id/id/restaurant/xibobah-tanjung-duren-mandalika-tanjung-duren-selatan-delivery/6-C3B3JUMBLF32TJ?,Jakarta,4.2,1,124.0
+686,zooma boba kwitang,https://food.grab.com/id/id/restaurant/zooma-boba-kwitang-delivery/6-C3VWT66DNNMAVA?,Jakarta,4.0,1,2.0
+687,klean cup graha harmoni,https://food.grab.com/id/id/restaurant/klean-cup-graha-harmoni-delivery/6-C3MER662ECCHLX?,Jakarta,4.9,1,2.0
+688,cappucino cincau kwitang kenari,https://food.grab.com/id/id/restaurant/cappucino-cincau-kwitang-kenari-delivery/6-C221PAA1CK4ESE?,Jakarta,4.3,1,2.0
+689,hula tea coffee sentiong,https://food.grab.com/id/id/restaurant/hula-tea-coffee-sentiong-delivery/6-C3ABSGCUR2KJPE?,Jakarta,4.8,1,2.0
+690,xing fu tang kota kasablanka,https://food.grab.com/id/id/restaurant/xing-fu-tang-kota-kasablanka-delivery/6-C351LBLDSFMKGA?,Jakarta,4.8,1,2.0
+691,jepudol keagungan,https://food.grab.com/id/id/restaurant/jepudol-keagungan-delivery/6-C2VKL8ADRK3CJ6?,Jakarta,4.8,1,79.0
+692,juragan boba galur,https://food.grab.com/id/id/restaurant/juragan-boba-galur-delivery/6-C351TP4HNT6VN6?,Jakarta,4.2,1,2.0
+693,d sruput kayu manis,https://food.grab.com/id/id/restaurant/d-sruput-kayu-manis-delivery/6-C2BUC2KBRUMGDE?,Jakarta,4.9,1,2.0
+694,dessert si manis tanah tinggi,https://food.grab.com/id/id/restaurant/dessert-si-manis-tanah-tinggi-delivery/6-C4D3FGCCR6CAGA?,Jakarta,5.0,1,2.0
+695,kedai mba zen semeru raya,https://food.grab.com/id/id/restaurant/kedai-mba-zen-semeru-raya-delivery/6-CYX2JTTDEFNFJE?,Jakarta,4.5,1,106.0
+696,sameruf coffee pasar baru,https://food.grab.com/id/id/restaurant/sameruf-coffee-pasar-baru-delivery/6-C22VMABFCN3DLN?,Jakarta,4.0,1,2.0
+697,xie boba tebet,https://food.grab.com/id/id/restaurant/xie-boba-tebet-delivery/6-C26AUELDTRE3LA?,Jakarta,4.4,1,2.0
+698,ruang harap es coklat harapan johar baru,https://food.grab.com/id/id/restaurant/ruang-harap-es-coklat-harapan-johar-baru-delivery/6-C3XJGB3WN3EWSA?,Jakarta,4.4,1,32.0
+699,ice ice baby sangaji,https://food.grab.com/id/id/restaurant/ice-ice-baby-sangaji-delivery/6-C361CPKWAET2E2?,Jakarta,5.0,1,2.0
+700,bobacha kalipasir cikini cikini,https://food.grab.com/id/id/restaurant/bobacha-kalipasir-cikini-cikini-delivery/6-C2BVNGE3LXCKGJ?,Jakarta,5.0,1,2.0
+701,cappucino cincau khas suramadu kwitang,https://food.grab.com/id/id/restaurant/cappucino-cincau-khas-suramadu-kwitang-delivery/6-C22YEVN2RBTGDE?,Jakarta,,1,2.0
+702,roscik ayam panggang pisangan timur,https://food.grab.com/id/id/restaurant/roscik-ayam-panggang-pisangan-timur-delivery/6-C2BWJEEYGA4VBA?,Jakarta,4.8,1,2.0
+703,everyday yobe jelambar,https://food.grab.com/id/id/restaurant/everyday-yobe-jelambar-delivery/6-CZEGNETYVNTDGX?,Jakarta,4.8,1,2.0
+704,es cendol cjdw grogol selatan,https://food.grab.com/id/id/restaurant/es-cendol-cjdw-grogol-selatan-delivery/6-C26VC4LYCBJ2GT?,Jakarta,4.9,1,2.0
+705,sini minum kebon sirih kampung bali,https://food.grab.com/id/id/restaurant/sini-minum-kebon-sirih-kampung-bali-delivery/6-C3XHNKLAGN3DEX?,Jakarta,,1,2.0
+706,warung nana cempaka baru,https://food.grab.com/id/id/restaurant/warung-nana-cempaka-baru-delivery/6-C4DZVUKJJ2BTCN?,Jakarta,,1,2.0
+707,kopi jj apartment latumenten,https://food.grab.com/id/id/restaurant/kopi-jj-apartment-latumenten-delivery/6-C3AXLPAYV3UABA?,Jakarta,4.6,1,2.0
+708,bube tomang,https://food.grab.com/id/id/restaurant/bube-tomang-delivery/6-C2CGJ8JGCEBJBE?,Jakarta,4.8,1,2.0
+709,attin snack sunter jaya,https://food.grab.com/id/id/restaurant/attin-snack-sunter-jaya-delivery/6-C3TERVMJBFL1DE?,Jakarta,4.5,1,2.0
+710,pan co mall kota kasablanka,https://food.grab.com/id/id/restaurant/pan-co-mall-kota-kasablanka-delivery/6-CZMGAALFVN3YTT?,Jakarta,4.8,1,2.0
+711,fruiday smootea fruit juice half cold pressed smoothies mediterania boulevard residences,https://food.grab.com/id/id/restaurant/fruiday-smootea-fruit-juice-half-cold-pressed-smoothies-mediterania-boulevard-residences-delivery/6-C3WTCCDFJXTYN2?,Jakarta,5.0,1,2.0
+712,pizza delicious cempaka putih,https://food.grab.com/id/id/restaurant/pizza-delicious-cempaka-putih-delivery/6-C2WGTABAPCNELN?,Jakarta,4.2,1,2.0
+713,k in kitchen kelapa gading permai,https://food.grab.com/id/id/restaurant/k-in-kitchen-kelapa-gading-permai-delivery/6-C2U1JCMENT3BJA?,Jakarta,1.0,1,2.0
+714,la cocina pasar baru,https://food.grab.com/id/id/restaurant/la-cocina-pasar-baru-delivery/6-C3B2T2JCVBDHSE?,Jakarta,5.0,1,2.0
+715,dapur memey31 kampung rawa,https://food.grab.com/id/id/restaurant/dapur-memey31-kampung-rawa-delivery/6-C3DFLGK1GK5CAJ?,Jakarta,5.0,1,2.0
+716,pizza head lippo kuningan,https://food.grab.com/id/id/restaurant/pizza-head-lippo-kuningan-delivery/6-C3EHALKXG6MXSA?,Jakarta,4.0,1,2.0
+717,nasi goreng kambing kebon sirih 1958 nasgorkam bonsir 1958 menteng,https://food.grab.com/id/id/restaurant/nasi-goreng-kambing-kebon-sirih-1958-nasgorkam-bonsir-1958-menteng-delivery/6-C2VXRKJKE4LHFA?,Jakarta,4.8,1,36.0
+718,nasi goreng dan ayam bakar ibu tunia kp bali,https://food.grab.com/id/id/restaurant/nasi-goreng-dan-ayam-bakar-ibu-tunia-kp-bali-delivery/6-CZL2LKNBN3EAHE?,Jakarta,4.7,1,2.0
+719,ketoprak telor kuliner budi kemuliaan gambir,https://food.grab.com/id/id/restaurant/ketoprak-telor-kuliner-budi-kemuliaan-gambir-delivery/6-C2XTCTDCUEWACA?,Jakarta,4.7,1,2.0
+720,nasi uduk ayam tulang lunak waroeng pak eddy kebon sirih,https://food.grab.com/id/id/restaurant/nasi-uduk-ayam-tulang-lunak-waroeng-pak-eddy-kebon-sirih-delivery/6-C26VCFLXJVCEN6?,Jakarta,4.7,1,2.0
+721,nasi goreng sibungsu kebon sirih,https://food.grab.com/id/id/restaurant/nasi-goreng-sibungsu-kebon-sirih-delivery/6-C2BFWETBBCNDTN?,Jakarta,4.4,1,32.0
+722,burger king cideng jakarta,https://food.grab.com/id/id/restaurant/burger-king-cideng-jakarta-delivery/6-CYN3PFCFR4M2TN?,Jakarta,4.5,1,32.0
+723,gado gado dan lontong sayur pak madra e gambir,https://food.grab.com/id/id/restaurant/gado-gado-dan-lontong-sayur-pak-madra-e-gambir-delivery/6-C34KL3XXUBNTAA?,Jakarta,4.4,1,2.0
+724,popeyes skyline,https://food.grab.com/id/id/restaurant/popeyes-skyline-delivery/6-C32KCBBWV3BDTT?,Jakarta,4.5,1,32.0
+725,nasi goreng prapatan senen,https://food.grab.com/id/id/restaurant/nasi-goreng-prapatan-senen-delivery/6-C2XKEE2HSETDKE?,Jakarta,4.7,1,32.0
+726,hokben menteng huis,https://food.grab.com/id/id/restaurant/hokben-menteng-huis-delivery/6-CY4XJATHL6KBNA?,Jakarta,4.8,1,2.0
+727,nasi padang sederhana minang gambir,https://food.grab.com/id/id/restaurant/nasi-padang-sederhana-minang-gambir-delivery/6-C3LBN6DYLE4AR6?,Jakarta,4.5,1,2.0
+728,nasi uduk kebon kacang ibu ningnung kebon kacang,https://food.grab.com/id/id/restaurant/nasi-uduk-kebon-kacang-ibu-ningnung-kebon-kacang-delivery/6-CY4BLBDUNFC2AA?,Jakarta,4.8,1,2.0
+729,kfc prapatan tugu tani,https://food.grab.com/id/id/restaurant/kfc-prapatan-tugu-tani-delivery/IDGFSTI00000fea?,Jakarta,4.7,1,2.0
+730,nasi cumi hitam madura pak kris d salon food court,https://food.grab.com/id/id/restaurant/nasi-cumi-hitam-madura-pak-kris-d-salon-food-court-delivery/6-CYVBJFJVVCEKV2?,Jakarta,4.7,1,2.0
+731,bubur ayam h hadi kebon sirih,https://food.grab.com/id/id/restaurant/bubur-ayam-h-hadi-kebon-sirih-delivery/6-CZDJGEJKV3BHVA?,Jakarta,4.7,1,2.0
+732,nasi goreng seafood bos rt kebon sirih,https://food.grab.com/id/id/restaurant/nasi-goreng-seafood-bos-rt-kebon-sirih-delivery/6-C3UTLUMFAXN1RX?,Jakarta,4.3,1,32.0
+733,pondok sibungsu kh wahid hasyim,https://food.grab.com/id/id/restaurant/pondok-sibungsu-kh-wahid-hasyim-delivery/6-CY5WKEKGCEMGUE?,Jakarta,4.5,1,32.0
+734,banzai menteng,https://food.grab.com/id/id/restaurant/banzai-menteng-delivery/6-C3TUJUXGTGLTCX?,Jakarta,4.7,1,34.0
+735,limau nasi jeruk rice bowl gondangdia,https://food.grab.com/id/id/restaurant/limau-nasi-jeruk-rice-bowl-gondangdia-delivery/6-C2J3RRA3FCNADE?,Jakarta,4.4,1,2.0
+736,ayam geprek kambal kampung bali,https://food.grab.com/id/id/restaurant/ayam-geprek-kambal-kampung-bali-delivery/6-C3U1FFLWTAL2LN?,Jakarta,4.7,1,2.0
+737,faasos kebab wrap menteng,https://food.grab.com/id/id/restaurant/faasos-kebab-wrap-menteng-delivery/6-C3TULYMJC7U1WA?,Jakarta,4.7,1,34.0
+738,ayam geprek master cideng,https://food.grab.com/id/id/restaurant/ayam-geprek-master-cideng-delivery/6-CZEVAE6EAZLBCT?,Jakarta,4.5,1,2.0
+739,mangkokku rice bowl mid point,https://food.grab.com/id/id/restaurant/mangkokku-rice-bowl-mid-point-delivery/6-C2BWLJ6ULEJCV6?,Jakarta,4.8,1,2.0
+740,ngedagging pasar baru,https://food.grab.com/id/id/restaurant/ngedagging-pasar-baru-delivery/6-C2LCGY2JA2UACX?,Jakarta,4.7,1,2.0
+741,dailybox pecenongan,https://food.grab.com/id/id/restaurant/dailybox-pecenongan-delivery/6-CZLWEKLXV6VJMA?,Jakarta,4.6,1,2.0
+742,ayam pusaka abadi petojo selatan,https://food.grab.com/id/id/restaurant/ayam-pusaka-abadi-petojo-selatan-delivery/6-CZEATCDDWETFDE?,Jakarta,4.7,1,2.0
+743,sederhana sabang kebon sirih,https://food.grab.com/id/id/restaurant/sederhana-sabang-kebon-sirih-delivery/6-C3TGEBBBPFVYL6?,Jakarta,4.4,1,2.0
+744,mie ayam teh is senen,https://food.grab.com/id/id/restaurant/mie-ayam-teh-is-senen-delivery/6-C26FJ232TY6EVA?,Jakarta,4.8,1,2.0
+745,yoshinoya beef bowl suryopranoto,https://food.grab.com/id/id/restaurant/yoshinoya-beef-bowl-suryopranoto-delivery/6-CYLELTLZNVC1RN?,Jakarta,4.8,1,2.0
+746,nasi goreng kambing kebon sirih pasar nusantara sarinah,https://food.grab.com/id/id/restaurant/nasi-goreng-kambing-kebon-sirih-pasar-nusantara-sarinah-delivery/6-C3VJNX4XGKEXSE?,Jakarta,4.9,1,2.0
+747,wild bites the boxx in sawah besar,https://food.grab.com/id/id/restaurant/wild-bites-the-boxx-in-sawah-besar-delivery/6-C2XBG32TFFBZEN?,Jakarta,4.8,1,2.0
+748,waroeng pak eddy kebon sirih kebon sirih timur,https://food.grab.com/id/id/restaurant/waroeng-pak-eddy-kebon-sirih-kebon-sirih-timur-delivery/6-CYWTSBTZL8CCCX?,Jakarta,4.7,1,2.0
+749,nasi uduk 27 arif senen,https://food.grab.com/id/id/restaurant/nasi-uduk-27-arif-senen-delivery/6-CZNVAN2KVVNJUA?,Jakarta,4.6,1,2.0
+750,nasi bigul bali bu niluh pasar baru,https://food.grab.com/id/id/restaurant/nasi-bigul-bali-bu-niluh-pasar-baru-delivery/6-C332MCJAVBCBL6?,Jakarta,4.8,1,2.0
+751,nasi gandul khas pati kebon sirih,https://food.grab.com/id/id/restaurant/nasi-gandul-khas-pati-kebon-sirih-delivery/6-C2KHCJDCLTATVA?,Jakarta,4.6,1,2.0
+752,gokana ramen teppan plaza atrium,https://food.grab.com/id/id/restaurant/gokana-ramen-teppan-plaza-atrium-delivery/IDGFSTI00000ee5?,Jakarta,4.7,1,2.0
+753,restoran garuda sabang,https://food.grab.com/id/id/restaurant/restoran-garuda-sabang-delivery/IDGFSTI00001z6f?,Jakarta,4.6,1,2.0
+754,nasi timbel gurame bakar putri ayu petojo selatan,https://food.grab.com/id/id/restaurant/nasi-timbel-gurame-bakar-putri-ayu-petojo-selatan-delivery/6-C2BUN3LYVE22VT?,Jakarta,4.4,1,23.0
+755,kantin rujak cingur pak hadi kebon sirih,https://food.grab.com/id/id/restaurant/kantin-rujak-cingur-pak-hadi-kebon-sirih-delivery/IDGFSTI00001z6b?,Jakarta,4.6,1,2.0
+756,nasi kulit gokskin gambir,https://food.grab.com/id/id/restaurant/nasi-kulit-gokskin-gambir-delivery/6-CZNKJJKHN26WGX?,Jakarta,4.7,1,36.0
+757,d cost petojo gambir,https://food.grab.com/id/id/restaurant/d-cost-petojo-gambir-delivery/6-C3BVSACYGT4FGN?,Jakarta,4.7,1,2.0
+758,nasi campur afuk kebon kelapa,https://food.grab.com/id/id/restaurant/nasi-campur-afuk-kebon-kelapa-delivery/6-C2AAUEVGTU6EJ2?,Jakarta,4.7,1,2.0
+759,rumah makan manado saung immanuel gambir,https://food.grab.com/id/id/restaurant/rumah-makan-manado-saung-immanuel-gambir-delivery/6-CZLBWBECAT62PA?,Jakarta,4.8,1,2.0
+760,bakmi gm stasiun gambir,https://food.grab.com/id/id/restaurant/bakmi-gm-stasiun-gambir-delivery/IDGFSTI0000008e?,Jakarta,4.7,1,2.0
+761,geprek bensu tanah abang,https://food.grab.com/id/id/restaurant/geprek-bensu-tanah-abang-delivery/IDGFSTI00002yg4?,Jakarta,4.5,1,2.0
+762,rumah makan ibu ida kebon sirih,https://food.grab.com/id/id/restaurant/rumah-makan-ibu-ida-kebon-sirih-delivery/6-CY5EVN5ARRCGJN?,Jakarta,4.6,1,2.0
+763,nasi goreng wempy kebon sirih,https://food.grab.com/id/id/restaurant/nasi-goreng-wempy-kebon-sirih-delivery/6-CY43NE5ZG2XCNA?,Jakarta,4.5,1,2.0
+764,kedai pelangi kebon sirih,https://food.grab.com/id/id/restaurant/kedai-pelangi-kebon-sirih-delivery/IDGFSTI000023f5?,Jakarta,4.8,1,2.0
+765,dibao untuang kebon kacang,https://food.grab.com/id/id/restaurant/dibao-untuang-kebon-kacang-delivery/6-CYVHGE2TT22JEN?,Jakarta,4.6,1,2.0
+766,lontong sayur medan kak ika petojo selatan,https://food.grab.com/id/id/restaurant/lontong-sayur-medan-kak-ika-petojo-selatan-delivery/6-CZN2E26EJ7MHNX?,Jakarta,4.7,1,32.0
+767,gado gado boplo pasar nusantara sarinah,https://food.grab.com/id/id/restaurant/gado-gado-boplo-pasar-nusantara-sarinah-delivery/6-C3VJNX4XJPBCWE?,Jakarta,4.7,1,2.0
+768,a w plaza atrium,https://food.grab.com/id/id/restaurant/a-w-plaza-atrium-delivery/6-CYNCGZJVAAAYLX?,Jakarta,4.7,1,2.0
+769,nasi padang pagi siang malam dapurhub thamrin,https://food.grab.com/id/id/restaurant/nasi-padang-pagi-siang-malam-dapurhub-thamrin-delivery/6-C3MGNLAXAXVANE?,Jakarta,4.6,1,32.0
+770,samalam rayya gambir,https://food.grab.com/id/id/restaurant/samalam-rayya-gambir-delivery/6-C3KBLPNVMACKEN?,Jakarta,4.5,1,2.0
+771,nasi siram pakyu gambir,https://food.grab.com/id/id/restaurant/nasi-siram-pakyu-gambir-delivery/6-C25YV732G4CKDE?,Jakarta,4.9,1,48.0
+772,nasi jagal gondangdia kebon sirih,https://food.grab.com/id/id/restaurant/nasi-jagal-gondangdia-kebon-sirih-delivery/6-C2BHJB2CNT5CSA?,Jakarta,4.7,1,2.0
+773,fingers butter rice petojo,https://food.grab.com/id/id/restaurant/fingers-butter-rice-petojo-delivery/6-C3AHL72YG3MANT?,Jakarta,4.9,1,2.0
+774,nasi ayam ori menteng,https://food.grab.com/id/id/restaurant/nasi-ayam-ori-menteng-delivery/6-C4BGR3BURB2VDA?,Jakarta,4.6,1,2.0
+775,bros fried chicken bfc menteng,https://food.grab.com/id/id/restaurant/bros-fried-chicken-bfc-menteng-delivery/6-C3TUMA4XVBLHCA?,Jakarta,4.6,1,34.0
+776,cfc stasiun gambir b,https://food.grab.com/id/id/restaurant/cfc-stasiun-gambir-b-delivery/IDGFSTI000006x6?,Jakarta,4.6,1,32.0
+777,nasi kapau begadang 25jam dapurhub thamrin,https://food.grab.com/id/id/restaurant/nasi-kapau-begadang-25jam-dapurhub-thamrin-delivery/6-C3MGPCDHAFK2JX?,Jakarta,4.7,1,32.0
+778,rawon premium by salina kitchen thamrin,https://food.grab.com/id/id/restaurant/rawon-premium-by-salina-kitchen-thamrin-delivery/6-C3U2WBXZG8DUA6?,Jakarta,4.7,1,2.0
+779,serasa bali thamrin,https://food.grab.com/id/id/restaurant/serasa-bali-thamrin-delivery/6-C4AAREABGPEHKE?,Jakarta,4.9,1,2.0
+780,raos petojo selatan,https://food.grab.com/id/id/restaurant/raos-petojo-selatan-delivery/IDGFSTI00002agf?,Jakarta,4.8,1,2.0
+781,pondok rasa kebon sirih,https://food.grab.com/id/id/restaurant/pondok-rasa-kebon-sirih-delivery/6-CYT2VXAXTCJHN2?,Jakarta,4.6,1,2.0
+782,nasi goreng sibungsu kebon sirih,https://food.grab.com/id/id/restaurant/nasi-goreng-sibungsu-kebon-sirih-delivery/6-C2BFWETBBCNDTN?,Jakarta,4.4,1,32.0
+783,nasi bakar oseng mercon angry kebon kacang,https://food.grab.com/id/id/restaurant/nasi-bakar-oseng-mercon-angry-kebon-kacang-delivery/6-C2VFEUXWJ7KWAA?,Jakarta,4.7,1,2.0
+784,ayam penyet sambel ijo harapan kota bambu utara,https://food.grab.com/id/id/restaurant/ayam-penyet-sambel-ijo-harapan-kota-bambu-utara-delivery/6-CZNGC2CYE7X1CN?,Jakarta,4.8,1,2.0
+785,pondok sibungsu kh wahid hasyim,https://food.grab.com/id/id/restaurant/pondok-sibungsu-kh-wahid-hasyim-delivery/6-CY5WKEKGCEMGUE?,Jakarta,4.5,1,32.0
+786,pecel lele thabrani kramat,https://food.grab.com/id/id/restaurant/pecel-lele-thabrani-kramat-delivery/6-C2J2CBNTL3BYA2?,Jakarta,4.4,1,2.0
+787,nasi cumi hitam madura pak kris d salon food court,https://food.grab.com/id/id/restaurant/nasi-cumi-hitam-madura-pak-kris-d-salon-food-court-delivery/6-CYVBJFJVVCEKV2?,Jakarta,4.7,1,2.0
+788,nasi goreng seafood bos rt kebon sirih,https://food.grab.com/id/id/restaurant/nasi-goreng-seafood-bos-rt-kebon-sirih-delivery/6-C3UTLUMFAXN1RX?,Jakarta,4.3,1,32.0
+789,nasi goreng seafood 24 dan chinese food halal kebon kacang,https://food.grab.com/id/id/restaurant/nasi-goreng-seafood-24-dan-chinese-food-halal-kebon-kacang-delivery/6-C2VDNLBYVXMJLT?,Jakarta,4.3,1,2.0
+790,sego goreng merakyattt slipi,https://food.grab.com/id/id/restaurant/sego-goreng-merakyattt-slipi-delivery/6-C2LVAGBDT7CXNA?,Jakarta,4.7,1,73.0
+791,nasi bebek madura mangga besar 88 tangki,https://food.grab.com/id/id/restaurant/nasi-bebek-madura-mangga-besar-88-tangki-delivery/6-C2D2MAA1JE2ZET?,Jakarta,4.4,1,32.0
+792,kantin semarang gm pasar baru,https://food.grab.com/id/id/restaurant/kantin-semarang-gm-pasar-baru-delivery/6-CZMGTPDCNEWUE6?,Jakarta,4.7,1,2.0
+793,warung pecel dan soto ibu indri petojo selatan,https://food.grab.com/id/id/restaurant/warung-pecel-dan-soto-ibu-indri-petojo-selatan-delivery/6-CY23CNDHFFTHJ2?,Jakarta,4.6,1,2.0
+794,sederhana sabang kebon sirih,https://food.grab.com/id/id/restaurant/sederhana-sabang-kebon-sirih-delivery/6-C3TGEBBBPFVYL6?,Jakarta,4.4,1,2.0
+795,pecel lele kramat lontar kramat lontar,https://food.grab.com/id/id/restaurant/pecel-lele-kramat-lontar-kramat-lontar-delivery/IDGFSTI00000sei?,Jakarta,4.0,1,36.0
+796,kedai mamah cantiq cideng,https://food.grab.com/id/id/restaurant/kedai-mamah-cantiq-cideng-delivery/6-CZN3SBKBGBUTTJ?,Jakarta,4.8,1,2.0
+797,d cost petojo gambir,https://food.grab.com/id/id/restaurant/d-cost-petojo-gambir-delivery/6-C3BVSACYGT4FGN?,Jakarta,4.7,1,2.0
+798,waroeng pak eddy kebon sirih kebon sirih barat,https://food.grab.com/id/id/restaurant/waroeng-pak-eddy-kebon-sirih-kebon-sirih-barat-delivery/6-CYLELT3TG342NE?,Jakarta,4.7,1,2.0
+799,bci nasi goreng seafood tanah sereal,https://food.grab.com/id/id/restaurant/bci-nasi-goreng-seafood-tanah-sereal-delivery/6-C2XTG3JHLP6AEJ?,Jakarta,4.6,1,32.0
+800,nyambel rampai geh krukut,https://food.grab.com/id/id/restaurant/nyambel-rampai-geh-krukut-delivery/6-CZL2CY5EPA4TT6?,Jakarta,4.4,1,36.0
+801,ayam bakar kangen udy taman sari,https://food.grab.com/id/id/restaurant/ayam-bakar-kangen-udy-taman-sari-delivery/6-C3DWCLJEENMUSA?,Jakarta,4.7,1,2.0
+802,bebek arjuna kalibaru bungur,https://food.grab.com/id/id/restaurant/bebek-arjuna-kalibaru-bungur-delivery/6-C23VAEUYBBDGME?,Jakarta,4.6,1,45.0
+803,ikan bakar dan ayam bakar kebon kacang,https://food.grab.com/id/id/restaurant/ikan-bakar-dan-ayam-bakar-kebon-kacang-delivery/6-CYMFE7X2FEC3C6?,Jakarta,4.4,1,32.0
+804,nasi kapau sabana bana kramat,https://food.grab.com/id/id/restaurant/nasi-kapau-sabana-bana-kramat-delivery/6-CY22WBD1SCCWRE?,Jakarta,4.6,1,32.0
+805,gurame bakar putri ayu petojo selatan,https://food.grab.com/id/id/restaurant/gurame-bakar-putri-ayu-petojo-selatan-delivery/6-C2AEFAMEAEVBJ6?,Jakarta,4.4,1,2.0
+806,cita rasa restu taman sari,https://food.grab.com/id/id/restaurant/cita-rasa-restu-taman-sari-delivery/IDGFSTI00001x3n?,Jakarta,4.7,1,2.0
+807,rumah makan tss 88 duri selatan,https://food.grab.com/id/id/restaurant/rumah-makan-tss-88-duri-selatan-delivery/6-CY63JK6HMBJVT6?,Jakarta,4.7,1,2.0
+808,kedai vi salmon menteng,https://food.grab.com/id/id/restaurant/kedai-vi-salmon-menteng-delivery/6-CYXJCBMKRXKEFE?,Jakarta,4.8,1,2.0
+809,ayam bakar ikan bakar rm raos asih 2 sambal mercon galur,https://food.grab.com/id/id/restaurant/ayam-bakar-ikan-bakar-rm-raos-asih-2-sambal-mercon-galur-delivery/6-CYM3TKD2VRKELJ?,Jakarta,4.5,1,2.0
+810,gurame bakar putri ayu 1 petojo selatan,https://food.grab.com/id/id/restaurant/gurame-bakar-putri-ayu-1-petojo-selatan-delivery/6-CZNTHE4YEREXNJ?,Jakarta,4.3,1,2.0
+811,pempek cawan putih kebon sirih,https://food.grab.com/id/id/restaurant/pempek-cawan-putih-kebon-sirih-delivery/6-C22FLVD3TAJXE6?,Jakarta,4.8,1,2.0
+812,ikan bakar cianjur batu tulis,https://food.grab.com/id/id/restaurant/ikan-bakar-cianjur-batu-tulis-delivery/IDGFSTI000025ac?,Jakarta,4.8,1,2.0
+813,ayam goreng karawaci pasar baru,https://food.grab.com/id/id/restaurant/ayam-goreng-karawaci-pasar-baru-delivery/6-C3C1ATV1J3BBTA?,Jakarta,4.8,1,2.0
+814,aneka seafood kebon kacang kebon kacang,https://food.grab.com/id/id/restaurant/aneka-seafood-kebon-kacang-kebon-kacang-delivery/6-CY53PE4JVYKBR6?,Jakarta,4.3,1,32.0
+815,sambal bakar khas manado kwitang,https://food.grab.com/id/id/restaurant/sambal-bakar-khas-manado-kwitang-delivery/6-C3DJRZE2WFEYNN?,Jakarta,4.5,1,2.0
+816,dapur pondok reagan kramat,https://food.grab.com/id/id/restaurant/dapur-pondok-reagan-kramat-delivery/6-C2ECC2AFUFLXHA?,Jakarta,4.4,1,32.0
+817,makanan khas maluku ambon kebon kacang,https://food.grab.com/id/id/restaurant/makanan-khas-maluku-ambon-kebon-kacang-delivery/6-C2AEAUBYDA5AG6?,Jakarta,4.5,1,2.0
+818,warung juna karang anyar,https://food.grab.com/id/id/restaurant/warung-juna-karang-anyar-delivery/6-CZKUG6LDT6VGT2?,Jakarta,4.3,1,2.0
+819,kedai zainal fanani kebon kacang,https://food.grab.com/id/id/restaurant/kedai-zainal-fanani-kebon-kacang-delivery/6-C2EAVCJEV36UAN?,Jakarta,4.6,1,125.0
+820,ayam nona tjioe cikini,https://food.grab.com/id/id/restaurant/ayam-nona-tjioe-cikini-delivery/6-C2X3MALGTREGNJ?,Jakarta,4.6,1,2.0
+821,seafood aroma laut dan chinese food pasar baru,https://food.grab.com/id/id/restaurant/seafood-aroma-laut-dan-chinese-food-pasar-baru-delivery/6-CY21FABVJ26HBE?,Jakarta,4.7,1,2.0
+822,warung aba rudi petojo selatan,https://food.grab.com/id/id/restaurant/warung-aba-rudi-petojo-selatan-delivery/6-C2WXV63YLPXBCE?,Jakarta,4.0,1,32.0
+823,nasi goreng gila seafood rawasari johar baru,https://food.grab.com/id/id/restaurant/nasi-goreng-gila-seafood-rawasari-johar-baru-delivery/6-C2KGSB4YTU2YNN?,Jakarta,4.2,1,32.0
+824,bebek cabe ijo dan ayam kampung kebon kacang,https://food.grab.com/id/id/restaurant/bebek-cabe-ijo-dan-ayam-kampung-kebon-kacang-delivery/IDGFSTI00001pp9?,Jakarta,4.6,1,32.0
+825,gebang seafood 69 krukut,https://food.grab.com/id/id/restaurant/gebang-seafood-69-krukut-delivery/6-CZN2GBEZABEXLN?,Jakarta,4.6,1,4.0
+826,pondok reagan senen,https://food.grab.com/id/id/restaurant/pondok-reagan-senen-delivery/6-CYLFGLAGNFLYSA?,Jakarta,4.4,1,32.0
+827,sate seafood senayan tanah abang,https://food.grab.com/id/id/restaurant/sate-seafood-senayan-tanah-abang-delivery/IDGFSTI000004sz?,Jakarta,4.8,1,2.0
+828,bakmi dan kwetiau goreng medan 58 kartini,https://food.grab.com/id/id/restaurant/bakmi-dan-kwetiau-goreng-medan-58-kartini-delivery/6-C3DWFBXANYAYRX?,Jakarta,4.4,1,2.0
+829,lapo tao silalahi khas karo senen,https://food.grab.com/id/id/restaurant/lapo-tao-silalahi-khas-karo-senen-delivery/6-C24HAPBZRK4BAN?,Jakarta,3.7,1,2.0
+830,sop ikan batam gajah mada plaza,https://food.grab.com/id/id/restaurant/sop-ikan-batam-gajah-mada-plaza-delivery/6-C3WAVVKDKAUXMA?,Jakarta,4.9,1,2.0
+831,ayam woku neraka by dini mangga besar,https://food.grab.com/id/id/restaurant/ayam-woku-neraka-by-dini-mangga-besar-delivery/6-CZKEUBNVN7JHPE?,Jakarta,4.5,1,2.0
+832,ayam bakar ikan bakar warung makan mega jaya duri pulo,https://food.grab.com/id/id/restaurant/ayam-bakar-ikan-bakar-warung-makan-mega-jaya-duri-pulo-delivery/6-CYV3LKA1LBMYC6?,Jakarta,4.6,1,72.0
+833,sambel plecing jeng kelin tanah abang,https://food.grab.com/id/id/restaurant/sambel-plecing-jeng-kelin-tanah-abang-delivery/IDGFSTI000001v1?,Jakarta,4.6,1,32.0
+834,gitu deh seafood karet tengsin,https://food.grab.com/id/id/restaurant/gitu-deh-seafood-karet-tengsin-delivery/6-C2LDKBMFMBM3EJ?,Jakarta,4.6,1,2.0
+835,restoran roemah noni petojo selatan,https://food.grab.com/id/id/restaurant/restoran-roemah-noni-petojo-selatan-delivery/6-CZMACBVCDGNTMA?,Jakarta,4.6,1,2.0
+836,nasi ikan katsu selayar petojo utara,https://food.grab.com/id/id/restaurant/nasi-ikan-katsu-selayar-petojo-utara-delivery/6-C2LYJFD3C64CCE?,Jakarta,4.8,1,2.0
+837,pempek nelly 10 ulu gunung sahari selatan,https://food.grab.com/id/id/restaurant/pempek-nelly-10-ulu-gunung-sahari-selatan-delivery/6-CYVFLBA3GUBZL6?,Jakarta,4.5,1,2.0
+838,rumah makan pedes sedep cikini,https://food.grab.com/id/id/restaurant/rumah-makan-pedes-sedep-cikini-delivery/6-C2BAPBVDAZMTLA?,Jakarta,4.8,1,2.0
+839,sop ikan batam menteng huis,https://food.grab.com/id/id/restaurant/sop-ikan-batam-menteng-huis-delivery/IDGFSTI000024qc?,Jakarta,4.7,1,2.0
+840,warung pencok teteh ria maphar,https://food.grab.com/id/id/restaurant/warung-pencok-teteh-ria-maphar-delivery/6-C2JWVJD3V8LBNE?,Jakarta,4.7,1,2.0
+841,grand sentosa seafood mangga besar,https://food.grab.com/id/id/restaurant/grand-sentosa-seafood-mangga-besar-delivery/6-C3UKR6JTV66FEX?,Jakarta,4.7,1,2.0
+842,ikan bakar h babe lili gondangdia,https://food.grab.com/id/id/restaurant/ikan-bakar-h-babe-lili-gondangdia-delivery/6-CZACTXCJAJNBTN?,Jakarta,4.7,1,2.0
+843,cimon seafood karet kuningan,https://food.grab.com/id/id/restaurant/cimon-seafood-karet-kuningan-delivery/IDGFSTI00001oq3?,Jakarta,4.8,1,2.0
+844,ketoprak telor kuliner budi kemuliaan gambir,https://food.grab.com/id/id/restaurant/ketoprak-telor-kuliner-budi-kemuliaan-gambir-delivery/6-C2XTCTDCUEWACA?,Jakarta,4.7,1,32.0
+845,nasi kulit mak judes tanah abang,https://food.grab.com/id/id/restaurant/nasi-kulit-mak-judes-tanah-abang-delivery/6-C3DBBANXJA3XL6?,Jakarta,4.4,1,2.0
+846,nasi uduk ayam tulang lunak waroeng pak eddy kebon sirih,https://food.grab.com/id/id/restaurant/nasi-uduk-ayam-tulang-lunak-waroeng-pak-eddy-kebon-sirih-delivery/6-C26VCFLXJVCEN6?,Jakarta,4.7,1,2.0
+847,toko kopi tuku menteng,https://food.grab.com/id/id/restaurant/toko-kopi-tuku-menteng-delivery/6-C3UUJFVZLA2JVA?,Jakarta,4.8,1,2.0
+848,kfc hayam wuruk 2,https://food.grab.com/id/id/restaurant/kfc-hayam-wuruk-2-delivery/IDGFSTI00000fcs?,Jakarta,4.7,1,2.0
+849,eatlah plaza indonesia mall,https://food.grab.com/id/id/restaurant/eatlah-plaza-indonesia-mall-delivery/IDGFSTI00002qdy?,Jakarta,4.8,1,2.0
+850,dcrepes sarinah,https://food.grab.com/id/id/restaurant/dcrepes-sarinah-delivery/6-C3CCAFWWPGLYLN?,Jakarta,4.8,1,2.0
+851,koi the plaza indonesia basement,https://food.grab.com/id/id/restaurant/koi-the-plaza-indonesia-basement-delivery/6-CY4ETPUKCJ21KE?,Jakarta,4.9,1,2.0
+852,nasi goreng seafood bos rt kebon sirih,https://food.grab.com/id/id/restaurant/nasi-goreng-seafood-bos-rt-kebon-sirih-delivery/6-C3UTLUMFAXN1RX?,Jakarta,4.3,1,32.0
+853,ayam geprek master cideng,https://food.grab.com/id/id/restaurant/ayam-geprek-master-cideng-delivery/6-CZEVAE6EAZLBCT?,Jakarta,4.5,1,2.0
+854,esteh indonesia cikini,https://food.grab.com/id/id/restaurant/esteh-indonesia-cikini-delivery/6-C2X2PE3BTNLDNN?,Jakarta,4.9,1,2.0
+855,golden black coffee jakarta pusat,https://food.grab.com/id/id/restaurant/golden-black-coffee-jakarta-pusat-delivery/6-C3BFSFBZTUMAPA?,Jakarta,4.8,1,2.0
+856,mango jelly milk thamrin 10 kebon sirih,https://food.grab.com/id/id/restaurant/mango-jelly-milk-thamrin-10-kebon-sirih-delivery/6-C34ENADXBELYSA?,Jakarta,4.7,1,2.0
+857,restoran garuda cikini raya,https://food.grab.com/id/id/restaurant/restoran-garuda-cikini-raya-delivery/6-CYLDN4KBG8LUAT?,Jakarta,4.7,1,34.0
+858,sengkoeloen cikini,https://food.grab.com/id/id/restaurant/sengkoeloen-cikini-delivery/6-C3LYGJ63CEC3WE?,Jakarta,4.8,1,2.0
+859,starbucks tanah abang,https://food.grab.com/id/id/restaurant/starbucks-tanah-abang-delivery/6-CZCZLJ5FRCN3WE?,Jakarta,4.9,1,2.0
+860,martabak pizza orins gondangdia,https://food.grab.com/id/id/restaurant/martabak-pizza-orins-gondangdia-delivery/IDGFSTI000036eo?,Jakarta,,0,2.0
+861,ai cha ice cream tea pasar baru,https://food.grab.com/id/id/restaurant/ai-cha-ice-cream-tea-pasar-baru-delivery/6-C2LHNANXCA6CUA?,Jakarta,4.9,1,2.0
+862,point coffee indomaret juanda raya tzut,https://food.grab.com/id/id/restaurant/point-coffee-indomaret-juanda-raya-tzut-delivery/6-CZD2A3U3JA31RE?,Jakarta,4.8,1,2.0
+863,fore coffee cideng,https://food.grab.com/id/id/restaurant/fore-coffee-cideng-delivery/6-CZBFLU5KGFLUBE?,Jakarta,4.8,1,2.0
+864,chatime plaza indonesia,https://food.grab.com/id/id/restaurant/chatime-plaza-indonesia-delivery/IDGFSTI0000006s?,Jakarta,4.7,1,2.0
+865,reddog %EB%A0%88%EB%93%9C%EB%8F%85 plaza indonesia,https://food.grab.com/id/id/restaurant/reddog-%EB%A0%88%EB%93%9C%EB%8F%85-plaza-indonesia-delivery/6-C2NWNN2HRXEYHA?,Jakarta,4.8,1,2.0
+866,lapo siantar tanah jawa senen,https://food.grab.com/id/id/restaurant/lapo-siantar-tanah-jawa-senen-delivery/6-C22VNXBYAKXXNA?,Jakarta,4.5,1,2.0
+867,astro kitchen menteng,https://food.grab.com/id/id/restaurant/astro-kitchen-menteng-delivery/6-C351KACTE3WFNN?,Jakarta,4.9,1,32.0
+868,raja es kelapa muda 46 menteng,https://food.grab.com/id/id/restaurant/raja-es-kelapa-muda-46-menteng-delivery/IDGFSTI000024fq?,Jakarta,4.8,1,2.0
+869,sengkoeloen yellow bee tanah abang,https://food.grab.com/id/id/restaurant/sengkoeloen-yellow-bee-tanah-abang-delivery/6-C32HNAUZVEXTG6?,Jakarta,4.8,1,2.0
+870,warung bubur manado dan snack samrat gondangdia,https://food.grab.com/id/id/restaurant/warung-bubur-manado-dan-snack-samrat-gondangdia-delivery/6-C2BJE6NWVEUHL6?,Jakarta,4.8,1,2.0
+871,beef gyu by asap group kebon kelapa,https://food.grab.com/id/id/restaurant/beef-gyu-by-asap-group-kebon-kelapa-delivery/6-C3NFJLADJATZWA?,Jakarta,4.7,1,2.0
+872,es kelapa muda bsm 46 kebon sirih,https://food.grab.com/id/id/restaurant/es-kelapa-muda-bsm-46-kebon-sirih-delivery/6-CZNHVPUUFETGAN?,Jakarta,4.9,1,2.0
+873,madcoco plaza indonesia,https://food.grab.com/id/id/restaurant/madcoco-plaza-indonesia-delivery/6-C3U3WFBCPB4FTX?,Jakarta,4.8,1,2.0
+874,kedai pelangi kebon sirih,https://food.grab.com/id/id/restaurant/kedai-pelangi-kebon-sirih-delivery/IDGFSTI000023f5?,Jakarta,4.8,1,2.0
+875,xxi cafe djakarta teater,https://food.grab.com/id/id/restaurant/xxi-cafe-djakarta-teater-delivery/6-CZMKTCM3PGB2AA?,Jakarta,4.8,1,2.0
+876,kedai es jadoel harmonie exchange mall,https://food.grab.com/id/id/restaurant/kedai-es-jadoel-harmonie-exchange-mall-delivery/6-C3U3CVEFAB2ZTE?,Jakarta,4.8,1,2.0
+877,yumpotle gambir,https://food.grab.com/id/id/restaurant/yumpotle-gambir-delivery/6-C34JA8NDAA6FEX?,Jakarta,4.4,1,2.0
+878,lontong sayur medan kak ika petojo selatan,https://food.grab.com/id/id/restaurant/lontong-sayur-medan-kak-ika-petojo-selatan-delivery/6-CZN2E26EJ7MHNX?,Jakarta,4.7,1,32.0
+879,%F0%9F%8C%9Fteguk sawah besar,https://food.grab.com/id/id/restaurant/%F0%9F%8C%9Fteguk-sawah-besar-delivery/6-C2KDGN3JGBUHEA?,Jakarta,4.6,1,2.0
+880,kopi kenangan stasiun gambir selatan,https://food.grab.com/id/id/restaurant/kopi-kenangan-stasiun-gambir-selatan-delivery/6-C3K3BCC1GTNBKA?,Jakarta,4.9,1,2.0
+881,soto betawi globe h oji pasar baru,https://food.grab.com/id/id/restaurant/soto-betawi-globe-h-oji-pasar-baru-delivery/6-C2B1UA5KBFJTRE?,Jakarta,4.7,1,2.0
+882,gildak krekot,https://food.grab.com/id/id/restaurant/gildak-krekot-delivery/6-CZNXRPXXRENADA?,Jakarta,4.7,1,2.0
+883,puyo desserts plaza indonesia,https://food.grab.com/id/id/restaurant/puyo-desserts-plaza-indonesia-delivery/6-CZJVRNXVCVMDUA?,Jakarta,5.0,1,2.0
+884,cobekku metro atom pasar baru,https://food.grab.com/id/id/restaurant/cobekku-metro-atom-pasar-baru-delivery/6-C25UNY3YRLJHVE?,Jakarta,4.8,1,2.0
+885,roti o pasar tanah abang blok f,https://food.grab.com/id/id/restaurant/roti-o-pasar-tanah-abang-blok-f-delivery/6-C33YCUMFTPLAA6?,Jakarta,2.0,1,2.0
+886,lets toast mnc kebon sirih,https://food.grab.com/id/id/restaurant/lets-toast-mnc-kebon-sirih-delivery/6-C2U1J64AVVMHCX?,Jakarta,4.5,1,2.0
+887,birmas pasar kwitang,https://food.grab.com/id/id/restaurant/birmas-pasar-kwitang-delivery/6-C3TCTBMTCUBUNT?,Jakarta,5.0,1,73.0
+888,tomoro coffee rafles,https://food.grab.com/id/id/restaurant/tomoro-coffee-rafles-delivery/6-C4AUA3WCDGK2R2?,Jakarta,4.6,1,2.0
+889,kedai kopi kulo menteng,https://food.grab.com/id/id/restaurant/kedai-kopi-kulo-menteng-delivery/6-CYNGTJKVTNUDN2?,Jakarta,4.9,1,2.0
+890,risoles harajuku by asap group kebon kelapa,https://food.grab.com/id/id/restaurant/risoles-harajuku-by-asap-group-kebon-kelapa-delivery/6-C3NFJLADJNE2KE?,Jakarta,4.7,1,2.0
+891,bintang juice dan sop buah segar petojo utara,https://food.grab.com/id/id/restaurant/bintang-juice-dan-sop-buah-segar-petojo-utara-delivery/6-C2XUABEGLGAURT?,Jakarta,4.8,1,2.0
+892,duta jus buah potong potong sop buah pop ice dll kwitang,https://food.grab.com/id/id/restaurant/duta-jus-buah-potong-potong-sop-buah-pop-ice-dll-kwitang-delivery/6-C2DVG2N1LU2YRA?,Jakarta,4.6,1,2.0
+893,kopi toko djawa menteng,https://food.grab.com/id/id/restaurant/kopi-toko-djawa-menteng-delivery/6-C2AJKB4HTBE3LJ?,Jakarta,4.8,1,2.0
+894,noon tea bar menteng,https://food.grab.com/id/id/restaurant/noon-tea-bar-menteng-delivery/6-C3UEJCCGSBEUDA?,Jakarta,4.8,1,2.0
+895,kokumi plaza atrium,https://food.grab.com/id/id/restaurant/kokumi-plaza-atrium-delivery/6-CZMHE3JTRAVXTN?,Jakarta,4.9,1,2.0
+896,kopi bojo plaza bank index,https://food.grab.com/id/id/restaurant/kopi-bojo-plaza-bank-index-delivery/6-CYWDRFKEN7NBHA?,Jakarta,4.8,1,2.0
+897,es cokelat sih cuyyy petojo selatan,https://food.grab.com/id/id/restaurant/es-cokelat-sih-cuyyy-petojo-selatan-delivery/6-C4DYBBLKUCM3PE?,Jakarta,,1,2.0
+898,king s cafe petojo selatan,https://food.grab.com/id/id/restaurant/king-s-cafe-petojo-selatan-delivery/IDGFSTI00000ccr?,Jakarta,4.6,1,32.0
+899,mixue sabang,https://food.grab.com/id/id/restaurant/mixue-sabang-delivery/6-C3LGLJMCECJHJ6?,Jakarta,4.9,1,2.0
+900,kopi dibawahtangga plaza indonesia,https://food.grab.com/id/id/restaurant/kopi-dibawahtangga-plaza-indonesia-delivery/6-CZAAWGEYAAU1E6?,Jakarta,4.8,1,2.0
+901,flash coffee skyline thamrin,https://food.grab.com/id/id/restaurant/flash-coffee-skyline-thamrin-delivery/6-C343VJ2ZA36TTX?,Jakarta,4.6,1,2.0
+902,boost juice bars plaza indonesia,https://food.grab.com/id/id/restaurant/boost-juice-bars-plaza-indonesia-delivery/6-C3AFTVEWTJCERE?,Jakarta,4.9,1,2.0
+903,haus x hot oppa jkt stasiun gambir,https://food.grab.com/id/id/restaurant/haus-x-hot-oppa-jkt-stasiun-gambir-delivery/6-C3UVGGC2RY52TA?,Jakarta,4.7,1,2.0
+904,eatlah beefbar sawah besar,https://food.grab.com/id/id/restaurant/eatlah-beefbar-sawah-besar-delivery/6-C3NDDB3YCTBCCT?,Jakarta,4.9,1,2.0
+905,dough lab menteng,https://food.grab.com/id/id/restaurant/dough-lab-menteng-delivery/6-C3TGGBUXNNVKJX?,Jakarta,4.9,1,2.0
+906,kopi pick cup graha harmoni,https://food.grab.com/id/id/restaurant/kopi-pick-cup-graha-harmoni-delivery/6-C2CKGXTJRB5CVE?,Jakarta,4.9,1,2.0
+907,susu mbok darmi stasiun gondangdia,https://food.grab.com/id/id/restaurant/susu-mbok-darmi-stasiun-gondangdia-delivery/6-CZL2LY3YKFMWG2?,Jakarta,4.9,1,2.0
+908,nasi empal bu marie keagungan,https://food.grab.com/id/id/restaurant/nasi-empal-bu-marie-keagungan-delivery/6-C3KBLPNVLBB2LA?,Jakarta,4.8,1,2.0
+909,warung domino jelambar baru,https://food.grab.com/id/id/restaurant/warung-domino-jelambar-baru-delivery/6-C3CVPFCWALMXN6?,Jakarta,4.7,1,2.0
+910,sari rasa 38 mangga besar,https://food.grab.com/id/id/restaurant/sari-rasa-38-mangga-besar-delivery/6-C2UJRNCVC252FA?,Jakarta,5.0,1,2.0
+911,maokan sunter agung,https://food.grab.com/id/id/restaurant/maokan-sunter-agung-delivery/6-C23XAGMTTALDJA?,Jakarta,4.2,1,2.0
+912,hisana fried chicken dermaga buaran 3,https://food.grab.com/id/id/restaurant/hisana-fried-chicken-dermaga-buaran-3-delivery/6-C26CNYXEBE6FLA?,Jakarta,4.4,1,2.0
+913,ayam sonder apartmen kalibata city,https://food.grab.com/id/id/restaurant/ayam-sonder-apartmen-kalibata-city-delivery/6-C3X2VP2HLTD2BE?,Jakarta,5.0,1,32.0
+914,ayam penyet cabe ijo mas bimo bintara,https://food.grab.com/id/id/restaurant/ayam-penyet-cabe-ijo-mas-bimo-bintara-delivery/6-C2JFCT4FTBKTCX?,Jakarta,4.7,1,2.0
+915,ayam turbo snack lagoa,https://food.grab.com/id/id/restaurant/ayam-turbo-snack-lagoa-delivery/6-C23CGZDWBATERN?,Jakarta,4.7,1,2.0
+916,eleven chicken kalibata city,https://food.grab.com/id/id/restaurant/eleven-chicken-kalibata-city-delivery/6-C252DENAA22XVT?,Jakarta,4.8,1,2.0
+917,kantin mama zahra kebon jeruk,https://food.grab.com/id/id/restaurant/kantin-mama-zahra-kebon-jeruk-delivery/6-CZLTJBBYG6AUAA?,Jakarta,5.0,1,2.0
+918,selvia food end jus kartini,https://food.grab.com/id/id/restaurant/selvia-food-end-jus-kartini-delivery/6-C253GPCDDGKJA6?,Jakarta,,1,2.0
+919,aha chicken harapan mulya,https://food.grab.com/id/id/restaurant/aha-chicken-harapan-mulya-delivery/6-CY2ARKVBNXNTCX?,Jakarta,5.0,1,2.0
+920,namguu by mujigae %EB%AC%B4%EC%A7%80%EA%B0%9C grogol,https://food.grab.com/id/id/restaurant/namguu-by-mujigae-%EB%AC%B4%EC%A7%80%EA%B0%9C-grogol-delivery/6-C24GEU4UA6CUEA?,Jakarta,4.7,1,2.0
+921,i am geprek mas gembul manggarai,https://food.grab.com/id/id/restaurant/i-am-geprek-mas-gembul-manggarai-delivery/6-C2AGPGDVLE4UGT?,Jakarta,,1,2.0
+922,ayam gunting cetar rawasari,https://food.grab.com/id/id/restaurant/ayam-gunting-cetar-rawasari-delivery/6-C25GA4D3RUNWJT?,Jakarta,,1,2.0
+923,nasi bebek rudal perut matraman,https://food.grab.com/id/id/restaurant/nasi-bebek-rudal-perut-matraman-delivery/6-C24TRJ53TBCHT6?,Jakarta,4.0,1,2.0
+924,arkhavni crispy chicken mampang prapatan,https://food.grab.com/id/id/restaurant/arkhavni-crispy-chicken-mampang-prapatan-delivery/6-C2EFGBKCAFXAET?,Jakarta,4.8,1,2.0
+925,chikin n coffee lotte grosir kelapa gading,https://food.grab.com/id/id/restaurant/chikin-n-coffee-lotte-grosir-kelapa-gading-delivery/6-C2CESBK3LPUBVT?,Jakarta,5.0,1,2.0
+926,ayam nasi uduk taman kota kembangan utara,https://food.grab.com/id/id/restaurant/ayam-nasi-uduk-taman-kota-kembangan-utara-delivery/6-CYX3TUNAJ6JUET?,Jakarta,4.1,1,2.0
+927,mcdonald s thamrin jaya,https://food.grab.com/id/id/restaurant/mcdonald-s-thamrin-jaya-delivery/6-C4BGN76ZTUCJJ2?,Jakarta,4.5,1,32.0
+928,toko kopi tuku menteng,https://food.grab.com/id/id/restaurant/toko-kopi-tuku-menteng-delivery/6-C3UUJFVZLA2JVA?,Jakarta,4.8,1,2.0
+929,mixue kramat sentiong,https://food.grab.com/id/id/restaurant/mixue-kramat-sentiong-delivery/6-C3VKNKNDAPTUPE?,Jakarta,4.8,1,2.0
+930,yoshinoya beef bowl atrium senen,https://food.grab.com/id/id/restaurant/yoshinoya-beef-bowl-atrium-senen-delivery/IDGFSTI00002ym2?,Jakarta,4.8,1,2.0
+931,golden black coffee jakarta pusat,https://food.grab.com/id/id/restaurant/golden-black-coffee-jakarta-pusat-delivery/6-C3BFSFBZTUMAPA?,Jakarta,4.8,1,2.0
+932,mr ollie sarinah,https://food.grab.com/id/id/restaurant/mr-ollie-sarinah-delivery/6-C32XL7UTHFDFAJ?,Jakarta,4.9,1,2.0
+933,filosofi kopi sarinah,https://food.grab.com/id/id/restaurant/filosofi-kopi-sarinah-delivery/6-C34FGB3BPA5TFE?,Jakarta,4.6,1,2.0
+934,sengkoeloen cikini,https://food.grab.com/id/id/restaurant/sengkoeloen-cikini-delivery/6-C3LYGJ63CEC3WE?,Jakarta,4.8,1,2.0
+935,tomoro coffee sabang,https://food.grab.com/id/id/restaurant/tomoro-coffee-sabang-delivery/6-C3U3GLKBFAAVBA?,Jakarta,4.9,1,2.0
+936,fore coffee cideng,https://food.grab.com/id/id/restaurant/fore-coffee-cideng-delivery/6-CZBFLU5KGFLUBE?,Jakarta,4.8,1,2.0
+937,starbucks tanah abang,https://food.grab.com/id/id/restaurant/starbucks-tanah-abang-delivery/6-CZCZLJ5FRCN3WE?,Jakarta,4.9,1,2.0
+938,martabak pizza orins gondangdia,https://food.grab.com/id/id/restaurant/martabak-pizza-orins-gondangdia-delivery/IDGFSTI000036eo?,Jakarta,4.8,1,2.0
+939,point coffee indomaret juanda raya tzut,https://food.grab.com/id/id/restaurant/point-coffee-indomaret-juanda-raya-tzut-delivery/6-CZD2A3U3JA31RE?,Jakarta,4.8,1,2.0
+940,ayam goreng petojo gambir,https://food.grab.com/id/id/restaurant/ayam-goreng-petojo-gambir-delivery/IDGFSTI000004og?,Jakarta,4.7,1,2.0
+941,astro kitchen menteng,https://food.grab.com/id/id/restaurant/astro-kitchen-menteng-delivery/6-C351KACTE3WFNN?,Jakarta,4.9,1,32.0
+942,sengkoeloen yellow bee tanah abang,https://food.grab.com/id/id/restaurant/sengkoeloen-yellow-bee-tanah-abang-delivery/6-C32HNAUZVEXTG6?,Jakarta,4.8,1,2.0
+943,j co donuts coffee menteng central,https://food.grab.com/id/id/restaurant/j-co-donuts-coffee-menteng-central-delivery/IDGFSTI000000kx?,Jakarta,4.8,1,2.0
+944,san gyu by hangry harmoni,https://food.grab.com/id/id/restaurant/san-gyu-by-hangry-harmoni-delivery/6-CZAXSATXCF2XRX?,Jakarta,4.8,1,2.0
+945,kopi konnichiwa tanah abang,https://food.grab.com/id/id/restaurant/kopi-konnichiwa-tanah-abang-delivery/6-C34GENJ3GJEUE6?,Jakarta,4.8,1,2.0
+946,kopte by dum dum group agus salim menteng,https://food.grab.com/id/id/restaurant/kopte-by-dum-dum-group-agus-salim-menteng-delivery/6-C3BJGLMJLU2TNA?,Jakarta,3.9,1,2.0
+947,arah coffee cideng,https://food.grab.com/id/id/restaurant/arah-coffee-cideng-delivery/6-CYXAG23WGFLKVE?,Jakarta,4.8,1,2.0
+948,kopi kenangan ruko cideng,https://food.grab.com/id/id/restaurant/kopi-kenangan-ruko-cideng-delivery/6-CZEKVXXBAZKFV2?,Jakarta,4.9,1,2.0
+949,roti o st gambir 4,https://food.grab.com/id/id/restaurant/roti-o-st-gambir-4-delivery/6-C333JFWJGJJTNA?,Jakarta,5.0,1,2.0
+950,kedai kopi kulo menteng,https://food.grab.com/id/id/restaurant/kedai-kopi-kulo-menteng-delivery/6-CYNGTJKVTNUDN2?,Jakarta,4.9,1,2.0
+951,happy lemon chubb square,https://food.grab.com/id/id/restaurant/happy-lemon-chubb-square-delivery/6-C2NKR4JFVJ6JNT?,Jakarta,4.9,1,2.0
+952,kopi toko djawa menteng,https://food.grab.com/id/id/restaurant/kopi-toko-djawa-menteng-delivery/6-C2AJKB4HTBE3LJ?,Jakarta,4.8,1,2.0
+953,warkop uoa kampung bali,https://food.grab.com/id/id/restaurant/warkop-uoa-kampung-bali-delivery/6-C222JE6ANE2YRJ?,Jakarta,4.7,1,32.0
+954,master boba indonesia kota bambu utara,https://food.grab.com/id/id/restaurant/master-boba-indonesia-kota-bambu-utara-delivery/6-C3UGDCEYJREBSE?,Jakarta,4.8,1,2.0
+955,tokobeer sawah besar,https://food.grab.com/id/id/restaurant/tokobeer-sawah-besar-delivery/6-C2CYJKJGJNVJBE?,Jakarta,4.9,1,4.0
+956,kopi dibawahtangga plaza indonesia,https://food.grab.com/id/id/restaurant/kopi-dibawahtangga-plaza-indonesia-delivery/6-CZAAWGEYAAU1E6?,Jakarta,4.8,1,2.0
+957,flash coffee skyline thamrin,https://food.grab.com/id/id/restaurant/flash-coffee-skyline-thamrin-delivery/6-C343VJ2ZA36TTX?,Jakarta,4.6,1,2.0
+958,koetardja autentic aceh culinary petojo selatan,https://food.grab.com/id/id/restaurant/koetardja-autentic-aceh-culinary-petojo-selatan-delivery/6-C23XAPBFJ6KXJ2?,Jakarta,3.6,1,2.0
+959,warunk upnormal cikini,https://food.grab.com/id/id/restaurant/warunk-upnormal-cikini-delivery/6-CY2WEA3VEN3ZRT?,Jakarta,4.5,1,2.0
+960,dear butter croffle menteng,https://food.grab.com/id/id/restaurant/dear-butter-croffle-menteng-delivery/6-C2XTATJHNFNBRN?,Jakarta,4.9,1,2.0
+961,kopi 37 kebon sirih,https://food.grab.com/id/id/restaurant/kopi-37-kebon-sirih-delivery/6-CZDEWENGL65UGX?,Jakarta,4.9,1,2.0
+962,kopi kuranglebih cideng,https://food.grab.com/id/id/restaurant/kopi-kuranglebih-cideng-delivery/6-CYLJCUXWHCJURE?,Jakarta,4.8,1,2.0
+963,the gade coffee and gold kementrian bumn,https://food.grab.com/id/id/restaurant/the-gade-coffee-and-gold-kementrian-bumn-delivery/6-CZK1MFVJT2BCAN?,Jakarta,4.8,1,2.0
+964,kedai roti kobi thamrin,https://food.grab.com/id/id/restaurant/kedai-roti-kobi-thamrin-delivery/6-CYVZTP53VYKACX?,Jakarta,4.7,1,2.0
+965,chigo by kenangan brands grand indonesia,https://food.grab.com/id/id/restaurant/chigo-by-kenangan-brands-grand-indonesia-delivery/6-C2KYMA4WC7AUNX?,Jakarta,4.7,1,2.0
+966,kopi bojo plaza bank index,https://food.grab.com/id/id/restaurant/kopi-bojo-plaza-bank-index-delivery/6-CYWDRFKEN7NBHA?,Jakarta,4.8,1,2.0
+967,kopi nu sae gedung djuanda ii,https://food.grab.com/id/id/restaurant/kopi-nu-sae-gedung-djuanda-ii-delivery/6-C2JJL2LEUBXXNA?,Jakarta,4.9,1,2.0
+968,familymart dana reksa,https://food.grab.com/id/id/restaurant/familymart-dana-reksa-delivery/6-C332LAJEVLJUVE?,Jakarta,4.6,1,2.0
+969,kedai kopi kohvi pasar baru,https://food.grab.com/id/id/restaurant/kedai-kopi-kohvi-pasar-baru-delivery/6-CZKZNGJYVTEEWE?,Jakarta,4.9,1,2.0
+970,kopi pick cup graha harmoni,https://food.grab.com/id/id/restaurant/kopi-pick-cup-graha-harmoni-delivery/6-C2CKGXTJRB5CVE?,Jakarta,4.9,1,2.0
+971,moving mountains coffee club cideng,https://food.grab.com/id/id/restaurant/moving-mountains-coffee-club-cideng-delivery/6-C3MDCF2CC3KJTT?,Jakarta,4.9,1,2.0
+972,summer minibar cideng,https://food.grab.com/id/id/restaurant/summer-minibar-cideng-delivery/6-C221PAKUANLJJA?,Jakarta,4.8,1,2.0
+973,kopi feeling brew menteng,https://food.grab.com/id/id/restaurant/kopi-feeling-brew-menteng-delivery/6-C3TULU2YVRNUKE?,Jakarta,,0,2.0
+974,brotherland coffee kebon kacang,https://food.grab.com/id/id/restaurant/brotherland-coffee-kebon-kacang-delivery/6-C3WGRCKFC62ETX?,Jakarta,4.6,1,2.0
+975,hop hop bubble drink gajah mada plaza,https://food.grab.com/id/id/restaurant/hop-hop-bubble-drink-gajah-mada-plaza-delivery/IDGFSTI000000ep?,Jakarta,4.6,1,2.0
+976,milksmith by spoonify petojo utara,https://food.grab.com/id/id/restaurant/milksmith-by-spoonify-petojo-utara-delivery/6-C3M3L4MVVKLBCX?,Jakarta,4.7,1,2.0
+977,co free komplek ketapang indah,https://food.grab.com/id/id/restaurant/co-free-komplek-ketapang-indah-delivery/6-C35DVBKWTXDDGX?,Jakarta,5.0,1,2.0
+978,cascadekofy senen,https://food.grab.com/id/id/restaurant/cascadekofy-senen-delivery/6-C3DXCBXFAXX1PE?,Jakarta,4.7,1,2.0
+979,the harvest express station gambir,https://food.grab.com/id/id/restaurant/the-harvest-express-station-gambir-delivery/6-CY23VJCXCX2TNN?,Jakarta,4.8,1,2.0
+980,ya kun kaya toast %E4%BA%9A%E5%9D%A4 plaza indonesia,https://food.grab.com/id/id/restaurant/ya-kun-kaya-toast-%E4%BA%9A%E5%9D%A4-plaza-indonesia-delivery/6-CZAAVTXWN4NAVN?,Jakarta,4.6,1,2.0
+981,midori coffee menteng,https://food.grab.com/id/id/restaurant/midori-coffee-menteng-delivery/6-C2TYUA4KVCAUR2?,Jakarta,4.9,1,2.0
+982,kopi soe roxy,https://food.grab.com/id/id/restaurant/kopi-soe-roxy-delivery/6-CYUFR8JTT4LXGT?,Jakarta,4.8,1,2.0
+983,coffee bean tea leaf indosat gallery,https://food.grab.com/id/id/restaurant/coffee-bean-tea-leaf-indosat-gallery-delivery/IDGFSTI00001z9m?,Jakarta,4.8,1,2.0
+984,dream dates kebon sirih,https://food.grab.com/id/id/restaurant/dream-dates-kebon-sirih-delivery/6-C2A3RBEZKGNEJJ?,Jakarta,4.7,1,2.0
+985,toko kopian cikini,https://food.grab.com/id/id/restaurant/toko-kopian-cikini-delivery/6-C3LYJBATAB3VDA?,Jakarta,5.0,1,2.0
+986,kopi kuranglebih menteng,https://food.grab.com/id/id/restaurant/kopi-kuranglebih-menteng-delivery/6-CZLGCPCCNNUKPE?,Jakarta,4.9,1,2.0
+987,phoenam coffee kebon sirih,https://food.grab.com/id/id/restaurant/phoenam-coffee-kebon-sirih-delivery/6-C2XKBFDKTNUZJA?,Jakarta,4.3,1,2.0
+988,kopi calf cideng,https://food.grab.com/id/id/restaurant/kopi-calf-cideng-delivery/6-C4C3HAA1HF5UNA?,Jakarta,4.9,1,2.0
+989,kopi ko acung kebon sirih,https://food.grab.com/id/id/restaurant/kopi-ko-acung-kebon-sirih-delivery/6-C3L1ENU3GGMVG6?,Jakarta,,0,2.0
+990,kopi dari pada by hangry harmoni,https://food.grab.com/id/id/restaurant/kopi-dari-pada-by-hangry-harmoni-delivery/6-CZAYNKTDAGETJ6?,Jakarta,4.7,1,2.0
+991,seblak poll keagungan,https://food.grab.com/id/id/restaurant/seblak-poll-keagungan-delivery/6-CYWYTK53NPKXTJ?,Jakarta,3.3,1,2.0
+992,mie ayam kebanggaan kwitang,https://food.grab.com/id/id/restaurant/mie-ayam-kebanggaan-kwitang-delivery/6-C263CF5WGAUXNN?,Jakarta,4.7,1,2.0
+993,ayam bakar podomoro hot guntur,https://food.grab.com/id/id/restaurant/ayam-bakar-podomoro-hot-guntur-delivery/6-C3VVEFXXVTWKVJ?,Jakarta,4.7,1,2.0
+994,bakmie karet nagin taman sari,https://food.grab.com/id/id/restaurant/bakmie-karet-nagin-taman-sari-delivery/6-C2V2T3UJUCDYFE?,Jakarta,4.7,1,2.0
+995,ayam penyet sambel ijo metro 99 guntur,https://food.grab.com/id/id/restaurant/ayam-penyet-sambel-ijo-metro-99-guntur-delivery/6-C3LUC4J3GYDGA6?,Jakarta,4.7,1,2.0
+996,es teler 77 pusat grosir senen,https://food.grab.com/id/id/restaurant/es-teler-77-pusat-grosir-senen-delivery/IDGFSTI000002b1?,Jakarta,4.6,1,2.0
+997,mie ayam kemayoran,https://food.grab.com/id/id/restaurant/mie-ayam-kemayoran-delivery/6-C2UBAX31N7X1CA?,Jakarta,4.7,1,2.0
+998,warung domino jelambar baru,https://food.grab.com/id/id/restaurant/warung-domino-jelambar-baru-delivery/6-C3CVPFCWALMXN6?,Jakarta,4.7,1,2.0
+999,pempek pempek arsky pademangan barat,https://food.grab.com/id/id/restaurant/pempek-pempek-arsky-pademangan-barat-delivery/6-CZNDGEVKNUW2KA?,Jakarta,4.6,1,2.0
+1000,juice kidding pademangan barat,https://food.grab.com/id/id/restaurant/juice-kidding-pademangan-barat-delivery/6-C23EGP2HUF33AA?,Jakarta,4.0,1,32.0
+1001,bhentuman baso sunter agung,https://food.grab.com/id/id/restaurant/bhentuman-baso-sunter-agung-delivery/6-CYKCRN3USCLVL2?,Jakarta,4.6,1,2.0
+1002,pempek palembang bang jun pademangan barat,https://food.grab.com/id/id/restaurant/pempek-palembang-bang-jun-pademangan-barat-delivery/6-C3M1T4JEG3XTLT?,Jakarta,3.5,1,32.0
+1003,bakmi kumis menteng atas,https://food.grab.com/id/id/restaurant/bakmi-kumis-menteng-atas-delivery/6-C2DXCUBXVLLDLA?,Jakarta,4.8,1,2.0
+1004,siomay legend1944 jelambar baru,https://food.grab.com/id/id/restaurant/siomay-legend1944-jelambar-baru-delivery/6-C3JVHADTKFDHGX?,Jakarta,4.8,1,2.0
+1005,aneka pempek pempek bang jun pademangan,https://food.grab.com/id/id/restaurant/aneka-pempek-pempek-bang-jun-pademangan-delivery/6-C3M2MAAUVZKYME?,Jakarta,2.8,1,32.0
+1006,cilok bang jun pademangan barat,https://food.grab.com/id/id/restaurant/cilok-bang-jun-pademangan-barat-delivery/6-C3M1TBKXCEDJTX?,Jakarta,4.2,1,32.0
+1007,bakso bolong season city mall,https://food.grab.com/id/id/restaurant/bakso-bolong-season-city-mall-delivery/6-CYWZL8NZAXWFCJ?,Jakarta,,1,2.0
+1008,bakso malang pandawa sukasari,https://food.grab.com/id/id/restaurant/bakso-malang-pandawa-sukasari-delivery/6-C26GRJ4GNCDDE6?,Jakarta,4.8,1,2.0
+1009,bakso aci dan seblak neng silvi pademangan,https://food.grab.com/id/id/restaurant/bakso-aci-dan-seblak-neng-silvi-pademangan-delivery/6-C2J1EEV1JFCCNA?,Jakarta,4.7,1,2.0
+1010,bakmie chan chan 68 pegangsaan dua,https://food.grab.com/id/id/restaurant/bakmie-chan-chan-68-pegangsaan-dua-delivery/6-C2AXKCJCRYCDBE?,Jakarta,4.8,1,2.0
+1011,bakso toyo 1 jati rahayu,https://food.grab.com/id/id/restaurant/bakso-toyo-1-jati-rahayu-delivery/6-C2W2VGKAGAMAGT?,Jakarta,4.7,1,2.0
+1012,bakmie karet ayam kampung bang fyan cipondoh,https://food.grab.com/id/id/restaurant/bakmie-karet-ayam-kampung-bang-fyan-cipondoh-delivery/6-CZMHEJ4CNNAEJT?,Jakarta,4.9,1,2.0
+1013,nge bakso petir,https://food.grab.com/id/id/restaurant/nge-bakso-petir-delivery/6-CZM3T4CGAKM3TE?,Jakarta,4.8,1,2.0
+1014,es sekoteng 79 dan siomay bandung mang asep pondok kelapa,https://food.grab.com/id/id/restaurant/es-sekoteng-79-dan-siomay-bandung-mang-asep-pondok-kelapa-delivery/6-C26EL25HTKKZTJ?,Jakarta,4.8,1,2.0
+1015,bakmi jagoan mk pluit,https://food.grab.com/id/id/restaurant/bakmi-jagoan-mk-pluit-delivery/6-C3WXNGNJAT5CCJ?,Jakarta,5.0,1,2.0
+1016,homecooked by jeng penjaringan,https://food.grab.com/id/id/restaurant/homecooked-by-jeng-penjaringan-delivery/6-C3DERX5KNYJAN6?,Jakarta,,0,2.0
+1017,bakso arjuna cipayung,https://food.grab.com/id/id/restaurant/bakso-arjuna-cipayung-delivery/6-C3C1ATVZWAVYAJ?,Jakarta,4.5,1,2.0
+1018,hari hari ayong pejagalan,https://food.grab.com/id/id/restaurant/hari-hari-ayong-pejagalan-delivery/6-C2UYRF5JVA6ZWA?,Jakarta,4.7,1,2.0
+1019,bebek sop janda cerewet cipinang muara,https://food.grab.com/id/id/restaurant/bebek-sop-janda-cerewet-cipinang-muara-delivery/6-CYWKNK52EEKWEA?,Jakarta,4.0,1,2.0
+1020,frozen pempek palembang mama arya pademangan barat,https://food.grab.com/id/id/restaurant/frozen-pempek-palembang-mama-arya-pademangan-barat-delivery/6-C3JVDAXKN3J2RT?,Jakarta,,1,2.0
+1021,bakmie tetangga modern land,https://food.grab.com/id/id/restaurant/bakmie-tetangga-modern-land-delivery/6-C22HLK6TCYAZRN?,Jakarta,4.8,1,2.0
+1022,mie ayam 88 cipete,https://food.grab.com/id/id/restaurant/mie-ayam-88-cipete-delivery/6-C2WHR6EDUEVARN?,Jakarta,4.8,1,2.0
+1023,indomie bakso gambir,https://food.grab.com/id/id/restaurant/indomie-bakso-gambir-delivery/6-CZBVCJBVRCNELJ?,Jakarta,1.0,1,2.0
+1024,mie ayam cingkrik babe parta tangki,https://food.grab.com/id/id/restaurant/mie-ayam-cingkrik-babe-parta-tangki-delivery/6-CYV2JFVBDCBXGN?,Jakarta,5.0,1,2.0
+1025,cilok basok kali anyar,https://food.grab.com/id/id/restaurant/cilok-basok-kali-anyar-delivery/6-C3DHE2WWKBVZN6?,Jakarta,,1,2.0
+1026,afung baso sapi asli jiexpo kemayoran hall e,https://food.grab.com/id/id/restaurant/afung-baso-sapi-asli-jiexpo-kemayoran-hall-e-delivery/6-C2BANCCTJU5AL2?,Jakarta,,1,2.0
+1027,baso fico pademangan timur,https://food.grab.com/id/id/restaurant/baso-fico-pademangan-timur-delivery/6-C3E1MGJZEP4WSE?,Jakarta,4.7,1,2.0
+1028,kuliner sumatera leza sunter agung,https://food.grab.com/id/id/restaurant/kuliner-sumatera-leza-sunter-agung-delivery/6-C3EKRAVGE36JMA?,Jakarta,5.0,1,2.0
+1029,bakso ragil 99 cabang granlake ruko food city,https://food.grab.com/id/id/restaurant/bakso-ragil-99-cabang-granlake-ruko-food-city-delivery/6-C2XFL3JHKAXXNE?,Jakarta,,1,2.0
+1030,warkop tongkrongan pejaten timur,https://food.grab.com/id/id/restaurant/warkop-tongkrongan-pejaten-timur-delivery/6-C2WKLEBHJK6CUA?,Jakarta,,1,2.0
+1031,seblak wawah pademangan,https://food.grab.com/id/id/restaurant/seblak-wawah-pademangan-delivery/6-C3N1PBEBLZL2HA?,Jakarta,3.0,1,2.0
+1032,mie jeubew ku kampung melayu,https://food.grab.com/id/id/restaurant/mie-jeubew-ku-kampung-melayu-delivery/6-C2JYREWUJT3VCE?,Jakarta,5.0,1,2.0
+1033,bakmi salemba 43 x zhainise sunter,https://food.grab.com/id/id/restaurant/bakmi-salemba-43-x-zhainise-sunter-delivery/6-C2VDFBXXC6VYJN?,Jakarta,4.8,1,2.0
+1034,bagus house sunter agung,https://food.grab.com/id/id/restaurant/bagus-house-sunter-agung-delivery/6-C2VAT2M2V3A3LN?,Jakarta,5.0,1,2.0
+1035,profesor bakso sukabumi utara ilir,https://food.grab.com/id/id/restaurant/profesor-bakso-sukabumi-utara-ilir-delivery/6-C252HGCTCJUCVA?,Jakarta,,1,2.0
+1036,mie ayam dan ayam geprek jek food kebon jeruk,https://food.grab.com/id/id/restaurant/mie-ayam-dan-ayam-geprek-jek-food-kebon-jeruk-delivery/6-C22YG64EA34ASA?,Jakarta,5.0,1,2.0
+1037,bakso tanti 1958 tebet barat,https://food.grab.com/id/id/restaurant/bakso-tanti-1958-tebet-barat-delivery/6-C3UJV732GENATX?,Jakarta,4.4,1,2.0
+1038,mie ayam roso eco tegal parang,https://food.grab.com/id/id/restaurant/mie-ayam-roso-eco-tegal-parang-delivery/6-C32CNBD1MEMCFE?,Jakarta,4.9,1,2.0
+1039,mie ayam teh is jati,https://food.grab.com/id/id/restaurant/mie-ayam-teh-is-jati-delivery/6-C2UJTANHEF2HUA?,Jakarta,,1,2.0
+1040,mie ayam bakso meril meruya utara,https://food.grab.com/id/id/restaurant/mie-ayam-bakso-meril-meruya-utara-delivery/6-C2XEVPEGMAACCN?,Jakarta,5.0,1,2.0
+1041,kedai bohayy srengseng,https://food.grab.com/id/id/restaurant/kedai-bohayy-srengseng-delivery/6-C2UYPAJJV8JACN?,Jakarta,,1,2.0
+1042,bakso dan mie ayam arema kembangan utara,https://food.grab.com/id/id/restaurant/bakso-dan-mie-ayam-arema-kembangan-utara-delivery/6-CZL2J6WTE2UENT?,Jakarta,,0,2.0
+1043,bakso cah wonogiri kapuk,https://food.grab.com/id/id/restaurant/bakso-cah-wonogiri-kapuk-delivery/6-C3JALTUWVLNDAJ?,Jakarta,5.0,1,2.0
+1044,ketoprak sukmajaya,https://food.grab.com/id/id/restaurant/ketoprak-sukmajaya-delivery/6-C3BJJ3NFFENZDA?,Jakarta,4.9,1,2.0
+1045,nasi bebek ayam geprek khas madura cak kholil 99 petojo selatan,https://food.grab.com/id/id/restaurant/nasi-bebek-ayam-geprek-khas-madura-cak-kholil-99-petojo-selatan-delivery/6-CZCTG7XVEUU1WA?,Jakarta,4.5,1,2.0
+1046,nasi goreng dan ayam bakar ibu tunia kp bali,https://food.grab.com/id/id/restaurant/nasi-goreng-dan-ayam-bakar-ibu-tunia-kp-bali-delivery/6-CZL2LKNBN3EAHE?,Jakarta,4.7,1,2.0
+1047,mcdonald s thamrin jaya,https://food.grab.com/id/id/restaurant/mcdonald-s-thamrin-jaya-delivery/6-C4BGN76ZTUCJJ2?,Jakarta,4.5,1,32.0
+1048,nasi uduk ayam tulang lunak waroeng pak eddy kebon sirih,https://food.grab.com/id/id/restaurant/nasi-uduk-ayam-tulang-lunak-waroeng-pak-eddy-kebon-sirih-delivery/6-C26VCFLXJVCEN6?,Jakarta,4.7,1,2.0
+1049,nasi goreng sibungsu kebon sirih,https://food.grab.com/id/id/restaurant/nasi-goreng-sibungsu-kebon-sirih-delivery/6-C2BFWETBBCNDTN?,Jakarta,4.4,1,32.0
+1050,ayam gepuk pak gembus bsm kuliner,https://food.grab.com/id/id/restaurant/ayam-gepuk-pak-gembus-bsm-kuliner-delivery/IDGFSTI00001laq?,Jakarta,4.5,1,2.0
+1051,ayam blenger psp kebon kacang,https://food.grab.com/id/id/restaurant/ayam-blenger-psp-kebon-kacang-delivery/6-CYMATA2XHA5HJT?,Jakarta,4.6,1,32.0
+1052,burger king cideng jakarta,https://food.grab.com/id/id/restaurant/burger-king-cideng-jakarta-delivery/6-CYN3PFCFR4M2TN?,Jakarta,4.5,1,2.0
+1053,fried chicken master menteng,https://food.grab.com/id/id/restaurant/fried-chicken-master-menteng-delivery/6-CY5FRND1A66HKA?,Jakarta,4.7,1,2.0
+1054,ayam keprabon express kebon kacang,https://food.grab.com/id/id/restaurant/ayam-keprabon-express-kebon-kacang-delivery/6-CY5BELCTVFX2TE?,Jakarta,4.8,1,2.0
+1055,popeyes skyline,https://food.grab.com/id/id/restaurant/popeyes-skyline-delivery/6-C32KCBBWV3BDTT?,Jakarta,4.5,1,2.0
+1056,ayam kalasan mas boy tanah abang,https://food.grab.com/id/id/restaurant/ayam-kalasan-mas-boy-tanah-abang-delivery/6-C3TWA3TKCCEBJE?,Jakarta,4.4,1,2.0
+1057,dimsum endut kwitang,https://food.grab.com/id/id/restaurant/dimsum-endut-kwitang-delivery/6-C22WGZBHFCLZRA?,Jakarta,4.9,1,2.0
+1058,truffle belly gondangdia,https://food.grab.com/id/id/restaurant/truffle-belly-gondangdia-delivery/6-CZNECNUAEXLDTJ?,Jakarta,4.8,1,2.0
+1059,kfc harco pasar baru,https://food.grab.com/id/id/restaurant/kfc-harco-pasar-baru-delivery/IDGFSTI00000cb8?,Jakarta,4.7,1,2.0
+1060,bubur ayam h hadi kebon sirih,https://food.grab.com/id/id/restaurant/bubur-ayam-h-hadi-kebon-sirih-delivery/6-CZDJGEJKV3BHVA?,Jakarta,4.7,1,2.0
+1061,onde onde gurih dadakan petojo selatan,https://food.grab.com/id/id/restaurant/onde-onde-gurih-dadakan-petojo-selatan-delivery/6-C3CKG7NKNF4ELJ?,Jakarta,4.5,1,2.0
+1062,nasi goreng seafood bos rt kebon sirih,https://food.grab.com/id/id/restaurant/nasi-goreng-seafood-bos-rt-kebon-sirih-delivery/6-C3UTLUMFAXN1RX?,Jakarta,4.3,1,32.0
+1063,ayam geprek kambal kampung bali,https://food.grab.com/id/id/restaurant/ayam-geprek-kambal-kampung-bali-delivery/6-C3U1FFLWTAL2LN?,Jakarta,4.7,1,2.0
+1064,limau nasi jeruk rice bowl gondangdia,https://food.grab.com/id/id/restaurant/limau-nasi-jeruk-rice-bowl-gondangdia-delivery/6-C2J3RRA3FCNADE?,Jakarta,4.4,1,2.0
+1065,pondok sibungsu kh wahid hasyim,https://food.grab.com/id/id/restaurant/pondok-sibungsu-kh-wahid-hasyim-delivery/6-CY5WKEKGCEMGUE?,Jakarta,4.5,1,32.0
+1066,warung ayam afrika kebon sirih,https://food.grab.com/id/id/restaurant/warung-ayam-afrika-kebon-sirih-delivery/IDGFSTI000024qg?,Jakarta,4.7,1,4.0
+1067,ayam bakar geprek ibu may kebon sirih,https://food.grab.com/id/id/restaurant/ayam-bakar-geprek-ibu-may-kebon-sirih-delivery/6-C2CBCFN2NTJGL2?,Jakarta,4.7,1,32.0
+1068,ayam kremes pramesti senen,https://food.grab.com/id/id/restaurant/ayam-kremes-pramesti-senen-delivery/6-C32ET8MXNK6GJN?,Jakarta,4.6,1,2.0
+1069,ayam geprek master cideng,https://food.grab.com/id/id/restaurant/ayam-geprek-master-cideng-delivery/6-CZEVAE6EAZLBCT?,Jakarta,4.5,1,2.0
+1070,dailybox pecenongan,https://food.grab.com/id/id/restaurant/dailybox-pecenongan-delivery/6-CZLWEKLXV6VJMA?,Jakarta,4.6,1,2.0
+1071,ngedagging pasar baru,https://food.grab.com/id/id/restaurant/ngedagging-pasar-baru-delivery/6-C2LCGY2JA2UACX?,Jakarta,4.7,1,2.0
+1072,mangkokku rice bowl mid point,https://food.grab.com/id/id/restaurant/mangkokku-rice-bowl-mid-point-delivery/6-C2BWLJ6ULEJCV6?,Jakarta,4.8,1,2.0
+1073,ayam pusaka abadi petojo selatan,https://food.grab.com/id/id/restaurant/ayam-pusaka-abadi-petojo-selatan-delivery/6-CZEATCDDWETFDE?,Jakarta,4.7,1,2.0
+1074,mie ayam teh is senen,https://food.grab.com/id/id/restaurant/mie-ayam-teh-is-senen-delivery/6-C26FJ232TY6EVA?,Jakarta,4.8,1,2.0
+1075,sederhana sabang kebon sirih,https://food.grab.com/id/id/restaurant/sederhana-sabang-kebon-sirih-delivery/6-C3TGEBBBPFVYL6?,Jakarta,4.4,1,2.0
+1076,yoshinoya beef bowl suryopranoto,https://food.grab.com/id/id/restaurant/yoshinoya-beef-bowl-suryopranoto-delivery/6-CYLELTLZNVC1RN?,Jakarta,4.8,1,2.0
+1077,wild bites the boxx in sawah besar,https://food.grab.com/id/id/restaurant/wild-bites-the-boxx-in-sawah-besar-delivery/6-C2XBG32TFFBZEN?,Jakarta,4.8,1,2.0
+1078,box co menteng,https://food.grab.com/id/id/restaurant/box-co-menteng-delivery/6-C3TGDEEWBCJ2AX?,Jakarta,4.8,1,2.0
+1079,ayam penyet cabe ijo ibu ros kebon sirih,https://food.grab.com/id/id/restaurant/ayam-penyet-cabe-ijo-ibu-ros-kebon-sirih-delivery/6-C2CFJP6ERJJKJE?,Jakarta,4.7,1,2.0
+1080,nasi uduk 27 arif senen,https://food.grab.com/id/id/restaurant/nasi-uduk-27-arif-senen-delivery/6-CZNVAN2KVVNJUA?,Jakarta,4.6,1,2.0
+1081,warung aba rudi jaya petojo selatan,https://food.grab.com/id/id/restaurant/warung-aba-rudi-jaya-petojo-selatan-delivery/6-C2WXV72YR66VR2?,Jakarta,4.6,1,32.0
+1082,nasi timbel gurame bakar putri ayu petojo selatan,https://food.grab.com/id/id/restaurant/nasi-timbel-gurame-bakar-putri-ayu-petojo-selatan-delivery/6-C2BUN3LYVE22VT?,Jakarta,4.4,1,2.0
+1083,nasi kulit gokskin gambir,https://food.grab.com/id/id/restaurant/nasi-kulit-gokskin-gambir-delivery/6-CZNKJJKHN26WGX?,Jakarta,4.7,1,2.0
+1084,d cost petojo gambir,https://food.grab.com/id/id/restaurant/d-cost-petojo-gambir-delivery/6-C3BVSACYGT4FGN?,Jakarta,4.7,1,2.0
+1085,kantin rujak cingur pak hadi kebon sirih,https://food.grab.com/id/id/restaurant/kantin-rujak-cingur-pak-hadi-kebon-sirih-delivery/IDGFSTI00001z6b?,Jakarta,4.6,1,2.0
+1086,geprek bensu tanah abang,https://food.grab.com/id/id/restaurant/geprek-bensu-tanah-abang-delivery/IDGFSTI00002yg4?,Jakarta,4.5,1,2.0
+1087,xiji senen,https://food.grab.com/id/id/restaurant/xiji-senen-delivery/6-CZLXCYNJN2EXJT?,Jakarta,4.7,1,2.0
+1088,dapur sunda kuningan bu may kebon sirih,https://food.grab.com/id/id/restaurant/dapur-sunda-kuningan-bu-may-kebon-sirih-delivery/6-C2KWVAEDNTAZAJ?,Jakarta,4.6,1,32.0
+1089,nasi ayam ambyar menteng,https://food.grab.com/id/id/restaurant/nasi-ayam-ambyar-menteng-delivery/6-C3TJBEA2GNE3TT?,Jakarta,4.8,1,2.0
+1090,ayam penyet sambel ijo bebek bu hj nur kebon sirih,https://food.grab.com/id/id/restaurant/ayam-penyet-sambel-ijo-bebek-bu-hj-nur-kebon-sirih-delivery/6-CY4UTEEUJNLYKA?,Jakarta,4.7,1,2.0
+1091,reddog %EB%A0%88%EB%93%9C%EB%8F%85 grand indonesia,https://food.grab.com/id/id/restaurant/reddog-%EB%A0%88%EB%93%9C%EB%8F%85-grand-indonesia-delivery/6-C25FCBXBL352N6?,Jakarta,4.8,1,2.0
+1092,nasi kapau sabana bana kramat,https://food.grab.com/id/id/restaurant/nasi-kapau-sabana-bana-kramat-delivery/6-CY22WBD1SCCWRE?,Jakarta,4.6,1,32.0
+1093,beef gyu by asap group kebon kelapa,https://food.grab.com/id/id/restaurant/beef-gyu-by-asap-group-kebon-kelapa-delivery/6-C3NFJLADJATZWA?,Jakarta,4.7,1,2.0
+1094,samji chicken by peome kebon sirih,https://food.grab.com/id/id/restaurant/samji-chicken-by-peome-kebon-sirih-delivery/6-C3JGC8CUTUKVLT?,Jakarta,4.9,1,2.0
+1095,pagi sore malam masakan padang dapurhub thamrin,https://food.grab.com/id/id/restaurant/pagi-sore-malam-masakan-padang-dapurhub-thamrin-delivery/6-C3MGPCDHKCLGUE?,Jakarta,4.6,1,32.0
+1096,ayam bakar kalipasir kebon sirih,https://food.grab.com/id/id/restaurant/ayam-bakar-kalipasir-kebon-sirih-delivery/IDGFSTI00003ezi?,Jakarta,4.7,1,2.0
+1097,a w hayam wuruk,https://food.grab.com/id/id/restaurant/a-w-hayam-wuruk-delivery/6-CYNCG2XJUGNJJT?,Jakarta,4.7,1,32.0
+1098,lontong sayur medan kak ika petojo selatan,https://food.grab.com/id/id/restaurant/lontong-sayur-medan-kak-ika-petojo-selatan-delivery/6-CZN2E26EJ7MHNX?,Jakarta,4.7,1,32.0
+1099,dibao untuang kebon kacang,https://food.grab.com/id/id/restaurant/dibao-untuang-kebon-kacang-delivery/6-CYVHGE2TT22JEN?,Jakarta,4.6,1,2.0
+1100,nasi padang pagi siang malam dapurhub thamrin,https://food.grab.com/id/id/restaurant/nasi-padang-pagi-siang-malam-dapurhub-thamrin-delivery/6-C3MGNLAXAXVANE?,Jakarta,4.6,1,32.0
+1101,nasi ayam ori menteng,https://food.grab.com/id/id/restaurant/nasi-ayam-ori-menteng-delivery/6-C4BGR3BURB2VDA?,Jakarta,4.6,1,2.0
+1102,manadong menteng,https://food.grab.com/id/id/restaurant/manadong-menteng-delivery/6-C2VDLY6FJCLDLA?,Jakarta,4.8,1,2.0
+1103,cfc stasiun gambir b,https://food.grab.com/id/id/restaurant/cfc-stasiun-gambir-b-delivery/IDGFSTI000006x6?,Jakarta,4.6,1,32.0
+1104,samalam rayya gambir,https://food.grab.com/id/id/restaurant/samalam-rayya-gambir-delivery/6-C3KBLPNVMACKEN?,Jakarta,,0,2.0
+1105,fingers butter rice petojo,https://food.grab.com/id/id/restaurant/fingers-butter-rice-petojo-delivery/6-C3AHL72YG3MANT?,Jakarta,4.9,1,2.0
+1106,bros fried chicken bfc menteng,https://food.grab.com/id/id/restaurant/bros-fried-chicken-bfc-menteng-delivery/6-C3TUMA4XVBLHCA?,Jakarta,4.6,1,2.0
+1107,currygatou thamrin,https://food.grab.com/id/id/restaurant/currygatou-thamrin-delivery/6-C36ZL6EYV2AVPE?,Jakarta,4.9,1,2.0
+1108,nasi jagal gondangdia kebon sirih,https://food.grab.com/id/id/restaurant/nasi-jagal-gondangdia-kebon-sirih-delivery/6-C2BHJB2CNT5CSA?,Jakarta,4.7,1,2.0
+1109,nasi goreng sibungsu kebon sirih,https://food.grab.com/id/id/restaurant/nasi-goreng-sibungsu-kebon-sirih-delivery/6-C2BFWETBBCNDTN?,Jakarta,4.4,1,32.0
+1110,nasi goreng pak iyas gambir,https://food.grab.com/id/id/restaurant/nasi-goreng-pak-iyas-gambir-delivery/6-C2WXV8DFLYVYEJ?,Jakarta,4.6,1,2.0
+1111,pondok sibungsu kh wahid hasyim,https://food.grab.com/id/id/restaurant/pondok-sibungsu-kh-wahid-hasyim-delivery/6-CY5WKEKGCEMGUE?,Jakarta,4.5,1,32.0
+1112,bebek goreng surabaya slipi,https://food.grab.com/id/id/restaurant/bebek-goreng-surabaya-slipi-delivery/6-C2NEATUFNJN1LT?,Jakarta,4.6,1,73.0
+1113,d cost petojo gambir,https://food.grab.com/id/id/restaurant/d-cost-petojo-gambir-delivery/6-C3BVSACYGT4FGN?,Jakarta,4.7,1,2.0
+1114,mie kwetiau seafood medan kebon melati,https://food.grab.com/id/id/restaurant/mie-kwetiau-seafood-medan-kebon-melati-delivery/6-CZMAVAMDR26DDA?,Jakarta,4.6,1,2.0
+1115,nasi goreng gila sunda menteng atas,https://food.grab.com/id/id/restaurant/nasi-goreng-gila-sunda-menteng-atas-delivery/6-CZKFHFAVJ8EHCT?,Jakarta,4.6,1,2.0
+1116,nasi padang pagi siang malam dapurhub thamrin,https://food.grab.com/id/id/restaurant/nasi-padang-pagi-siang-malam-dapurhub-thamrin-delivery/6-C3MGNLAXAXVANE?,Jakarta,4.6,1,32.0
+1117,rumah makan tss 88 duri selatan,https://food.grab.com/id/id/restaurant/rumah-makan-tss-88-duri-selatan-delivery/6-CY63JK6HMBJVT6?,Jakarta,4.7,1,2.0
+1118,nasi goreng asap by asap group setiabudi,https://food.grab.com/id/id/restaurant/nasi-goreng-asap-by-asap-group-setiabudi-delivery/IDGFSTI00000cob?,Jakarta,4.6,1,2.0
+1119,ayam geprek dua saudara pejagalan,https://food.grab.com/id/id/restaurant/ayam-geprek-dua-saudara-pejagalan-delivery/6-C2MUAGBFRUNWLE?,Jakarta,4.4,1,2.0
+1120,nasi bakar liwet jj2 pekojan,https://food.grab.com/id/id/restaurant/nasi-bakar-liwet-jj2-pekojan-delivery/6-C2TXL62HVPK3CA?,Jakarta,4.7,1,2.0
+1121,warung sate solo pak min gunung sahari utara,https://food.grab.com/id/id/restaurant/warung-sate-solo-pak-min-gunung-sahari-utara-delivery/6-CY3YGVLZJ24CKA?,Jakarta,4.5,1,2.0
+1122,ayam geprek lidah mertua kebon kelapa,https://food.grab.com/id/id/restaurant/ayam-geprek-lidah-mertua-kebon-kelapa-delivery/6-C3UAEZJFUBUHPA?,Jakarta,4.7,1,2.0
+1123,nasi goreng sunda menteng atas,https://food.grab.com/id/id/restaurant/nasi-goreng-sunda-menteng-atas-delivery/6-CYNYLPXVEBUEPA?,Jakarta,4.6,1,2.0
+1124,kwetiau sapi apin 19 pademangan timur,https://food.grab.com/id/id/restaurant/kwetiau-sapi-apin-19-pademangan-timur-delivery/AWioIWcqR-bAtZoKZhxC?,Jakarta,4.6,1,2.0
+1125,la lisa pasta glodok,https://food.grab.com/id/id/restaurant/la-lisa-pasta-glodok-delivery/6-C3BZEFJFR7WAAE?,Jakarta,4.8,1,2.0
+1126,nasgor tiarbah duri kepa,https://food.grab.com/id/id/restaurant/nasgor-tiarbah-duri-kepa-delivery/6-C3BAAFDUGNVCWA?,Jakarta,4.8,1,2.0
+1127,nasi goreng padang pagi siang malam dapurhub thamrin,https://food.grab.com/id/id/restaurant/nasi-goreng-padang-pagi-siang-malam-dapurhub-thamrin-delivery/6-C3L2SBWCVB4AEE?,Jakarta,4.5,1,32.0
+1128,bakmi limatuju karet kuningan,https://food.grab.com/id/id/restaurant/bakmi-limatuju-karet-kuningan-delivery/6-CY5XHECBTAXDHE?,Jakarta,4.7,1,2.0
+1129,pecel lele bu is gajah mada keagungan,https://food.grab.com/id/id/restaurant/pecel-lele-bu-is-gajah-mada-keagungan-delivery/6-C2TDME2JCP4XTE?,Jakarta,4.7,1,32.0
+1130,nasi bakar nabox kebon jeruk,https://food.grab.com/id/id/restaurant/nasi-bakar-nabox-kebon-jeruk-delivery/IDGFSTI000003ou?,Jakarta,4.8,1,2.0
+1131,chasio garing acc sawah besar,https://food.grab.com/id/id/restaurant/chasio-garing-acc-sawah-besar-delivery/6-CYKTL6XXNFTTTN?,Jakarta,4.7,1,2.0
+1132,kedai sate kambing pak djaja maphar,https://food.grab.com/id/id/restaurant/kedai-sate-kambing-pak-djaja-maphar-delivery/6-CY4ATPXYCPAJRT?,Jakarta,4.8,1,2.0
+1133,seafood rizky 99 cideng,https://food.grab.com/id/id/restaurant/seafood-rizky-99-cideng-delivery/6-C3CTNBMDV7MBRT?,Jakarta,4.3,1,2.0
+1134,gado gado fatimah cempaka baru,https://food.grab.com/id/id/restaurant/gado-gado-fatimah-cempaka-baru-delivery/6-C2KBPFEWCY2JN6?,Jakarta,4.8,1,2.0
+1135,bakmi jogja tebet tebet timur,https://food.grab.com/id/id/restaurant/bakmi-jogja-tebet-tebet-timur-delivery/6-C3DEPBBZRVLDHE?,Jakarta,4.9,1,2.0
+1136,mie ayam gaul pak edi sunter jaya,https://food.grab.com/id/id/restaurant/mie-ayam-gaul-pak-edi-sunter-jaya-delivery/6-CZKWNF61G241L6?,Jakarta,,0,2.0
+1137,ayam geprek buncil sunter agung,https://food.grab.com/id/id/restaurant/ayam-geprek-buncil-sunter-agung-delivery/6-CZBJVNWBT2WZRN?,Jakarta,4.8,1,2.0
+1138,the people s cafe grand indonesia west mall,https://food.grab.com/id/id/restaurant/the-people-s-cafe-grand-indonesia-west-mall-delivery/IDGFSTI000000ez?,Jakarta,4.7,1,2.0
+1139,platinum resto cafe citraland,https://food.grab.com/id/id/restaurant/platinum-resto-cafe-citraland-delivery/IDGFSTI00000ecq?,Jakarta,4.6,1,2.0
+1140,chopstix plaza indonesia,https://food.grab.com/id/id/restaurant/chopstix-plaza-indonesia-delivery/IDGFSTI00000302?,Jakarta,4.5,1,2.0
+1141,nasi goreng banyumas kemandoran 8,https://food.grab.com/id/id/restaurant/nasi-goreng-banyumas-kemandoran-8-delivery/6-CYMBAXVHHGD2N6?,Jakarta,4.7,1,2.0
+1142,bebek bkb bendungan hilir,https://food.grab.com/id/id/restaurant/bebek-bkb-bendungan-hilir-delivery/IDGFSTI00000cir?,Jakarta,4.5,1,32.0
+1143,platinum grill plaza atrium,https://food.grab.com/id/id/restaurant/platinum-grill-plaza-atrium-delivery/IDGFSTI00000ecr?,Jakarta,4.5,1,2.0
+1144,teh tarik reborn kramat,https://food.grab.com/id/id/restaurant/teh-tarik-reborn-kramat-delivery/6-C2JBCEV2JXTAJA?,Jakarta,4.6,1,32.0
+1145,nasi goreng tick tock gajah mada,https://food.grab.com/id/id/restaurant/nasi-goreng-tick-tock-gajah-mada-delivery/6-C3D3ECADV8LBTA?,Jakarta,4.9,1,2.0
+1146,sop iga dan nasi goreng chef tian tanjung duren raya,https://food.grab.com/id/id/restaurant/sop-iga-dan-nasi-goreng-chef-tian-tanjung-duren-raya-delivery/6-C3L2SGEAEBJFEA?,Jakarta,4.7,1,32.0
+1147,mie aceh si boos pademangan barat,https://food.grab.com/id/id/restaurant/mie-aceh-si-boos-pademangan-barat-delivery/6-C3LHJE6BTCNZJN?,Jakarta,4.1,1,32.0
+1148,bakso semesta 77 kemanggisan,https://food.grab.com/id/id/restaurant/bakso-semesta-77-kemanggisan-delivery/6-C2W3SA6FNNMEHA?,Jakarta,4.8,1,2.0
+1149,nasi goreng ibu naya 2 karet kuningan,https://food.grab.com/id/id/restaurant/nasi-goreng-ibu-naya-2-karet-kuningan-delivery/6-CZBHARDZRZCKFE?,Jakarta,,0,2.0
+1150,kitchenette plaza indonesia,https://food.grab.com/id/id/restaurant/kitchenette-plaza-indonesia-delivery/IDGFSTI0000012u?,Jakarta,4.7,1,2.0
+1151,warung bening cilok mecca karet,https://food.grab.com/id/id/restaurant/warung-bening-cilok-mecca-karet-delivery/6-C3AVVFDWJJTUWE?,Jakarta,3.2,1,2.0
+1152,warung aa sahdan palmerah,https://food.grab.com/id/id/restaurant/warung-aa-sahdan-palmerah-delivery/IDGFSTI000033a2?,Jakarta,4.5,1,126.0
+1153,sarapan awak juo uni eza pasar manggis,https://food.grab.com/id/id/restaurant/sarapan-awak-juo-uni-eza-pasar-manggis-delivery/6-CZMCNB6BUAEAN6?,Jakarta,4.7,1,32.0
+1154,bakmie seafood 99 pisangan,https://food.grab.com/id/id/restaurant/bakmie-seafood-99-pisangan-delivery/6-C2JVHEKGRBCXPA?,Jakarta,4.6,1,2.0
+1155,publik markette grand indonesia by ismaya,https://food.grab.com/id/id/restaurant/publik-markette-grand-indonesia-by-ismaya-delivery/IDGFSTI000000tz?,Jakarta,,0,2.0
+1156,bakmi siantar mall ambassador,https://food.grab.com/id/id/restaurant/bakmi-siantar-mall-ambassador-delivery/6-C22CC2NZJYTWT2?,Jakarta,4.6,1,2.0
+1157,bakmi ayam ueenak pluit,https://food.grab.com/id/id/restaurant/bakmi-ayam-ueenak-pluit-delivery/6-CY5GLFDKVNKEVT?,Jakarta,4.6,1,2.0
+1158,wan tan mie asam pejagalan,https://food.grab.com/id/id/restaurant/wan-tan-mie-asam-pejagalan-delivery/6-CYUDVEW2VENVN6?,Jakarta,4.8,1,2.0
+1159,nasi goreng junior papanggo,https://food.grab.com/id/id/restaurant/nasi-goreng-junior-papanggo-delivery/6-CZLBDEKYVNBFVN?,Jakarta,4.7,1,32.0
+1160,nasi goreng jawa jawara palmerah,https://food.grab.com/id/id/restaurant/nasi-goreng-jawa-jawara-palmerah-delivery/6-C3BFCKWXKE2EEN?,Jakarta,,0,2.0
+1161,nasi goreng gila dpr menteng dalam,https://food.grab.com/id/id/restaurant/nasi-goreng-gila-dpr-menteng-dalam-delivery/6-C3B1BB5DGKVJG2?,Jakarta,4.7,1,32.0
+1162,nasi goreng gaul bang bewok tebet barat,https://food.grab.com/id/id/restaurant/nasi-goreng-gaul-bang-bewok-tebet-barat-delivery/6-C2CKBA2WVTD2NX?,Jakarta,4.7,1,2.0
+1163,rumah makan seafood 99 pisangan timur,https://food.grab.com/id/id/restaurant/rumah-makan-seafood-99-pisangan-timur-delivery/IDGFSTI00003ak2?,Jakarta,4.6,1,2.0
+1164,nasi goreng babat gongso palmerah palmerah,https://food.grab.com/id/id/restaurant/nasi-goreng-babat-gongso-palmerah-palmerah-delivery/6-C2VJLN2KCE4VVE?,Jakarta,4.4,1,32.0
+1165,restauran seafood 99 duri kepa,https://food.grab.com/id/id/restaurant/restauran-seafood-99-duri-kepa-delivery/6-C23ECJ3YRCDFJT?,Jakarta,,0,2.0
+1166,cafe kawan tebet,https://food.grab.com/id/id/restaurant/cafe-kawan-tebet-delivery/6-CZKELGNZAEJFV6?,Jakarta,4.6,1,32.0
+1167,bakmie dan seafood kuri kuri pela mampang,https://food.grab.com/id/id/restaurant/bakmie-dan-seafood-kuri-kuri-pela-mampang-delivery/6-CZBBVXXGVEUFG2?,Jakarta,4.6,1,2.0
+1168,yaki n ramen cuy nasi goreng jepang mie goreng jepang palmerah,https://food.grab.com/id/id/restaurant/yaki-n-ramen-cuy-nasi-goreng-jepang-mie-goreng-jepang-palmerah-delivery/6-C24GHFEDUA21A6?,Jakarta,4.5,1,2.0
+1169,nasi goreng seafood sibungsu kebayoran lama utara,https://food.grab.com/id/id/restaurant/nasi-goreng-seafood-sibungsu-kebayoran-lama-utara-delivery/6-C3CXKBJEABEDSE?,Jakarta,4.1,1,32.0
+1170,bakmi 99 seafood duri kepa,https://food.grab.com/id/id/restaurant/bakmi-99-seafood-duri-kepa-delivery/6-C2VJV3XVHELTE2?,Jakarta,4.2,1,2.0
+1171,dapur pecak lenteng agung,https://food.grab.com/id/id/restaurant/dapur-pecak-lenteng-agung-delivery/6-CYLHAF2UC7AXE2?,Jakarta,4.7,1,2.0
+1172,nasi goreng bang nos kebagusan,https://food.grab.com/id/id/restaurant/nasi-goreng-bang-nos-kebagusan-delivery/6-CY31GCAVEYCWCJ?,Jakarta,4.5,1,32.0
