@@ -13,6 +13,7 @@
   Website Eventbrite.com
   <br>
 </h2>
+
 ![logo](Data%20Visualization\pic\eventbrite.png)
 
 ## Table of Contents
@@ -176,6 +177,7 @@
     ![terminal1](Data%20Scraping/screenshot/Terminal/01_business_page1.png)
   ### Data Storing
   - Tables in Database
+    <br>
     ![d_tables](Data%20Storing/screenshot/d_tables.png)
   - Description of Tables
     ![d_event_table](Data%20Storing/screenshot/d_event_table.png)
