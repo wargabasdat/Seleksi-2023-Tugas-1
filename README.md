@@ -13,9 +13,9 @@
   Website Eventbrite.com
   <br>
 </h2>
-![logo](Data%20Visualization/pic/eventbrite.png)
+![logo](Data%20Visualization\pic\eventbrite.png)
 
-# Table of Contents
+## Table of Contents
   - [Description](#description)
     - [Data](#data)
     - [DBMS](#dbms)
@@ -33,7 +33,7 @@
   - [References](#references)
   - [Author](#author)
 
-# Description
+## Description
   ### Data
   Data yang digunakan merupakan hasil scraping dari website [Eventbrite](https://www.eventbrite.com/). Website ini dimanfaatkan oleh para _event organizer_ untuk mempromosikan berbagai event di seluruh dunia, mulai dari _seminar_, _class_, _conference_, hingga _festival_. Berbagai event tersebut juga terdiri dari berbagai kategori mulai dari bisnis, sains, teknologi, spiritual, hingga musik. Data yang diambil dari website ini adalah data event yang ada di Indonesia. Pada website ini, pengguna bisa mengetahui detail event sekaligus memesan tiket. Selain itu, pengguna juga dapat mengunjungi profil _event organizer_ yang mengadakan event tersebut.
   Berikut adalah data yang diambil dari website:
@@ -53,7 +53,7 @@
   ### DBMS
   DBMS yang digunakan untuk menyimpan data hasil _scraping_ adalah PostgreSQL. PostgreSQL merupakan DBMS yang bersifat _open source_ dan memiliki banyak fitur yang dapat digunakan untuk mengelola data. PostgreSQL mendukung berbagai jenis data, termasuk JSON. PostgreSQL juga mendukung berbagai bahasa pemrograman, termasuk Python, sehingga mempermudah untuk _export_ _file_ hasil _scraping_ ke _database_.
 
-# Specification
+## Specification
   Program ini dibuat menggunakan bahasa pemrograman [Python](https://https://www.python.org/doc/) dengan beberapa library dan tools tambahan, yaitu:
   - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) : Library untuk melakukan _scraping_ data dari _website_
   - [Selenium](https://www.selenium.dev/) : Library untuk melakukan request ke website yang _dynamic_ dengan memanfaatkan fungsi _wait_.
@@ -62,7 +62,7 @@
   - [psycopg2](https://pypi.org/project/psycopg2/) : Library untuk melakukan koneksi ke database PostgreSQL
   - [Matplotlib](https://matplotlib.org/) : Library untuk visualisasi data
 
-# How to Use
+## How to Use
   ### Data Scraping
   1. Clone repository ini ke directory lokal
   2. Install library yang dibutuhkan dengan menjalankan perintah berikut pada terminal:
@@ -84,7 +84,7 @@
   pg_dump -U {username} -d {database} < events.sql
   ```
 
-# JSON Structure
+## JSON Structure
   Pada program ini, terdapat 4 file JSON hasil _scraping_, yaitu:
   - `events.json`
      dengan struktur sebagai berikut:
@@ -127,7 +127,7 @@
       }
     ```
 
-# Database Structure
+## Database Structure
    ### ERD
     ER Diagram dari database yang digunakan adalah sebagai berikut:
     ![ERD](Data%20Storing/design/ERD.png)
@@ -148,7 +148,7 @@
     Relational Diagram dari database yang digunakan adalah sebagai berikut:
     ![Relational Design](Data%20Storing/design/Relational%20Diagram.png)
 
-# Data Visualization
+## Data Visualization
   Berikut adalah dashboard yang menampilkan visualisasi data dari database:
   ![Data Visualization](Data%20Visualization/DASHBOARD.png)
   Informasi yang ditampilkan pada dashboard adalah:
@@ -156,10 +156,11 @@
   - Jumlah event tiap kategori
   - Leaderboard _event organizer_ berdasarkan jumlah event yang di-_publish_
   - Leaderboard _event organizer_ berdasarkan popularitas (_followers_)
+  <br>
   _note : code untuk membuat dashboard ini ada di folder `Data Visualization`_
 
-# Screenshots
-  ## Data Scraping
+## Screenshots
+  ### Data Scraping
   - Scrape Function
     ![scrape_func_01_load](Data%20Scraping/screenshot/scrape_func_01_load.png)
     ![scrape_func_02_load](Data%20Scraping/screenshot/scrape_func_02_load.png)
@@ -173,7 +174,7 @@
     ![main3](Data%20Scraping/screenshot/main3.png)
   - Terminal while running
     ![terminal1](Data%20Scraping/screenshot/Terminal/01_business_page1.png)
-  ## Data Storing
+  ### Data Storing
   - Tables in Database
     ![d_tables](Data%20Storing/screenshot/d_tables.png)
   - Description of Tables
@@ -188,7 +189,7 @@
     ![location_table](Data%20Storing/screenshot/location_table.png)
 
 
-# References
+## References
   - Documentation
     - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
     - [Selenium](https://www.selenium.dev/)
@@ -201,7 +202,7 @@
     - [Scrape data using Python](https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe/)
     - [Stackoverflow](https://stackoverflow.com/)
 
-# Author
+## Author
   - Naura Valda Prameswari - 18221173
   - Sistem dan Teknologi Informasi
   - Institut Teknologi Bandung
