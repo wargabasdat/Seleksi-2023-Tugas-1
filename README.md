@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Data Events di Indonesia
+  Data Events Indonesia
   <br>
   <br>
 </h1>
@@ -9,39 +9,62 @@
   <br>
   Data Scraping, Database Modelling, and Data Storing
   <br>
+  <br>
   Website Eventbrite.com
   <br>
+  ![logo](Data%20Visualization/pic/eventbrite.png)
   <br>
 </h2>
 
 ## Table of Contents
   - [Description](#description)
+    - [Data](#data)
+    - [DBMS](#dbms)
   - [Specification](#specification)
   - [How to Use](#how-to-use)
+    - [Data Scraping](#data-scraping)
+    - [Data Storing](#data-storing)
   - [JSON Structure](#json-structure)
   - [Database Structure](#database-structure)
+    - [ERD](#erd)
+    - [Explanation of ERD to relational diagram translation process](#explanation-of-erd-to-relational-diagram-translation-process)
+    - [Relational Diagram](#relational-diagram)
+  - [Data Visualization](#data-visualization)
   - [Screenshots](#screenshots)
   - [References](#references)
   - [Author](#author)
 
 ## Description
   ### Data
-  Data yang digunakan merupakan hasil scraping dari website [Eventbrite](https://www.eventbrite.com/). Website ini dimanfaatkan oleh para _event organizer_ untuk mempromosikan berbagai event di seluruh dunia, mulai dari _seminar_, _class_, _conference_, hingga _festival_. Berbagai event tersebut juga terdiri dari berbagai kategori mulai dari bisnis, sains, teknologi, spiritual, hingga musik. Data yang diambil dari website ini adalah data event yang ada di Indonesia. Data yang diambil meliputi nama _event_, tanggal dan waktu _event_, lokasi _event_ (alamat, _latitude, longitude_), harga tiket, _event organizer_, kategori, dan link pemesanan.
+  Data yang digunakan merupakan hasil scraping dari website [Eventbrite](https://www.eventbrite.com/). Website ini dimanfaatkan oleh para _event organizer_ untuk mempromosikan berbagai event di seluruh dunia, mulai dari _seminar_, _class_, _conference_, hingga _festival_. Berbagai event tersebut juga terdiri dari berbagai kategori mulai dari bisnis, sains, teknologi, spiritual, hingga musik. Data yang diambil dari website ini adalah data event yang ada di Indonesia. Pada website ini, pengguna bisa mengetahui detail event sekaligus memesan tiket. Selain itu, pengguna juga dapat mengunjungi profil _event organizer_ yang mengadakan event tersebut.
+  Berikut adalah data yang diambil dari website:
+  - Nama event
+  - Harga tiket
+  - Tanggal event
+  - Waktu mulai event
+  - Durasi event
+  - Link pemesanan tiket
+  - Alamat event
+  - Nama _event organizer_
+  - Jumlah _followers_ _event organizer_
+  - Page _event organizer_
+  - Kategori event
+  - Latitude dan longitude alamat event
+  
   ### DBMS
-  DBMS yang digunakan untuk menyimpan data hasil scraping adalah PostgreSQL. PostgreSQL merupakan DBMS yang bersifat open source dan memiliki banyak fitur yang dapat digunakan untuk mengelola data. PostgreSQL mendukung berbagai jenis data, termasuk data terstruktur (JSON). PostgreSQL juga mendukung berbagai bahasa pemrograman, termasuk Python.
+  DBMS yang digunakan untuk menyimpan data hasil _scraping_ adalah PostgreSQL. PostgreSQL merupakan DBMS yang bersifat _open source_ dan memiliki banyak fitur yang dapat digunakan untuk mengelola data. PostgreSQL mendukung berbagai jenis data, termasuk JSON. PostgreSQL juga mendukung berbagai bahasa pemrograman, termasuk Python, sehingga mempermudah untuk _export_ _file_ hasil _scraping_ ke _database_.
 
 ## Specification
-  Program ini dibuat menggunakan bahasa pemrograman Python dengan beberapa library dan tools tambahan, yaitu:
-  - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 
-    untuk melakukan scraping data dari website
-  - [Selenium](https://www.selenium.dev/) 
-    untuk melakukan request ke website yang dynamic dengan menggunakan fungsi wait.
-  - JSON 
-    untuk mengubah data menjadi format JSON
-  - Datetime 
-    untuk membantu formatting tanggal dan waktu pada data
+  Program ini dibuat menggunakan bahasa pemrograman [Python](https://https://www.python.org/doc/) dengan beberapa library dan tools tambahan, yaitu:
+  - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) : Library untuk melakukan _scraping_ data dari _website_
+  - [Selenium](https://www.selenium.dev/) : Library untuk melakukan request ke website yang _dynamic_ dengan memanfaatkan fungsi _wait_.
+  - JSON : Format data yang digunakan untuk menyimpan data hasil scraping
+  - Datetime : Library untuk membantu formatting tanggal dan waktu pada data
+  - [psycopg2](https://pypi.org/project/psycopg2/) : Library untuk melakukan koneksi ke database PostgreSQL
+  - [Matplotlib](https://matplotlib.org/) : Library untuk visualisasi data
 
 ## How to Use
+  ### Data Scraping
   1. Clone repository ini ke directory lokal
   2. Install library yang dibutuhkan dengan menjalankan perintah berikut pada terminal:
   ```
@@ -53,9 +76,17 @@
   python main.py
   ```
   4. Tunggu hingga program selesai berjalan. Program akan mengambil data dari website dan menyimpannya dalam format JSON. Program juga akan menyimpan data ke dalam database PostgreSQL.
+  5. Untuk melihat hasil data scraping, buka file `events.json`, `organizers.json`, `categories.json`, dan `locations.json` yang ada di folder `Data Storing\data`.
+  ### Data Storing
+  1. Clone repository ini ke directory lokal
+  2. Buka path `Data Storing\export` pada terminal
+  3. Jalankan perintah berikut pada terminal:
+  ```
+  pg_dump -U {username} -d {database} < events.sql
+  ```
 
 ## JSON Structure
-  Pada program ini, terdapat 4 file JSON yang dihasilkan, yaitu:
+  Pada program ini, terdapat 4 file JSON hasil _scraping_, yaitu:
   - `events.json`
      dengan struktur sebagai berikut:
      ```
@@ -98,13 +129,78 @@
     ```
 
 ## Database Structure
-   ERD dari database yang digunakan adalah sebagai berikut:
+   ### ERD
+    ER Diagram dari database yang digunakan adalah sebagai berikut:
     ![ERD](Data%20Storing/design/ERD.png)
-   Relational diagram dari database yang digunakan adalah sebagai berikut:
+   ### Explanation of ERD to relational diagram translation process
+   Berikut adalah langkah-langkah untuk mengubah ERD menjadi relational diagram:
+    1. Relasi `organizer` pada relational diagram memiliki atribut yang sama seperti pada ERD, yaitu `Name`, `Total_followers`, dan `Organizer_page` karena hanya memiliki hubungan one-to-many dengan `event`. Primary key dari `organizer` (`Organizer_page`) menjadi atribut pada `event` sebagai foreign key di relational diagram.
+    2. Relasi `category` pada relational diagram memiliki atribut yang sama seperti pada ERD, yaitu `ID_category` dan `Name` karena hanya memiliki hubungan one-to-many dengan `event`. Primary key dari `category` (`ID`) menjadi atribut pada `event` sebagai foreign key di relational diagram.
+    3. Relasi `location` pada relational diagram memiliki atribut yang sama seperti pada ERD, yaitu `Address`, `Latitude`, dan `Longitude` karena hanya memiliki hubungan one-to-many dengan `event`. Primary key dari `location` (`Address`) menjadi atribut pada `event` sebagai foreign key di relational diagram.
+    4. Sehingga, masing-masing relasi pada relational diagram memiliki atribut sebagai berikut:
+       - `event` = (<u>**ID_event**<u>, Name, Price, Date, Start_time, Duration, Order_link, Address, Organizer, Category)
+        FK = event(Organizer) -> organizer(Organizer_page)
+        FK = event(Category) -> category(ID)
+        FK = event(Address) -> location(Address)
+       - `organizer` = (Name, Total_followers, Organizer_page)
+       - `category` = (ID, Name)
+       - `location` = (Address, Latitude, dan Longitude).
+   ### Relational Diagram
+    Relational Diagram dari database yang digunakan adalah sebagai berikut:
     ![Relational Design](Data%20Storing/design/Relational%20Diagram.png)
+
+## Data Visualization
+  Berikut adalah dashboard yang menampilkan visualisasi data dari database:
+  ![Data Visualization](Data%20Visualization/DASHBOARD.png)
+  Informasi yang ditampilkan pada dashboard adalah:
+  - Jumlah event yang di-_publish_ dari waktu ke waktu
+  - Jumlah event tiap kategori
+  - Leaderboard _event organizer_ berdasarkan jumlah event yang di-_publish_
+  - Leaderboard _event organizer_ berdasarkan popularitas (_followers_)
+  note : code untuk membuat dashboard ini ada di folder `Data Visualization`
+
 ## Screenshots
+  ## Data Scraping
+  - Scrape Function
+    ![scrape_func_01_load](Data%20Scraping/screenshot/scrape_func_01_load.png)
+    ![scrape_func_02_load](Data%20Scraping/screenshot/scrape_func_02_load.png)
+    ![scrape_func_03](Data%20Scraping/screenshot/scrape_func_03.png)
+    ![scrape_func_04](Data%20Scraping/screenshot/scrape_func_04.png)
+    ![scrape_func_05](Data%20Scraping/screenshot/scrape_func_05.png)
+    ![scrape_func_06](Data%20Scraping/screenshot/scrape_func_06.png)
+  - Main Program
+    ![main1](Data%20Scraping/screenshot/main1.png)
+    ![main2](Data%20Scraping/screenshot/main2.png)
+    ![main3](Data%20Scraping/screenshot/main3.png)
+  - Terminal while running
+    ![terminal1](Data%20Scraping/screenshot/Terminal/01_business_page1.png)
+  ## Data Storing
+  - Tables in Database
+    ![d_tables](Data%20Storing/screenshot/d_tables.png)
+  - Description of Tables
+    ![d_event_table](Data%20Storing/screenshot/d_event_table.png)
+    ![d_organizer_table](Data%20Storing/screenshot/d_organizer_table.png)
+    ![d_category_table](Data%20Storing/screenshot/d_category_table.png)
+    ![d_location_table](Data%20Storing/screenshot/d_location_table.png)
+  - Data in Tables
+    ![event_table](Data%20Storing/screenshot/event_table.png)
+    ![organizer_table](Data%20Storing/screenshot/organizer_table.png)
+    ![category_table](Data%20Storing/screenshot/category_table.png)
+    ![location_table](Data%20Storing/screenshot/location_table.png)
+
 
 ## References
+  - Documentation
+    - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+    - [Selenium](https://www.selenium.dev/)
+    - [psycopg2](https://pypi.org/project/psycopg2/)
+    - [Matplotlib](https://matplotlib.org/)
+    - [PostgreSQL](https://www.postgresql.org/docs/)
+    - [Eventbrite](https://www.eventbrite.com/)
+    - [Python](https://https://www.python.org/doc/)
+  - Others
+    - [Scrape data using Python](https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe/)
+    - [Stackoverflow](https://stackoverflow.com/)
 
 ## Author
   - Naura Valda Prameswari - 18221173
