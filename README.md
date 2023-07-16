@@ -71,6 +71,10 @@ Karena relasi info_stats bersifat one to one, maka primary key bebas dititipkan 
 
 ### Dashboard
 
+![alt text](https://github.com/nixondeflin/TUGAS_SELEKSI_1_18221150/blob/main/Dashboard/PowerBI%20Model.png)
+
+![alt text](https://github.com/nixondeflin/TUGAS_SELEKSI_1_18221150/blob/main/Dashboard/Dashboard_Screenshot.png)
+
 ### Reference
 * https://liquipedia.net/valorant/VCT/2023/Pacific_League/Statistics
 * pandas (Preprocessing)
