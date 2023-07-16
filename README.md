@@ -13,89 +13,76 @@
 </h2>
 
 
-## Spesifikasi
+## 18221150/Nixon Deflin Kurniawan
 
-### Data Scraping
+### Deskripsi Data
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
+Pada proyek data scraping ini, saya mengambil data dari website __liquipedia.net/valorant/VCT/2023/Pacific_League/Statistics__ dengan data spesifik berupa Statistik Pro Player Valorant pada VCT Pacific 2023, saya tertarik untuk mengambil data tersebut dikarenakan website _liquipedia.net_ memberikan berbagai tabel statistik yang lengkap mengenai pertandingan-pertandingan _e-sport_. Hal ini meliputi data pertandingan, pemain, dan juga scoreboard. Tentu juga, ini didukung oleh minat saya terhadap game Valorant.
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
+Data yang di-scrape pada proyek kali ini adalah statistik para pro player Valorant saat pertandingan VCT Pacific 2023. Data-data ini meliputi nickname dari player, tim player, agents yang dimainkan, total map yang dimainkan, total kills, total deaths, total assists, dan masih banyak lagi. Tak lupa juga, saya mengambil data profil para pro player Valorant seperti nama asli,kewarganegaraan, dan juga tanggal lahir.
 
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
-
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
-
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
-
-### Database Modelling & Data Storing
-
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
-
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
-
-4. Tools yang digunakan __dibebaskan__ pada peserta.
-
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
+Untuk DBMS, saya menggunakan PostgreSQL, alasan utama dibalik pemilihan DBMS ini adalah karena saya familiar dalam menggunakannya. Namun, dibalik itu, PostgreSQL memiliki range fitur yang luas dalam memenuhi kebutuhan dalam memanajemen data, serta sudah mendukung sebagian besar fitur standar SQL dan juga memiliki ekstensi yang memperluas kemampuannya lebih jauh.
 
 
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
+### Spesifikasi Program
 
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
+Untuk spesifikasi program, saya menggunakan Selenium sebagai tools untuk web scraping agar bisa mendapat data yang digunakan, saya menggunakan fungsi driver.get() untuk membaca link source. Kemudian, akan terbuka tab baru pada browser (di proyek ini, saya menggunakan Chrome) dan Selenium akan menjalankan webnya dan mensimulasikan dirinya sebagai seorang user. Lalu, saya mencari data yang diinginkan menggunakan XPATH dari file html. Setelah saya mendapatkan data-data yang diinginkan, tidak lupa saya melakukan pre-processing agar data-data yang sudah discraping menjadi lebih teratur, mudah dibaca, dan outputnya sesuai dengan apa yang saya inginkan. Selanjutnya, dilakukan pemodelan ERD dan saya pun mentransformasikan ERD tersebut ke dalam diagram relasional. Tak lupa, saya menggunakan PowerBI untuk memvisualisasikan data tersebut ke dalam bentuk dashboard untuk mendapatkan insight-insight yang saya perlukan.
 
-### Pengumpulan
+### How to Use
+1. Download file .sql yang terdapat di Data Storing/export
+2. Gunakan tools SQL (pada proyek ini, disarankan menggunakan pgAdmin atau tools yang sudah support special characters)
+3. Pada tools tersebut, buatlah sebuah database baru, kemudian buat sebuah table baru
+4. Restore file .sql tersebut sesuai dengan tools yang digunakan
+5. Untuk visualisasi data, kalian bisa mendownload file .pbix pada folder Dashboard
+
+### JSON Structure
+Tersedia pada folder Data Scraping/data
+
+### Database Structure
+
+#### ERD & Relational Model
+
+![alt text](https://github.com/nixondeflin/TUGAS_SELEKSI_1_18221150/blob/main/Data%20Storing/design/designseleksibasdat_18221150.png)
+
+Terdapat 2 entity pada ERD yaitu entity playerinfo dan playerstats,masing masing dari entity ini membentuk relasi info_stats yang bersifat one to one karena tiap player memiliki statistiknya masing-masing. Pada tabel playerinfo, playernickname bertindak sebagai primary key, sedangkan pada tabel playerstats stats_id bertindak sebagai primary key. Selain itu, terdapat derived attribute pada tabel playerinfo yaitu age, karena kolom age bisa diturunkan dari kolom birth.
+
+#### Explanation of ERD to Relational Diagram Translation Process
+
+Karena relasi info_stats bersifat one to one, maka primary key bebas dititipkan ke salah satu entity, karena saya ingin menampilkan statistik dari para pro player, maka saya memilih untuk menitipkan primary key playernickname dari tabel playerinfo ke tabel playerstats. Kemudian terdapat foreign key dari playernickname dari tabel playerstats yang mengarah pada playernickname pada tabel playerinfo.
+
+### Screenshot
+
+#### Data Scraping
+
+![alt text](https://github.com/nixondeflin/TUGAS_SELEKSI_1_18221150/blob/main/Data%20Scraping/screenshot/playerinfoscrape.png)
+
+![alt text](https://github.com/nixondeflin/TUGAS_SELEKSI_1_18221150/blob/main/Data%20Scraping/screenshot/playerinfoscrapefinal.png)
+
+![alt text](https://github.com/nixondeflin/TUGAS_SELEKSI_1_18221150/blob/main/Data%20Scraping/screenshot/playerstatisticscrape.png)
 
 
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
+#### Data Storing
 
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
+![alt text](https://github.com/nixondeflin/TUGAS_SELEKSI_1_18221150/blob/main/Data%20Storing/screenshot/playerinfo.png)
 
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
+![alt text](https://github.com/nixondeflin/TUGAS_SELEKSI_1_18221150/blob/main/Data%20Storing/screenshot/playerstats.png)
+
+![alt text](https://github.com/nixondeflin/TUGAS_SELEKSI_1_18221150/blob/main/Data%20Storing/screenshot/view%20playerage.png)
+
+### Dashboard
+
+### Reference
+* https://liquipedia.net/valorant/VCT/2023/Pacific_League/Statistics
+* pandas (Preprocessing)
+* Selenium (Data Scraping)
+
+### Tools
+* Visual Studio Code
+* pgAdmin
+* PostgreSQL
+* Power BI
 
 
-```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
+### Author
 
-
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
-
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
-
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
-<br>
+Nixon Deflin Kurniawan / 18221150
