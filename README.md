@@ -163,11 +163,11 @@ Setiap strong entity pada ERD akan menjadi tabel tersendiri. dan setiap atribut 
 ![show](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/product.jpg)
 
 ## Referensi
--BeautifulSoup
--Selenium
--Pandas
--Chromedriver
--time
+- BeautifulSoup
+- Selenium
+- Pandas
+- Chromedriver
+- time
 
 ## Author
 Ken Azizan - 18221107
