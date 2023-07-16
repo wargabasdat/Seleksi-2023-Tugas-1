@@ -7,16 +7,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Heroic",
-            "region": "Europe",
-            "approx_total_winnings": 3129372
-        },
-        "runner_up": {
-            "team_name": "Team Vitality",
-            "region": "Europe",
-            "approx_total_winnings": 3477705
-        },
+        "winner": "Heroic",
+        "runner_up": "Team Vitality",
         "prize_pool": 425000.0,
         "number_of_participants": 8
     },
@@ -28,16 +20,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "ENCE",
-            "region": "Europe",
-            "approx_total_winnings": 1860460
-        },
-        "runner_up": {
-            "team_name": "MOUZ",
-            "region": "Europe",
-            "approx_total_winnings": 4194087
-        },
+        "winner": "ENCE",
+        "runner_up": "MOUZ",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -49,16 +33,8 @@
         "country": "France",
         "type": "Offline",
         "is_major": true,
-        "winner": {
-            "team_name": "Team Vitality",
-            "region": "Europe",
-            "approx_total_winnings": 3477705
-        },
-        "runner_up": {
-            "team_name": "GamerLegion",
-            "region": "Europe",
-            "approx_total_winnings": 453755
-        },
+        "winner": "Team Vitality",
+        "runner_up": "GamerLegion",
         "prize_pool": 1250000.0,
         "number_of_participants": 24
     },
@@ -70,16 +46,8 @@
         "country": "Brazil",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Vitality",
-            "region": "Europe",
-            "approx_total_winnings": 3477705
-        },
-        "runner_up": {
-            "team_name": "Heroic",
-            "region": "Europe",
-            "approx_total_winnings": 3129372
-        },
+        "winner": "Team Vitality",
+        "runner_up": "Heroic",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -91,16 +59,8 @@
         "country": "Malta",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
-        "runner_up": {
-            "team_name": "Cloud9",
-            "region": "CIS",
-            "approx_total_winnings": 3262876
-        },
+        "winner": "FaZe Clan",
+        "runner_up": "Cloud9",
         "prize_pool": 850000.0,
         "number_of_participants": 32
     },
@@ -112,16 +72,8 @@
         "country": "Poland",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "G2 Esports",
-            "region": "Europe",
-            "approx_total_winnings": 4521259
-        },
-        "runner_up": {
-            "team_name": "Heroic",
-            "region": "Europe",
-            "approx_total_winnings": 3129372
-        },
+        "winner": "G2 Esports",
+        "runner_up": "Heroic",
         "prize_pool": 1000000.0,
         "number_of_participants": 24
     },
@@ -133,16 +85,8 @@
         "country": "United Arab Emirates",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "G2 Esports",
-            "region": "Europe",
-            "approx_total_winnings": 4521259
-        },
-        "runner_up": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
+        "winner": "G2 Esports",
+        "runner_up": "Team Liquid",
         "prize_pool": 1000000.0,
         "number_of_participants": 8
     },
@@ -154,16 +98,8 @@
         "country": "Denmark",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Heroic",
-            "region": "Europe",
-            "approx_total_winnings": 3129372
-        },
-        "runner_up": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
+        "winner": "Heroic",
+        "runner_up": "FaZe Clan",
         "prize_pool": 425000.0,
         "number_of_participants": 8
     },
@@ -175,16 +111,8 @@
         "country": "Brazil",
         "type": "Offline",
         "is_major": true,
-        "winner": {
-            "team_name": "Outsiders",
-            "region": "CIS",
-            "approx_total_winnings": 718750
-        },
-        "runner_up": {
-            "team_name": "Heroic",
-            "region": "Europe",
-            "approx_total_winnings": 3129372
-        },
+        "winner": "Outsiders",
+        "runner_up": "Heroic",
         "prize_pool": 1250000.0,
         "number_of_participants": 24
     },
@@ -196,16 +124,8 @@
         "country": "Malta",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Vitality",
-            "region": "Europe",
-            "approx_total_winnings": 3477705
-        },
-        "runner_up": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
+        "winner": "Team Vitality",
+        "runner_up": "Team Liquid",
         "prize_pool": 835000.0,
         "number_of_participants": 24
     },
@@ -217,16 +137,8 @@
         "country": "Germany",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
-        "runner_up": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
+        "winner": "FaZe Clan",
+        "runner_up": "Natus Vincere",
         "prize_pool": 1000000.0,
         "number_of_participants": 24
     },
@@ -238,16 +150,8 @@
         "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "BIG",
-            "region": "Europe",
-            "approx_total_winnings": 1900308
-        },
-        "runner_up": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
+        "winner": "BIG",
+        "runner_up": "FaZe Clan",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -259,16 +163,8 @@
         "country": "Portugal",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
-        "runner_up": {
-            "team_name": "Team Vitality",
-            "region": "Europe",
-            "approx_total_winnings": 3477705
-        },
+        "winner": "Natus Vincere",
+        "runner_up": "Team Vitality",
         "prize_pool": 425000.0,
         "number_of_participants": 8
     },
@@ -280,16 +176,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Cloud9",
-            "region": "CIS",
-            "approx_total_winnings": 3262876
-        },
-        "runner_up": {
-            "team_name": "ENCE",
-            "region": "Europe",
-            "approx_total_winnings": 1860460
-        },
+        "winner": "Cloud9",
+        "runner_up": "ENCE",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -301,16 +189,8 @@
         "country": "Belgium",
         "type": "Offline",
         "is_major": true,
-        "winner": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
-        "runner_up": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
+        "winner": "FaZe Clan",
+        "runner_up": "Natus Vincere",
         "prize_pool": 1000000.0,
         "number_of_participants": 24
     },
@@ -322,16 +202,8 @@
         "country": "Germany",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
-        "runner_up": {
-            "team_name": "ENCE",
-            "region": "Europe",
-            "approx_total_winnings": 1860460
-        },
+        "winner": "FaZe Clan",
+        "runner_up": "ENCE",
         "prize_pool": 823000.0,
         "number_of_participants": 24
     },
@@ -343,16 +215,8 @@
         "country": "Poland",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
-        "runner_up": {
-            "team_name": "G2 Esports",
-            "region": "Europe",
-            "approx_total_winnings": 4521259
-        },
+        "winner": "FaZe Clan",
+        "runner_up": "G2 Esports",
         "prize_pool": 1000000.0,
         "number_of_participants": 24
     },
@@ -364,16 +228,8 @@
         "country": "Denmark",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
-        "runner_up": {
-            "team_name": "Gambit Esports",
-            "region": "CIS",
-            "approx_total_winnings": 3258151
-        },
+        "winner": "Natus Vincere",
+        "runner_up": "Gambit Esports",
         "prize_pool": 1000000.0,
         "number_of_participants": 8
     },
@@ -385,16 +241,8 @@
         "country": "Sweden",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Vitality",
-            "region": "Europe",
-            "approx_total_winnings": 3477705
-        },
-        "runner_up": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
+        "winner": "Team Vitality",
+        "runner_up": "Ninjas in Pyjamas",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -406,16 +254,8 @@
         "country": "Denmark",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
-        "runner_up": {
-            "team_name": "Team Vitality",
-            "region": "Europe",
-            "approx_total_winnings": 3477705
-        },
+        "winner": "Natus Vincere",
+        "runner_up": "Team Vitality",
         "prize_pool": 425000.0,
         "number_of_participants": 8
     },
@@ -427,16 +267,8 @@
         "country": "Sweden",
         "type": "Offline",
         "is_major": true,
-        "winner": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
-        "runner_up": {
-            "team_name": "G2 Esports",
-            "region": "Europe",
-            "approx_total_winnings": 4521259
-        },
+        "winner": "Natus Vincere",
+        "runner_up": "G2 Esports",
         "prize_pool": 2000000.0,
         "number_of_participants": 24
     },
@@ -448,16 +280,8 @@
         "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
-        "runner_up": {
-            "team_name": "Team Vitality",
-            "region": "Europe",
-            "approx_total_winnings": 3477705
-        },
+        "winner": "Natus Vincere",
+        "runner_up": "Team Vitality",
         "prize_pool": 750000.0,
         "number_of_participants": 24
     },
@@ -469,16 +293,8 @@
         "country": "Germany",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
-        "runner_up": {
-            "team_name": "G2 Esports",
-            "region": "Europe",
-            "approx_total_winnings": 4521259
-        },
+        "winner": "Natus Vincere",
+        "runner_up": "G2 Esports",
         "prize_pool": 1000000.0,
         "number_of_participants": 24
     },
@@ -490,16 +306,8 @@
         "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Gambit Esports",
-            "region": "CIS",
-            "approx_total_winnings": 3258151
-        },
-        "runner_up": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
+        "winner": "Gambit Esports",
+        "runner_up": "Natus Vincere",
         "prize_pool": 425000.0,
         "number_of_participants": 8
     },
@@ -511,16 +319,8 @@
         "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Gambit Esports",
-            "region": "CIS",
-            "approx_total_winnings": 3258151
-        },
-        "runner_up": {
-            "team_name": "OG",
-            "region": "Europe",
-            "approx_total_winnings": 1092892
-        },
+        "winner": "Gambit Esports",
+        "runner_up": "OG",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -532,16 +332,8 @@
         "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
-        "runner_up": {
-            "team_name": "Gambit Esports",
-            "region": "CIS",
-            "approx_total_winnings": 3258151
-        },
+        "winner": "Natus Vincere",
+        "runner_up": "Gambit Esports",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -553,16 +345,8 @@
         "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Heroic",
-            "region": "Europe",
-            "approx_total_winnings": 3129372
-        },
-        "runner_up": {
-            "team_name": "Gambit Esports",
-            "region": "CIS",
-            "approx_total_winnings": 3258151
-        },
+        "winner": "Heroic",
+        "runner_up": "Gambit Esports",
         "prize_pool": 750000.0,
         "number_of_participants": 24
     },
@@ -574,16 +358,8 @@
         "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Gambit Esports",
-            "region": "CIS",
-            "approx_total_winnings": 3258151
-        },
-        "runner_up": {
-            "team_name": "Virtus.pro",
-            "region": "CIS",
-            "approx_total_winnings": 4784062
-        },
+        "winner": "Gambit Esports",
+        "runner_up": "Virtus.pro",
         "prize_pool": 1000000.0,
         "number_of_participants": 24
     },
@@ -595,16 +371,8 @@
         "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
-        "runner_up": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
+        "winner": "Natus Vincere",
+        "runner_up": "Astralis",
         "prize_pool": 1000000.0,
         "number_of_participants": 8
     },
@@ -616,16 +384,8 @@
         "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
-        "runner_up": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
+        "winner": "Astralis",
+        "runner_up": "Team Liquid",
         "prize_pool": 500000.0,
         "number_of_participants": 8
     },
@@ -637,16 +397,8 @@
         "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Vitality",
-            "region": "Europe",
-            "approx_total_winnings": 3477705
-        },
-        "runner_up": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
+        "winner": "Team Vitality",
+        "runner_up": "Astralis",
         "prize_pool": 425000.0,
         "number_of_participants": 8
     },
@@ -658,16 +410,8 @@
         "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
-        "runner_up": {
-            "team_name": "MOUZ",
-            "region": "Europe",
-            "approx_total_winnings": 4194087
-        },
+        "winner": "Astralis",
+        "runner_up": "MOUZ",
         "prize_pool": 150000.0,
         "number_of_participants": 16
     },
@@ -679,16 +423,8 @@
         "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Virtus.pro",
-            "region": "CIS",
-            "approx_total_winnings": 4784062
-        },
-        "runner_up": {
-            "team_name": "OG",
-            "region": "Europe",
-            "approx_total_winnings": 1092892
-        },
+        "winner": "Virtus.pro",
+        "runner_up": "OG",
         "prize_pool": 1000000.0,
         "number_of_participants": 12
     },
@@ -700,16 +436,8 @@
         "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Vitality",
-            "region": "Europe",
-            "approx_total_winnings": 3477705
-        },
-        "runner_up": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
+        "winner": "Team Vitality",
+        "runner_up": "Natus Vincere",
         "prize_pool": 150000.0,
         "number_of_participants": 16
     },
@@ -721,16 +449,8 @@
         "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
-        "runner_up": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
+        "winner": "Astralis",
+        "runner_up": "Natus Vincere",
         "prize_pool": 450000.0,
         "number_of_participants": 16
     },
@@ -738,20 +458,12 @@
         "tournament_name": "ESL Pro League Season 12: North America",
         "start_date": "2020-09-01",
         "end_date": "2020-09-27",
-        "city": "North America",
-        "country": "North America",
+        "city": "",
+        "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "FURIA Esports",
-            "region": "North America",
-            "approx_total_winnings": 1618275
-        },
-        "runner_up": {
-            "team_name": "100 Thieves",
-            "region": "North America",
-            "approx_total_winnings": 191600
-        },
+        "winner": "FURIA Esports",
+        "runner_up": "100 Thieves",
         "prize_pool": 225000.0,
         "number_of_participants": 8
     },
@@ -763,16 +475,8 @@
         "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Heroic",
-            "region": "Europe",
-            "approx_total_winnings": 3129372
-        },
-        "runner_up": {
-            "team_name": "Team Vitality",
-            "region": "Europe",
-            "approx_total_winnings": 3477705
-        },
+        "winner": "Heroic",
+        "runner_up": "Team Vitality",
         "prize_pool": 325000.0,
         "number_of_participants": 16
     },
@@ -780,20 +484,12 @@
         "tournament_name": "ESL One: Cologne 2020 Online - North America",
         "start_date": "2020-08-18",
         "end_date": "2020-08-29",
-        "city": "North America",
-        "country": "North America",
+        "city": "",
+        "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Evil Geniuses",
-            "region": "North America",
-            "approx_total_winnings": 1270735
-        },
-        "runner_up": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
+        "winner": "Evil Geniuses",
+        "runner_up": "Team Liquid",
         "prize_pool": 135000.0,
         "number_of_participants": 8
     },
@@ -801,20 +497,12 @@
         "tournament_name": "BLAST Premier: Spring 2020 American Finals",
         "start_date": "2020-06-16",
         "end_date": "2020-06-21",
-        "city": "North America",
-        "country": "North America",
+        "city": "",
+        "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Evil Geniuses",
-            "region": "North America",
-            "approx_total_winnings": 1270735
-        },
-        "runner_up": {
-            "team_name": "MIBR",
-            "region": "North America",
-            "approx_total_winnings": 2071519
-        },
+        "winner": "Evil Geniuses",
+        "runner_up": "MIBR",
         "prize_pool": 250000.0,
         "number_of_participants": 4
     },
@@ -826,16 +514,8 @@
         "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Complexity Gaming",
-            "region": "North America",
-            "approx_total_winnings": 1814188
-        },
-        "runner_up": {
-            "team_name": "Team Vitality",
-            "region": "Europe",
-            "approx_total_winnings": 3477705
-        },
+        "winner": "Complexity Gaming",
+        "runner_up": "Team Vitality",
         "prize_pool": 500000.0,
         "number_of_participants": 8
     },
@@ -847,16 +527,8 @@
         "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "BIG",
-            "region": "Europe",
-            "approx_total_winnings": 1900308
-        },
-        "runner_up": {
-            "team_name": "G2 Esports",
-            "region": "Europe",
-            "approx_total_winnings": 4521259
-        },
+        "winner": "BIG",
+        "runner_up": "G2 Esports",
         "prize_pool": 160000.0,
         "number_of_participants": 16
     },
@@ -868,16 +540,8 @@
         "country": "United States",
         "type": "Offline/Online",
         "is_major": false,
-        "winner": {
-            "team_name": "MAD Lions",
-            "region": "Europe",
-            "approx_total_winnings": 728688
-        },
-        "runner_up": {
-            "team_name": "MIBR",
-            "region": "North America",
-            "approx_total_winnings": 2071519
-        },
+        "winner": "MAD Lions",
+        "runner_up": "MIBR",
         "prize_pool": 1000000.0,
         "number_of_participants": 12
     },
@@ -885,20 +549,12 @@
         "tournament_name": "ESL Pro League Season 11: North America",
         "start_date": "2020-03-26",
         "end_date": "2020-04-12",
-        "city": "North America",
-        "country": "North America",
+        "city": "",
+        "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
-        "runner_up": {
-            "team_name": "Evil Geniuses",
-            "region": "North America",
-            "approx_total_winnings": 1270735
-        },
+        "winner": "Team Liquid",
+        "runner_up": "Evil Geniuses",
         "prize_pool": 219000.0,
         "number_of_participants": 6
     },
@@ -910,16 +566,8 @@
         "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "MOUZ",
-            "region": "Europe",
-            "approx_total_winnings": 4194087
-        },
+        "winner": "Fnatic",
+        "runner_up": "MOUZ",
         "prize_pool": 531000.0,
         "number_of_participants": 18
     },
@@ -931,16 +579,8 @@
         "country": "Poland",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
-        "runner_up": {
-            "team_name": "G2 Esports",
-            "region": "Europe",
-            "approx_total_winnings": 4521259
-        },
+        "winner": "Natus Vincere",
+        "runner_up": "G2 Esports",
         "prize_pool": 500000.0,
         "number_of_participants": 16
     },
@@ -952,16 +592,8 @@
         "country": "Russia",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Vitality",
-            "region": "Europe",
-            "approx_total_winnings": 3477705
-        },
-        "runner_up": {
-            "team_name": "MOUZ",
-            "region": "Europe",
-            "approx_total_winnings": 4194087
-        },
+        "winner": "Team Vitality",
+        "runner_up": "MOUZ",
         "prize_pool": 500000.0,
         "number_of_participants": 8
     },
@@ -973,16 +605,8 @@
         "country": "Bahrain",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
-        "runner_up": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
+        "winner": "Astralis",
+        "runner_up": "Team Liquid",
         "prize_pool": 500000.0,
         "number_of_participants": 4
     },
@@ -994,16 +618,8 @@
         "country": "Denmark",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "MOUZ",
-            "region": "Europe",
-            "approx_total_winnings": 4194087
-        },
-        "runner_up": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
+        "winner": "MOUZ",
+        "runner_up": "Fnatic",
         "prize_pool": 600000.0,
         "number_of_participants": 16
     },
@@ -1015,16 +631,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
-        "runner_up": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
+        "winner": "Astralis",
+        "runner_up": "Team Liquid",
         "prize_pool": 500000.0,
         "number_of_participants": 8
     },
@@ -1036,16 +644,8 @@
         "country": "China",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "MOUZ",
-            "region": "Europe",
-            "approx_total_winnings": 4194087
-        },
-        "runner_up": {
-            "team_name": "ENCE",
-            "region": "Europe",
-            "approx_total_winnings": 1860460
-        },
+        "winner": "MOUZ",
+        "runner_up": "ENCE",
         "prize_pool": 500000.0,
         "number_of_participants": 8
     },
@@ -1057,16 +657,8 @@
         "country": "China",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
-        "runner_up": {
-            "team_name": "100 Thieves",
-            "region": "North America",
-            "approx_total_winnings": 191600
-        },
+        "winner": "Astralis",
+        "runner_up": "100 Thieves",
         "prize_pool": 250000.0,
         "number_of_participants": 8
     },
@@ -1078,16 +670,8 @@
         "country": "Turkey",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Evil Geniuses",
-            "region": "North America",
-            "approx_total_winnings": 1270735
-        },
-        "runner_up": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
+        "winner": "Evil Geniuses",
+        "runner_up": "Fnatic",
         "prize_pool": 500000.0,
         "number_of_participants": 16
     },
@@ -1099,16 +683,8 @@
         "country": "Sweden",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "Team Vitality",
-            "region": "Europe",
-            "approx_total_winnings": 3477705
-        },
+        "winner": "Fnatic",
+        "runner_up": "Team Vitality",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -1120,16 +696,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Evil Geniuses",
-            "region": "North America",
-            "approx_total_winnings": 1270735
-        },
-        "runner_up": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
+        "winner": "Evil Geniuses",
+        "runner_up": "Astralis",
         "prize_pool": 200000.0,
         "number_of_participants": 8
     },
@@ -1141,16 +709,8 @@
         "country": "Germany",
         "type": "Offline",
         "is_major": true,
-        "winner": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
-        "runner_up": {
-            "team_name": "AVANGAR",
-            "region": "CIS",
-            "approx_total_winnings": 772045
-        },
+        "winner": "Astralis",
+        "runner_up": "AVANGAR",
         "prize_pool": 1000000.0,
         "number_of_participants": 24
     },
@@ -1162,16 +722,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
-        "runner_up": {
-            "team_name": "ENCE",
-            "region": "Europe",
-            "approx_total_winnings": 1860460
-        },
+        "winner": "Team Liquid",
+        "runner_up": "ENCE",
         "prize_pool": 250000.0,
         "number_of_participants": 8
     },
@@ -1183,16 +735,8 @@
         "country": "Germany",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
-        "runner_up": {
-            "team_name": "Team Vitality",
-            "region": "Europe",
-            "approx_total_winnings": 3477705
-        },
+        "winner": "Team Liquid",
+        "runner_up": "Team Vitality",
         "prize_pool": 300000.0,
         "number_of_participants": 16
     },
@@ -1204,16 +748,8 @@
         "country": "France",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
-        "runner_up": {
-            "team_name": "G2 Esports",
-            "region": "Europe",
-            "approx_total_winnings": 4521259
-        },
+        "winner": "Team Liquid",
+        "runner_up": "G2 Esports",
         "prize_pool": 600000.0,
         "number_of_participants": 16
     },
@@ -1225,16 +761,8 @@
         "country": "United Kingdom",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Vitality",
-            "region": "Europe",
-            "approx_total_winnings": 3477705
-        },
-        "runner_up": {
-            "team_name": "FURIA Esports",
-            "region": "North America",
-            "approx_total_winnings": 1618275
-        },
+        "winner": "Team Vitality",
+        "runner_up": "FURIA Esports",
         "prize_pool": 500000.0,
         "number_of_participants": 8
     },
@@ -1246,16 +774,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
-        "runner_up": {
-            "team_name": "ENCE",
-            "region": "Europe",
-            "approx_total_winnings": 1860460
-        },
+        "winner": "Team Liquid",
+        "runner_up": "ENCE",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -1267,16 +787,8 @@
         "country": "Australia",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
-        "runner_up": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
+        "winner": "Team Liquid",
+        "runner_up": "Fnatic",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -1288,16 +800,8 @@
         "country": "China",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
-        "runner_up": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
+        "winner": "Natus Vincere",
+        "runner_up": "Fnatic",
         "prize_pool": 500000.0,
         "number_of_participants": 16
     },
@@ -1309,16 +813,8 @@
         "country": "China",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Windigo Gaming",
-            "region": "Europe",
-            "approx_total_winnings": 775118
-        },
-        "runner_up": {
-            "team_name": "AGO esports",
-            "region": "Europe",
-            "approx_total_winnings": 818331
-        },
+        "winner": "Windigo Gaming",
+        "runner_up": "AGO esports",
         "prize_pool": 890000.0,
         "number_of_participants": 27
     },
@@ -1330,16 +826,8 @@
         "country": "Poland",
         "type": "Offline",
         "is_major": true,
-        "winner": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
-        "runner_up": {
-            "team_name": "ENCE",
-            "region": "Europe",
-            "approx_total_winnings": 1860460
-        },
+        "winner": "Astralis",
+        "runner_up": "ENCE",
         "prize_pool": 1000000.0,
         "number_of_participants": 24
     },
@@ -1351,16 +839,8 @@
         "country": "Denmark",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
-        "runner_up": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
+        "winner": "Astralis",
+        "runner_up": "Team Liquid",
         "prize_pool": 750000.0,
         "number_of_participants": 16
     },
@@ -1372,16 +852,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
-        "runner_up": {
-            "team_name": "MIBR",
-            "region": "North America",
-            "approx_total_winnings": 2071519
-        },
+        "winner": "Astralis",
+        "runner_up": "MIBR",
         "prize_pool": 660000.0,
         "number_of_participants": 8
     },
@@ -1393,16 +865,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
-        "runner_up": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
+        "winner": "Astralis",
+        "runner_up": "Team Liquid",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -1414,16 +878,8 @@
         "country": "Russia",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
-        "runner_up": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
+        "winner": "FaZe Clan",
+        "runner_up": "Natus Vincere",
         "prize_pool": 295000.0,
         "number_of_participants": 8
     },
@@ -1435,16 +891,8 @@
         "country": "Ukraine",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "ENCE",
-            "region": "Europe",
-            "approx_total_winnings": 1860460
-        },
-        "runner_up": {
-            "team_name": "Vega Squadron",
-            "region": "CIS",
-            "approx_total_winnings": 306811
-        },
+        "winner": "ENCE",
+        "runner_up": "Vega Squadron",
         "prize_pool": 300000.0,
         "number_of_participants": 16
     },
@@ -1456,16 +904,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "MOUZ",
-            "region": "Europe",
-            "approx_total_winnings": 4194087
-        },
-        "runner_up": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
+        "winner": "MOUZ",
+        "runner_up": "Team Liquid",
         "prize_pool": 250000.0,
         "number_of_participants": 8
     },
@@ -1477,16 +917,8 @@
         "country": "United Kingdom",
         "type": "Offline",
         "is_major": true,
-        "winner": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
-        "runner_up": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
+        "winner": "Astralis",
+        "runner_up": "Natus Vincere",
         "prize_pool": 1000000.0,
         "number_of_participants": 24
     },
@@ -1498,16 +930,8 @@
         "country": "Sweden",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "North",
-            "region": "Europe",
-            "approx_total_winnings": 1150000
-        },
-        "runner_up": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
+        "winner": "North",
+        "runner_up": "Astralis",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -1519,16 +943,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
-        "runner_up": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
+        "winner": "Astralis",
+        "runner_up": "Team Liquid",
         "prize_pool": 1000000.0,
         "number_of_participants": 8
     },
@@ -1540,16 +956,8 @@
         "country": "Germany",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
-        "runner_up": {
-            "team_name": "BIG",
-            "region": "Europe",
-            "approx_total_winnings": 1900308
-        },
+        "winner": "Natus Vincere",
+        "runner_up": "BIG",
         "prize_pool": 300000.0,
         "number_of_participants": 16
     },
@@ -1561,16 +969,8 @@
         "country": "Brazil",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
-        "runner_up": {
-            "team_name": "MOUZ",
-            "region": "Europe",
-            "approx_total_winnings": 4194087
-        },
+        "winner": "FaZe Clan",
+        "runner_up": "MOUZ",
         "prize_pool": 200000.0,
         "number_of_participants": 8
     },
@@ -1582,16 +982,8 @@
         "country": "United Kingdom",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
-        "runner_up": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
+        "winner": "Astralis",
+        "runner_up": "Team Liquid",
         "prize_pool": 660000.0,
         "number_of_participants": 8
     },
@@ -1603,16 +995,8 @@
         "country": "Ukraine",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
-        "runner_up": {
-            "team_name": "NRG Esports",
-            "region": "North America",
-            "approx_total_winnings": 1145675
-        },
+        "winner": "Natus Vincere",
+        "runner_up": "NRG Esports",
         "prize_pool": 300000.0,
         "number_of_participants": 16
     },
@@ -1624,16 +1008,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
-        "runner_up": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
+        "winner": "Astralis",
+        "runner_up": "Team Liquid",
         "prize_pool": 750000.0,
         "number_of_participants": 16
     },
@@ -1645,16 +1021,8 @@
         "country": "Australia",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
-        "runner_up": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
+        "winner": "FaZe Clan",
+        "runner_up": "Astralis",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -1666,16 +1034,8 @@
         "country": "France",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
-        "runner_up": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
+        "winner": "Astralis",
+        "runner_up": "Natus Vincere",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -1687,16 +1047,8 @@
         "country": "China",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "Space Soldiers",
-            "region": "Europe",
-            "approx_total_winnings": 757282
-        },
+        "winner": "Fnatic",
+        "runner_up": "Space Soldiers",
         "prize_pool": 1500000.0,
         "number_of_participants": 27
     },
@@ -1708,16 +1060,8 @@
         "country": "Poland",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
+        "winner": "Fnatic",
+        "runner_up": "FaZe Clan",
         "prize_pool": 500000.0,
         "number_of_participants": 16
     },
@@ -1729,16 +1073,8 @@
         "country": "Ukraine",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "MOUZ",
-            "region": "Europe",
-            "approx_total_winnings": 4194087
-        },
-        "runner_up": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
+        "winner": "MOUZ",
+        "runner_up": "Natus Vincere",
         "prize_pool": 300000.0,
         "number_of_participants": 16
     },
@@ -1750,16 +1086,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": true,
-        "winner": {
-            "team_name": "Cloud9",
-            "region": "CIS",
-            "approx_total_winnings": 3262876
-        },
-        "runner_up": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
+        "winner": "Cloud9",
+        "runner_up": "FaZe Clan",
         "prize_pool": 1000000.0,
         "number_of_participants": 23
     },
@@ -1771,16 +1099,8 @@
         "country": "Mexico",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
-        "runner_up": {
-            "team_name": "MOUZ",
-            "region": "Europe",
-            "approx_total_winnings": 4194087
-        },
+        "winner": "FaZe Clan",
+        "runner_up": "MOUZ",
         "prize_pool": 660000.0,
         "number_of_participants": 8
     },
@@ -1792,16 +1112,8 @@
         "country": "Denmark",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "SK Gaming",
-            "region": "North America",
-            "approx_total_winnings": 3696729
-        },
-        "runner_up": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
+        "winner": "SK Gaming",
+        "runner_up": "FaZe Clan",
         "prize_pool": 750000.0,
         "number_of_participants": 12
     },
@@ -1813,16 +1125,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
-        "runner_up": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
+        "winner": "Ninjas in Pyjamas",
+        "runner_up": "FaZe Clan",
         "prize_pool": 300000.0,
         "number_of_participants": 12
     },
@@ -1834,16 +1138,8 @@
         "country": "Russia",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "SK Gaming",
-            "region": "North America",
-            "approx_total_winnings": 3696729
-        },
-        "runner_up": {
-            "team_name": "Virtus.pro",
-            "region": "CIS",
-            "approx_total_winnings": 4784062
-        },
+        "winner": "SK Gaming",
+        "runner_up": "Virtus.pro",
         "prize_pool": 490000.0,
         "number_of_participants": 8
     },
@@ -1855,16 +1151,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
-        "runner_up": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
+        "winner": "FaZe Clan",
+        "runner_up": "Astralis",
         "prize_pool": 1000000.0,
         "number_of_participants": 16
     },
@@ -1876,16 +1164,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
-        "runner_up": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
+        "winner": "FaZe Clan",
+        "runner_up": "Team Liquid",
         "prize_pool": 250000.0,
         "number_of_participants": 8
     },
@@ -1897,16 +1177,8 @@
         "country": "Greece",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "MOUZ",
-            "region": "Europe",
-            "approx_total_winnings": 4194087
-        },
-        "runner_up": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
+        "winner": "MOUZ",
+        "runner_up": "Team Liquid",
         "prize_pool": 240561.53,
         "number_of_participants": 8
     },
@@ -1918,16 +1190,8 @@
         "country": "Sweden",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "G2 Esports",
-            "region": "Europe",
-            "approx_total_winnings": 4521259
-        },
-        "runner_up": {
-            "team_name": "North",
-            "region": "Europe",
-            "approx_total_winnings": 1150000
-        },
+        "winner": "G2 Esports",
+        "runner_up": "North",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -1939,16 +1203,8 @@
         "country": "Poland",
         "type": "Offline",
         "is_major": true,
-        "winner": {
-            "team_name": "Gambit Esports",
-            "region": "CIS",
-            "approx_total_winnings": 3258151
-        },
-        "runner_up": {
-            "team_name": "Immortals",
-            "region": "North America",
-            "approx_total_winnings": 571425
-        },
+        "winner": "Gambit Esports",
+        "runner_up": "Immortals",
         "prize_pool": 1000000.0,
         "number_of_participants": 16
     },
@@ -1960,16 +1216,8 @@
         "country": "Germany",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "SK Gaming",
-            "region": "North America",
-            "approx_total_winnings": 3696729
-        },
-        "runner_up": {
-            "team_name": "Cloud9",
-            "region": "CIS",
-            "approx_total_winnings": 3262876
-        },
+        "winner": "SK Gaming",
+        "runner_up": "Cloud9",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -1981,16 +1229,8 @@
         "country": "United Kingdom",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "SK Gaming",
-            "region": "North America",
-            "approx_total_winnings": 3696729
-        },
-        "runner_up": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
+        "winner": "SK Gaming",
+        "runner_up": "FaZe Clan",
         "prize_pool": 660000.0,
         "number_of_participants": 8
     },
@@ -2002,16 +1242,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "G2 Esports",
-            "region": "Europe",
-            "approx_total_winnings": 4521259
-        },
-        "runner_up": {
-            "team_name": "North",
-            "region": "Europe",
-            "approx_total_winnings": 1150000
-        },
+        "winner": "G2 Esports",
+        "runner_up": "North",
         "prize_pool": 750000.0,
         "number_of_participants": 12
     },
@@ -2023,16 +1255,8 @@
         "country": "Australia",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "SK Gaming",
-            "region": "North America",
-            "approx_total_winnings": 3696729
-        },
-        "runner_up": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
+        "winner": "SK Gaming",
+        "runner_up": "FaZe Clan",
         "prize_pool": 200000.0,
         "number_of_participants": 8
     },
@@ -2044,16 +1268,8 @@
         "country": "Ukraine",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
-        "runner_up": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
+        "winner": "FaZe Clan",
+        "runner_up": "Astralis",
         "prize_pool": 300000.0,
         "number_of_participants": 16
     },
@@ -2065,16 +1281,8 @@
         "country": "Poland",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
-        "runner_up": {
-            "team_name": "FaZe Clan",
-            "region": "Europe",
-            "approx_total_winnings": 7155597
-        },
+        "winner": "Astralis",
+        "runner_up": "FaZe Clan",
         "prize_pool": 250000.0,
         "number_of_participants": 12
     },
@@ -2086,16 +1294,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Virtus.pro",
-            "region": "CIS",
-            "approx_total_winnings": 4784062
-        },
-        "runner_up": {
-            "team_name": "SK Gaming",
-            "region": "North America",
-            "approx_total_winnings": 3696729
-        },
+        "winner": "Virtus.pro",
+        "runner_up": "SK Gaming",
         "prize_pool": 450000.0,
         "number_of_participants": 16
     },
@@ -2107,16 +1307,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": true,
-        "winner": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
-        "runner_up": {
-            "team_name": "Virtus.pro",
-            "region": "CIS",
-            "approx_total_winnings": 4784062
-        },
+        "winner": "Astralis",
+        "runner_up": "Virtus.pro",
         "prize_pool": 1000000.0,
         "number_of_participants": 16
     },
@@ -2128,16 +1320,8 @@
         "country": "China",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Envy",
-            "region": "North America",
-            "approx_total_winnings": 2156631
-        },
-        "runner_up": {
-            "team_name": "devils.one",
-            "region": "Europe",
-            "approx_total_winnings": 861019
-        },
+        "winner": "Team Envy",
+        "runner_up": "devils.one",
         "prize_pool": 1500000.0,
         "number_of_participants": 23
     },
@@ -2149,16 +1333,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
-        "runner_up": {
-            "team_name": "OpTic Gaming",
-            "region": "Europe",
-            "approx_total_winnings": 1353650
-        },
+        "winner": "Astralis",
+        "runner_up": "OpTic Gaming",
         "prize_pool": 660000.0,
         "number_of_participants": 8
     },
@@ -2170,16 +1346,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "OpTic Gaming",
-            "region": "Europe",
-            "approx_total_winnings": 1353650
-        },
-        "runner_up": {
-            "team_name": "Astralis",
-            "region": "Europe",
-            "approx_total_winnings": 9681684
-        },
+        "winner": "OpTic Gaming",
+        "runner_up": "Astralis",
         "prize_pool": 1100000.0,
         "number_of_participants": 16
     },
@@ -2191,16 +1359,8 @@
         "country": "Sweden",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Gambit Esports",
-            "region": "CIS",
-            "approx_total_winnings": 3258151
-        },
-        "runner_up": {
-            "team_name": "Renegades",
-            "region": "Oceania",
-            "approx_total_winnings": 1070183
-        },
+        "winner": "Gambit Esports",
+        "runner_up": "Renegades",
         "prize_pool": 100000.0,
         "number_of_participants": 8
     },
@@ -2212,16 +1372,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
-        "runner_up": {
-            "team_name": "SK Gaming",
-            "region": "North America",
-            "approx_total_winnings": 3696729
-        },
+        "winner": "Ninjas in Pyjamas",
+        "runner_up": "SK Gaming",
         "prize_pool": 300000.0,
         "number_of_participants": 12
     },
@@ -2233,16 +1385,8 @@
         "country": "Brazil",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Cloud9",
-            "region": "CIS",
-            "approx_total_winnings": 3262876
-        },
-        "runner_up": {
-            "team_name": "SK Gaming",
-            "region": "North America",
-            "approx_total_winnings": 3696729
-        },
+        "winner": "Cloud9",
+        "runner_up": "SK Gaming",
         "prize_pool": 600000.0,
         "number_of_participants": 12
     },
@@ -2254,16 +1398,8 @@
         "country": "Russia",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Dignitas",
-            "region": "Europe",
-            "approx_total_winnings": 1049036
-        },
-        "runner_up": {
-            "team_name": "Virtus.pro",
-            "region": "CIS",
-            "approx_total_winnings": 4784062
-        },
+        "winner": "Dignitas",
+        "runner_up": "Virtus.pro",
         "prize_pool": 490000.0,
         "number_of_participants": 8
     },
@@ -2275,16 +1411,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
-        "runner_up": {
-            "team_name": "Virtus.pro",
-            "region": "CIS",
-            "approx_total_winnings": 4784062
-        },
+        "winner": "Natus Vincere",
+        "runner_up": "Virtus.pro",
         "prize_pool": 250000.0,
         "number_of_participants": 8
     },
@@ -2296,16 +1424,8 @@
         "country": "Romania",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Virtus.pro",
-            "region": "CIS",
-            "approx_total_winnings": 4784062
-        },
-        "runner_up": {
-            "team_name": "Cloud9",
-            "region": "CIS",
-            "approx_total_winnings": 3262876
-        },
+        "winner": "Virtus.pro",
+        "runner_up": "Cloud9",
         "prize_pool": 100000.0,
         "number_of_participants": 8
     },
@@ -2317,16 +1437,8 @@
         "country": "Ukraine",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
-        "runner_up": {
-            "team_name": "G2 Esports",
-            "region": "Europe",
-            "approx_total_winnings": 4521259
-        },
+        "winner": "Ninjas in Pyjamas",
+        "runner_up": "G2 Esports",
         "prize_pool": 300000.0,
         "number_of_participants": 16
     },
@@ -2338,16 +1450,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Virtus.pro",
-            "region": "CIS",
-            "approx_total_winnings": 4784062
-        },
-        "runner_up": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
+        "winner": "Virtus.pro",
+        "runner_up": "Fnatic",
         "prize_pool": 1400000.0,
         "number_of_participants": 24
     },
@@ -2359,16 +1463,8 @@
         "country": "Germany",
         "type": "Offline",
         "is_major": true,
-        "winner": {
-            "team_name": "SK Gaming",
-            "region": "North America",
-            "approx_total_winnings": 3696729
-        },
-        "runner_up": {
-            "team_name": "Team Liquid",
-            "region": "Europe",
-            "approx_total_winnings": 5878569
-        },
+        "winner": "SK Gaming",
+        "runner_up": "Team Liquid",
         "prize_pool": 1000000.0,
         "number_of_participants": 16
     },
@@ -2380,16 +1476,8 @@
         "country": "United Kingdom",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "G2 Esports",
-            "region": "Europe",
-            "approx_total_winnings": 4521259
-        },
-        "runner_up": {
-            "team_name": "Luminosity Gaming",
-            "region": "North America",
-            "approx_total_winnings": 1426082
-        },
+        "winner": "G2 Esports",
+        "runner_up": "Luminosity Gaming",
         "prize_pool": 765000.0,
         "number_of_participants": 8
     },
@@ -2401,16 +1489,8 @@
         "country": "Sweden",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Immortals",
-            "region": "North America",
-            "approx_total_winnings": 571425
-        },
-        "runner_up": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
+        "winner": "Immortals",
+        "runner_up": "Ninjas in Pyjamas",
         "prize_pool": 100000.0,
         "number_of_participants": 8
     },
@@ -2422,16 +1502,8 @@
         "country": "Ukraine",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Virtus.pro",
-            "region": "CIS",
-            "approx_total_winnings": 4784062
-        },
-        "runner_up": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
+        "winner": "Virtus.pro",
+        "runner_up": "Natus Vincere",
         "prize_pool": 100000.0,
         "number_of_participants": 8
     },
@@ -2443,16 +1515,8 @@
         "country": "United Kingdom",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Luminosity Gaming",
-            "region": "North America",
-            "approx_total_winnings": 1426082
-        },
-        "runner_up": {
-            "team_name": "G2 Esports",
-            "region": "Europe",
-            "approx_total_winnings": 4521259
-        },
+        "winner": "Luminosity Gaming",
+        "runner_up": "G2 Esports",
         "prize_pool": 512000.0,
         "number_of_participants": 8
     },
@@ -2464,16 +1528,8 @@
         "country": "United Kingdom",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Tempo Storm",
-            "region": "Europe",
-            "approx_total_winnings": 155860
-        },
-        "runner_up": {
-            "team_name": "SK Gaming",
-            "region": "North America",
-            "approx_total_winnings": 3696729
-        },
+        "winner": "Tempo Storm",
+        "runner_up": "SK Gaming",
         "prize_pool": 125000.0,
         "number_of_participants": 8
     },
@@ -2485,16 +1541,8 @@
         "country": "Sweden",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
-        "runner_up": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
+        "winner": "Ninjas in Pyjamas",
+        "runner_up": "Natus Vincere",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -2506,16 +1554,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": true,
-        "winner": {
-            "team_name": "Luminosity Gaming",
-            "region": "North America",
-            "approx_total_winnings": 1426082
-        },
-        "runner_up": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
+        "winner": "Luminosity Gaming",
+        "runner_up": "Natus Vincere",
         "prize_pool": 1000000.0,
         "number_of_participants": 16
     },
@@ -2527,16 +1567,8 @@
         "country": "Poland",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "Luminosity Gaming",
-            "region": "North America",
-            "approx_total_winnings": 1426082
-        },
+        "winner": "Fnatic",
+        "runner_up": "Luminosity Gaming",
         "prize_pool": 250000.0,
         "number_of_participants": 12
     },
@@ -2548,16 +1580,8 @@
         "country": "Lithuania",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Envy",
-            "region": "North America",
-            "approx_total_winnings": 2156631
-        },
-        "runner_up": {
-            "team_name": "Dignitas",
-            "region": "Europe",
-            "approx_total_winnings": 1049036
-        },
+        "winner": "Team Envy",
+        "runner_up": "Dignitas",
         "prize_pool": 200000.0,
         "number_of_participants": 8
     },
@@ -2569,16 +1593,8 @@
         "country": "Germany",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
-        "runner_up": {
-            "team_name": "Luminosity Gaming",
-            "region": "North America",
-            "approx_total_winnings": 1426082
-        },
+        "winner": "Natus Vincere",
+        "runner_up": "Luminosity Gaming",
         "prize_pool": 100000.0,
         "number_of_participants": 8
     },
@@ -2590,16 +1606,8 @@
         "country": "Belarus",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
+        "winner": "Fnatic",
+        "runner_up": "Natus Vincere",
         "prize_pool": 200000.0,
         "number_of_participants": 8
     },
@@ -2611,16 +1619,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
+        "winner": "Fnatic",
+        "runner_up": "Natus Vincere",
         "prize_pool": 250000.0,
         "number_of_participants": 8
     },
@@ -2632,16 +1632,8 @@
         "country": "Sweden",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
+        "winner": "Fnatic",
+        "runner_up": "Ninjas in Pyjamas",
         "prize_pool": 58852.0,
         "number_of_participants": 4
     },
@@ -2653,16 +1645,8 @@
         "country": "Sweden",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "Luminosity Gaming",
-            "region": "North America",
-            "approx_total_winnings": 1426082
-        },
+        "winner": "Fnatic",
+        "runner_up": "Luminosity Gaming",
         "prize_pool": 250000.0,
         "number_of_participants": 8
     },
@@ -2674,16 +1658,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
-        "runner_up": {
-            "team_name": "Team SoloMid",
-            "region": "North America",
-            "approx_total_winnings": 613710
-        },
+        "winner": "Natus Vincere",
+        "runner_up": "Team SoloMid",
         "prize_pool": 125000.0,
         "number_of_participants": 8
     },
@@ -2695,16 +1671,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Virtus.pro",
-            "region": "CIS",
-            "approx_total_winnings": 4784062
-        },
-        "runner_up": {
-            "team_name": "MOUZ",
-            "region": "Europe",
-            "approx_total_winnings": 4194087
-        },
+        "winner": "Virtus.pro",
+        "runner_up": "MOUZ",
         "prize_pool": 100000.0,
         "number_of_participants": 24
     },
@@ -2716,16 +1684,8 @@
         "country": "Romania",
         "type": "Offline",
         "is_major": true,
-        "winner": {
-            "team_name": "Team Envy",
-            "region": "North America",
-            "approx_total_winnings": 2156631
-        },
-        "runner_up": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
+        "winner": "Team Envy",
+        "runner_up": "Natus Vincere",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -2737,16 +1697,8 @@
         "country": "Serbia",
         "type": "Online/Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team France",
-            "region": "Europe",
-            "approx_total_winnings": 79850
-        },
-        "runner_up": {
-            "team_name": "Team Poland",
-            "region": "Europe",
-            "approx_total_winnings": 57804
-        },
+        "winner": "Team France",
+        "runner_up": "Team Poland",
         "prize_pool": 100000.0,
         "number_of_participants": 16
     },
@@ -2758,16 +1710,8 @@
         "country": "Romania",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team SoloMid",
-            "region": "North America",
-            "approx_total_winnings": 613710
-        },
-        "runner_up": {
-            "team_name": "Virtus.pro",
-            "region": "CIS",
-            "approx_total_winnings": 4784062
-        },
+        "winner": "Team SoloMid",
+        "runner_up": "Virtus.pro",
         "prize_pool": 75000.0,
         "number_of_participants": 4
     },
@@ -2779,16 +1723,8 @@
         "country": "United Kingdom",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Envy",
-            "region": "North America",
-            "approx_total_winnings": 2156631
-        },
-        "runner_up": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
+        "winner": "Team Envy",
+        "runner_up": "Fnatic",
         "prize_pool": 100000.0,
         "number_of_participants": 4
     },
@@ -2800,16 +1736,8 @@
         "country": "United Kingdom",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Envy",
-            "region": "North America",
-            "approx_total_winnings": 2156631
-        },
-        "runner_up": {
-            "team_name": "Team SoloMid",
-            "region": "North America",
-            "approx_total_winnings": 613710
-        },
+        "winner": "Team Envy",
+        "runner_up": "Team SoloMid",
         "prize_pool": 40000.0,
         "number_of_participants": 8
     },
@@ -2821,16 +1749,8 @@
         "country": "United Arab Emirates",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Virtus.pro",
-            "region": "CIS",
-            "approx_total_winnings": 4784062
-        },
-        "runner_up": {
-            "team_name": "Team SoloMid",
-            "region": "North America",
-            "approx_total_winnings": 613710
-        },
+        "winner": "Virtus.pro",
+        "runner_up": "Team SoloMid",
         "prize_pool": 250000.0,
         "number_of_participants": 8
     },
@@ -2842,16 +1762,8 @@
         "country": "Germany",
         "type": "Offline",
         "is_major": true,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "Team Envy",
-            "region": "North America",
-            "approx_total_winnings": 2156631
-        },
+        "winner": "Fnatic",
+        "runner_up": "Team Envy",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -2863,16 +1775,8 @@
         "country": "Germany",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Envy",
-            "region": "North America",
-            "approx_total_winnings": 2156631
-        },
-        "runner_up": {
-            "team_name": "Team SoloMid",
-            "region": "North America",
-            "approx_total_winnings": 613710
-        },
+        "winner": "Team Envy",
+        "runner_up": "Team SoloMid",
         "prize_pool": 80500.0,
         "number_of_participants": 6
     },
@@ -2884,16 +1788,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Virtus.pro",
-            "region": "CIS",
-            "approx_total_winnings": 4784062
-        },
-        "runner_up": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
+        "winner": "Virtus.pro",
+        "runner_up": "Natus Vincere",
         "prize_pool": 75000.0,
         "number_of_participants": 8
     },
@@ -2905,16 +1801,8 @@
         "country": "Spain",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team SoloMid",
-            "region": "North America",
-            "approx_total_winnings": 613710
-        },
-        "runner_up": {
-            "team_name": "Cloud9",
-            "region": "CIS",
-            "approx_total_winnings": 3262876
-        },
+        "winner": "Team SoloMid",
+        "runner_up": "Cloud9",
         "prize_pool": 100000.0,
         "number_of_participants": 8
     },
@@ -2926,16 +1814,8 @@
         "country": "Canada",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
-        "runner_up": {
-            "team_name": "Cloud9",
-            "region": "CIS",
-            "approx_total_winnings": 3262876
-        },
+        "winner": "Natus Vincere",
+        "runner_up": "Cloud9",
         "prize_pool": 75000.0,
         "number_of_participants": 16
     },
@@ -2947,16 +1827,8 @@
         "country": "Germany",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "Cloud9",
-            "region": "CIS",
-            "approx_total_winnings": 3262876
-        },
+        "winner": "Fnatic",
+        "runner_up": "Cloud9",
         "prize_pool": 250000.0,
         "number_of_participants": 8
     },
@@ -2968,16 +1840,8 @@
         "country": "United Kingdom",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Envy",
-            "region": "North America",
-            "approx_total_winnings": 2156631
-        },
-        "runner_up": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
+        "winner": "Team Envy",
+        "runner_up": "Ninjas in Pyjamas",
         "prize_pool": 80000.0,
         "number_of_participants": 8
     },
@@ -2989,16 +1853,8 @@
         "country": "Ukraine",
         "type": "Online/Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
-        "runner_up": {
-            "team_name": "Team Envy",
-            "region": "North America",
-            "approx_total_winnings": 2156631
-        },
+        "winner": "Natus Vincere",
+        "runner_up": "Team Envy",
         "prize_pool": 50000.0,
         "number_of_participants": 16
     },
@@ -3010,16 +1866,8 @@
         "country": "Sweden",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
+        "winner": "Fnatic",
+        "runner_up": "Natus Vincere",
         "prize_pool": 40000.0,
         "number_of_participants": 8
     },
@@ -3031,16 +1879,8 @@
         "country": "Sweden",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team SoloMid",
-            "region": "North America",
-            "approx_total_winnings": 613710
-        },
-        "runner_up": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
+        "winner": "Team SoloMid",
+        "runner_up": "Fnatic",
         "prize_pool": 62494.43,
         "number_of_participants": 4
     },
@@ -3052,16 +1892,8 @@
         "country": "United Kingdom",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "Virtus.pro",
-            "region": "CIS",
-            "approx_total_winnings": 4784062
-        },
+        "winner": "Fnatic",
+        "runner_up": "Virtus.pro",
         "prize_pool": 50000.0,
         "number_of_participants": 10
     },
@@ -3073,16 +1905,8 @@
         "country": "France",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "Team Envy",
-            "region": "North America",
-            "approx_total_winnings": 2156631
-        },
+        "winner": "Fnatic",
+        "runner_up": "Team Envy",
         "prize_pool": 40000.0,
         "number_of_participants": 8
     },
@@ -3094,16 +1918,8 @@
         "country": "United Kingdom",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team SoloMid",
-            "region": "North America",
-            "approx_total_winnings": 613710
-        },
-        "runner_up": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
+        "winner": "Team SoloMid",
+        "runner_up": "Ninjas in Pyjamas",
         "prize_pool": 85000.0,
         "number_of_participants": 8
     },
@@ -3115,16 +1931,8 @@
         "country": "Romania",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team SoloMid",
-            "region": "North America",
-            "approx_total_winnings": 613710
-        },
-        "runner_up": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
+        "winner": "Team SoloMid",
+        "runner_up": "Fnatic",
         "prize_pool": 75000.0,
         "number_of_participants": 4
     },
@@ -3136,16 +1944,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Virtus.pro",
-            "region": "CIS",
-            "approx_total_winnings": 4784062
-        },
-        "runner_up": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
+        "winner": "Virtus.pro",
+        "runner_up": "Fnatic",
         "prize_pool": 144000.0,
         "number_of_participants": 8
     },
@@ -3157,16 +1957,8 @@
         "country": "Germany",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
-        "runner_up": {
-            "team_name": "Titan",
-            "region": "Europe",
-            "approx_total_winnings": 190544
-        },
+        "winner": "Natus Vincere",
+        "runner_up": "Titan",
         "prize_pool": 48000.0,
         "number_of_participants": 8
     },
@@ -3178,16 +1970,8 @@
         "country": "Ukraine",
         "type": "Online/Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Envy",
-            "region": "North America",
-            "approx_total_winnings": 2156631
-        },
-        "runner_up": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
+        "winner": "Team Envy",
+        "runner_up": "Ninjas in Pyjamas",
         "prize_pool": 50000.0,
         "number_of_participants": 16
     },
@@ -3199,16 +1983,8 @@
         "country": "United Kingdom",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team Envy",
-            "region": "North America",
-            "approx_total_winnings": 2156631
-        },
-        "runner_up": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
+        "winner": "Team Envy",
+        "runner_up": "Ninjas in Pyjamas",
         "prize_pool": 50000.0,
         "number_of_participants": 8
     },
@@ -3220,16 +1996,8 @@
         "country": "Poland",
         "type": "Offline",
         "is_major": true,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
+        "winner": "Fnatic",
+        "runner_up": "Ninjas in Pyjamas",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -3241,16 +2009,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team LDLC",
-            "region": "Europe",
-            "approx_total_winnings": 604207
-        },
-        "runner_up": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
+        "winner": "Team LDLC",
+        "runner_up": "Ninjas in Pyjamas",
         "prize_pool": 50000.0,
         "number_of_participants": 8
     },
@@ -3262,16 +2022,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "Virtus.pro",
-            "region": "CIS",
-            "approx_total_winnings": 4784062
-        },
+        "winner": "Fnatic",
+        "runner_up": "Virtus.pro",
         "prize_pool": 47500.0,
         "number_of_participants": 8
     },
@@ -3283,16 +2035,8 @@
         "country": "Sweden",
         "type": "Offline",
         "is_major": true,
-        "winner": {
-            "team_name": "Team LDLC",
-            "region": "Europe",
-            "approx_total_winnings": 604207
-        },
-        "runner_up": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
+        "winner": "Team LDLC",
+        "runner_up": "Ninjas in Pyjamas",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -3304,16 +2048,8 @@
         "country": "Sweden",
         "type": "Online/Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "Team LDLC",
-            "region": "Europe",
-            "approx_total_winnings": 604207
-        },
+        "winner": "Fnatic",
+        "runner_up": "Team LDLC",
         "prize_pool": 43851.9,
         "number_of_participants": 16
     },
@@ -3325,16 +2061,8 @@
         "country": "France",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "Team LDLC",
-            "region": "Europe",
-            "approx_total_winnings": 604207
-        },
+        "winner": "Fnatic",
+        "runner_up": "Team LDLC",
         "prize_pool": 60000.0,
         "number_of_participants": 24
     },
@@ -3346,16 +2074,8 @@
         "country": "Italy",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "iBUYPOWER",
-            "region": "North America",
-            "approx_total_winnings": 0
-        },
+        "winner": "Fnatic",
+        "runner_up": "iBUYPOWER",
         "prize_pool": 50000.0,
         "number_of_participants": 14
     },
@@ -3367,16 +2087,8 @@
         "country": "Ukraine",
         "type": "Online/Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Team LDLC",
-            "region": "Europe",
-            "approx_total_winnings": 604207
-        },
-        "runner_up": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
+        "winner": "Team LDLC",
+        "runner_up": "Natus Vincere",
         "prize_pool": 35000.0,
         "number_of_participants": 16
     },
@@ -3388,16 +2100,8 @@
         "country": "Sweden",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Titan",
-            "region": "Europe",
-            "approx_total_winnings": 190544
-        },
-        "runner_up": {
-            "team_name": "Team LDLC",
-            "region": "Europe",
-            "approx_total_winnings": 604207
-        },
+        "winner": "Titan",
+        "runner_up": "Team LDLC",
         "prize_pool": 30000.0,
         "number_of_participants": 8
     },
@@ -3409,16 +2113,8 @@
         "country": "Ukraine",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
+        "winner": "Fnatic",
+        "runner_up": "Natus Vincere",
         "prize_pool": 30000.0,
         "number_of_participants": 4
     },
@@ -3430,16 +2126,8 @@
         "country": "Germany",
         "type": "Offline",
         "is_major": true,
-        "winner": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
-        "runner_up": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
+        "winner": "Ninjas in Pyjamas",
+        "runner_up": "Fnatic",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -3451,16 +2139,8 @@
         "country": "United Kingdom",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Virtus.pro",
-            "region": "CIS",
-            "approx_total_winnings": 4784062
-        },
-        "runner_up": {
-            "team_name": "Titan",
-            "region": "Europe",
-            "approx_total_winnings": 190544
-        },
+        "winner": "Virtus.pro",
+        "runner_up": "Titan",
         "prize_pool": 45000.0,
         "number_of_participants": 12
     },
@@ -3472,16 +2152,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "iBUYPOWER",
-            "region": "North America",
-            "approx_total_winnings": 0
-        },
-        "runner_up": {
-            "team_name": "Complexity Gaming",
-            "region": "North America",
-            "approx_total_winnings": 1814188
-        },
+        "winner": "iBUYPOWER",
+        "runner_up": "Complexity Gaming",
         "prize_pool": 47500.0,
         "number_of_participants": 8
     },
@@ -3493,16 +2165,8 @@
         "country": "Sweden",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
-        "runner_up": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
+        "winner": "Ninjas in Pyjamas",
+        "runner_up": "Natus Vincere",
         "prize_pool": 30000.0,
         "number_of_participants": 16
     },
@@ -3514,16 +2178,8 @@
         "country": "Ukraine",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Natus Vincere",
-            "region": "Europe",
-            "approx_total_winnings": 9522791
-        },
-        "runner_up": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
+        "winner": "Natus Vincere",
+        "runner_up": "Ninjas in Pyjamas",
         "prize_pool": 30000.0,
         "number_of_participants": 4
     },
@@ -3531,20 +2187,12 @@
         "tournament_name": "Fragbite Masters Season 2",
         "start_date": "2014-03-01",
         "end_date": "2014-04-01",
-        "city": "Sweden",
-        "country": "Sweden",
+        "city": "",
+        "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Dignitas",
-            "region": "Europe",
-            "approx_total_winnings": 1049036
-        },
-        "runner_up": {
-            "team_name": "Titan",
-            "region": "Europe",
-            "approx_total_winnings": 190544
-        },
+        "winner": "Dignitas",
+        "runner_up": "Titan",
         "prize_pool": 25408.2,
         "number_of_participants": 16
     },
@@ -3556,16 +2204,8 @@
         "country": "Poland",
         "type": "Offline",
         "is_major": true,
-        "winner": {
-            "team_name": "Virtus.pro",
-            "region": "CIS",
-            "approx_total_winnings": 4784062
-        },
-        "runner_up": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
+        "winner": "Virtus.pro",
+        "runner_up": "Ninjas in Pyjamas",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -3577,16 +2217,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "iBUYPOWER",
-            "region": "North America",
-            "approx_total_winnings": 0
-        },
-        "runner_up": {
-            "team_name": "Titan",
-            "region": "Europe",
-            "approx_total_winnings": 190544
-        },
+        "winner": "iBUYPOWER",
+        "runner_up": "Titan",
         "prize_pool": 39500.0,
         "number_of_participants": 6
     },
@@ -3594,20 +2226,12 @@
         "tournament_name": "Fragbite Masters Season 1",
         "start_date": "2013-12-12",
         "end_date": "2013-12-13",
-        "city": "Sweden",
-        "country": "Sweden",
+        "city": "",
+        "country": "",
         "type": "Online",
         "is_major": false,
-        "winner": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
-        "runner_up": {
-            "team_name": "Clan-Mystik",
-            "region": "Europe",
-            "approx_total_winnings": 35622
-        },
+        "winner": "Ninjas in Pyjamas",
+        "runner_up": "Clan-Mystik",
         "prize_pool": 21304.9,
         "number_of_participants": 8
     },
@@ -3619,16 +2243,8 @@
         "country": "Sweden",
         "type": "Offline",
         "is_major": true,
-        "winner": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
-        "runner_up": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
+        "winner": "Fnatic",
+        "runner_up": "Ninjas in Pyjamas",
         "prize_pool": 250000.0,
         "number_of_participants": 16
     },
@@ -3640,16 +2256,8 @@
         "country": "France",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Clan-Mystik",
-            "region": "Europe",
-            "approx_total_winnings": 35622
-        },
-        "runner_up": {
-            "team_name": "VeryGames",
-            "region": "Europe",
-            "approx_total_winnings": 279552
-        },
+        "winner": "Clan-Mystik",
+        "runner_up": "VeryGames",
         "prize_pool": 25000.0,
         "number_of_participants": 16
     },
@@ -3661,16 +2269,8 @@
         "country": "Germany",
         "type": "Online/Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "VeryGames",
-            "region": "Europe",
-            "approx_total_winnings": 279552
-        },
-        "runner_up": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
+        "winner": "VeryGames",
+        "runner_up": "Ninjas in Pyjamas",
         "prize_pool": 35000.0,
         "number_of_participants": 16
     },
@@ -3682,16 +2282,8 @@
         "country": "Ukraine",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "VeryGames",
-            "region": "Europe",
-            "approx_total_winnings": 279552
-        },
-        "runner_up": {
-            "team_name": "Astana Dragons",
-            "region": "CIS",
-            "approx_total_winnings": 37697
-        },
+        "winner": "VeryGames",
+        "runner_up": "Astana Dragons",
         "prize_pool": 15000.0,
         "number_of_participants": 4
     },
@@ -3703,16 +2295,8 @@
         "country": "Romania",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
-        "runner_up": {
-            "team_name": "Lemondogs",
-            "region": "Europe",
-            "approx_total_winnings": 60559
-        },
+        "winner": "Ninjas in Pyjamas",
+        "runner_up": "Lemondogs",
         "prize_pool": 15000.0,
         "number_of_participants": 16
     },
@@ -3724,16 +2308,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
-        "runner_up": {
-            "team_name": "Complexity Gaming",
-            "region": "North America",
-            "approx_total_winnings": 1814188
-        },
+        "winner": "Ninjas in Pyjamas",
+        "runner_up": "Complexity Gaming",
         "prize_pool": 39500.0,
         "number_of_participants": 6
     },
@@ -3745,16 +2321,8 @@
         "country": "Germany",
         "type": "Online/Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "VeryGames",
-            "region": "Europe",
-            "approx_total_winnings": 279552
-        },
-        "runner_up": {
-            "team_name": "Virtus.pro",
-            "region": "CIS",
-            "approx_total_winnings": 4784062
-        },
+        "winner": "VeryGames",
+        "runner_up": "Virtus.pro",
         "prize_pool": 35000.0,
         "number_of_participants": 16
     },
@@ -3766,16 +2334,8 @@
         "country": "Sweden",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
-        "runner_up": {
-            "team_name": "Epsilon Esports",
-            "region": "Europe",
-            "approx_total_winnings": 483160
-        },
+        "winner": "Ninjas in Pyjamas",
+        "runner_up": "Epsilon Esports",
         "prize_pool": 30901.45,
         "number_of_participants": 16
     },
@@ -3787,16 +2347,8 @@
         "country": "United States",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
-        "runner_up": {
-            "team_name": "Quantic Gaming",
-            "region": "North America",
-            "approx_total_winnings": 7962
-        },
+        "winner": "Ninjas in Pyjamas",
+        "runner_up": "Quantic Gaming",
         "prize_pool": 39500.0,
         "number_of_participants": 8
     },
@@ -3808,16 +2360,8 @@
         "country": "Germany",
         "type": "Online/Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
-        "runner_up": {
-            "team_name": "Fnatic",
-            "region": "Europe",
-            "approx_total_winnings": 5988784
-        },
+        "winner": "Ninjas in Pyjamas",
+        "runner_up": "Fnatic",
         "prize_pool": 35000.0,
         "number_of_participants": 16
     },
@@ -3829,16 +2373,8 @@
         "country": "Sweden",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
-        "runner_up": {
-            "team_name": "VeryGames",
-            "region": "Europe",
-            "approx_total_winnings": 279552
-        },
+        "winner": "Ninjas in Pyjamas",
+        "runner_up": "VeryGames",
         "prize_pool": 45275.16,
         "number_of_participants": 16
     },
@@ -3850,16 +2386,8 @@
         "country": "France",
         "type": "Offline",
         "is_major": false,
-        "winner": {
-            "team_name": "Ninjas in Pyjamas",
-            "region": "Europe",
-            "approx_total_winnings": 3867447
-        },
-        "runner_up": {
-            "team_name": "VeryGames",
-            "region": "Europe",
-            "approx_total_winnings": 279552
-        },
+        "winner": "Ninjas in Pyjamas",
+        "runner_up": "VeryGames",
         "prize_pool": 22000.0,
         "number_of_participants": 10
     }
