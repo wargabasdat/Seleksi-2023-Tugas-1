@@ -7,8 +7,6 @@
 
 <h2 align="center">
   <br>
-  Author:
-
   18221134 / Muhammad Rafi Haidar
 
   18221134@std.stei.itb.ac.id
@@ -364,3 +362,9 @@ Ray White Indonesia merupakan bagian dari Ray White Group
 References:
 
 https://towardsdatascience.com/
+
+### Author
+
+Nama: Muhammad Rafi Haidar
+NIM: 18221134
+Surel: 18221134@std.stei.itb.ac.id
