@@ -13,6 +13,8 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 # load page source menggunakan selenium
 def load_page_source(url):
+    max_retries = 6
+    retries = 0
     # Membuat objek options untuk mengatur header
     options = Options()
     options.add_argument("user-agent=Chrome/114.0.5735.199 (Windows NT 11.0; Win64; x64)")
@@ -28,21 +30,32 @@ def load_page_source(url):
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--no-sandbox")
 
-    # Membuat driver dengan header yang telah dikonfigurasi
-    driver = webdriver.Chrome(options=options)
-    # Memuat halaman web
-    driver.get(url)
-    # Menunggu hingga semua elemen dimuat menggunakan Explicit Waits
-    wait = WebDriverWait(driver, 20)
-    wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, "Typography_body-md-bold__4bejd")))
-    # Mendapatkan HTML dari halaman yang telah dimuat
-    html = driver.page_source
-    # Menutup WebDriver
-    driver.quit()
-    return html
+    
+    while retries < max_retries:
+        try:
+            # Membuat driver dengan header yang telah dikonfigurasi
+            driver = webdriver.Chrome(options=options)
+            # Memuat halaman web
+            driver.get(url)
+            # Menunggu hingga semua elemen dimuat menggunakan Explicit Waits
+            wait = WebDriverWait(driver, 20)
+            wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, "Typography_body-md-bold__4bejd")))
+            wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, "Typography_root__4bejd")))
+            # Mendapatkan HTML dari halaman yang telah dimuat
+            html = driver.page_source
+            # Menutup WebDriver
+            driver.quit()
+            return html
+        except Exception as e:
+            print(e)
+            retries += 1
+            time.sleep(5)
+            print("Retrying...")
 
 # load page event menggunakan selenium
 def load_page_event(url):
+    max_retries = 3
+    retries = 0
     # Membuat objek options untuk mengatur header
     options = Options()
     options.add_argument("user-agent=Chrome/114.0.5735.199 (Windows NT 11.0; Win64; x64)")
@@ -58,25 +71,41 @@ def load_page_event(url):
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--no-sandbox")
 
-    # Membuat driver dengan header yang telah dikonfigurasi
-    driver = webdriver.Chrome(options=options)
-    # Memuat halaman web
-    driver.get(url)
-    # Menunggu hingga semua elemen dimuat menggunakan Explicit Waits
-    wait = WebDriverWait(driver, 25)
-    wait.until(EC.presence_of_element_located((By.TAG_NAME, "time")))
-    wait.until(EC.presence_of_all_elements_located((By.TAG_NAME, "meta")))
-    wait.until(EC.presence_of_all_elements_located((By.TAG_NAME, "span"))) 
-    # Mendapatkan HTML dari halaman yang telah dimuat
-    html = driver.page_source
-    # Menutup WebDriver
+    while retries<max_retries:
+        try:
+            # Membuat driver dengan header yang telah dikonfigurasi
+            driver = webdriver.Chrome(options=options)
+            # Memuat halaman web
+            driver.get(url)
+            # Menunggu hingga semua elemen dimuat menggunakan Explicit Waits
+            wait = WebDriverWait(driver, 20)
+            wait.until(EC.presence_of_element_located((By.TAG_NAME, "time")))
+            wait.until(EC.presence_of_all_elements_located((By.TAG_NAME, "meta")))
+            wait.until(EC.presence_of_all_elements_located((By.TAG_NAME, "span"))) 
+            # Mendapatkan HTML dari halaman yang telah dimuat
+            html = driver.page_source
+            # Menutup WebDriver
+            driver.quit()
+            return html
+        except Exception as e:
+            print(e)
+            retries += 1
+            time.sleep(5)
+            print("Retrying...")
     driver.quit()
-    return html
-
+    return None
 # membuat objek soup
 def create_soup(html):
     soup = BeautifulSoup(html, 'html.parser')
     return soup
+
+
+def get_max_page(soup):
+    li_tag = soup.find('li', class_='eds-pagination__navigation-minimal eds-l-mar-hor-3')
+    if li_tag == None:
+        return None
+    max_page = int(li_tag.text.replace('1 of ', ''))
+    return max_page
 
 # scrape nama event
 def get_name(soup,i):
@@ -100,82 +129,118 @@ def get_date(soup):
 
 # scrape waktu mulai event
 def get_time(soup):
-    element = soup.find('meta', attrs={'name': 'twitter:data2'})['value']
-    elTime = element.split(' ')[5] + ' ' + element.split(' ')[6]
-    time = datetime.strptime(elTime, "%I:%M %p")
-    # Mengubah format waktu
-    formatted_time = time.strftime("%H:%M")
-    return formatted_time
+    element = soup.find('meta', attrs={'property': 'event:start_time'})['content']
+    elTime = element.split('T')[1]
+    time = elTime.split('+')[0]
+    return time
 
 # scrape alamat lokasi event
 def get_address(soup):
     meta_tag = soup.find('meta', attrs={'name': 'twitter:data1'})
+    if (meta_tag == None):
+        return None
     address = meta_tag['value']
     return address
+
+def get_elm_page(soup, i):
+    section = soup.find_all('section', class_='event-card-details')[i*2+1]
+    p_tag = section.find('p', class_='Typography_root__4bejd #585163 Typography_body-md-bold__4bejd Typography_align-match-parent__4bejd')
+    if p_tag == None:              
+        p_tag = section.find('p', class_='Typography_root__4bejd #585163 Typography_body-md-bold__4bejd eds-text-color--ui-800 Typography_align-match-parent__4bejd')
+    text = p_tag.text
+    if text == 'Free':
+        elm = 0
+    else:
+            idx = text.find('-')
+            if idx==-1:
+                i = text.find('$')
+                elm = float(text[i+1:].strip())
+            # Menghapus karakter "$" dan spasi pada setiap nilai
+            else:
+                el = text.split('-')
+                elm = float(el[0].replace('$', '').strip())
+    return elm
 
 # scrape event price
 def get_price(soup, i):
     section = soup.find_all('section', class_='event-card-details')[i*2+1]
     p_tag = section.find('p', class_='Typography_root__4bejd #585163 Typography_body-md-bold__4bejd Typography_align-match-parent__4bejd')
-    text = p_tag.text
-    if text == 'Free':
-        price = 0
+    if p_tag == None:              
+        p_tag = section.find('p', class_='Typography_root__4bejd #585163 Typography_body-md-bold__4bejd eds-text-color--ui-800 Typography_align-match-parent__4bejd')
+        if p_tag == None:
+            price = 0
     else:
-        print(text + "haha")
-        idx = text.find('-')
-        if idx==-1:
-            i = text.find('$')
-            price = float(text[i+1:].strip())
-        # Menghapus karakter "$" dan spasi pada setiap nilai
+        text = p_tag.text
+        if text == 'Free':
+            price = 0
         else:
-            el = text.split('-')
-            price = float(el[0].replace('$', '').strip())
-    return price
+            idx = text.find('-')
+            if idx==-1:
+                i = text.find('$')
+                text = text.split('.')[0].replace(',','')
+                price = float(text[i+1:].strip())
+                # Menghapus karakter "$" dan spasi pada setiap nilai
+            else:
+                el = text.split('-')
+                el[0] = el[0].replace(',','')
+                price = float(el[0].replace('$', '').strip())
+    return float(price)
     
 # scrape durasi event
 def get_duration(soup):
     # Menggunakan metode find() untuk mencari elemen <li> dengan class yang diberikan
     li_tag = soup.find('li', class_='eds-text-bm eds-text-weight--heavy css-1eys03p')
-    # Mendapatkan teks dari elemen <li>
-    duration = li_tag.text.strip()
-    # Mendapatkan nilai jam dari string waktu
-    days = int(duration.split(' ')[0])
-    hours = 0
-    if len(duration.split(' ')) == 3:
-        hours = int(duration.split(' ')[2])
-    # Menghitung total jam
-    total_hours = days * 24 + hours
-    return total_hours
+    if li_tag == None:
+        return None
+    else:
+        # Mendapatkan teks dari elemen <li>
+        duration = li_tag.text.strip()
+        # Mendapatkan nilai jam dari string waktu
+        days = int(duration.split(' ')[0])
+        hours = 0
+        if len(duration.split(' ')) == 3:
+            hours = int(duration.split(' ')[2])
+        # Menghitung total jam
+        total_hours = days * 24 + hours
+        return total_hours
 
 # scrape nama organizer event
 def get_organizer(soup):
     # Menggunakan metode find() untuk mencari elemen <a>
     a_tag = soup.find('a', class_='descriptive-organizer-info__name-link')
     # Mendapatkan teks dari elemen <a>
+    if a_tag == None:
+        return "unknown"
     organizer = a_tag.text
     return organizer
 
 # scrape total followers organizer event
 def get_totalfollowersorganizer(soup):
     # Mendapatkan teks dari elemen span
-    text = soup.find('span', class_='organizer-stats__highlight').text
-    # Mengonversi teks menjadi angka
-    if text.endswith('k'):
-        value = float(text[:-1]) * 1000
-    elif text.endswith('m'):
-        value = float(text[:-1]) * 1000000
-    elif text.endswith('b'):
-        value = float(text[:-1]) * 1000000000
-    elif text.endswith('t'):
-        value = float(text[:-1]) * 1000000000000
+    text = soup.find('span', class_='organizer-stats__highlight')
+    if text == None:
+        return 0
     else:
-        value = int(text)
-    return int(value)
+        text = text.text
+        # Mengonversi teks menjadi angka
+        if text.endswith('k'):
+            value = float(text[:-1]) * 1000
+        elif text.endswith('m'):
+            value = float(text[:-1]) * 1000000
+        elif text.endswith('b'):
+            value = float(text[:-1]) * 1000000000
+        elif text.endswith('t'):
+            value = float(text[:-1]) * 1000000000000
+        else:
+            value = int(text)
+        return int(value)
 
 # scrape event organizer page
 def get_organizerpage(soup):
     # Menggunakan metode find() untuk mencari elemen <a>
     a_tag = soup.find('a', class_='descriptive-organizer-info__name-link')
+    if a_tag == None:
+        return "unknown-page"
     # Mendapatkan teks dari elemen <a>
     organizerpage = a_tag['href']
     return organizerpage
@@ -184,6 +249,8 @@ def get_organizerpage(soup):
 def get_lattitude(soup):
     # Menggunakan metode find() untuk mencari elemen <meta> dengan atribut property
     meta_tag = soup.find('meta', attrs={'property': 'event:location:latitude'})
+    if meta_tag == None:
+        return None
     # Mendapatkan nilai content dari atribut elemen <meta>
     latitude = meta_tag['content']
     return latitude
@@ -192,6 +259,8 @@ def get_lattitude(soup):
 def get_longitude(soup):
     # Menggunakan metode find() untuk mencari elemen <meta> dengan atribut property
     meta_tag = soup.find('meta', attrs={'property': 'event:location:longitude'})
+    if meta_tag == None:
+        return None
     # Mendapatkan nilai content dari atribut elemen <meta>
     longitude = meta_tag['content']
     return longitude
