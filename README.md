@@ -1,101 +1,61 @@
-<h1 align="center">
-  <br>
-  Seleksi Warga Basdat 2023
-  <br>
-  <br>
-</h1>
+### Deskripsi Data
 
-<h2 align="center">
-  <br>
-  Data Scraping, Database Modelling & Data Storing
-  <br>
-  <br>
-</h2>
+Data yang digunakan adalah data pertandingan Champions League tahun 2022-2023. Saya memilih data ini dikarenakan saya menyukai sepak bola dan saya menonton banyak pertandingan Champions League kemarin. Data yang saya gunakan adalah data dari https://fbref.com/en/comps/8/2022-2023/stats/2022-2023-Champions-League-Stats dikarenakan situs ini memiliki data yang lengkap dan dapat dignuakan untuk keperluan tugas ini dengan baik. DBMS yang saya gunakan adalah mysql dikarenakan mysql cukup mudah untuk digunakan dan saya sudah mempelajarinya di kelas Pemodelan Basis Data saat semester 3 kemarin
 
+### Spesifikasi Program
+Proses pengerjaan program ini dibagi menjadi beberapa tahap, yang pertama adalah data scraping. Data scraping merupakan proses mengambil data dari suatu website, dalam proses ini saya menggunakan read_html untuk memperoleh data-data dari website yang saya pilih. Tahap berikutnya adalah data preprocessing. Tahap ini adalah proses dimana saya memilih atribut mana saja yang digunakan dari data yang telah diperoleh dan membagi atribut tersebut menjadi beberapa tabel, serta menambahkan beberapa atribut yang diperlukan. Tahap berikutnya adalah data modelling. Pada tahap ini saya mengimplementasikan tabel tersebut ke dalam RDBMS, membuat tabel-tabel serta constraints nya, mengimplementasikan juga primary key serta foreign key pada setiap tabel. Tahap terakhir adalah data storing, dimana saya mencatat data-data yang sudah di preprocess ke dalam tabel-tabel sql.
 
-## Spesifikasi
+### How To Use
+Untuk menggunakan databasenya, tinggal mendownload file sql yang ada di Data Storing/export/championsleague.sql. Untuk melihat data dan bermain dengan datanya dapat menggunakan DBMS apapun.
 
-### Data Scraping
+### JSON Structure
+Record
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
+### Database Structure
+##### ER Diagram
+![ER](/Data%20Storing/design/ER%20Diagram.png)
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
+Terdapat 4 entity dan 3 relation pada diagram ini. Hubungan antar results dan referee adalah many to one, dan relasi antar results dan stadium adalah one to one.
 
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
+##### Relational Model
+![Relational](/Data%20Storing/design/Relational%20Model.png)
 
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
+Relational database ini diperoleh dengan mengubah ER diagram menjadi model relasional. Database ini terdiri dari 4 tabel dimana terdapat juga foreign key serta primary keynya
 
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
+### Proses ERD to Relational Model
+Untuk relasi yang one to many, memasukan primary key dari one kedalam tabel many. Hal ini diberlakukan kepada setiap relasi pada ER diagram
 
-### Database Modelling & Data Storing
+### Screenshot
+##### Data Scraping'
+![ucl_teams](/Data%20Scraping/screenshot/ucl_teams.png)
 
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
+![ucl_results](/Data%20Scraping/screenshot/ucl_results.png)
 
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
+##### Data Storing
+![Table](/Data%20Storing/screenshot/Tables.png)
 
-4. Tools yang digunakan __dibebaskan__ pada peserta.
+![Teams](/Data%20Storing/screenshot/teams.png)
 
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
+![referee](/Data%20Storing/screenshot/Referee.png)
 
+![stadium](/Data%20Storing/screenshot/stadium.png)
 
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
+![Result1](/Data%20Storing/screenshot/Results1.png)
 
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
+![Result2](/Data%20Storing/screenshot/Results2.png)
 
-### Pengumpulan
+### Reference (library)
+* Data: https://fbref.com/en/comps/8/2022-2023/stats/2022-2023-Champions-League-Stats
+* Pandas
+* sklearn
+* pycountry
+* requests
+* mysql.connector
 
+### Tools
+* Visual Studio Code
+* MySQL
 
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
-
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
-
-
-```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
-
-
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
-
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
-
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
-<br>
+### Author
+##### 18221061
+##### Mario Nicholas Reyhan
