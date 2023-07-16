@@ -1,3 +1,7 @@
+# Webscrap Program untuk mendapatkan data Top 500 lagu dari Rolling Stones
+# Nama: Jason Rivalino
+# NIM: 13521008
+
 from bs4 import BeautifulSoup as bs
 from requests import get
 import json
