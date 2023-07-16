@@ -1,0 +1,7 @@
+notebook
+bs4
+lxml
+requests
+selenium
+pandas
+matplotlib
