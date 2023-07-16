@@ -158,7 +158,7 @@
   - Leaderboard _event organizer_ berdasarkan jumlah event yang di-_publish_
   - Leaderboard _event organizer_ berdasarkan popularitas (_followers_)
   
-  _note : code untuk membuat dashboard ini ada di folder `Data Visualization`_
+  _note : code visualisasi data terdapat di folder `Data Visualization`_
 
 ## Screenshots
   ### Data Scraping
@@ -205,6 +205,6 @@
     - [Stackoverflow](https://stackoverflow.com/)
 
 ## Author
-  _Naura Valda Prameswari - 18221173_
-  _Sistem dan Teknologi Informasi_
+  _Naura Valda Prameswari - 18221173_ <br>
+  _Sistem dan Teknologi Informasi_ <br>
   _Institut Teknologi Bandung_
