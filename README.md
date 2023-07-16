@@ -33,9 +33,18 @@ Selain itu, hasil analisis data properti juga dapat menjadi alat bagi pemangku k
 
 ### Specification of the program
 
+Program scraping terletak di folder __Data Scraping__ dan terletak di dalam berkas Jupyter Notebook dengan nama __RayWhiteScraping.ipynb__. Program ditulis di dalam bahasa pemrograman Python dan mengimpor beberapa library untuk melakukan proses scraping dan memproses data yang diekstrak. Library yang digunakan untuk proses scraping adalah requests, lxml, re, dan BeautifulSoup. Library-library tersebut digunakan untuk mendapatkan data berupa file HTML dari sebuah laman di situs yang dituju dan mengekstrak informasi di dalamnya sebelum pemrosesan data. Library tqdm digunakan sebagai bantuan visual untuk kemajuan proses scraping.
+
+Library yang digunakan untuk memproses data yang telah diekstrak ke dalam dataframe dan diekspor sebagai berkas JSON dan CSV adalah os, pandas, json, dan simplejson. Berkas hasil scraping mempunyai format penamaan __raywhite_{tipeProperti}_{nomorBerkas}.[json|csv]__ dan disimpan di folder __data__. Berkas dengan nama __raywhite_merged.[json|csv]__ merupakan hasil penggabungan dari semua berkas hasil scraping.
+
+Program visualisasi data terletak di folder __Data Visualization__ dan terletak di dalam berkas Jupyter Notebook dengan nama __RayWhiteAnalysis.ipynb__. Program ditulis di dalam bahasa pemrograman Python dan mengimpor beberapa library untuk melakukan proses visualisasi data yang diekstrak. Library yang digunakan adalah pandas, seaborn, dan matplotlib.
+
+Folder __Data Storing__ tidak mempunyai program apapun, namun memiliki hasil dumping basis data dalam bentuk berkas SQL dengan nama __raywhite_database.sql__ . Basis data dibuat di dalam PostgreSQL 15 dengan encoding UTF-8 berdasarkan hasil scraping. Tabel dan kolom yang ditambahkan untuk memberikan konteks pada data diisin dengan nilai null.
 
 
 ### How to use
+
+Untuk menggunakan __RayWhiteScraping.ipynb__, jalankan semua cell program python secara berurutan. Pastikan semua library yang akan digunakan sudah terpasang dan perangkat yang akan digunakan memiliki akses ke internet. Pastikan nilai dari semua variabel __output_dir__ diganti dengan path yang sesuai
 
 ### JSON Structure
 
