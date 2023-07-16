@@ -142,9 +142,9 @@
           - FK = event(Organizer) -> organizer(Organizer_page)
           - FK = event(Category) -> category(ID)
           - FK = event(Address) -> location(Address)
-       - `organizer` = (Name, Total_followers, Organizer_page)
-       - `category` = (ID, Name)
-       - `location` = (Address, Latitude, dan Longitude).
+       - `organizer` = (Name, Total_followers, **Organizer_page**)
+       - `category` = (**ID**, Name)
+       - `location` = (**Address**, Latitude, dan Longitude).
    ### Relational Diagram
   Relational Diagram dari database yang digunakan adalah sebagai berikut:
     ![Relational Design](Data%20Storing/design/Relational%20Diagram.png)
@@ -205,6 +205,6 @@
     - [Stackoverflow](https://stackoverflow.com/)
 
 ## Author
-  _Naura Valda Prameswari - 18221173_ <br>
-  _Sistem dan Teknologi Informasi_ <br>
-  _Institut Teknologi Bandung_
+  Naura Valda Prameswari - 18221173 <br>
+  Sistem dan Teknologi Informasi <br>
+  Institut Teknologi Bandung
