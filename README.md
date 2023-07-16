@@ -107,6 +107,8 @@ python3 main.py
 
 ## ERD
 
+The following ERD is designed according to how it's stored on the Formula 1 website.
+
 The center of this database is the `Season`, which stores the years of the championships, starting from 1950. A season has many `Races`, so their relationship will be _one-to-many_, with a _total participation_ side on `Races`. Each race has its own results, so `Results` is established as its own entity that has a _one-to-one_ relationship with `Races`. 
 
 A `Driver` is its own entity. On the Formula 1 website, drivers aren't assigned IDs, so the primary key will be their names in this database. Driver's numbers also can't be used to identify drivers, because they can change every year - for example, before Max Verstappen won his first championship in 2021, he raced with the number 33, not 1 (number 1 is usually reserved for championship winners). Therefore, names are used to identify drivers, which works in this case because there are no F1 drivers that raced with the same name. In real life examples of databases, people should be assigned unique IDs and not just be uniquely identified by name.
