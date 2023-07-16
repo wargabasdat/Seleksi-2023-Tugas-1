@@ -233,6 +233,8 @@ Relationship kedua merupakan hubungan one-to-many bernama About dengan strong en
 Library yang digunakan oleh program scraping dan nilai dari konstanta URL ke laman situs dan XPATH elemen HTML
 ![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%2520Scraping/screenshot/raywhite_scraping_header.png)
 
+![1](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/raywhite_scraping_header.png)
+
 Fungsi yang digunakan untuk melakukan scraping data dari laman situs
 
 Fungsi terbagi menjadi fungsi yang melakukan scraping elemen data spesifik dan scraping secara keseluruhan
@@ -263,7 +265,7 @@ Program untuk melakukan merging data hasil scraping
 ![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%2520Scraping/screenshot/raywhite_scraping_merging.png)
 
 Hasil merging data
-![Alt text](https://github.com/haidar2003/Seleksi-2023-Tugas-1/blob/main/Data%2520Scraping/screenshot/raywhite_scraping_merging_result.png)
+
 
 
 
