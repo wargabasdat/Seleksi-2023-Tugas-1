@@ -156,7 +156,8 @@ CREATE TABLE public.product (
     normal_price double precision,
     sale_price double precision,
     ratings double precision,
-    count_reviews integer
+    count_reviews integer,
+    CONSTRAINT check_status CHECK (((status)::text = ANY ((ARRAY['Sale'::character varying, 'Not sale'::character varying, 'Sold out'::character varying])::text[])))
 );
 
 
