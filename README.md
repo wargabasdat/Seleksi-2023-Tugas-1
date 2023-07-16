@@ -166,6 +166,22 @@ Hasil scrapping disimpan di dalam 2 jenis file JSON, yaitu:
     ![Data in Kurs Pajak Document](./Data%20Storing/screenshot/select_kurs_pajak_document.png)
     ![Data in Nilai Kurs](./Data%20Storing/screenshot/select_nilai_kurs.png)
 
+
+## Data Visualization Analysis (**BONUS**)
+
+### Grafik
+  <div style="background-color:white;">
+  <img src="Data Visualization/Tren_Kurs.png">
+  <img src="Data Visualization/kurs_change_latest.png">
+  <img src="Data Visualization/Nilai_kenaikan_tertinggi_dalam_bulan.png">
+  </div>
+
+### Insight
+  Dari visualisasi yang telah dilakukan dapat ditarik beberapa insight sebagai berikut:
+  - Nilai kurs tertinggi yaitu KWD (Dinar Kuwait).
+  - Dalam 1 tahun terakhir, BND (Dolar Brunei Darussalam) mengalami kenaikan kurs terbesar. Sedangkan, LKR (Rupee Sri Lanka) mengalami penurunan kurs terbesar.
+  - Pada bulan Oktober 2022, terjadi kenaikan kurs terbesar yaitu pada mata uang KWD (Dinar Kuwait).
+
 ## References
 
 Script ini menggunakan library dan framework:
