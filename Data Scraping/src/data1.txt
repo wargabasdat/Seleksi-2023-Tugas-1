@@ -1,0 +1,511 @@
+Name: Bulbasaur
+ID: 0001
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png
+Description: There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.
+Height: 2' 04"
+Weight: 15.2 lbs
+Gender: Male Female 
+Category: Seed
+Abilities: Overgrow 
+Type: Grass Poison 
+Weaknesses: Fire Psychic Flying Ice 
+Stats: 
+HP: 3
+Attack: 3
+Defense: 3
+Special Attack: 4
+Special Defense: 4
+Speed: 3
+Name: Ivysaur
+ID: 0002
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png
+Description: When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.
+Height: 3' 03"
+Weight: 28.7 lbs
+Gender: Male Female 
+Category: Seed
+Abilities: Overgrow 
+Type: Grass Poison 
+Weaknesses: Fire Psychic Flying Ice 
+Stats: 
+HP: 4
+Attack: 4
+Defense: 4
+Special Attack: 5
+Special Defense: 5
+Speed: 4
+Name: Venusaur
+ID: 0003
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png
+Description: Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.
+Height: 6' 07"
+Weight: 220.5 lbs
+Gender: Male Female 
+Category: Seed
+Abilities: Overgrow 
+Type: Grass Poison 
+Weaknesses: Fire Psychic Flying Ice 
+Stats: 
+HP: 5
+Attack: 5
+Defense: 5
+Special Attack: 6
+Special Defense: 6
+Speed: 5
+Name: Charmander
+ID: 0004
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png
+Description: It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.
+Height: 2' 00"
+Weight: 18.7 lbs
+Gender: Male Female 
+Category: Lizard
+Abilities: Blaze 
+Type: Fire 
+Weaknesses: Water Ground Rock 
+Stats: 
+HP: 3
+Attack: 4
+Defense: 3
+Special Attack: 4
+Special Defense: 3
+Speed: 4
+Name: Charmeleon
+ID: 0005
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png
+Description: It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.
+Height: 3' 07"
+Weight: 41.9 lbs
+Gender: Male Female 
+Category: Flame
+Abilities: Blaze 
+Type: Fire 
+Weaknesses: Water Ground Rock 
+Stats: 
+HP: 4
+Attack: 4
+Defense: 4
+Special Attack: 5
+Special Defense: 4
+Speed: 5
+Name: Charizard
+ID: 0006
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png
+Description: It is said that Charizard’s fire burns hotter if it has experienced harsh battles.
+Height: 5' 07"
+Weight: 199.5 lbs
+Gender: Male Female 
+Category: Flame
+Abilities: Blaze 
+Type: Fire Flying 
+Weaknesses: Water Electric Rock 
+Stats: 
+HP: 5
+Attack: 5
+Defense: 5
+Special Attack: 7
+Special Defense: 5
+Speed: 6
+Name: Squirtle
+ID: 0007
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png
+Description: When it retracts its long neck into its shell, it squirts out water with vigorous force.
+Height: 1' 08"
+Weight: 19.8 lbs
+Gender: Male Female 
+Category: Tiny Turtle
+Abilities: Torrent 
+Type: Water 
+Weaknesses: Grass Electric 
+Stats: 
+HP: 3
+Attack: 3
+Defense: 4
+Special Attack: 3
+Special Defense: 4
+Speed: 3
+Name: Wartortle
+ID: 0008
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png
+Description: It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.
+Height: 3' 03"
+Weight: 49.6 lbs
+Gender: Male Female 
+Category: Turtle
+Abilities: Torrent 
+Type: Water 
+Weaknesses: Grass Electric 
+Stats: 
+HP: 4
+Attack: 4
+Defense: 5
+Special Attack: 4
+Special Defense: 5
+Speed: 4
+Name: Blastoise
+ID: 0009
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png
+Description: It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.
+Height: 5' 03"
+Weight: 188.5 lbs
+Gender: Male Female 
+Category: Shellfish
+Abilities: Torrent 
+Type: Water 
+Weaknesses: Grass Electric 
+Stats: 
+HP: 5
+Attack: 5
+Defense: 6
+Special Attack: 5
+Special Defense: 7
+Speed: 5
+Name: Caterpie
+ID: 0010
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png
+Description: For protection, it releases a horrible stench from the antenna on its head to drive away enemies.
+Height: 1' 00"
+Weight: 6.4 lbs
+Gender: Male Female 
+Category: Worm
+Abilities: Shield Dust 
+Type: Bug 
+Weaknesses: Fire Flying Rock 
+Stats: 
+HP: 3
+Attack: 2
+Defense: 3
+Special Attack: 2
+Special Defense: 2
+Speed: 3
+Name: Metapod
+ID: 0011
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png
+Description: It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.
+Height: 2' 04"
+Weight: 21.8 lbs
+Gender: Male Female 
+Category: Cocoon
+Abilities: Shed Skin 
+Type: Bug 
+Weaknesses: Fire Flying Rock 
+Stats: 
+HP: 3
+Attack: 2
+Defense: 4
+Special Attack: 2
+Special Defense: 2
+Speed: 2
+Name: Butterfree
+ID: 0012
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png
+Description: It loves the nectar of flowers and can locate flower patches that have even tiny amounts of pollen.
+Height: 3' 07"
+Weight: 70.5 lbs
+Gender: Male Female 
+Category: Butterfly
+Abilities: Compound Eyes 
+Type: Bug Flying 
+Weaknesses: Fire Flying Electric Ice Rock 
+Stats: 
+HP: 4
+Attack: 3
+Defense: 3
+Special Attack: 6
+Special Defense: 5
+Speed: 5
+Name: Weedle
+ID: 0013
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png
+Description: Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.
+Height: 1' 00"
+Weight: 7.1 lbs
+Gender: Male Female 
+Category: Hairy Bug
+Abilities: Shield Dust 
+Type: Bug Poison 
+Weaknesses: Fire Psychic Flying Rock 
+Stats: 
+HP: 3
+Attack: 3
+Defense: 2
+Special Attack: 2
+Special Defense: 2
+Speed: 3
+Name: Kakuna
+ID: 0014
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png
+Description: Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.
+Height: 2' 00"
+Weight: 22.0 lbs
+Gender: Male Female 
+Category: Cocoon
+Abilities: Shed Skin 
+Type: Bug Poison 
+Weaknesses: Fire Psychic Flying Rock 
+Stats: 
+HP: 3
+Attack: 2
+Defense: 3
+Special Attack: 2
+Special Defense: 2
+Speed: 3
+Name: Beedrill
+ID: 0015
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png
+Description: It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.
+Height: 3' 03"
+Weight: 65.0 lbs
+Gender: Male Female 
+Category: Poison Bee
+Abilities: Swarm 
+Type: Bug Poison 
+Weaknesses: Fire Psychic Flying Rock 
+Stats: 
+HP: 4
+Attack: 6
+Defense: 3
+Special Attack: 3
+Special Defense: 5
+Speed: 5
+Name: Pidgey
+ID: 0016
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png
+Description: Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.
+Height: 1' 00"
+Weight: 4.0 lbs
+Gender: Male Female 
+Category: Tiny Bird
+Abilities: Keen Eye
+Tangled Feet 
+Type: Normal Flying 
+Weaknesses: Electric Ice Rock 
+Stats: 
+HP: 3
+Attack: 3
+Defense: 3
+Special Attack: 3
+Special Defense: 3
+Speed: 4
+Name: Pidgeotto
+ID: 0017
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png
+Description: This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.
+Height: 3' 07"
+Weight: 66.1 lbs
+Gender: Male Female 
+Category: Bird
+Abilities: Keen Eye
+Tangled Feet 
+Type: Normal Flying 
+Weaknesses: Electric Ice Rock 
+Stats: 
+HP: 4
+Attack: 4
+Defense: 4
+Special Attack: 3
+Special Defense: 3
+Speed: 5
+Name: Pidgeot
+ID: 0018
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png
+Description: This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.
+Height: 4' 11"
+Weight: 87.1 lbs
+Gender: Male Female 
+Category: Bird
+Abilities: Keen Eye
+Tangled Feet 
+Type: Normal Flying 
+Weaknesses: Electric Ice Rock 
+Stats: 
+HP: 5
+Attack: 5
+Defense: 5
+Special Attack: 5
+Special Defense: 5
+Speed: 6
+Name: Rattata
+ID: 0019
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png
+Description: Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area.
+Height: 1' 00"
+Weight: 7.7 lbs
+Gender: Male Female 
+Category: Mouse
+Abilities: Run Away
+Guts 
+Type: Normal 
+Weaknesses: Fighting 
+Stats: 
+HP: 2
+Attack: 4
+Defense: 3
+Special Attack: 2
+Special Defense: 3
+Speed: 5
+Name: Raticate
+ID: 0020
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png
+Description: Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.
+Height: 2' 04"
+Weight: 40.8 lbs
+Gender: Male Female 
+Category: Mouse
+Abilities: Run Away
+Guts 
+Type: Normal 
+Weaknesses: Fighting 
+Stats: 
+HP: 4
+Attack: 5
+Defense: 4
+Special Attack: 3
+Special Defense: 5
+Speed: 6
+Name: Spearow
+ID: 0021
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png
+Description: Inept at flying high. However, it can fly around very fast to protect its territory.
+Height: 1' 00"
+Weight: 4.4 lbs
+Gender: Male Female 
+Category: Tiny Bird
+Abilities: Keen Eye 
+Type: Normal Flying 
+Weaknesses: Electric Ice Rock 
+Stats: 
+HP: 3
+Attack: 4
+Defense: 2
+Special Attack: 2
+Special Defense: 2
+Speed: 5
+Name: Fearow
+ID: 0022
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png
+Description: A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly.
+Height: 3' 11"
+Weight: 83.8 lbs
+Gender: Male Female 
+Category: Beak
+Abilities: Keen Eye 
+Type: Normal Flying 
+Weaknesses: Electric Ice Rock 
+Stats: 
+HP: 4
+Attack: 6
+Defense: 4
+Special Attack: 4
+Special Defense: 4
+Speed: 6
+Name: Ekans
+ID: 0023
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png
+Description: The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.
+Height: 6' 07"
+Weight: 15.2 lbs
+Gender: Male Female 
+Category: Snake
+Abilities: Shed Skin
+Intimidate 
+Type: Poison 
+Weaknesses: Psychic Ground 
+Stats: 
+HP: 3
+Attack: 4
+Defense: 3
+Special Attack: 3
+Special Defense: 4
+Speed: 4
+Name: Arbok
+ID: 0024
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png
+Description: The frightening patterns on its belly have been studied. Six variations have been confirmed.
+Height: 11' 06"
+Weight: 143.3 lbs
+Gender: Male Female 
+Category: Cobra
+Abilities: Shed Skin
+Intimidate 
+Type: Poison 
+Weaknesses: Psychic Ground 
+Stats: 
+HP: 4
+Attack: 6
+Defense: 5
+Special Attack: 4
+Special Defense: 5
+Speed: 5
+Name: Pikachu
+ID: 0025
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png
+Description: When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.
+Height: 1' 04"
+Weight: 13.2 lbs
+Gender: Male Female 
+Category: Mouse
+Abilities: Static 
+Type: Electric 
+Weaknesses: Ground 
+Stats: 
+HP: 3
+Attack: 4
+Defense: 3
+Special Attack: 3
+Special Defense: 3
+Speed: 6
+Name: Raichu
+ID: 0026
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png
+Description: Its tail discharges electricity into the ground, protecting it from getting shocked.
+Height: 2' 07"
+Weight: 66.1 lbs
+Gender: Male Female 
+Category: Mouse
+Abilities: Static 
+Type: Electric 
+Weaknesses: Ground 
+Stats: 
+HP: 4
+Attack: 6
+Defense: 4
+Special Attack: 6
+Special Defense: 5
+Speed: 7
+Name: Sandshrew
+ID: 0027
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png
+Description: It loves to bathe in the grit of dry, sandy areas. By sand bathing, the Pokémon rids itself of dirt and moisture clinging to its body.
+Height: 2' 00"
+Weight: 26.5 lbs
+Gender: Male Female 
+Category: Mouse
+Abilities: Sand Veil 
+Type: Ground 
+Weaknesses: Water Grass Ice 
+Stats: 
+HP: 3
+Attack: 5
+Defense: 5
+Special Attack: 2
+Special Defense: 2
+Speed: 3
+Name: Sandslash
+ID: 0028
+Image Path: https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png
+Description: The drier the area Sandslash lives in, the harder and smoother the Pokémon’s spikes will feel when touched.
+Height: 3' 03"
+Weight: 65.0 lbs
+Gender: Male Female 
+Category: Mouse
+Abilities: Sand Veil 
+Type: Ground 
+Weaknesses: Water Grass Ice 
+Stats: 
+HP: 5
+Attack: 6
+Defense: 7
+Special Attack: 3
+Special Defense: 4
+Speed: 4
