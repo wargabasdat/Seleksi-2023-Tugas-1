@@ -74,13 +74,13 @@ Berikut hasi struktur hasil scraping dalam format JSON
 contoh isi JSON file
 ```
 {
-          "Product_name":"Biore UV Aqua Rich Watery Essence SPF50+\/PA++++ 70ml",
-          "status":"Not sale",
-          "normal_price":1305.0,
-          "sale_price":1305.0,
-          "ratings":4.8,
-          "count_reviews":76
-     },
+        "Product_name":"Biore UV Aqua Rich Watery Essence SPF50+\/PA++++ 70ml",
+        "status":"Not sale",
+        "normal_price":1305.0,
+        "sale_price":1305.0,
+        "ratings":4.8,
+        "count_reviews":76
+    },
 ```
 
 ## Database Structure
@@ -90,3 +90,5 @@ Berikut merupakan ERD dari database
 
 Berikut merupakan Relational diagram dari database
 ![relational_diagram](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Relational%20Diagram_kokoro_japan.png)
+
+## Translasi ERD ke RDBMS
