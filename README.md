@@ -12,6 +12,9 @@
   <br>
 </h2>
 
+## Daftar Isi
+- [Deskripsi Data & DBMS](#deskripsi-data-&-dbms)
+
 ## Deskripsi Data & DBMS
 
 Pada Tugas 1 ini, saya memilih untuk melakukan scraping pada website bhinneka.com. Seperti yang tertulis di website bhinneka.com, website ini merupakan platform bisnis online. Berawal sebagai distributor mesin cetak format besar hingga saat ini  menyediakan produk IT, MRO, Business Solution dan Professional Services, untuk segmen UMKM,  korporasi dan institusi pemerintahan. Saat ini bhinneka tersebar di toko dan 33 kantor perwakilan di seluruh Indonesia. 
@@ -67,7 +70,7 @@ Berikut merupakan relational diagram dari pemetaan ERD yang telah dibuat
 
 ## Explanation of ERD to relational diagram translation process
 
-Semua atribut yang ada di dalam entitas lemah dipetakan menjadi relasi (tabel) yang melibatkan seluruh atribut yang sama pada entitas tersebut dengan menambahkan primary key dari entitas kuatnya (owner entity type) yang akan digunakan sebagai bersama dengan partial key dari entitas lemah.
+Semua atribut yang ada di dalam entitas lemah dipetakan menjadi relasi (tabel) yang melibatkan seluruh atribut yang sama pada entitas tersebut dengan menambahkan primary key dari entitas kuatnya (owner entity type) yang akan digunakan bersama dengan partial key dari entitas lemah.
 
 |Sebelum|Sesudah|
 |-------|-------|
@@ -144,15 +147,14 @@ Bonus 3 Menampilkan lokasi toko yang sama lebih dari 50
   <br>
   Web scraping : <a href='https://youtu.be/XVv6mJpFOb0'> Web Scraping with Python - Beautiful Soup Crash Course</a>
   <br>
-  Python & JSON :<br>
-  <a href='https://pynative.com/python-json-dumps-and-dump-for-json-encoding/'> Python JSON dump() and dumps() for JSON Encoding</a>
-  <br>
-  <a href='https://pynative.com/python-json-encode-unicode-and-non-ascii-characters-as-is/'> Python Encode Unicode and non-ASCII characters as-is into JSON</a>
-  <br>
   Selenium : 
   <a href='https://medium.com/codex/web-scraping-with-selenium-in-python-832cf4b827a4'> Web Scraping with Selenium in Python</a>
   <br>
-
+  Pandas :
+  <a href='https://pandas.pydata.org/docs/'>Pandas Documentation</a>
+  Matplotlib :
+  <a href='https://matplotlib.org/'>Matplotlib</a>
+  
 ## Author
 Razan Aditya Putra (18221132)
 <br>
