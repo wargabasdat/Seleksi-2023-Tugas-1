@@ -41,25 +41,23 @@ From [this](https://www.imdb.com/chart/top/?ref_=nv_mv_250) webpage, the author 
 
  ## Specification
 
- This program is build using Python programming language. In order to run the program, you are required to install some libraries.
+ This program is built using Python programming language. In order to run the program, you are required to install some libraries.
 
  - #### Jupyter Notebook
-To maintain the simplicity, the author has decided to use Google Collab to build the program. Therefore, all scripts will be stored in .ipynb format. However, the author still uses PyCharm to test several things. 
+Let's start with Jupyter Notebook. To maintain the simplicity, the author has decided to use Jupyter Notebook to build the program. Therefore, all scripts will be stored in .ipynb format. However, the author still uses PyCharm to test several things. So, expect some Pycharm environment on the screenshot part. 
 
-To install, type
+To install Jupiter Notebook via your terminal, type this promt.
 ```
 pip install notebook
 ```
-on your terminal.
 
 - #### BeautifulSoup
-Based on the author research, BeautifulSoup is a scraping tool that is used the most. In addition, lots of references are using this tool. In this case, the parser (html.parser) has already included and the author doesn't need to install any other library.
+Based on the author research, BeautifulSoup is a scraping tool that is currently used the most. In addition, lots of references are using this tool. In this case, the parser (html.parser) has already included and the author doesn't need to install any other library.
 
-To install BeautifulSoup library, type
+To install BeautifulSoup library via your terminal, type this promt.
 ```
 pip install beautifulsoup4
 ```
-in your terminal.
 
 - #### Time
 As the assistant suggested, the author follow the "ethics of scraping". To keep the server from crashing, the author put some waiting time in the program using the time.sleep() method. Time library is already preinstalled with Python.
@@ -69,4 +67,96 @@ The scraped data will be stored in JSON format, as requested by the assistant. T
 
 ## How To Use
 
-1. Ins
+1. Insall all prerequisite libraries to run the program
+
+2. Clone this repository to your local directory.
+
+One way to get this done is through your terminal.
+
+To clone it via your terminal, type this promt.
+```
+git clone https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1.git
+```
+
+3. Open Jupyter Notebook 
+
+Navigate the directory on your terminal to the repository and type this prompt to open Jupyter Notebook. 
+```
+jupyter-notebook
+```
+
+4. Open and run Seleksi_Basdat.ipynb on Jupyter Notebook 
+
+5. The scraping data result will be generated and dumped into JSON file format.
+
+## JSON Structure
+
+Here is the first rank movie data stored in JSON format.
+
+<pre>
+{
+      "rank": "1",
+      "title": "The Shawshank Redemption",
+      "year_created": "1994",
+      "duration": "2h 22m",
+      "classification": "18+",
+      "rating": "9.3"
+    },
+</pre>
+
+## Database Structure
+
+![ER Diagram](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/ER%20Diagram.png)
+
+At first, the author has scraped the movie data, which are rank, title, year of creation, duration, classification, and rating. These categories become attributes in the main entity named movie. The author than expand this database by creating new entities that related to movies such as genre, award, rating input, people in the movie (including director and cast), and production house. Each enitity is made with its own identifier in order to uniquely identify them. The author create a weak entity called rating input. Since there is no rating without the existance of the movie, rating is dependant to the movie. Other thing to notice is the author create person entity that are further specialized as director and cast. Both entities have some common attributes but they are differentiated with a specific attributes that match their characteristic. You can also notice that the author use multiple value and composite attributes to describe some detail for production house entity. 
+
+Now let's talk about the relationship between each entity. The relationship mainly centered to the movie entity, since that's the scrapped data. 
+
+The rating input entity has many to one and total participation (on rating input side) relationship with the movie entity, since in this Top 250 Movie List, there is no movie that has no rating at all. 
+
+Both production house entity and person entity has many to many and total participation on both sides relationship with the movie entity because all movies are produced by production house/person and some of them might produce by several production house/person. It applies vice versa. 
+
+The genre entity has many to many and total participation (on movie side) relationship with the movie entity, since some movies might have several genres and vice versa. However, the author believe that not all genre are included in the Top 250 Movies List.
+
+Lastly, the award entity has many to many and partial participation relationship with the movie entity because one movie might win several award and vice versa. However, not all movie have won award and some award might not included in the list, therefore this relationship has partial participation on both sides.  
+
+## ERD Relational Translation Process
+
+Next step is translating the ER Diagram into Relatonal Model. Starting from the weak entity (Rating Input Entity), the author creates a relation schema with the same attributes and includes movie_id for the primary key of the identifying strong entity. Moving on to the production house entity, the author represent composite attribute (address attribute) by creating seperate  attribute for each component attribute. For multivalued attribute (phone_number), the author creates a
+separate schema that also include the primary key of production_house entity. 
+
+An important insight to know, the author decide to use rank as the movie_id in this database. This happened because there is no movie that's placed in the same rank. The author still use "rank" as the name of the attribute in the movie schema. However, in other schemas, this "rank" attribute is renamed into "movie_id"
+
+In order to represent specialization via schema, the author choose to form a schema for the Person entity, then form a different schema for each lower-level entity set. The author also include person_id as the primary key of higher-level entity set. 
+
+Translating the relationship sets, all entities that have many to many relationship with movie (production_house, genre, award, director, actor) are represented as a schema with attributes for the primary keys of both of them and any descriptive attributes of the relationship set. 
+
+While doing this translation, the author also establish the primary keys and foreign keys to the schema. Here are the final Relational Schema and full list of keys that exist in this database.
+
+![Relational Schema](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Relational%20Schema.drawio.png)
+
+## ScreenShots
+
+- #### Scraping Function
+
+![Scraping Function](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Scraping%20Function.png)
+
+- #### Testing Progress
+
+![Testing Progress](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Testing%20Progress.png)
+
+- #### Preprocessing Input Data
+
+![Preprocessing Input Data](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Preprocessing%20Input%20Data.png)
+
+- #### JSON Output
+
+![JSON Output](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/JSON%20Output.png)
+
+- #### Data Storing in PostreSQL
+
+![Data Storing 1](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Data%20Storing%20in%20PostreSQL%201.png)
+
+![Data Storing 2](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Data%20Storing%20in%20PostreSQL%202.png)
+
+
