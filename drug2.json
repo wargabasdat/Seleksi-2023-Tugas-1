@@ -1,0 +1,302 @@
+[
+    {
+        "name": "1-Palmitoyl-2-oleoyl-sn-glycero-3-(phospho-rac-(1-glycerol))",
+        "weight": 749.02,
+        "description": "A synthetic lung surfactant used to treat infant respiratory distress syndrome.",
+        "categories": ""
+    },
+    {
+        "name": "1,2-Benzodiazepine",
+        "weight": 144.177,
+        "description": "Benzodiazepine is under investigation for the prevention of Delirium and C.Surgical Procedure; Cardiac. Benzodiazepine has been investigated for the treatment of Obesity, Sleep Apnea, Obstructive, and Disorders of Gallbladder, Biliary...",
+        "categories": "Benzazepines"
+    },
+    {
+        "name": "1,2-Distearoyllecithin",
+        "weight": 790.161,
+        "description": "Not Annotated",
+        "categories": "Glycerophosphates"
+    },
+    {
+        "name": "1,2-icosapentoyl-sn-glycero-3-phosphoserine",
+        "weight": 842.064,
+        "description": "Not Annotated",
+        "categories": ""
+    },
+    {
+        "name": "2-mercaptobenzothiazole",
+        "weight": 167.251,
+        "description": "Not Annotated",
+        "categories": "Standardized Chemical Allergen"
+    },
+    {
+        "name": "2,2'-Dibenzothiazyl disulfide",
+        "weight": 332.47,
+        "description": "2,2'-Dibenzothiazyl disulfide is approved for use within allergenic epicutaneous patch tests which are indicated for use as an aid in the diagnosis of allergic contact dermatitis (ACD) in persons 6...",
+        "categories": "Latex Hypersensitivity"
+    },
+    {
+        "name": "4-(Isopropylamino)diphenylamine",
+        "weight": 226.323,
+        "description": "4-(Isopropylamino)diphenylamine is approved for use within allergenic epicutaneous patch tests which are indicated for use as an aid in the diagnosis of allergic contact dermatitis (ACD) in persons 6 years...",
+        "categories": "Antioxidants"
+    },
+    {
+        "name": "5-O-phosphono-alpha-D-ribofuranosyl diphosphate",
+        "weight": 390.0696,
+        "description": "The key substance in the biosynthesis of histidine, tryptophan, and purine and pyrimidine nucleotides.",
+        "categories": "Pentosephosphates"
+    },
+    {
+        "name": "Abacavir",
+        "weight": 286.3323,
+        "description": "An antiviral nucleoside reverse transcriptase inhibitor used in combination with other antiretrovirals for the treatment of HIV.",
+        "categories": "Anti-HIV Agents"
+    },
+    {
+        "name": "Abametapir",
+        "weight": 184.242,
+        "description": "A pediculicide metalloproteinase used topically in the treatment of head lice infection.",
+        "categories": "Antiparasitic Products, Insecticides and Repellents"
+    },
+    {
+        "name": "Abarelix",
+        "weight": 1416.09,
+        "description": "For palliative treatment of advanced prostate cancer.",
+        "categories": "Hormone Antagonists"
+    },
+    {
+        "name": "Abemaciclib",
+        "weight": 506.606,
+        "description": "A medication used to treat HR+ HER2- advanced or metastatic breast cancer.",
+        "categories": "Cyclin-dependent kinase (CDK) inhibitors"
+    },
+    {
+        "name": "Abiraterone",
+        "weight": 349.509,
+        "description": "An antiandrogen used in the treatment of prostate cancer.",
+        "categories": "Androstenes"
+    },
+    {
+        "name": "Abrocitinib",
+        "weight": 323.42,
+        "description": "A kinase inhibitor used to treat moderate-to-severe atopic dermatitis in adults.",
+        "categories": "Agents for Dermatitis, Excluding Corticosteroids"
+    },
+    {
+        "name": "Acalabrutinib",
+        "weight": 465.517,
+        "description": "A Bruton tyrosine kinase inhibitor used to treat mantle cell lymphoma, chronic lymphocytic leukemia, and small lymphocytic lymphoma.",
+        "categories": "Bruton's tyrosine kinase (BTK) inhibitors"
+    },
+    {
+        "name": "Acamprosate",
+        "weight": 181.21,
+        "description": "A medication used to maintain alcohol abstinence in patients with alcohol dependence.",
+        "categories": "Alcohol Deterrents"
+    },
+    {
+        "name": "Acarbose",
+        "weight": 645.608,
+        "description": "An alpha-glucosidase inhibitor used in adjunctly with diet and exercise for the management of glycemic control in patients with type 2 diabetes mellitus.",
+        "categories": "Glycoside Hydrolase Inhibitors"
+    },
+    {
+        "name": "Acebutolol",
+        "weight": 336.4259,
+        "description": "A selective \u03b21-receptor antagonist used for the management of hypertension and ventricular premature beats in adults.",
+        "categories": "Antihypertensive Agents"
+    },
+    {
+        "name": "Aceclidine",
+        "weight": 169.224,
+        "description": "Aceclidine has been marketed in Europe but has not been used clinically in the United States. It is used in the treatment of open-angle glaucoma and is a parasympathomimetic agent.",
+        "categories": "Parasympathomimetics"
+    },
+    {
+        "name": "Aceclofenac",
+        "weight": 354.18,
+        "description": "Aceclofenac is indicated for the relief of pain and inflammation in osteoarthritis, rheumatoid arthritis and ankylosing spondylitis.",
+        "categories": "Acetic Acid Derivatives and Related Substances"
+    },
+    {
+        "name": "Acemetacin",
+        "weight": 415.83,
+        "description": "A NSAID indicated in the treatment of pain and inflammation.",
+        "categories": "Acetic Acid Derivatives and Related Substances"
+    },
+    {
+        "name": "Acenocoumarol",
+        "weight": 353.3255,
+        "description": "An anticoagulant drug used in the prevention of thromboembolic diseases in infarction and transient ischemic attacks, as well as management of deep vein thrombosis and myocardial infarction.",
+        "categories": "Vitamin K Antagonists"
+    },
+    {
+        "name": "Acetaminophen",
+        "weight": 151.1626,
+        "description": "An analgesic drug used alone or in combination with opioids for pain management, and as an antipyretic agent.",
+        "categories": "Anilides"
+    },
+    {
+        "name": "Acetarsol",
+        "weight": 275.0903,
+        "description": "An anti infective used to treat a wide variety of infections in the body.",
+        "categories": "Arsenicals"
+    },
+    {
+        "name": "Acetazolamide",
+        "weight": 222.245,
+        "description": "A carbonic anhydrase inhibitor used to treat edema from heart failure or medications, certain types of epilepsy, and glaucoma.",
+        "categories": "Sulfonamides"
+    },
+    {
+        "name": "Acetic acid",
+        "weight": 60.052,
+        "description": "An antimicrobial agent used to treat susceptible infections of the external auditory canal.",
+        "categories": "Organic Acids"
+    },
+    {
+        "name": "Acetohexamide",
+        "weight": 324.395,
+        "description": "Used in the management of diabetes mellitus type 2 (adult-onset).",
+        "categories": "Sulfonylureas"
+    },
+    {
+        "name": "Acetohydroxamic acid",
+        "weight": 75.0666,
+        "description": "A synthetic urea derivative used to treat urea splitting bacterial infections of the urinary tract.",
+        "categories": "Enzyme Inhibitors"
+    },
+    {
+        "name": "Acetophenazine",
+        "weight": 411.56,
+        "description": "For the treatment of disorganized and psychotic thinking. Also used to help treat false perceptions (e.g. hallucinations or delusions.)",
+        "categories": "Phenothiazines With Piperazine Structure"
+    },
+    {
+        "name": "Acetyl sulfisoxazole",
+        "weight": 309.34,
+        "description": "Acute, recurrent or chronic urinary tract infections (primarily pyelonephritis, pyelitis and cystitis) due to susceptible organisms (usually Escherichia coli, Klebsiella-Enterobacter, staphylococcus, Proteus mirabilis and, less frequently, Proteus vulgaris) in the...",
+        "categories": "Sulfonamides"
+    },
+    {
+        "name": "Acetylcarnitine",
+        "weight": 203.238,
+        "description": "An acetylated form of the amino acid derivative L-carnitine that assists in mitochondrial fatty acid metabolism. It is under investigation as a treatment for numerous conditions, including neuropathy, depression, and dementia.",
+        "categories": "Nootropic Agents"
+    },
+    {
+        "name": "Acetylcholine",
+        "weight": 146.2074,
+        "description": "A parasympathomimetic neurotransmitter used to induce miosis of the iris in seconds after delivery of the lens in cataract surgery, in penetrating keratoplasty, iridectomy and other anterior segment surgery where rapid miosis may be required.",
+        "categories": "Parasympathomimetics"
+    },
+    {
+        "name": "Acetylcysteine",
+        "weight": 163.195,
+        "description": "A medication that can be used as a mucolytic in patients with certain lung conditions and as an antidote for acetaminophen overdose.",
+        "categories": "Antidote for Acetaminophen Overdose"
+    },
+    {
+        "name": "Acetyldigitoxin",
+        "weight": 806.9757,
+        "description": "Used for fast digitalization in congestive heart failure.",
+        "categories": "Digitalis Glycosides"
+    },
+    {
+        "name": "Acetylene",
+        "weight": 26.038,
+        "description": "A component of a medical gas indicated for lung function testing.",
+        "categories": "Alkynes"
+    },
+    {
+        "name": "Acetylsalicylic acid",
+        "weight": 180.1574,
+        "description": "A salicylate used to treat pain, fever, inflammation, migraines, and reducing the risk of major adverse cardiovascular events.",
+        "categories": "Platelet Aggregation Inhibitors Excl. Heparin"
+    },
+    {
+        "name": "Acipimox",
+        "weight": 154.125,
+        "description": "A niacin derivative used in Fredrickson type IIb and type IV hyperlipoproteinemia.",
+        "categories": "Nicotinic Acid and Derivatives"
+    },
+    {
+        "name": "Acitretin",
+        "weight": 326.4293,
+        "description": "An oral retinoid used in the treatment of severe psoriasis.",
+        "categories": "Retinoids for Treatment of Psoriasis"
+    },
+    {
+        "name": "Aclidinium",
+        "weight": 484.651,
+        "description": "An inhaled long-acting anticholinergic used as a maintenance bronchodilator in patients with chronic obstructive pulmonary disease (COPD).",
+        "categories": "Agents producing tachycardia"
+    },
+    {
+        "name": "Acrivastine",
+        "weight": 348.4382,
+        "description": "An antihistamine agent used for the symptomatic relief of seasonal allergic rhinitis such as sneezing, rhinorrhea, pruritus, lacrimation, and nasal congestion.",
+        "categories": "Histamine H1 Antagonists"
+    },
+    {
+        "name": "Activated charcoal",
+        "weight": 12.011,
+        "description": "A gastric decontamination agent used in emergency clinical settings as a antidote to treat poisonings following excessive oral ingestion of certain medications or poisons.",
+        "categories": "Charcoal Preparations"
+    },
+    {
+        "name": "Acyclovir",
+        "weight": 225.2046,
+        "description": "A guanosine analog used to treat herpes simplex, varicella zoster, herpes zoster.",
+        "categories": "Nucleosides and Nucleotides Excl. Reverse Transcriptase Inhibitors"
+    },
+    {
+        "name": "Adagrasib",
+        "weight": 604.13,
+        "description": "A KRAS inhibitor indicated for the treatment of locally advanced or metastatic KRAS G12C-mutated non-small cell lung cancer in patients who have received at least one prior systemic therapy.",
+        "categories": "Antineoplastic Agents"
+    },
+    {
+        "name": "Adapalene",
+        "weight": 412.5201,
+        "description": "A third-generation topical retinoid with anti-comedogenic, comedolytic, and anti-inflammatory properties used to treat acne vulgaris in adolescents and adults.",
+        "categories": "Retinoids for Topical Use in Acne"
+    },
+    {
+        "name": "Adefovir dipivoxil",
+        "weight": 501.4705,
+        "description": "A nucleotide analog used to treat chronic hepatitis B.",
+        "categories": "Nucleoside and Nucleotide Reverse Transcriptase Inhibitors"
+    },
+    {
+        "name": "Ademetionine",
+        "weight": 398.44,
+        "description": "S-Adenosylmethionine (SAMe) is used as a drug in Europe for the treatment of depression, liver disorders, fibromyalgia, and osteoarthritis. It has also been introduced into the United States market as...",
+        "categories": "Amino Acids and Derivatives"
+    },
+    {
+        "name": "Adenine",
+        "weight": 135.1267,
+        "description": "A purine base which forms a component of DNA among other functions and is present in many multivitamins.",
+        "categories": "Purines"
+    },
+    {
+        "name": "Adenosine",
+        "weight": 267.2413,
+        "description": "A medication used in myocardial perfusion scintigraphy and to treat supraventricular tachycardia.",
+        "categories": "Agents producing tachycardia"
+    },
+    {
+        "name": "Adenosine phosphate",
+        "weight": 347.2212,
+        "description": "For nutritional supplementation, also for treating dietary shortage or imbalance",
+        "categories": "Adenine Nucleotides"
+    },
+    {
+        "name": "Adiphenine",
+        "weight": 311.425,
+        "description": "Not Annotated",
+        "categories": "Acids, Carbocyclic"
+    }
+]
