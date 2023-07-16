@@ -61,7 +61,7 @@
   - JSON : Format data yang digunakan untuk menyimpan data hasil scraping
   - Datetime : Library untuk membantu formatting tanggal dan waktu pada data
   - [psycopg2](https://pypi.org/project/psycopg2/) : Library untuk melakukan koneksi ke database PostgreSQL
-  - [Matplotlib](https://matplotlib.org/) : Library untuk visualisasi data
+  - [Matplotlib](https://matplotlib.org/) : Library visualisasi data
 
 ## How to Use
   ### Data Scraping
@@ -206,7 +206,5 @@
 
 ## Author
   _Naura Valda Prameswari - 18221173_
-
   _Sistem dan Teknologi Informasi_
-
   _Institut Teknologi Bandung_
