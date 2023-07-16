@@ -77,14 +77,16 @@ Karena relasi info_stats bersifat one to one, maka primary key bebas dititipkan 
 Berdasarkan dashboard di atas, dapat dilihat total map yang dimainkan oleh tiap tim, representasi negara di pertandingan tersebut, serta data-data seperti player dengan kill terbanyak, assist terbanyak, serta KDA (Kill Death Assists) terbesar. Terdapat pula rata-rata dari ACS/Map,Kills/Map,Deaths/Map, dan Assists/Map. Beberapa insight dapat kita simpulkan dari sini.
 
 #### Insights :
--Sebagian besar pro player Valorant yang bertanding berkewarganegaraan Korea Selatan, diikuti oleh Jepang, dan Filipina.
--Total Map yang dimainkan oleh tiap tim menunjukkan seberapa kuat dan kompetitif tim tersebut, walaupun hal ini tidak terjamin 100%, namun dapat dipastikan Top 3 dari data tersebut telah memasuki tahap Semifinal atau Grand Final.
--Sayaplayer merupakan pemain dengan kill terbanyak dalam semua pertandingan di VCT Pacific 2023.
--MaKo merupakan pemain dengan assists terbanyak dalam semua pertandingan di VCT Pacific 2023, mengindikasikan agent-agent yang MaKo pakai berupa agent dengan tipe support.
+* Sebagian besar pro player Valorant yang bertanding berkewarganegaraan Korea Selatan, diikuti oleh Jepang, dan Filipina.
+* Total Map yang dimainkan oleh tiap tim menunjukkan seberapa kuat dan kompetitif tim tersebut, walaupun hal ini tidak terjamin 100%, namun dapat dipastikan Top 3 dari data tersebut telah memasuki tahap Semifinal atau Grand Final.
+* Sayaplayer merupakan pemain dengan kill terbanyak dalam semua pertandingan di VCT Pacific 2023.
+* MaKo merupakan pemain dengan assists terbanyak dalam semua pertandingan di VCT Pacific 2023, mengindikasikan agent-agent yang MaKo pakai berupa agent dengan tipe support.
+
 ![alt text](https://github.com/nixondeflin/TUGAS_SELEKSI_1_18221150/blob/main/Dashboard/a.png)
+
 (Agent Viper,Omen,Brimstone merupakan agent smoker yang berfungsi untuk support teammate lain dengan menutup jalan bagi musuh)
--d4v4i merupakan pemain dengan KDA terbesar di sepanjang pertandingan, mengindikasikan d4v4i memiliki impact yang besar bagi timnya sendiri.
--Rata-rata dari ACS/Map,Kills/Map,Deaths/Map, dan Assists/Map merupakan statistik yang menggambarkan performa atau kontribusi seorang pemain dalam permainan.
+* d4v4i merupakan pemain dengan KDA terbesar di sepanjang pertandingan, mengindikasikan d4v4i memiliki impact yang besar bagi timnya sendiri.
+* Rata-rata dari ACS/Map,Kills/Map,Deaths/Map, dan Assists/Map merupakan statistik yang menggambarkan performa atau kontribusi seorang pemain dalam permainan.
 
 ### Reference
 * https://liquipedia.net/valorant/VCT/2023/Pacific_League/Statistics
