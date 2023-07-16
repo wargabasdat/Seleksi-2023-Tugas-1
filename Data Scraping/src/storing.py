@@ -3,7 +3,6 @@ import psycopg2
 import os
 
 dir = os.getcwd()
-print(dir)
 
 # connect to the database
 conn = psycopg2.connect(host="localhost", database="kkpk", user="postgres", password="12345678")
@@ -43,7 +42,6 @@ def createTable() :
 
 def insertBookInformation() :
     data_path = dir[:-3] + 'data\\book_details.json'
-    print(data_path)
     with open(data_path) as file :
         data = json.load(file)
     
