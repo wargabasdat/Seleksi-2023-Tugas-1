@@ -8,15 +8,22 @@ async function fifteenthDiagram(conn) {
   const result = (
     await conn.query(
       `
-      SELECT difficulty,solution_type , COUNT(*) amount, AVG(acceptance_rate) average_acceptance  FROM problem GROUP BY solution_type, difficulty ORDER BY difficulty, solution_type;
+      WITH problem_sol_sub_ratio AS (
+        SELECT number, solution_type, number_of_solution, number_of_submission, number_of_solution / number_of_submission sol_sub_ratio FROM problem WHERE premium_status = FALSE AND NOT ISNULL(number_of_solution)
+    )
+    SELECT solution_type, AVG(sol_sub_ratio) average_ratio, MAX(sol_sub_ratio) max_ratio, MIN(sol_sub_ratio) min_ratio FROM problem_sol_sub_ratio GROUP BY solution_type;
+    
+    
+    
+    
       `
     )
-  ).map(({ solution_type, difficulty, amount, average_acceptance }) => {
+  ).map(({ solution_type, average_ratio, max_ratio, min_ratio }) => {
     return {
       solution_type,
-      difficulty,
-      average_acceptance: Number(average_acceptance),
-      amount: Number(amount),
+      average_ratio: Number(average_ratio),
+      max_ratio: Number(max_ratio),
+      min_ratio: Number(min_ratio),
     };
   });
 

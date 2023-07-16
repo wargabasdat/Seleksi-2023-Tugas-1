@@ -7,14 +7,14 @@ const mariaDB = require("mariadb");
 async function fourthDiagram(conn) {
   const result = (
     await conn.query(
-      "SELECT solution_type, MAX(number_of_submission) maximum, MIN(number_of_submission) minimum, AVG(number_of_submission) average FROM problem GROUP BY solution_type;"
+      `
+      SELECT number, LOG(10, number_of_submission) log_number_of_submission FROM problem WHERE premium_status = false ORDER BY number ASC ;
+      `
     )
-  ).map(({ solution_type, maximum, minimum, average }) => {
+  ).map(({ number, log_number_of_submission }) => {
     return {
-      solution_type,
-      maximum: Number(maximum),
-      minimum: Number(minimum),
-      average: Number(average),
+      number: Number(number),
+      log_number_of_submission: Number(log_number_of_submission),
     };
   });
 
