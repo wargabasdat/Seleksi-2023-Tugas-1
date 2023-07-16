@@ -54,7 +54,7 @@ def get_item(title, book_id) :
             break
         elif (not contain_isbn) :
             if ("Penulis: " in i.get_text()) :
-                book_author = i.get_text().replace("Penulis: ", "").replace("\u2019", "'").replace(", dkk.", "")
+                book_author = i.get_text().replace("Penulis: ", "").replace("\u2019", "'").replace("dkk", "").replace(".", "").replace(" ", "")
                 authors = book_author.split(", ")
                 isbn.append(None)
                 break
@@ -65,7 +65,7 @@ def get_item(title, book_id) :
                 break
         elif (contain_isbn and contain_author) :
             if ("Penulis: " in i.get_text()) :
-                book_author = i.get_text().replace("Penulis: ", "").replace("\u2019", "'").replace(", dkk.", "")
+                book_author = i.get_text().replace("Penulis: ", "").replace("\u2019", "'").replace("dkk", "").replace(".", "").replace(" ", "")
                 authors = book_author.split(", ")
             elif ("ISBN: " in i.get_text()) :
                 book_isbn = i.get_text().replace("ISBN: ", "")
