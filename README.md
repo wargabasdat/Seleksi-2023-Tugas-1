@@ -1,4 +1,9 @@
 <h1 align="center">Seleksi 1 Warga Basdat 2023: Data Scraping, Data Storing, and Data Visualization from formula1.com</h1>
+<div align="center">
+  <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/d739cf49-2d4f-425f-9e25-af7a6acfc784" width="300">
+</div>
+<br>
+
 <p align="center"><b>July 17th 2023 - v1.01</b></p>
 <p align="center">Ilmagita Nariswari - 18221101</p>
 
@@ -119,7 +124,7 @@ A `Driver` is its own entity. On the Formula 1 website, drivers aren't assigned 
 
 # ERD to Relational Diagram Translation Process
 
-Each strong entities are translated to their own tables and the attributes become columns in each of the relations. `Drivers` becomes the relation `drivers`, `Races` becomes relation table `races`, `Results` becomes the relation `raceResults`, `DriverStandings` becomes `driverStandings`, and lastly, `season` becomes `Season`.
+Each strong entities are translated to their own tables and their attributes become columns in each of the relations. `Drivers` becomes the relation `drivers`, `Races` becomes relation table `races`, `Results` becomes the relation `raceResults`, `DriverStandings` becomes `driverStandings`, and lastly, `season` becomes `Season`. 
 
 <div align="center">
   <img src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/6fd32b58-6bf7-4a0f-bef6-c66be31e57f8" alt="Reducing Results, Races, and Driver" width="600">
@@ -138,6 +143,21 @@ The `Results` entity has a _many-to-one_ relationship with `Driver`, and the rel
 </div>
 
 `DriverStandings` has a _many-to-one_ relationship with `Driver`, causing the table `driverStandings` have a foreign key `driver` that refers to the primary key `name` in driver. It also has a _many-to-one_ relationship with `Season`, so it has the foreign key `year` that refers to `season`'s primary key.
+
+Thus, the final tables are (**bold**: primary keys, *italics*: foreign keys)
+
+1. driver (**name**, nationality)
+2. driverStandings (**driverStandingsID**, *year*, *driver*, car, position, points)
+3. season (**year**)
+4. races (**raceID**, *year*, grandPrixName, date, location)
+5. raceResults (**resultsID**, *raceID*, *driver*, driverNo, position, car, laps, timeretired, points)
+
+with foreign keys:
+1. driverStandings (*year*) -> season (**year**)
+2. driverStandings (*driver*) -> drivers (**driver**)
+3. races (*year*) -> season (**year**)
+4. raceResults (*raceID*) -> races (**raceID**)
+5. raceResults (*driver*) -> drivers (**driver**)
 
 # Screenshots
 
@@ -190,6 +210,10 @@ Insertion to database is used using a Python program (`inserttodb.py`) with the 
   <img width="600" alt="pgadmin4_drivers" src="https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/5a113103-6c65-4957-b5d9-6319d4c5878c"><br>
   <p>drivers as seen in pgAdmin.</p>
 </div>
+
+## About the visualization
+
+The visualization is a dashboard made on Tableau. It compares the podiums, wins, and points gained by Red Bull drivers from a period of 2005-2023 and also gives a preview to each season's head to head results.
 
 # References
 ## Documentation
