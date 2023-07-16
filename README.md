@@ -11,7 +11,18 @@
   <br>
   Website Eventbrite.com
   <br>
+  <br>
 </h2>
+
+## Table of Contents
+  - [Description](#description)
+  - [Specification](#specification)
+  - [How to Use](#how-to-use)
+  - [JSON Structure](#json-structure)
+  - [Database Structure](#database-structure)
+  - [Screenshots](#screenshots)
+  - [References](#references)
+  - [Author](#author)
 
 ## Description
   ### Data
