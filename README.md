@@ -9,7 +9,7 @@
 
 # Visualization
 
-![image](https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/4bf37815-02c7-4b08-88d5-13200ec0da9d)
+![image](https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/5d624a02-ae91-4f7b-9921-67e3049d1b66)
 ![image](https://github.com/ilmagita/Seleksi-2023-Tugas-1/assets/52821168/2fca9366-823c-42e3-b8a1-128c222d3ce0)
 
 <h2 align="center">Link to <a href="https://public.tableau.com/shared/YXN2P3RY8?:display_count=n&:origin=viz_share_link">interactive dashboard</a></p>
