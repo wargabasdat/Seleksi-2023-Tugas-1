@@ -89,6 +89,24 @@ Berikut merupakan ERD dari database
 ![erd_design](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ERD_kokoro_japan.png)
 
 Berikut merupakan Relational diagram dari database
-![relational_diagram](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Relational%20Diagram_kokoro_japan.png)
+![relational_diagram]()
 
 ## Translasi ERD ke RDBMS
+Setiap strong entity pada ERD akan menjadi tabel tersendiri. dan setiap atribut pada entitas akan menjadi kolom pada tabel relasional. Entitas customer menjadi tabel customer, entitas product menjadi tabel product, entitas shopping_cart menjadi tabel shopping_cart, entitas voucher menjadi tabel voucher, dan entitas payment menjadi tabel payment.
+
+1. Pada entitas customer terdapat phone_number yang merupakan multivalue atribut. Oleh karena itu, dibuat tabel customer_phone yang memiliki kolom id_customer dan phone atribut. id_customer menjadi primary key dan sekaligus sebagai foreign key  yang reference pada kolom id_customer pada tabel customer
+
+2. relasi antara customer dengan shopping_cart adalah one-to-many dan many berada pada shopping cart. Sehingga pada tabel shoping cart akan ditambah atribut primary key dari tabel customer yaitu id_customer
+
+3. Relasi antara shopping_cart dengan produk adalah many-to-many sehinga diperlukan tabel baru yang dinamakan fill_up dengan berisikan primary key dari kedua tabel yaitu id_shopping_cart dan id_product. pada relasi tersebut juga terdapat atribut pada relasi, atribut tersebut akan dimasukan ke dalam tabel fill_up.
+
+4. Relasi antara voucher dengan customer adalah mmany-to-one dan kedua bagiannya relasi parsial. Bagian many terdapat pada voucher sehingga pada tabel voucher ditambahkan primary key dari tabel customer yaitu id customer
+
+5. Relasi antara shopping_cart dengan payment adalah one-to-one sehingga dapat dapat memilih tabel yang mana yang akan mendapatkan atribut tambahan yang berupa primary key dari tabel lainnya. Saya memilih untuk menambahkan id_shopping_cart pada tabel payment.
+
+6. Relasi antara shopping cart dengan voucher juga one-to-one hingga dapat dapat memilih tabel yang mana yang akan mendapatkan atribut tambahan yang berupa primary key dari tabel lainnya. Saya memilih untuk menambahkan atribut id_voucher pada tabel payment. Relasi ini juga memiliki atribut sendiri yaitu price-off yang juga ditambahkan pada tabel payment
+
+7. Pada tabel payment terdapat specialization dari payment_method diantaranya terdapat credit_card dan paypal yang memiliki atribut tambahan tersendiri. Oleh karena dibuat tabel untuk lower-level entity masing, tabel itu diisi dengan primary key dari higher-level entity yaitu id_payment dan atribut lokalnya masing-masing.
+
+
+
