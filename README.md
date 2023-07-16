@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Seleksi Warga Basdat 2023
+  Top 250 Movies of All Time IMDb Version
   <br>
   <br>
 </h1>
@@ -12,90 +12,166 @@
   <br>
 </h2>
 
+![Logo IMDb](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/IMDB_Logo_2016.svg.png)
 
-## Spesifikasi
+## Table of Contents
 
-### Data Scraping
+This README.md contains the following
+1. [Description](#description)
+2. [Specification](#specification)
+3. [How To Use](#how-to-use)
+4. [JSON Structure](#json-structure)
+5. [Database Structure](#database-structure)
+6. [ERD Relational Translation Process](erd-relational-translation-process)
+6. [Screenshots](#screenshots)
+7. [Reference](#reference)
+8. [Author](#author)
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
 
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
+## Description
 
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
+IMDb (Internet Movie Database) is an online database that provides comprehensive information about movies, TV shows, actors, directors, and other industry professionals. IMDb offers users the ability to access details such as film and TV show summaries, cast and crew information, user reviews, ratings, and trailers. With its vast collection of data and user-friendly interface, IMDb has become one of the most popular and trusted sources for entertainment-related information on the internet. The author, being a cinephile, finds this project incredibly fascinating and insightful, as it has exposed him to many great but lesser-known films and expanded his watchlist.
 
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
+In this particular project, the author is focusing on the Top 250 Movies of All Time data, which is rated by IMDb users. Used by more than five million people all over the world, IMDb has become one of the most reliable sources for exploring and discovering information about films and television programs from various genres, countries, and eras.
+
+From [this](https://www.imdb.com/chart/top/?ref_=nv_mv_250) webpage, the author has scraped the movie data, including rank, title, year of creation, duration, classification, and rating.
+
+After scraping the data, the author expanded the database and created a more complex database design using the Entity Relationship Diagram (ERD) approach. The ERD was then mapped and translated into the relational model, and the author denormalized the data to achieve the best possible form, such as BCNF or 3NF. The database was built using PostgreSQL, and the data was stored using the same tool.
+
+ ## Specification
+
+ This program is built using Python programming language. In order to run the program, you are required to install some libraries.
+
+ - #### Jupyter Notebook
+To maintain simplicity, the author has decided to use Jupyter Notebook for building the program. Therefore, all scripts will be stored in the .ipynb format. However, the author occasionally uses PyCharm to test certain aspects. So, expect to see some screenshots of the PyCharm environment.
+
+To install Jupiter Notebook via your terminal, type this promt.
 ```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
-
-### Database Modelling & Data Storing
-
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
-
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
-
-4. Tools yang digunakan __dibebaskan__ pada peserta.
-
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
-
-
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
-
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
-
-### Pengumpulan
-
-
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
-
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
-
-
-```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
+pip install notebook
 ```
 
+- #### BeautifulSoup
+Based on the author's research, BeautifulSoup is currently the most commonly used scraping tool. Moreover, many references also utilize this tool. In this case, the parser (html.parser) is already included, so the author doesn't need to install any additional libraries.
 
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
+To install BeautifulSoup library via your terminal, type this promt.
+```
+pip install beautifulsoup4
+```
 
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
+- #### Time
+As suggested by the assistant, the author adheres to the "ethics of scraping". To prevent overloading the server and potentially causing crashes, the author has incorporated waiting time in the program using the time.sleep() method. The time library is already preinstalled with Python.
 
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
+- #### JSON
+The scraped data will be stored in JSON format, as requested by the assistant. To dump the scraped data into JSON format, we need the JSON library. JSON library is already preinstalled with Python.
+
+## How To Use
+
+1. Insall all prerequisite libraries to run the program
+
+2. Clone this repository to your local directory.
+
+One way to get this done is through your terminal.
+
+To clone it via your terminal, type this promt.
+```
+git clone https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1.git
+```
+
+3. Open Jupyter Notebook 
+
+Navigate the directory on your terminal to the repository and type this prompt to open Jupyter Notebook. 
+```
+jupyter-notebook
+```
+
+4. Open and run Seleksi_Basdat.ipynb on Jupyter Notebook 
+
+5. The scraping data result will be generated and dumped into JSON file format.
+
+## JSON Structure
+
+Here is an example of the generated data in JSON format. It represents the data of the movie ranked first, "The Shawshank Redemption."
+
+<pre>
+{
+      "rank": "1",
+      "title": "The Shawshank Redemption",
+      "year_created": "1994",
+      "duration": "2h 22m",
+      "classification": "18+",
+      "rating": "9.3"
+    },
+</pre>
+
+## Database Structure
+
+![ER Diagram](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ER%20Diagram.png)
+
+At first, the author scraped movie data, including attributes such as rank, title, year of creation, duration, classification, and rating. These categories became attributes in the main entity called "movie." The author then expanded this database by creating new entities related to movies, such as genre, award, rating input, people in the movie (including directors and cast), and production house. Each entity was assigned its own identifier to ensure unique identification. The author also created a weak entity called "rating input" since a rating is dependent on the existence of the movie. Additionally, a "person" entity was created, which is further specialized into "director" and "cast" entities. These entities share some common attributes but are differentiated by specific attributes that match their characteristics. It is worth noting that the author used multiple-value and composite attributes to describe certain details for the production house entity.
+
+Now, let's discuss the relationships between each entity, with the movie entity being the central focus since it contains the scraped data.
+
+The "rating input" entity has a many-to-one relationship with the "movie" entity and total participation (on the rating input side) since, in this Top 250 Movie List, all movies have ratings.
+
+Both the "production house" entity and the "person" entity have a many-to-many relationship with the "movie" entity, with total participation on both sides. This is because all movies are produced by production houses or people, and some movies may be produced by multiple production houses or involve multiple individuals. The relationship applies vice versa as well.
+
+The "genre" entity has a many-to-many relationship with the "movie" entity, with total participation on the movie side. This is because some movies may have multiple genres, and vice versa. However, the author believes that not all genres are included in the Top 250 Movies List. That's why the author decide to use partial participation on the genre side.
+
+Lastly, the "award" entity has a many-to-many relationship with the "movie" entity, with partial participation on both sides. This is because a movie may win several awards, and vice versa. However, not all movies have won awards, and some awards may not be included in the list. Therefore, this relationship has partial participation on both sides. 
+
+## ERD Relational Translation Process
+
+Next, the author proceeds with translating the ER Diagram into a Relational Model. Starting with the weak entity (Rating Input Entity), the author creates a relation schema with the same attributes and includes movie_id as the primary key, which references the identifying strong entity. Moving on to the production house entity, the author represents the composite attribute (address attribute) by creating separate attributes for each component attribute. For the multivalued attribute (phone_number), the author creates a separate schema that also includes the primary key of the production_house entity.
+
+An important point to note is that the author decides to use "rank" as the movie_id in this database. This decision is made because no two movies are placed in the same rank. The author still uses the attribute name "rank" in the movie schema. However, in other schemas, this attribute is renamed as "movie_id."
+
+To represent specialization in the schema, the author chooses to form a schema for the Person entity and then creates different schemas for each lower-level entity set. The author also includes person_id as the primary key for the higher-level entity set.
+
+When translating the relationship sets, all entities that have a many-to-many relationship with the movie (production_house, genre, award, director, actor) are represented as a schema with attributes for the primary keys of both entities and any descriptive attributes of the relationship set.
+
+During this translation process, the author also establishes the primary keys and foreign keys within the schema. Here are the final Relational Schema and the full list of keys present in this database.
+
+![Relational Schema](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Relational%20Schema.drawio.png)
+
+## ScreenShots
+
+- #### Scraping Function
+
+![Scraping Function](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Scraping%20Function.png)
+
+- #### Testing Progress
+
+![Testing Progress](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Testing%20Progress.png)
+
+- #### Preprocessing Input Data
+
+![Preprocessing Input Data](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Preprocessing%20Input%20Data.png)
+
+- #### JSON Output
+
+![JSON Output](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/JSON%20Output.png)
+
+- #### Data Storing in PostreSQL
+
+![Data Storing 1](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Data%20Storing%20in%20PostreSQL%201.png)
+
+![Data Storing 2](https://github.com/JosuaAdriel/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Data%20Storing%20in%20PostreSQL%202.png)
+
+## Reference
+Libraries: 
+- BeautifulSoup
+- time
+- requests
+- json
+
+Web Scraping with Beautiful Soup Tutorial
+- https://www.youtube.com/watch?v=YIiYeyfo7MM&t=250s
+
+## Author
+
+Josua Adriel Sinabutar (18221065)
 <br>
+Information System and Technology 
+<br>
+Institut Teknologi Bandung

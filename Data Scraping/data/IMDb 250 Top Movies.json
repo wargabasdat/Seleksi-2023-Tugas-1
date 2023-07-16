@@ -1,0 +1,2002 @@
+[
+   {
+      "rank": "1",
+      "title": "The Shawshank Redemption",
+      "year_created": "1994",
+      "duration": "2h 22m",
+      "classification": "18+",
+      "rating": "9.3"
+   },
+   {
+      "rank": "2",
+      "title": "The Godfather",
+      "year_created": "1972",
+      "duration": "2h 55m",
+      "classification": "18+",
+      "rating": "9.2"
+   },
+   {
+      "rank": "3",
+      "title": "The Dark Knight",
+      "year_created": "2008",
+      "duration": "2h 32m",
+      "classification": "R",
+      "rating": "9.0"
+   },
+   {
+      "rank": "4",
+      "title": "The Godfather: Part II",
+      "year_created": "1974",
+      "duration": "3h 22m",
+      "classification": "18+",
+      "rating": "9.0"
+   },
+   {
+      "rank": "5",
+      "title": "12 Angry Men",
+      "year_created": "1957",
+      "duration": "1h 36m",
+      "classification": "SU",
+      "rating": "9.0"
+   },
+   {
+      "rank": "6",
+      "title": "Schindler's List",
+      "year_created": "1993",
+      "duration": "3h 15m",
+      "classification": "A",
+      "rating": "9.0"
+   },
+   {
+      "rank": "7",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year_created": "2003",
+      "duration": "3h 21m",
+      "classification": "A",
+      "rating": "9.0"
+   },
+   {
+      "rank": "8",
+      "title": "Pulp Fiction",
+      "year_created": "1994",
+      "duration": "2h 34m",
+      "classification": "17+",
+      "rating": "8.9"
+   },
+   {
+      "rank": "9",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year_created": "2001",
+      "duration": "2h 58m",
+      "classification": "R",
+      "rating": "8.8"
+   },
+   {
+      "rank": "10",
+      "title": "The Good, the Bad and the Ugly",
+      "year_created": "1966",
+      "duration": "2h 41m",
+      "classification": "D",
+      "rating": "8.8"
+   },
+   {
+      "rank": "11",
+      "title": "Forrest Gump",
+      "year_created": "1994",
+      "duration": "2h 22m",
+      "classification": "21",
+      "rating": "8.8"
+   },
+   {
+      "rank": "12",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year_created": "2023",
+      "duration": "2h 20m",
+      "classification": "SU",
+      "rating": "8.9"
+   },
+   {
+      "rank": "13",
+      "title": "Fight Club",
+      "year_created": "1999",
+      "duration": "2h 19m",
+      "classification": "21",
+      "rating": "8.8"
+   },
+   {
+      "rank": "14",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year_created": "2002",
+      "duration": "2h 59m",
+      "classification": "A",
+      "rating": "8.8"
+   },
+   {
+      "rank": "15",
+      "title": "Inception",
+      "year_created": "2010",
+      "duration": "2h 28m",
+      "classification": "D",
+      "rating": "8.8"
+   },
+   {
+      "rank": "16",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year_created": "1980",
+      "duration": "2h 4m",
+      "classification": "PG",
+      "rating": "8.7"
+   },
+   {
+      "rank": "17",
+      "title": "The Matrix",
+      "year_created": "1999",
+      "duration": "2h 16m",
+      "classification": "18+",
+      "rating": "8.7"
+   },
+   {
+      "rank": "18",
+      "title": "GoodFellas",
+      "year_created": "1990",
+      "duration": "2h 25m",
+      "classification": "17+",
+      "rating": "8.7"
+   },
+   {
+      "rank": "19",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year_created": "1975",
+      "duration": "2h 13m",
+      "classification": "R",
+      "rating": "8.7"
+   },
+   {
+      "rank": "20",
+      "title": "Se7en",
+      "year_created": "1995",
+      "duration": "2h 7m",
+      "classification": "21",
+      "rating": "8.6"
+   },
+   {
+      "rank": "21",
+      "title": "It's a Wonderful Life",
+      "year_created": "1946",
+      "duration": "2h 10m",
+      "classification": "13+",
+      "rating": "8.6"
+   },
+   {
+      "rank": "22",
+      "title": "Shichinin no samurai",
+      "year_created": "1954",
+      "duration": "3h 27m",
+      "classification": "Not Rated",
+      "rating": "8.6"
+   },
+   {
+      "rank": "23",
+      "title": "The Silence of the Lambs",
+      "year_created": "1991",
+      "duration": "1h 58m",
+      "classification": "D",
+      "rating": "8.6"
+   },
+   {
+      "rank": "24",
+      "title": "Saving Private Ryan",
+      "year_created": "1998",
+      "duration": "2h 49m",
+      "classification": "18+",
+      "rating": "8.6"
+   },
+   {
+      "rank": "25",
+      "title": "City of God",
+      "year_created": "2002",
+      "duration": "2h 10m",
+      "classification": "R",
+      "rating": "8.6"
+   },
+   {
+      "rank": "26",
+      "title": "Interstellar",
+      "year_created": "2014",
+      "duration": "2h 49m",
+      "classification": "R",
+      "rating": "8.7"
+   },
+   {
+      "rank": "27",
+      "title": "Life Is Beautiful",
+      "year_created": "1997",
+      "duration": "1h 56m",
+      "classification": "21",
+      "rating": "8.6"
+   },
+   {
+      "rank": "28",
+      "title": "The Green Mile",
+      "year_created": "1999",
+      "duration": "3h 9m",
+      "classification": "18+",
+      "rating": "8.6"
+   },
+   {
+      "rank": "29",
+      "title": "Star Wars",
+      "year_created": "1977",
+      "duration": "2h 1m",
+      "classification": "13+",
+      "rating": "8.6"
+   },
+   {
+      "rank": "30",
+      "title": "Terminator 2: Judgment Day",
+      "year_created": "1991",
+      "duration": "2h 17m",
+      "classification": "13+",
+      "rating": "8.6"
+   },
+   {
+      "rank": "31",
+      "title": "Back to the Future",
+      "year_created": "1985",
+      "duration": "1h 56m",
+      "classification": "13+",
+      "rating": "8.5"
+   },
+   {
+      "rank": "32",
+      "title": "Spirited Away",
+      "year_created": "2001",
+      "duration": "2h 5m",
+      "classification": "13+",
+      "rating": "8.6"
+   },
+   {
+      "rank": "33",
+      "title": "The Pianist",
+      "year_created": "2002",
+      "duration": "2h 30m",
+      "classification": "R",
+      "rating": "8.5"
+   },
+   {
+      "rank": "34",
+      "title": "Psycho",
+      "year_created": "1960",
+      "duration": "1h 49m",
+      "classification": "R",
+      "rating": "8.5"
+   },
+   {
+      "rank": "35",
+      "title": "Parasite",
+      "year_created": "2019",
+      "duration": "2h 12m",
+      "classification": "17+",
+      "rating": "8.5"
+   },
+   {
+      "rank": "36",
+      "title": "Leon",
+      "year_created": "1994",
+      "duration": "1h 50m",
+      "classification": "R",
+      "rating": "8.5"
+   },
+   {
+      "rank": "37",
+      "title": "The Lion King",
+      "year_created": "1994",
+      "duration": "1h 28m",
+      "classification": "PG",
+      "rating": "8.5"
+   },
+   {
+      "rank": "38",
+      "title": "Gladiator",
+      "year_created": "2000",
+      "duration": "2h 35m",
+      "classification": "16+",
+      "rating": "8.5"
+   },
+   {
+      "rank": "39",
+      "title": "American History X",
+      "year_created": "1998",
+      "duration": "1h 59m",
+      "classification": "R",
+      "rating": "8.5"
+   },
+   {
+      "rank": "40",
+      "title": "The Departed",
+      "year_created": "2006",
+      "duration": "2h 31m",
+      "classification": "R",
+      "rating": "8.5"
+   },
+   {
+      "rank": "41",
+      "title": "Whiplash",
+      "year_created": "2014",
+      "duration": "1h 46m",
+      "classification": "16+",
+      "rating": "8.5"
+   },
+   {
+      "rank": "42",
+      "title": "The Prestige",
+      "year_created": "2006",
+      "duration": "2h 10m",
+      "classification": "17+",
+      "rating": "8.5"
+   },
+   {
+      "rank": "43",
+      "title": "The Usual Suspects",
+      "year_created": "1995",
+      "duration": "1h 46m",
+      "classification": "R",
+      "rating": "8.5"
+   },
+   {
+      "rank": "44",
+      "title": "Casablanca",
+      "year_created": "1942",
+      "duration": "1h 42m",
+      "classification": "PG",
+      "rating": "8.5"
+   },
+   {
+      "rank": "45",
+      "title": "Hotaru no haka",
+      "year_created": "1988",
+      "duration": "1h 29m",
+      "classification": "Not Rated",
+      "rating": "8.5"
+   },
+   {
+      "rank": "46",
+      "title": "Seppuku",
+      "year_created": "1962",
+      "duration": "2h 13m",
+      "classification": "Not Rated",
+      "rating": "8.6"
+   },
+   {
+      "rank": "47",
+      "title": "Intouchables",
+      "year_created": "2011",
+      "duration": "1h 52m",
+      "classification": "R",
+      "rating": "8.5"
+   },
+   {
+      "rank": "48",
+      "title": "Modern Times",
+      "year_created": "1936",
+      "duration": "1h 27m",
+      "classification": "G",
+      "rating": "8.5"
+   },
+   {
+      "rank": "49",
+      "title": "Once Upon a Time in the West",
+      "year_created": "1968",
+      "duration": "2h 45m",
+      "classification": "PG-13",
+      "rating": "8.5"
+   },
+   {
+      "rank": "50",
+      "title": "Nuovo Cinema Paradiso",
+      "year_created": "1988",
+      "duration": "2h 35m",
+      "classification": "PG",
+      "rating": "8.5"
+   },
+   {
+      "rank": "51",
+      "title": "Rear Window",
+      "year_created": "1954",
+      "duration": "1h 52m",
+      "classification": "PG",
+      "rating": "8.5"
+   },
+   {
+      "rank": "52",
+      "title": "Alien",
+      "year_created": "1979",
+      "duration": "1h 57m",
+      "classification": "17+",
+      "rating": "8.5"
+   },
+   {
+      "rank": "53",
+      "title": "City Lights",
+      "year_created": "1931",
+      "duration": "1h 27m",
+      "classification": "G",
+      "rating": "8.5"
+   },
+   {
+      "rank": "54",
+      "title": "Apocalypse Now",
+      "year_created": "1979",
+      "duration": "2h 27m",
+      "classification": "R",
+      "rating": "8.4"
+   },
+   {
+      "rank": "55",
+      "title": "Memento",
+      "year_created": "2000",
+      "duration": "1h 53m",
+      "classification": "R",
+      "rating": "8.4"
+   },
+   {
+      "rank": "56",
+      "title": "Django Unchained",
+      "year_created": "2012",
+      "duration": "2h 45m",
+      "classification": "21+",
+      "rating": "8.4"
+   },
+   {
+      "rank": "57",
+      "title": "Raiders of the Lost Ark",
+      "year_created": "1981",
+      "duration": "1h 55m",
+      "classification": "PG",
+      "rating": "8.4"
+   },
+   {
+      "rank": "58",
+      "title": "WALLE",
+      "year_created": "2008",
+      "duration": "1h 38m",
+      "classification": "SU",
+      "rating": "8.4"
+   },
+   {
+      "rank": "59",
+      "title": "Das Leben der Anderen",
+      "year_created": "2006",
+      "duration": "2h 17m",
+      "classification": "R",
+      "rating": "8.4"
+   },
+   {
+      "rank": "60",
+      "title": "Sunset Blvd",
+      "year_created": "1950",
+      "duration": "1h 50m",
+      "classification": "Passed",
+      "rating": "8.4"
+   },
+   {
+      "rank": "61",
+      "title": "Paths of Glory",
+      "year_created": "1957",
+      "duration": "1h 28m",
+      "classification": "Approved",
+      "rating": "8.4"
+   },
+   {
+      "rank": "62",
+      "title": "Avengers: Infinity War",
+      "year_created": "2018",
+      "duration": "2h 29m",
+      "classification": "13+",
+      "rating": "8.4"
+   },
+   {
+      "rank": "63",
+      "title": "The Shining",
+      "year_created": "1980",
+      "duration": "2h 26m",
+      "classification": "21",
+      "rating": "8.4"
+   },
+   {
+      "rank": "64",
+      "title": "The Great Dictator",
+      "year_created": "1940",
+      "duration": "2h 5m",
+      "classification": "G",
+      "rating": "8.4"
+   },
+   {
+      "rank": "65",
+      "title": "Witness for the Prosecution",
+      "year_created": "1957",
+      "duration": "1h 56m",
+      "classification": "Approved",
+      "rating": "8.4"
+   },
+   {
+      "rank": "66",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year_created": "2018",
+      "duration": "1h 57m",
+      "classification": "SU",
+      "rating": "8.4"
+   },
+   {
+      "rank": "67",
+      "title": "Aliens",
+      "year_created": "1986",
+      "duration": "2h 17m",
+      "classification": "17+",
+      "rating": "8.4"
+   },
+   {
+      "rank": "68",
+      "title": "American Beauty",
+      "year_created": "1999",
+      "duration": "2h 2m",
+      "classification": "21",
+      "rating": "8.3"
+   },
+   {
+      "rank": "69",
+      "title": "The Dark Knight Rises",
+      "year_created": "2012",
+      "duration": "2h 44m",
+      "classification": "R",
+      "rating": "8.4"
+   },
+   {
+      "rank": "70",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year_created": "1964",
+      "duration": "1h 35m",
+      "classification": "PG",
+      "rating": "8.4"
+   },
+   {
+      "rank": "71",
+      "title": "Inglourious Basterds",
+      "year_created": "2009",
+      "duration": "2h 33m",
+      "classification": "17+",
+      "rating": "8.3"
+   },
+   {
+      "rank": "72",
+      "title": "Oldboy",
+      "year_created": "2003",
+      "duration": "2h",
+      "classification": "17+",
+      "rating": "8.4"
+   },
+   {
+      "rank": "73",
+      "title": "Coco",
+      "year_created": "2017",
+      "duration": "1h 45m",
+      "classification": "SU",
+      "rating": "8.4"
+   },
+   {
+      "rank": "74",
+      "title": "Amadeus",
+      "year_created": "1984",
+      "duration": "2h 40m",
+      "classification": "PG",
+      "rating": "8.4"
+   },
+   {
+      "rank": "75",
+      "title": "Toy Story",
+      "year_created": "1995",
+      "duration": "1h 21m",
+      "classification": "SU",
+      "rating": "8.3"
+   },
+   {
+      "rank": "76",
+      "title": "Braveheart",
+      "year_created": "1995",
+      "duration": "2h 58m",
+      "classification": "21",
+      "rating": "8.3"
+   },
+   {
+      "rank": "77",
+      "title": "Das Boot",
+      "year_created": "1981",
+      "duration": "2h 29m",
+      "classification": "18+",
+      "rating": "8.4"
+   },
+   {
+      "rank": "78",
+      "title": "Joker",
+      "year_created": "2019",
+      "duration": "2h 2m",
+      "classification": "17+",
+      "rating": "8.4"
+   },
+   {
+      "rank": "79",
+      "title": "Avengers: Endgame",
+      "year_created": "2019",
+      "duration": "3h 1m",
+      "classification": "13+",
+      "rating": "8.4"
+   },
+   {
+      "rank": "80",
+      "title": "Princess Mononoke",
+      "year_created": "1997",
+      "duration": "2h 14m",
+      "classification": "13+",
+      "rating": "8.3"
+   },
+   {
+      "rank": "81",
+      "title": "Good Will Hunting",
+      "year_created": "1997",
+      "duration": "2h 6m",
+      "classification": "17+",
+      "rating": "8.3"
+   },
+   {
+      "rank": "82",
+      "title": "Once Upon a Time in America",
+      "year_created": "1984",
+      "duration": "3h 49m",
+      "classification": "R",
+      "rating": "8.3"
+   },
+   {
+      "rank": "83",
+      "title": "Kimi no na wa",
+      "year_created": "2016",
+      "duration": "1h 46m",
+      "classification": "13+",
+      "rating": "8.4"
+   },
+   {
+      "rank": "84",
+      "title": "3 Idiots",
+      "year_created": "2009",
+      "duration": "2h 50m",
+      "classification": "13+",
+      "rating": "8.4"
+   },
+   {
+      "rank": "85",
+      "title": "Singin' in the Rain",
+      "year_created": "1952",
+      "duration": "1h 43m",
+      "classification": "R",
+      "rating": "8.3"
+   },
+   {
+      "rank": "86",
+      "title": "Tengoku to Jigoku",
+      "year_created": "1963",
+      "duration": "2h 23m",
+      "classification": "Not Rated",
+      "rating": "8.4"
+   },
+   {
+      "rank": "87",
+      "title": "Requiem for a Dream",
+      "year_created": "2000",
+      "duration": "1h 42m",
+      "classification": "17+",
+      "rating": "8.3"
+   },
+   {
+      "rank": "88",
+      "title": "Capernaum",
+      "year_created": "2018",
+      "duration": "2h 6m",
+      "classification": "13+",
+      "rating": "8.4"
+   },
+   {
+      "rank": "89",
+      "title": "Toy Story 3",
+      "year_created": "2010",
+      "duration": "1h 43m",
+      "classification": "SU",
+      "rating": "8.3"
+   },
+   {
+      "rank": "90",
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "year_created": "1983",
+      "duration": "2h 11m",
+      "classification": "PG",
+      "rating": "8.3"
+   },
+   {
+      "rank": "91",
+      "title": "Come and See",
+      "year_created": "1985",
+      "duration": "2h 22m",
+      "classification": "Not Rated",
+      "rating": "8.4"
+   },
+   {
+      "rank": "92",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year_created": "2004",
+      "duration": "1h 48m",
+      "classification": "16+",
+      "rating": "8.3"
+   },
+   {
+      "rank": "93",
+      "title": "2001: A Space Odyssey",
+      "year_created": "1968",
+      "duration": "2h 29m",
+      "classification": "R",
+      "rating": "8.3"
+   },
+   {
+      "rank": "94",
+      "title": "Jagten",
+      "year_created": "2012",
+      "duration": "1h 55m",
+      "classification": "R",
+      "rating": "8.3"
+   },
+   {
+      "rank": "95",
+      "title": "Reservoir Dogs",
+      "year_created": "1992",
+      "duration": "1h 39m",
+      "classification": "D",
+      "rating": "8.3"
+   },
+   {
+      "rank": "96",
+      "title": "Lawrence of Arabia",
+      "year_created": "1962",
+      "duration": "3h 38m",
+      "classification": "Approved",
+      "rating": "8.3"
+   },
+   {
+      "rank": "97",
+      "title": "Citizen Kane",
+      "year_created": "1941",
+      "duration": "1h 59m",
+      "classification": "A",
+      "rating": "8.3"
+   },
+   {
+      "rank": "98",
+      "title": "Ikiru",
+      "year_created": "1952",
+      "duration": "2h 23m",
+      "classification": "Not Rated",
+      "rating": "8.3"
+   },
+   {
+      "rank": "99",
+      "title": "M",
+      "year_created": "1931",
+      "duration": "1h 57m",
+      "classification": "Passed",
+      "rating": "8.3"
+   },
+   {
+      "rank": "100",
+      "title": "North by Northwest",
+      "year_created": "1959",
+      "duration": "2h 16m",
+      "classification": "Approved",
+      "rating": "8.3"
+   },
+   {
+      "rank": "101",
+      "title": "The Apartment",
+      "year_created": "1960",
+      "duration": "2h 5m",
+      "classification": "Approved",
+      "rating": "8.3"
+   },
+   {
+      "rank": "102",
+      "title": "Vertigo",
+      "year_created": "1958",
+      "duration": "2h 8m",
+      "classification": "PG",
+      "rating": "8.3"
+   },
+   {
+      "rank": "103",
+      "title": "Amelie",
+      "year_created": "2001",
+      "duration": "2h 2m",
+      "classification": "R",
+      "rating": "8.3"
+   },
+   {
+      "rank": "104",
+      "title": "Double Indemnity",
+      "year_created": "1944",
+      "duration": "1h 47m",
+      "classification": "Passed",
+      "rating": "8.3"
+   },
+   {
+      "rank": "105",
+      "title": "A Clockwork Orange",
+      "year_created": "1971",
+      "duration": "2h 16m",
+      "classification": "X",
+      "rating": "8.3"
+   },
+   {
+      "rank": "106",
+      "title": "Full Metal Jacket",
+      "year_created": "1987",
+      "duration": "1h 56m",
+      "classification": "D",
+      "rating": "8.3"
+   },
+   {
+      "rank": "107",
+      "title": "Scarface",
+      "year_created": "1983",
+      "duration": "2h 50m",
+      "classification": "18+",
+      "rating": "8.3"
+   },
+   {
+      "rank": "108",
+      "title": "Hamilton",
+      "year_created": "2020",
+      "duration": "2h 40m",
+      "classification": "17+",
+      "rating": "8.3"
+   },
+   {
+      "rank": "109",
+      "title": "Incendies",
+      "year_created": "2010",
+      "duration": "2h 11m",
+      "classification": "R",
+      "rating": "8.3"
+   },
+   {
+      "rank": "110",
+      "title": "Heat",
+      "year_created": "1995",
+      "duration": "2h 50m",
+      "classification": "21",
+      "rating": "8.3"
+   },
+   {
+      "rank": "111",
+      "title": "Up",
+      "year_created": "2009",
+      "duration": "1h 36m",
+      "classification": "SU",
+      "rating": "8.3"
+   },
+   {
+      "rank": "112",
+      "title": "To Kill a Mockingbird",
+      "year_created": "1962",
+      "duration": "2h 9m",
+      "classification": "Approved",
+      "rating": "8.3"
+   },
+   {
+      "rank": "113",
+      "title": "The Sting",
+      "year_created": "1973",
+      "duration": "2h 9m",
+      "classification": "PG",
+      "rating": "8.3"
+   },
+   {
+      "rank": "114",
+      "title": "A Separation",
+      "year_created": "2011",
+      "duration": "2h 3m",
+      "classification": "PG-13",
+      "rating": "8.3"
+   },
+   {
+      "rank": "115",
+      "title": "Metropolis",
+      "year_created": "1927",
+      "duration": "2h 33m",
+      "classification": "Not Rated",
+      "rating": "8.3"
+   },
+   {
+      "rank": "116",
+      "title": "Indiana Jones and the Last Crusade",
+      "year_created": "1989",
+      "duration": "2h 7m",
+      "classification": "PG-13",
+      "rating": "8.2"
+   },
+   {
+      "rank": "117",
+      "title": "Die Hard",
+      "year_created": "1988",
+      "duration": "2h 12m",
+      "classification": "20+",
+      "rating": "8.2"
+   },
+   {
+      "rank": "118",
+      "title": "L.A. Confidential",
+      "year_created": "1997",
+      "duration": "2h 18m",
+      "classification": "21",
+      "rating": "8.2"
+   },
+   {
+      "rank": "119",
+      "title": "Snatch",
+      "year_created": "2000",
+      "duration": "1h 44m",
+      "classification": "17+",
+      "rating": "8.2"
+   },
+   {
+      "rank": "120",
+      "title": "Ladri di biciclette",
+      "year_created": "1948",
+      "duration": "1h 29m",
+      "classification": "Not Rated",
+      "rating": "8.3"
+   },
+   {
+      "rank": "121",
+      "title": "Taxi Driver",
+      "year_created": "1976",
+      "duration": "1h 54m",
+      "classification": "21",
+      "rating": "8.2"
+   },
+   {
+      "rank": "122",
+      "title": "Like Stars on Earth",
+      "year_created": "2007",
+      "duration": "2h 45m",
+      "classification": "PG",
+      "rating": "8.3"
+   },
+   {
+      "rank": "123",
+      "title": "1917",
+      "year_created": "2019",
+      "duration": "1h 59m",
+      "classification": "13+",
+      "rating": "8.2"
+   },
+   {
+      "rank": "124",
+      "title": "Dangal",
+      "year_created": "2016",
+      "duration": "2h 41m",
+      "classification": "13+",
+      "rating": "8.3"
+   },
+   {
+      "rank": "125",
+      "title": "Downfall",
+      "year_created": "2004",
+      "duration": "2h 36m",
+      "classification": "R",
+      "rating": "8.2"
+   },
+   {
+      "rank": "126",
+      "title": "Top Gun: Maverick",
+      "year_created": "2022",
+      "duration": "2h 10m",
+      "classification": "SU",
+      "rating": "8.3"
+   },
+   {
+      "rank": "127",
+      "title": "Per qualche dollaro in piu",
+      "year_created": "1965",
+      "duration": "2h 12m",
+      "classification": "R",
+      "rating": "8.2"
+   },
+   {
+      "rank": "128",
+      "title": "Batman Begins",
+      "year_created": "2005",
+      "duration": "2h 20m",
+      "classification": "D",
+      "rating": "8.2"
+   },
+   {
+      "rank": "129",
+      "title": "The Kid",
+      "year_created": "1921",
+      "duration": "1h 8m",
+      "classification": "Passed",
+      "rating": "8.3"
+   },
+   {
+      "rank": "130",
+      "title": "Some Like It Hot",
+      "year_created": "1959",
+      "duration": "2h 1m",
+      "classification": "Passed",
+      "rating": "8.2"
+   },
+   {
+      "rank": "131",
+      "title": "The Father",
+      "year_created": "2020",
+      "duration": "1h 37m",
+      "classification": "13+",
+      "rating": "8.2"
+   },
+   {
+      "rank": "132",
+      "title": "The Wolf of Wall Street",
+      "year_created": "2013",
+      "duration": "3h",
+      "classification": "21+",
+      "rating": "8.2"
+   },
+   {
+      "rank": "133",
+      "title": "All About Eve",
+      "year_created": "1950",
+      "duration": "2h 18m",
+      "classification": "Passed",
+      "rating": "8.2"
+   },
+   {
+      "rank": "134",
+      "title": "Green Book",
+      "year_created": "2018",
+      "duration": "2h 10m",
+      "classification": "13+",
+      "rating": "8.2"
+   },
+   {
+      "rank": "135",
+      "title": "Judgment at Nuremberg",
+      "year_created": "1961",
+      "duration": "2h 59m",
+      "classification": "Approved",
+      "rating": "8.3"
+   },
+   {
+      "rank": "136",
+      "title": "The Truman Show",
+      "year_created": "1998",
+      "duration": "1h 43m",
+      "classification": "21",
+      "rating": "8.2"
+   },
+   {
+      "rank": "137",
+      "title": "Ran",
+      "year_created": "1985",
+      "duration": "2h 42m",
+      "classification": "R",
+      "rating": "8.2"
+   },
+   {
+      "rank": "138",
+      "title": "Casino",
+      "year_created": "1995",
+      "duration": "2h 58m",
+      "classification": "21+",
+      "rating": "8.2"
+   },
+   {
+      "rank": "139",
+      "title": "There Will Be Blood",
+      "year_created": "2007",
+      "duration": "2h 38m",
+      "classification": "18+",
+      "rating": "8.2"
+   },
+   {
+      "rank": "140",
+      "title": "Pan's Labyrinth",
+      "year_created": "2006",
+      "duration": "1h 58m",
+      "classification": "R",
+      "rating": "8.2"
+   },
+   {
+      "rank": "141",
+      "title": "Shutter Island",
+      "year_created": "2010",
+      "duration": "2h 18m",
+      "classification": "21",
+      "rating": "8.2"
+   },
+   {
+      "rank": "142",
+      "title": "Unforgiven",
+      "year_created": "1992",
+      "duration": "2h 10m",
+      "classification": "R",
+      "rating": "8.2"
+   },
+   {
+      "rank": "143",
+      "title": "The Sixth Sense",
+      "year_created": "1999",
+      "duration": "1h 47m",
+      "classification": "17+",
+      "rating": "8.2"
+   },
+   {
+      "rank": "144",
+      "title": "Jurassic Park",
+      "year_created": "1993",
+      "duration": "2h 7m",
+      "classification": "16+",
+      "rating": "8.2"
+   },
+   {
+      "rank": "145",
+      "title": "A Beautiful Mind",
+      "year_created": "2001",
+      "duration": "2h 15m",
+      "classification": "17+",
+      "rating": "8.2"
+   },
+   {
+      "rank": "146",
+      "title": "The Treasure of the Sierra Madre",
+      "year_created": "1948",
+      "duration": "2h 6m",
+      "classification": "Passed",
+      "rating": "8.2"
+   },
+   {
+      "rank": "147",
+      "title": "Yojinbo",
+      "year_created": "1961",
+      "duration": "1h 50m",
+      "classification": "Not Rated",
+      "rating": "8.2"
+   },
+   {
+      "rank": "148",
+      "title": "Monty Python and the Holy Grail",
+      "year_created": "1975",
+      "duration": "1h 31m",
+      "classification": "PG",
+      "rating": "8.2"
+   },
+   {
+      "rank": "149",
+      "title": "No Country for Old Men",
+      "year_created": "2007",
+      "duration": "2h 2m",
+      "classification": "21",
+      "rating": "8.2"
+   },
+   {
+      "rank": "150",
+      "title": "Kill Bill: Vol",
+      "year_created": "2003",
+      "duration": "1h 51m",
+      "classification": "21+",
+      "rating": "8.2"
+   },
+   {
+      "rank": "151",
+      "title": "The Great Escape",
+      "year_created": "1963",
+      "duration": "2h 52m",
+      "classification": "Approved",
+      "rating": "8.2"
+   },
+   {
+      "rank": "152",
+      "title": "The Thing",
+      "year_created": "1982",
+      "duration": "1h 49m",
+      "classification": "D",
+      "rating": "8.2"
+   },
+   {
+      "rank": "153",
+      "title": "Rashomon",
+      "year_created": "1950",
+      "duration": "1h 28m",
+      "classification": "Not Rated",
+      "rating": "8.2"
+   },
+   {
+      "rank": "154",
+      "title": "Finding Nemo",
+      "year_created": "2003",
+      "duration": "1h 40m",
+      "classification": "SU",
+      "rating": "8.2"
+   },
+   {
+      "rank": "155",
+      "title": "Spider-Man: No Way Home",
+      "year_created": "2021",
+      "duration": "2h 28m",
+      "classification": "SU",
+      "rating": "8.2"
+   },
+   {
+      "rank": "156",
+      "title": "The Elephant Man",
+      "year_created": "1980",
+      "duration": "2h 4m",
+      "classification": "PG",
+      "rating": "8.2"
+   },
+   {
+      "rank": "157",
+      "title": "Chinatown",
+      "year_created": "1974",
+      "duration": "2h 10m",
+      "classification": "R",
+      "rating": "8.2"
+   },
+   {
+      "rank": "158",
+      "title": "Raging Bull",
+      "year_created": "1980",
+      "duration": "2h 9m",
+      "classification": "R",
+      "rating": "8.1"
+   },
+   {
+      "rank": "159",
+      "title": "V for Vendetta",
+      "year_created": "2005",
+      "duration": "2h 12m",
+      "classification": "D",
+      "rating": "8.2"
+   },
+   {
+      "rank": "160",
+      "title": "Gone with the Wind",
+      "year_created": "1939",
+      "duration": "3h 58m",
+      "classification": "Passed",
+      "rating": "8.2"
+   },
+   {
+      "rank": "161",
+      "title": "Dial M for Murder",
+      "year_created": "1954",
+      "duration": "1h 45m",
+      "classification": "PG",
+      "rating": "8.2"
+   },
+   {
+      "rank": "162",
+      "title": "Howl's Moving Castle",
+      "year_created": "2004",
+      "duration": "1h 59m",
+      "classification": "7+",
+      "rating": "8.2"
+   },
+   {
+      "rank": "163",
+      "title": "Lock, Stock and Two Smoking Barrels",
+      "year_created": "1998",
+      "duration": "1h 47m",
+      "classification": "R",
+      "rating": "8.1"
+   },
+   {
+      "rank": "164",
+      "title": "Inside Out",
+      "year_created": "2015",
+      "duration": "1h 35m",
+      "classification": "SU",
+      "rating": "8.1"
+   },
+   {
+      "rank": "165",
+      "title": "El Secreto De Sus Ojos",
+      "year_created": "2009",
+      "duration": "2h 9m",
+      "classification": "R",
+      "rating": "8.2"
+   },
+   {
+      "rank": "166",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year_created": "2017",
+      "duration": "1h 55m",
+      "classification": "21",
+      "rating": "8.1"
+   },
+   {
+      "rank": "167",
+      "title": "Prisoners",
+      "year_created": "2013",
+      "duration": "2h 33m",
+      "classification": "17+",
+      "rating": "8.1"
+   },
+   {
+      "rank": "168",
+      "title": "Trainspotting",
+      "year_created": "1996",
+      "duration": "1h 33m",
+      "classification": "21",
+      "rating": "8.1"
+   },
+   {
+      "rank": "169",
+      "title": "The Bridge on the River Kwai",
+      "year_created": "1957",
+      "duration": "2h 41m",
+      "classification": "PG",
+      "rating": "8.1"
+   },
+   {
+      "rank": "170",
+      "title": "Guardians of the Galaxy Vol",
+      "year_created": "2023",
+      "duration": "2h 30m",
+      "classification": "13+",
+      "rating": "8.2"
+   },
+   {
+      "rank": "171",
+      "title": "Fargo",
+      "year_created": "1996",
+      "duration": "1h 38m",
+      "classification": "R",
+      "rating": "8.1"
+   },
+   {
+      "rank": "172",
+      "title": "Warrior",
+      "year_created": "2011",
+      "duration": "2h 20m",
+      "classification": "13+",
+      "rating": "8.1"
+   },
+   {
+      "rank": "173",
+      "title": "Gran Torino",
+      "year_created": "2008",
+      "duration": "1h 56m",
+      "classification": "R",
+      "rating": "8.1"
+   },
+   {
+      "rank": "174",
+      "title": "Catch Me If You Can",
+      "year_created": "2002",
+      "duration": "2h 21m",
+      "classification": "17+",
+      "rating": "8.1"
+   },
+   {
+      "rank": "175",
+      "title": "Tonari no Totoro",
+      "year_created": "1988",
+      "duration": "1h 26m",
+      "classification": "SU",
+      "rating": "8.1"
+   },
+   {
+      "rank": "176",
+      "title": "Million Dollar Baby",
+      "year_created": "2004",
+      "duration": "2h 12m",
+      "classification": "PG-13",
+      "rating": "8.1"
+   },
+   {
+      "rank": "177",
+      "title": "Bacheha-Ye aseman",
+      "year_created": "1997",
+      "duration": "1h 29m",
+      "classification": "21",
+      "rating": "8.2"
+   },
+   {
+      "rank": "178",
+      "title": "Klaus",
+      "year_created": "2019",
+      "duration": "1h 36m",
+      "classification": "7+",
+      "rating": "8.2"
+   },
+   {
+      "rank": "179",
+      "title": "Blade Runner",
+      "year_created": "1982",
+      "duration": "1h 57m",
+      "classification": "R",
+      "rating": "8.1"
+   },
+   {
+      "rank": "180",
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "year_created": "2011",
+      "duration": "2h 10m",
+      "classification": "13+",
+      "rating": "8.1"
+   },
+   {
+      "rank": "181",
+      "title": "The Gold Rush",
+      "year_created": "1925",
+      "duration": "1h 35m",
+      "classification": "Passed",
+      "rating": "8.1"
+   },
+   {
+      "rank": "182",
+      "title": "12 Years a Slave",
+      "year_created": "2013",
+      "duration": "2h 14m",
+      "classification": "R",
+      "rating": "8.1"
+   },
+   {
+      "rank": "183",
+      "title": "Before Sunrise",
+      "year_created": "1995",
+      "duration": "1h 41m",
+      "classification": "R",
+      "rating": "8.1"
+   },
+   {
+      "rank": "184",
+      "title": "The Grand Budapest Hotel",
+      "year_created": "2014",
+      "duration": "1h 39m",
+      "classification": "17+",
+      "rating": "8.1"
+   },
+   {
+      "rank": "185",
+      "title": "Ben-Hur",
+      "year_created": "1959",
+      "duration": "3h 32m",
+      "classification": "G",
+      "rating": "8.1"
+   },
+   {
+      "rank": "186",
+      "title": "Gone Girl",
+      "year_created": "2014",
+      "duration": "2h 29m",
+      "classification": "R",
+      "rating": "8.1"
+   },
+   {
+      "rank": "187",
+      "title": "On the Waterfront",
+      "year_created": "1954",
+      "duration": "1h 48m",
+      "classification": "Approved",
+      "rating": "8.1"
+   },
+   {
+      "rank": "188",
+      "title": "Barry Lyndon",
+      "year_created": "1975",
+      "duration": "3h 5m",
+      "classification": "PG",
+      "rating": "8.1"
+   },
+   {
+      "rank": "189",
+      "title": "The General",
+      "year_created": "1926",
+      "duration": "1h 18m",
+      "classification": "Passed",
+      "rating": "8.1"
+   },
+   {
+      "rank": "190",
+      "title": "Smultronstallet",
+      "year_created": "1957",
+      "duration": "1h 31m",
+      "classification": "17+",
+      "rating": "8.1"
+   },
+   {
+      "rank": "191",
+      "title": "In the Name of the Father",
+      "year_created": "1993",
+      "duration": "2h 13m",
+      "classification": "R",
+      "rating": "8.1"
+   },
+   {
+      "rank": "192",
+      "title": "The Deer Hunter",
+      "year_created": "1978",
+      "duration": "3h 3m",
+      "classification": "D",
+      "rating": "8.1"
+   },
+   {
+      "rank": "193",
+      "title": "Hacksaw Ridge",
+      "year_created": "2016",
+      "duration": "2h 19m",
+      "classification": "18+",
+      "rating": "8.1"
+   },
+   {
+      "rank": "194",
+      "title": "The Third Man",
+      "year_created": "1949",
+      "duration": "1h 44m",
+      "classification": "Approved",
+      "rating": "8.1"
+   },
+   {
+      "rank": "195",
+      "title": "Le salaire de la peur",
+      "year_created": "1953",
+      "duration": "2h 11m",
+      "classification": "Not Rated",
+      "rating": "8.2"
+   },
+   {
+      "rank": "196",
+      "title": "Memories of Murder",
+      "year_created": "2003",
+      "duration": "2h 11m",
+      "classification": "Not Rated",
+      "rating": "8.1"
+   },
+   {
+      "rank": "197",
+      "title": "Sherlock Jr",
+      "year_created": "1924",
+      "duration": "45m",
+      "classification": "Passed",
+      "rating": "8.2"
+   },
+   {
+      "rank": "198",
+      "title": "Relatos salvajes",
+      "year_created": "2014",
+      "duration": "2h 2m",
+      "classification": "R",
+      "rating": "8.1"
+   },
+   {
+      "rank": "199",
+      "title": "Mr. Smith Goes to Washington",
+      "year_created": "1939",
+      "duration": "2h 9m",
+      "classification": "Passed",
+      "rating": "8.1"
+   },
+   {
+      "rank": "200",
+      "title": "Mad Max: Fury Road",
+      "year_created": "2015",
+      "duration": "2h",
+      "classification": "16+",
+      "rating": "8.1"
+   },
+   {
+      "rank": "201",
+      "title": "Dead Poets Society",
+      "year_created": "1989",
+      "duration": "2h 8m",
+      "classification": "13+",
+      "rating": "8.1"
+   },
+   {
+      "rank": "202",
+      "title": "Mary and Max",
+      "year_created": "2009",
+      "duration": "1h 32m",
+      "classification": "Not Rated",
+      "rating": "8.1"
+   },
+   {
+      "rank": "203",
+      "title": "Monsters, Inc",
+      "year_created": "2001",
+      "duration": "1h 32m",
+      "classification": "SU",
+      "rating": "8.1"
+   },
+   {
+      "rank": "204",
+      "title": "How to Train Your Dragon",
+      "year_created": "2010",
+      "duration": "1h 38m",
+      "classification": "R13+",
+      "rating": "8.1"
+   },
+   {
+      "rank": "205",
+      "title": "Det sjunde inseglet",
+      "year_created": "1957",
+      "duration": "1h 36m",
+      "classification": "17+",
+      "rating": "8.1"
+   },
+   {
+      "rank": "206",
+      "title": "Jaws",
+      "year_created": "1975",
+      "duration": "2h 4m",
+      "classification": "PG",
+      "rating": "8.1"
+   },
+   {
+      "rank": "207",
+      "title": "Room",
+      "year_created": "2015",
+      "duration": "1h 58m",
+      "classification": "13+",
+      "rating": "8.1"
+   },
+   {
+      "rank": "208",
+      "title": "The Big Lebowski",
+      "year_created": "1998",
+      "duration": "1h 57m",
+      "classification": "R",
+      "rating": "8.1"
+   },
+   {
+      "rank": "209",
+      "title": "Tokyo monogatari",
+      "year_created": "1953",
+      "duration": "2h 16m",
+      "classification": "Not Rated",
+      "rating": "8.2"
+   },
+   {
+      "rank": "210",
+      "title": "Ford v Ferrari",
+      "year_created": "2019",
+      "duration": "2h 32m",
+      "classification": "13+",
+      "rating": "8.1"
+   },
+   {
+      "rank": "211",
+      "title": "La passion de Jeanne d'Arc",
+      "year_created": "1928",
+      "duration": "1h 50m",
+      "classification": "Passed",
+      "rating": "8.2"
+   },
+   {
+      "rank": "212",
+      "title": "Hotel Rwanda",
+      "year_created": "2004",
+      "duration": "2h 1m",
+      "classification": "D",
+      "rating": "8.1"
+   },
+   {
+      "rank": "213",
+      "title": "Ratatouille",
+      "year_created": "2007",
+      "duration": "1h 51m",
+      "classification": "R",
+      "rating": "8.1"
+   },
+   {
+      "rank": "214",
+      "title": "Rocky",
+      "year_created": "1976",
+      "duration": "2h",
+      "classification": "PG",
+      "rating": "8.1"
+   },
+   {
+      "rank": "215",
+      "title": "Platoon",
+      "year_created": "1986",
+      "duration": "2h",
+      "classification": "D",
+      "rating": "8.1"
+   },
+   {
+      "rank": "216",
+      "title": "Logan",
+      "year_created": "2017",
+      "duration": "2h 17m",
+      "classification": "17+",
+      "rating": "8.1"
+   },
+   {
+      "rank": "217",
+      "title": "Spotlight",
+      "year_created": "2015",
+      "duration": "2h 9m",
+      "classification": "13+",
+      "rating": "8.1"
+   },
+   {
+      "rank": "218",
+      "title": "Jai Bhim",
+      "year_created": "2021",
+      "duration": "2h 44m",
+      "classification": "16+",
+      "rating": "8.8"
+   },
+   {
+      "rank": "219",
+      "title": "The Terminator",
+      "year_created": "1984",
+      "duration": "1h 47m",
+      "classification": "D",
+      "rating": "8.1"
+   },
+   {
+      "rank": "220",
+      "title": "Rush",
+      "year_created": "2013",
+      "duration": "2h 3m",
+      "classification": "R",
+      "rating": "8.1"
+   },
+   {
+      "rank": "221",
+      "title": "Before Sunset",
+      "year_created": "2004",
+      "duration": "1h 20m",
+      "classification": "R",
+      "rating": "8.1"
+   },
+   {
+      "rank": "222",
+      "title": "Stand by Me",
+      "year_created": "1986",
+      "duration": "1h 29m",
+      "classification": "17+",
+      "rating": "8.1"
+   },
+   {
+      "rank": "223",
+      "title": "Network",
+      "year_created": "1976",
+      "duration": "2h 1m",
+      "classification": "R",
+      "rating": "8.1"
+   },
+   {
+      "rank": "224",
+      "title": "Into the Wild",
+      "year_created": "2007",
+      "duration": "2h 28m",
+      "classification": "21",
+      "rating": "8.1"
+   },
+   {
+      "rank": "225",
+      "title": "The Wizard of Oz",
+      "year_created": "1939",
+      "duration": "1h 42m",
+      "classification": "13+",
+      "rating": "8.1"
+   },
+   {
+      "rank": "226",
+      "title": "The Best Years of Our Lives",
+      "year_created": "1946",
+      "duration": "2h 50m",
+      "classification": "Approved",
+      "rating": "8.1"
+   },
+   {
+      "rank": "227",
+      "title": "La haine",
+      "year_created": "1995",
+      "duration": "1h 38m",
+      "classification": "Not Rated",
+      "rating": "8.1"
+   },
+   {
+      "rank": "228",
+      "title": "The Exorcist",
+      "year_created": "1973",
+      "duration": "2h 2m",
+      "classification": "D",
+      "rating": "8.1"
+   },
+   {
+      "rank": "229",
+      "title": "The Incredibles",
+      "year_created": "2004",
+      "duration": "1h 55m",
+      "classification": "R",
+      "rating": "8.0"
+   },
+   {
+      "rank": "230",
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year_created": "2003",
+      "duration": "2h 23m",
+      "classification": "17+",
+      "rating": "8.1"
+   },
+   {
+      "rank": "231",
+      "title": "To Be or Not to Be",
+      "year_created": "1942",
+      "duration": "1h 39m",
+      "classification": "Passed",
+      "rating": "8.2"
+   },
+   {
+      "rank": "232",
+      "title": "Groundhog Day",
+      "year_created": "1993",
+      "duration": "1h 41m",
+      "classification": "17+",
+      "rating": "8.0"
+   },
+   {
+      "rank": "233",
+      "title": "Babam ve Oglum",
+      "year_created": "2005",
+      "duration": "1h 52m",
+      "classification": "Not Rated",
+      "rating": "8.2"
+   },
+   {
+      "rank": "234",
+      "title": "The Grapes of Wrath",
+      "year_created": "1940",
+      "duration": "2h 9m",
+      "classification": "Passed",
+      "rating": "8.1"
+   },
+   {
+      "rank": "235",
+      "title": "La battaglia di Algeri",
+      "year_created": "1966",
+      "duration": "2h 1m",
+      "classification": "Not Rated",
+      "rating": "8.1"
+   },
+   {
+      "rank": "236",
+      "title": "Hachi: A Dog's Tale",
+      "year_created": "2009",
+      "duration": "1h 33m",
+      "classification": "G",
+      "rating": "8.1"
+   },
+   {
+      "rank": "237",
+      "title": "Ah-ga-ssi",
+      "year_created": "2016",
+      "duration": "2h 25m",
+      "classification": "Not Rated",
+      "rating": "8.1"
+   },
+   {
+      "rank": "238",
+      "title": "Pather Panchali",
+      "year_created": "1955",
+      "duration": "2h 5m",
+      "classification": "Not Rated",
+      "rating": "8.2"
+   },
+   {
+      "rank": "239",
+      "title": "Amores perros",
+      "year_created": "2000",
+      "duration": "2h 34m",
+      "classification": "R",
+      "rating": "8.1"
+   },
+   {
+      "rank": "240",
+      "title": "Rebecca",
+      "year_created": "1940",
+      "duration": "2h 10m",
+      "classification": "Approved",
+      "rating": "8.1"
+   },
+   {
+      "rank": "241",
+      "title": "Cool Hand Luke",
+      "year_created": "1967",
+      "duration": "2h 7m",
+      "classification": "GP",
+      "rating": "8.1"
+   },
+   {
+      "rank": "242",
+      "title": "The Sound of Music",
+      "year_created": "1965",
+      "duration": "2h 52m",
+      "classification": "21",
+      "rating": "8.1"
+   },
+   {
+      "rank": "243",
+      "title": "It Happened One Night",
+      "year_created": "1934",
+      "duration": "1h 45m",
+      "classification": "Passed",
+      "rating": "8.1"
+   },
+   {
+      "rank": "244",
+      "title": "Les quatre cents coups",
+      "year_created": "1959",
+      "duration": "1h 39m",
+      "classification": "Not Rated",
+      "rating": "8.1"
+   },
+   {
+      "rank": "245",
+      "title": "Persona",
+      "year_created": "1966",
+      "duration": "1h 25m",
+      "classification": "Not Rated",
+      "rating": "8.1"
+   },
+   {
+      "rank": "246",
+      "title": "The Help",
+      "year_created": "2011",
+      "duration": "2h 26m",
+      "classification": "13+",
+      "rating": "8.1"
+   },
+   {
+      "rank": "247",
+      "title": "The Iron Giant",
+      "year_created": "1999",
+      "duration": "1h 26m",
+      "classification": "PG",
+      "rating": "8.1"
+   },
+   {
+      "rank": "248",
+      "title": "Life of Brian",
+      "year_created": "1979",
+      "duration": "1h 34m",
+      "classification": "D",
+      "rating": "8.0"
+   },
+   {
+      "rank": "249",
+      "title": "Aladdin",
+      "year_created": "1992",
+      "duration": "1h 30m",
+      "classification": "G",
+      "rating": "8.0"
+   },
+   {
+      "rank": "250",
+      "title": "Dances with Wolves",
+      "year_created": "1990",
+      "duration": "3h 1m",
+      "classification": "PG-13",
+      "rating": "8.0"
+   }
+]
