@@ -6,7 +6,7 @@ import json
 # list category untuk dijadikan url
 categories_url = [ 'business--events', 'food-and-drink--events', 'health--events', 'music--events', 'auto-boat-and-air--events', 'charity-and-causes--events', 'community--events', 'family-and-education--events', 'fashion--events', 'film-and-media--events', 'hobbies--events', 'home-and-lifestyle--events', 'arts--events', 'government--events', 'spirituality--events', 'school-activities--events', 'science-and-tech--events', 'holiday--events','sports-and-fitness--events','travel-and-outdoor--events','other--events']
 # code category
-categories_code = ['B','FD','H','M','ABA','CC','C','FE','F','FM','H','HL','A','G','S','SA','ST','Hl','SF','TO','O']
+categories_code = ['B','FD','H','M','ABA','CC','C','FE','F','FM','Ho','HL','A','G','S','SA','ST','Hl','SF','TO','O']
 # list kosong untuk ditulis ke json
 organizers = []
 events = []
