@@ -1,271 +1,367 @@
 [
   {
     "Book ID":"BOOK001",
-    "Author":"NailaAiniBahri"
+    "Author":"Naila Aini Bahri"
   },
   {
     "Book ID":"BOOK002",
-    "Author":"PatriciaAmmabelleDerwanto"
+    "Author":"Patricia Ammabelle Derwanto"
   },
   {
     "Book ID":"BOOK003",
-    "Author":"FaizahAdilaHusnaDalimunthe"
+    "Author":"Faizah Adila Husna Dalimunthe"
   },
   {
     "Book ID":"BOOK004",
-    "Author":"FatimahAzzahra"
+    "Author":"Fatimah Azzahra"
   },
   {
     "Book ID":"BOOK005",
-    "Author":"MutiaraSya'bani,"
+    "Author":"Mutiara Sya'bani"
   },
   {
     "Book ID":"BOOK006",
-    "Author":"ZazkiyaNurulAini,"
+    "Author":"Zazkiya Nurul Aini"
   },
   {
     "Book ID":"BOOK007",
-    "Author":"MaryamTazkiaM"
+    "Author":"Maryam Tazkia M."
   },
   {
     "Book ID":"BOOK008",
-    "Author":"NajlaNurdianyPutri"
+    "Author":"Najla Nurdiany Putri"
   },
   {
     "Book ID":"BOOK009",
-    "Author":"AcityaResthimaheningA"
+    "Author":"Acitya Resthimahening A."
   },
   {
     "Book ID":"BOOK010",
-    "Author":"NailaWafa'Syakira,HilyaFaizzatiM,FatimahAzzahra,NafisaMahdiya,danAyraneeDeweey"
+    "Author":"Naila Wafa' Syakira"
+  },
+  {
+    "Book ID":"BOOK010",
+    "Author":"Hilya Faizzati M."
+  },
+  {
+    "Book ID":"BOOK010",
+    "Author":"Fatimah Azzahra"
+  },
+  {
+    "Book ID":"BOOK010",
+    "Author":"Nafisa Mahdiya"
+  },
+  {
+    "Book ID":"BOOK010",
+    "Author":"dan Ayranee Deweey"
   },
   {
     "Book ID":"BOOK011",
-    "Author":"AlmiraAnnalia,"
+    "Author":"Almira Annalia"
   },
   {
     "Book ID":"BOOK012",
-    "Author":"AhmadZaydal-Malik"
+    "Author":"Ahmad Zayd al-Malik"
   },
   {
     "Book ID":"BOOK013",
-    "Author":"SyifaTsabitaWiangga"
+    "Author":"Syifa Tsabita Wiangga"
   },
   {
     "Book ID":"BOOK014",
-    "Author":"NauraAthaya"
+    "Author":"Naura Athaya"
   },
   {
     "Book ID":"BOOK015",
-    "Author":"FreyaAlzena,"
+    "Author":"Freya Alzena"
   },
   {
     "Book ID":"BOOK016",
-    "Author":"AyshaFaustineTirtayasa"
+    "Author":"Aysha Faustine Tirtayasa"
   },
   {
     "Book ID":"BOOK017",
-    "Author":"AmalliaLovyna"
+    "Author":"Amallia Lovyna"
   },
   {
     "Book ID":"BOOK018",
-    "Author":"FarizaAudreeKancana,"
+    "Author":"Fariza Audree Kancana"
   },
   {
     "Book ID":"BOOK019",
-    "Author":"NauraNuraqilaHafidzah,"
+    "Author":"Naura Nuraqila Hafidzah"
   },
   {
     "Book ID":"BOOK020",
-    "Author":"NauraNuraqilaHafidzah,"
+    "Author":"Naura Nuraqila Hafidzah"
   },
   {
     "Book ID":"BOOK021",
-    "Author":"RayyaIzarraAbqary"
+    "Author":"Rayya Izarra Abqary"
   },
   {
     "Book ID":"BOOK022",
-    "Author":"ArfanSyarifPrabowo"
+    "Author":"Arfan Syarif Prabowo"
   },
   {
     "Book ID":"BOOK023",
-    "Author":"SyifaTsabitaWiangga"
+    "Author":"Syifa Tsabita Wiangga"
   },
   {
     "Book ID":"BOOK025",
-    "Author":"NafisaMahdiya,ZahwaFathiyaDini,AnnaraSalianNandaSalombe,FaizaKarimatuzZahida,NailaWafa'Syakira"
+    "Author":"Nafisa Mahdiya"
+  },
+  {
+    "Book ID":"BOOK025",
+    "Author":"Zahwa Fathiya Dini"
+  },
+  {
+    "Book ID":"BOOK025",
+    "Author":"Annara Salian Nanda Salombe"
+  },
+  {
+    "Book ID":"BOOK025",
+    "Author":"Faiza Karimatuz Zahida"
+  },
+  {
+    "Book ID":"BOOK025",
+    "Author":"Naila Wafa' Syakira"
   },
   {
     "Book ID":"BOOK026",
-    "Author":"KalilaTyaraSemarang"
+    "Author":"Kalila Tyara Semarang"
   },
   {
     "Book ID":"BOOK027",
-    "Author":"QueennaraZahraSJ"
+    "Author":"Queennara Zahra S. J."
   },
   {
     "Book ID":"BOOK028",
-    "Author":"MutiaraSya'bani,"
+    "Author":"Mutiara Sya'bani"
   },
   {
     "Book ID":"BOOK029",
-    "Author":"NailaZhafiraPrameswari,"
+    "Author":"Naila Zhafira Prameswari"
   },
   {
     "Book ID":"BOOK030",
-    "Author":"DafaPasyaKhadafi,"
+    "Author":"Dafa Pasya Khadafi"
   },
   {
     "Book ID":"BOOK031",
-    "Author":"DahayuErinnaW"
+    "Author":"Dahayu Erinna W."
   },
   {
     "Book ID":"BOOK032",
-    "Author":"IlmaMa'qulIstima,"
+    "Author":"Ilma Ma'qul Istima"
   },
   {
     "Book ID":"BOOK033",
-    "Author":"KhaylaNazwa"
+    "Author":"Khayla Nazwa"
   },
   {
     "Book ID":"BOOK034",
-    "Author":"NazaAulyNurrahman,"
+    "Author":"Naza Auly Nurrahman"
   },
   {
     "Book ID":"BOOK035",
-    "Author":"DimitriaNareswari,"
+    "Author":"Dimitria Nareswari"
   },
   {
     "Book ID":"BOOK036",
-    "Author":"RahmiFitriyah,"
+    "Author":"Rahmi Fitriyah"
   },
   {
     "Book ID":"BOOK037",
-    "Author":"SyairaRahmaFazila,"
+    "Author":"Syaira Rahma Fazila"
   },
   {
     "Book ID":"BOOK039",
-    "Author":"NafisaMahdiya,"
+    "Author":"Nafisa Mahdiya"
   },
   {
     "Book ID":"BOOK040",
-    "Author":"DiezaKaylaZivanka"
+    "Author":"Dieza Kayla Zivanka"
   },
   {
     "Book ID":"BOOK041",
-    "Author":"FarizaAudreeKancana,"
+    "Author":"Fariza Audree Kancana"
   },
   {
     "Book ID":"BOOK042",
-    "Author":"ZharifahZora"
+    "Author":"Zharifah Zora"
   },
   {
     "Book ID":"BOOK044",
-    "Author":"NafisaMahdiya,"
+    "Author":"Nafisa Mahdiya"
   },
   {
     "Book ID":"BOOK045",
-    "Author":"NurAnisaNidatulHaq"
+    "Author":"Nur Anisa Nidatul Haq"
   },
   {
     "Book ID":"BOOK046",
-    "Author":"DhiyaaKhairaAlisha"
+    "Author":"Dhiyaa Khaira Alisha"
   },
   {
     "Book ID":"BOOK047",
-    "Author":"HafizhaQoulanTsaqila"
+    "Author":"Hafizha Qoulan Tsaqila"
   },
   {
     "Book ID":"BOOK048",
-    "Author":"SyifaTsabitaW,FreyaAlzena,RuruhNaindraA,NafisaMahdiya,danNailaWafa'Syakira"
+    "Author":"Syifa Tsabita W."
+  },
+  {
+    "Book ID":"BOOK048",
+    "Author":"Freya Alzena"
+  },
+  {
+    "Book ID":"BOOK048",
+    "Author":"Ruruh Naindra A."
+  },
+  {
+    "Book ID":"BOOK048",
+    "Author":"Nafisa Mahdiya"
+  },
+  {
+    "Book ID":"BOOK048",
+    "Author":"dan Naila Wafa' Syakira"
   },
   {
     "Book ID":"BOOK049",
-    "Author":"QuennarraZahra,"
+    "Author":"Quennarra Zahra"
   },
   {
     "Book ID":"BOOK050",
-    "Author":"MutiaraSya'bani"
+    "Author":"Mutiara Sya'bani"
   },
   {
     "Book ID":"BOOK051",
-    "Author":"HilyaFaizzatiMardliyah,"
+    "Author":"Hilya Faizzati Mardliyah"
   },
   {
     "Book ID":"BOOK052",
-    "Author":"AisyaNajwaKiranaAlenty"
+    "Author":"Aisya Najwa Kirana Alenty"
   },
   {
     "Book ID":"BOOK053",
-    "Author":"KhanzaKhairiyahAzahra,"
+    "Author":"Khanza Khairiyah Azahra"
   },
   {
     "Book ID":"BOOK054",
-    "Author":"ZahraLuthfiya,"
+    "Author":"Zahra Luthfiya"
   },
   {
     "Book ID":"BOOK055",
-    "Author":"ZaskiaTalitaSasikirani,"
+    "Author":"Zaskia Talita Sasikirani"
   },
   {
     "Book ID":"BOOK056",
-    "Author":"HatiBeningAsy-Syahiidah"
+    "Author":"Hati Bening Asy-Syahiidah"
   },
   {
     "Book ID":"BOOK057",
-    "Author":"AzkaRahilah,NafisaMahdiya,FaidzaAlya,RafisqyAbqory,danGhaissaniQueenzabina"
+    "Author":"Azka Rahilah"
+  },
+  {
+    "Book ID":"BOOK057",
+    "Author":"Nafisa Mahdiya"
+  },
+  {
+    "Book ID":"BOOK057",
+    "Author":"Faidza Alya"
+  },
+  {
+    "Book ID":"BOOK057",
+    "Author":"Rafisqy Abqory"
+  },
+  {
+    "Book ID":"BOOK057",
+    "Author":"dan Ghaissani Queenzabina"
   },
   {
     "Book ID":"BOOK058",
-    "Author":"KamilaDewi,QinastiAnnordia,MaritzaSafira,MahatmaAli,NadaChavela"
+    "Author":"Kamila Dewi"
+  },
+  {
+    "Book ID":"BOOK058",
+    "Author":"Qinasti Annordia"
+  },
+  {
+    "Book ID":"BOOK058",
+    "Author":"Maritza Safira"
+  },
+  {
+    "Book ID":"BOOK058",
+    "Author":"Mahatma Ali"
+  },
+  {
+    "Book ID":"BOOK058",
+    "Author":"Nada Chavela"
   },
   {
     "Book ID":"BOOK059",
-    "Author":"NailaWafa'Syakira"
+    "Author":"Naila Wafa' Syakira"
   },
   {
     "Book ID":"BOOK060",
-    "Author":"HanaFahiratul"
+    "Author":"Hana Fahiratul"
   },
   {
     "Book ID":"BOOK062",
-    "Author":"RayqhaLubnaZSA,"
+    "Author":"Rayqha Lubna Z. S. A."
   },
   {
     "Book ID":"BOOK063",
-    "Author":"ZahraLuthfiya,"
+    "Author":"Zahra Luthfiya"
   },
   {
     "Book ID":"BOOK065",
-    "Author":"KhansaHumairaDyfka"
+    "Author":"Khansa Humaira Dyfka"
   },
   {
     "Book ID":"BOOK066",
-    "Author":"FildzahHanifaSyukra"
+    "Author":"Fildzah Hanifa Syukra"
   },
   {
     "Book ID":"BOOK067",
-    "Author":"MeghanAlesha"
+    "Author":"Meghan Alesha"
   },
   {
     "Book ID":"BOOK068",
-    "Author":"DhiyaaKhairaAlisha"
+    "Author":"Dhiyaa Khaira Alisha"
   },
   {
     "Book ID":"BOOK069",
-    "Author":"AnnisaMaharani"
+    "Author":"Annisa Maharani"
   },
   {
     "Book ID":"BOOK071",
-    "Author":"NafisaMahdiya,FaizaKarimatuzZ,FreyaAlzenaP,AishaGhaziya,YudhaOpriYansyah"
+    "Author":"Nafisa Mahdiya"
+  },
+  {
+    "Book ID":"BOOK071",
+    "Author":"Faiza Karimatuz Z."
+  },
+  {
+    "Book ID":"BOOK071",
+    "Author":"Freya Alzena P."
+  },
+  {
+    "Book ID":"BOOK071",
+    "Author":"Aisha Ghaziya"
+  },
+  {
+    "Book ID":"BOOK071",
+    "Author":"Yudha Opri Yansyah"
   },
   {
     "Book ID":"BOOK072",
-    "Author":"NajlaNurdiany"
+    "Author":"Najla Nurdiany"
   },
   {
     "Book ID":"BOOK073",
-    "Author":"DhifaSephiParameswari"
+    "Author":"Dhifa Sephi Parameswari"
   },
   {
     "Book ID":"BOOK074",
@@ -273,46 +369,46 @@
   },
   {
     "Book ID":"BOOK075",
-    "Author":"KairaAlisha"
+    "Author":"Kaira Alisha"
   },
   {
     "Book ID":"BOOK076",
-    "Author":"MutiaraSya'bani"
+    "Author":"Mutiara Sya'bani"
   },
   {
     "Book ID":"BOOK077",
-    "Author":"JihanLathifah"
+    "Author":"Jihan Lathifah"
   },
   {
     "Book ID":"BOOK078",
-    "Author":"RaneKiranAnjali"
+    "Author":"Rane Kiran Anjali"
   },
   {
     "Book ID":"BOOK079",
-    "Author":"ZahwaFathiyaDini"
+    "Author":"Zahwa Fathiya Dini"
   },
   {
     "Book ID":"BOOK080",
-    "Author":"PrincessaCarisma,"
+    "Author":"Princessa Carisma"
   },
   {
     "Book ID":"BOOK081",
-    "Author":"SyifaTsabitaWiangga,"
+    "Author":"Syifa Tsabita Wiangga"
   },
   {
     "Book ID":"BOOK082",
-    "Author":"NailaWafa'Syakira,"
+    "Author":"Naila Wafa' Syakira"
   },
   {
     "Book ID":"BOOK083",
-    "Author":"KiranaRirisSantosa"
+    "Author":"Kirana Riris Santosa"
   },
   {
     "Book ID":"BOOK084",
-    "Author":"NauraNuraqilaNurhafidzah,"
+    "Author":"Naura Nuraqila Nurhafidzah"
   },
   {
     "Book ID":"BOOK085",
-    "Author":"NajwaFitrianiDewi"
+    "Author":"Najwa Fitriani Dewi"
   }
 ]
