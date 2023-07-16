@@ -1,0 +1,6571 @@
+{
+    "players": [
+        {
+            "name": "Trae Young",
+            "teams": "ATL",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "89",
+            "three": "84",
+            "dunk": "30"
+        },
+        {
+            "name": "Dejounte Murray",
+            "teams": "ATL",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "84",
+            "three": "79",
+            "dunk": "75"
+        },
+        {
+            "name": "Clint Capela",
+            "teams": "ATL",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "83",
+            "three": "25",
+            "dunk": "80"
+        },
+        {
+            "name": "Onyeka Okongwu",
+            "teams": "ATL",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "81",
+            "three": "60",
+            "dunk": "80"
+        },
+        {
+            "name": "De\u2019Andre Hunter",
+            "teams": "ATL",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "80",
+            "three": "79",
+            "dunk": "70"
+        },
+        {
+            "name": "Saddiq Bey",
+            "teams": "ATL",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "79",
+            "three": "80",
+            "dunk": "60"
+        },
+        {
+            "name": "Bogdan Bogdanovic",
+            "teams": "ATL",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "79",
+            "three": "84",
+            "dunk": "65"
+        },
+        {
+            "name": "AJ Griffin",
+            "teams": "ATL",
+            "position": [
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "76",
+            "three": "82",
+            "dunk": "85"
+        },
+        {
+            "name": "Jalen Johnson",
+            "teams": "ATL",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "76",
+            "three": "72",
+            "dunk": "65"
+        },
+        {
+            "name": "Bruno Fernando",
+            "teams": "ATL",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "75",
+            "three": "42",
+            "dunk": "78"
+        },
+        {
+            "name": "Patty Mills",
+            "teams": "ATL",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 0,
+            "overall": "74",
+            "three": "80",
+            "dunk": "25"
+        },
+        {
+            "name": "Garrison Mathews",
+            "teams": "ATL",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "73",
+            "three": "78",
+            "dunk": "55"
+        },
+        {
+            "name": "Trent Forrest",
+            "teams": "ATL",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "71",
+            "three": "62",
+            "dunk": "60"
+        },
+        {
+            "name": "Vit Krejci",
+            "teams": "ATL",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "70",
+            "three": "75",
+            "dunk": "70"
+        },
+        {
+            "name": "Tyrese Martin",
+            "teams": "ATL",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "69",
+            "three": "75",
+            "dunk": "60"
+        },
+        {
+            "name": "Jayson Tatum",
+            "teams": "BOS",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "95",
+            "three": "87",
+            "dunk": "89"
+        },
+        {
+            "name": "Jaylen Brown",
+            "teams": "BOS",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "90",
+            "three": "83",
+            "dunk": "89"
+        },
+        {
+            "name": "Kristaps Porzingis",
+            "teams": "BOS",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 7,
+            "heightInches": 3,
+            "overall": "87",
+            "three": "82",
+            "dunk": "75"
+        },
+        {
+            "name": "Robert Williams III",
+            "teams": "BOS",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "83",
+            "three": "25",
+            "dunk": "75"
+        },
+        {
+            "name": "Malcolm Brogdon",
+            "teams": "BOS",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "83",
+            "three": "89",
+            "dunk": "70"
+        },
+        {
+            "name": "Al Horford",
+            "teams": "BOS",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "80",
+            "three": "87",
+            "dunk": "65"
+        },
+        {
+            "name": "Derrick White",
+            "teams": "BOS",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "80",
+            "three": "81",
+            "dunk": "55"
+        },
+        {
+            "name": "Blake Griffin",
+            "teams": "BOS",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "75",
+            "three": "78",
+            "dunk": "75"
+        },
+        {
+            "name": "Dalano Banton",
+            "teams": "BOS",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "75",
+            "three": "74",
+            "dunk": "65"
+        },
+        {
+            "name": "Sam Hauser",
+            "teams": "BOS",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "75",
+            "three": "85",
+            "dunk": "60"
+        },
+        {
+            "name": "Luke Kornet",
+            "teams": "BOS",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 2,
+            "overall": "74",
+            "three": "70",
+            "dunk": "60"
+        },
+        {
+            "name": "Payton Pritchard",
+            "teams": "BOS",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "73",
+            "three": "78",
+            "dunk": "35"
+        },
+        {
+            "name": "Oshae Brissett",
+            "teams": "BOS",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "73",
+            "three": "74",
+            "dunk": "75"
+        },
+        {
+            "name": "Justin Champagnie",
+            "teams": "BOS",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "70",
+            "three": "75",
+            "dunk": "75"
+        },
+        {
+            "name": "Mfiondu Kabengele",
+            "teams": "BOS",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "70",
+            "three": "58",
+            "dunk": "80"
+        },
+        {
+            "name": "JD Davison",
+            "teams": "BOS",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "69",
+            "three": "71",
+            "dunk": "85"
+        },
+        {
+            "name": "Mikal Bridges",
+            "teams": "BKN",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "87",
+            "three": "86",
+            "dunk": "75"
+        },
+        {
+            "name": "Nicolas Claxton",
+            "teams": "BKN",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "84",
+            "three": "67",
+            "dunk": "75"
+        },
+        {
+            "name": "Spencer Dinwiddie",
+            "teams": "BKN",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "83",
+            "three": "82",
+            "dunk": "55"
+        },
+        {
+            "name": "Cameron Johnson",
+            "teams": "BKN",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "80",
+            "three": "85",
+            "dunk": "60"
+        },
+        {
+            "name": "Ben Simmons",
+            "teams": "BKN",
+            "position": [
+                "PG",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "78",
+            "three": "50",
+            "dunk": "86"
+        },
+        {
+            "name": "Cameron Thomas",
+            "teams": "BKN",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "78",
+            "three": "82",
+            "dunk": "75"
+        },
+        {
+            "name": "Dorian Finney-Smith",
+            "teams": "BKN",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "77",
+            "three": "77",
+            "dunk": "84"
+        },
+        {
+            "name": "Lonnie Walker IV",
+            "teams": "BKN",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "76",
+            "three": "82",
+            "dunk": "75"
+        },
+        {
+            "name": "Edmond Sumner",
+            "teams": "BKN",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "76",
+            "three": "79",
+            "dunk": "80"
+        },
+        {
+            "name": "Royce O\u2019Neale",
+            "teams": "BKN",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "76",
+            "three": "83",
+            "dunk": "70"
+        },
+        {
+            "name": "Dennis Smith Jr.",
+            "teams": "BKN",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "74",
+            "three": "70",
+            "dunk": "85"
+        },
+        {
+            "name": "Day\u2019Ron Sharpe",
+            "teams": "BKN",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "73",
+            "three": "29",
+            "dunk": "70"
+        },
+        {
+            "name": "David Duke Jr.",
+            "teams": "BKN",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "72",
+            "three": "69",
+            "dunk": "60"
+        },
+        {
+            "name": "Raiquan Gray",
+            "teams": "BKN",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "69",
+            "three": "77",
+            "dunk": "75"
+        },
+        {
+            "name": "LaMelo Ball",
+            "teams": "CHA",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "86",
+            "three": "81",
+            "dunk": "75"
+        },
+        {
+            "name": "Miles Bridges",
+            "teams": "CHA",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "83",
+            "three": "78",
+            "dunk": "91"
+        },
+        {
+            "name": "Terry Rozier III",
+            "teams": "CHA",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "81",
+            "three": "77",
+            "dunk": "75"
+        },
+        {
+            "name": "Kelly Oubre Jr.",
+            "teams": "CHA",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "80",
+            "three": "77",
+            "dunk": "84"
+        },
+        {
+            "name": "Gordon Hayward",
+            "teams": "CHA",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "79",
+            "three": "76",
+            "dunk": "75"
+        },
+        {
+            "name": "Mark Williams",
+            "teams": "CHA",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "78",
+            "three": "36",
+            "dunk": "75"
+        },
+        {
+            "name": "Nick Richards",
+            "teams": "CHA",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "78",
+            "three": "25",
+            "dunk": "80"
+        },
+        {
+            "name": "P.J. Washington",
+            "teams": "CHA",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "77",
+            "three": "78",
+            "dunk": "80"
+        },
+        {
+            "name": "Cody Martin",
+            "teams": "CHA",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "75",
+            "three": "82",
+            "dunk": "75"
+        },
+        {
+            "name": "Sviatoslav Mykhailiuk",
+            "teams": "CHA",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "74",
+            "three": "83",
+            "dunk": "55"
+        },
+        {
+            "name": "Theo Maledon",
+            "teams": "CHA",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "74",
+            "three": "77",
+            "dunk": "50"
+        },
+        {
+            "name": "James Bouknight",
+            "teams": "CHA",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "72",
+            "three": "73",
+            "dunk": "85"
+        },
+        {
+            "name": "Bryce McGowens",
+            "teams": "CHA",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "72",
+            "three": "73",
+            "dunk": "80"
+        },
+        {
+            "name": "J.T. Thor",
+            "teams": "CHA",
+            "position": [
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "72",
+            "three": "74",
+            "dunk": "70"
+        },
+        {
+            "name": "Kai Jones",
+            "teams": "CHA",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "72",
+            "three": "69",
+            "dunk": "80"
+        },
+        {
+            "name": "Kobi Simmons",
+            "teams": "CHA",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "68",
+            "three": "69",
+            "dunk": "70"
+        },
+        {
+            "name": "Xavier Sneed",
+            "teams": "CHA",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "68",
+            "three": "73",
+            "dunk": "70"
+        },
+        {
+            "name": "Zach LaVine",
+            "teams": "CHI",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "87",
+            "three": "82",
+            "dunk": "95"
+        },
+        {
+            "name": "DeMar DeRozan",
+            "teams": "CHI",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "87",
+            "three": "77",
+            "dunk": "84"
+        },
+        {
+            "name": "Nikola Vucevic",
+            "teams": "CHI",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "84",
+            "three": "78",
+            "dunk": "65"
+        },
+        {
+            "name": "Lonzo Ball",
+            "teams": "CHI",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "82",
+            "three": "84",
+            "dunk": "75"
+        },
+        {
+            "name": "Andre Drummond",
+            "teams": "CHI",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "78",
+            "three": "47",
+            "dunk": "85"
+        },
+        {
+            "name": "Patrick Williams",
+            "teams": "CHI",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "77",
+            "three": "85",
+            "dunk": "65"
+        },
+        {
+            "name": "Javonte Green",
+            "teams": "CHI",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "77",
+            "three": "82",
+            "dunk": "85"
+        },
+        {
+            "name": "Alex Caruso",
+            "teams": "CHI",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "76",
+            "three": "80",
+            "dunk": "75"
+        },
+        {
+            "name": "Coby White",
+            "teams": "CHI",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "76",
+            "three": "81",
+            "dunk": "65"
+        },
+        {
+            "name": "Derrick Jones Jr.",
+            "teams": "CHI",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "76",
+            "three": "77",
+            "dunk": "94"
+        },
+        {
+            "name": "Torrey Craig",
+            "teams": "CHI",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "75",
+            "three": "82",
+            "dunk": "60"
+        },
+        {
+            "name": "Jevon Carter",
+            "teams": "CHI",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "75",
+            "three": "86",
+            "dunk": "35"
+        },
+        {
+            "name": "Ayo Dosunmu",
+            "teams": "CHI",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "74",
+            "three": "74",
+            "dunk": "75"
+        },
+        {
+            "name": "Terry Taylor",
+            "teams": "CHI",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "74",
+            "three": "74",
+            "dunk": "45"
+        },
+        {
+            "name": "Dalen Terry",
+            "teams": "CHI",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "73",
+            "three": "74",
+            "dunk": "80"
+        },
+        {
+            "name": "Justin Lewis",
+            "teams": "CHI",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "67",
+            "three": "72",
+            "dunk": "75"
+        },
+        {
+            "name": "Carlik Jones",
+            "teams": "CHI",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "67",
+            "three": "74",
+            "dunk": "30"
+        },
+        {
+            "name": "Donovan Mitchell",
+            "teams": "CLE",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "92",
+            "three": "88",
+            "dunk": "92"
+        },
+        {
+            "name": "Darius Garland",
+            "teams": "CLE",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "87",
+            "three": "85",
+            "dunk": "65"
+        },
+        {
+            "name": "Evan Mobley",
+            "teams": "CLE",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "86",
+            "three": "66",
+            "dunk": "80"
+        },
+        {
+            "name": "Jarrett Allen",
+            "teams": "CLE",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "84",
+            "three": "63",
+            "dunk": "80"
+        },
+        {
+            "name": "Caris LeVert",
+            "teams": "CLE",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "77",
+            "three": "81",
+            "dunk": "75"
+        },
+        {
+            "name": "Isaac Okoro",
+            "teams": "CLE",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "76",
+            "three": "79",
+            "dunk": "75"
+        },
+        {
+            "name": "Max Strus",
+            "teams": "CLE",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "76",
+            "three": "77",
+            "dunk": "65"
+        },
+        {
+            "name": "Ricky Rubio",
+            "teams": "CLE",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "75",
+            "three": "70",
+            "dunk": "25"
+        },
+        {
+            "name": "Ty Jerome",
+            "teams": "CLE",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "75",
+            "three": "82",
+            "dunk": "45"
+        },
+        {
+            "name": "Raul Neto",
+            "teams": "CLE",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "74",
+            "three": "75",
+            "dunk": "25"
+        },
+        {
+            "name": "Danny Green",
+            "teams": "CLE",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "73",
+            "three": "82",
+            "dunk": "45"
+        },
+        {
+            "name": "Dean Wade",
+            "teams": "CLE",
+            "position": [
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "73",
+            "three": "81",
+            "dunk": "75"
+        },
+        {
+            "name": "Georges Niang",
+            "teams": "CLE",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "73",
+            "three": "84",
+            "dunk": "50"
+        },
+        {
+            "name": "Damian Jones",
+            "teams": "CLE",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "73",
+            "three": "67",
+            "dunk": "75"
+        },
+        {
+            "name": "Dylan Windler",
+            "teams": "CLE",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "71",
+            "three": "77",
+            "dunk": "50"
+        },
+        {
+            "name": "Sam Merrill",
+            "teams": "CLE",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "71",
+            "three": "78",
+            "dunk": "45"
+        },
+        {
+            "name": "Isaiah Mobley",
+            "teams": "CLE",
+            "position": [
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "70",
+            "three": "69",
+            "dunk": "71"
+        },
+        {
+            "name": "Mamadi Diakite",
+            "teams": "CLE",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "69",
+            "three": "66",
+            "dunk": "75"
+        },
+        {
+            "name": "Luka Doncic",
+            "teams": "DAL",
+            "position": [
+                "PG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "97",
+            "three": "87",
+            "dunk": "75"
+        },
+        {
+            "name": "Kyrie Irving",
+            "teams": "DAL",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "91",
+            "three": "84",
+            "dunk": "30"
+        },
+        {
+            "name": "Christian Wood",
+            "teams": "DAL",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "82",
+            "three": "80",
+            "dunk": "85"
+        },
+        {
+            "name": "Tim Hardaway Jr.",
+            "teams": "DAL",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "78",
+            "three": "84",
+            "dunk": "78"
+        },
+        {
+            "name": "Jaden Hardy",
+            "teams": "DAL",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "77",
+            "three": "81",
+            "dunk": "80"
+        },
+        {
+            "name": "Dwight Powell",
+            "teams": "DAL",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "77",
+            "three": "78",
+            "dunk": "65"
+        },
+        {
+            "name": "Seth Curry",
+            "teams": "DAL",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "77",
+            "three": "86",
+            "dunk": "36"
+        },
+        {
+            "name": "JaVale McGee",
+            "teams": "DAL",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "76",
+            "three": "55",
+            "dunk": "85"
+        },
+        {
+            "name": "Grant Williams",
+            "teams": "DAL",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "76",
+            "three": "84",
+            "dunk": "60"
+        },
+        {
+            "name": "Josh Green",
+            "teams": "DAL",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "76",
+            "three": "83",
+            "dunk": "80"
+        },
+        {
+            "name": "Richaun Holmes",
+            "teams": "DAL",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "75",
+            "three": "62",
+            "dunk": "75"
+        },
+        {
+            "name": "Maxi Kleber",
+            "teams": "DAL",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "75",
+            "three": "79",
+            "dunk": "75"
+        },
+        {
+            "name": "Markieff Morris",
+            "teams": "DAL",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "74",
+            "three": "85",
+            "dunk": "67"
+        },
+        {
+            "name": "Frank Ntilikina",
+            "teams": "DAL",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "72",
+            "three": "68",
+            "dunk": "45"
+        },
+        {
+            "name": "Theo Pinson",
+            "teams": "DAL",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "72",
+            "three": "82",
+            "dunk": "75"
+        },
+        {
+            "name": "Dante Exum",
+            "teams": "DAL",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "71",
+            "three": "75",
+            "dunk": "60"
+        },
+        {
+            "name": "McKinley Wright IV",
+            "teams": "DAL",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 5,
+            "heightInches": 11,
+            "overall": "68",
+            "three": "76",
+            "dunk": "50"
+        },
+        {
+            "name": "A.J. Lawson",
+            "teams": "DAL",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "67",
+            "three": "75",
+            "dunk": "75"
+        },
+        {
+            "name": "Nikola Jokic",
+            "teams": "DEN",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "97",
+            "three": "84",
+            "dunk": "75"
+        },
+        {
+            "name": "Jamal Murray",
+            "teams": "DEN",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "84",
+            "three": "84",
+            "dunk": "82"
+        },
+        {
+            "name": "Michael Porter Jr.",
+            "teams": "DEN",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "83",
+            "three": "86",
+            "dunk": "80"
+        },
+        {
+            "name": "Aaron Gordon",
+            "teams": "DEN",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "83",
+            "three": "80",
+            "dunk": "95"
+        },
+        {
+            "name": "Kentavious Caldwell-Pope",
+            "teams": "DEN",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "77",
+            "three": "87",
+            "dunk": "73"
+        },
+        {
+            "name": "Reggie Jackson",
+            "teams": "DEN",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "75",
+            "three": "77",
+            "dunk": "65"
+        },
+        {
+            "name": "Zeke Nnaji",
+            "teams": "DEN",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "75",
+            "three": "75",
+            "dunk": "70"
+        },
+        {
+            "name": "Christian Braun",
+            "teams": "DEN",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "73",
+            "three": "84",
+            "dunk": "80"
+        },
+        {
+            "name": "Ish Smith",
+            "teams": "DEN",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 0,
+            "overall": "73",
+            "three": "79",
+            "dunk": "30"
+        },
+        {
+            "name": "Justin Holiday",
+            "teams": "DEN",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "73",
+            "three": "81",
+            "dunk": "73"
+        },
+        {
+            "name": "Vlatko Cancar",
+            "teams": "DEN",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "73",
+            "three": "84",
+            "dunk": "65"
+        },
+        {
+            "name": "DeAndre Jordan",
+            "teams": "DEN",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "72",
+            "three": "25",
+            "dunk": "75"
+        },
+        {
+            "name": "Peyton Watson",
+            "teams": "DEN",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "71",
+            "three": "68",
+            "dunk": "65"
+        },
+        {
+            "name": "Collin Gillespie",
+            "teams": "DEN",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "68",
+            "three": "80",
+            "dunk": "54"
+        },
+        {
+            "name": "Braxton Key",
+            "teams": "DEN",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "67",
+            "three": "70",
+            "dunk": "75"
+        },
+        {
+            "name": "Cade Cunningham",
+            "teams": "DET",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "84",
+            "three": "78",
+            "dunk": "75"
+        },
+        {
+            "name": "Bojan Bogdanovic",
+            "teams": "DET",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "82",
+            "three": "85",
+            "dunk": "70"
+        },
+        {
+            "name": "Jaden Ivey",
+            "teams": "DET",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "81",
+            "three": "77",
+            "dunk": "85"
+        },
+        {
+            "name": "Jalen Duren",
+            "teams": "DET",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "80",
+            "three": "35",
+            "dunk": "80"
+        },
+        {
+            "name": "James Wiseman",
+            "teams": "DET",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "79",
+            "three": "70",
+            "dunk": "75"
+        },
+        {
+            "name": "Monte Morris",
+            "teams": "DET",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "79",
+            "three": "83",
+            "dunk": "50"
+        },
+        {
+            "name": "Marvin Bagley III",
+            "teams": "DET",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "79",
+            "three": "70",
+            "dunk": "80"
+        },
+        {
+            "name": "Isaiah Stewart",
+            "teams": "DET",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "78",
+            "three": "75",
+            "dunk": "70"
+        },
+        {
+            "name": "Hamidou Diallo",
+            "teams": "DET",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "77",
+            "three": "60",
+            "dunk": "93"
+        },
+        {
+            "name": "Alec Burks",
+            "teams": "DET",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "77",
+            "three": "87",
+            "dunk": "69"
+        },
+        {
+            "name": "Joe Harris",
+            "teams": "DET",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "76",
+            "three": "86",
+            "dunk": "45"
+        },
+        {
+            "name": "Killian Hayes",
+            "teams": "DET",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "75",
+            "three": "70",
+            "dunk": "60"
+        },
+        {
+            "name": "Isaiah Livers",
+            "teams": "DET",
+            "position": [
+                "SG",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "74",
+            "three": "80",
+            "dunk": "65"
+        },
+        {
+            "name": "Rodney McGruder",
+            "teams": "DET",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "73",
+            "three": "84",
+            "dunk": "50"
+        },
+        {
+            "name": "Jared Rhoden",
+            "teams": "DET",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "69",
+            "three": "74",
+            "dunk": "70"
+        },
+        {
+            "name": "Buddy Boeheim",
+            "teams": "DET",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "68",
+            "three": "79",
+            "dunk": "60"
+        },
+        {
+            "name": "Stephen Curry",
+            "teams": "GSW",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "96",
+            "three": "99",
+            "dunk": "36"
+        },
+        {
+            "name": "Chris Paul",
+            "teams": "GSW",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 0,
+            "overall": "87",
+            "three": "81",
+            "dunk": "27"
+        },
+        {
+            "name": "Klay Thompson",
+            "teams": "GSW",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "86",
+            "three": "92",
+            "dunk": "65"
+        },
+        {
+            "name": "Draymond Green",
+            "teams": "GSW",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "83",
+            "three": "76",
+            "dunk": "65"
+        },
+        {
+            "name": "Andrew Wiggins",
+            "teams": "GSW",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "82",
+            "three": "84",
+            "dunk": "92"
+        },
+        {
+            "name": "Jonathan Kuminga",
+            "teams": "GSW",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "78",
+            "three": "81",
+            "dunk": "85"
+        },
+        {
+            "name": "Kevon Looney",
+            "teams": "GSW",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "78",
+            "three": "69",
+            "dunk": "70"
+        },
+        {
+            "name": "Gary Payton II",
+            "teams": "GSW",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "77",
+            "three": "79",
+            "dunk": "75"
+        },
+        {
+            "name": "JaMychal Green",
+            "teams": "GSW",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "77",
+            "three": "81",
+            "dunk": "70"
+        },
+        {
+            "name": "Dario Saric",
+            "teams": "GSW",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "76",
+            "three": "81",
+            "dunk": "70"
+        },
+        {
+            "name": "Andre Iguodala",
+            "teams": "GSW",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "75",
+            "three": "69",
+            "dunk": "70"
+        },
+        {
+            "name": "Cory Joseph",
+            "teams": "GSW",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "74",
+            "three": "81",
+            "dunk": "30"
+        },
+        {
+            "name": "Moses Moody",
+            "teams": "GSW",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "73",
+            "three": "77",
+            "dunk": "70"
+        },
+        {
+            "name": "Anthony Lamb",
+            "teams": "GSW",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "73",
+            "three": "81",
+            "dunk": "65"
+        },
+        {
+            "name": "Lester Qui\u00f1ones",
+            "teams": "GSW",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "67",
+            "three": "76",
+            "dunk": "65"
+        },
+        {
+            "name": "Jalen Green",
+            "teams": "HOU",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "84",
+            "three": "82",
+            "dunk": "91"
+        },
+        {
+            "name": "Fred VanVleet",
+            "teams": "HOU",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 0,
+            "overall": "83",
+            "three": "79",
+            "dunk": "35"
+        },
+        {
+            "name": "Alperen Sengun",
+            "teams": "HOU",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "83",
+            "three": "73",
+            "dunk": "80"
+        },
+        {
+            "name": "Kevin Porter Jr.",
+            "teams": "HOU",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "81",
+            "three": "80",
+            "dunk": "80"
+        },
+        {
+            "name": "Jabari Smith Jr.",
+            "teams": "HOU",
+            "position": [
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "79",
+            "three": "77",
+            "dunk": "85"
+        },
+        {
+            "name": "Tari Eason",
+            "teams": "HOU",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "79",
+            "three": "80",
+            "dunk": "80"
+        },
+        {
+            "name": "Dillon Brooks",
+            "teams": "HOU",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "79",
+            "three": "75",
+            "dunk": "75"
+        },
+        {
+            "name": "Jae\u2019Sean Tate",
+            "teams": "HOU",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "77",
+            "three": "70",
+            "dunk": "75"
+        },
+        {
+            "name": "Jeff Green",
+            "teams": "HOU",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "75",
+            "three": "70",
+            "dunk": "80"
+        },
+        {
+            "name": "Jock Landale",
+            "teams": "HOU",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "75",
+            "three": "62",
+            "dunk": "60"
+        },
+        {
+            "name": "Frank Kaminsky",
+            "teams": "HOU",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "75",
+            "three": "78",
+            "dunk": "65"
+        },
+        {
+            "name": "Aaron Holiday",
+            "teams": "HOU",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 0,
+            "overall": "73",
+            "three": "85",
+            "dunk": "60"
+        },
+        {
+            "name": "Boban Marjanovic",
+            "teams": "HOU",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 4,
+            "overall": "73",
+            "three": "63",
+            "dunk": "60"
+        },
+        {
+            "name": "Willie Cauley-Stein",
+            "teams": "HOU",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "73",
+            "three": "49",
+            "dunk": "70"
+        },
+        {
+            "name": "D.J. Augustin",
+            "teams": "HOU",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 5,
+            "heightInches": 11,
+            "overall": "70",
+            "three": "81",
+            "dunk": "25"
+        },
+        {
+            "name": "Trevor Hudgins",
+            "teams": "HOU",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 0,
+            "overall": "68",
+            "three": "80",
+            "dunk": "85"
+        },
+        {
+            "name": "Darius Days",
+            "teams": "HOU",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "67",
+            "three": "73",
+            "dunk": "70"
+        },
+        {
+            "name": "Tyrese Haliburton",
+            "teams": "IND",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "89",
+            "three": "85",
+            "dunk": "65"
+        },
+        {
+            "name": "Myles Turner",
+            "teams": "IND",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "85",
+            "three": "81",
+            "dunk": "65"
+        },
+        {
+            "name": "Buddy Hield",
+            "teams": "IND",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "80",
+            "three": "89",
+            "dunk": "65"
+        },
+        {
+            "name": "Bennedict Mathurin",
+            "teams": "IND",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "79",
+            "three": "75",
+            "dunk": "80"
+        },
+        {
+            "name": "T.J. McConnell",
+            "teams": "IND",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "78",
+            "three": "79",
+            "dunk": "25"
+        },
+        {
+            "name": "Obi Toppin",
+            "teams": "IND",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "77",
+            "three": "78",
+            "dunk": "90"
+        },
+        {
+            "name": "Andrew Nembhard",
+            "teams": "IND",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "77",
+            "three": "78",
+            "dunk": "60"
+        },
+        {
+            "name": "Bruce Brown Jr.",
+            "teams": "IND",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "77",
+            "three": "80",
+            "dunk": "70"
+        },
+        {
+            "name": "Isaiah Jackson",
+            "teams": "IND",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "76",
+            "three": "59",
+            "dunk": "80"
+        },
+        {
+            "name": "Jalen Smith",
+            "teams": "IND",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "76",
+            "three": "69",
+            "dunk": "80"
+        },
+        {
+            "name": "Jordan Nwora",
+            "teams": "IND",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "76",
+            "three": "84",
+            "dunk": "65"
+        },
+        {
+            "name": "Aaron Nesmith",
+            "teams": "IND",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "76",
+            "three": "79",
+            "dunk": "55"
+        },
+        {
+            "name": "Daniel Theis",
+            "teams": "IND",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "75",
+            "three": "73",
+            "dunk": "78"
+        },
+        {
+            "name": "George Hill",
+            "teams": "IND",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "73",
+            "three": "75",
+            "dunk": "45"
+        },
+        {
+            "name": "James Johnson",
+            "teams": "IND",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "71",
+            "three": "68",
+            "dunk": "75"
+        },
+        {
+            "name": "Kendall Brown",
+            "teams": "IND",
+            "position": [
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "69",
+            "three": "73",
+            "dunk": "80"
+        },
+        {
+            "name": "Gabe York",
+            "teams": "IND",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "67",
+            "three": "77",
+            "dunk": "45"
+        },
+        {
+            "name": "Kawhi Leonard",
+            "teams": "LAC",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "92",
+            "three": "85",
+            "dunk": "80"
+        },
+        {
+            "name": "Paul George",
+            "teams": "LAC",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "89",
+            "three": "81",
+            "dunk": "85"
+        },
+        {
+            "name": "Russell Westbrook",
+            "teams": "LAC",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "81",
+            "three": "73",
+            "dunk": "80"
+        },
+        {
+            "name": "Ivica Zubac",
+            "teams": "LAC",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "81",
+            "three": "26",
+            "dunk": "75"
+        },
+        {
+            "name": "Mason Plumlee",
+            "teams": "LAC",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "80",
+            "three": "58",
+            "dunk": "80"
+        },
+        {
+            "name": "Norman Powell",
+            "teams": "LAC",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "79",
+            "three": "85",
+            "dunk": "80"
+        },
+        {
+            "name": "Kenyon Martin Jr.",
+            "teams": "LAC",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "79",
+            "three": "74",
+            "dunk": "93"
+        },
+        {
+            "name": "Bones Hyland",
+            "teams": "LAC",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "77",
+            "three": "82",
+            "dunk": "60"
+        },
+        {
+            "name": "Robert Covington",
+            "teams": "LAC",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "77",
+            "three": "81",
+            "dunk": "65"
+        },
+        {
+            "name": "Terance Mann",
+            "teams": "LAC",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "77",
+            "three": "82",
+            "dunk": "75"
+        },
+        {
+            "name": "Marcus Morris Sr.",
+            "teams": "LAC",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "75",
+            "three": "81",
+            "dunk": "70"
+        },
+        {
+            "name": "Nicolas Batum",
+            "teams": "LAC",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "74",
+            "three": "83",
+            "dunk": "60"
+        },
+        {
+            "name": "Brandon Boston Jr.",
+            "teams": "LAC",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "74",
+            "three": "78",
+            "dunk": "80"
+        },
+        {
+            "name": "Amir Coffey",
+            "teams": "LAC",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "72",
+            "three": "70",
+            "dunk": "40"
+        },
+        {
+            "name": "Jason Preston",
+            "teams": "LAC",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "71",
+            "three": "75",
+            "dunk": "45"
+        },
+        {
+            "name": "Moussa Diabate",
+            "teams": "LAC",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "69",
+            "three": "67",
+            "dunk": "80"
+        },
+        {
+            "name": "Xavier Moon",
+            "teams": "LAC",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "67",
+            "three": "78",
+            "dunk": "40"
+        },
+        {
+            "name": "LeBron James",
+            "teams": "LAL",
+            "position": [
+                "SF",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "97",
+            "three": "73",
+            "dunk": "95"
+        },
+        {
+            "name": "Anthony Davis",
+            "teams": "LAL",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "94",
+            "three": "70",
+            "dunk": "88"
+        },
+        {
+            "name": "D\u2019Angelo Russell",
+            "teams": "LAL",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "83",
+            "three": "83",
+            "dunk": "45"
+        },
+        {
+            "name": "Austin Reaves",
+            "teams": "LAL",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "81",
+            "three": "83",
+            "dunk": "70"
+        },
+        {
+            "name": "Jarred Vanderbilt",
+            "teams": "LAL",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "80",
+            "three": "72",
+            "dunk": "75"
+        },
+        {
+            "name": "Rui Hachimura",
+            "teams": "LAL",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "76",
+            "three": "77",
+            "dunk": "80"
+        },
+        {
+            "name": "Gabe Vincent",
+            "teams": "LAL",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "75",
+            "three": "75",
+            "dunk": "45"
+        },
+        {
+            "name": "Jaxson Hayes",
+            "teams": "LAL",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "75",
+            "three": "60",
+            "dunk": "80"
+        },
+        {
+            "name": "Taurean Prince",
+            "teams": "LAL",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "75",
+            "three": "82",
+            "dunk": "70"
+        },
+        {
+            "name": "Cam Reddish",
+            "teams": "LAL",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "75",
+            "three": "81",
+            "dunk": "80"
+        },
+        {
+            "name": "Wenyen Gabriel",
+            "teams": "LAL",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "75",
+            "three": "71",
+            "dunk": "75"
+        },
+        {
+            "name": "Tristan Thompson",
+            "teams": "LAL",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "73",
+            "three": "62",
+            "dunk": "75"
+        },
+        {
+            "name": "Max Christie",
+            "teams": "LAL",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "71",
+            "three": "86",
+            "dunk": "80"
+        },
+        {
+            "name": "Scotty Pippen Jr.",
+            "teams": "LAL",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "68",
+            "three": "73",
+            "dunk": "65"
+        },
+        {
+            "name": "Cole Swider",
+            "teams": "LAL",
+            "position": [
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "67",
+            "three": "79",
+            "dunk": "60"
+        },
+        {
+            "name": "Ja Morant",
+            "teams": "MEM",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "92",
+            "three": "77",
+            "dunk": "97"
+        },
+        {
+            "name": "Jaren Jackson Jr.",
+            "teams": "MEM",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "87",
+            "three": "79",
+            "dunk": "80"
+        },
+        {
+            "name": "Desmond Bane",
+            "teams": "MEM",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "85",
+            "three": "88",
+            "dunk": "75"
+        },
+        {
+            "name": "Steven Adams",
+            "teams": "MEM",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "82",
+            "three": "26",
+            "dunk": "70"
+        },
+        {
+            "name": "Marcus Smart",
+            "teams": "MEM",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "82",
+            "three": "78",
+            "dunk": "50"
+        },
+        {
+            "name": "Brandon Clarke",
+            "teams": "MEM",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "78",
+            "three": "57",
+            "dunk": "84"
+        },
+        {
+            "name": "Xavier Tillman",
+            "teams": "MEM",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "78",
+            "three": "57",
+            "dunk": "65"
+        },
+        {
+            "name": "Santi Aldama",
+            "teams": "MEM",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "77",
+            "three": "78",
+            "dunk": "65"
+        },
+        {
+            "name": "Luke Kennard",
+            "teams": "MEM",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "77",
+            "three": "93",
+            "dunk": "60"
+        },
+        {
+            "name": "Derrick Rose",
+            "teams": "MEM",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "76",
+            "three": "75",
+            "dunk": "45"
+        },
+        {
+            "name": "Josh Christopher",
+            "teams": "MEM",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "75",
+            "three": "70",
+            "dunk": "85"
+        },
+        {
+            "name": "David Roddy",
+            "teams": "MEM",
+            "position": [
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "73",
+            "three": "73",
+            "dunk": "60"
+        },
+        {
+            "name": "Ziaire Williams",
+            "teams": "MEM",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "72",
+            "three": "70",
+            "dunk": "80"
+        },
+        {
+            "name": "Jake LaRavia",
+            "teams": "MEM",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "72",
+            "three": "81",
+            "dunk": "75"
+        },
+        {
+            "name": "John Konchar",
+            "teams": "MEM",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "72",
+            "three": "79",
+            "dunk": "55"
+        },
+        {
+            "name": "Kenneth Lofton Jr.",
+            "teams": "MEM",
+            "position": [
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "72",
+            "three": "70",
+            "dunk": "75"
+        },
+        {
+            "name": "Isaiah Todd",
+            "teams": "MEM",
+            "position": [
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "70",
+            "three": "74",
+            "dunk": "80"
+        },
+        {
+            "name": "Vince Williams Jr.",
+            "teams": "MEM",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "69",
+            "three": "78",
+            "dunk": "70"
+        },
+        {
+            "name": "Jacob Gilyard",
+            "teams": "MEM",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 5,
+            "heightInches": 9,
+            "overall": "69",
+            "three": "80",
+            "dunk": "25"
+        },
+        {
+            "name": "Jimmy Butler",
+            "teams": "MIA",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "93",
+            "three": "76",
+            "dunk": "80"
+        },
+        {
+            "name": "Bam Adebayo",
+            "teams": "MIA",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "87",
+            "three": "69",
+            "dunk": "80"
+        },
+        {
+            "name": "Tyler Herro",
+            "teams": "MIA",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "84",
+            "three": "86",
+            "dunk": "60"
+        },
+        {
+            "name": "Kyle Lowry",
+            "teams": "MIA",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 0,
+            "overall": "77",
+            "three": "78",
+            "dunk": "25"
+        },
+        {
+            "name": "Kevin Love",
+            "teams": "MIA",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "76",
+            "three": "77",
+            "dunk": "50"
+        },
+        {
+            "name": "Thomas Bryant",
+            "teams": "MIA",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "76",
+            "three": "80",
+            "dunk": "65"
+        },
+        {
+            "name": "Caleb Martin",
+            "teams": "MIA",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "76",
+            "three": "82",
+            "dunk": "70"
+        },
+        {
+            "name": "Josh Richardson",
+            "teams": "MIA",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "75",
+            "three": "79",
+            "dunk": "78"
+        },
+        {
+            "name": "Omer Yurtseven",
+            "teams": "MIA",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "75",
+            "three": "70",
+            "dunk": "65"
+        },
+        {
+            "name": "Nikola Jovic",
+            "teams": "MIA",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "74",
+            "three": "67",
+            "dunk": "60"
+        },
+        {
+            "name": "Duncan Robinson",
+            "teams": "MIA",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "74",
+            "three": "84",
+            "dunk": "70"
+        },
+        {
+            "name": "Orlando Robinson",
+            "teams": "MIA",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "72",
+            "three": "74",
+            "dunk": "60"
+        },
+        {
+            "name": "Udonis Haslem",
+            "teams": "MIA",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "70",
+            "three": "71",
+            "dunk": "61"
+        },
+        {
+            "name": "Jamal Cain",
+            "teams": "MIA",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "70",
+            "three": "70",
+            "dunk": "70"
+        },
+        {
+            "name": "Haywood Highsmith",
+            "teams": "MIA",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "70",
+            "three": "80",
+            "dunk": "50"
+        },
+        {
+            "name": "Jamaree Bouyea",
+            "teams": "MIA",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "67",
+            "three": "73",
+            "dunk": "45"
+        },
+        {
+            "name": "Dru Smith",
+            "teams": "MIA",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "67",
+            "three": "76",
+            "dunk": "45"
+        },
+        {
+            "name": "Giannis Antetokounmpo",
+            "teams": "MIL",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "97",
+            "three": "71",
+            "dunk": "91"
+        },
+        {
+            "name": "Jrue Holiday",
+            "teams": "MIL",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "88",
+            "three": "82",
+            "dunk": "65"
+        },
+        {
+            "name": "Khris Middleton",
+            "teams": "MIL",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "86",
+            "three": "83",
+            "dunk": "65"
+        },
+        {
+            "name": "Brook Lopez",
+            "teams": "MIL",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 1,
+            "overall": "85",
+            "three": "83",
+            "dunk": "65"
+        },
+        {
+            "name": "Bobby Portis",
+            "teams": "MIL",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "82",
+            "three": "77",
+            "dunk": "70"
+        },
+        {
+            "name": "Jae Crowder",
+            "teams": "MIL",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "78",
+            "three": "83",
+            "dunk": "60"
+        },
+        {
+            "name": "Malik Beasley",
+            "teams": "MIL",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "76",
+            "three": "79",
+            "dunk": "78"
+        },
+        {
+            "name": "Pat Connaughton",
+            "teams": "MIL",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "75",
+            "three": "77",
+            "dunk": "86"
+        },
+        {
+            "name": "Grayson Allen",
+            "teams": "MIL",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "75",
+            "three": "84",
+            "dunk": "70"
+        },
+        {
+            "name": "Robin Lopez",
+            "teams": "MIL",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "74",
+            "three": "76",
+            "dunk": "60"
+        },
+        {
+            "name": "Goran Dragic",
+            "teams": "MIL",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "73",
+            "three": "80",
+            "dunk": "45"
+        },
+        {
+            "name": "Wesley Matthews",
+            "teams": "MIL",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "72",
+            "three": "77",
+            "dunk": "50"
+        },
+        {
+            "name": "MarJon Beauchamp",
+            "teams": "MIL",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "72",
+            "three": "77",
+            "dunk": "70"
+        },
+        {
+            "name": "Meyers Leonard",
+            "teams": "MIL",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "72",
+            "three": "81",
+            "dunk": "70"
+        },
+        {
+            "name": "Thanasis Antetokounmpo",
+            "teams": "MIL",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "72",
+            "three": "66",
+            "dunk": "85"
+        },
+        {
+            "name": "A.J. Green",
+            "teams": "MIL",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "71",
+            "three": "84",
+            "dunk": "40"
+        },
+        {
+            "name": "Lindell Wigginton",
+            "teams": "MIL",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "70",
+            "three": "78",
+            "dunk": "60"
+        },
+        {
+            "name": "Anthony Edwards",
+            "teams": "MIN",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "86",
+            "three": "81",
+            "dunk": "90"
+        },
+        {
+            "name": "Karl-Anthony Towns",
+            "teams": "MIN",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "86",
+            "three": "79",
+            "dunk": "75"
+        },
+        {
+            "name": "Rudy Gobert",
+            "teams": "MIN",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 1,
+            "overall": "84",
+            "three": "25",
+            "dunk": "75"
+        },
+        {
+            "name": "Mike Conley",
+            "teams": "MIN",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "80",
+            "three": "81",
+            "dunk": "30"
+        },
+        {
+            "name": "Naz Reid",
+            "teams": "MIN",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "80",
+            "three": "78",
+            "dunk": "80"
+        },
+        {
+            "name": "Jaden McDaniels",
+            "teams": "MIN",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "79",
+            "three": "83",
+            "dunk": "75"
+        },
+        {
+            "name": "Kyle Anderson",
+            "teams": "MIN",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "78",
+            "three": "81",
+            "dunk": "45"
+        },
+        {
+            "name": "Jaylen Nowell",
+            "teams": "MIN",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "77",
+            "three": "73",
+            "dunk": "65"
+        },
+        {
+            "name": "Shake Milton",
+            "teams": "MIN",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "77",
+            "three": "84",
+            "dunk": "60"
+        },
+        {
+            "name": "Nickeil Alexander-Walker",
+            "teams": "MIN",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "74",
+            "three": "82",
+            "dunk": "60"
+        },
+        {
+            "name": "Austin Rivers",
+            "teams": "MIN",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "74",
+            "three": "80",
+            "dunk": "65"
+        },
+        {
+            "name": "Jordan McLaughlin",
+            "teams": "MIN",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 0,
+            "overall": "73",
+            "three": "70",
+            "dunk": "65"
+        },
+        {
+            "name": "Troy Brown Jr.",
+            "teams": "MIN",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "73",
+            "three": "81",
+            "dunk": "70"
+        },
+        {
+            "name": "Nathan Knight",
+            "teams": "MIN",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "73",
+            "three": "73",
+            "dunk": "65"
+        },
+        {
+            "name": "Luka Garza",
+            "teams": "MIN",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "73",
+            "three": "81",
+            "dunk": "45"
+        },
+        {
+            "name": "Wendell Moore Jr.",
+            "teams": "MIN",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "71",
+            "three": "76",
+            "dunk": "80"
+        },
+        {
+            "name": "Matt Ryan",
+            "teams": "MIN",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "71",
+            "three": "82",
+            "dunk": "55"
+        },
+        {
+            "name": "Josh Minott",
+            "teams": "MIN",
+            "position": [
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "70",
+            "three": "64",
+            "dunk": "80"
+        },
+        {
+            "name": "Zion Williamson",
+            "teams": "NOP",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "92",
+            "three": "73",
+            "dunk": "97"
+        },
+        {
+            "name": "Brandon Ingram",
+            "teams": "NOP",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "87",
+            "three": "84",
+            "dunk": "80"
+        },
+        {
+            "name": "C.J. McCollum",
+            "teams": "NOP",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "84",
+            "three": "82",
+            "dunk": "40"
+        },
+        {
+            "name": "Jonas Valanciunas",
+            "teams": "NOP",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "83",
+            "three": "77",
+            "dunk": "65"
+        },
+        {
+            "name": "Trey Murphy",
+            "teams": "NOP",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "80",
+            "three": "84",
+            "dunk": "88"
+        },
+        {
+            "name": "Herbert Jones",
+            "teams": "NOP",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "79",
+            "three": "76",
+            "dunk": "75"
+        },
+        {
+            "name": "Larry Nance Jr.",
+            "teams": "NOP",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "77",
+            "three": "79",
+            "dunk": "85"
+        },
+        {
+            "name": "Jose Alvarado",
+            "teams": "NOP",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 0,
+            "overall": "77",
+            "three": "77",
+            "dunk": "30"
+        },
+        {
+            "name": "Dyson Daniels",
+            "teams": "NOP",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "75",
+            "three": "72",
+            "dunk": "75"
+        },
+        {
+            "name": "Cody Zeller",
+            "teams": "NOP",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "75",
+            "three": "38",
+            "dunk": "75"
+        },
+        {
+            "name": "Naji Marshall",
+            "teams": "NOP",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "75",
+            "three": "73",
+            "dunk": "70"
+        },
+        {
+            "name": "Kira Lewis Jr.",
+            "teams": "NOP",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "73",
+            "three": "78",
+            "dunk": "45"
+        },
+        {
+            "name": "E.J. Liddell",
+            "teams": "NOP",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "70",
+            "three": "76",
+            "dunk": "60"
+        },
+        {
+            "name": "Dereon Seabron",
+            "teams": "NOP",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "67",
+            "three": "60",
+            "dunk": "80"
+        },
+        {
+            "name": "Julius Randle",
+            "teams": "NYK",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "87",
+            "three": "79",
+            "dunk": "80"
+        },
+        {
+            "name": "Jalen Brunson",
+            "teams": "NYK",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "87",
+            "three": "85",
+            "dunk": "50"
+        },
+        {
+            "name": "R.J. Barrett",
+            "teams": "NYK",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "82",
+            "three": "74",
+            "dunk": "80"
+        },
+        {
+            "name": "Immanuel Quickley",
+            "teams": "NYK",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "82",
+            "three": "82",
+            "dunk": "55"
+        },
+        {
+            "name": "Mitchell Robinson",
+            "teams": "NYK",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "80",
+            "three": "32",
+            "dunk": "80"
+        },
+        {
+            "name": "Josh Hart",
+            "teams": "NYK",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "79",
+            "three": "80",
+            "dunk": "70"
+        },
+        {
+            "name": "Quentin Grimes",
+            "teams": "NYK",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "78",
+            "three": "81",
+            "dunk": "70"
+        },
+        {
+            "name": "Donte DiVincenzo",
+            "teams": "NYK",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "77",
+            "three": "84",
+            "dunk": "75"
+        },
+        {
+            "name": "Jericho Sims",
+            "teams": "NYK",
+            "position": [
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "76",
+            "three": "26",
+            "dunk": "89"
+        },
+        {
+            "name": "Isaiah Hartenstein",
+            "teams": "NYK",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "76",
+            "three": "56",
+            "dunk": "65"
+        },
+        {
+            "name": "Evan Fournier",
+            "teams": "NYK",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "74",
+            "three": "76",
+            "dunk": "50"
+        },
+        {
+            "name": "Isaiah Roby",
+            "teams": "NYK",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "74",
+            "three": "73",
+            "dunk": "75"
+        },
+        {
+            "name": "Miles McBride",
+            "teams": "NYK",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "73",
+            "three": "73",
+            "dunk": "65"
+        },
+        {
+            "name": "Duane Washington Jr.",
+            "teams": "NYK",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "73",
+            "three": "80",
+            "dunk": "40"
+        },
+        {
+            "name": "DaQuan Jeffries",
+            "teams": "NYK",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "70",
+            "three": "73",
+            "dunk": "75"
+        },
+        {
+            "name": "Trevor Keels",
+            "teams": "NYK",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "68",
+            "three": "71",
+            "dunk": "70"
+        },
+        {
+            "name": "Shai Gilgeous-Alexander",
+            "teams": "OKC",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "94",
+            "three": "80",
+            "dunk": "75"
+        },
+        {
+            "name": "Josh Giddey",
+            "teams": "OKC",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "84",
+            "three": "75",
+            "dunk": "65"
+        },
+        {
+            "name": "Jalen Williams",
+            "teams": "OKC",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "82",
+            "three": "80",
+            "dunk": "80"
+        },
+        {
+            "name": "Luguentz Dort",
+            "teams": "OKC",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "78",
+            "three": "78",
+            "dunk": "85"
+        },
+        {
+            "name": "Isaiah Joe",
+            "teams": "OKC",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "78",
+            "three": "86",
+            "dunk": "60"
+        },
+        {
+            "name": "Chet Holmgren",
+            "teams": "OKC",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 1,
+            "overall": "77",
+            "three": "75",
+            "dunk": "75"
+        },
+        {
+            "name": "Aleksej Pokusevski",
+            "teams": "OKC",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "77",
+            "three": "83",
+            "dunk": "70"
+        },
+        {
+            "name": "Kenrich Williams",
+            "teams": "OKC",
+            "position": [
+                "SF",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "77",
+            "three": "83",
+            "dunk": "65"
+        },
+        {
+            "name": "Victor Oladipo",
+            "teams": "OKC",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "76",
+            "three": "74",
+            "dunk": "75"
+        },
+        {
+            "name": "Jaylin Williams",
+            "teams": "OKC",
+            "position": [
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "75",
+            "three": "75",
+            "dunk": "70"
+        },
+        {
+            "name": "Tre Mann",
+            "teams": "OKC",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "75",
+            "three": "74",
+            "dunk": "60"
+        },
+        {
+            "name": "Jeremiah Robinson-Earl",
+            "teams": "OKC",
+            "position": [
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "75",
+            "three": "76",
+            "dunk": "75"
+        },
+        {
+            "name": "Rudy Gay",
+            "teams": "OKC",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "75",
+            "three": "62",
+            "dunk": "70"
+        },
+        {
+            "name": "Usman Garuba",
+            "teams": "OKC",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "74",
+            "three": "80",
+            "dunk": "70"
+        },
+        {
+            "name": "Aaron Wiggins",
+            "teams": "OKC",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "74",
+            "three": "81",
+            "dunk": "45"
+        },
+        {
+            "name": "Lindy Waters III",
+            "teams": "OKC",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "74",
+            "three": "80",
+            "dunk": "65"
+        },
+        {
+            "name": "Ousmane Dieng",
+            "teams": "OKC",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "73",
+            "three": "71",
+            "dunk": "75"
+        },
+        {
+            "name": "Jared Butler",
+            "teams": "OKC",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "73",
+            "three": "74",
+            "dunk": "65"
+        },
+        {
+            "name": "Davis Bertans",
+            "teams": "OKC",
+            "position": [
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "73",
+            "three": "82",
+            "dunk": "65"
+        },
+        {
+            "name": "TyTy Washington",
+            "teams": "OKC",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "72",
+            "three": "70",
+            "dunk": "75"
+        },
+        {
+            "name": "Jack White",
+            "teams": "OKC",
+            "position": [
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "67",
+            "three": "66",
+            "dunk": "65"
+        },
+        {
+            "name": "Olivier Sarr",
+            "teams": "OKC",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "67",
+            "three": "69",
+            "dunk": "75"
+        },
+        {
+            "name": "Paolo Banchero",
+            "teams": "ORL",
+            "position": [
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "84",
+            "three": "70",
+            "dunk": "85"
+        },
+        {
+            "name": "Franz Wagner",
+            "teams": "ORL",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "84",
+            "three": "80",
+            "dunk": "80"
+        },
+        {
+            "name": "Wendell Carter Jr.",
+            "teams": "ORL",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "82",
+            "three": "78",
+            "dunk": "75"
+        },
+        {
+            "name": "Markelle Fultz",
+            "teams": "ORL",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "82",
+            "three": "74",
+            "dunk": "75"
+        },
+        {
+            "name": "Cole Anthony",
+            "teams": "ORL",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "80",
+            "three": "80",
+            "dunk": "89"
+        },
+        {
+            "name": "Jonathan Isaac",
+            "teams": "ORL",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "78",
+            "three": "77",
+            "dunk": "82"
+        },
+        {
+            "name": "Moritz Wagner",
+            "teams": "ORL",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "78",
+            "three": "74",
+            "dunk": "65"
+        },
+        {
+            "name": "Jalen Suggs",
+            "teams": "ORL",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "76",
+            "three": "73",
+            "dunk": "80"
+        },
+        {
+            "name": "Joe Ingles",
+            "teams": "ORL",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "76",
+            "three": "84",
+            "dunk": "45"
+        },
+        {
+            "name": "Goga Bitadze",
+            "teams": "ORL",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "75",
+            "three": "71",
+            "dunk": "65"
+        },
+        {
+            "name": "Gary Harris",
+            "teams": "ORL",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "75",
+            "three": "86",
+            "dunk": "50"
+        },
+        {
+            "name": "Chuma Okeke",
+            "teams": "ORL",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "74",
+            "three": "74",
+            "dunk": "50"
+        },
+        {
+            "name": "Caleb Houstan",
+            "teams": "ORL",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "71",
+            "three": "80",
+            "dunk": "25"
+        },
+        {
+            "name": "Michael Carter-Williams",
+            "teams": "ORL",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "71",
+            "three": "66",
+            "dunk": "60"
+        },
+        {
+            "name": "Admiral Schofield",
+            "teams": "ORL",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "70",
+            "three": "76",
+            "dunk": "65"
+        },
+        {
+            "name": "Kevon Harris",
+            "teams": "ORL",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "69",
+            "three": "80",
+            "dunk": "75"
+        },
+        {
+            "name": "Joel Embiid",
+            "teams": "PHI",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "97",
+            "three": "80",
+            "dunk": "80"
+        },
+        {
+            "name": "James Harden",
+            "teams": "PHI",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "90",
+            "three": "85",
+            "dunk": "84"
+        },
+        {
+            "name": "Tyrese Maxey",
+            "teams": "PHI",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "84",
+            "three": "85",
+            "dunk": "70"
+        },
+        {
+            "name": "Tobias Harris",
+            "teams": "PHI",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "81",
+            "three": "82",
+            "dunk": "75"
+        },
+        {
+            "name": "De\u2019Anthony Melton",
+            "teams": "PHI",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "78",
+            "three": "84",
+            "dunk": "70"
+        },
+        {
+            "name": "Mohamed Bamba",
+            "teams": "PHI",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "77",
+            "three": "79",
+            "dunk": "70"
+        },
+        {
+            "name": "Patrick Beverley",
+            "teams": "PHI",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "76",
+            "three": "76",
+            "dunk": "45"
+        },
+        {
+            "name": "Montrezl Harrell",
+            "teams": "PHI",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "76",
+            "three": "50",
+            "dunk": "80"
+        },
+        {
+            "name": "Paul Reed",
+            "teams": "PHI",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "76",
+            "three": "66",
+            "dunk": "75"
+        },
+        {
+            "name": "P.J. Tucker",
+            "teams": "PHI",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "75",
+            "three": "83",
+            "dunk": "60"
+        },
+        {
+            "name": "Dewayne Dedmon",
+            "teams": "PHI",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "74",
+            "three": "73",
+            "dunk": "60"
+        },
+        {
+            "name": "Danuel House Jr.",
+            "teams": "PHI",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "73",
+            "three": "79",
+            "dunk": "75"
+        },
+        {
+            "name": "Jaden Springer",
+            "teams": "PHI",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "71",
+            "three": "77",
+            "dunk": "50"
+        },
+        {
+            "name": "Furkan Korkmaz",
+            "teams": "PHI",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "71",
+            "three": "76",
+            "dunk": "75"
+        },
+        {
+            "name": "Mac McClung",
+            "teams": "PHI",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "69",
+            "three": "75",
+            "dunk": "95"
+        },
+        {
+            "name": "Kevin Durant",
+            "teams": "PHX",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "96",
+            "three": "87",
+            "dunk": "85"
+        },
+        {
+            "name": "Devin Booker",
+            "teams": "PHX",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "92",
+            "three": "86",
+            "dunk": "75"
+        },
+        {
+            "name": "Bradley Beal",
+            "teams": "PHX",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "87",
+            "three": "81",
+            "dunk": "84"
+        },
+        {
+            "name": "Deandre Ayton",
+            "teams": "PHX",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "84",
+            "three": "71",
+            "dunk": "75"
+        },
+        {
+            "name": "Josh Okogie",
+            "teams": "PHX",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "78",
+            "three": "76",
+            "dunk": "75"
+        },
+        {
+            "name": "T.J. Warren",
+            "teams": "PHX",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "77",
+            "three": "77",
+            "dunk": "80"
+        },
+        {
+            "name": "Cameron Payne",
+            "teams": "PHX",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "77",
+            "three": "80",
+            "dunk": "25"
+        },
+        {
+            "name": "Drew Eubanks",
+            "teams": "PHX",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "77",
+            "three": "54",
+            "dunk": "70"
+        },
+        {
+            "name": "Darius Bazley",
+            "teams": "PHX",
+            "position": [
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "76",
+            "three": "80",
+            "dunk": "80"
+        },
+        {
+            "name": "Terrence Ross",
+            "teams": "PHX",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "76",
+            "three": "85",
+            "dunk": "80"
+        },
+        {
+            "name": "Chimezie Metu",
+            "teams": "PHX",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "76",
+            "three": "63",
+            "dunk": "75"
+        },
+        {
+            "name": "Keita Bates-Diop",
+            "teams": "PHX",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "76",
+            "three": "81",
+            "dunk": "65"
+        },
+        {
+            "name": "Eric Gordon",
+            "teams": "PHX",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "76",
+            "three": "83",
+            "dunk": "70"
+        },
+        {
+            "name": "Yuta Watanabe",
+            "teams": "PHX",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "75",
+            "three": "85",
+            "dunk": "60"
+        },
+        {
+            "name": "Damion Lee",
+            "teams": "PHX",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "75",
+            "three": "87",
+            "dunk": "65"
+        },
+        {
+            "name": "Bismack Biyombo",
+            "teams": "PHX",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "75",
+            "three": "25",
+            "dunk": "68"
+        },
+        {
+            "name": "Jordan Goodwin",
+            "teams": "PHX",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "74",
+            "three": "80",
+            "dunk": "35"
+        },
+        {
+            "name": "Saben Lee",
+            "teams": "PHX",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "73",
+            "three": "69",
+            "dunk": "85"
+        },
+        {
+            "name": "Ish Wainright",
+            "teams": "PHX",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "73",
+            "three": "77",
+            "dunk": "60"
+        },
+        {
+            "name": "Damian Lillard",
+            "teams": "POR",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "95",
+            "three": "89",
+            "dunk": "85"
+        },
+        {
+            "name": "Anfernee Simons",
+            "teams": "POR",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "83",
+            "three": "84",
+            "dunk": "89"
+        },
+        {
+            "name": "Jusuf Nurkic",
+            "teams": "POR",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "82",
+            "three": "80",
+            "dunk": "65"
+        },
+        {
+            "name": "Jerami Grant",
+            "teams": "POR",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "82",
+            "three": "84",
+            "dunk": "85"
+        },
+        {
+            "name": "Shaedon Sharpe",
+            "teams": "POR",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "78",
+            "three": "81",
+            "dunk": "96"
+        },
+        {
+            "name": "Matisse Thybulle",
+            "teams": "POR",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "76",
+            "three": "80",
+            "dunk": "70"
+        },
+        {
+            "name": "Nassir Little",
+            "teams": "POR",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "75",
+            "three": "82",
+            "dunk": "82"
+        },
+        {
+            "name": "Justise Winslow",
+            "teams": "POR",
+            "position": [
+                "SF",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "74",
+            "three": "74",
+            "dunk": "70"
+        },
+        {
+            "name": "Skylar Mays",
+            "teams": "POR",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "72",
+            "three": "80",
+            "dunk": "45"
+        },
+        {
+            "name": "Jabari Walker",
+            "teams": "POR",
+            "position": [
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "71",
+            "three": "73",
+            "dunk": "70"
+        },
+        {
+            "name": "Keon Johnson",
+            "teams": "POR",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "71",
+            "three": "76",
+            "dunk": "85"
+        },
+        {
+            "name": "Kevin Knox",
+            "teams": "POR",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "71",
+            "three": "81",
+            "dunk": "75"
+        },
+        {
+            "name": "Jeenathan Williams",
+            "teams": "POR",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "70",
+            "three": "81",
+            "dunk": "70"
+        },
+        {
+            "name": "Justin Minaya",
+            "teams": "POR",
+            "position": [
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "69",
+            "three": "77",
+            "dunk": "55"
+        },
+        {
+            "name": "Chance Comanche",
+            "teams": "POR",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "68",
+            "three": "67",
+            "dunk": "75"
+        },
+        {
+            "name": "Ibou Badji",
+            "teams": "POR",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 1,
+            "overall": "67",
+            "three": "37",
+            "dunk": "75"
+        },
+        {
+            "name": "John Butler",
+            "teams": "POR",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "67",
+            "three": "70",
+            "dunk": "70"
+        },
+        {
+            "name": "De\u2019Aaron Fox",
+            "teams": "SAC",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "89",
+            "three": "77",
+            "dunk": "80"
+        },
+        {
+            "name": "Domantas Sabonis",
+            "teams": "SAC",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 1,
+            "overall": "89",
+            "three": "80",
+            "dunk": "75"
+        },
+        {
+            "name": "Kevin Huerter",
+            "teams": "SAC",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "81",
+            "three": "87",
+            "dunk": "65"
+        },
+        {
+            "name": "Malik Monk",
+            "teams": "SAC",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "80",
+            "three": "81",
+            "dunk": "80"
+        },
+        {
+            "name": "Keegan Murray",
+            "teams": "SAC",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "79",
+            "three": "84",
+            "dunk": "80"
+        },
+        {
+            "name": "Harrison Barnes",
+            "teams": "SAC",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "79",
+            "three": "81",
+            "dunk": "80"
+        },
+        {
+            "name": "Trey Lyles",
+            "teams": "SAC",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "77",
+            "three": "80",
+            "dunk": "65"
+        },
+        {
+            "name": "Terence Davis",
+            "teams": "SAC",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "76",
+            "three": "81",
+            "dunk": "75"
+        },
+        {
+            "name": "Chris Duarte",
+            "teams": "SAC",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "75",
+            "three": "75",
+            "dunk": "70"
+        },
+        {
+            "name": "Davion Mitchell",
+            "teams": "SAC",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 0,
+            "overall": "75",
+            "three": "76",
+            "dunk": "40"
+        },
+        {
+            "name": "Alex Len",
+            "teams": "SAC",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 2,
+            "overall": "74",
+            "three": "70",
+            "dunk": "65"
+        },
+        {
+            "name": "P.J. Dozier",
+            "teams": "SAC",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "74",
+            "three": "74",
+            "dunk": "75"
+        },
+        {
+            "name": "Kessler Edwards",
+            "teams": "SAC",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "71",
+            "three": "79",
+            "dunk": "65"
+        },
+        {
+            "name": "Neemias Queta",
+            "teams": "SAC",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "70",
+            "three": "50",
+            "dunk": "65"
+        },
+        {
+            "name": "Keon Ellis",
+            "teams": "SAC",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "68",
+            "three": "74",
+            "dunk": "65"
+        },
+        {
+            "name": "Keldon Johnson",
+            "teams": "SAS",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "83",
+            "three": "80",
+            "dunk": "75"
+        },
+        {
+            "name": "Devin Vassell",
+            "teams": "SAS",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "81",
+            "three": "83",
+            "dunk": "60"
+        },
+        {
+            "name": "Zach Collins",
+            "teams": "SAS",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "80",
+            "three": "82",
+            "dunk": "65"
+        },
+        {
+            "name": "Tre Jones",
+            "teams": "SAS",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "79",
+            "three": "70",
+            "dunk": "35"
+        },
+        {
+            "name": "Jeremy Sochan",
+            "teams": "SAS",
+            "position": [
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "78",
+            "three": "70",
+            "dunk": "80"
+        },
+        {
+            "name": "Reggie Bullock",
+            "teams": "SAS",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "77",
+            "three": "82",
+            "dunk": "50"
+        },
+        {
+            "name": "Malaki Branham",
+            "teams": "SAS",
+            "position": [
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "76",
+            "three": "74",
+            "dunk": "75"
+        },
+        {
+            "name": "Devonte\u2019 Graham",
+            "teams": "SAS",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "76",
+            "three": "81",
+            "dunk": "60"
+        },
+        {
+            "name": "Cedi Osman",
+            "teams": "SAS",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "75",
+            "three": "80",
+            "dunk": "61"
+        },
+        {
+            "name": "Charles Bassey",
+            "teams": "SAS",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "75",
+            "three": "62",
+            "dunk": "75"
+        },
+        {
+            "name": "Doug McDermott",
+            "teams": "SAS",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "74",
+            "three": "86",
+            "dunk": "65"
+        },
+        {
+            "name": "Khem Birch",
+            "teams": "SAS",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "74",
+            "three": "55",
+            "dunk": "70"
+        },
+        {
+            "name": "Sandro Mamukelashvili",
+            "teams": "SAS",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "73",
+            "three": "71",
+            "dunk": "65"
+        },
+        {
+            "name": "Lamar Stevens",
+            "teams": "SAS",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "73",
+            "three": "75",
+            "dunk": "80"
+        },
+        {
+            "name": "Gorgui Dieng",
+            "teams": "SAS",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "73",
+            "three": "72",
+            "dunk": "64"
+        },
+        {
+            "name": "Romeo Langford",
+            "teams": "SAS",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "73",
+            "three": "70",
+            "dunk": "65"
+        },
+        {
+            "name": "Blake Wesley",
+            "teams": "SAS",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "72",
+            "three": "83",
+            "dunk": "86"
+        },
+        {
+            "name": "Dominick Barlow",
+            "teams": "SAS",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "68",
+            "three": "70",
+            "dunk": "75"
+        },
+        {
+            "name": "Julian Champagnie",
+            "teams": "SAS",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "68",
+            "three": "75",
+            "dunk": "60"
+        },
+        {
+            "name": "Pascal Siakam",
+            "teams": "TOR",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "87",
+            "three": "77",
+            "dunk": "80"
+        },
+        {
+            "name": "Scottie Barnes",
+            "teams": "TOR",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "83",
+            "three": "72",
+            "dunk": "80"
+        },
+        {
+            "name": "OG Anunoby",
+            "teams": "TOR",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "82",
+            "three": "82",
+            "dunk": "85"
+        },
+        {
+            "name": "Jakob Poeltl",
+            "teams": "TOR",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 1,
+            "overall": "81",
+            "three": "45",
+            "dunk": "60"
+        },
+        {
+            "name": "Gary Trent Jr.",
+            "teams": "TOR",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "80",
+            "three": "81",
+            "dunk": "75"
+        },
+        {
+            "name": "Chris Boucher",
+            "teams": "TOR",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "79",
+            "three": "76",
+            "dunk": "80"
+        },
+        {
+            "name": "Precious Achiuwa",
+            "teams": "TOR",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "78",
+            "three": "62",
+            "dunk": "80"
+        },
+        {
+            "name": "Dennis Schroder",
+            "teams": "TOR",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "77",
+            "three": "76",
+            "dunk": "45"
+        },
+        {
+            "name": "Thaddeus Young",
+            "teams": "TOR",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "76",
+            "three": "57",
+            "dunk": "70"
+        },
+        {
+            "name": "Otto Porter Jr.",
+            "teams": "TOR",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "76",
+            "three": "81",
+            "dunk": "70"
+        },
+        {
+            "name": "Jalen McDaniels",
+            "teams": "TOR",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "76",
+            "three": "74",
+            "dunk": "65"
+        },
+        {
+            "name": "Will Barton",
+            "teams": "TOR",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "74",
+            "three": "80",
+            "dunk": "83"
+        },
+        {
+            "name": "Christian Koloko",
+            "teams": "TOR",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "73",
+            "three": "29",
+            "dunk": "75"
+        },
+        {
+            "name": "Malachi Flynn",
+            "teams": "TOR",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 1,
+            "overall": "73",
+            "three": "81",
+            "dunk": "25"
+        },
+        {
+            "name": "Joe Wieskamp",
+            "teams": "TOR",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "70",
+            "three": "75",
+            "dunk": "75"
+        },
+        {
+            "name": "Jeff Dowtin",
+            "teams": "TOR",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "69",
+            "three": "76",
+            "dunk": "75"
+        },
+        {
+            "name": "Ron Harper Jr.",
+            "teams": "TOR",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "68",
+            "three": "76",
+            "dunk": "70"
+        },
+        {
+            "name": "Lauri Markkanen",
+            "teams": "UTA",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "86",
+            "three": "84",
+            "dunk": "75"
+        },
+        {
+            "name": "Walker Kessler",
+            "teams": "UTA",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 0,
+            "overall": "83",
+            "three": "66",
+            "dunk": "75"
+        },
+        {
+            "name": "Jordan Clarkson",
+            "teams": "UTA",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "82",
+            "three": "80",
+            "dunk": "75"
+        },
+        {
+            "name": "Collin Sexton",
+            "teams": "UTA",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "81",
+            "three": "84",
+            "dunk": "75"
+        },
+        {
+            "name": "John Collins",
+            "teams": "UTA",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "80",
+            "three": "65",
+            "dunk": "93"
+        },
+        {
+            "name": "Talen Horton-Tucker",
+            "teams": "UTA",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "79",
+            "three": "72",
+            "dunk": "80"
+        },
+        {
+            "name": "Kelly Olynyk",
+            "teams": "UTA",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "79",
+            "three": "83",
+            "dunk": "60"
+        },
+        {
+            "name": "Ochai Agbaji",
+            "teams": "UTA",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "77",
+            "three": "83",
+            "dunk": "80"
+        },
+        {
+            "name": "Kris Dunn",
+            "teams": "UTA",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "76",
+            "three": "65",
+            "dunk": "55"
+        },
+        {
+            "name": "Simone Fontecchio",
+            "teams": "UTA",
+            "position": [
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 7,
+            "overall": "74",
+            "three": "77",
+            "dunk": "65"
+        },
+        {
+            "name": "Juan Toscano-Anderson",
+            "teams": "UTA",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "72",
+            "three": "70",
+            "dunk": "88"
+        },
+        {
+            "name": "Udoka Azubuike",
+            "teams": "UTA",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "72",
+            "three": "25",
+            "dunk": "75"
+        },
+        {
+            "name": "Luka Samanic",
+            "teams": "UTA",
+            "position": [
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "71",
+            "three": "71",
+            "dunk": "60"
+        },
+        {
+            "name": "Johnny Juzang",
+            "teams": "UTA",
+            "position": [
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "68",
+            "three": "77",
+            "dunk": "75"
+        },
+        {
+            "name": "Micah Potter",
+            "teams": "UTA",
+            "position": [
+                "PF",
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "67",
+            "three": "78",
+            "dunk": "65"
+        },
+        {
+            "name": "Jordan Poole",
+            "teams": "WAS",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "84",
+            "three": "83",
+            "dunk": "60"
+        },
+        {
+            "name": "Kyle Kuzma",
+            "teams": "WAS",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "83",
+            "three": "77",
+            "dunk": "75"
+        },
+        {
+            "name": "Tyus Jones",
+            "teams": "WAS",
+            "position": [
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 2,
+            "overall": "80",
+            "three": "82",
+            "dunk": "30"
+        },
+        {
+            "name": "Danilo Gallinari",
+            "teams": "WAS",
+            "position": [
+                "PF",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "78",
+            "three": "82",
+            "dunk": "75"
+        },
+        {
+            "name": "Corey Kispert",
+            "teams": "WAS",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "78",
+            "three": "86",
+            "dunk": "60"
+        },
+        {
+            "name": "Delon Wright",
+            "teams": "WAS",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "78",
+            "three": "80",
+            "dunk": "60"
+        },
+        {
+            "name": "Daniel Gafford",
+            "teams": "WAS",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 10,
+            "overall": "77",
+            "three": "29",
+            "dunk": "75"
+        },
+        {
+            "name": "Deni Avdija",
+            "teams": "WAS",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "76",
+            "three": "70",
+            "dunk": "75"
+        },
+        {
+            "name": "Landry Shamet",
+            "teams": "WAS",
+            "position": [
+                "SG",
+                "SF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "75",
+            "three": "83",
+            "dunk": "70"
+        },
+        {
+            "name": "Mike Muscala",
+            "teams": "WAS",
+            "position": [
+                "C",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 11,
+            "overall": "75",
+            "three": "83",
+            "dunk": "60"
+        },
+        {
+            "name": "Kendrick Nunn",
+            "teams": "WAS",
+            "position": [
+                "PG",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "75",
+            "three": "77",
+            "dunk": "75"
+        },
+        {
+            "name": "Eugene Omoruyi",
+            "teams": "WAS",
+            "position": [
+                "SF",
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 6,
+            "overall": "74",
+            "three": "64",
+            "dunk": "65"
+        },
+        {
+            "name": "Taj Gibson",
+            "teams": "WAS",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "73",
+            "three": "73",
+            "dunk": "65"
+        },
+        {
+            "name": "Johnny Davis",
+            "teams": "WAS",
+            "position": [
+                "SG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 4,
+            "overall": "72",
+            "three": "74",
+            "dunk": "70"
+        },
+        {
+            "name": "Patrick Baldwin Jr.",
+            "teams": "WAS",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 9,
+            "overall": "72",
+            "three": "82",
+            "dunk": "70"
+        },
+        {
+            "name": "Anthony Gill",
+            "teams": "WAS",
+            "position": [
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "72",
+            "three": "73",
+            "dunk": "75"
+        },
+        {
+            "name": "Xavier Cooks",
+            "teams": "WAS",
+            "position": [
+                "SF",
+                "PF"
+            ],
+            "heightFeet": 6,
+            "heightInches": 8,
+            "overall": "71",
+            "three": "73",
+            "dunk": "75"
+        },
+        {
+            "name": "Ryan Rollins",
+            "teams": "WAS",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 3,
+            "overall": "68",
+            "three": "72",
+            "dunk": "65"
+        },
+        {
+            "name": "Quenton Jackson",
+            "teams": "WAS",
+            "position": [
+                "SG",
+                "PG"
+            ],
+            "heightFeet": 6,
+            "heightInches": 5,
+            "overall": "68",
+            "three": "72",
+            "dunk": "80"
+        },
+        {
+            "name": "Jay Huff",
+            "teams": "WAS",
+            "position": [
+                "C"
+            ],
+            "heightFeet": 7,
+            "heightInches": 1,
+            "overall": "67",
+            "three": "77",
+            "dunk": "60"
+        }
+    ],
+    "teams": [
+        {
+            "teamID": "ATL",
+            "teamName": "Atlanta Hawks",
+            "homeBase": "Atlanta"
+        },
+        {
+            "teamID": "BOS",
+            "teamName": "Boston Celtics",
+            "homeBase": "Boston"
+        },
+        {
+            "teamID": "BKN",
+            "teamName": "Brooklyn Nets",
+            "homeBase": "Brooklyn"
+        },
+        {
+            "teamID": "CHA",
+            "teamName": "Charlotte Hornets",
+            "homeBase": "Charlotte"
+        },
+        {
+            "teamID": "CHI",
+            "teamName": "Chicago Bulls",
+            "homeBase": "Chicago"
+        },
+        {
+            "teamID": "CLE",
+            "teamName": "Cleveland Cavaliers",
+            "homeBase": "Cleveland"
+        },
+        {
+            "teamID": "DAL",
+            "teamName": "Dallas Mavericks",
+            "homeBase": "Dallas"
+        },
+        {
+            "teamID": "DEN",
+            "teamName": "Denver Nuggets",
+            "homeBase": "Denver"
+        },
+        {
+            "teamID": "DET",
+            "teamName": "Detroit Pistons",
+            "homeBase": "Detroit"
+        },
+        {
+            "teamID": "GSW",
+            "teamName": "Golden State Warriors",
+            "homeBase": "San Francisco"
+        },
+        {
+            "teamID": "HOU",
+            "teamName": "Houston Rockets",
+            "homeBase": "Houston"
+        },
+        {
+            "teamID": "IND",
+            "teamName": "Indiana Pacers",
+            "homeBase": "Indiana"
+        },
+        {
+            "teamID": "LAC",
+            "teamName": "Los Angeles Clippers",
+            "homeBase": "Los Angeles"
+        },
+        {
+            "teamID": "LAL",
+            "teamName": "Los Angeles Lakers",
+            "homeBase": "Los Angeles"
+        },
+        {
+            "teamID": "MEM",
+            "teamName": "Memphis Grizzlies",
+            "homeBase": "Memphis"
+        },
+        {
+            "teamID": "MIA",
+            "teamName": "Miami Heat",
+            "homeBase": "Miami"
+        },
+        {
+            "teamID": "MIL",
+            "teamName": "Milwaukee Bucks",
+            "homeBase": "Milwaukee"
+        },
+        {
+            "teamID": "MIN",
+            "teamName": "Minnesota Timberwolves",
+            "homeBase": "Minnesota"
+        },
+        {
+            "teamID": "NOP",
+            "teamName": "New Orleans Pelicans",
+            "homeBase": "New Orleans"
+        },
+        {
+            "teamID": "NYK",
+            "teamName": "New York Knicks",
+            "homeBase": "New York"
+        },
+        {
+            "teamID": "OKC",
+            "teamName": "Oklahoma City Thunder",
+            "homeBase": "Oklahoma City"
+        },
+        {
+            "teamID": "ORL",
+            "teamName": "Orlando Magic",
+            "homeBase": "Orlando"
+        },
+        {
+            "teamID": "PHI",
+            "teamName": "Philadelphia 76Ers",
+            "homeBase": "Philadelphia"
+        },
+        {
+            "teamID": "PHX",
+            "teamName": "Phoenix Suns",
+            "homeBase": "Phoenix"
+        },
+        {
+            "teamID": "POR",
+            "teamName": "Portland Trail Blazers",
+            "homeBase": "Portland"
+        },
+        {
+            "teamID": "SAC",
+            "teamName": "Sacramento Kings",
+            "homeBase": "Sacramento"
+        },
+        {
+            "teamID": "SAS",
+            "teamName": "San Antonio Spurs",
+            "homeBase": "San Antonio"
+        },
+        {
+            "teamID": "TOR",
+            "teamName": "Toronto Raptors",
+            "homeBase": "Toronto"
+        },
+        {
+            "teamID": "UTA",
+            "teamName": "Utah Jazz",
+            "homeBase": "Utah"
+        },
+        {
+            "teamID": "WAS",
+            "teamName": "Washington Wizards",
+            "homeBase": "Washington"
+        }
+    ],
+    "positions": [
+        {
+            "posName": "Point Guard",
+            "posAbbr": "PG"
+        },
+        {
+            "posName": "Shooting Guard",
+            "posAbbr": "SG"
+        },
+        {
+            "posName": "Small Forward",
+            "posAbbr": "SF"
+        },
+        {
+            "posName": "Power Forward",
+            "posAbbr": "PF"
+        },
+        {
+            "posName": "Center",
+            "posAbbr": "C"
+        }
+    ]
+}
