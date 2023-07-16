@@ -80,7 +80,7 @@
   ### Data Storing
   1. Clone repository ini ke directory lokal
   2. Buka path `Data Storing\export` pada terminal
-  3. Jalankan perintah berikut pada terminal:
+  3. Jalankan command berikut pada terminal:
   ```
   pg_dump -U {username} -d {database} < events_data.sql
   ```
@@ -139,9 +139,9 @@
   3. Relasi `location` pada relational diagram memiliki atribut yang sama seperti pada ERD, yaitu `Address`, `Latitude`, dan `Longitude` karena hanya memiliki hubungan one-to-many dengan `event`. Primary key dari `location` (`Address`) menjadi atribut pada `event` sebagai foreign key di relational diagram.
   4. Sehingga, masing-masing relasi pada relational diagram memiliki atribut sebagai berikut:
        - `event` = (<u>**ID_event**<u>, Name, Price, Date, Start_time, Duration, Order_link, Address, Organizer, Category)
-        FK = event(Organizer) -> organizer(Organizer_page)
-        FK = event(Category) -> category(ID)
-        FK = event(Address) -> location(Address)
+          - FK = event(Organizer) -> organizer(Organizer_page)
+          - FK = event(Category) -> category(ID)
+          - FK = event(Address) -> location(Address)
        - `organizer` = (Name, Total_followers, Organizer_page)
        - `category` = (ID, Name)
        - `location` = (Address, Latitude, dan Longitude).
@@ -206,5 +206,7 @@
 
 ## Author
   _Naura Valda Prameswari - 18221173_
+
   _Sistem dan Teknologi Informasi_
+
   _Institut Teknologi Bandung_
