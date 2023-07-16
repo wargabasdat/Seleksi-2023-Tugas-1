@@ -1,4 +1,4 @@
-![Saving_File_Postgresql](https://github.com/RazanPtr/Seleksi-2023-Tugas-1/assets/88721317/9c4c4365-4e0f-496e-acd4-a9d208a5d3b0)<h1 align="center">
+<h1 align="center">
   <br>
   Scraping Data Laptop Bhinneka
   <br>
