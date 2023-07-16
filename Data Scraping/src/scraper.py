@@ -103,6 +103,12 @@ for i in range (11) :
         book_genres = p.find('div', 'woocommerce-product-category').get_text().replace("\n", "").replace(" ", "")
         book_price = p.find('span', 'price').get_text().replace("Rp", "").replace(".", "")
 
+        # On July 16th, 2023 there is one identical product at the same pages.
+        # We don't want to scrape the same product twice,
+        # so we break the loop when we found the identical product
+        if (book_title == "Komikus Misterius (salin)") :
+            break
+
         genres = book_genres.split(",")
 
         title.append(book_title)
@@ -126,6 +132,7 @@ for i in range (11) :
             genre_df.loc[len(genre_df)] = new_row
     
     print(f"{response} : Done scraping from page {i + 1}")
+print("<< Done scraping from KKPK catalogue >>")
 
 product_dict = {
     "Book ID" : id,
