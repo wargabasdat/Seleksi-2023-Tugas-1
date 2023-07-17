@@ -49,10 +49,10 @@ Berikut *screenshot* hasil *storing* data objek wisata di Sumatra Barat:
 - Tutorial *scraping* dengan beautifulsoup: [tutorial beutifulsoup](https://www.youtube.com/watch?v=YIiYeyfo7MM&t=2254s).
 - DBMS yang digunakan: [dokumentasi postgreSQL](https://www.postgresql.org/docs/current/index.html).
 
-## L. Author
+## L. Catatan Tambahan
+Pada proses *cleaning* data, di kebanyakan waktu penulis banyak memilih untuk menghapus data yang bolong-bolong, dalam artian memiliki nilai null di beberapa kolomnya. Namun, pada tabel ulasan_teratas, penulis menggunakan cara dengan me-*replace* kolom yang kosong tersebut dengan nilai *default* agar tidak ada data terbuang (sayang ygy).
+
+## M. Author
 |Nama|NIM|Jurusan|
 |----|---|-------|
 |Reyhan Putra Ananda|18221161|Sistem dan Teknologi Informasi 2021|
-
-
-Di ulasan_teratas ada beberapa objek wisata yang informasi pengulasnya kosong (satu row kosong) karena ada beberapa informasi yang tidak ada (jadi biar datanya bersih, maka 1 rownya dihapus) -> TAPI KAN NAMA AKUN PENGUNJUNG DAN ASAL PENGUNJUNG PRIMARY KEY ALIAS HARUS ADA -> ALTERNATIF SOLUSINYA DATANYA GAUSAH DICLEANING (KHUSUS INFORMASI PENGUNJUNG), JADI GAPAPA ADA INFORMASI BOLONG-BOLONG -> UPDATE : JADINYA CLEANING DENGAN DIREPLACE AJA KARENA SAYANG BANYAK DATA DIBUANG KALAU CLEANINGNYA DENGAN DIHAPUS
