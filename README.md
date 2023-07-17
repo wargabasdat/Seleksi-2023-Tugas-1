@@ -13,35 +13,44 @@
 </h2>
 
 ## Description of the data and DBMS
-### Data
+#### Data
 Webometrics adalah salah satu dari beberapa sistem pemeringkatan universitas yang ada di dunia. Webometrics sendiri dikembangkan oleh _Cybermetrics lab_, yaitu kelompok penelitian yang merupakan bagian dari _Consejo Superior de Investigaciones Cientificas_ (CSIC) atau  _Institute of Scientific Research Council_, badan penelitian nasional di Spanyol. Sistem ini melakukan metode penilaian berbasis _website_ yang mengevaluasi kualitas, kuantitas, aksesbilitas, dan visibilitas dari _website_ universitas yang ada di internet. Pemeringkatan webometrics ini bertujuan untuk memberikan pengukuran yang objektif mengenai kualitas dan visibilitas _website_ universitas.
 
 Pada project ini, _scraping_ dilakukan terhadap _website_ [webometrics](https://www.webometrics.info/en/world). Data yang diambil tidak seluruhnya, melainkan data mengenai peringkat universitas yang berada di ASEAN pada tahun 2023. Data tersebut terdiri dari `nama universitas`, `asal negara`, `link profile universitas`, `ranking di ASEAN`, `ranking di Negara`, `ranking berdasarkan Impact`, `ranking berdasarkan Openness`, `ranking berdasarkan Excellence`. Data webometrics ini saya pilih agar dapat mengetahui perbandingan dan letak posisi universitas saat ini bila dibandingkan dengan universitas-universitas lain yang berada di kontinen yang sama yaitu ASEAN. Data ini dapat bermanfaat bagi civitas akademika universitas agar dapat melakukan pengembangan kualitas dan visibilitas website universitasnya masing-masing.
 
-### DBMS
+#### DBMS
 Pada project ini, data-data hasil scraping diolah dan disimpan pada database sql dengan menggunakan DBMS PostgreSQL. DBMS PostgreSQL ini dipilih karena mudah untuk digunakan dan mudah pula untuk menemukan dokumentasinya apabila menemukan hambatan. 
 
 
 ## Specification of the program
-### Data scraping
-Proses data _scraping_ yang dilakukan pada project ini melalui beberapa tahapan pre-processing seperti parsing data dari website (HTML), transformasi, dan juga _data cleaning_. Sebelum dilakukan _scraping_, telah dilakukan pengecekan terlebih dahulu mengenai _robots.txt_ dari _webiste_. Selain itu, pada proses _scraping_, telah ditambahkan header sebagai identitas untuk memenuhi etika dari melakukan _scraping_. 
+#### Data Scraping
+Proses data _scraping_ yang dilakukan pada project ini melalui beberapa tahapan pre-processing seperti parsing data dari website (HTML), transformasi, dan juga _data cleaning_. Tahapan-tahapan tersebut dilakukan menggunakan python (ipynb) untuk memudahkan proses cleaning nantinya. Proses scraping dilakukan dengan memanfaatkan library `beautifulSoup`. Sebelum dilakukan _scraping_, telah dilakukan pengecekan terlebih dahulu mengenai _robots.txt_ dari _webiste_. Selain itu, pada proses _scraping_, telah ditambahkan header sebagai identitas untuk memenuhi etika dari melakukan _scraping_. 
 <div align="center">
 <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/add_header.png" alt="penambahan header" width="500">
 </div>
 
 Pada proses _cleaning_ telah dilakukan beberapa pengecekan untuk memastikan data yang tersedia sudah _clear_. Beberapa pengecekan yang dilakukan antara lain mengenai ada atau tidaknya nama universitas yang berulang, ada atau tidaknya ranking ASEAN maupun _world_ yang diduduki oleh lebih dari satu universitas, dan ada atau tidaknya data _null_. Selain itu, telah dilakukan _formattiing_ pula pada nama universitas agar hanya terdapat satu nama universitas (tanpa nama lain yang pada awalnya tertulis menggunakan "/") karena dianggap akan menyulitkan untuk diolah pada _database_.
 
+_cleaning_ :
 <div align="center">
-  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/cleaning1.png" alt="cleaning 1" width="450"/>
-  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/cleaning2.png" alt="cleaning 2" width="450"/>
+  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/cleaning1.png" alt="cleaning 1" width="400"/>
+  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/cleaning2.png" alt="cleaning 1" width="400"/>
 </div>
+
+code _formatting_ :
 <div align="center">
   <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/formatting.png" alt="cleaning 1" width="450"/>
 </div>
+
+data sebelum dan sesudah _formatting_ :
 <div align="center">
-  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/sebelum_formatting.png" alt="cleaning 1" width="450"/>
-  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/setelah_formatting.png" alt="cleaning 1" width="450"/>
+  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/sebelum_formatting.png" alt="cleaning 1" width="400"/>
+  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/setelah_formatting.png" alt="cleaning 1" width="400"/>
 </div>
+
+#### Data Storing
+Proses data _storing_ dilakukan pada project ini dengan memasukkan data hasil _scraping_ ke dalam RDBMS sesuai hasil desain ERD dan juga diagram relasional. RDBMS yang dihasilkan terdiri dari 5 relasi, yaitu `Country`, `University`, `Rank`, `University_website`, dan juga `info`. Pada relasi Country, University, dan Rank, data hasil _scraping_ telah dimasukkan. Relasi University_website dan juga info merupakan hasil dari pengembangan ERD sehingga belum terdapat data didalamnya, namun telah diatur mengenai _constraint_ yang sesuai.
+
 ## How to use
 
 ## JSON Structure
@@ -63,6 +72,7 @@ Pada proses _cleaning_ telah dilakukan beberapa pengecekan untuk memastikan data
   
 ## Author
 __Miralistya Cahya Fatimah__
+
 __18221116__
 1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
 
