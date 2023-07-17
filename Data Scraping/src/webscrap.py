@@ -6,13 +6,15 @@ from bs4 import BeautifulSoup as bs
 from requests import get
 import json
 
+# URL To Scrapping
 url = 'https://stuarte.co/2021/2021-full-list-rolling-stones-top-500-songs-of-all-time-updated/'
 response = get(url)
 
+# Parse HTML text
 soup = bs(response.content, "lxml")
 
+# Inspeksi untuk mencari data yang akan diambil
 title = soup.find_all('td', class_= None)
-print(len(title))
 
 data_song = []
 for index in range(0, len(title),4):
@@ -22,6 +24,7 @@ for index in range(0, len(title),4):
             title[index+3].text.strip()]
     data_song.append(data)
 
+# Print data
 for data in data_song:
     print(data)
 
