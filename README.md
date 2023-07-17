@@ -18,7 +18,6 @@ Ulasan hanya diambil yang teratas karena di websitenya ulasan dibagi-bagi per ha
 Di ulasan_teratas ada beberapa objek wisata yang informasi pengulasnya kosong (satu row kosong) karena ada beberapa informasi yang tidak ada (jadi biar datanya bersih, maka 1 rownya dihapus) -> TAPI KAN NAMA AKUN PENGUNJUNG DAN ASAL PENGUNJUNG PRIMARY KEY ALIAS HARUS ADA -> ALTERNATIF SOLUSINYA DATANYA GAUSAH DICLEANING (KHUSUS INFORMASI PENGUNJUNG), JADI GAPAPA ADA INFORMASI BOLONG-BOLONG -> UPDATE : JADINYA CLEANING DENGAN DIREPLACE AJA KARENA SAYANG BANYAK DATA DIBUANG KALAU CLEANINGNYA DENGAN DIHAPUS
 
 Tambahin .gitignore buat script DDL (dan file csv kalau mau)
-## Description of the data and DBMS (Why you choose it)
 ## Specification of the program
 ## How to use
 ## JSON Structure
