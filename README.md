@@ -43,17 +43,17 @@ Several libraries are used
 
 Scraped data is stored inside `Data Scraping/data/data.json`. The explanation of the structure is explained as below:
 
-```json
-// JSON Structure
-// {
-//     <Dataframe Index> : {
-//         <Attribute 1> : <Value 1>,
-//         <Attribute 2> : <Value 2>,
-//         .
-//         .
-//         <Attribute n> : <Value n>
-//     },
-// }
+```
+JSON Structure
+{
+    <Dataframe Index> : {
+        <Attribute 1> : <Value 1>,
+        <Attribute 2> : <Value 2>,
+        .
+        .
+        <Attribute n> : <Value n>
+    },
+}
 ```
 
 ### *data.json*
