@@ -67,7 +67,7 @@ pip install json
 ```
 cd /file_path
 ```
-<p> lalu  </p>
+     lalu  
 ```
 python store.py 
 ```
@@ -206,7 +206,7 @@ foreign  key:
 ![code1](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/code1.jpg)
 ![code2](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/code2.jpg)
 ![code3](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/code3.jpg)
-![code4](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/terminal.jpg)
+![code4](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/code4.jpg)
 
 * berikut output terminal
 ![terminal](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/terminal.jpg)
