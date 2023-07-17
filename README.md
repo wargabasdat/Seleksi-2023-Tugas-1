@@ -11,6 +11,8 @@
   <br>
   <br>
   ![logo csgo](https://i0.wp.com/esportsnesia.com/wp-content/uploads/2018/05/Apa-Itu-CSGO.jpg)
+
+  <br>
 </h2>
 
 
