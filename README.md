@@ -120,7 +120,7 @@ Setiap strong entity pada ERD akan menjadi tabel tersendiri. dan setiap atribut 
 ![translate3](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/translate3.png)
 
 4. Relasi antara voucher dengan customer adalah mmany-to-one dan kedua bagiannya relasi parsial. Bagian many terdapat pada voucher sehingga pada tabel voucher ditambahkan primary key dari tabel customer yaitu id_customer
-<img src="https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/translate4.png" width="300">
+<img src="https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/translate4.png">
 
 5. Relasi antara shopping_cart dengan payment adalah one-to-one sehingga dapat dapat memilih tabel yang mana yang akan mendapatkan atribut tambahan yang berupa primary key dari tabel lainnya. Saya memilih untuk menambahkan id_shopping_cart pada tabel payment.
 ![translate5](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/translate5.png)
