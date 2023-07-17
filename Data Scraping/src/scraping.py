@@ -11,7 +11,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 #Get directory to save data
 parent_dir = os.getcwd()
-data_folder = os.path.join(parent_dir,"Data Scraping","data")
+data_folder = os.path.join(parent_dir,"data")
 
 # Algorithm to load website by using selenium
 driver = webdriver.Chrome(service= Service(ChromeDriverManager().install()))
@@ -30,7 +30,7 @@ option = options.find_element(By.CLASS_NAME,value="v-select-list")
 testing = option.find_element(By.ID,"list-item-56-3")
 testing.click()
 
-def fetch_data(file_player,file_statistics,amount,gender,match_type):
+def scrape_data(file_player,file_statistics,amount,gender,match_type):
     """Common algorithm for fetching single players data"""
 
     # Load single players
@@ -98,9 +98,8 @@ def fetch_data(file_player,file_statistics,amount,gender,match_type):
             break
     return players,player_statistics
 
-def fetch_double_data(file_player,file_statistics,amount,first_gender,second_gender,match_type):
+def scrape_double_data(file_player,file_statistics,amount,first_gender,second_gender,match_type):
     """Function to fetch all double's categories"""
-
     # Load players data
     try:
         raw = open(file_player,encoding="UTF-8")
@@ -210,9 +209,9 @@ def fetch_double_data(file_player,file_statistics,amount,first_gender,second_gen
 
 def scrape_single_men_players():
     """Function to scrape and write single men players data"""
-    player_file = os.path.join(data_folder,"players.json")
-    statistic_file = os.path.join(data_folder,"single_statistics.json")
-    men_players, men_players_statistics = fetch_data(
+    player_file = os.path.join(data_folder,"playerss.json")
+    statistic_file = os.path.join(data_folder,"single_statisticss.json")
+    men_players, men_players_statistics = scrape_data(
                                             player_file,statistic_file,17,
                                             "male","men_single")
     with open(player_file,"w",encoding="UTF-8") as write_file :
@@ -228,7 +227,7 @@ def scrape_single_women_players():
     time.sleep(3)
     player_file = os.path.join(data_folder,"playerss.json")
     statistic_file = os.path.join(data_folder,"single_statisticss.json")
-    women_single_players,women_single_statistics = fetch_data(
+    women_single_players,women_single_statistics = scrape_data(
                                                     player_file,statistic_file,
                                                         12,"female","women_single")
     with open(player_file,"w",encoding="UTF-8") as write_file:
@@ -241,10 +240,10 @@ def scrape_men_double():
     rangking_tabs = driver.find_elements(By.XPATH,"//span[@class='ranking-tab-desktop']")
     men_double_rangking_tabs = rangking_tabs[2]
     men_double_rangking_tabs.click()
-    player_file = os.path.join(data_folder,"players.json")
-    statistic_file = os.path.join(data_folder,"double_statistics.json")
+    player_file = os.path.join(data_folder,"playerss.json")
+    statistic_file = os.path.join(data_folder,"double_statisticss.json")
     time.sleep(3)
-    men_double_players, men_double_statistics = fetch_double_data(
+    men_double_players, men_double_statistics = scrape_double_data(
                                                     player_file,statistic_file,13,
                                                     "male","male","men_double")
     with open(player_file,"w",encoding="UTF-8") as write_file :
@@ -259,10 +258,10 @@ def scrape_women_double():
     rangking_tabs = driver.find_elements(By.XPATH,"//span[@class='ranking-tab-desktop']")
     women_double_rangking_tabs = rangking_tabs[3]
     women_double_rangking_tabs.click()
-    player_file = os.path.join(data_folder,"players.json")
-    statistic_file = os.path.join(data_folder,"double_statistics.json")
+    player_file = os.path.join(data_folder,"playerss.json")
+    statistic_file = os.path.join(data_folder,"double_statisticss.json")
     time.sleep(3)
-    women_double_players,women_double_statistics = fetch_double_data(
+    women_double_players,women_double_statistics = scrape_double_data(
                                                         player_file,statistic_file,10,
                                                         "female","female","women_double")
     # Write player's data to players.json
@@ -277,10 +276,10 @@ def scrape_mixed_double():
     rangking_tabs = driver.find_elements(By.XPATH,"//span[@class='ranking-tab-desktop']")
     mixed_double_rangking_tabs = rangking_tabs[4]
     mixed_double_rangking_tabs.click()
-    player_file = os.path.join(data_folder,"players.json")
-    statistic_file = os.path.join(data_folder,"double_statistics.json")
+    player_file = os.path.join(data_folder,"playerss.json")
+    statistic_file = os.path.join(data_folder,"double_statisticss.json")
     time.sleep(3)
-    mixed_double_players,mixed_double_statistics = fetch_double_data(
+    mixed_double_players,mixed_double_statistics = scrape_double_data(
                                                         player_file,statistic_file,14,
                                                         "male","female","mixed_double")
     # Write player's data to players.json
@@ -290,8 +289,12 @@ def scrape_mixed_double():
     with open(statistic_file,"w",encoding="UTF-8") as write_file :
         json.dump(mixed_double_statistics,write_file)
 
-scrape_single_men_players()
-scrape_single_women_players()
-scrape_men_double()
-scrape_women_double()
-scrape_mixed_double()
+def main():
+    """Main function to run all scrape"""
+    scrape_single_men_players()
+    # scrape_single_women_players()
+    # scrape_men_double()
+    # scrape_women_double()
+    # scrape_mixed_double()
+
+main()
