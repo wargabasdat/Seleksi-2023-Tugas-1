@@ -36,6 +36,8 @@ Link for <a href="https://public.tableau.com/app/profile/ken.azizan/viz/SeleksiB
 <p>
   Pada proses data scraping saya menggunakan Jupyter-Lab, pada prosesnya saya menggunakan beberapa library diantaranya adalah BeautifulSoup, Selenium, chromedriver, dan Pandas. Untuk dapat mengakses website Kokoro Japan digunakan webchromedriver. Website kokoro japan adalah website dinamis maka Selenium harus digunakan untuk dapat mengambil seluruh data HTML dari website. Lalu dengan menggunakan beautifulSoup untuk melakukan scrape data yang dibutuhkan. Setelah itu dilakukan parsing,cleansing,dan transforming pada data yang telah didapatkan. Data tersebut disimpan pada JSON file dengan bantuan dataframe dari pandas.
 
+  Untuk membuat database serta memasukan data hasil scraping ke database postgresql digunakan python 3.11 dengan library psycopg2. psycopg2 digunakan untuk membuka koneksi dengan database postgreSQL sehingga dapat memasukan query dari file python. Kemudian digunakan juga library json untuk load data file json hasil scraping. Data hasil load tersebut akan dimasukan ke tabel dengan query insert.
+
   Proses data storing dilakukan dengan membuat perancangan dan pengenmbangan database kokoro japan menggunakan Entity Relation Diagram(ERD). Setelah itu, ERD diagram ditranslasikan menjadi relational diagram untuk dapat diimplementasikan pada DBMS PostgreSQL. Data yang sudah didapatkan dari proses scraping dimasukan ke dalam database. File dump SQL dari database dapat ditemukan pada folder data storing, sub-folder export.
 </p>
 
@@ -54,8 +56,24 @@ pip install time
 5. buka Scraping_Kokoro.ipynb di IDE pilihan anda
 6. Run All, jika ada error lakukan Run All lagi
 
+untuk memasukan data scraping ke database postgreSQL
+1. Clone repository ini
+2. Install library ini terlebih dahulu
+```
+pip install psycopg2
+pip install json
+```
+3. Buka command promp atau terminal dan masukan
+```
+cd /file_path
+```
+lalu
+```
+python store.py 
+```
+
 untuk memasukan data SQL ke DBMS PostgreSQL
-1. Clone repository
+1. Clone repository ini
 2. Buka command prompt pada folder Data storing, subfolder export
 3. Masukan database pada DBMS dengan command berikut
 ```
@@ -184,16 +202,13 @@ foreign  key:
 
 ### Data Storing
 
-* Saya menambahkan kolom id_product dengan query berikut
-![add_id](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/create_id_product.jpg)
-
-* Saya juga menambahkan constraint pada atribut status di tabel product hanya dapat diisi dengan 'Sale','Not sale', dan 'Sold out'
-![cons](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/constraint.jpg)
+* Berikut merupakan kode yang digunakan untuk membuat database beserta tabel dan constraint juga insert data pada tabel product menggunakan python
+![insert]()
 
 * Berikut tabel yang ada pada database
 ![tabel](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/table.jpg)
 
-* Berikut mengenai tabel product
+* Berikut mengenai tabel product dan constraint
 ![product](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/product.jpg)
 
 * Berikut isi tabel product
@@ -212,9 +227,12 @@ Library
 - Pandas
 - Chromedriver
 - time
+- psycopg2
+- json
 
 Blog
 - <a href="https://medium.com/python-in-plain-english/introduction-to-python-web-scraping-libraries-selenium-beautifulsoup-and-scrapy-71a1d86b7aaf">introduction of webscraping library</a>
 - <a href="https://pythonbasics.org/selenium-scroll-down/">Selenium scroll down</a>
+- <a href="https://www.tutorialspoint.com/python_data_access/python_postgresql_create_database.htm">Create database on postgreSQL using python</a>
 ## Author
 ### Ken Azizan - 18221107
