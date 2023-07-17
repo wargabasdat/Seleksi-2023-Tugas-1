@@ -70,14 +70,17 @@ for i in range(90):
     print(reviews)
     count = 0
     for review in obj.find_all("span",class_ = "CzVMJ"):
+        print(review)
+        print(count)
         if count == 0:
             location.append(review.text.strip())
         if count == 1:
             cleanliness.append(review.text.strip())
         if count == 2:
             service.append(review.text.strip())
-        if value == 3:
+        if count == 3:
             value.append(review.text.strip())
+            print(value)
         count+=1
     if len(location) == i:
         location.append('0.0')
