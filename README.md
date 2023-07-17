@@ -1,13 +1,13 @@
 <h1 align="center">
   <br>
-  Seleksi Warga Basdat 2023
+  CS:GO S-Tier Tournaments Data
   <br>
   <br>
 </h1>
 
 <h2 align="center">
   <br>
-  Data Scraping, Database Modelling & Data Storing
+  Data Scraping, Storing, and Visualization : CSGO Tournaments
   <br>
   <br>
 </h2>
