@@ -3,6 +3,4 @@ Data yang saya pakai adalah data obat-obatan dari go.drugbank.com. Pada website 
 
 ## Spesifikasi Program
 ![ss](ssprogram1.png)
-<p>
-    <img src="ss program1.png" width="220" height="240" />
-</p>
+Program yang saya buat diharapkan dapat melakukan web scraping tanpa API dengan user memasukkan page + 1 pada iterasi. Selanjutnya program akan mengscraping website yang dituju sebanyak page yang dimasukkan.
