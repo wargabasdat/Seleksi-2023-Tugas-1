@@ -1,6 +1,12 @@
 <h2 align="center">
   <br>
   Data Scraping, Database Modelling & Data Storing
+  <br>
+  <br>
+</h2>
+
+<h2 align="center">
+  <br>
   I Dewa Made Manu Pradnyana / 18221047
   <br>
   <br>
@@ -24,6 +30,7 @@ Saya menggunakan python sebagai bahasa pemrograman serta menggunakan library tam
 
 ## JSON Structure
 saya menggunakan json dengan struktur array object dengan contoh :
+```json
 [
   {
     "Key 1": "Value",
@@ -41,15 +48,60 @@ saya menggunakan json dengan struktur array object dengan contoh :
   },
   ...
 ]
+```
 
 ## Database Structure (ERD and relational diagram)
-Dibawah ini merupakan ERD yang saya buat <br>
+Dibawah ini merupakan ERD yang saya buat
+<img src = "./Data Storing/design/ERDiagram.png" alt="ERD">
 
 Dibawah ini merupakan Relational diagram yang saya buat <br>
+<img src = "./Data Storing/design/RelationalDiagram.png" alt = "Schema">
 
 ## Explanation of ERD to relational diagram translation process
+proses translasi ERD menjadi relational diagram dilakukan dengan berbagai proses, yaitu :
+1. Hubungan many-to-many antara boosterpack dan player ditranslasikan menjadi tiga buah tabel, yaitu tabel boosterpack, player, dan hubungan relasi antara kedua tabel tersebut yang dijadikan tabel (boosterpack_order) dengan primary key dari kedua tabel dijadikan atribut pada tabel boosterpack_order
+2. Hubungan many to one antara boosterpack dan cards ditranslasikan menjadi tiga buah tabel, yaitu tabel boosterpack, cards, dan hubungan relasi antara kedua tabel tersebut yang dijadikan tabel (Card_Boosterpack) dengan primary key dari kedua tabel dijadikan atribut pada tabel card_boosterpack. Dilakukan hal tersebut karena dirasa lebih efisien.
+3. Hubungan many (partial) to one antara card dengan forbiddenlist ditranslasikan menjadi tiga buah tabel, yaitu tabel cards, forbiddenlist, dan hubungan relasi antara kedua tabel tersebut yang dijadikan tabel (Card_Forbiddenlist) dengan primary key dari kedua tabel dijadikan atribut pada tabel card_forbiddenlist. Hal ini dilakukan agar menghindari null value pada many side.
+4. Hubungan spesialisasi pada tabel card serta tabel lainnya yang berhubungan ditranslasikan menjadi tiga tabel, yaitu tabel cards, monster, dan pendulum. Hal ini karena beberapa tabel spesialisasi yang dibuat tidak memiliki atribut khusus sehingga tidak perlu dibuat tabel. Lalu, primary key dari tabel card dimasukkan pada tabel monster dan primary key dari tabel monster dimasukkan pada tabel pendulum.
 
-## Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
+
+## Screenshot program
+
+### Data Scraping
+<p align="center">
+  <img src="./Data Scraping/screenshot/Scrap Testing.png">
+</p>
+
+### Data Storing
+List of Table
+<p align="center">
+  <img src="./Data Storing/screenshot/listoftable.png">
+</p>
+
+1. Tabel Boosterpack
+<p align="center">
+  <img src="./Data Storing/screenshot/boosterpack.png">
+</p>
+
+2. Tabel Card_Boosterpack
+<p align="center">
+  <img src="./Data Storing/screenshot/card_boosterpack.png">
+</p>
+
+3. Tabel Card
+<p align="center">
+  <img src="./Data Storing/screenshot/card.png">
+</p>
+
+4. Tabel Monster
+<p align="center">
+  <img src="./Data Storing/screenshot/monster.png">
+</p>
+
+5. Tabel Pendulum
+<p align="center">
+  <img src="./Data Storing/screenshot/pendulum.png">
+</p>
 
 ## Reference (Library used, etc)
 1. BeautifulSoup
