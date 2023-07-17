@@ -206,11 +206,15 @@ Tabelau digunakan untuk membuat dashbroad sebagai visualization dari data produk
 <br>
 
 ## Referensi
+Library
 - BeautifulSoup
 - Selenium
 - Pandas
 - Chromedriver
 - time
 
+Blog
+- <a href="https://medium.com/python-in-plain-english/introduction-to-python-web-scraping-libraries-selenium-beautifulsoup-and-scrapy-71a1d86b7aaf">introduction of webscraping library</a>
+- <a href="https://pythonbasics.org/selenium-scroll-down/">Selenium scroll down</a>
 ## Author
 ### Ken Azizan - 18221107
