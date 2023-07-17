@@ -51,3 +51,4 @@ Entitas Products karena memiliki dua atribut multi-value maka pada relational di
 ## References (Library used, etc)
 - Beautiful Soup
 - Selenium
+- jq (JSON to NDJSON Converter)
