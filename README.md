@@ -6,6 +6,7 @@
 </h1>
 
 <h2 align="center">
+   <img src="https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/kokoro_logo.jpg" width="300">
   <br>
   Data Scraping, Database Modelling & Data Storing Of 100 Best Seller Product in Kokoro Japan Website
   <br>
