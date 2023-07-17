@@ -1,21 +1,18 @@
 <h1 align="center">
   <br>
-  Seleksi Warga Basdat 2023
+  DATA HOTEL DI BANDUNG
   <br>
   <br>
 </h1>
 
-<h2 align="center">
-  <br>
-  Data Scraping, Database Modelling & Data Storing
-  <br>
-  <br>
-</h2>
 
+## DESCRIPTION OF THE DATA AND DBMS
 
-## Spesifikasi
+### Data 
+Tripadvisor, Inc. adalah perusahaan biro perjalanan daring asal Amerika Serikat yang mengoperasikan situs web dan aplikasi seluler yang berisi konten buatan pengguna dan situs web pencarian harga yang berhubungan dengan perjalanan dan wisata. Perusahaan juga menawarkan reservasi dan pemesanan daring untuk transportasi, penginapan, atraksi wisata, dan restoran.
 
-### Data Scraping
+Script ini ditujukan
+
 
 1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
 
@@ -29,6 +26,8 @@
 4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
 
 5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
+
+
 ```
 Preprocessing contohnya :
 - Cleaning
