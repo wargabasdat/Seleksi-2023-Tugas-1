@@ -122,4 +122,4 @@ for i in range(90):
 # Keeping to csv
 dict = {'hotel_name': hotel_name, 'review': reviews, 'address': address,'prices' : prices,'location':location,'cleanliness':cleanliness,'service':service,'value':value}
 df = pd.DataFrame(dict)
-df.to_csv('data.csv')
+df.to_csv('raw_data.csv')
