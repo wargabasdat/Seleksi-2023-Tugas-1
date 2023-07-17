@@ -1,5 +1,7 @@
 import json
 
+from jsonToPostgre import parseJsonToPostgre
+from jsonToPostgre import createTables
 from preprocessData import preprocessData
 from getPokemonData import getPokemonInfo
 from getUrlList import getUrlList
@@ -37,3 +39,7 @@ if (__name__ == "__main__"):
     
     # PREPROCESS THE DATA
     preprocessData()
+
+    # CREATE DATABASES IN POSTGRE
+    createTables()
+    parseJsonToPostgre()
