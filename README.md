@@ -12,6 +12,13 @@
   <br>
 </h2>
 
+## Dashboard
+![dashboard](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/7f588de7-ebce-49eb-9cb2-10272ef7846a) <br>
+From the dashboard above there are three insights that can be gained : 
+1. The price distribution of an apartment is mostly between $2000 - $5000
+2. The price and number of bedrooms correlate with each other because the higher the number of bedrooms an apartment has, the higher the price will be. Even though the price of 4 bedrooms drop, overall from the bar chart we can see an increase of price on increasing number of bedrooms
+3. Most apartment only have 1-3 bedrooms
+
 ### Table of Contents
 * [Description of the Data and DBMS](#description-of-the-data-and-dbms)
 * [Specification of the Program](#specification-of-the-program)
@@ -120,10 +127,12 @@ Since the ERD doesn't have _**many to many**_ and _**one to one**_ relationships
 * Database tables
   ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/3e663b03-8659-4a4a-92fa-e27f224e7056)
 
+### References
+Libraries used
+1. BeautifulSoup
+2. Pandas
+3. Requests
+4. Time
+5. JSON
 
-
-
-
-
-
-
+## Author : Marcel Ryan Antony - 13521127
