@@ -103,7 +103,7 @@ Berikut merupakan ERD dari database
 5. Relasi antara voucher dengan payment juga one-to-one karena pada satu pembayaran hanya boleh menggunaka satu buah voucher. Untuk voucher yang sama potongan harga bisa didapatkan berbeda jika transaksi pembayarannya berbeda. Oleh karena itu, diperluka atribut relasi yaitu price_off
 6. Pada relasi pembayaran terdapat dua cara untuk membayar yaitu paypal dan kartu kredit. Kedua jenis pembayaran tersebut memiliki atribut yang berbeda. Sehingga diperlukan spesialization dengan payment sebagai high-level entity dengan paypal dan credit_card sebagai low-level entity. Pembayaran hanya dapat dilakukan menggunakan paypal atau credit card sehingga pada payment relasi menjadi total. Customer hanya boleh menggunakan satu jenis pembayaran sehingga perlu diberikan keterangan disjoint.
 </p>
-<br>
+
 Berikut merupakan Relational diagram dari database
 ![relational_diagram](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/RD_Kokoro.png)
 
