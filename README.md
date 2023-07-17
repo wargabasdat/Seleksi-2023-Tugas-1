@@ -54,10 +54,37 @@ Proses data _storing_ dilakukan pada project ini dengan memasukkan data hasil _s
 ## How to use
 
 ## JSON Structure
+Data hasil _scraping_ disimpan dalam format `JSON` yaitu pada `scraping_webometrics.json`. Struktur dari `file` JSON tersebut adalah sebagai berikut.
+```
+[
+  {
+    "Ranking":1,
+    "World Ranking":47,
+    "University":"National University of Singapore",
+    "Country":"Singapore",
+    "Impact Rank":119,
+    "Openness Rank":60,
+    "Excellence Rank":22,
+    "Uni Profile":"https:\/\/ror.org\/01tgyzw49"
+  },
+  {
+    "Ranking":2,
+    "World Ranking":87,
+    "University":"Nanyang Technological University",
+    "Country":"Singapore",
+    "Impact Rank":304,
+    "Openness Rank":95,
+    "Excellence Rank":36,
+    "Uni Profile":"https:\/\/ror.org\/02e7b5302"
+  },
+  {
+```
+struktur orientasi yang digunakan pada JSON tersebut adalah berdasarkan __records__ data.
 
 ## Database Structure
-### ERD (Entity Relationship Diagram)
-### Diagram Relasional
+#### ERD (Entity Relationship Diagram)
+
+#### Diagram Relasional
 
 ## Explanation of ERD to relational diagram translation process
 
