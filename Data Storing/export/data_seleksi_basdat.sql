@@ -16,14 +16,6 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Current Database: `seleksi_basdat`
---
-
-CREATE DATABASE /*!32312 IF NOT EXISTS*/ `seleksi_basdat` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci */;
-
-USE `seleksi_basdat`;
-
---
 -- Table structure for table `price`
 --
 
@@ -46,7 +38,8 @@ CREATE TABLE `price` (
 
 LOCK TABLES `price` WRITE;
 /*!40000 ALTER TABLE `price` DISABLE KEYS */;
-INSERT INTO `price` (`id`, `price_original_currency`, `price_original_value`, `price_idr`) VALUES (1,'US $',669.99,9999850),
+INSERT INTO `price` VALUES
+(1,'US $',669.99,9999850),
 (2,'EUR ',239.99,4027000),
 (3,'EUR ',199.99,3355800),
 (4,'US $',2499.99,37313300),
@@ -297,7 +290,8 @@ CREATE TABLE `product` (
 
 LOCK TABLES `product` WRITE;
 /*!40000 ALTER TABLE `product` DISABLE KEYS */;
-INSERT INTO `product` (`id`, `listing_id`, `title`, `type`, `available`, `sold`, `return`, `seller`, `condition`) VALUES (1,354907151520,'Microsoft 13\" Surface Pro 8 (i5, 8GB RAM, 256GB SSD, Graphite) with Surface Pen','Laptops & Netbooks','Limited quantity ',1,'30 days ','Always Deals Store','New'),
+INSERT INTO `product` VALUES
+(1,354907151520,'Microsoft 13\" Surface Pro 8 (i5, 8GB RAM, 256GB SSD, Graphite) with Surface Pen','Laptops & Netbooks','Limited quantity ',1,'30 days ','Always Deals Store','New'),
 (2,333563280818,'CHUWI Laptop HeroBook GemiBook CoreBook Pro/Plus/X Intel Core Laptop Windows','Laptops & Netbooks','Limited quantity ',32,'30 days ','CHUWI Official Store（chuwi2018）','New'),
 (3,333996205343,'CHUWI HeroBook Pro 14.1\" Windows 10 Laptop Intel N4020 Laptop 8+256GB','Laptops & Netbooks','Limited quantity ',14,'30 days ','CHUWI Official Store（chuwi2018）','New'),
 (4,295671743764,'HP Omen 17.3\" Gaming Notebook QHD 165Hz i9-13900HX 32GB RAM 1TB SSD RTX 4090','Laptops & Netbooks','Limited quantity ',92,'30 days ','Antonline','New'),
@@ -545,7 +539,8 @@ CREATE TABLE `shipment` (
 
 LOCK TABLES `shipment` WRITE;
 /*!40000 ALTER TABLE `shipment` DISABLE KEYS */;
-INSERT INTO `shipment` (`id`, `shipping_availability`, `shipping_price_currency`, `shipping_price_value`, `shipping_location`) VALUES (1,'','US $',54.46,'Avenel, New Jersey, United States'),
+INSERT INTO `shipment` VALUES
+(1,'','US $',54.46,'Avenel, New Jersey, United States'),
 (2,'',NULL,0,NULL),
 (3,'',NULL,0,NULL),
 (4,'\0',NULL,NULL,'Atlanta, Georgia, United States'),
@@ -778,4 +773,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-07-17  3:55:27
+-- Dump completed on 2023-07-17 20:34:55

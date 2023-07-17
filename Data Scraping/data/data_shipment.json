@@ -1,0 +1,1328 @@
+{
+  "0":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":54.46,
+    "shipping_location":"Avenel, New Jersey, United States"
+  },
+  "1":{
+    "shipping_availability":true,
+    "shipping_price_currency":null,
+    "shipping_price_value":0.0,
+    "shipping_location":null
+  },
+  "2":{
+    "shipping_availability":true,
+    "shipping_price_currency":null,
+    "shipping_price_value":0.0,
+    "shipping_location":null
+  },
+  "3":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Atlanta, Georgia, United States"
+  },
+  "4":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":168.15,
+    "shipping_location":"Sanford, Florida, United States"
+  },
+  "5":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":70.59,
+    "shipping_location":"Jacksonville, Texas, United States"
+  },
+  "6":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":51.46,
+    "shipping_location":"Jacksonville, Texas, United States"
+  },
+  "7":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":59.03,
+    "shipping_location":"Atlanta, Georgia, United States"
+  },
+  "8":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Fort Myers, Florida, United States"
+  },
+  "9":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":43.07,
+    "shipping_location":"Jacksonville, Texas, United States"
+  },
+  "10":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":52.85,
+    "shipping_location":"Jacksonville, Texas, United States"
+  },
+  "11":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":49.5,
+    "shipping_location":"Jacksonville, Texas, United States"
+  },
+  "12":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Irvine, California, United States"
+  },
+  "13":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Irvine, California, United States"
+  },
+  "14":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":200.0,
+    "shipping_location":null
+  },
+  "15":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":200.0,
+    "shipping_location":null
+  },
+  "16":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":200.0,
+    "shipping_location":null
+  },
+  "17":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":200.0,
+    "shipping_location":null
+  },
+  "18":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":200.0,
+    "shipping_location":null
+  },
+  "19":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":54.69,
+    "shipping_location":"Henderson, Nevada, United States"
+  },
+  "20":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Houston, Texas, United States"
+  },
+  "21":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":60.72,
+    "shipping_location":"Sanford, Florida, United States"
+  },
+  "22":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":79.91,
+    "shipping_location":"Kennewick, Washington, United States"
+  },
+  "23":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":57.95,
+    "shipping_location":"Redwood City, California, United States"
+  },
+  "24":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Langenlonsheim, Germany"
+  },
+  "25":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Langenlonsheim, Germany"
+  },
+  "26":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Bremen, Germany"
+  },
+  "27":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Langenlonsheim, Germany"
+  },
+  "28":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Langenlonsheim, Germany"
+  },
+  "29":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Langenlonsheim, Germany"
+  },
+  "30":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Bremen, Germany"
+  },
+  "31":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Bremen, Germany"
+  },
+  "32":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Bremen, Germany"
+  },
+  "33":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Bremen, Germany"
+  },
+  "34":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Bremen, Germany"
+  },
+  "35":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Bremen, Germany"
+  },
+  "36":{
+    "shipping_availability":true,
+    "shipping_price_currency":"EUR ",
+    "shipping_price_value":3.0,
+    "shipping_location":null
+  },
+  "37":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Bremen, Germany"
+  },
+  "38":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Bremen, Germany"
+  },
+  "39":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Bremen, Germany"
+  },
+  "40":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Bremen, Germany"
+  },
+  "41":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Bremen, Germany"
+  },
+  "42":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Bremen, Germany"
+  },
+  "43":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Bremen, Germany"
+  },
+  "44":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Bremen, Germany"
+  },
+  "45":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Bremen, Germany"
+  },
+  "46":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Bremen, Germany"
+  },
+  "47":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Bremen, Germany"
+  },
+  "48":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Euskirchen, Germany"
+  },
+  "49":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Euskirchen, Germany"
+  },
+  "50":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Euskirchen, Germany"
+  },
+  "51":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Euskirchen, Germany"
+  },
+  "52":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Euskirchen, Germany"
+  },
+  "53":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Euskirchen, Germany"
+  },
+  "54":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Euskirchen, Germany"
+  },
+  "55":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Euskirchen, Germany"
+  },
+  "56":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Euskirchen, Germany"
+  },
+  "57":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Euskirchen, Germany"
+  },
+  "58":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Euskirchen, Germany"
+  },
+  "59":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Euskirchen, Germany"
+  },
+  "60":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Euskirchen, Germany"
+  },
+  "61":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Euskirchen, Germany"
+  },
+  "62":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":65.55,
+    "shipping_location":"Edison, New Jersey, United States"
+  },
+  "63":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":20.67,
+    "shipping_location":"Rowland Heights, California, United States"
+  },
+  "64":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":24.84,
+    "shipping_location":"Wilson, New York, United States"
+  },
+  "65":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":71.0,
+    "shipping_location":null
+  },
+  "66":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":99.41,
+    "shipping_location":"Tonbridge, United Kingdom"
+  },
+  "67":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":123.56,
+    "shipping_location":"Davidson Way, United Kingdom"
+  },
+  "68":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":104.3,
+    "shipping_location":"Birmingham, United Kingdom"
+  },
+  "69":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Manchester, United Kingdom"
+  },
+  "70":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":44.84,
+    "shipping_location":"Yorkshire, United Kingdom"
+  },
+  "71":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":43.04,
+    "shipping_location":"Yorkshire, United Kingdom"
+  },
+  "72":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Far Rockaway, New York, United States"
+  },
+  "73":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Z\u00farich, Switzerland"
+  },
+  "74":{
+    "shipping_availability":true,
+    "shipping_price_currency":null,
+    "shipping_price_value":0.0,
+    "shipping_location":null
+  },
+  "75":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"SESENA NUEVO ,TOLEDO SPAIN, Spain"
+  },
+  "76":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Hamburg, Germany"
+  },
+  "77":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Hamburg, Germany"
+  },
+  "78":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Schweiz, Switzerland"
+  },
+  "79":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Z\u00farich, Switzerland"
+  },
+  "80":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Z\u00farich, Switzerland"
+  },
+  "81":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":42.0,
+    "shipping_location":null
+  },
+  "82":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Brooklyn, New York, United States"
+  },
+  "83":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Far Rockaway, New York, United States"
+  },
+  "84":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":32.2,
+    "shipping_location":"Egg Harbor Township, New Jersey, United States"
+  },
+  "85":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":26.75,
+    "shipping_location":"Egg Harbor Township, New Jersey, United States"
+  },
+  "86":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":51.28,
+    "shipping_location":"London, United Kingdom"
+  },
+  "87":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":64.22,
+    "shipping_location":"Newcastle-Under-Lyme, United Kingdom"
+  },
+  "88":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"London, England,, London, United Kingdom"
+  },
+  "89":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":63.34,
+    "shipping_location":"Dundee, United Kingdom"
+  },
+  "90":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"London, England,, London, United Kingdom"
+  },
+  "91":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":54.8,
+    "shipping_location":"Dundee, United Kingdom"
+  },
+  "92":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":57.83,
+    "shipping_location":"Nottingham, United Kingdom"
+  },
+  "93":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"London, England,, London, United Kingdom"
+  },
+  "94":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":42.83,
+    "shipping_location":"Knutsford, Cheshire, United Kingdom"
+  },
+  "95":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":27.72,
+    "shipping_location":"Knutsford, Cheshire, United Kingdom"
+  },
+  "96":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":28.4,
+    "shipping_location":"Elmsford, New York, United States"
+  },
+  "97":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":21.31,
+    "shipping_location":"Duarte, California, United States"
+  },
+  "98":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":102.51,
+    "shipping_location":"Cannock, England, United Kingdom"
+  },
+  "99":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":72.25,
+    "shipping_location":"Cannock, England, United Kingdom"
+  },
+  "100":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":86.14,
+    "shipping_location":"Cannock, England, United Kingdom"
+  },
+  "101":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":56.95,
+    "shipping_location":"Cannock, England, United Kingdom"
+  },
+  "102":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":56.64,
+    "shipping_location":"Cannock, England, United Kingdom"
+  },
+  "103":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":49.91,
+    "shipping_location":"Wokingham, United Kingdom"
+  },
+  "104":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":78.17,
+    "shipping_location":"Cannock, England, United Kingdom"
+  },
+  "105":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":103.12,
+    "shipping_location":"Cannock, England, United Kingdom"
+  },
+  "106":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":54.36,
+    "shipping_location":"Cannock, England, United Kingdom"
+  },
+  "107":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":67.55,
+    "shipping_location":"Cannock, England, United Kingdom"
+  },
+  "108":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":69.07,
+    "shipping_location":"Sheffield, United Kingdom"
+  },
+  "109":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":2.99,
+    "shipping_location":null
+  },
+  "110":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":87.05,
+    "shipping_location":"Burnley, United Kingdom"
+  },
+  "111":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":87.97,
+    "shipping_location":"Cannock, England, United Kingdom"
+  },
+  "112":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":58.63,
+    "shipping_location":"Burnley, United Kingdom"
+  },
+  "113":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":59.08,
+    "shipping_location":"Burnley, United Kingdom"
+  },
+  "114":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":69.68,
+    "shipping_location":"Cannock, England, United Kingdom"
+  },
+  "115":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":69.99,
+    "shipping_location":"Burnley, United Kingdom"
+  },
+  "116":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":58.47,
+    "shipping_location":"Cannock, England, United Kingdom"
+  },
+  "117":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":59.69,
+    "shipping_location":"Cannock, England, United Kingdom"
+  },
+  "118":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":86.89,
+    "shipping_location":"Sheffield, United Kingdom"
+  },
+  "119":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":79.24,
+    "shipping_location":"Cannock, England, United Kingdom"
+  },
+  "120":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":24.62,
+    "shipping_location":"Milton, Florida, United States"
+  },
+  "121":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":55.12,
+    "shipping_location":"Oxnard, California, United States"
+  },
+  "122":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":58.89,
+    "shipping_location":"Oxnard, California, United States"
+  },
+  "123":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":69.19,
+    "shipping_location":"Oxnard, California, United States"
+  },
+  "124":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":31.37,
+    "shipping_location":"Milton, Florida, United States"
+  },
+  "125":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":31.14,
+    "shipping_location":"Oxnard, California, United States"
+  },
+  "126":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":47.22,
+    "shipping_location":"La Puente, California, United States"
+  },
+  "127":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":60.35,
+    "shipping_location":"Oxnard, California, United States"
+  },
+  "128":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":null
+  },
+  "129":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":37.55,
+    "shipping_location":"Las Vegas, Nevada, United States"
+  },
+  "130":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":357.75,
+    "shipping_location":null
+  },
+  "131":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":120.0,
+    "shipping_location":null
+  },
+  "132":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":120.0,
+    "shipping_location":null
+  },
+  "133":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":21.69,
+    "shipping_location":"Inwood, New York, United States"
+  },
+  "134":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":120.0,
+    "shipping_location":null
+  },
+  "135":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":24.84,
+    "shipping_location":"Inwood, New York, United States"
+  },
+  "136":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":31.32,
+    "shipping_location":"Inwood, New York, United States"
+  },
+  "137":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":1287.05,
+    "shipping_location":null
+  },
+  "138":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":1341.54,
+    "shipping_location":null
+  },
+  "139":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":314.65,
+    "shipping_location":null
+  },
+  "140":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":120.0,
+    "shipping_location":null
+  },
+  "141":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Langenlonsheim, Germany"
+  },
+  "142":{
+    "shipping_availability":true,
+    "shipping_price_currency":null,
+    "shipping_price_value":0.0,
+    "shipping_location":null
+  },
+  "143":{
+    "shipping_availability":true,
+    "shipping_price_currency":null,
+    "shipping_price_value":0.0,
+    "shipping_location":null
+  },
+  "144":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":21.47,
+    "shipping_location":"Hebron, Kentucky, United States"
+  },
+  "145":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":22.25,
+    "shipping_location":"Atlanta, Georgia, United States"
+  },
+  "146":{
+    "shipping_availability":true,
+    "shipping_price_currency":null,
+    "shipping_price_value":0.0,
+    "shipping_location":null
+  },
+  "147":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":25.07,
+    "shipping_location":"Greensboro, North Carolina, United States"
+  },
+  "148":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":20.84,
+    "shipping_location":"Hebron, Kentucky, United States"
+  },
+  "149":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":20.79,
+    "shipping_location":"Hebron, Kentucky, United States"
+  },
+  "150":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":20.99,
+    "shipping_location":"Hebron, Kentucky, United States"
+  },
+  "151":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":20.84,
+    "shipping_location":"Hebron, Kentucky, United States"
+  },
+  "152":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":21.14,
+    "shipping_location":"Hebron, Kentucky, United States"
+  },
+  "153":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":43.52,
+    "shipping_location":"Hebron, Kentucky, United States"
+  },
+  "154":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":21.22,
+    "shipping_location":"Hebron, Kentucky, United States"
+  },
+  "155":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":23.15,
+    "shipping_location":"Hebron, Kentucky, United States"
+  },
+  "156":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":21.21,
+    "shipping_location":"Hebron, Kentucky, United States"
+  },
+  "157":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":32.0,
+    "shipping_location":"Redwood City, California, United States"
+  },
+  "158":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":23.65,
+    "shipping_location":"Redwood City, California, United States"
+  },
+  "159":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":22.82,
+    "shipping_location":"Redwood City, California, United States"
+  },
+  "160":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":23.69,
+    "shipping_location":"Redwood City, California, United States"
+  },
+  "161":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":22.5,
+    "shipping_location":"Redwood City, California, United States"
+  },
+  "162":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":29.44,
+    "shipping_location":"Redwood City, California, United States"
+  },
+  "163":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":24.32,
+    "shipping_location":"Redwood City, California, United States"
+  },
+  "164":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":25.27,
+    "shipping_location":"Greensboro, North Carolina, United States"
+  },
+  "165":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":21.91,
+    "shipping_location":"Walnut, California, United States"
+  },
+  "166":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":58.42,
+    "shipping_location":"Walnut, California, United States"
+  },
+  "167":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":35.45,
+    "shipping_location":"Edison, New Jersey, United States"
+  },
+  "168":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":41.41,
+    "shipping_location":"West Sussex, United Kingdom"
+  },
+  "169":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":42.28,
+    "shipping_location":"West Sussex, United Kingdom"
+  },
+  "170":{
+    "shipping_availability":true,
+    "shipping_price_currency":"EUR ",
+    "shipping_price_value":89.9,
+    "shipping_location":null
+  },
+  "171":{
+    "shipping_availability":true,
+    "shipping_price_currency":"EUR ",
+    "shipping_price_value":59.99,
+    "shipping_location":null
+  },
+  "172":{
+    "shipping_availability":true,
+    "shipping_price_currency":"EUR ",
+    "shipping_price_value":59.99,
+    "shipping_location":null
+  },
+  "173":{
+    "shipping_availability":true,
+    "shipping_price_currency":"EUR ",
+    "shipping_price_value":89.9,
+    "shipping_location":null
+  },
+  "174":{
+    "shipping_availability":true,
+    "shipping_price_currency":"EUR ",
+    "shipping_price_value":59.99,
+    "shipping_location":null
+  },
+  "175":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Langenlonsheim, Germany"
+  },
+  "176":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Langenlonsheim, Germany"
+  },
+  "177":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Redwood City, California, United States"
+  },
+  "178":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":null
+  },
+  "179":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":28.29,
+    "shipping_location":"Waltham, Massachusetts, United States"
+  },
+  "180":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":28.85,
+    "shipping_location":"Duarte, California, United States"
+  },
+  "181":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Wilson, New York, United States"
+  },
+  "182":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Wilson, New York, United States"
+  },
+  "183":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":23.0,
+    "shipping_location":null
+  },
+  "184":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Wilson, New York, United States"
+  },
+  "185":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":21.24,
+    "shipping_location":"South Florida, United States"
+  },
+  "186":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Wilson, New York, United States"
+  },
+  "187":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":91.6,
+    "shipping_location":"Hayes, Middlesex, United Kingdom"
+  },
+  "188":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":86.89,
+    "shipping_location":"Scunthorpe, United Kingdom"
+  },
+  "189":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":85.83,
+    "shipping_location":"Swindon, Wiltshire, United Kingdom"
+  },
+  "190":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":66.02,
+    "shipping_location":"London, United Kingdom"
+  },
+  "191":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":28.02,
+    "shipping_location":"Guildford, UK, United Kingdom"
+  },
+  "192":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":27.41,
+    "shipping_location":"Guildford, UK, United Kingdom"
+  },
+  "193":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":81.86,
+    "shipping_location":"Knutsford, Cheshire, United Kingdom"
+  },
+  "194":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":27.17,
+    "shipping_location":"Knutsford, Cheshire, United Kingdom"
+  },
+  "195":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":42.13,
+    "shipping_location":"Knutsford, Cheshire, United Kingdom"
+  },
+  "196":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":26.99,
+    "shipping_location":"Knutsford, Cheshire, United Kingdom"
+  },
+  "197":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":42.31,
+    "shipping_location":"Guildford, UK, United Kingdom"
+  },
+  "198":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":47.24,
+    "shipping_location":"Knutsford, Cheshire, United Kingdom"
+  },
+  "199":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":25.63,
+    "shipping_location":"Atlanta, Georgia, United States"
+  },
+  "200":{
+    "shipping_availability":false,
+    "shipping_price_currency":null,
+    "shipping_price_value":null,
+    "shipping_location":"Euskirchen, Germany"
+  },
+  "201":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":35.93,
+    "shipping_location":"Atlanta, Georgia, United States"
+  },
+  "202":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":27.59,
+    "shipping_location":"Orangeburg, New York, United States"
+  },
+  "203":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":24.57,
+    "shipping_location":"Redwood City, California, United States"
+  },
+  "204":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":29.98,
+    "shipping_location":"Edison, New Jersey, United States"
+  },
+  "205":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":37.14,
+    "shipping_location":"Brooklyn, New York, United States"
+  },
+  "206":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":58.21,
+    "shipping_location":"Brooklyn, New York, United States"
+  },
+  "207":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":24.73,
+    "shipping_location":"Henderson, Nevada, United States"
+  },
+  "208":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":24.82,
+    "shipping_location":"Henderson, Nevada, United States"
+  },
+  "209":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":22.21,
+    "shipping_location":"Edison, New Jersey, United States"
+  },
+  "210":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":24.8,
+    "shipping_location":"Redwood City, California, United States"
+  },
+  "211":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":21.72,
+    "shipping_location":"Redwood City, California, United States"
+  },
+  "212":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":25.72,
+    "shipping_location":"Redwood City, California, United States"
+  },
+  "213":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":24.98,
+    "shipping_location":"Inwood, New York, United States"
+  },
+  "214":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":41.82,
+    "shipping_location":"Guildford, UK, United Kingdom"
+  },
+  "215":{
+    "shipping_availability":true,
+    "shipping_price_currency":"GBP ",
+    "shipping_price_value":42.13,
+    "shipping_location":"Guildford, UK, United Kingdom"
+  },
+  "216":{
+    "shipping_availability":true,
+    "shipping_price_currency":"EUR ",
+    "shipping_price_value":4.45,
+    "shipping_location":null
+  },
+  "217":{
+    "shipping_availability":true,
+    "shipping_price_currency":"EUR ",
+    "shipping_price_value":4.9,
+    "shipping_location":null
+  },
+  "218":{
+    "shipping_availability":true,
+    "shipping_price_currency":"EUR ",
+    "shipping_price_value":36.0,
+    "shipping_location":null
+  },
+  "238":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":24.71,
+    "shipping_location":"La Puente, California, United States"
+  },
+  "242":{
+    "shipping_availability":true,
+    "shipping_price_currency":"US $",
+    "shipping_price_value":39.99,
+    "shipping_location":null
+  }
+}
