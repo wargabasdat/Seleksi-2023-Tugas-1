@@ -11,15 +11,29 @@
   <br>
   <br>
   
-  ![logo csgo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/MLG_Columbus_-_Luminosity_vs_Navi.jpg/1200px-MLG_Columbus_-_Luminosity_vs_Navi.jpg)
+  ![csgo crowd photo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/MLG_Columbus_-_Luminosity_vs_Navi.jpg/1200px-MLG_Columbus_-_Luminosity_vs_Navi.jpg)
 
 
   <br>
 </h2>
 
 ## Table of Contents
+- [Description](https://github.com/attariqazhar/Seleksi-2023-Tugas-1#description)
+- [Specification](https://github.com/attariqazhar/Seleksi-2023-Tugas-1#specification)
+- [How to Use](https://github.com/attariqazhar/Seleksi-2023-Tugas-1#how-to-use)
+- [JSON Structure](https://github.com/attariqazhar/Seleksi-2023-Tugas-1#json-structure)
+- [Database Structure](https://github.com/attariqazhar/Seleksi-2023-Tugas-1#database-structure)
+- [ERD to Relational Diagram Translation](https://github.com/attariqazhar/Seleksi-2023-Tugas-1#erd-to-relational-diagram-translation)
+- [Screenshot of Program](https://github.com/attariqazhar/Seleksi-2023-Tugas-1#screenshot-of-program)
+- [References](https://github.com/attariqazhar/Seleksi-2023-Tugas-1#references)
+- [Author](https://github.com/attariqazhar/Seleksi-2023-Tugas-1#author)
 
 ## Description
+
+<br align = "center">
+  <img src="https://trivia.liquipedia.net/static/media/liquipedia-logo.79d7a74bbfbec5cc9cac0ee286716002.svg" width = 400>
+<br>
+  
 Liquipedia merupakan _website_ yang menyimpan informasi terbaru mengenai skor turnamen, profil tim _esport_, dan profil pemain. Salah satu informasi _esport_ yang tersedia di _website_ tersebut adalah Counter Strike: Global Offensive (CSGO). CSGO merupakan permainan _First Person Shooter_ terkemuka di dunia permainan _online_. Pada Liquipedia CSGO, turnamen-turnamen terbagi ke dalam beberapa _tier_ dengan _tier_ tertingginya adalah _S-Tier_. Mengutip dari Liquipedia CSGO, turnamen _S-Tier_ menawarkan total hadiah yang terhitung tinggi, hampir seluruhnya dilaksanakan secara luring (_offline_), dan diikuti oleh tim-tim paling bergengsi di dunia CSGO _esport_. Pada _repository_ ini, akan dilakukan _Data Scraping_ pada _website_ Liquipedia CSGO untuk mencari informasi setiap turnamen _S-Tier_ yang sudah pernah diadakan pada tahun 2012-2023.
 <br>
 <br>
@@ -151,6 +165,10 @@ Entitas Tournament dan Team memiliki hubungan _many-to-many_ karena setiap turna
 ![output json](https://github.com/attariqazhar/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/write_json.png)
 
 ## References
+- Informasi Turnamen S-Tier CSGO
+  <br>
+  [Liquipedia CS](https://liquipedia.net/counterstrike/S-Tier_Tournaments)
+  
 - Web Scraping Tutorial
   <br>
   [Web Scraping with Python - Beautiful Soup Crash Course](https://www.youtube.com/watch?v=XVv6mJpFOb0)
