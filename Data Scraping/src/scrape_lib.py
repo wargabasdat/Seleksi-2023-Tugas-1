@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
-import requests
+import jsonpickle
 import time
-import json
+# import json
 from selenium import webdriver
 
 
@@ -28,12 +28,14 @@ def getListOfTupleData(html_txt, home_link):
     all_products_info_tag = [tag for tag in soup.find_all(
         'div', class_='product-item')]
     products_info = []
+    count = 0
 
     for product_info1 in all_products_info_tag:
-
+        count += 1
         product_info = ()
         # Product_Name
-        name = product_info1.find('a', class_='titledekstop').text
+        name_element = product_info1.find('a', class_='titledekstop')
+        name = name_element.text if name_element else "N/A"
         product_info += (name,)
 
         # Product_Price
@@ -47,7 +49,8 @@ def getListOfTupleData(html_txt, home_link):
         product_info += (price,)
 
         # Image Link
-        image_link = product_info1.find('img', class_="image__img")['src']
+        image_link_element = product_info1.find('img', class_="image__img")
+        image_link = image_link_element['src'] if image_link_element else "N/A"
         product_info += (image_link, )
 
         # Access product details
@@ -58,12 +61,14 @@ def getListOfTupleData(html_txt, home_link):
         soup1 = BeautifulSoup(details_html_txt, 'lxml')
 
         # Color
-        color = soup1.find('span', id='divcolorpickervalue').text
+        color_element = soup1.find('span', id='divcolorpickervalue')
+        color = color_element.text if color_element else "N/A"
         product_info += (color,)
 
         # Product_ID
-        product_id = soup1.find(
-            'div', class_="product__sku fs-body-25 t-opacity-60").text
+        product_id_element = soup1.find(
+            'div', class_="product__sku fs-body-25 t-opacity-60")
+        product_id = product_id_element.text if product_id_element else "N/A"
         product_id = product_id.split("|")[0]
         product_id = product_id.replace(' ', '')
         product_info += (product_id,)
@@ -71,17 +76,23 @@ def getListOfTupleData(html_txt, home_link):
         # Product_Details
         details_container = soup1.find(
             'div', id="accordion-content-description")
-        details_tuple = details_container.find_all('li')
         details = ''
-        for detail in details_tuple:
-            temp = detail.text
-            if details != '':
-                details += ", "
-            details += temp
-
+        if details_container:
+            details_tuple = details_container.find_all('li')
+            for detail in details_tuple:
+                temp = detail.text if detail else "N/A"
+                if details != '':
+                    details += ", "
+                details += temp
+            details = details.lstrip()
+        else:
+            details = 'N/A'
+        if details == '':
+            details = 'N/A'
         product_info += (details, )
-        products_info.append(products_info)
-        print("Getting", name)
+        products_info.append(product_info)
+        print(count, name)
+    print("Number of clothing items retrieved:", count)
     return products_info
 
 
@@ -99,12 +110,17 @@ def jsonStoring(products_info):
             for product in products_info
         ]
     }
-    products_json = json.dumps(products)
-    with open('products.json', 'w') as file:
+    products_json = jsonpickle.encode(products)
+    with open("products.json", 'w') as file:
         file.write(products_json)
 
-    # products_names = [name for name in all_products_info.find_a]
-    # print(len(all_products_info))
-    # product_price = [tag.href for tag in soup.find_all()]
 
-    # print(product_name)
+# test = [('Kandida', 'Lala', 'Kucing', 'Papi', 'Kudis', 'OK'),
+#         ('Mari', 'Kita', 'Coba', 'Say', 'Ok', 'Mantap')]
+# jsonStoring(test)
+
+# products_names = [name for name in all_products_info.find_a]
+# print(len(all_products_info))
+# product_price = [tag.href for tag in soup.find_all()]
+
+# print(product_name)
