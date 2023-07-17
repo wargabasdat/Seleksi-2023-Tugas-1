@@ -83,7 +83,8 @@ In a one-to-many relationship, a foreign key must incorporate into the table cor
 #### One to one
 In a one-to-one relationship there is flexibility to decide where to implement the relationship by placing foreign key to one of the entity.
 ## Screenshot program
-
+- Main Program <br>
+![mainprogram](https://github.com/reinhartlim1/Seleksi-2023-Tugas-1/blob/0b2b982812e8214935e8eb65aacb29142190bd77/Data%20Scraping/screenshot/src.png)
 - Preprocessing <br>
 ![preprocessing](https://github.com/reinhartlim1/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/preprocessing.png)
 
