@@ -7,95 +7,132 @@
 
 <h2 align="center">
   <br>
-  Data Scraping, Database Modelling & Data Storing
+  Marcel Ryan Antony - 13521127
   <br>
   <br>
 </h2>
 
+## Dashboard
+![dashboard](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/7f588de7-ebce-49eb-9cb2-10272ef7846a) <br>
+From the dashboard above there are three insights that can be gained : 
+1. The price distribution of an apartment is mostly between $2000 - $5000
+2. The price and number of bedrooms correlate with each other because the higher the number of bedrooms an apartment has, the higher the price will be. Even though the price of 4 bedrooms drop, overall from the bar chart we can see an increase of price on increasing number of bedrooms
+3. Most apartment only have 1-3 bedrooms
 
-## Spesifikasi
+### Table of Contents
+* [Description of the Data and DBMS](#description-of-the-data-and-dbms)
+* [Specification of the Program](#specification-of-the-program)
+* [How to Use](#how-to-use)
+* [JSON Structure](#json-structure)
+* [Database Structure](#database-structure)
+* [ERD to Relational Translation Process](#erd-to-relational-translation-process)
+* [Screenshots](#screenshots)
 
-### Data Scraping
+### Description of the Data and DBMS
+Zillow is an online real estate marketplace that provides a platform for buying, selling, renting, and researching properties. It was founded in 2006 and has become one of the most popular and widely used real estate websites in the United States.
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
+This repository contains the program to scrape and store the data from Zillow's official website specifically at https://www.zillow.com/homes/for_rent/Brooklyn,-New-York,-NY_rb/{}_p/ page where I only take specific data that is the apartments that are rented at Brooklyn, New York. The contents I can scrape from the website are not much due to the strict restriction and minimum data. The item that I scrape at the page is the address of the apartment, the price, and the properties of the apartment.
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
+The reason why I chose the Zillow website is because I am interested in analyzing the price of the apartment that is rented in Brooklyn, New York. By analyzing the price of the apartment I can take some good insights into how the pricing of a rented apartment works. Therefore I can understand more about the impact of properties or others on an apartment price
 
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
-
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
-
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
+### Specification of the Program
+#### Data Scraping :
+For data scraping, this program is built with Python programming language. In order to run and simplify the program, there are some libraries that need to be installed before running the program :
+#### Jupyter Notebook
+To install jupyter notebook via your terminal, run the prompt below
+```bash
+pip install notebook
 ```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
+#### BeautifulSoup
+To install BeautifulSoup via your terminal, run the prompt below
+```bash
+pip install beautifulsoup4
 ```
-
-### Database Modelling & Data Storing
-
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
-
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
-
-4. Tools yang digunakan __dibebaskan__ pada peserta.
-
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
-
-
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
-
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
-
-### Pengumpulan
-
-
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
-
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
-
-
+#### JSON
+Because the scraped data will be stored in JSON structure, the JSON library is needed. To install JSON via your terminal, run the prompt below
+```bash
+pip install json
 ```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
+#### Pandas
+Because the scraped data needs to be processed, pandas library is needed because it provides many tools for processing data. To install pandas via your terminal, run the prompt below
+```bash
+pip install pandas
 ```
+#### Data Storing : 
+For data storing, this program uses PostgreSQL as the DBMS for storing scraped data. The schema of the database is represented by an Entity Relationship Diagram and a Relational Diagram which will be represented below. There are only two tables that are filled with scraped data, the tables are "apartment" table and "room" table. The database can be used by simply importing the SQL file in Data Storing/export.
 
+### How to Use
+1. Install all the required libraries
+2. Clone this repository to your local repository
+3. Open jupyter notebook
+   You can open jupyter notebook via your terminal by running the prompt below
+  ```bash
+  jupyter notebook
+  ```
+4. Open and run WebScraping.ipynb and DataPreProcessing.ipynb
+5. The scraped and processed data will be generated in Data Scraping/data
 
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
+### JSON Structure
+There are two JSON files in this repository, one of them represents the structure in which the data is scraped and the other one represents the structure of processed data. Here are examples of both JSON structures.
+```bash
+    {
+        "address": "West Wharf | 60 Wharf Dr, Brooklyn, NY",
+        "price": "$3,575+ Studio",
+        "properties": "$4,308+ 1 bd$8,250+ 2 bds$9,167+ 3 bds "
+    }
+```
+```bash
+    {
+        "ApartmentID":45,
+        "Price":3655,
+        "NumberOfBedrooms":1,
+        "NumberOfBathrooms":1,
+        "Address":"One Blue Slip | 1 Blue Slip, Brooklyn, NY"
+    }
+```
+### Database Structure
+#### Entity Relationship Diagram
+![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/0aa545f4-e734-41dc-b590-0e9ab4bbf706)
+#### Relational Diagram
+![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/451e7181-c5af-44bd-9f24-210716721410)
 
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
+### ERD to Relational Translation Process
+For the full specific step-by-step of ERD to Relational translation process, you can [READ THIS DOC](https://docs.google.com/document/d/108qe9kLSCpudUiD8j0Pmmf38SbYldvXmvZrPH0l88D4/edit)
 
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
-<br>
+In summary : 
+1. The strong entity will be changed to a relation
+2. The weak entity will be changed to a relation with its discriminator and its strong entity's primary key as the primary key
+3. The entity with _**one to many**_ relationship will have foreign key inside of the relation that will refer to the _**many**_ entity
+4. Specialization: each specialization will be turned into its own relation but only containing the new attribute and its parent entity primary key that will refer to its parent relation
+
+Since the ERD doesn't have _**many to many**_ and _**one to one**_ relationships, the process of translating those relationship types won't be explained
+### Screenshots
+* Function to get data from page to page
+  ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/20ff5d05-6d7f-4edd-867a-5f666e1ad9a4)
+* Saving scraped data to an array of dictionary
+  ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/b5a1c91f-597d-449a-a551-c2cd4e01b0c1)
+* Saving data to JSON structure
+  ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/e06c8172-21cf-4610-af2d-dde043d6227a)
+* Making new data structure for processed data
+  ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/2ab899f1-4f91-4870-8013-e8c53640a088)
+* Processing the scraped data
+  ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/5c6f9c88-bd6d-4c88-a633-802aebe1eebe)
+  ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/e635f0ac-d417-4a1c-999a-22d2bf3e7be4)
+  ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/e7557612-ab50-4286-8b5b-ab20f47a8609)
+* Data storing in PostgreSQL
+  Apartment table
+  ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/81f9d2a6-5dfa-4362-a52a-73d3605e45b0)
+  Room table
+  ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/b5af3840-a477-4bd2-8c69-803e14f5912b)
+* Database tables
+  ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/3e663b03-8659-4a4a-92fa-e27f224e7056)
+
+### References
+Libraries used
+1. BeautifulSoup
+2. Pandas
+3. Requests
+4. Time
+5. JSON
+
+## Author : Marcel Ryan Antony - 13521127

@@ -1,0 +1,902 @@
+[
+    {
+        "address": "West Wharf | 60 Wharf Dr, Brooklyn, NY",
+        "price": "$3,575+ Studio",
+        "properties": "$4,308+ 1 bd$8,250+ 2 bds$9,167+ 3 bds "
+    },
+    {
+        "address": "Avalon Willoughby Square | 214 Duffield St, Brooklyn, NY",
+        "price": "$3,254+ Studio",
+        "properties": "$3,864+ 1 bd "
+    },
+    {
+        "address": "AVA DoBro | 100 Willoughby St, Brooklyn, NY",
+        "price": "$3,600+ Studio",
+        "properties": "$4,451+ 1 bd$5,462+ 2 bds$6,075+ 3 bds "
+    },
+    {
+        "address": "THE BELLSLIP | 1 Bell Slip, Brooklyn, NY",
+        "price": "$3,204+ Studio",
+        "properties": "$4,930+ 1 bd$7,094+ 2 bds "
+    },
+    {
+        "address": "AVA Fort Greene | 343 Gold St, Brooklyn, NY",
+        "price": "$3,775+ Studio",
+        "properties": "$3,835+ 1 bd$5,105+ 2 bds$7,832+ 3 bds "
+    },
+    {
+        "address": "461 Dean | 461 Dean St, Brooklyn, NY",
+        "price": "$3,245+ Studio",
+        "properties": "$3,995+ 1 bd "
+    },
+    {
+        "address": "461 Dean, 461 Dean St APT 33F, Brooklyn, NY 11217",
+        "price": "$3,995/mo",
+        "properties": "1 bd1 ba567 sqft - Apartment for rent"
+    },
+    {
+        "address": "One Blue Slip | 1 Blue Slip, Brooklyn, NY",
+        "price": "$3,655+ Studio",
+        "properties": "$3,875+ 1 bd$7,055+ 2 bds "
+    },
+    {
+        "address": "180 Montague | 180 Montague St, Brooklyn, NY",
+        "price": "$4,071+ 1 bd",
+        "properties": " "
+    },
+    {
+        "address": "West Wharf | 60 Wharf Dr, Brooklyn, NY",
+        "price": "$3,575+ Studio",
+        "properties": "$4,308+ 1 bd$8,250+ 2 bds$9,167+ 3 bds "
+    },
+    {
+        "address": "Avalon Willoughby Square | 214 Duffield St, Brooklyn, NY",
+        "price": "$3,254+ Studio",
+        "properties": "$3,864+ 1 bd "
+    },
+    {
+        "address": "AVA DoBro | 100 Willoughby St, Brooklyn, NY",
+        "price": "$3,600+ Studio",
+        "properties": "$4,451+ 1 bd$5,462+ 2 bds$6,075+ 3 bds "
+    },
+    {
+        "address": "THE BELLSLIP | 1 Bell Slip, Brooklyn, NY",
+        "price": "$3,204+ Studio",
+        "properties": "$4,930+ 1 bd$7,094+ 2 bds "
+    },
+    {
+        "address": "AVA Fort Greene | 343 Gold St, Brooklyn, NY",
+        "price": "$3,775+ Studio",
+        "properties": "$3,835+ 1 bd$5,105+ 2 bds$7,832+ 3 bds "
+    },
+    {
+        "address": "461 Dean | 461 Dean St, Brooklyn, NY",
+        "price": "$3,245+ Studio",
+        "properties": "$3,995+ 1 bd "
+    },
+    {
+        "address": "461 Dean, 461 Dean St APT 33F, Brooklyn, NY 11217",
+        "price": "$3,995/mo",
+        "properties": "1 bd1 ba567 sqft - Apartment for rent"
+    },
+    {
+        "address": "One Blue Slip | 1 Blue Slip, Brooklyn, NY",
+        "price": "$3,655+ Studio",
+        "properties": "$3,875+ 1 bd$7,055+ 2 bds "
+    },
+    {
+        "address": "180 Montague | 180 Montague St, Brooklyn, NY",
+        "price": "$4,071+ 1 bd",
+        "properties": " "
+    },
+    {
+        "address": "810 Flushing Ave, Brooklyn, NY",
+        "price": "$3,057+ 2 bds",
+        "properties": " "
+    },
+    {
+        "address": "277 Classon Ave, Brooklyn, NY",
+        "price": "$3,600+ 3 bds",
+        "properties": "$3,500+ 4 bds "
+    },
+    {
+        "address": "221 E 57th St #2, Brooklyn, NY 11203",
+        "price": "$2,800/mo",
+        "properties": "3 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "1119 Broadway #6-A, Brooklyn, NY 11221",
+        "price": "$2,150/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "1530 E 8th St, Brooklyn, NY 11230",
+        "price": "$2,100/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "10 Sackman St APT 1, Brooklyn, NY 11233",
+        "price": "$2,600/mo",
+        "properties": "3 bds1.5 ba900 sqft - Apartment for rent"
+    },
+    {
+        "address": "1770 E 14th St APT 6E, Brooklyn, NY 11229",
+        "price": "$2,550/mo",
+        "properties": "2 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "19 Jardine Pl #2, Brooklyn, NY 11233",
+        "price": "$2,450/mo",
+        "properties": "2 bds1 ba765 sqft - Apartment for rent"
+    },
+    {
+        "address": "290 Linden Blvd #2G, Brooklyn, NY 11226",
+        "price": "$2,900/mo",
+        "properties": "2 bds2 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "708 Lorimer St APT 2R, Brooklyn, NY 11211",
+        "price": "$3,500/mo",
+        "properties": "1 bd1 ba750 sqft - Apartment for rent"
+    },
+    {
+        "address": "808 Putnam Ave, Brooklyn, NY",
+        "price": "$3,100+ 2 bds",
+        "properties": " "
+    },
+    {
+        "address": "4603 8th Ave, Brooklyn, NY",
+        "price": "$2,800+ 2 bds",
+        "properties": "$3,400+ 3 bds$6,600+ 7 bds "
+    },
+    {
+        "address": "650 Ocean Ave #14, Brooklyn, NY 11226",
+        "price": "$1,550/mo",
+        "properties": "Studio 1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "640 Halsey St #4, Brooklyn, NY 11233",
+        "price": "$4,200/mo",
+        "properties": "3 bds2 ba1,200 sqft - Apartment for rent"
+    },
+    {
+        "address": "704 8th Ave, Brooklyn, NY",
+        "price": "$6,250+ 3 bds",
+        "properties": " "
+    },
+    {
+        "address": "824 E New York Ave, Brooklyn, NY",
+        "price": "$2,453+ 1 bd",
+        "properties": " "
+    },
+    {
+        "address": "375 Dean St, Brooklyn, NY",
+        "price": "$3,300+ Studio",
+        "properties": "$4,200+ 1 bd$7,100+ 2 bds "
+    },
+    {
+        "address": "754 Grand St, Brooklyn, NY",
+        "price": "$5,500+ 3 bds",
+        "properties": " "
+    },
+    {
+        "address": "107 Vanderveer St #1D, Brooklyn, NY 11207",
+        "price": "$2,200/mo",
+        "properties": "Studio 1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "142 Scholes St APT 5, Brooklyn, NY 11206",
+        "price": "$3,700/mo",
+        "properties": "2 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "362 Stockton St APT 22, Brooklyn, NY 11206",
+        "price": "$2,499/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "1875 Atlantic Ave, Brooklyn, NY",
+        "price": "$2,500+ Studio",
+        "properties": "$2,800+ 2 bds$3,550+ 3 bds "
+    },
+    {
+        "address": "92 Decatur St #1K, Brooklyn, NY 11216",
+        "price": "$3,975/mo",
+        "properties": "2 bds1.5 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "839 53rd St FLOOR 2, Brooklyn, NY 11220",
+        "price": "$1,900/mo",
+        "properties": "Studio 1 ba650 sqft - Apartment for rent"
+    },
+    {
+        "address": "579 E 84th St #1, Brooklyn, NY 11236",
+        "price": "$2,350/mo",
+        "properties": "2 bds1 ba960 sqft - Apartment for rent"
+    },
+    {
+        "address": "46 India St FLOOR 2, Brooklyn, NY 11222",
+        "price": "$5,250/mo",
+        "properties": "2 bds1 ba1,275 sqft - Apartment for rent"
+    },
+    {
+        "address": "280 Meeker Ave, Brooklyn, NY",
+        "price": "$3,150+ Studio",
+        "properties": "$4,900+ 1 bd$4,800+ 2 bds$7,900+ 3 bds "
+    },
+    {
+        "address": "375 Vernon Ave, Brooklyn, NY",
+        "price": "$4,200+ 4 bds",
+        "properties": "$5,299+ 5 bds "
+    },
+    {
+        "address": "123 Melrose St, Brooklyn, NY",
+        "price": "$2,850+ Studio",
+        "properties": "$3,615+ 1 bd$4,015+ 2 bds "
+    },
+    {
+        "address": "195 Spencer St APT 4B, Brooklyn, NY 11205",
+        "price": "$4,800/mo",
+        "properties": "2 bds2 ba1,041 sqft - Apartment for rent"
+    },
+    {
+        "address": "25 E 21st St #4F, Brooklyn, NY 11226",
+        "price": "$3,495/mo",
+        "properties": "3 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "22 Tehama St, Brooklyn, NY",
+        "price": "$2,500+ 2 bds",
+        "properties": " "
+    },
+    {
+        "address": "333 Schermerhorn St, Brooklyn, NY",
+        "price": "$3,322+ Studio",
+        "properties": "$4,327+ 1 bd "
+    },
+    {
+        "address": "10 Montieth St, Brooklyn, NY",
+        "price": "$2,462+ Studio",
+        "properties": "$3,080+ 1 bd$4,480+ 2 bds "
+    },
+    {
+        "address": "165 Wilson Ave APT 2R, Brooklyn, NY 11237",
+        "price": "$2,500/mo",
+        "properties": "2 bds2 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "555 Waverly Ave, Brooklyn, NY",
+        "price": "$3,000+ Studio",
+        "properties": "$4,000+ 1 bd "
+    },
+    {
+        "address": "1104 Dean St APT 1, Brooklyn, NY 11216",
+        "price": "$1,700/mo",
+        "properties": "Studio 1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "244 Garfield Pl APT 2, Brooklyn, NY 11215",
+        "price": "$4,150/mo",
+        "properties": "2 bds1 ba1,100 sqft - Apartment for rent"
+    },
+    {
+        "address": "125 Lefferts Pl APT 3, Brooklyn, NY 11238",
+        "price": "$4,800/mo",
+        "properties": "4 bds2 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "105 Vanderveer St, Brooklyn, NY",
+        "price": "$3,500+ 3 bds",
+        "properties": "$4,000+ 4 bds "
+    },
+    {
+        "address": "138 Saint Marks Pl, Brooklyn, NY",
+        "price": "$2,400+ Studio",
+        "properties": " "
+    },
+    {
+        "address": "475 Grand St, Brooklyn, NY",
+        "price": "$8,800+ 4 bds",
+        "properties": "$10,800+ 5 bds "
+    },
+    {
+        "address": "301 3rd St APT 4, Brooklyn, NY 11215",
+        "price": "$4,995/mo",
+        "properties": "3 bds2 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "180 Myrtle Ave APT 6V, Brooklyn, NY 11201",
+        "price": "$3,921/mo",
+        "properties": "1 bd1 ba594 sqft - Apartment for rent"
+    },
+    {
+        "address": "295 N 7th St, Brooklyn, NY",
+        "price": "$6,400+ 2 bds",
+        "properties": "$9,500+ 4 bds "
+    },
+    {
+        "address": "959 Metropolitan Ave APT 4R, Brooklyn, NY 11211",
+        "price": "$4,300/mo",
+        "properties": "2 bds2 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "88 Lewis Ave APT 2, Brooklyn, NY 11206",
+        "price": "$4,800/mo",
+        "properties": "4 bds2.5 ba2,000 sqft - Apartment for rent"
+    },
+    {
+        "address": "7410 Ridge Blvd APT 4M, Brooklyn, NY 11209",
+        "price": "$2,595/mo",
+        "properties": "1 bd1 ba1,000 sqft - Apartment for rent"
+    },
+    {
+        "address": "1420 Nostrand Ave #24, Brooklyn, NY 11226",
+        "price": "$3,850/mo",
+        "properties": "4 bds2 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "123 Park Ave, Brooklyn, NY",
+        "price": "$2,999+ 1 bd",
+        "properties": "$5,999+ 4 bds "
+    },
+    {
+        "address": "555 Graham Ave APT 1A, Brooklyn, NY 11222",
+        "price": "$4,100/mo",
+        "properties": "1 bd1.5 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "595 Marcy Ave, Brooklyn, NY",
+        "price": "$4,000+ 3 bds",
+        "properties": "$5,950+ 5 bds "
+    },
+    {
+        "address": "125 Borinquen Pl, Brooklyn, NY",
+        "price": "$3,618+ 1 bd",
+        "properties": "$4,750+ 2 bds "
+    },
+    {
+        "address": "181 Eldert St, Brooklyn, NY",
+        "price": "$4,350+ 4 bds",
+        "properties": " "
+    },
+    {
+        "address": "930A Lafayette Ave #1, Brooklyn, NY 11221",
+        "price": "$2,999/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "511 Hicks St #1, Brooklyn, NY 11231",
+        "price": "$9,000/mo",
+        "properties": "3 bds2 ba1,700 sqft - Apartment for rent"
+    },
+    {
+        "address": "924 President St APT 1R, Brooklyn, NY 11215",
+        "price": "$4,000/mo",
+        "properties": "1 bd2 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "177 Garfield Pl, Brooklyn, NY 11215",
+        "price": "$3,600/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "150 Myrtle Ave, Brooklyn, NY",
+        "price": "$2,950+ Studio",
+        "properties": " "
+    },
+    {
+        "address": "8 Vanderbilt Ave APT 8J, Brooklyn, NY 11205",
+        "price": "$3,500/mo",
+        "properties": "1 bd1 ba700 sqft - Apartment for rent"
+    },
+    {
+        "address": "285 Division Ave APT 33, Brooklyn, NY 11211",
+        "price": "$5,500/mo",
+        "properties": "6 bds2.5 ba1,600 sqft - Apartment for rent"
+    },
+    {
+        "address": "148 Meserole St #3L1, Brooklyn, NY 11206",
+        "price": "$5,000/mo",
+        "properties": "3 bds2.5 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "383 Knickerbocker Ave, Brooklyn, NY",
+        "price": "$2,500+ Studio",
+        "properties": "$3,750+ 2 bds$3,750+ 3 bds "
+    },
+    {
+        "address": "155 Havemeyer St #3B, Brooklyn, NY 11211",
+        "price": "$4,600/mo",
+        "properties": "2 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "1012 Halsey St, Brooklyn, NY",
+        "price": "$5,449+ 3 bds",
+        "properties": "$4,795+ 4 bds "
+    },
+    {
+        "address": "108 Saint Marks Pl #1, Brooklyn, NY 11217",
+        "price": "$6,850/mo",
+        "properties": "2 bds2 ba1,400 sqft - Apartment for rent"
+    },
+    {
+        "address": "1426 De Kalb Ave, Brooklyn, NY",
+        "price": "$4,200+ 3 bds",
+        "properties": " "
+    },
+    {
+        "address": "1328 Fulton St, Brooklyn, NY",
+        "price": "$4,066+ 2 bds",
+        "properties": " "
+    },
+    {
+        "address": "171 Minna St #2R, Brooklyn, NY 11218",
+        "price": "$2,400/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "277 Irving Ave #2R, Brooklyn, NY 11237",
+        "price": "$2,900/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "336 12th St #3, Brooklyn, NY 11215",
+        "price": "$4,500/mo",
+        "properties": "3 bds1 ba1,500 sqft - Apartment for rent"
+    },
+    {
+        "address": "506 Eastern Pkwy APT B2, Brooklyn, NY 11225",
+        "price": "$3,595/mo",
+        "properties": "2 bds1 ba912 sqft - Apartment for rent"
+    },
+    {
+        "address": "199 N 6th St APT 1, Brooklyn, NY 11211",
+        "price": "$7,700/mo",
+        "properties": "2 bds2 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "100 Powers St APT 1R, Brooklyn, NY 11211",
+        "price": "$3,900/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "43 Mac Donough St #3, Brooklyn, NY 11216",
+        "price": "$4,500/mo",
+        "properties": "4 bds1.5 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "72 Poplar St #3C, Brooklyn, NY 11201",
+        "price": "$18,500/mo",
+        "properties": "4 bds3 ba2,582 sqft - Apartment for rent"
+    },
+    {
+        "address": "806 Saint Johns Pl, Brooklyn, NY",
+        "price": "$3,700+ 2 bds",
+        "properties": " "
+    },
+    {
+        "address": "1178 Gates Ave #2F, Brooklyn, NY 11221",
+        "price": "$3,399/mo",
+        "properties": "2 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "109 Winthrop St #4A, Brooklyn, NY 11225",
+        "price": "$3,500/mo",
+        "properties": "2 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "201 Woodpoint Rd APT 1L, Brooklyn, NY 11211",
+        "price": "$3,599/mo",
+        "properties": "2 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "79 Bridge St APT 4I, Brooklyn, NY 11201",
+        "price": "$3,900/mo",
+        "properties": "1 bd1 ba946 sqft - Apartment for rent"
+    },
+    {
+        "address": "35 Eastern Pkwy, Brooklyn, NY",
+        "price": "$4,250+ 2 bds",
+        "properties": "$4,395+ 3 bds "
+    },
+    {
+        "address": "303 Malcolm X Blvd, Brooklyn, NY",
+        "price": "$2,799+ 2 bds",
+        "properties": "$4,199+ 4 bds "
+    },
+    {
+        "address": "920 Eastern Pkwy, Brooklyn, NY",
+        "price": "$2,650+ 1 bd",
+        "properties": "$6,950+ 4 bds "
+    },
+    {
+        "address": "410 State St APT 40, Brooklyn, NY 11217",
+        "price": "$4,250/mo",
+        "properties": "2 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "220 Rogers Ave #2, Brooklyn, NY 11225",
+        "price": "$4,000/mo",
+        "properties": "4 bds1 ba900 sqft - Apartment for rent"
+    },
+    {
+        "address": "625 Park Pl APT 4, Brooklyn, NY 11238",
+        "price": "$4,830/mo",
+        "properties": "4 bds2 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "81 Douglass St APT 4, Brooklyn, NY 11231",
+        "price": "$4,000/mo",
+        "properties": "1 bd1 ba900 sqft - Apartment for rent"
+    },
+    {
+        "address": "996 Carroll St, Brooklyn, NY",
+        "price": "$2,975+ Studio",
+        "properties": "$3,298+ 1 bd$3,950+ 2 bds$4,645+ 3 bds "
+    },
+    {
+        "address": "290 Hancock St APT 3, Brooklyn, NY 11216",
+        "price": "$3,500/mo",
+        "properties": "2 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "470 Humboldt St #1, Brooklyn, NY 11211",
+        "price": "$4,800/mo",
+        "properties": "2 bds1 ba1,177 sqft - Apartment for rent"
+    },
+    {
+        "address": "545 Saint Marks Ave, Brooklyn, NY 11216",
+        "price": "$3,500/mo",
+        "properties": "2 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "2484 Bedford Ave #3A, Brooklyn, NY 11226",
+        "price": "$3,400/mo",
+        "properties": "3 bds2 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "1430 Fulton St, Brooklyn, NY",
+        "price": "$2,700+ Studio",
+        "properties": "$2,800+ 1 bd$3,600+ 2 bds "
+    },
+    {
+        "address": "685 Manhattan Ave APT 2F, Brooklyn, NY 11222",
+        "price": "$3,200/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "756 Myrtle Ave, Brooklyn, NY",
+        "price": "$3,250+ 1 bd",
+        "properties": " "
+    },
+    {
+        "address": "7A Lexington Ave #7AC, Brooklyn, NY 11238",
+        "price": "$4,800/mo",
+        "properties": "3 bds1 ba833 sqft - Apartment for rent"
+    },
+    {
+        "address": "412 Evergreen Ave APT 3G, Brooklyn, NY 11221",
+        "price": "$4,500/mo",
+        "properties": "2 bds1 ba758 sqft - Apartment for rent"
+    },
+    {
+        "address": "140 Hope St, Brooklyn, NY",
+        "price": "$4,800+ 1 bd",
+        "properties": " "
+    },
+    {
+        "address": "174 Meserole St APT 2L, Brooklyn, NY 11206",
+        "price": "$5,995/mo",
+        "properties": "3 bds2 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "390 Bergen St #1, Brooklyn, NY 11217",
+        "price": "$8,250/mo",
+        "properties": "3 bds2 ba1,650 sqft - Apartment for rent"
+    },
+    {
+        "address": "2025 Farragut Rd #5F, Brooklyn, NY 11210",
+        "price": "$3,300/mo",
+        "properties": "2 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "300 Lincoln Rd APT 2D, Brooklyn, NY 11225",
+        "price": "$2,718/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "2950 Ocean Ave APT C3, Brooklyn, NY 11235",
+        "price": "$2,250/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "145 Henry St, Brooklyn, NY",
+        "price": "$6,500+ 2 bds",
+        "properties": "$9,750+ 3 bds "
+    },
+    {
+        "address": "30 Bayard St, Brooklyn, NY",
+        "price": "$4,400+ 1 bd",
+        "properties": "$7,000+ 2 bds "
+    },
+    {
+        "address": "258 Richardson St, Brooklyn, NY",
+        "price": "$6,650+ 3 bds",
+        "properties": "$6,650+ 4 bds "
+    },
+    {
+        "address": "925 Bushwick Ave #4B, Brooklyn, NY 11221",
+        "price": "$2,850/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "168 Dean St, Brooklyn, NY 11217",
+        "price": "$4,995/mo",
+        "properties": "2 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "5210 Church Ave #1R, Brooklyn, NY 11203",
+        "price": "$1,800/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "596 Washington Ave, Brooklyn, NY",
+        "price": "$3,275+ Studio",
+        "properties": "$4,846+ 3 bds "
+    },
+    {
+        "address": "1382 Nostrand Ave APT 5, Brooklyn, NY 11226",
+        "price": "$3,750/mo",
+        "properties": "4 bds2 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "979 Bedford Ave, Brooklyn, NY",
+        "price": "$3,899+ 2 bds",
+        "properties": " "
+    },
+    {
+        "address": "875 De Kalb Ave, Brooklyn, NY",
+        "price": "$2,750+ 1 bd",
+        "properties": "$3,599+ 2 bds$3,650+ 3 bds "
+    },
+    {
+        "address": "316 Himrod St APT 504, Brooklyn, NY 11237",
+        "price": "$3,400/mo",
+        "properties": "2 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "532 10th St APT 2, Brooklyn, NY 11215",
+        "price": "$3,500/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "568 Willoughby Ave APT 3, Brooklyn, NY 11206",
+        "price": "$2,999/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "571 E 19th St #1B, Brooklyn, NY 11226",
+        "price": "$2,300/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "440 Kent Ave, Brooklyn, NY",
+        "price": "$4,700+ 1 bd",
+        "properties": "$12,500+ 3 bds "
+    },
+    {
+        "address": "598 Willoughby Ave, Brooklyn, NY",
+        "price": "$3,500+ 2 bds",
+        "properties": "$4,500+ 3 bds "
+    },
+    {
+        "address": "241 Troutman St APT 3R, Brooklyn, NY 11237",
+        "price": "$4,000/mo",
+        "properties": "2 bds1 ba1,000 sqft - Apartment for rent"
+    },
+    {
+        "address": "1212 Lincoln Pl APT 4D, Brooklyn, NY 11213",
+        "price": "$2,999/mo",
+        "properties": "3 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "896 Gates Ave, Brooklyn, NY",
+        "price": "$3,500+ 4 bds",
+        "properties": " "
+    },
+    {
+        "address": "24 Troutman St, Brooklyn, NY",
+        "price": "$2,900+ 2 bds",
+        "properties": "$3,800+ 4 bds "
+    },
+    {
+        "address": "255 Powers St APT 3L, Brooklyn, NY 11211",
+        "price": "$2,900/mo",
+        "properties": "1 bd1 ba700 sqft - Apartment for rent"
+    },
+    {
+        "address": "50 Ocean Pkwy APT 5C, Brooklyn, NY 11218",
+        "price": "$2,950/mo",
+        "properties": "1 bd1 ba1,000 sqft - Apartment for rent"
+    },
+    {
+        "address": "22 N 6th St, Brooklyn, NY",
+        "price": "$7,000+ 2 bds",
+        "properties": " "
+    },
+    {
+        "address": "58 Graham Ave #2, Brooklyn, NY 11206",
+        "price": "$7,500/mo",
+        "properties": "5 bds5 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "240 Irving Ave, Brooklyn, NY",
+        "price": "$2,575+ 2 bds",
+        "properties": " "
+    },
+    {
+        "address": "2307 Clarendon Rd #A10, Brooklyn, NY 11226",
+        "price": "$1,795/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "1571 Sterling Pl #B2, Brooklyn, NY 11213",
+        "price": "$2,295/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "60 S 8th St, Brooklyn, NY",
+        "price": "$5,000+ 1 bd",
+        "properties": "$7,000+ 2 bds "
+    },
+    {
+        "address": "74 Ryerson St #3, Brooklyn, NY 11205",
+        "price": "$2,750/mo",
+        "properties": "2 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "126 Malcolm X Blvd #4, Brooklyn, NY 11221",
+        "price": "$3,000/mo",
+        "properties": "2 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "40 N 4th St, Brooklyn, NY",
+        "price": "$4,850+ 1 bd",
+        "properties": "$6,650+ 2 bds$6,650+ 3 bds "
+    },
+    {
+        "address": "187 State St #2F, Brooklyn, NY 11201",
+        "price": "$6,000/mo",
+        "properties": "3 bds2 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "134 Boerum St #C4, Brooklyn, NY 11206",
+        "price": "$3,250/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "200 N 11th St APT 4H, Brooklyn, NY 11211",
+        "price": "$4,017/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "548 11th St APT 4, Brooklyn, NY 11215",
+        "price": "$2,850/mo",
+        "properties": "Studio 1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "263 Melrose St APT 2L, Brooklyn, NY 11206",
+        "price": "$3,750/mo",
+        "properties": "3 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "10571 Avenue N FLOOR 2, Brooklyn, NY 11236",
+        "price": "$2,200/mo",
+        "properties": "1 bd1 ba700 sqft - Apartment for rent"
+    },
+    {
+        "address": "2 Northside Piers, Brooklyn, NY",
+        "price": "$4,995+ 1 bd",
+        "properties": "$7,995+ 2 bds "
+    },
+    {
+        "address": "260 N 9th St APT 2A, Brooklyn, NY 11211",
+        "price": "$9,300/mo",
+        "properties": "3 bds3 ba1,412 sqft - Apartment for rent"
+    },
+    {
+        "address": "249 Willoughby Ave, Brooklyn, NY",
+        "price": "$4,100+ 1 bd",
+        "properties": " "
+    },
+    {
+        "address": "7903 14th Ave #1, Brooklyn, NY 11228",
+        "price": "$2,800/mo",
+        "properties": "2 bds1 ba1,200 sqft - Apartment for rent"
+    },
+    {
+        "address": "144 West St APT 303, Brooklyn, NY 11222",
+        "price": "$3,850/mo",
+        "properties": "1 bd1 ba650 sqft - Apartment for rent"
+    },
+    {
+        "address": "156 Knickerbocker Ave APT 2R, Brooklyn, NY 11237",
+        "price": "$3,500/mo",
+        "properties": "2 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "89 Grattan St APT 2, Brooklyn, NY 11237",
+        "price": "$3,800/mo",
+        "properties": "3 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "117 S 4th St, Brooklyn, NY",
+        "price": "$3,700+ 2 bds",
+        "properties": " "
+    },
+    {
+        "address": "60 Duffield St, Brooklyn, NY",
+        "price": "$4,010+ 1 bd",
+        "properties": "$5,757+ 2 bds "
+    },
+    {
+        "address": "343 Grove St APT 3L, Brooklyn, NY 11237",
+        "price": "$2,999/mo",
+        "properties": "2 bds2 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "187 20th St #2C, Brooklyn, NY 11232",
+        "price": "$3,499/mo",
+        "properties": "2 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "921 Broadway APT 4L, Brooklyn, NY 11206",
+        "price": "$4,100/mo",
+        "properties": "3 bds2 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "69 Ten Eyck St #2O, Brooklyn, NY 11206",
+        "price": "$5,200/mo",
+        "properties": "3 bds1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "542 Chauncey St #1E, Brooklyn, NY 11233",
+        "price": "$3,895/mo",
+        "properties": "2 bds1.5 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "30 Fayette St #2C, Brooklyn, NY 11206",
+        "price": "$4,500/mo",
+        "properties": "4 bds2 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "148 Kingsland Ave #3, Brooklyn, NY 11222",
+        "price": "$2,795/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "203 17th St APT 19, Brooklyn, NY 11215",
+        "price": "$2,450/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "308 Court St #2, Brooklyn, NY 11231",
+        "price": "$3,500/mo",
+        "properties": "1 bd1 ba-- sqft - Apartment for rent"
+    },
+    {
+        "address": "1520 Fulton St APT 7E, Brooklyn, NY 11216",
+        "price": "$3,995/mo",
+        "properties": "2 bds1 ba785 sqft - Apartment for rent"
+    },
+    {
+        "address": "691 Chauncey St, Brooklyn, NY",
+        "price": "$4,000+ 3 bds",
+        "properties": "$5,650+ 5 bds "
+    },
+    {
+        "address": "74 Sherman St #2L, Brooklyn, NY 11215",
+        "price": "$3,250/mo",
+        "properties": "2 bds1 ba-- sqft - Apartment for rent"
+    }
+]
