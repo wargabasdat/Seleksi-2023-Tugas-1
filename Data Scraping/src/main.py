@@ -1,3 +1,4 @@
+import json
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
@@ -29,27 +30,23 @@ def getPokemonInfo(URL: str):
     try :
         wait = WebDriverWait(driverPokemon,2).until(EC.presence_of_element_located((By.CLASS_NAME, "pokedex-pokemon-pagination-title")))
     except TimeoutException:
-        return "not found"
-    
-    allInfo = ""
+        return False
+
+    # Initialize json
+    pokemon_data = {}
 
     # GET NAME AND ID POKEMON
-    nameIDElement = driverPokemon.find_element(By.CLASS_NAME, "pokedex-pokemon-pagination-title")
-    nameID = nameIDElement.text.split(" #")
-    allInfo += "Name: " + nameID[0] + "\n"
-    allInfo += "ID: " + nameID[1] + "\n"
+    nameID = driverPokemon.find_element(By.CLASS_NAME, "pokedex-pokemon-pagination-title").text.split(" #")
+    pokemon_data["name"] = nameID[0]
+    pokemon_data["id"] = nameID[1]
 
     # GET POKEMON IMAGE
-    imgElement = driverPokemon.find_element(By.CLASS_NAME, "profile-images")
-    src = imgElement.find_element(By.TAG_NAME, "img").get_attribute("src")
-    allInfo += "Image Path: "+ src + "\n"
+    src = driverPokemon.find_element(By.CLASS_NAME, "profile-images").find_element(By.TAG_NAME, "img").get_attribute("src")
+    pokemon_data["image"] = src
 
     # GET DESCRIPTION
-    descriptionElement = driverPokemon.find_element(By.CLASS_NAME, "version-descriptions")
-    # descVersionY = descriptionElement.find_element(By.CLASS_NAME, "version-y")
-    descVersionX = descriptionElement.find_element(By.CLASS_NAME, "version-x")
-    # allInfo += "Description Y:", descVersionY.text)
-    allInfo += "Description: "+ descVersionX.text + "\n"
+    description = driverPokemon.find_element(By.CLASS_NAME, "version-descriptions").find_element(By.CLASS_NAME, "version-x").text
+    pokemon_data["description"] = description
 
     # GET INFO
     abilityInfoElement = driverPokemon.find_element(By.CLASS_NAME, "pokemon-ability-info")
@@ -64,53 +61,54 @@ def getPokemonInfo(URL: str):
             spanInfo = info.find_elements(By.TAG_NAME, "span")
             listInfo = info.find_elements(By.TAG_NAME, "ul")
             if(len(listInfo) != 0):
-                allInfo += spanInfo[0].text+ ": "
+                tempArray = []
                 for list in listInfo:
-                    allInfo += list.text + " "
-                allInfo += "\n"
+                    tempArray.append(list.text)
+                pokemon_data[spanInfo[0].text] = tempArray
             else:
                 genders = spanInfo[1].find_elements(By.TAG_NAME, "i")
                 if(len(genders) == 0):
-                    allInfo += spanInfo[0].text+": "+spanInfo[1].text + "\n"
+                    pokemon_data[spanInfo[0].text] = spanInfo[1].text
                 else :
-                    allInfo += spanInfo[0].text+": "
+                    tempArray = []
                     for gender in genders:
                         genderType = gender.get_attribute("class")
                         if(genderType == "icon icon_male_symbol"):
-                            allInfo += "Male "
+                            tempArray.append("Male")
                         else :
-                            allInfo += "Female "
-                    allInfo += "\n"
+                            tempArray.append("Female")
+                    pokemon_data[spanInfo[0].text] = tempArray
     
     # GET POKEMON TYPE
     pokemnonTypeElement = driverPokemon.find_element(By.CLASS_NAME, "dtm-type")
     typeList = pokemnonTypeElement.find_elements(By.TAG_NAME, "li")
-    allInfo += "Type: "
+    tempArray = []
     for pkmnType in typeList:
-        allInfo += pkmnType.text + " "
-    allInfo += "\n"
+        tempArray.append(pkmnType.text)
+    pokemon_data["type"] = tempArray
 
     # GET POKEMON WEAKNESS
     pokemnonWeaknessesElement = driverPokemon.find_element(By.CLASS_NAME, "dtm-weaknesses")
     weaknessesList = pokemnonWeaknessesElement.find_elements(By.TAG_NAME, "li")
-    allInfo += "Weaknesses: "
+    tempArray = []
     for pkmnWeaknesses in weaknessesList:
-        allInfo += pkmnWeaknesses.text + " "
-    allInfo += "\n"
+        tempArray.append(pkmnWeaknesses.text)
+    pokemon_data["weaknesses"] = tempArray
 
     # GET POKEMON STATS
-    allInfo += "Stats: " + "\n"
+    stats_object = {}
     pokemonStatsElement = driverPokemon.find_element(By.CLASS_NAME, "pokemon-stats-info")
     statList = pokemonStatsElement.find_elements(By.TAG_NAME, "li")
     filteredStatList = [stat for stat in statList if isElementFound(stat,(By.CLASS_NAME, "gauge"))]
     for stat in filteredStatList:
         typeStat = stat.find_element(By.TAG_NAME, "span")
         valueStat = stat.find_element(By.CLASS_NAME, "meter").get_attribute("data-value")
-        allInfo += typeStat.text+": "+valueStat + "\n"
+        stats_object[typeStat.text] = valueStat
+    pokemon_data["stats"] = stats_object
 
     driverPokemon.quit()
 
-    return allInfo
+    return pokemon_data
 
 def getUrlByPokedexID(BASE_URL :str,id):
     # Initialize driver
@@ -123,9 +121,14 @@ def getUrlByPokedexID(BASE_URL :str,id):
 
     try :
         wait = WebDriverWait(driverSearch,3).until(EC.presence_of_element_located((By.XPATH,"""/html/body/div[4]/section[5]/ul/li[1]/a""")))
-        url = driverSearch.find_element(By.XPATH,"""/html/body/div[4]/section[5]/ul/li[1]/a""").get_attribute("href")
-        print("URL:",url)
-        return url
+        if(not isElementAvailable(driverSearch,(By.XPATH,"""/html/body/div[4]/section[5]/ul/li[1]/a"""))):
+            raise TimeoutException
+        else :
+
+        # wait2 = WebDriverWait(driverSearch,2).until(EC.presence_of_element_located((By.XPATH,"""/html/body/div[4]/section[5]/ul/li[1]/a""")))
+            url = driverSearch.find_element(By.XPATH,"""/html/body/div[4]/section[5]/ul/li[1]/a""").get_attribute("href")
+            print("URL:",url)
+            return url
     except TimeoutException:
         return False
     # return driverSearch.find_element(By.CLASS_NAME,"results").find_element(By.TAG_NAME,"li").find_element(By.TAG_NAME,"a").get_attribute("href")
@@ -134,13 +137,22 @@ def getUrlByPokedexID(BASE_URL :str,id):
 if (__name__ == "__main__"):
     BASE_URL = "https://www.pokemon.com/"
 
-    file = open("./data1.txt", "a")
-    for i in range(28,152):
+    
+    for i in range(1,152):
         print("============================")
-        url = getUrlByPokedexID(BASE_URL,i)
+        url = False
         while(url == False or (i != 1 and url == "https://www.pokemon.com/us/pokedex/bulbasaur")):
             url = getUrlByPokedexID(BASE_URL,i)
-        pokemonInfo = getPokemonInfo(url)
-        file.write(pokemonInfo)
-    
-    file.close()
+        pokemonInfo = False
+        while(pokemonInfo == False):
+            pokemonInfo = getPokemonInfo(url)
+        
+        # Write data to json
+        with open("./Data Scraping/data/gen1.json","r") as file:
+            existing_data = json.load(file)
+
+        existing_data.append(pokemonInfo)
+        json_object = json.dumps(existing_data, indent=4)
+
+        with open("./Data Scraping/data/gen1.json","w") as file:
+            file.write(json_object)

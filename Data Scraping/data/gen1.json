@@ -1,0 +1,1937 @@
+[
+    {
+        "name": "Bulbasaur",
+        "id": "0001",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+        "description": "There is a plant seed on its back right from the day this Pok\u00e9mon is born. The seed slowly grows larger.",
+        "Height": "2' 04\"",
+        "Weight": "15.2 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Seed",
+        "Abilities": [
+            "Overgrow"
+        ],
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Psychic",
+            "Flying",
+            "Ice"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "3",
+            "Defense": "3",
+            "Special Attack": "4",
+            "Special Defense": "4",
+            "Speed": "3"
+        }
+    },
+    {
+        "name": "Ivysaur",
+        "id": "0002",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+        "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+        "Height": "3' 03\"",
+        "Weight": "28.7 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Seed",
+        "Abilities": [
+            "Overgrow"
+        ],
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Psychic",
+            "Flying",
+            "Ice"
+        ],
+        "stats": {
+            "HP": "4",
+            "Attack": "4",
+            "Defense": "4",
+            "Special Attack": "5",
+            "Special Defense": "5",
+            "Speed": "4"
+        }
+    },
+    {
+        "name": "Venusaur",
+        "id": "0003",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+        "description": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+        "Height": "6' 07\"",
+        "Weight": "220.5 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Seed",
+        "Abilities": [
+            "Overgrow"
+        ],
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Psychic",
+            "Flying",
+            "Ice"
+        ],
+        "stats": {
+            "HP": "5",
+            "Attack": "5",
+            "Defense": "5",
+            "Special Attack": "6",
+            "Special Defense": "6",
+            "Speed": "5"
+        }
+    },
+    {
+        "name": "Charmander",
+        "id": "0004",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+        "description": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+        "Height": "2' 00\"",
+        "Weight": "18.7 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Lizard",
+        "Abilities": [
+            "Blaze"
+        ],
+        "type": [
+            "Fire"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "4",
+            "Defense": "3",
+            "Special Attack": "4",
+            "Special Defense": "3",
+            "Speed": "4"
+        }
+    },
+    {
+        "name": "Charmeleon",
+        "id": "0005",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
+        "description": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
+        "Height": "3' 07\"",
+        "Weight": "41.9 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Flame",
+        "Abilities": [
+            "Blaze"
+        ],
+        "type": [
+            "Fire"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "4",
+            "Attack": "4",
+            "Defense": "4",
+            "Special Attack": "5",
+            "Special Defense": "4",
+            "Speed": "5"
+        }
+    },
+    {
+        "name": "Charizard",
+        "id": "0006",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+        "description": "It is said that Charizard\u2019s fire burns hotter if it has experienced harsh battles.",
+        "Height": "5' 07\"",
+        "Weight": "199.5 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Flame",
+        "Abilities": [
+            "Blaze"
+        ],
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Water",
+            "Electric",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "5",
+            "Attack": "5",
+            "Defense": "5",
+            "Special Attack": "7",
+            "Special Defense": "5",
+            "Speed": "6"
+        }
+    },
+    {
+        "name": "Squirtle",
+        "id": "0007",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+        "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+        "Height": "1' 08\"",
+        "Weight": "19.8 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Tiny Turtle",
+        "Abilities": [
+            "Torrent"
+        ],
+        "type": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Electric"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "3",
+            "Defense": "4",
+            "Special Attack": "3",
+            "Special Defense": "4",
+            "Speed": "3"
+        }
+    },
+    {
+        "name": "Wartortle",
+        "id": "0008",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png",
+        "description": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+        "Height": "3' 03\"",
+        "Weight": "49.6 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Turtle",
+        "Abilities": [
+            "Torrent"
+        ],
+        "type": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Electric"
+        ],
+        "stats": {
+            "HP": "4",
+            "Attack": "4",
+            "Defense": "5",
+            "Special Attack": "4",
+            "Special Defense": "5",
+            "Speed": "4"
+        }
+    },
+    {
+        "name": "Blastoise",
+        "id": "0009",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
+        "description": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+        "Height": "5' 03\"",
+        "Weight": "188.5 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Shellfish",
+        "Abilities": [
+            "Torrent"
+        ],
+        "type": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Electric"
+        ],
+        "stats": {
+            "HP": "5",
+            "Attack": "5",
+            "Defense": "6",
+            "Special Attack": "5",
+            "Special Defense": "7",
+            "Speed": "5"
+        }
+    },
+    {
+        "name": "Caterpie",
+        "id": "0010",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
+        "description": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies.",
+        "Height": "1' 00\"",
+        "Weight": "6.4 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Worm",
+        "Abilities": [
+            "Shield Dust"
+        ],
+        "type": [
+            "Bug"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Flying",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "2",
+            "Defense": "3",
+            "Special Attack": "2",
+            "Special Defense": "2",
+            "Speed": "3"
+        }
+    },
+    {
+        "name": "Metapod",
+        "id": "0011",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
+        "description": "It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.",
+        "Height": "2' 04\"",
+        "Weight": "21.8 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Cocoon",
+        "Abilities": [
+            "Shed Skin"
+        ],
+        "type": [
+            "Bug"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Flying",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "2",
+            "Defense": "4",
+            "Special Attack": "2",
+            "Special Defense": "2",
+            "Speed": "2"
+        }
+    },
+    {
+        "name": "Butterfree",
+        "id": "0012",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
+        "description": "It loves the nectar of flowers and can locate flower patches that have even tiny amounts of pollen.",
+        "Height": "3' 07\"",
+        "Weight": "70.5 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Butterfly",
+        "Abilities": [
+            "Compound Eyes"
+        ],
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Flying",
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "4",
+            "Attack": "3",
+            "Defense": "3",
+            "Special Attack": "6",
+            "Special Defense": "5",
+            "Speed": "5"
+        }
+    },
+    {
+        "name": "Weedle",
+        "id": "0013",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png",
+        "description": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.",
+        "Height": "1' 00\"",
+        "Weight": "7.1 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Hairy Bug",
+        "Abilities": [
+            "Shield Dust"
+        ],
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Psychic",
+            "Flying",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "3",
+            "Defense": "2",
+            "Special Attack": "2",
+            "Special Defense": "2",
+            "Speed": "3"
+        }
+    },
+    {
+        "name": "Kakuna",
+        "id": "0014",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png",
+        "description": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.",
+        "Height": "2' 00\"",
+        "Weight": "22.0 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Cocoon",
+        "Abilities": [
+            "Shed Skin"
+        ],
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Psychic",
+            "Flying",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "2",
+            "Defense": "3",
+            "Special Attack": "2",
+            "Special Defense": "2",
+            "Speed": "3"
+        }
+    },
+    {
+        "name": "Beedrill",
+        "id": "0015",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
+        "description": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+        "Height": "3' 03\"",
+        "Weight": "65.0 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Poison Bee",
+        "Abilities": [
+            "Swarm"
+        ],
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Psychic",
+            "Flying",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "4",
+            "Attack": "6",
+            "Defense": "3",
+            "Special Attack": "3",
+            "Special Defense": "5",
+            "Speed": "5"
+        }
+    },
+    {
+        "name": "Pidgey",
+        "id": "0016",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png",
+        "description": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
+        "Height": "1' 00\"",
+        "Weight": "4.0 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Tiny Bird",
+        "Abilities": [
+            "Keen Eye\nTangled Feet"
+        ],
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "3",
+            "Defense": "3",
+            "Special Attack": "3",
+            "Special Defense": "3",
+            "Speed": "4"
+        }
+    },
+    {
+        "name": "Pidgeotto",
+        "id": "0017",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png",
+        "description": "This Pok\u00e9mon is full of vitality. It constantly flies around its large territory in search of prey.",
+        "Height": "3' 07\"",
+        "Weight": "66.1 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Bird",
+        "Abilities": [
+            "Keen Eye\nTangled Feet"
+        ],
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "4",
+            "Attack": "4",
+            "Defense": "4",
+            "Special Attack": "3",
+            "Special Defense": "3",
+            "Speed": "5"
+        }
+    },
+    {
+        "name": "Pidgeot",
+        "id": "0018",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
+        "description": "This Pok\u00e9mon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
+        "Height": "4' 11\"",
+        "Weight": "87.1 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Bird",
+        "Abilities": [
+            "Keen Eye\nTangled Feet"
+        ],
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "5",
+            "Attack": "5",
+            "Defense": "5",
+            "Special Attack": "5",
+            "Special Defense": "5",
+            "Speed": "6"
+        }
+    },
+    {
+        "name": "Rattata",
+        "id": "0019",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png",
+        "description": "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area.",
+        "Height": "1' 00\"",
+        "Weight": "7.7 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Mouse",
+        "Abilities": [
+            "Run Away\nGuts"
+        ],
+        "type": [
+            "Normal"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ],
+        "stats": {
+            "HP": "2",
+            "Attack": "4",
+            "Defense": "3",
+            "Special Attack": "2",
+            "Special Defense": "3",
+            "Speed": "5"
+        }
+    },
+    {
+        "name": "Raticate",
+        "id": "0020",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+        "description": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.",
+        "Height": "2' 04\"",
+        "Weight": "40.8 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Mouse",
+        "Abilities": [
+            "Run Away\nGuts"
+        ],
+        "type": [
+            "Normal"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ],
+        "stats": {
+            "HP": "4",
+            "Attack": "5",
+            "Defense": "4",
+            "Special Attack": "3",
+            "Special Defense": "5",
+            "Speed": "6"
+        }
+    },
+    {
+        "name": "Spearow",
+        "id": "0021",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png",
+        "description": "Inept at flying high. However, it can fly around very fast to protect its territory.",
+        "Height": "1' 00\"",
+        "Weight": "4.4 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Tiny Bird",
+        "Abilities": [
+            "Keen Eye"
+        ],
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "4",
+            "Defense": "2",
+            "Special Attack": "2",
+            "Special Defense": "2",
+            "Speed": "5"
+        }
+    },
+    {
+        "name": "Fearow",
+        "id": "0022",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png",
+        "description": "A Pok\u00e9mon that dates back many years. If it senses danger, it flies high and away, instantly.",
+        "Height": "3' 11\"",
+        "Weight": "83.8 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Beak",
+        "Abilities": [
+            "Keen Eye"
+        ],
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "4",
+            "Attack": "6",
+            "Defense": "4",
+            "Special Attack": "4",
+            "Special Defense": "4",
+            "Speed": "6"
+        }
+    },
+    {
+        "name": "Ekans",
+        "id": "0023",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png",
+        "description": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
+        "Height": "6' 07\"",
+        "Weight": "15.2 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Snake",
+        "Abilities": [
+            "Shed Skin\nIntimidate"
+        ],
+        "type": [
+            "Poison"
+        ],
+        "weaknesses": [
+            "Psychic",
+            "Ground"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "4",
+            "Defense": "3",
+            "Special Attack": "3",
+            "Special Defense": "4",
+            "Speed": "4"
+        }
+    },
+    {
+        "name": "Arbok",
+        "id": "0024",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png",
+        "description": "The frightening patterns on its belly have been studied. Six variations have been confirmed.",
+        "Height": "11' 06\"",
+        "Weight": "143.3 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Cobra",
+        "Abilities": [
+            "Shed Skin\nIntimidate"
+        ],
+        "type": [
+            "Poison"
+        ],
+        "weaknesses": [
+            "Psychic",
+            "Ground"
+        ],
+        "stats": {
+            "HP": "4",
+            "Attack": "6",
+            "Defense": "5",
+            "Special Attack": "4",
+            "Special Defense": "5",
+            "Speed": "5"
+        }
+    },
+    {
+        "name": "Pikachu",
+        "id": "0025",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+        "description": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+        "Height": "1' 04\"",
+        "Weight": "13.2 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Mouse",
+        "Abilities": [
+            "Static"
+        ],
+        "type": [
+            "Electric"
+        ],
+        "weaknesses": [
+            "Ground"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "4",
+            "Defense": "3",
+            "Special Attack": "3",
+            "Special Defense": "3",
+            "Speed": "6"
+        }
+    },
+    {
+        "name": "Raichu",
+        "id": "0026",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png",
+        "description": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+        "Height": "2' 07\"",
+        "Weight": "66.1 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Mouse",
+        "Abilities": [
+            "Static"
+        ],
+        "type": [
+            "Electric"
+        ],
+        "weaknesses": [
+            "Ground"
+        ],
+        "stats": {
+            "HP": "4",
+            "Attack": "6",
+            "Defense": "4",
+            "Special Attack": "6",
+            "Special Defense": "5",
+            "Speed": "7"
+        }
+    },
+    {
+        "name": "Sandshrew",
+        "id": "0027",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png",
+        "description": "It loves to bathe in the grit of dry, sandy areas. By sand bathing, the Pok\u00e9mon rids itself of dirt and moisture clinging to its body.",
+        "Height": "2' 00\"",
+        "Weight": "26.5 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Mouse",
+        "Abilities": [
+            "Sand Veil"
+        ],
+        "type": [
+            "Ground"
+        ],
+        "weaknesses": [
+            "Water",
+            "Grass",
+            "Ice"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "5",
+            "Defense": "5",
+            "Special Attack": "2",
+            "Special Defense": "2",
+            "Speed": "3"
+        }
+    },
+    {
+        "name": "Sandslash",
+        "id": "0028",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png",
+        "description": "The drier the area Sandslash lives in, the harder and smoother the Pok\u00e9mon\u2019s spikes will feel when touched.",
+        "Height": "3' 03\"",
+        "Weight": "65.0 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Mouse",
+        "Abilities": [
+            "Sand Veil"
+        ],
+        "type": [
+            "Ground"
+        ],
+        "weaknesses": [
+            "Water",
+            "Grass",
+            "Ice"
+        ],
+        "stats": {
+            "HP": "5",
+            "Attack": "6",
+            "Defense": "7",
+            "Special Attack": "3",
+            "Special Defense": "4",
+            "Speed": "4"
+        }
+    },
+    {
+        "name": "Nidoran\u2640",
+        "id": "0029",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png",
+        "description": "Females are more sensitive to smells than males. While foraging, they\u2019ll use their whiskers to check wind direction and stay downwind of predators.",
+        "Height": "1' 04\"",
+        "Weight": "15.4 lbs",
+        "Gender": [
+            "Female"
+        ],
+        "Category": "Poison Pin",
+        "Abilities": [
+            "Poison Point\nRivalry"
+        ],
+        "type": [
+            "Poison"
+        ],
+        "weaknesses": [
+            "Psychic",
+            "Ground"
+        ],
+        "stats": {
+            "HP": "4",
+            "Attack": "3",
+            "Defense": "4",
+            "Special Attack": "3",
+            "Special Defense": "3",
+            "Speed": "3"
+        }
+    },
+    {
+        "name": "Nidorina",
+        "id": "0030",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png",
+        "description": "The horn on its head has atrophied. It\u2019s thought that this happens so Nidorina\u2019s children won\u2019t get poked while their mother is feeding them.",
+        "Height": "2' 07\"",
+        "Weight": "44.1 lbs",
+        "Gender": [
+            "Female"
+        ],
+        "Category": "Poison Pin",
+        "Abilities": [
+            "Poison Point\nRivalry"
+        ],
+        "type": [
+            "Poison"
+        ],
+        "weaknesses": [
+            "Psychic",
+            "Ground"
+        ],
+        "stats": {
+            "HP": "5",
+            "Attack": "4",
+            "Defense": "4",
+            "Special Attack": "4",
+            "Special Defense": "4",
+            "Speed": "4"
+        }
+    },
+    {
+        "name": "Nidoqueen",
+        "id": "0031",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png",
+        "description": "Nidoqueen is better at defense than offense. With scales like armor, this Pok\u00e9mon will shield its children from any kind of attack.",
+        "Height": "4' 03\"",
+        "Weight": "132.3 lbs",
+        "Gender": [
+            "Female"
+        ],
+        "Category": "Drill",
+        "Abilities": [
+            "Poison Point\nRivalry"
+        ],
+        "type": [
+            "Poison",
+            "Ground"
+        ],
+        "weaknesses": [
+            "Water",
+            "Psychic",
+            "Ice",
+            "Ground"
+        ],
+        "stats": {
+            "HP": "6",
+            "Attack": "6",
+            "Defense": "6",
+            "Special Attack": "5",
+            "Special Defense": "5",
+            "Speed": "5"
+        }
+    },
+    {
+        "name": "Nidoran\u2642",
+        "id": "0032",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png",
+        "description": "The horn on a male Nidoran\u2019s forehead contains a powerful poison. This is a very cautious Pok\u00e9mon, always straining its large ears.",
+        "Height": "1' 08\"",
+        "Weight": "19.8 lbs",
+        "Gender": [
+            "Male"
+        ],
+        "Category": "Poison Pin",
+        "Abilities": [
+            "Poison Point\nRivalry"
+        ],
+        "type": [
+            "Poison"
+        ],
+        "weaknesses": [
+            "Psychic",
+            "Ground"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "4",
+            "Defense": "3",
+            "Special Attack": "3",
+            "Special Defense": "3",
+            "Speed": "3"
+        }
+    },
+    {
+        "name": "Nidorino",
+        "id": "0033",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png",
+        "description": "With a horn that\u2019s harder than diamond, this Pok\u00e9mon goes around shattering boulders as it searches for a moon stone.",
+        "Height": "2' 11\"",
+        "Weight": "43.0 lbs",
+        "Gender": [
+            "Male"
+        ],
+        "Category": "Poison Pin",
+        "Abilities": [
+            "Poison Point\nRivalry"
+        ],
+        "type": [
+            "Poison"
+        ],
+        "weaknesses": [
+            "Psychic",
+            "Ground"
+        ],
+        "stats": {
+            "HP": "4",
+            "Attack": "5",
+            "Defense": "4",
+            "Special Attack": "4",
+            "Special Defense": "4",
+            "Speed": "4"
+        }
+    },
+    {
+        "name": "Nidoking",
+        "id": "0034",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png",
+        "description": "When it goes on a rampage, it\u2019s impossible to control. But in the presence of a Nidoqueen it\u2019s lived with for a long time, Nidoking calms down.",
+        "Height": "4' 07\"",
+        "Weight": "136.7 lbs",
+        "Gender": [
+            "Male"
+        ],
+        "Category": "Drill",
+        "Abilities": [
+            "Poison Point\nRivalry"
+        ],
+        "type": [
+            "Poison",
+            "Ground"
+        ],
+        "weaknesses": [
+            "Water",
+            "Psychic",
+            "Ice",
+            "Ground"
+        ],
+        "stats": {
+            "HP": "5",
+            "Attack": "6",
+            "Defense": "5",
+            "Special Attack": "5",
+            "Special Defense": "5",
+            "Speed": "5"
+        }
+    },
+    {
+        "name": "Clefairy",
+        "id": "0035",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png",
+        "description": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+        "Height": "2' 00\"",
+        "Weight": "16.5 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Fairy",
+        "Abilities": [
+            "Cute Charm\nMagic Guard"
+        ],
+        "type": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            "Steel",
+            "Poison"
+        ],
+        "stats": {
+            "HP": "5",
+            "Attack": "3",
+            "Defense": "3",
+            "Special Attack": "4",
+            "Special Defense": "4",
+            "Speed": "3"
+        }
+    },
+    {
+        "name": "Clefable",
+        "id": "0036",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png",
+        "description": "A timid fairy Pok\u00e9mon that is rarely seen, it will run and hide the moment it senses people.",
+        "Height": "4' 03\"",
+        "Weight": "88.2 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Fairy",
+        "Abilities": [
+            "Cute Charm\nMagic Guard"
+        ],
+        "type": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            "Steel",
+            "Poison"
+        ],
+        "stats": {
+            "HP": "6",
+            "Attack": "5",
+            "Defense": "5",
+            "Special Attack": "6",
+            "Special Defense": "6",
+            "Speed": "4"
+        }
+    },
+    {
+        "name": "Vulpix",
+        "id": "0037",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png",
+        "description": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",
+        "Height": "2' 00\"",
+        "Weight": "21.8 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Fox",
+        "Abilities": [
+            "Flash Fire"
+        ],
+        "type": [
+            "Fire"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "3",
+            "Defense": "3",
+            "Special Attack": "3",
+            "Special Defense": "4",
+            "Speed": "4"
+        }
+    },
+    {
+        "name": "Ninetales",
+        "id": "0038",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png",
+        "description": "It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.",
+        "Height": "3' 07\"",
+        "Weight": "43.9 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Fox",
+        "Abilities": [
+            "Flash Fire"
+        ],
+        "type": [
+            "Fire"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "5",
+            "Attack": "5",
+            "Defense": "5",
+            "Special Attack": "5",
+            "Special Defense": "6",
+            "Speed": "6"
+        }
+    },
+    {
+        "name": "Jigglypuff",
+        "id": "0039",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png",
+        "description": "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+        "Height": "1' 08\"",
+        "Weight": "12.1 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Balloon",
+        "Abilities": [
+            "Cute Charm\nCompetitive"
+        ],
+        "type": [
+            "Normal",
+            "Fairy"
+        ],
+        "weaknesses": [
+            "Steel",
+            "Poison"
+        ],
+        "stats": {
+            "HP": "7",
+            "Attack": "3",
+            "Defense": "2",
+            "Special Attack": "3",
+            "Special Defense": "2",
+            "Speed": "2"
+        }
+    },
+    {
+        "name": "Wigglytuff",
+        "id": "0040",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png",
+        "description": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.",
+        "Height": "3' 03\"",
+        "Weight": "26.5 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Balloon",
+        "Abilities": [
+            "Cute Charm\nCompetitive"
+        ],
+        "type": [
+            "Normal",
+            "Fairy"
+        ],
+        "weaknesses": [
+            "Steel",
+            "Poison"
+        ],
+        "stats": {
+            "HP": "9",
+            "Attack": "5",
+            "Defense": "3",
+            "Special Attack": "5",
+            "Special Defense": "3",
+            "Speed": "3"
+        }
+    },
+    {
+        "name": "Zubat",
+        "id": "0041",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png",
+        "description": "It emits ultrasonic waves from its mouth to check its surroundings. Even in tight caves, Zubat flies around with skill.",
+        "Height": "2' 07\"",
+        "Weight": "16.5 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Bat",
+        "Abilities": [
+            "Inner Focus"
+        ],
+        "type": [
+            "Poison",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Psychic",
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "3",
+            "Defense": "3",
+            "Special Attack": "2",
+            "Special Defense": "3",
+            "Speed": "4"
+        }
+    },
+    {
+        "name": "Golbat",
+        "id": "0042",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png",
+        "description": "It loves to drink other creatures\u2019 blood. It\u2019s said that if it finds others of its kind going hungry, it sometimes shares the blood it\u2019s gathered.",
+        "Height": "5' 03\"",
+        "Weight": "121.3 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Bat",
+        "Abilities": [
+            "Inner Focus"
+        ],
+        "type": [
+            "Poison",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Psychic",
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "5",
+            "Attack": "5",
+            "Defense": "5",
+            "Special Attack": "4",
+            "Special Defense": "5",
+            "Speed": "6"
+        }
+    },
+    {
+        "name": "Oddish",
+        "id": "0043",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png",
+        "description": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
+        "Height": "1' 08\"",
+        "Weight": "11.9 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Weed",
+        "Abilities": [
+            "Chlorophyll"
+        ],
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Psychic",
+            "Flying",
+            "Ice"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "3",
+            "Defense": "4",
+            "Special Attack": "5",
+            "Special Defense": "4",
+            "Speed": "2"
+        }
+    },
+    {
+        "name": "Gloom",
+        "id": "0044",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png",
+        "description": "Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.",
+        "Height": "2' 07\"",
+        "Weight": "19.0 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Weed",
+        "Abilities": [
+            "Chlorophyll"
+        ],
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Psychic",
+            "Flying",
+            "Ice"
+        ],
+        "stats": {
+            "HP": "4",
+            "Attack": "4",
+            "Defense": "5",
+            "Special Attack": "5",
+            "Special Defense": "5",
+            "Speed": "3"
+        }
+    },
+    {
+        "name": "Vileplume",
+        "id": "0045",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png",
+        "description": "It has the world\u2019s largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+        "Height": "3' 11\"",
+        "Weight": "41.0 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Flower",
+        "Abilities": [
+            "Chlorophyll"
+        ],
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Psychic",
+            "Flying",
+            "Ice"
+        ],
+        "stats": {
+            "HP": "5",
+            "Attack": "5",
+            "Defense": "5",
+            "Special Attack": "7",
+            "Special Defense": "6",
+            "Speed": "3"
+        }
+    },
+    {
+        "name": "Paras",
+        "id": "0046",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png",
+        "description": "Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.",
+        "Height": "1' 00\"",
+        "Weight": "11.9 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Mushroom",
+        "Abilities": [
+            "Effect Spore\nDry Skin"
+        ],
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Flying",
+            "Ice",
+            "Poison",
+            "Rock",
+            "Bug"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "5",
+            "Defense": "4",
+            "Special Attack": "3",
+            "Special Defense": "4",
+            "Speed": "2"
+        }
+    },
+    {
+        "name": "Parasect",
+        "id": "0047",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png",
+        "description": "The bug host is drained of energy by the mushroom on its back. The mushroom appears to do all the thinking.",
+        "Height": "3' 03\"",
+        "Weight": "65.0 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Mushroom",
+        "Abilities": [
+            "Effect Spore\nDry Skin"
+        ],
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Flying",
+            "Ice",
+            "Poison",
+            "Rock",
+            "Bug"
+        ],
+        "stats": {
+            "HP": "4",
+            "Attack": "6",
+            "Defense": "5",
+            "Special Attack": "4",
+            "Special Defense": "5",
+            "Speed": "2"
+        }
+    },
+    {
+        "name": "Venonat",
+        "id": "0048",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png",
+        "description": "Poison oozes from all over its body. It catches small bug Pok\u00e9mon at night that are attracted by light.",
+        "Height": "3' 03\"",
+        "Weight": "66.1 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Insect",
+        "Abilities": [
+            "Compound Eyes\nTinted Lens"
+        ],
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Psychic",
+            "Flying",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "4",
+            "Attack": "4",
+            "Defense": "3",
+            "Special Attack": "3",
+            "Special Defense": "4",
+            "Speed": "3"
+        }
+    },
+    {
+        "name": "Venomoth",
+        "id": "0049",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png",
+        "description": "The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.",
+        "Height": "4' 11\"",
+        "Weight": "27.6 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Poison Moth",
+        "Abilities": [
+            "Shield Dust\nTinted Lens"
+        ],
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Psychic",
+            "Flying",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "5",
+            "Attack": "4",
+            "Defense": "4",
+            "Special Attack": "6",
+            "Special Defense": "5",
+            "Speed": "6"
+        }
+    },
+    {
+        "name": "Diglett",
+        "id": "0050",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
+        "description": "It lives about one yard underground, where it feeds on plant roots. It sometimes appears aboveground.",
+        "Height": "0' 08\"",
+        "Weight": "1.8 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Mole",
+        "Abilities": [
+            "Sand Veil\nArena Trap"
+        ],
+        "type": [
+            "Ground"
+        ],
+        "weaknesses": [
+            "Water",
+            "Grass",
+            "Ice"
+        ],
+        "stats": {
+            "HP": "1",
+            "Attack": "4",
+            "Defense": "2",
+            "Special Attack": "3",
+            "Special Defense": "3",
+            "Speed": "6"
+        }
+    },
+    {
+        "name": "Dugtrio",
+        "id": "0051",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png",
+        "description": "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.",
+        "Height": "2' 04\"",
+        "Weight": "73.4 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Mole",
+        "Abilities": [
+            "Sand Veil\nArena Trap"
+        ],
+        "type": [
+            "Ground"
+        ],
+        "weaknesses": [
+            "Water",
+            "Grass",
+            "Ice"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "6",
+            "Defense": "3",
+            "Special Attack": "3",
+            "Special Defense": "5",
+            "Speed": "8"
+        }
+    },
+    {
+        "name": "Meowth",
+        "id": "0052",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png",
+        "description": "All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.",
+        "Height": "1' 04\"",
+        "Weight": "9.3 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Scratch Cat",
+        "Abilities": [
+            "Pickup\nTechnician"
+        ],
+        "type": [
+            "Normal"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "3",
+            "Defense": "3",
+            "Special Attack": "3",
+            "Special Defense": "3",
+            "Speed": "6"
+        }
+    },
+    {
+        "name": "Persian",
+        "id": "0053",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png",
+        "description": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+        "Height": "3' 03\"",
+        "Weight": "70.5 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Classy Cat",
+        "Abilities": [
+            "Technician\nLimber"
+        ],
+        "type": [
+            "Normal"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ],
+        "stats": {
+            "HP": "4",
+            "Attack": "5",
+            "Defense": "4",
+            "Special Attack": "4",
+            "Special Defense": "4",
+            "Speed": "7"
+        }
+    },
+    {
+        "name": "Psyduck",
+        "id": "0054",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png",
+        "description": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+        "Height": "2' 07\"",
+        "Weight": "43.2 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Duck",
+        "Abilities": [
+            "Damp\nCloud Nine"
+        ],
+        "type": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Electric"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "4",
+            "Defense": "3",
+            "Special Attack": "4",
+            "Special Defense": "3",
+            "Speed": "4"
+        }
+    },
+    {
+        "name": "Golduck",
+        "id": "0055",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png",
+        "description": "When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow.",
+        "Height": "5' 07\"",
+        "Weight": "168.9 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Duck",
+        "Abilities": [
+            "Damp\nCloud Nine"
+        ],
+        "type": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Electric"
+        ],
+        "stats": {
+            "HP": "5",
+            "Attack": "5",
+            "Defense": "5",
+            "Special Attack": "6",
+            "Special Defense": "5",
+            "Speed": "5"
+        }
+    },
+    {
+        "name": "Mankey",
+        "id": "0056",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png",
+        "description": "It lives in groups in the treetops. If it loses sight of its group, it becomes infuriated by its loneliness.",
+        "Height": "1' 08\"",
+        "Weight": "61.7 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Pig Monkey",
+        "Abilities": [
+            "Vital Spirit\nAnger Point"
+        ],
+        "type": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            "Psychic",
+            "Flying",
+            "Fairy"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "5",
+            "Defense": "3",
+            "Special Attack": "3",
+            "Special Defense": "3",
+            "Speed": "5"
+        }
+    },
+    {
+        "name": "Primeape",
+        "id": "0057",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png",
+        "description": "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
+        "Height": "3' 03\"",
+        "Weight": "70.5 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Pig Monkey",
+        "Abilities": [
+            "Vital Spirit\nAnger Point"
+        ],
+        "type": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            "Psychic",
+            "Flying",
+            "Fairy"
+        ],
+        "stats": {
+            "HP": "4",
+            "Attack": "7",
+            "Defense": "4",
+            "Special Attack": "4",
+            "Special Defense": "5",
+            "Speed": "6"
+        }
+    },
+    {
+        "name": "Growlithe",
+        "id": "0058",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png",
+        "description": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+        "Height": "2' 04\"",
+        "Weight": "41.9 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Puppy",
+        "Abilities": [
+            "Intimidate\nFlash Fire"
+        ],
+        "type": [
+            "Fire"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "4",
+            "Attack": "5",
+            "Defense": "3",
+            "Special Attack": "5",
+            "Special Defense": "3",
+            "Speed": "4"
+        }
+    },
+    {
+        "name": "Arcanine",
+        "id": "0059",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png",
+        "description": "An ancient picture scroll shows that people were captivated by its movement as it ran through prairies.",
+        "Height": "6' 03\"",
+        "Weight": "341.7 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Legendary",
+        "Abilities": [
+            "Intimidate\nFlash Fire"
+        ],
+        "type": [
+            "Fire"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "stats": {
+            "HP": "6",
+            "Attack": "7",
+            "Defense": "5",
+            "Special Attack": "6",
+            "Special Defense": "5",
+            "Speed": "6"
+        }
+    },
+    {
+        "name": "Poliwag",
+        "id": "0060",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png",
+        "description": "For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pok\u00e9mon\u2019s innards showing through the skin.",
+        "Height": "2' 00\"",
+        "Weight": "27.3 lbs",
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Category": "Tadpole",
+        "Abilities": [
+            "Damp\nWater Absorb"
+        ],
+        "type": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Electric"
+        ],
+        "stats": {
+            "HP": "3",
+            "Attack": "3",
+            "Defense": "3",
+            "Special Attack": "3",
+            "Special Defense": "3",
+            "Speed": "6"
+        }
+    }
+]
