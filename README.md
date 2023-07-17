@@ -7,12 +7,12 @@ Pembuatan analisis ini dilakukan untuk pemenuhan tugas seleksi asisten laborator
 ## **B. Alur Perancangan dan Pembuatan**
 Pada pembuatant tugas ini, setelah menentukan topik yang akan dijadikan sebagai data, penulis selanjutnya melakukan eksplorasi menyeluruh tentang website penyedia informasi mengenai objek wisata di Sumatra Barat pada laman [web tripadvisor](https://www.tripadvisor.co.id/Attractions-g2301784-Activities-West_Sumatra_Sumatra.html) berikut. Selama eksplorasi, penulis melakukan pemindaian informasi dan mencatat poin-poin apa saja yang sekiranya bisa dijadikan data dalam tugas analisis ini. Setelah mengetahui data yang dapat diambil, selanjutnya penulis membuat gambaran desain *ER diagram* dan relational *diagram* agar mendapat gambaran tabel-tabel seperti apa yang nantinya dapat dibuat. Pembuatan diagram ini bersifat sementara sebagai gambaran awal saja, karena nantinya di tengah jalan akan ada beberapa modifikasi yang dilakukan terhadap diagram yang telah dibuat. Setelah selesai, selanjutnya penulis melakukan persiapan dengan menyiapkan *tools* yang sekiranya dapat digunakan. Dalam hal ini, penulis menggunakan bahasa pemrograman python dengan library beautifulsoup untuk melakukan *scraping* data, draw.io untuk pembuatan desain, serta postgreSQL sebagai DBMS untuk penyimpanan data. Setelah melakukan persiapan, barulah penulis melakukan proses untuk mendapatkan hasil yang diminta dengan melakukan *data scraping* dan *data storing*.
 
+## C. Deskripsi Data dan Pemilihan DBMS
+Data yang penulis ambil terdiri dari data peringkat, nama objek, nama daerah, rata-rata *rating*, *rating* bintang 1, *rating* bintang 2, *rating* bintang 3, *rating* bintang 4, *rating* bintang 5, jumlah ulasan, jumlah objek sedaerah, nama jenis, nama akun pengunjung, asal pengunjung, *rating* pengunjung, waktu berkunjung, dan tipe kunjungan yang semua data tersebut terbagi menjadi 4 tabel pada diagram relasional. Selain itu, untuk membuat relasi objek wisata Sumatra Barat ini lebih akurat, penulis menambahkan tabel pengelola dan operasional sebagai tabel tambahan. Untuk lebih lengkapnya mengenai *ER diagram* dan *relational diagram* dari objek wisata Sumatra Barat ini dapat dilihat pada gambar ![ER diagram](https://github.com/ReyhanPA/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ER%20Diagram.png) dan [relational diagram](https://github.com/ReyhanPA/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Relational%20Diagram.png) berikut.
+DBMS
 
 
 
-
-
-Berawal dari pembuatan ER diagram > Diagram Relasional > setelah tahu kebutuhan data baru melakukan data scraping dll
 
 Ulasan hanya diambil yang teratas karena di websitenya ulasan dibagi-bagi per halaman (sampai ratusan halaman ulasan per 1 objeknya), jadi takutnya membebani server (etika scraping)
 
