@@ -7,16 +7,44 @@
 
 <h2 align="center">
   <br>
-  Data Scraping, Database Modelling & Data Storing
+  Peringkat Universitas ASEAN - Webometrics
   <br>
   <br>
 </h2>
 
+## Description of the data and DBMS
+### Data
+Webometrics adalah salah satu dari beberapa sistem pemeringkatan universitas yang ada di dunia. Webometrics sendiri dikembangkan oleh Cybermetrics lab, yaitu kelompok penelitian yang merupakan bagian dari Consejo Superior de Investigaciones Cientificas (CSIC) atau  Institute of Scientific Research Council, badan penelitian nasional di Spanyol. Sistem ini melakukan metode penilaian berbasis website yang mengevaluasi kualitas, kuantitas, aksesbilitas, dan visibilitas dari website universitas yang ada di internet. Pemeringkatan webometrics ini bertujuan untuk memberikan pengukuran yang objektif mengenai kualitas dan visibilitas website universitas.
 
-## Spesifikasi
+Pada project ini, scraping dilakukan terhadap website [webometrics](https://www.webometrics.info/en/world). Data yang diambil tidak seluruhnya, melainkan data mengenai peringkat universitas yang berada di ASEAN pada tahun 2023. Data tersebut terdiri dari `nama universitas`, `asal negara`, `link profile universitas`, `ranking di ASEAN`, `ranking di Negara`, `ranking berdasarkan Impact`, `ranking berdasarkan Openness`, `ranking berdasarkan Excellence`. Data ini saya pilih agar dapat mengetahui perbandingan dan letak posisi universitas saat ini bila dibandingkan dengan universitas-universitas lain yang berada di kontinen yang sama yaitu ASEAN. Data ini dapat bermanfaat bagi civitas akademika universitas agar dapat melakukan pengembangan kualitas dan visibilitas website universitasnya masing-masing.
 
-### Data Scraping
+### DBMS
+Pada project ini, data-data hasil scraping diolah dan disimpan pada database sql dengan menggunakan DBMS PostgreSQL. DBMS PostgreSQL ini dipilih karena mudah untuk digunakan dan mudah pula untuk menemukan dokumentasinya apabila menemukan hambatan. 
 
+## Specification of the program
+
+## How to use
+
+## JSON Structure
+
+## Database Structure
+### ERD (Entity Relationship Diagram)
+### Diagram Relasional
+
+## Explanation of ERD to relational diagram translation process
+
+## Screenshot program
+
+## Reference
+### Library yang digunakan :
++ BeautifulSoup
++ json
++ request
++ pandas
+  
+## Author
+__Miralistya Cahya Fatimah__
+__18221116__
 1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
 
 2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
