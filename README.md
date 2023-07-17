@@ -121,26 +121,27 @@ Setiap strong entity pada ERD akan menjadi tabel tersendiri. dan setiap atribut 
 
 Berikut Schema hasil translasi ERD
 note : **bold** untuk primary key, *italic* untuk foreign key
-product(**id_product**,product_name,status,normal_price,sale_price,rating, count_reviews)
-customer(**id_customer**,first_name,last_name, email, password,country, state, city, address, post_code)
-customer_phone(**id_customer**,phone_number)
-shopping_cart(**id_shopping_cart**,id_customer,note,cart_status,date)
-fill_up(**id_shopping_cart**,**id_product**,quantity)
-voucher(**id_voucher**, voucher_name,voucher_exp,*id_customer*)
-payment(**id_payment**,*id_shopping_cart*,*id_customer*,total_amaount,price_off,payment_method,payment_date,payment_status)
-paypal(**id_payment**,paypal_number)
-credit_card(**id_payment**,card_number,name_on_card,exp_date)
+
+1. product(**id_product**,product_name,status,normal_price,sale_price,rating, count_reviews)
+2. customer(**id_customer**,first_name,last_name, email, password,country, state, city, address, post_code)
+3. customer_phone(**id_customer**,phone_number)
+4. shopping_cart(**id_shopping_cart**,id_customer,note,cart_status,date)
+5. fill_up(**id_shopping_cart**,**id_product**,quantity)
+6. voucher(**id_voucher**, voucher_name,voucher_exp,*id_customer*)
+7. payment(**id_payment**,*id_shopping_cart*,*id_customer*,total_amaount,price_off,payment_method,payment_date,payment_status)
+8. paypal(**id_payment**,paypal_number)
+9. credit_card(**id_payment**,card_number,name_on_card,exp_date)
 
 foreign  key:
-customer_phone(*id_customer*) -> customer(**id_customer**)
-shopping_cart(*id_customer*) -> customer(**id_customer**)
-voucher(*id_customer*) -> customer(**id_customer**)
-fill_up(*id_product*) -> product(**id_product**)
-fill_up(*id_shopping_cart*) -> shopping_cart(**id_shopping_cart**)
-payment(*id_shopping_cart*) -> shopping_cart(**id_shopping_cart**)
-payment(*id_voucher*) -> voucher(**id_voucher**)
-paypal(*id_payment*) -> payment(**id_payment**)
-credit card(*id_payment*) -> payment(**id_payment**)
+1. customer_phone(*id_customer*) -> customer(**id_customer**)
+2. shopping_cart(*id_customer*) -> customer(**id_customer**)
+3. voucher(*id_customer*) -> customer(**id_customer**)
+4. fill_up(*id_product*) -> product(**id_product**)
+5. fill_up(*id_shopping_cart*) -> shopping_cart(**id_shopping_cart**)
+6. payment(*id_shopping_cart*) -> shopping_cart(**id_shopping_cart**)
+7. payment(*id_voucher*) -> voucher(**id_voucher**)
+8. paypal(*id_payment*) -> payment(**id_payment**)
+9. credit card(*id_payment*) -> payment(**id_payment**)
 
 
 ## Screenshots of the program
