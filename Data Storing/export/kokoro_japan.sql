@@ -196,7 +196,9 @@ CREATE TABLE public.payment (
     total_amount double precision,
     price_off double precision,
     payment_date timestamp without time zone,
-    payment_status boolean
+    payment_status boolean,
+    payment_method character varying(20),
+    CONSTRAINT payment_method_constraint CHECK (((payment_method)::text = ANY ((ARRAY['paypal'::character varying, 'credit_card'::character varying])::text[])))
 );
 
 
@@ -423,7 +425,7 @@ COPY public.fill_up (id_shopping_cart, id_product, quantity) FROM stdin;
 -- Data for Name: payment; Type: TABLE DATA; Schema: public; Owner: postgres
 --
 
-COPY public.payment (id_payment, id_shopping_cart, id_voucher, total_amount, price_off, payment_date, payment_status) FROM stdin;
+COPY public.payment (id_payment, id_shopping_cart, id_voucher, total_amount, price_off, payment_date, payment_status, payment_method) FROM stdin;
 \.
 
 

@@ -90,7 +90,7 @@ contoh isi JSON file
 ## Database Structure
 
 Berikut merupakan ERD dari database
-![erd_design](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ERD_kokoro_japan.png)
+![erd_design]()
 
 Berikut merupakan Relational diagram dari database
 ![relational_diagram]()
@@ -128,7 +128,7 @@ note : **bold** untuk primary key, *italic* untuk foreign key
 4. shopping_cart(**id_shopping_cart**,id_customer,note,cart_status,date)
 5. fill_up(**id_shopping_cart**,**id_product**,quantity)
 6. voucher(**id_voucher**, voucher_name,voucher_exp,*id_customer*)
-7. payment(**id_payment**,*id_shopping_cart*,*id_customer*,total_amaount,price_off,payment_method,payment_date,payment_status)
+7. payment(**id_payment**,*id_shopping_cart*,*id_customer*,total_amaount,price_off,payment_date,payment_status,payment_method)
 8. paypal(**id_payment**,paypal_number)
 9. credit_card(**id_payment**,card_number,name_on_card,exp_date)
 
