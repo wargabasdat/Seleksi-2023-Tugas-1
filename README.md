@@ -1,101 +1,167 @@
 <h1 align="center">
   <br>
-  Seleksi Warga Basdat 2023
+  CS:GO S-Tier Tournaments Data
   <br>
   <br>
 </h1>
 
 <h2 align="center">
   <br>
-  Data Scraping, Database Modelling & Data Storing
+  Data Scraping, Storing, and Visualization : CSGO Tournaments
   <br>
+  <br>
+  
+  ![logo csgo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/MLG_Columbus_-_Luminosity_vs_Navi.jpg/1200px-MLG_Columbus_-_Luminosity_vs_Navi.jpg)
+
+
   <br>
 </h2>
 
+## Table of Contents
 
-## Spesifikasi
-
-### Data Scraping
-
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
-
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
-
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
-
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
-
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
-
-### Database Modelling & Data Storing
-
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
-
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
-
-4. Tools yang digunakan __dibebaskan__ pada peserta.
-
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
-
-
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
-
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
-
-### Pengumpulan
-
-
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
-
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
-
-
-```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
-
-
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
-
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
-
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
+## Description
+Liquipedia merupakan _website_ yang menyimpan informasi terbaru mengenai skor turnamen, profil tim _esport_, dan profil pemain. Salah satu informasi _esport_ yang tersedia di _website_ tersebut adalah Counter Strike: Global Offensive (CSGO). CSGO merupakan permainan _First Person Shooter_ terkemuka di dunia permainan _online_. Pada Liquipedia CSGO, turnamen-turnamen terbagi ke dalam beberapa _tier_ dengan _tier_ tertingginya adalah _S-Tier_. Mengutip dari Liquipedia CSGO, turnamen _S-Tier_ menawarkan total hadiah yang terhitung tinggi, hampir seluruhnya dilaksanakan secara luring (_offline_), dan diikuti oleh tim-tim paling bergengsi di dunia CSGO _esport_. Pada _repository_ ini, akan dilakukan _Data Scraping_ pada _website_ Liquipedia CSGO untuk mencari informasi setiap turnamen _S-Tier_ yang sudah pernah diadakan pada tahun 2012-2023.
 <br>
+<br>
+Dalam _web scraping_ ini, DBMS yang akan digunakan adalah PostgreSQL. PostgreSQL memiliki kelebihan dalam menangani _query_ yang kompleks sehingga visualisasi tabel data menjadi mudah untuk dilakukan. Selain itu, _syntax_ untuk PostgreSQL masih mudah untuk dipelajari sehingga tidak memerlukan waktu lama dalam membuat basis data menggunakan DBMS tersebut.
+
+## Specification
+Program _Data Scraping_ ini menggunakan bahasa pemrograman Python dengan dukungan beberapa _libraries_ sebagai berikut
+  - Jupyter Notebook
+    <br>
+    _Open-source web application_ ini mempermudah penataan serta eksekusi kode program. _File_ untuk _data scraping_ akan tersimpan dalam format ".ipynb"
+  - BeuatifulSoup
+    <br>
+    _Library_ ini digunakan dalam _data scraping_ dari website Liquipedia CSGO. _Library_ ini akan melakukan _parsing_ pada website dan menyimpan elemen HTML di dalam suatu variabel. Sintaks pada _library_ ini juga cukup mudah sehingga pencarian elemen HTML pada website menjadi praktis.
+  - Requests
+    <br>
+    Sebelum melakukan _data scraping_, program perlu melakukan _request_ terlebih dahulu kepada _website server_ agar elemen HTML bisa didapatkan. _Library_ ini membantu program dalam melakukan hal tersebut.
+  - JSON
+    <br>
+    _Library_ ini membantu program menghasilkan keluaran file dengan format .json dari variabel dengan tipe data list.
+  - Time
+    <br>
+    Agar _request_ data dilakukan dengan tingkat yang wajar, diperlukan _sleep()_ pada algoritma _request_. Oleh karena itu, _library_ ini membantu program untuk memberikan jeda dalam melakukan _request_.
+
+## How to Use
+1. Pastikan komputer/laptop tersambung ke jaringan internet
+2. Pastikan seluruh _library_ yang diperlukan telah ter-_install_
+3. Apabila menggunakan IDE (seperti VS Code), _install_ Jupyter terlebih dahulu
+4. Lakukan _clone_ pada _repository_ ini
+5. Pada IDE, buka folder ```Data Scraping``` pada _repository_ ini lalu buka folder ```src```. Pada folder tersebut, buka file "csgo_stier_tourney_scraper.ipynb"
+6. Jalan kode program pada _file_ tersebut secara sekuensial dari atas hingga bawah
+7. Ketika proses _data scraping_ telah selesai, Anda dapat menjalankan kode paling bawah pada _file_ untuk menghasilkan file JSON
+
+## JSON Structure
+Pada kode program "csgo_stier_tourney_scraper.ipynb", _file_ JSON yang dihasilkan akan berjumlah dua.
+
+_File_ pertama merupakan "CSGO_Teams.json" yang menyimpan data tim-tim yang telah memenangkan turnamen _S-Tier_ pada permaianan CSGO.
+```
+    {
+        "team_name": "Heroic",
+        "region": "Europe",
+        "approx_total_winnings": 3129372
+    },
+```
+_File_ kedua merupakan "CSGO_Tournaments.json" yang menyimpan data turnamen _S-Tier_ pada permainan CSGO.
+```
+    {
+        "tournament_name": "BLAST Premier: Spring Final 2023",
+        "start_date": "2023-06-07",
+        "end_date": "2023-06-11",
+        "city": "Washington, D.C.",
+        "country": "United States",
+        "type": "Offline",
+        "is_major": false,
+        "winner": "Heroic",
+        "runner_up": "Team Vitality",
+        "prize_pool": 425000.0,
+        "number_of_participants": 8
+    },
+```
+
+## Database Structure
+Berikut ini adalah desain _ER Diagram_ serta _Relational Diagram_ dari hasil _data scraping_ pada _website_ Liquipedia CSGO
+
+ER Diagram
+  
+![ERD](https://github.com/attariqazhar/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ER%20Diagram.png)
+
+Relational Diagram
+  
+![ERD](https://github.com/attariqazhar/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Relational%20Diagram.png)
+
+## ERD to Relational Diagram Translation
+Entitas Tournament dan Team memiliki hubungan _many-to-many_ karena setiap turnamen pasti terasosiasi dengan beberapa tim dan setiap tim dapat terasosasi dengan beberapa turnamen. Maka dari itu, hubungan "winner-runner-up" akan direpresentasikan sebagai skema dengan atribut berisi _primary key_ dari kedua entitas. Pada desain _relational diagram_, relasi winner-runner-up menjadikan atribut "tournament id" sebagai _primary key_-nya
+
+## Screenshot of Program
+- Import Libraries
+  
+![import libraries](https://github.com/attariqazhar/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/import_libraries.png)
+
+- Deklarasi Fungsi
+
+![function declaration 1](https://github.com/attariqazhar/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/preprocessing_function_1.png)
+
+<br>
+
+![function declaration 2](https://github.com/attariqazhar/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/preprocessing_function_2.png)
+
+<br>
+
+![function declaration 3](https://github.com/attariqazhar/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/preprocessing_function_3.png)
+
+<br>
+
+![function declaration 4.1](https://github.com/attariqazhar/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/preprocessing_function_4_1.png)
+
+<br>
+
+![function declaration 4.2](https://github.com/attariqazhar/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/preprocessing_function_4_2.png)
+
+<br>
+
+![function declaration 4.3](https://github.com/attariqazhar/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/preprocessing_function_4_3.png)
+
+<br>
+
+![function declaration 4.4](https://github.com/attariqazhar/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/preprocessing_function_4_4.png)
+
+- Data Scraping
+
+![scraping data 1](https://github.com/attariqazhar/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/scraper_1.png)
+
+<br>
+
+![scraping data 2](https://github.com/attariqazhar/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/scraper_2.png)
+
+<br>
+
+![scraping data 3](https://github.com/attariqazhar/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/scraper_3.png)
+
+- Info saat Program Dijalankan
+
+![scraper running start](https://github.com/attariqazhar/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/scraper_running_start.png)
+
+<br>
+
+![scraper running start](https://github.com/attariqazhar/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/scraper_running_end.png)
+
+- Output dalam Format JSON
+![output json](https://github.com/attariqazhar/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/write_json.png)
+
+## References
+- Web Scraping Tutorial
+  <br>
+  [Web Scraping with Python - Beautiful Soup Crash Course](https://www.youtube.com/watch?v=XVv6mJpFOb0)
+
+- Dokumentasi PostgreSQL
+  <br>
+  [Dokumentasi PostgreSQL](https://www.postgresql.org/docs/)
+
+## Author
+Attariq Muhammad Azhar (18221043)
+<br>
+Sistem dan Teknologi Informasi
+<br>
+Institut Teknologi Bandung
