@@ -10,9 +10,9 @@ const fifthDiagram = require("./generator/5");
 // const eightDiagram = require("./generator/8");
 // const ninthDiagram = require("./generator/9");
 const tenthDiagram = require("./generator/10");
-// const eleventDiagram = require("./generator/11");
+const eleventDiagram = require("./generator/11");
 // const twelfthDiagram = require("./generator/12");
-// const thirtheenthDiagram = require("./generator/13");
+const thirtheenthDiagram = require("./generator/13");
 // const fourteenthDiagram = require("./generator/14");
 const fifteenthDiagram = require("./generator/15");
 // const sixteenthDiagram = require("./generator/16");
@@ -28,7 +28,7 @@ const pool = mariadb.createPool({
 (async () => {
   const conn = await pool.getConnection();
 
-  await connWrapper(conn, fifteenthDiagram);
+  await connWrapper(conn, thirtheenthDiagram);
 })().finally(() => {
   pool.end();
 });
