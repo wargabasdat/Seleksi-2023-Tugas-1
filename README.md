@@ -1,7 +1,11 @@
 # **ANALISIS OBJEK WISATA DI SUMATRA BARAT**
 ---
 
-## Latar Belakang
+## **A. Latar Belakang**
+Pembuatan analisis ini dilakukan untuk pemenuhan tugas seleksi asisten laboratorium basis data tahun 2023 Institut Teknologi Bandung. Adapun pemilihan topik objek wisata di sumatra barat ini karena penulis merupakan mahasiswa ITB yang berasal dari Sumatra Barat. Selain itu, pemilihan objek wisata sebagai data karena penulis merasa Sumatra Barat memiliki potensi yang besar dalam pengembangan objek wisata. Saat ini, objek wisata Sumatra Barat mulai dipandang oleh masyarakat di luar Sumatra Barat sebagai salah satu destinasi pariwisata yang diperhitungkan. Jadi, tak jarang wisatawan terkadang bingung dalam memilih daerah dan objek wisata mana yang sebaiknya dikunjungi terlebih dahulu. Hasil analisis ini nantinya berguna bagi calon pengunjung, apalagi bagi pengunjung yang memiliki *budget* terbatas, tapi tetap ingin menikmati wisata di daerah minangkabau ini.
+
+## **B. Alur Perancangan dan Pembuatan**
+Bisa dilihat pada gambar berikut [ER Diagram](https://github.com/ReyhanPA/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ER%20Diagram.png)
 
 
 
