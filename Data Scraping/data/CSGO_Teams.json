@@ -1,0 +1,262 @@
+[
+    {
+        "team_name": "Heroic",
+        "region": "Europe",
+        "approx_total_winnings": 3129372
+    },
+    {
+        "team_name": "Team Vitality",
+        "region": "Europe",
+        "approx_total_winnings": 3477705
+    },
+    {
+        "team_name": "ENCE",
+        "region": "Europe",
+        "approx_total_winnings": 1860460
+    },
+    {
+        "team_name": "MOUZ",
+        "region": "Europe",
+        "approx_total_winnings": 4194087
+    },
+    {
+        "team_name": "GamerLegion",
+        "region": "Europe",
+        "approx_total_winnings": 453755
+    },
+    {
+        "team_name": "FaZe Clan",
+        "region": "Europe",
+        "approx_total_winnings": 7155597
+    },
+    {
+        "team_name": "Cloud9",
+        "region": "CIS",
+        "approx_total_winnings": 3262876
+    },
+    {
+        "team_name": "G2 Esports",
+        "region": "Europe",
+        "approx_total_winnings": 4521259
+    },
+    {
+        "team_name": "Team Liquid",
+        "region": "Europe",
+        "approx_total_winnings": 5878569
+    },
+    {
+        "team_name": "Outsiders",
+        "region": "CIS",
+        "approx_total_winnings": 718750
+    },
+    {
+        "team_name": "Natus Vincere",
+        "region": "Europe",
+        "approx_total_winnings": 9522791
+    },
+    {
+        "team_name": "BIG",
+        "region": "Europe",
+        "approx_total_winnings": 1900308
+    },
+    {
+        "team_name": "Gambit Esports",
+        "region": "CIS",
+        "approx_total_winnings": 3258151
+    },
+    {
+        "team_name": "Ninjas in Pyjamas",
+        "region": "Europe",
+        "approx_total_winnings": 3867447
+    },
+    {
+        "team_name": "OG",
+        "region": "Europe",
+        "approx_total_winnings": 1092892
+    },
+    {
+        "team_name": "Virtus.pro",
+        "region": "CIS",
+        "approx_total_winnings": 4784062
+    },
+    {
+        "team_name": "Astralis",
+        "region": "Europe",
+        "approx_total_winnings": 9681684
+    },
+    {
+        "team_name": "FURIA Esports",
+        "region": "North America",
+        "approx_total_winnings": 1618275
+    },
+    {
+        "team_name": "100 Thieves",
+        "region": "North America",
+        "approx_total_winnings": 191600
+    },
+    {
+        "team_name": "Evil Geniuses",
+        "region": "North America",
+        "approx_total_winnings": 1270735
+    },
+    {
+        "team_name": "MIBR",
+        "region": "North America",
+        "approx_total_winnings": 2071519
+    },
+    {
+        "team_name": "Complexity Gaming",
+        "region": "North America",
+        "approx_total_winnings": 1814188
+    },
+    {
+        "team_name": "MAD Lions",
+        "region": "Europe",
+        "approx_total_winnings": 728688
+    },
+    {
+        "team_name": "Fnatic",
+        "region": "Europe",
+        "approx_total_winnings": 5988784
+    },
+    {
+        "team_name": "AVANGAR",
+        "region": "CIS",
+        "approx_total_winnings": 772045
+    },
+    {
+        "team_name": "Windigo Gaming",
+        "region": "Europe",
+        "approx_total_winnings": 775118
+    },
+    {
+        "team_name": "AGO esports",
+        "region": "Europe",
+        "approx_total_winnings": 818331
+    },
+    {
+        "team_name": "Vega Squadron",
+        "region": "CIS",
+        "approx_total_winnings": 306811
+    },
+    {
+        "team_name": "North",
+        "region": "Europe",
+        "approx_total_winnings": 1150000
+    },
+    {
+        "team_name": "NRG Esports",
+        "region": "North America",
+        "approx_total_winnings": 1145675
+    },
+    {
+        "team_name": "Space Soldiers",
+        "region": "Europe",
+        "approx_total_winnings": 757282
+    },
+    {
+        "team_name": "SK Gaming",
+        "region": "North America",
+        "approx_total_winnings": 3696729
+    },
+    {
+        "team_name": "Immortals",
+        "region": "North America",
+        "approx_total_winnings": 571425
+    },
+    {
+        "team_name": "Team Envy",
+        "region": "North America",
+        "approx_total_winnings": 2156631
+    },
+    {
+        "team_name": "devils.one",
+        "region": "Europe",
+        "approx_total_winnings": 861019
+    },
+    {
+        "team_name": "OpTic Gaming",
+        "region": "Europe",
+        "approx_total_winnings": 1353650
+    },
+    {
+        "team_name": "Renegades",
+        "region": "Oceania",
+        "approx_total_winnings": 1070183
+    },
+    {
+        "team_name": "Dignitas",
+        "region": "Europe",
+        "approx_total_winnings": 1049036
+    },
+    {
+        "team_name": "Luminosity Gaming",
+        "region": "North America",
+        "approx_total_winnings": 1426082
+    },
+    {
+        "team_name": "Tempo Storm",
+        "region": "Europe",
+        "approx_total_winnings": 155860
+    },
+    {
+        "team_name": "Team SoloMid",
+        "region": "North America",
+        "approx_total_winnings": 613710
+    },
+    {
+        "team_name": "Team France",
+        "region": "Europe",
+        "approx_total_winnings": 79850
+    },
+    {
+        "team_name": "Team Poland",
+        "region": "Europe",
+        "approx_total_winnings": 57804
+    },
+    {
+        "team_name": "Titan",
+        "region": "Europe",
+        "approx_total_winnings": 190544
+    },
+    {
+        "team_name": "Team LDLC",
+        "region": "Europe",
+        "approx_total_winnings": 604207
+    },
+    {
+        "team_name": "iBUYPOWER",
+        "region": "North America",
+        "approx_total_winnings": 0
+    },
+    {
+        "team_name": "Clan-Mystik",
+        "region": "Europe",
+        "approx_total_winnings": 35622
+    },
+    {
+        "team_name": "VeryGames",
+        "region": "Europe",
+        "approx_total_winnings": 279552
+    },
+    {
+        "team_name": "Astana Dragons",
+        "region": "CIS",
+        "approx_total_winnings": 37697
+    },
+    {
+        "team_name": "Lemondogs",
+        "region": "Europe",
+        "approx_total_winnings": 60559
+    },
+    {
+        "team_name": "Epsilon Esports",
+        "region": "Europe",
+        "approx_total_winnings": 483160
+    },
+    {
+        "team_name": "Quantic Gaming",
+        "region": "North America",
+        "approx_total_winnings": 7962
+    }
+]
