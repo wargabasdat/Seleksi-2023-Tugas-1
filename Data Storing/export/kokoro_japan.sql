@@ -77,28 +77,6 @@ CREATE TABLE public.customer (
 ALTER TABLE public.customer OWNER TO postgres;
 
 --
--- Name: customer_id_customer_seq; Type: SEQUENCE; Schema: public; Owner: postgres
---
-
-CREATE SEQUENCE public.customer_id_customer_seq
-    AS integer
-    START WITH 1
-    INCREMENT BY 1
-    NO MINVALUE
-    NO MAXVALUE
-    CACHE 1;
-
-
-ALTER TABLE public.customer_id_customer_seq OWNER TO postgres;
-
---
--- Name: customer_id_customer_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
---
-
-ALTER SEQUENCE public.customer_id_customer_seq OWNED BY public.customer.id_customer;
-
-
---
 -- Name: customer_phone; Type: TABLE; Schema: public; Owner: postgres
 --
 
@@ -146,46 +124,6 @@ CREATE TABLE public.fill_up (
 ALTER TABLE public.fill_up OWNER TO postgres;
 
 --
--- Name: product; Type: TABLE; Schema: public; Owner: postgres
---
-
-CREATE TABLE public.product (
-    id_product integer NOT NULL,
-    product_name character varying(255),
-    status character varying(20),
-    normal_price double precision,
-    sale_price double precision,
-    ratings double precision,
-    count_reviews integer,
-    CONSTRAINT check_status CHECK (((status)::text = ANY ((ARRAY['Sale'::character varying, 'Not sale'::character varying, 'Sold out'::character varying])::text[])))
-);
-
-
-ALTER TABLE public.product OWNER TO postgres;
-
---
--- Name: new_table_id_product_seq; Type: SEQUENCE; Schema: public; Owner: postgres
---
-
-CREATE SEQUENCE public.new_table_id_product_seq
-    AS integer
-    START WITH 1
-    INCREMENT BY 1
-    NO MINVALUE
-    NO MAXVALUE
-    CACHE 1;
-
-
-ALTER TABLE public.new_table_id_product_seq OWNER TO postgres;
-
---
--- Name: new_table_id_product_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
---
-
-ALTER SEQUENCE public.new_table_id_product_seq OWNED BY public.product.id_product;
-
-
---
 -- Name: payment; Type: TABLE; Schema: public; Owner: postgres
 --
 
@@ -198,7 +136,7 @@ CREATE TABLE public.payment (
     payment_date timestamp without time zone,
     payment_status boolean,
     payment_method character varying(20),
-    CONSTRAINT payment_method_constraint CHECK (((payment_method)::text = ANY ((ARRAY['paypal'::character varying, 'credit_card'::character varying])::text[])))
+    CONSTRAINT payment_payment_method_check CHECK (((payment_method)::text = ANY ((ARRAY['paypal'::character varying, 'credit_card'::character varying])::text[])))
 );
 
 
@@ -261,6 +199,46 @@ ALTER SEQUENCE public.paypal_id_payment_seq OWNED BY public.paypal.id_payment;
 
 
 --
+-- Name: product; Type: TABLE; Schema: public; Owner: postgres
+--
+
+CREATE TABLE public.product (
+    id_product integer NOT NULL,
+    product_name character varying(255),
+    status character varying(20),
+    normal_price double precision,
+    sale_price double precision,
+    ratings double precision,
+    count_reviews integer,
+    CONSTRAINT product_status_check CHECK (((status)::text = ANY ((ARRAY['Sold out'::character varying, 'Sale'::character varying, 'Not sale'::character varying])::text[])))
+);
+
+
+ALTER TABLE public.product OWNER TO postgres;
+
+--
+-- Name: product_id_product_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE public.product_id_product_seq
+    AS integer
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.product_id_product_seq OWNER TO postgres;
+
+--
+-- Name: product_id_product_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE public.product_id_product_seq OWNED BY public.product.id_product;
+
+
+--
 -- Name: shopping_cart; Type: TABLE; Schema: public; Owner: postgres
 --
 
@@ -304,7 +282,7 @@ ALTER SEQUENCE public.shopping_cart_id_shopping_cart_seq OWNED BY public.shoppin
 CREATE TABLE public.voucher (
     id_voucher integer NOT NULL,
     voucher_name character varying(255),
-    voucher_exp timestamp without time zone,
+    voucher_exp date,
     id_customer integer
 );
 
@@ -341,13 +319,6 @@ ALTER TABLE ONLY public.credit_card ALTER COLUMN id_payment SET DEFAULT nextval(
 
 
 --
--- Name: customer id_customer; Type: DEFAULT; Schema: public; Owner: postgres
---
-
-ALTER TABLE ONLY public.customer ALTER COLUMN id_customer SET DEFAULT nextval('public.customer_id_customer_seq'::regclass);
-
-
---
 -- Name: customer_phone id_customer; Type: DEFAULT; Schema: public; Owner: postgres
 --
 
@@ -372,7 +343,7 @@ ALTER TABLE ONLY public.paypal ALTER COLUMN id_payment SET DEFAULT nextval('publ
 -- Name: product id_product; Type: DEFAULT; Schema: public; Owner: postgres
 --
 
-ALTER TABLE ONLY public.product ALTER COLUMN id_product SET DEFAULT nextval('public.new_table_id_product_seq'::regclass);
+ALTER TABLE ONLY public.product ALTER COLUMN id_product SET DEFAULT nextval('public.product_id_product_seq'::regclass);
 
 
 --
@@ -564,7 +535,7 @@ COPY public.product (id_product, product_name, status, normal_price, sale_price,
 120	Uevo Design Cube Dry Wax	Not sale	2334	2334	0	0
 121	Softymo White Cleansing Oil	Not sale	1291	1291	0	0
 122	Canmake Mix Eyebrow	Sale	1188	1069	0	0
-123	Men's Biore Foam Type Face Wash	Sale	989	890	5	1
+123	Mens Biore Foam Type Face Wash	Sale	989	890	5	1
 124	Flowfushi Mote Liner Liquid Cherry Cheek	Not sale	2352	2352	0	0
 125	Dejavu Lash Knockout Extra Volume Mascara	Not sale	2327	2327	0	0
 126	Lululun Cleansing Balm	Not sale	3916	3916	0	0
@@ -599,24 +570,10 @@ SELECT pg_catalog.setval('public.credit_card_id_payment_seq', 1, false);
 
 
 --
--- Name: customer_id_customer_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
---
-
-SELECT pg_catalog.setval('public.customer_id_customer_seq', 1, false);
-
-
---
 -- Name: customer_phone_id_customer_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
 --
 
 SELECT pg_catalog.setval('public.customer_phone_id_customer_seq', 1, false);
-
-
---
--- Name: new_table_id_product_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
---
-
-SELECT pg_catalog.setval('public.new_table_id_product_seq', 1, false);
 
 
 --
@@ -631,6 +588,13 @@ SELECT pg_catalog.setval('public.payment_id_payment_seq', 1, false);
 --
 
 SELECT pg_catalog.setval('public.paypal_id_payment_seq', 1, false);
+
+
+--
+-- Name: product_id_product_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('public.product_id_product_seq', 1, false);
 
 
 --
@@ -680,14 +644,6 @@ ALTER TABLE ONLY public.fill_up
 
 
 --
--- Name: product new_table_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
---
-
-ALTER TABLE ONLY public.product
-    ADD CONSTRAINT new_table_pkey PRIMARY KEY (id_product);
-
-
---
 -- Name: payment payment_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
 --
 
@@ -701,6 +657,14 @@ ALTER TABLE ONLY public.payment
 
 ALTER TABLE ONLY public.paypal
     ADD CONSTRAINT paypal_pkey PRIMARY KEY (id_payment);
+
+
+--
+-- Name: product product_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.product
+    ADD CONSTRAINT product_pkey PRIMARY KEY (id_product);
 
 
 --
@@ -736,19 +700,19 @@ ALTER TABLE ONLY public.customer_phone
 
 
 --
--- Name: fill_up fk_id_product; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+-- Name: fill_up fill_up_id_product_fkey; Type: FK CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.fill_up
-    ADD CONSTRAINT fk_id_product FOREIGN KEY (id_product) REFERENCES public.product(id_product);
+    ADD CONSTRAINT fill_up_id_product_fkey FOREIGN KEY (id_product) REFERENCES public.product(id_product);
 
 
 --
--- Name: fill_up fk_id_shopping_cart; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+-- Name: fill_up fill_up_id_shopping_cart_fkey; Type: FK CONSTRAINT; Schema: public; Owner: postgres
 --
 
 ALTER TABLE ONLY public.fill_up
-    ADD CONSTRAINT fk_id_shopping_cart FOREIGN KEY (id_shopping_cart) REFERENCES public.shopping_cart(id_shopping_cart);
+    ADD CONSTRAINT fill_up_id_shopping_cart_fkey FOREIGN KEY (id_shopping_cart) REFERENCES public.shopping_cart(id_shopping_cart);
 
 
 --
