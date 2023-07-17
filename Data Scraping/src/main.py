@@ -1,5 +1,6 @@
 import json
 
+from preprocessData import preprocessData
 from getPokemonData import getPokemonInfo
 from getUrlList import getUrlList
 
@@ -35,3 +36,4 @@ if (__name__ == "__main__"):
             file.write(json_object)
     
     # PREPROCESS THE DATA
+    preprocessData()

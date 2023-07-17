@@ -22,15 +22,4 @@ def getUrlList(BASE_URL :str):
         driverSearch.quit()
         return []
 
-
-if (__name__ == "__main__"):
-    BASE_URL = "https://www.pokemon.com/"
-
-    result = getUrlList(BASE_URL)
-
-    json_object = json.dumps(result, indent=4)
-
-    with open("./Data Scraping/data/url_list.json","w") as file:
-        file.write(json_object)
-
     

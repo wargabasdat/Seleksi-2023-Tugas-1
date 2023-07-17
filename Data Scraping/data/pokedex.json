@@ -686,7 +686,8 @@
         ],
         "Category": "Tiny Bird",
         "Abilities": [
-            "Keen Eye\nTangled Feet"
+            "Keen Eye",
+            "Tangled Feet"
         ],
         "type": [
             "Normal",
@@ -731,7 +732,8 @@
         ],
         "Category": "Bird",
         "Abilities": [
-            "Keen Eye\nTangled Feet"
+            "Keen Eye",
+            "Tangled Feet"
         ],
         "type": [
             "Normal",
@@ -776,7 +778,8 @@
         ],
         "Category": "Bird",
         "Abilities": [
-            "Keen Eye\nTangled Feet"
+            "Keen Eye",
+            "Tangled Feet"
         ],
         "type": [
             "Normal",
@@ -821,7 +824,8 @@
         ],
         "Category": "Mouse",
         "Abilities": [
-            "Run Away\nGuts"
+            "Run Away",
+            "Guts"
         ],
         "type": [
             "Normal"
@@ -861,7 +865,8 @@
         ],
         "Category": "Mouse",
         "Abilities": [
-            "Run Away\nGuts"
+            "Run Away",
+            "Guts"
         ],
         "type": [
             "Normal"
@@ -987,7 +992,8 @@
         ],
         "Category": "Snake",
         "Abilities": [
-            "Shed Skin\nIntimidate"
+            "Shed Skin",
+            "Intimidate"
         ],
         "type": [
             "Poison"
@@ -1028,7 +1034,8 @@
         ],
         "Category": "Cobra",
         "Abilities": [
-            "Shed Skin\nIntimidate"
+            "Shed Skin",
+            "Intimidate"
         ],
         "type": [
             "Poison"
@@ -1236,7 +1243,8 @@
         ],
         "Category": "Poison Pin",
         "Abilities": [
-            "Poison Point\nRivalry"
+            "Poison Point",
+            "Rivalry"
         ],
         "type": [
             "Poison"
@@ -1278,7 +1286,8 @@
         ],
         "Category": "Poison Pin",
         "Abilities": [
-            "Poison Point\nRivalry"
+            "Poison Point",
+            "Rivalry"
         ],
         "type": [
             "Poison"
@@ -1320,7 +1329,8 @@
         ],
         "Category": "Drill",
         "Abilities": [
-            "Poison Point\nRivalry"
+            "Poison Point",
+            "Rivalry"
         ],
         "type": [
             "Poison",
@@ -1365,7 +1375,8 @@
         ],
         "Category": "Poison Pin",
         "Abilities": [
-            "Poison Point\nRivalry"
+            "Poison Point",
+            "Rivalry"
         ],
         "type": [
             "Poison"
@@ -1407,7 +1418,8 @@
         ],
         "Category": "Poison Pin",
         "Abilities": [
-            "Poison Point\nRivalry"
+            "Poison Point",
+            "Rivalry"
         ],
         "type": [
             "Poison"
@@ -1449,7 +1461,8 @@
         ],
         "Category": "Drill",
         "Abilities": [
-            "Poison Point\nRivalry"
+            "Poison Point",
+            "Rivalry"
         ],
         "type": [
             "Poison",
@@ -1495,7 +1508,8 @@
         ],
         "Category": "Fairy",
         "Abilities": [
-            "Cute Charm\nMagic Guard"
+            "Cute Charm",
+            "Magic Guard"
         ],
         "type": [
             "Fairy"
@@ -1538,7 +1552,8 @@
         ],
         "Category": "Fairy",
         "Abilities": [
-            "Cute Charm\nMagic Guard"
+            "Cute Charm",
+            "Magic Guard"
         ],
         "type": [
             "Fairy"
@@ -1665,7 +1680,8 @@
         ],
         "Category": "Balloon",
         "Abilities": [
-            "Cute Charm\nCompetitive"
+            "Cute Charm",
+            "Competitive"
         ],
         "type": [
             "Normal",
@@ -1709,7 +1725,8 @@
         ],
         "Category": "Balloon",
         "Abilities": [
-            "Cute Charm\nCompetitive"
+            "Cute Charm",
+            "Competitive"
         ],
         "type": [
             "Normal",
@@ -1986,7 +2003,8 @@
         ],
         "Category": "Mushroom",
         "Abilities": [
-            "Effect Spore\nDry Skin"
+            "Effect Spore",
+            "Dry Skin"
         ],
         "type": [
             "Bug",
@@ -2032,7 +2050,8 @@
         ],
         "Category": "Mushroom",
         "Abilities": [
-            "Effect Spore\nDry Skin"
+            "Effect Spore",
+            "Dry Skin"
         ],
         "type": [
             "Bug",
@@ -2078,7 +2097,8 @@
         ],
         "Category": "Insect",
         "Abilities": [
-            "Compound Eyes\nTinted Lens"
+            "Compound Eyes",
+            "Tinted Lens"
         ],
         "type": [
             "Bug",
@@ -2122,7 +2142,8 @@
         ],
         "Category": "Poison Moth",
         "Abilities": [
-            "Shield Dust\nTinted Lens"
+            "Shield Dust",
+            "Tinted Lens"
         ],
         "type": [
             "Bug",
@@ -2166,7 +2187,8 @@
         ],
         "Category": "Mole",
         "Abilities": [
-            "Sand Veil\nArena Trap"
+            "Sand Veil",
+            "Arena Trap"
         ],
         "type": [
             "Ground"
@@ -2208,7 +2230,8 @@
         ],
         "Category": "Mole",
         "Abilities": [
-            "Sand Veil\nArena Trap"
+            "Sand Veil",
+            "Arena Trap"
         ],
         "type": [
             "Ground"
@@ -2250,7 +2273,8 @@
         ],
         "Category": "Scratch Cat",
         "Abilities": [
-            "Pickup\nTechnician"
+            "Pickup",
+            "Technician"
         ],
         "type": [
             "Normal"
@@ -2290,7 +2314,8 @@
         ],
         "Category": "Classy Cat",
         "Abilities": [
-            "Technician\nLimber"
+            "Technician",
+            "Limber"
         ],
         "type": [
             "Normal"
@@ -2330,7 +2355,8 @@
         ],
         "Category": "Duck",
         "Abilities": [
-            "Damp\nCloud Nine"
+            "Damp",
+            "Cloud Nine"
         ],
         "type": [
             "Water"
@@ -2371,7 +2397,8 @@
         ],
         "Category": "Duck",
         "Abilities": [
-            "Damp\nCloud Nine"
+            "Damp",
+            "Cloud Nine"
         ],
         "type": [
             "Water"
@@ -2412,7 +2439,8 @@
         ],
         "Category": "Pig Monkey",
         "Abilities": [
-            "Vital Spirit\nAnger Point"
+            "Vital Spirit",
+            "Anger Point"
         ],
         "type": [
             "Fighting"
@@ -2456,7 +2484,8 @@
         ],
         "Category": "Pig Monkey",
         "Abilities": [
-            "Vital Spirit\nAnger Point"
+            "Vital Spirit",
+            "Anger Point"
         ],
         "type": [
             "Fighting"
@@ -2500,7 +2529,8 @@
         ],
         "Category": "Puppy",
         "Abilities": [
-            "Intimidate\nFlash Fire"
+            "Intimidate",
+            "Flash Fire"
         ],
         "type": [
             "Fire"
@@ -2542,7 +2572,8 @@
         ],
         "Category": "Legendary",
         "Abilities": [
-            "Intimidate\nFlash Fire"
+            "Intimidate",
+            "Flash Fire"
         ],
         "type": [
             "Fire"
@@ -2584,7 +2615,8 @@
         ],
         "Category": "Tadpole",
         "Abilities": [
-            "Damp\nWater Absorb"
+            "Damp",
+            "Water Absorb"
         ],
         "type": [
             "Water"
@@ -2628,7 +2660,8 @@
         ],
         "Category": "Tadpole",
         "Abilities": [
-            "Damp\nWater Absorb"
+            "Damp",
+            "Water Absorb"
         ],
         "type": [
             "Water"
@@ -2672,7 +2705,8 @@
         ],
         "Category": "Tadpole",
         "Abilities": [
-            "Damp\nWater Absorb"
+            "Damp",
+            "Water Absorb"
         ],
         "type": [
             "Water",
@@ -2720,7 +2754,8 @@
         ],
         "Category": "Psi",
         "Abilities": [
-            "Inner Focus\nSynchronize"
+            "Inner Focus",
+            "Synchronize"
         ],
         "type": [
             "Psychic"
@@ -2764,7 +2799,8 @@
         ],
         "Category": "Psi",
         "Abilities": [
-            "Inner Focus\nSynchronize"
+            "Inner Focus",
+            "Synchronize"
         ],
         "type": [
             "Psychic"
@@ -2808,7 +2844,8 @@
         ],
         "Category": "Psi",
         "Abilities": [
-            "Inner Focus\nSynchronize"
+            "Inner Focus",
+            "Synchronize"
         ],
         "type": [
             "Psychic"
@@ -2852,7 +2889,8 @@
         ],
         "Category": "Superpower",
         "Abilities": [
-            "Guts\nNo Guard"
+            "Guts",
+            "No Guard"
         ],
         "type": [
             "Fighting"
@@ -2896,7 +2934,8 @@
         ],
         "Category": "Superpower",
         "Abilities": [
-            "Guts\nNo Guard"
+            "Guts",
+            "No Guard"
         ],
         "type": [
             "Fighting"
@@ -2940,7 +2979,8 @@
         ],
         "Category": "Superpower",
         "Abilities": [
-            "Guts\nNo Guard"
+            "Guts",
+            "No Guard"
         ],
         "type": [
             "Fighting"
@@ -3122,7 +3162,8 @@
         ],
         "Category": "Jellyfish",
         "Abilities": [
-            "Clear Body\nLiquid Ooze"
+            "Clear Body",
+            "Liquid Ooze"
         ],
         "type": [
             "Water",
@@ -3165,7 +3206,8 @@
         ],
         "Category": "Jellyfish",
         "Abilities": [
-            "Clear Body\nLiquid Ooze"
+            "Clear Body",
+            "Liquid Ooze"
         ],
         "type": [
             "Water",
@@ -3208,7 +3250,8 @@
         ],
         "Category": "Rock",
         "Abilities": [
-            "Rock Head\nSturdy"
+            "Rock Head",
+            "Sturdy"
         ],
         "type": [
             "Rock",
@@ -3256,7 +3299,8 @@
         ],
         "Category": "Rock",
         "Abilities": [
-            "Rock Head\nSturdy"
+            "Rock Head",
+            "Sturdy"
         ],
         "type": [
             "Rock",
@@ -3304,7 +3348,8 @@
         ],
         "Category": "Megaton",
         "Abilities": [
-            "Rock Head\nSturdy"
+            "Rock Head",
+            "Sturdy"
         ],
         "type": [
             "Rock",
@@ -3352,7 +3397,8 @@
         ],
         "Category": "Fire Horse",
         "Abilities": [
-            "Run Away\nFlash Fire"
+            "Run Away",
+            "Flash Fire"
         ],
         "type": [
             "Fire"
@@ -3394,7 +3440,8 @@
         ],
         "Category": "Fire Horse",
         "Abilities": [
-            "Run Away\nFlash Fire"
+            "Run Away",
+            "Flash Fire"
         ],
         "type": [
             "Fire"
@@ -3436,7 +3483,8 @@
         ],
         "Category": "Dopey",
         "Abilities": [
-            "Oblivious\nOwn Tempo"
+            "Oblivious",
+            "Own Tempo"
         ],
         "type": [
             "Water",
@@ -3482,7 +3530,8 @@
         ],
         "Category": "Hermit Crab",
         "Abilities": [
-            "Oblivious\nOwn Tempo"
+            "Oblivious",
+            "Own Tempo"
         ],
         "type": [
             "Water",
@@ -3525,7 +3574,8 @@
         "Gender": "Unknown",
         "Category": "Magnet",
         "Abilities": [
-            "Sturdy\nMagnet Pull"
+            "Sturdy",
+            "Magnet Pull"
         ],
         "type": [
             "Electric",
@@ -3567,7 +3617,8 @@
         "Gender": "Unknown",
         "Category": "Magnet",
         "Abilities": [
-            "Sturdy\nMagnet Pull"
+            "Sturdy",
+            "Magnet Pull"
         ],
         "type": [
             "Electric",
@@ -3612,7 +3663,8 @@
         ],
         "Category": "Wild Duck",
         "Abilities": [
-            "Keen Eye\nInner Focus"
+            "Keen Eye",
+            "Inner Focus"
         ],
         "type": [
             "Normal",
@@ -3655,7 +3707,8 @@
         ],
         "Category": "Twin Bird",
         "Abilities": [
-            "Run Away\nEarly Bird"
+            "Run Away",
+            "Early Bird"
         ],
         "type": [
             "Normal",
@@ -3698,7 +3751,8 @@
         ],
         "Category": "Triple Bird",
         "Abilities": [
-            "Run Away\nEarly Bird"
+            "Run Away",
+            "Early Bird"
         ],
         "type": [
             "Normal",
@@ -3741,7 +3795,8 @@
         ],
         "Category": "Sea Lion",
         "Abilities": [
-            "Thick Fat\nHydration"
+            "Thick Fat",
+            "Hydration"
         ],
         "type": [
             "Water"
@@ -3782,7 +3837,8 @@
         ],
         "Category": "Sea Lion",
         "Abilities": [
-            "Thick Fat\nHydration"
+            "Thick Fat",
+            "Hydration"
         ],
         "type": [
             "Water",
@@ -3826,7 +3882,8 @@
         ],
         "Category": "Sludge",
         "Abilities": [
-            "Stench\nSticky Hold"
+            "Stench",
+            "Sticky Hold"
         ],
         "type": [
             "Poison"
@@ -3867,7 +3924,8 @@
         ],
         "Category": "Sludge",
         "Abilities": [
-            "Stench\nSticky Hold"
+            "Stench",
+            "Sticky Hold"
         ],
         "type": [
             "Poison"
@@ -3908,7 +3966,8 @@
         ],
         "Category": "Bivalve",
         "Abilities": [
-            "Shell Armor\nSkill Link"
+            "Shell Armor",
+            "Skill Link"
         ],
         "type": [
             "Water"
@@ -3949,7 +4008,8 @@
         ],
         "Category": "Bivalve",
         "Abilities": [
-            "Shell Armor\nSkill Link"
+            "Shell Armor",
+            "Skill Link"
         ],
         "type": [
             "Water",
@@ -4131,7 +4191,8 @@
         ],
         "Category": "Rock Snake",
         "Abilities": [
-            "Rock Head\nSturdy"
+            "Rock Head",
+            "Sturdy"
         ],
         "type": [
             "Rock",
@@ -4177,7 +4238,8 @@
         ],
         "Category": "Hypnosis",
         "Abilities": [
-            "Insomnia\nForewarn"
+            "Insomnia",
+            "Forewarn"
         ],
         "type": [
             "Psychic"
@@ -4219,7 +4281,8 @@
         ],
         "Category": "Hypnosis",
         "Abilities": [
-            "Insomnia\nForewarn"
+            "Insomnia",
+            "Forewarn"
         ],
         "type": [
             "Psychic"
@@ -4261,7 +4324,8 @@
         ],
         "Category": "River Crab",
         "Abilities": [
-            "Shell Armor\nHyper Cutter"
+            "Shell Armor",
+            "Hyper Cutter"
         ],
         "type": [
             "Water"
@@ -4302,7 +4366,8 @@
         ],
         "Category": "Pincer",
         "Abilities": [
-            "Shell Armor\nHyper Cutter"
+            "Shell Armor",
+            "Hyper Cutter"
         ],
         "type": [
             "Water"
@@ -4340,7 +4405,8 @@
         "Gender": "Unknown",
         "Category": "Ball",
         "Abilities": [
-            "Static\nSoundproof"
+            "Static",
+            "Soundproof"
         ],
         "type": [
             "Electric"
@@ -4377,7 +4443,8 @@
         "Gender": "Unknown",
         "Category": "Ball",
         "Abilities": [
-            "Static\nSoundproof"
+            "Static",
+            "Soundproof"
         ],
         "type": [
             "Electric"
@@ -4511,7 +4578,8 @@
         ],
         "Category": "Lonely",
         "Abilities": [
-            "Rock Head\nLightning Rod"
+            "Rock Head",
+            "Lightning Rod"
         ],
         "type": [
             "Ground"
@@ -4553,7 +4621,8 @@
         ],
         "Category": "Bone Keeper",
         "Abilities": [
-            "Rock Head\nLightning Rod"
+            "Rock Head",
+            "Lightning Rod"
         ],
         "type": [
             "Ground"
@@ -4594,7 +4663,8 @@
         ],
         "Category": "Kicking",
         "Abilities": [
-            "Limber\nReckless"
+            "Limber",
+            "Reckless"
         ],
         "type": [
             "Fighting"
@@ -4637,7 +4707,8 @@
         ],
         "Category": "Punching",
         "Abilities": [
-            "Keen Eye\nIron Fist"
+            "Keen Eye",
+            "Iron Fist"
         ],
         "type": [
             "Fighting"
@@ -4681,7 +4752,8 @@
         ],
         "Category": "Licking",
         "Abilities": [
-            "Oblivious\nOwn Tempo"
+            "Oblivious",
+            "Own Tempo"
         ],
         "type": [
             "Normal"
@@ -4721,7 +4793,8 @@
         ],
         "Category": "Poison Gas",
         "Abilities": [
-            "Levitate\nNeutralizing Gas"
+            "Levitate",
+            "Neutralizing Gas"
         ],
         "type": [
             "Poison"
@@ -4762,7 +4835,8 @@
         ],
         "Category": "Poison Gas",
         "Abilities": [
-            "Levitate\nNeutralizing Gas"
+            "Levitate",
+            "Neutralizing Gas"
         ],
         "type": [
             "Poison"
@@ -4803,7 +4877,8 @@
         ],
         "Category": "Spikes",
         "Abilities": [
-            "Rock Head\nLightning Rod"
+            "Rock Head",
+            "Lightning Rod"
         ],
         "type": [
             "Ground",
@@ -4851,7 +4926,8 @@
         ],
         "Category": "Drill",
         "Abilities": [
-            "Rock Head\nLightning Rod"
+            "Rock Head",
+            "Lightning Rod"
         ],
         "type": [
             "Ground",
@@ -4898,7 +4974,8 @@
         ],
         "Category": "Egg",
         "Abilities": [
-            "Natural Cure\nSerene Grace"
+            "Natural Cure",
+            "Serene Grace"
         ],
         "type": [
             "Normal"
@@ -4940,7 +5017,8 @@
         ],
         "Category": "Vine",
         "Abilities": [
-            "Chlorophyll\nLeaf Guard"
+            "Chlorophyll",
+            "Leaf Guard"
         ],
         "type": [
             "Grass"
@@ -4983,7 +5061,8 @@
         ],
         "Category": "Parent",
         "Abilities": [
-            "Early Bird\nScrappy"
+            "Early Bird",
+            "Scrappy"
         ],
         "type": [
             "Normal"
@@ -5021,7 +5100,8 @@
         ],
         "Category": "Dragon",
         "Abilities": [
-            "Swift Swim\nSniper"
+            "Swift Swim",
+            "Sniper"
         ],
         "type": [
             "Water"
@@ -5064,7 +5144,8 @@
         ],
         "Category": "Dragon",
         "Abilities": [
-            "Poison Point\nSniper"
+            "Poison Point",
+            "Sniper"
         ],
         "type": [
             "Water"
@@ -5107,7 +5188,8 @@
         ],
         "Category": "Goldfish",
         "Abilities": [
-            "Swift Swim\nWater Veil"
+            "Swift Swim",
+            "Water Veil"
         ],
         "type": [
             "Water"
@@ -5148,7 +5230,8 @@
         ],
         "Category": "Goldfish",
         "Abilities": [
-            "Swift Swim\nWater Veil"
+            "Swift Swim",
+            "Water Veil"
         ],
         "type": [
             "Water"
@@ -5186,7 +5269,8 @@
         "Gender": "Unknown",
         "Category": "Star Shape",
         "Abilities": [
-            "Natural Cure\nIlluminate"
+            "Natural Cure",
+            "Illuminate"
         ],
         "type": [
             "Water"
@@ -5224,7 +5308,8 @@
         "Gender": "Unknown",
         "Category": "Mysterious",
         "Abilities": [
-            "Natural Cure\nIlluminate"
+            "Natural Cure",
+            "Illuminate"
         ],
         "type": [
             "Water",
@@ -5269,7 +5354,8 @@
         ],
         "Category": "Barrier",
         "Abilities": [
-            "Soundproof\nFilter"
+            "Soundproof",
+            "Filter"
         ],
         "type": [
             "Psychic",
@@ -5312,7 +5398,8 @@
         ],
         "Category": "Mantis",
         "Abilities": [
-            "Swarm\nTechnician"
+            "Swarm",
+            "Technician"
         ],
         "type": [
             "Bug",
@@ -5357,7 +5444,8 @@
         ],
         "Category": "Human Shape",
         "Abilities": [
-            "Oblivious\nForewarn"
+            "Oblivious",
+            "Forewarn"
         ],
         "type": [
             "Ice",
@@ -5489,7 +5577,8 @@
         ],
         "Category": "Stag Beetle",
         "Abilities": [
-            "Hyper Cutter\nMold Breaker"
+            "Hyper Cutter",
+            "Mold Breaker"
         ],
         "type": [
             "Bug"
@@ -5528,7 +5617,8 @@
         ],
         "Category": "Wild Bull",
         "Abilities": [
-            "Intimidate\nAnger Point"
+            "Intimidate",
+            "Anger Point"
         ],
         "type": [
             "Normal"
@@ -5649,7 +5739,8 @@
         ],
         "Category": "Transport",
         "Abilities": [
-            "Water Absorb\nShell Armor"
+            "Water Absorb",
+            "Shell Armor"
         ],
         "type": [
             "Water",
@@ -5726,7 +5817,8 @@
         ],
         "Category": "Evolution",
         "Abilities": [
-            "Run Away\nAdaptability"
+            "Run Away",
+            "Adaptability"
         ],
         "type": [
             "Normal"
@@ -5914,7 +6006,8 @@
         "Gender": "Unknown",
         "Category": "Virtual",
         "Abilities": [
-            "Trace\nDownload"
+            "Trace",
+            "Download"
         ],
         "type": [
             "Normal"
@@ -5956,7 +6049,8 @@
         ],
         "Category": "Spiral",
         "Abilities": [
-            "Shell Armor\nSwift Swim"
+            "Shell Armor",
+            "Swift Swim"
         ],
         "type": [
             "Rock",
@@ -6000,7 +6094,8 @@
         ],
         "Category": "Spiral",
         "Abilities": [
-            "Shell Armor\nSwift Swim"
+            "Shell Armor",
+            "Swift Swim"
         ],
         "type": [
             "Rock",
@@ -6044,7 +6139,8 @@
         ],
         "Category": "Shellfish",
         "Abilities": [
-            "Swift Swim\nBattle Armor"
+            "Swift Swim",
+            "Battle Armor"
         ],
         "type": [
             "Rock",
@@ -6088,7 +6184,8 @@
         ],
         "Category": "Shellfish",
         "Abilities": [
-            "Swift Swim\nBattle Armor"
+            "Swift Swim",
+            "Battle Armor"
         ],
         "type": [
             "Rock",
@@ -6132,7 +6229,8 @@
         ],
         "Category": "Fossil",
         "Abilities": [
-            "Rock Head\nPressure"
+            "Rock Head",
+            "Pressure"
         ],
         "type": [
             "Rock",
@@ -6175,7 +6273,8 @@
         ],
         "Category": "Sleeping",
         "Abilities": [
-            "Thick Fat\nImmunity"
+            "Thick Fat",
+            "Immunity"
         ],
         "type": [
             "Normal"
@@ -6936,7 +7035,8 @@
         ],
         "Category": "Scout",
         "Abilities": [
-            "Keen Eye\nRun Away"
+            "Keen Eye",
+            "Run Away"
         ],
         "type": [
             "Normal"
@@ -6976,7 +7076,8 @@
         ],
         "Category": "Long Body",
         "Abilities": [
-            "Keen Eye\nRun Away"
+            "Keen Eye",
+            "Run Away"
         ],
         "type": [
             "Normal"
@@ -7016,7 +7117,8 @@
         ],
         "Category": "Owl",
         "Abilities": [
-            "Keen Eye\nInsomnia"
+            "Keen Eye",
+            "Insomnia"
         ],
         "type": [
             "Normal",
@@ -7059,7 +7161,8 @@
         ],
         "Category": "Owl",
         "Abilities": [
-            "Keen Eye\nInsomnia"
+            "Keen Eye",
+            "Insomnia"
         ],
         "type": [
             "Normal",
@@ -7102,7 +7205,8 @@
         ],
         "Category": "Five Star",
         "Abilities": [
-            "Swarm\nEarly Bird"
+            "Swarm",
+            "Early Bird"
         ],
         "type": [
             "Bug",
@@ -7147,7 +7251,8 @@
         ],
         "Category": "Five Star",
         "Abilities": [
-            "Swarm\nEarly Bird"
+            "Swarm",
+            "Early Bird"
         ],
         "type": [
             "Bug",
@@ -7192,7 +7297,8 @@
         ],
         "Category": "String Spit",
         "Abilities": [
-            "Swarm\nInsomnia"
+            "Swarm",
+            "Insomnia"
         ],
         "type": [
             "Bug",
@@ -7236,7 +7342,8 @@
         ],
         "Category": "Long Leg",
         "Abilities": [
-            "Swarm\nInsomnia"
+            "Swarm",
+            "Insomnia"
         ],
         "type": [
             "Bug",
@@ -7326,7 +7433,8 @@
         ],
         "Category": "Angler",
         "Abilities": [
-            "Illuminate\nVolt Absorb"
+            "Illuminate",
+            "Volt Absorb"
         ],
         "type": [
             "Water",
@@ -7368,7 +7476,8 @@
         ],
         "Category": "Light",
         "Abilities": [
-            "Illuminate\nVolt Absorb"
+            "Illuminate",
+            "Volt Absorb"
         ],
         "type": [
             "Water",
@@ -7452,7 +7561,8 @@
         ],
         "Category": "Star Shape",
         "Abilities": [
-            "Cute Charm\nMagic Guard"
+            "Cute Charm",
+            "Magic Guard"
         ],
         "type": [
             "Fairy"
@@ -7495,7 +7605,8 @@
         ],
         "Category": "Balloon",
         "Abilities": [
-            "Cute Charm\nCompetitive"
+            "Cute Charm",
+            "Competitive"
         ],
         "type": [
             "Normal",
@@ -7539,7 +7650,8 @@
         ],
         "Category": "Spike Ball",
         "Abilities": [
-            "Serene Grace\nHustle"
+            "Serene Grace",
+            "Hustle"
         ],
         "type": [
             "Fairy"
@@ -7582,7 +7694,8 @@
         ],
         "Category": "Happiness",
         "Abilities": [
-            "Serene Grace\nHustle"
+            "Serene Grace",
+            "Hustle"
         ],
         "type": [
             "Fairy",
@@ -7629,7 +7742,8 @@
         ],
         "Category": "Tiny Bird",
         "Abilities": [
-            "Synchronize\nEarly Bird"
+            "Synchronize",
+            "Early Bird"
         ],
         "type": [
             "Psychic",
@@ -7674,7 +7788,8 @@
         ],
         "Category": "Mystic",
         "Abilities": [
-            "Synchronize\nEarly Bird"
+            "Synchronize",
+            "Early Bird"
         ],
         "type": [
             "Psychic",
@@ -7892,7 +8007,8 @@
         ],
         "Category": "Aqua Mouse",
         "Abilities": [
-            "Thick Fat\nHuge Power"
+            "Thick Fat",
+            "Huge Power"
         ],
         "type": [
             "Water",
@@ -7937,7 +8053,8 @@
         ],
         "Category": "Aqua Rabbit",
         "Abilities": [
-            "Thick Fat\nHuge Power"
+            "Thick Fat",
+            "Huge Power"
         ],
         "type": [
             "Water",
@@ -7982,7 +8099,8 @@
         ],
         "Category": "Imitation",
         "Abilities": [
-            "Rock Head\nSturdy"
+            "Rock Head",
+            "Sturdy"
         ],
         "type": [
             "Rock"
@@ -8026,7 +8144,8 @@
         ],
         "Category": "Frog",
         "Abilities": [
-            "Damp\nWater Absorb"
+            "Damp",
+            "Water Absorb"
         ],
         "type": [
             "Water"
@@ -8070,7 +8189,8 @@
         ],
         "Category": "Cottonweed",
         "Abilities": [
-            "Chlorophyll\nLeaf Guard"
+            "Chlorophyll",
+            "Leaf Guard"
         ],
         "type": [
             "Grass",
@@ -8117,7 +8237,8 @@
         ],
         "Category": "Cottonweed",
         "Abilities": [
-            "Chlorophyll\nLeaf Guard"
+            "Chlorophyll",
+            "Leaf Guard"
         ],
         "type": [
             "Grass",
@@ -8164,7 +8285,8 @@
         ],
         "Category": "Cottonweed",
         "Abilities": [
-            "Chlorophyll\nLeaf Guard"
+            "Chlorophyll",
+            "Leaf Guard"
         ],
         "type": [
             "Grass",
@@ -8211,7 +8333,8 @@
         ],
         "Category": "Long Tail",
         "Abilities": [
-            "Run Away\nPickup"
+            "Run Away",
+            "Pickup"
         ],
         "type": [
             "Normal"
@@ -8251,7 +8374,8 @@
         ],
         "Category": "Seed",
         "Abilities": [
-            "Chlorophyll\nSolar Power"
+            "Chlorophyll",
+            "Solar Power"
         ],
         "type": [
             "Grass"
@@ -8295,7 +8419,8 @@
         ],
         "Category": "Sun",
         "Abilities": [
-            "Chlorophyll\nSolar Power"
+            "Chlorophyll",
+            "Solar Power"
         ],
         "type": [
             "Grass"
@@ -8339,7 +8464,8 @@
         ],
         "Category": "Clear Wing",
         "Abilities": [
-            "Compound Eyes\nSpeed Boost"
+            "Compound Eyes",
+            "Speed Boost"
         ],
         "type": [
             "Bug",
@@ -8384,7 +8510,8 @@
         ],
         "Category": "Water Fish",
         "Abilities": [
-            "Damp\nWater Absorb"
+            "Damp",
+            "Water Absorb"
         ],
         "type": [
             "Water",
@@ -8425,7 +8552,8 @@
         ],
         "Category": "Water Fish",
         "Abilities": [
-            "Damp\nWater Absorb"
+            "Damp",
+            "Water Absorb"
         ],
         "type": [
             "Water",
@@ -8564,7 +8692,8 @@
         ],
         "Category": "Darkness",
         "Abilities": [
-            "Insomnia\nSuper Luck"
+            "Insomnia",
+            "Super Luck"
         ],
         "type": [
             "Dark",
@@ -8608,7 +8737,8 @@
         ],
         "Category": "Royal",
         "Abilities": [
-            "Oblivious\nOwn Tempo"
+            "Oblivious",
+            "Own Tempo"
         ],
         "type": [
             "Water",
@@ -8774,7 +8904,8 @@
         ],
         "Category": "Long Neck",
         "Abilities": [
-            "Inner Focus\nEarly Bird"
+            "Inner Focus",
+            "Early Bird"
         ],
         "type": [
             "Normal",
@@ -8899,7 +9030,8 @@
         ],
         "Category": "Land Snake",
         "Abilities": [
-            "Run Away\nSerene Grace"
+            "Run Away",
+            "Serene Grace"
         ],
         "type": [
             "Normal"
@@ -8939,7 +9071,8 @@
         ],
         "Category": "Fly Scorpion",
         "Abilities": [
-            "Sand Veil\nHyper Cutter"
+            "Sand Veil",
+            "Hyper Cutter"
         ],
         "type": [
             "Ground",
@@ -8981,7 +9114,8 @@
         ],
         "Category": "Iron Snake",
         "Abilities": [
-            "Rock Head\nSturdy"
+            "Rock Head",
+            "Sturdy"
         ],
         "type": [
             "Steel",
@@ -9025,7 +9159,8 @@
         ],
         "Category": "Fairy",
         "Abilities": [
-            "Run Away\nIntimidate"
+            "Run Away",
+            "Intimidate"
         ],
         "type": [
             "Fairy"
@@ -9066,7 +9201,8 @@
         ],
         "Category": "Fairy",
         "Abilities": [
-            "Intimidate\nQuick Feet"
+            "Intimidate",
+            "Quick Feet"
         ],
         "type": [
             "Fairy"
@@ -9107,7 +9243,8 @@
         ],
         "Category": "Balloon",
         "Abilities": [
-            "Poison Point\nSwift Swim"
+            "Poison Point",
+            "Swift Swim"
         ],
         "type": [
             "Water",
@@ -9150,7 +9287,8 @@
         ],
         "Category": "Pincer",
         "Abilities": [
-            "Swarm\nTechnician"
+            "Swarm",
+            "Technician"
         ],
         "type": [
             "Bug",
@@ -9192,7 +9330,8 @@
         ],
         "Category": "Mold",
         "Abilities": [
-            "Sturdy\nGluttony"
+            "Sturdy",
+            "Gluttony"
         ],
         "type": [
             "Bug",
@@ -9233,7 +9372,8 @@
         ],
         "Category": "Single Horn",
         "Abilities": [
-            "Swarm\nGuts"
+            "Swarm",
+            "Guts"
         ],
         "type": [
             "Bug",
@@ -9275,7 +9415,8 @@
         ],
         "Category": "Sharp Claw",
         "Abilities": [
-            "Keen Eye\nInner Focus"
+            "Keen Eye",
+            "Inner Focus"
         ],
         "type": [
             "Dark",
@@ -9321,7 +9462,8 @@
         ],
         "Category": "Little Bear",
         "Abilities": [
-            "Pickup\nQuick Feet"
+            "Pickup",
+            "Quick Feet"
         ],
         "type": [
             "Normal"
@@ -9363,7 +9505,8 @@
         ],
         "Category": "Hibernator",
         "Abilities": [
-            "Guts\nQuick Feet"
+            "Guts",
+            "Quick Feet"
         ],
         "type": [
             "Normal"
@@ -9405,7 +9548,8 @@
         ],
         "Category": "Lava",
         "Abilities": [
-            "Flame Body\nMagma Armor"
+            "Flame Body",
+            "Magma Armor"
         ],
         "type": [
             "Fire"
@@ -9447,7 +9591,8 @@
         ],
         "Category": "Lava",
         "Abilities": [
-            "Flame Body\nMagma Armor"
+            "Flame Body",
+            "Magma Armor"
         ],
         "type": [
             "Fire",
@@ -9491,7 +9636,8 @@
         ],
         "Category": "Pig",
         "Abilities": [
-            "Oblivious\nSnow Cloak"
+            "Oblivious",
+            "Snow Cloak"
         ],
         "type": [
             "Ice",
@@ -9538,7 +9684,8 @@
         ],
         "Category": "Swine",
         "Abilities": [
-            "Oblivious\nSnow Cloak"
+            "Oblivious",
+            "Snow Cloak"
         ],
         "type": [
             "Ice",
@@ -9585,7 +9732,8 @@
         ],
         "Category": "Coral",
         "Abilities": [
-            "Natural Cure\nHustle"
+            "Natural Cure",
+            "Hustle"
         ],
         "type": [
             "Water",
@@ -9629,7 +9777,8 @@
         ],
         "Category": "Jet",
         "Abilities": [
-            "Sniper\nHustle"
+            "Sniper",
+            "Hustle"
         ],
         "type": [
             "Water"
@@ -9670,7 +9819,8 @@
         ],
         "Category": "Jet",
         "Abilities": [
-            "Sniper\nSuction Cups"
+            "Sniper",
+            "Suction Cups"
         ],
         "type": [
             "Water"
@@ -9711,7 +9861,8 @@
         ],
         "Category": "Delivery",
         "Abilities": [
-            "Vital Spirit\nHustle"
+            "Vital Spirit",
+            "Hustle"
         ],
         "type": [
             "Ice",
@@ -9753,7 +9904,8 @@
         ],
         "Category": "Kite",
         "Abilities": [
-            "Water Absorb\nSwift Swim"
+            "Water Absorb",
+            "Swift Swim"
         ],
         "type": [
             "Water",
@@ -9795,7 +9947,8 @@
         ],
         "Category": "Armor Bird",
         "Abilities": [
-            "Keen Eye\nSturdy"
+            "Keen Eye",
+            "Sturdy"
         ],
         "type": [
             "Steel",
@@ -9835,7 +9988,8 @@
         ],
         "Category": "Dark",
         "Abilities": [
-            "Flash Fire\nEarly Bird"
+            "Flash Fire",
+            "Early Bird"
         ],
         "type": [
             "Dark",
@@ -9879,7 +10033,8 @@
         ],
         "Category": "Dark",
         "Abilities": [
-            "Flash Fire\nEarly Bird"
+            "Flash Fire",
+            "Early Bird"
         ],
         "type": [
             "Dark",
@@ -9923,7 +10078,8 @@
         ],
         "Category": "Dragon",
         "Abilities": [
-            "Swift Swim\nSniper"
+            "Swift Swim",
+            "Sniper"
         ],
         "type": [
             "Water",
@@ -10048,7 +10204,8 @@
         "Gender": "Unknown",
         "Category": "Virtual",
         "Abilities": [
-            "Trace\nDownload"
+            "Trace",
+            "Download"
         ],
         "type": [
             "Normal"
@@ -10090,7 +10247,8 @@
         ],
         "Category": "Big Horn",
         "Abilities": [
-            "Intimidate\nFrisk"
+            "Intimidate",
+            "Frisk"
         ],
         "type": [
             "Normal"
@@ -10130,7 +10288,8 @@
         ],
         "Category": "Painter",
         "Abilities": [
-            "Technician\nOwn Tempo"
+            "Technician",
+            "Own Tempo"
         ],
         "type": [
             "Normal"
@@ -10167,7 +10326,8 @@
         ],
         "Category": "Scuffle",
         "Abilities": [
-            "Guts\nSteadfast"
+            "Guts",
+            "Steadfast"
         ],
         "type": [
             "Fighting"
@@ -10210,7 +10370,8 @@
         ],
         "Category": "Handstand",
         "Abilities": [
-            "Intimidate\nTechnician"
+            "Intimidate",
+            "Technician"
         ],
         "type": [
             "Fighting"
@@ -10253,7 +10414,8 @@
         ],
         "Category": "Kiss",
         "Abilities": [
-            "Oblivious\nForewarn"
+            "Oblivious",
+            "Forewarn"
         ],
         "type": [
             "Ice",
@@ -10384,7 +10546,8 @@
         ],
         "Category": "Milk Cow",
         "Abilities": [
-            "Thick Fat\nScrappy"
+            "Thick Fat",
+            "Scrappy"
         ],
         "type": [
             "Normal"
@@ -10421,7 +10584,8 @@
         ],
         "Category": "Happiness",
         "Abilities": [
-            "Natural Cure\nSerene Grace"
+            "Natural Cure",
+            "Serene Grace"
         ],
         "type": [
             "Normal"
@@ -11239,7 +11403,8 @@
         ],
         "Category": "Bite",
         "Abilities": [
-            "Run Away\nQuick Feet"
+            "Run Away",
+            "Quick Feet"
         ],
         "type": [
             "Dark"
@@ -11281,7 +11446,8 @@
         ],
         "Category": "Bite",
         "Abilities": [
-            "Intimidate\nQuick Feet"
+            "Intimidate",
+            "Quick Feet"
         ],
         "type": [
             "Dark"
@@ -11323,7 +11489,8 @@
         ],
         "Category": "Tiny Raccoon",
         "Abilities": [
-            "Pickup\nGluttony"
+            "Pickup",
+            "Gluttony"
         ],
         "type": [
             "Normal"
@@ -11363,7 +11530,8 @@
         ],
         "Category": "Rushing",
         "Abilities": [
-            "Pickup\nGluttony"
+            "Pickup",
+            "Gluttony"
         ],
         "type": [
             "Normal"
@@ -11638,7 +11806,8 @@
         ],
         "Category": "Water Weed",
         "Abilities": [
-            "Swift Swim\nRain Dish"
+            "Swift Swim",
+            "Rain Dish"
         ],
         "type": [
             "Water",
@@ -11683,7 +11852,8 @@
         ],
         "Category": "Jolly",
         "Abilities": [
-            "Swift Swim\nRain Dish"
+            "Swift Swim",
+            "Rain Dish"
         ],
         "type": [
             "Water",
@@ -11728,7 +11898,8 @@
         ],
         "Category": "Carefree",
         "Abilities": [
-            "Swift Swim\nRain Dish"
+            "Swift Swim",
+            "Rain Dish"
         ],
         "type": [
             "Water",
@@ -11773,7 +11944,8 @@
         ],
         "Category": "Acorn",
         "Abilities": [
-            "Chlorophyll\nEarly Bird"
+            "Chlorophyll",
+            "Early Bird"
         ],
         "type": [
             "Grass"
@@ -11819,7 +11991,8 @@
         ],
         "Category": "Wily",
         "Abilities": [
-            "Chlorophyll\nEarly Bird"
+            "Chlorophyll",
+            "Early Bird"
         ],
         "type": [
             "Grass",
@@ -11868,7 +12041,8 @@
         ],
         "Category": "Wicked",
         "Abilities": [
-            "Chlorophyll\nEarly Bird"
+            "Chlorophyll",
+            "Early Bird"
         ],
         "type": [
             "Grass",
@@ -12003,7 +12177,8 @@
         ],
         "Category": "Seagull",
         "Abilities": [
-            "Keen Eye\nHydration"
+            "Keen Eye",
+            "Hydration"
         ],
         "type": [
             "Water",
@@ -12045,7 +12220,8 @@
         ],
         "Category": "Water Bird",
         "Abilities": [
-            "Keen Eye\nDrizzle"
+            "Keen Eye",
+            "Drizzle"
         ],
         "type": [
             "Water",
@@ -12087,7 +12263,8 @@
         ],
         "Category": "Feeling",
         "Abilities": [
-            "Synchronize\nTrace"
+            "Synchronize",
+            "Trace"
         ],
         "type": [
             "Psychic",
@@ -12133,7 +12310,8 @@
         ],
         "Category": "Emotion",
         "Abilities": [
-            "Synchronize\nTrace"
+            "Synchronize",
+            "Trace"
         ],
         "type": [
             "Psychic",
@@ -12179,7 +12357,8 @@
         ],
         "Category": "Embrace",
         "Abilities": [
-            "Synchronize\nTrace"
+            "Synchronize",
+            "Trace"
         ],
         "type": [
             "Psychic",
@@ -12313,7 +12492,8 @@
         ],
         "Category": "Mushroom",
         "Abilities": [
-            "Effect Spore\nPoison Heal"
+            "Effect Spore",
+            "Poison Heal"
         ],
         "type": [
             "Grass"
@@ -12357,7 +12537,8 @@
         ],
         "Category": "Mushroom",
         "Abilities": [
-            "Effect Spore\nPoison Heal"
+            "Effect Spore",
+            "Poison Heal"
         ],
         "type": [
             "Grass",
@@ -12789,7 +12970,8 @@
         ],
         "Category": "Guts",
         "Abilities": [
-            "Guts\nThick Fat"
+            "Guts",
+            "Thick Fat"
         ],
         "type": [
             "Fighting"
@@ -12831,7 +13013,8 @@
         ],
         "Category": "Arm Thrust",
         "Abilities": [
-            "Guts\nThick Fat"
+            "Guts",
+            "Thick Fat"
         ],
         "type": [
             "Fighting"
@@ -12873,7 +13056,8 @@
         ],
         "Category": "Polka Dot",
         "Abilities": [
-            "Thick Fat\nHuge Power"
+            "Thick Fat",
+            "Huge Power"
         ],
         "type": [
             "Normal",
@@ -12917,7 +13101,8 @@
         ],
         "Category": "Compass",
         "Abilities": [
-            "Sturdy\nMagnet Pull"
+            "Sturdy",
+            "Magnet Pull"
         ],
         "type": [
             "Rock"
@@ -12961,7 +13146,8 @@
         ],
         "Category": "Kitten",
         "Abilities": [
-            "Cute Charm\nNormalize"
+            "Cute Charm",
+            "Normalize"
         ],
         "type": [
             "Normal"
@@ -13001,7 +13187,8 @@
         ],
         "Category": "Prim",
         "Abilities": [
-            "Cute Charm\nNormalize"
+            "Cute Charm",
+            "Normalize"
         ],
         "type": [
             "Normal"
@@ -13041,7 +13228,8 @@
         ],
         "Category": "Darkness",
         "Abilities": [
-            "Keen Eye\nStall"
+            "Keen Eye",
+            "Stall"
         ],
         "type": [
             "Dark",
@@ -13080,7 +13268,8 @@
         ],
         "Category": "Deceiver",
         "Abilities": [
-            "Intimidate\nHyper Cutter"
+            "Intimidate",
+            "Hyper Cutter"
         ],
         "type": [
             "Steel",
@@ -13120,7 +13309,8 @@
         ],
         "Category": "Iron Armor",
         "Abilities": [
-            "Rock Head\nSturdy"
+            "Rock Head",
+            "Sturdy"
         ],
         "type": [
             "Steel",
@@ -13165,7 +13355,8 @@
         ],
         "Category": "Iron Armor",
         "Abilities": [
-            "Rock Head\nSturdy"
+            "Rock Head",
+            "Sturdy"
         ],
         "type": [
             "Steel",
@@ -13210,7 +13401,8 @@
         ],
         "Category": "Iron Armor",
         "Abilities": [
-            "Rock Head\nSturdy"
+            "Rock Head",
+            "Sturdy"
         ],
         "type": [
             "Steel",
@@ -13341,7 +13533,8 @@
         ],
         "Category": "Lightning",
         "Abilities": [
-            "Static\nLightning Rod"
+            "Static",
+            "Lightning Rod"
         ],
         "type": [
             "Electric"
@@ -13381,7 +13574,8 @@
         ],
         "Category": "Discharge",
         "Abilities": [
-            "Static\nLightning Rod"
+            "Static",
+            "Lightning Rod"
         ],
         "type": [
             "Electric"
@@ -13496,7 +13690,8 @@
         ],
         "Category": "Firefly",
         "Abilities": [
-            "Swarm\nIlluminate"
+            "Swarm",
+            "Illuminate"
         ],
         "type": [
             "Bug"
@@ -13535,7 +13730,8 @@
         ],
         "Category": "Firefly",
         "Abilities": [
-            "Tinted Lens\nOblivious"
+            "Tinted Lens",
+            "Oblivious"
         ],
         "type": [
             "Bug"
@@ -13575,7 +13771,8 @@
         ],
         "Category": "Thorn",
         "Abilities": [
-            "Poison Point\nNatural Cure"
+            "Poison Point",
+            "Natural Cure"
         ],
         "type": [
             "Grass",
@@ -13621,7 +13818,8 @@
         ],
         "Category": "Stomach",
         "Abilities": [
-            "Liquid Ooze\nSticky Hold"
+            "Liquid Ooze",
+            "Sticky Hold"
         ],
         "type": [
             "Poison"
@@ -13662,7 +13860,8 @@
         ],
         "Category": "Poison Bag",
         "Abilities": [
-            "Liquid Ooze\nSticky Hold"
+            "Liquid Ooze",
+            "Sticky Hold"
         ],
         "type": [
             "Poison"
@@ -13793,7 +13992,8 @@
         ],
         "Category": "Ball Whale",
         "Abilities": [
-            "Oblivious\nWater Veil"
+            "Oblivious",
+            "Water Veil"
         ],
         "type": [
             "Water"
@@ -13834,7 +14034,8 @@
         ],
         "Category": "Float Whale",
         "Abilities": [
-            "Oblivious\nWater Veil"
+            "Oblivious",
+            "Water Veil"
         ],
         "type": [
             "Water"
@@ -13875,7 +14076,8 @@
         ],
         "Category": "Numb",
         "Abilities": [
-            "Oblivious\nSimple"
+            "Oblivious",
+            "Simple"
         ],
         "type": [
             "Fire",
@@ -13917,7 +14119,8 @@
         ],
         "Category": "Eruption",
         "Abilities": [
-            "Magma Armor\nSolid Rock"
+            "Magma Armor",
+            "Solid Rock"
         ],
         "type": [
             "Fire",
@@ -13959,7 +14162,8 @@
         ],
         "Category": "Coal",
         "Abilities": [
-            "White Smoke\nDrought"
+            "White Smoke",
+            "Drought"
         ],
         "type": [
             "Fire"
@@ -13999,7 +14203,8 @@
         ],
         "Category": "Bounce",
         "Abilities": [
-            "Own Tempo\nThick Fat"
+            "Own Tempo",
+            "Thick Fat"
         ],
         "type": [
             "Psychic"
@@ -14041,7 +14246,8 @@
         ],
         "Category": "Manipulate",
         "Abilities": [
-            "Own Tempo\nThick Fat"
+            "Own Tempo",
+            "Thick Fat"
         ],
         "type": [
             "Psychic"
@@ -14083,7 +14289,8 @@
         ],
         "Category": "Spot Panda",
         "Abilities": [
-            "Tangled Feet\nOwn Tempo"
+            "Tangled Feet",
+            "Own Tempo"
         ],
         "type": [
             "Normal"
@@ -14121,7 +14328,8 @@
         ],
         "Category": "Ant Pit",
         "Abilities": [
-            "Arena Trap\nHyper Cutter"
+            "Arena Trap",
+            "Hyper Cutter"
         ],
         "type": [
             "Ground"
@@ -14594,7 +14802,8 @@
         ],
         "Category": "Whiskers",
         "Abilities": [
-            "Oblivious\nAnticipation"
+            "Oblivious",
+            "Anticipation"
         ],
         "type": [
             "Water",
@@ -14635,7 +14844,8 @@
         ],
         "Category": "Whiskers",
         "Abilities": [
-            "Oblivious\nAnticipation"
+            "Oblivious",
+            "Anticipation"
         ],
         "type": [
             "Water",
@@ -14676,7 +14886,8 @@
         ],
         "Category": "Ruffian",
         "Abilities": [
-            "Shell Armor\nHyper Cutter"
+            "Shell Armor",
+            "Hyper Cutter"
         ],
         "type": [
             "Water"
@@ -14717,7 +14928,8 @@
         ],
         "Category": "Rogue",
         "Abilities": [
-            "Shell Armor\nHyper Cutter"
+            "Shell Armor",
+            "Hyper Cutter"
         ],
         "type": [
             "Water",
@@ -15022,7 +15234,8 @@
         ],
         "Category": "Fish",
         "Abilities": [
-            "Oblivious\nSwift Swim"
+            "Oblivious",
+            "Swift Swim"
         ],
         "type": [
             "Water"
@@ -15063,7 +15276,8 @@
         ],
         "Category": "Tender",
         "Abilities": [
-            "Marvel Scale\nCompetitive"
+            "Marvel Scale",
+            "Competitive"
         ],
         "type": [
             "Water"
@@ -15180,7 +15394,8 @@
         ],
         "Category": "Puppet",
         "Abilities": [
-            "Insomnia\nFrisk"
+            "Insomnia",
+            "Frisk"
         ],
         "type": [
             "Ghost"
@@ -15221,7 +15436,8 @@
         ],
         "Category": "Marionette",
         "Abilities": [
-            "Insomnia\nFrisk"
+            "Insomnia",
+            "Frisk"
         ],
         "type": [
             "Ghost"
@@ -15348,7 +15564,8 @@
         ],
         "Category": "Fruit",
         "Abilities": [
-            "Chlorophyll\nSolar Power"
+            "Chlorophyll",
+            "Solar Power"
         ],
         "type": [
             "Grass",
@@ -15433,7 +15650,8 @@
         ],
         "Category": "Disaster",
         "Abilities": [
-            "Pressure\nSuper Luck"
+            "Pressure",
+            "Super Luck"
         ],
         "type": [
             "Dark"
@@ -15515,7 +15733,8 @@
         ],
         "Category": "Snow Hat",
         "Abilities": [
-            "Inner Focus\nIce Body"
+            "Inner Focus",
+            "Ice Body"
         ],
         "type": [
             "Ice"
@@ -15559,7 +15778,8 @@
         ],
         "Category": "Face",
         "Abilities": [
-            "Inner Focus\nIce Body"
+            "Inner Focus",
+            "Ice Body"
         ],
         "type": [
             "Ice"
@@ -15603,7 +15823,8 @@
         ],
         "Category": "Clap",
         "Abilities": [
-            "Thick Fat\nIce Body"
+            "Thick Fat",
+            "Ice Body"
         ],
         "type": [
             "Ice",
@@ -15649,7 +15870,8 @@
         ],
         "Category": "Ball Roll",
         "Abilities": [
-            "Thick Fat\nIce Body"
+            "Thick Fat",
+            "Ice Body"
         ],
         "type": [
             "Ice",
@@ -15695,7 +15917,8 @@
         ],
         "Category": "Ice Break",
         "Abilities": [
-            "Thick Fat\nIce Body"
+            "Thick Fat",
+            "Ice Body"
         ],
         "type": [
             "Ice",
@@ -15867,7 +16090,8 @@
         ],
         "Category": "Longevity",
         "Abilities": [
-            "Rock Head\nSwift Swim"
+            "Rock Head",
+            "Swift Swim"
         ],
         "type": [
             "Water",
@@ -17139,7 +17363,8 @@
         ],
         "Category": "Plump Mouse",
         "Abilities": [
-            "Simple\nUnaware"
+            "Simple",
+            "Unaware"
         ],
         "type": [
             "Normal"
@@ -17179,7 +17404,8 @@
         ],
         "Category": "Beaver",
         "Abilities": [
-            "Simple\nUnaware"
+            "Simple",
+            "Unaware"
         ],
         "type": [
             "Normal",
@@ -17306,7 +17532,8 @@
         ],
         "Category": "Flash",
         "Abilities": [
-            "Intimidate\nRivalry"
+            "Intimidate",
+            "Rivalry"
         ],
         "type": [
             "Electric"
@@ -17348,7 +17575,8 @@
         ],
         "Category": "Spark",
         "Abilities": [
-            "Intimidate\nRivalry"
+            "Intimidate",
+            "Rivalry"
         ],
         "type": [
             "Electric"
@@ -17390,7 +17618,8 @@
         ],
         "Category": "Gleam Eyes",
         "Abilities": [
-            "Intimidate\nRivalry"
+            "Intimidate",
+            "Rivalry"
         ],
         "type": [
             "Electric"
@@ -17432,7 +17661,8 @@
         ],
         "Category": "Bud",
         "Abilities": [
-            "Poison Point\nNatural Cure"
+            "Poison Point",
+            "Natural Cure"
         ],
         "type": [
             "Grass",
@@ -17478,7 +17708,8 @@
         ],
         "Category": "Bouquet",
         "Abilities": [
-            "Poison Point\nNatural Cure"
+            "Poison Point",
+            "Natural Cure"
         ],
         "type": [
             "Grass",
@@ -17921,7 +18152,8 @@
         ],
         "Category": "EleSquirrel",
         "Abilities": [
-            "Run Away\nPickup"
+            "Run Away",
+            "Pickup"
         ],
         "type": [
             "Electric"
@@ -18129,7 +18361,8 @@
         ],
         "Category": "Sea Slug",
         "Abilities": [
-            "Sticky Hold\nStorm Drain"
+            "Sticky Hold",
+            "Storm Drain"
         ],
         "type": [
             "Water"
@@ -18170,7 +18403,8 @@
         ],
         "Category": "Sea Slug",
         "Abilities": [
-            "Sticky Hold\nStorm Drain"
+            "Sticky Hold",
+            "Storm Drain"
         ],
         "type": [
             "Water",
@@ -18211,7 +18445,8 @@
         ],
         "Category": "Long Tail",
         "Abilities": [
-            "Pickup\nTechnician"
+            "Pickup",
+            "Technician"
         ],
         "type": [
             "Normal"
@@ -18251,7 +18486,8 @@
         ],
         "Category": "Balloon",
         "Abilities": [
-            "Aftermath\nUnburden"
+            "Aftermath",
+            "Unburden"
         ],
         "type": [
             "Ghost",
@@ -18296,7 +18532,8 @@
         ],
         "Category": "Blimp",
         "Abilities": [
-            "Aftermath\nUnburden"
+            "Aftermath",
+            "Unburden"
         ],
         "type": [
             "Ghost",
@@ -18341,7 +18578,8 @@
         ],
         "Category": "Rabbit",
         "Abilities": [
-            "Run Away\nKlutz"
+            "Run Away",
+            "Klutz"
         ],
         "type": [
             "Normal"
@@ -18381,7 +18619,8 @@
         ],
         "Category": "Rabbit",
         "Abilities": [
-            "Cute Charm\nKlutz"
+            "Cute Charm",
+            "Klutz"
         ],
         "type": [
             "Normal"
@@ -18462,7 +18701,8 @@
         ],
         "Category": "Big Boss",
         "Abilities": [
-            "Insomnia\nSuper Luck"
+            "Insomnia",
+            "Super Luck"
         ],
         "type": [
             "Dark",
@@ -18506,7 +18746,8 @@
         ],
         "Category": "Catty",
         "Abilities": [
-            "Limber\nOwn Tempo"
+            "Limber",
+            "Own Tempo"
         ],
         "type": [
             "Normal"
@@ -18546,7 +18787,8 @@
         ],
         "Category": "Tiger Cat",
         "Abilities": [
-            "Own Tempo\nThick Fat"
+            "Own Tempo",
+            "Thick Fat"
         ],
         "type": [
             "Normal"
@@ -18628,7 +18870,8 @@
         ],
         "Category": "Skunk",
         "Abilities": [
-            "Stench\nAftermath"
+            "Stench",
+            "Aftermath"
         ],
         "type": [
             "Poison",
@@ -18669,7 +18912,8 @@
         ],
         "Category": "Skunk",
         "Abilities": [
-            "Stench\nAftermath"
+            "Stench",
+            "Aftermath"
         ],
         "type": [
             "Poison",
@@ -18707,7 +18951,8 @@
         "Gender": "Unknown",
         "Category": "Bronze",
         "Abilities": [
-            "Levitate\nHeatproof"
+            "Levitate",
+            "Heatproof"
         ],
         "type": [
             "Steel",
@@ -18748,7 +18993,8 @@
         "Gender": "Unknown",
         "Category": "Bronze Bell",
         "Abilities": [
-            "Levitate\nHeatproof"
+            "Levitate",
+            "Heatproof"
         ],
         "type": [
             "Steel",
@@ -18792,7 +19038,8 @@
         ],
         "Category": "Bonsai",
         "Abilities": [
-            "Rock Head\nSturdy"
+            "Rock Head",
+            "Sturdy"
         ],
         "type": [
             "Rock"
@@ -18836,7 +19083,8 @@
         ],
         "Category": "Mime",
         "Abilities": [
-            "Soundproof\nFilter"
+            "Soundproof",
+            "Filter"
         ],
         "type": [
             "Psychic",
@@ -18878,7 +19126,8 @@
         ],
         "Category": "Playhouse",
         "Abilities": [
-            "Natural Cure\nSerene Grace"
+            "Natural Cure",
+            "Serene Grace"
         ],
         "type": [
             "Normal"
@@ -18920,7 +19169,8 @@
         ],
         "Category": "Music Note",
         "Abilities": [
-            "Keen Eye\nTangled Feet"
+            "Keen Eye",
+            "Tangled Feet"
         ],
         "type": [
             "Normal",
@@ -19135,7 +19385,8 @@
         ],
         "Category": "Big Eater",
         "Abilities": [
-            "Pickup\nThick Fat"
+            "Pickup",
+            "Thick Fat"
         ],
         "type": [
             "Normal"
@@ -19175,7 +19426,8 @@
         ],
         "Category": "Emanation",
         "Abilities": [
-            "Inner Focus\nSteadfast"
+            "Inner Focus",
+            "Steadfast"
         ],
         "type": [
             "Fighting"
@@ -19217,7 +19469,8 @@
         ],
         "Category": "Aura",
         "Abilities": [
-            "Inner Focus\nSteadfast"
+            "Inner Focus",
+            "Steadfast"
         ],
         "type": [
             "Fighting",
@@ -19344,7 +19597,8 @@
         ],
         "Category": "Scorpion",
         "Abilities": [
-            "Sniper\nBattle Armor"
+            "Sniper",
+            "Battle Armor"
         ],
         "type": [
             "Poison",
@@ -19388,7 +19642,8 @@
         ],
         "Category": "Ogre Scorpion",
         "Abilities": [
-            "Sniper\nBattle Armor"
+            "Sniper",
+            "Battle Armor"
         ],
         "type": [
             "Poison",
@@ -19429,7 +19684,8 @@
         ],
         "Category": "Toxic Mouth",
         "Abilities": [
-            "Dry Skin\nAnticipation"
+            "Dry Skin",
+            "Anticipation"
         ],
         "type": [
             "Poison",
@@ -19472,7 +19728,8 @@
         ],
         "Category": "Toxic Mouth",
         "Abilities": [
-            "Dry Skin\nAnticipation"
+            "Dry Skin",
+            "Anticipation"
         ],
         "type": [
             "Poison",
@@ -19557,7 +19814,8 @@
         ],
         "Category": "Wing Fish",
         "Abilities": [
-            "Swift Swim\nStorm Drain"
+            "Swift Swim",
+            "Storm Drain"
         ],
         "type": [
             "Water"
@@ -19598,7 +19856,8 @@
         ],
         "Category": "Neon",
         "Abilities": [
-            "Swift Swim\nStorm Drain"
+            "Swift Swim",
+            "Storm Drain"
         ],
         "type": [
             "Water"
@@ -19639,7 +19898,8 @@
         ],
         "Category": "Kite",
         "Abilities": [
-            "Water Absorb\nSwift Swim"
+            "Water Absorb",
+            "Swift Swim"
         ],
         "type": [
             "Water",
@@ -19818,7 +20078,8 @@
         "Gender": "Unknown",
         "Category": "Magnet Area",
         "Abilities": [
-            "Sturdy\nMagnet Pull"
+            "Sturdy",
+            "Magnet Pull"
         ],
         "type": [
             "Electric",
@@ -19863,7 +20124,8 @@
         ],
         "Category": "Licking",
         "Abilities": [
-            "Oblivious\nOwn Tempo"
+            "Oblivious",
+            "Own Tempo"
         ],
         "type": [
             "Normal"
@@ -19903,7 +20165,8 @@
         ],
         "Category": "Drill",
         "Abilities": [
-            "Lightning Rod\nSolid Rock"
+            "Lightning Rod",
+            "Solid Rock"
         ],
         "type": [
             "Ground",
@@ -19951,7 +20214,8 @@
         ],
         "Category": "Vine",
         "Abilities": [
-            "Chlorophyll\nLeaf Guard"
+            "Chlorophyll",
+            "Leaf Guard"
         ],
         "type": [
             "Grass"
@@ -20081,7 +20345,8 @@
         ],
         "Category": "Jubilee",
         "Abilities": [
-            "Serene Grace\nHustle"
+            "Serene Grace",
+            "Hustle"
         ],
         "type": [
             "Fairy",
@@ -20128,7 +20393,8 @@
         ],
         "Category": "Ogre Darner",
         "Abilities": [
-            "Tinted Lens\nSpeed Boost"
+            "Tinted Lens",
+            "Speed Boost"
         ],
         "type": [
             "Bug",
@@ -20274,7 +20540,8 @@
         ],
         "Category": "Fang Scorpion",
         "Abilities": [
-            "Sand Veil\nHyper Cutter"
+            "Sand Veil",
+            "Hyper Cutter"
         ],
         "type": [
             "Ground",
@@ -20316,7 +20583,8 @@
         ],
         "Category": "Twin Tusk",
         "Abilities": [
-            "Oblivious\nSnow Cloak"
+            "Oblivious",
+            "Snow Cloak"
         ],
         "type": [
             "Ice",
@@ -20360,7 +20628,8 @@
         "Gender": "Unknown",
         "Category": "Virtual",
         "Abilities": [
-            "Adaptability\nDownload"
+            "Adaptability",
+            "Download"
         ],
         "type": [
             "Normal"
@@ -20401,7 +20670,8 @@
         ],
         "Category": "Blade",
         "Abilities": [
-            "Steadfast\nSharpness"
+            "Steadfast",
+            "Sharpness"
         ],
         "type": [
             "Psychic",
@@ -20447,7 +20717,8 @@
         ],
         "Category": "Compass",
         "Abilities": [
-            "Sturdy\nMagnet Pull"
+            "Sturdy",
+            "Magnet Pull"
         ],
         "type": [
             "Rock",
@@ -21582,7 +21853,8 @@
         ],
         "Category": "Scout",
         "Abilities": [
-            "Keen Eye\nRun Away"
+            "Keen Eye",
+            "Run Away"
         ],
         "type": [
             "Normal"
@@ -21622,7 +21894,8 @@
         ],
         "Category": "Lookout",
         "Abilities": [
-            "Keen Eye\nIlluminate"
+            "Keen Eye",
+            "Illuminate"
         ],
         "type": [
             "Normal"
@@ -21662,7 +21935,8 @@
         ],
         "Category": "Puppy",
         "Abilities": [
-            "Pickup\nVital Spirit"
+            "Pickup",
+            "Vital Spirit"
         ],
         "type": [
             "Normal"
@@ -21704,7 +21978,8 @@
         ],
         "Category": "Loyal Dog",
         "Abilities": [
-            "Intimidate\nSand Rush"
+            "Intimidate",
+            "Sand Rush"
         ],
         "type": [
             "Normal"
@@ -21746,7 +22021,8 @@
         ],
         "Category": "Big-Hearted",
         "Abilities": [
-            "Intimidate\nSand Rush"
+            "Intimidate",
+            "Sand Rush"
         ],
         "type": [
             "Normal"
@@ -21788,7 +22064,8 @@
         ],
         "Category": "Devious",
         "Abilities": [
-            "Limber\nUnburden"
+            "Limber",
+            "Unburden"
         ],
         "type": [
             "Dark"
@@ -21830,7 +22107,8 @@
         ],
         "Category": "Cruel",
         "Abilities": [
-            "Limber\nUnburden"
+            "Limber",
+            "Unburden"
         ],
         "type": [
             "Dark"
@@ -22126,7 +22404,8 @@
         ],
         "Category": "Dream Eater",
         "Abilities": [
-            "Synchronize\nForewarn"
+            "Synchronize",
+            "Forewarn"
         ],
         "type": [
             "Psychic"
@@ -22168,7 +22447,8 @@
         ],
         "Category": "Drowsing",
         "Abilities": [
-            "Synchronize\nForewarn"
+            "Synchronize",
+            "Forewarn"
         ],
         "type": [
             "Psychic"
@@ -22210,7 +22490,8 @@
         ],
         "Category": "Tiny Pigeon",
         "Abilities": [
-            "Super Luck\nBig Pecks"
+            "Super Luck",
+            "Big Pecks"
         ],
         "type": [
             "Normal",
@@ -22255,7 +22536,8 @@
         ],
         "Category": "Wild Pigeon",
         "Abilities": [
-            "Super Luck\nBig Pecks"
+            "Super Luck",
+            "Big Pecks"
         ],
         "type": [
             "Normal",
@@ -22299,7 +22581,8 @@
         ],
         "Category": "Proud",
         "Abilities": [
-            "Super Luck\nBig Pecks"
+            "Super Luck",
+            "Big Pecks"
         ],
         "type": [
             "Normal",
@@ -22344,7 +22627,8 @@
         ],
         "Category": "Electrified",
         "Abilities": [
-            "Lightning Rod\nMotor Drive"
+            "Lightning Rod",
+            "Motor Drive"
         ],
         "type": [
             "Electric"
@@ -22384,7 +22668,8 @@
         ],
         "Category": "Thunderbolt",
         "Abilities": [
-            "Lightning Rod\nMotor Drive"
+            "Lightning Rod",
+            "Motor Drive"
         ],
         "type": [
             "Electric"
@@ -22424,7 +22709,8 @@
         ],
         "Category": "Mantle",
         "Abilities": [
-            "Sturdy\nWeak Armor"
+            "Sturdy",
+            "Weak Armor"
         ],
         "type": [
             "Rock"
@@ -22470,7 +22756,8 @@
         ],
         "Category": "Ore",
         "Abilities": [
-            "Sturdy\nWeak Armor"
+            "Sturdy",
+            "Weak Armor"
         ],
         "type": [
             "Rock"
@@ -22516,7 +22803,8 @@
         ],
         "Category": "Compressed",
         "Abilities": [
-            "Sturdy\nSand Stream"
+            "Sturdy",
+            "Sand Stream"
         ],
         "type": [
             "Rock"
@@ -22562,7 +22850,8 @@
         ],
         "Category": "Bat",
         "Abilities": [
-            "Unaware\nKlutz"
+            "Unaware",
+            "Klutz"
         ],
         "type": [
             "Psychic",
@@ -22607,7 +22896,8 @@
         ],
         "Category": "Courting",
         "Abilities": [
-            "Unaware\nKlutz"
+            "Unaware",
+            "Klutz"
         ],
         "type": [
             "Psychic",
@@ -22652,7 +22942,8 @@
         ],
         "Category": "Mole",
         "Abilities": [
-            "Sand Rush\nSand Force"
+            "Sand Rush",
+            "Sand Force"
         ],
         "type": [
             "Ground"
@@ -22694,7 +22985,8 @@
         ],
         "Category": "Subterrene",
         "Abilities": [
-            "Sand Rush\nSand Force"
+            "Sand Rush",
+            "Sand Force"
         ],
         "type": [
             "Ground",
@@ -22738,7 +23030,8 @@
         ],
         "Category": "Hearing",
         "Abilities": [
-            "Healer\nRegenerator"
+            "Healer",
+            "Regenerator"
         ],
         "type": [
             "Normal"
@@ -22776,7 +23069,8 @@
         ],
         "Category": "Muscular",
         "Abilities": [
-            "Guts\nSheer Force"
+            "Guts",
+            "Sheer Force"
         ],
         "type": [
             "Fighting"
@@ -22820,7 +23114,8 @@
         ],
         "Category": "Muscular",
         "Abilities": [
-            "Guts\nSheer Force"
+            "Guts",
+            "Sheer Force"
         ],
         "type": [
             "Fighting"
@@ -22864,7 +23159,8 @@
         ],
         "Category": "Muscular",
         "Abilities": [
-            "Guts\nSheer Force"
+            "Guts",
+            "Sheer Force"
         ],
         "type": [
             "Fighting"
@@ -22908,7 +23204,8 @@
         ],
         "Category": "Tadpole",
         "Abilities": [
-            "Hydration\nSwift Swim"
+            "Hydration",
+            "Swift Swim"
         ],
         "type": [
             "Water"
@@ -22951,7 +23248,8 @@
         ],
         "Category": "Vibration",
         "Abilities": [
-            "Hydration\nSwift Swim"
+            "Hydration",
+            "Swift Swim"
         ],
         "type": [
             "Water",
@@ -22994,7 +23292,8 @@
         ],
         "Category": "Vibration",
         "Abilities": [
-            "Swift Swim\nPoison Touch"
+            "Swift Swim",
+            "Poison Touch"
         ],
         "type": [
             "Water",
@@ -23036,7 +23335,8 @@
         ],
         "Category": "Judo",
         "Abilities": [
-            "Guts\nInner Focus"
+            "Guts",
+            "Inner Focus"
         ],
         "type": [
             "Fighting"
@@ -23075,7 +23375,8 @@
         ],
         "Category": "Karate",
         "Abilities": [
-            "Inner Focus\nSturdy"
+            "Inner Focus",
+            "Sturdy"
         ],
         "type": [
             "Fighting"
@@ -23115,7 +23416,8 @@
         ],
         "Category": "Sewing",
         "Abilities": [
-            "Swarm\nChlorophyll"
+            "Swarm",
+            "Chlorophyll"
         ],
         "type": [
             "Bug",
@@ -23163,7 +23465,8 @@
         ],
         "Category": "Leaf-Wrapped",
         "Abilities": [
-            "Chlorophyll\nLeaf Guard"
+            "Chlorophyll",
+            "Leaf Guard"
         ],
         "type": [
             "Bug",
@@ -23211,7 +23514,8 @@
         ],
         "Category": "Nurturing",
         "Abilities": [
-            "Swarm\nChlorophyll"
+            "Swarm",
+            "Chlorophyll"
         ],
         "type": [
             "Bug",
@@ -23259,7 +23563,8 @@
         ],
         "Category": "Centipede",
         "Abilities": [
-            "Swarm\nPoison Point"
+            "Swarm",
+            "Poison Point"
         ],
         "type": [
             "Bug",
@@ -23305,7 +23610,8 @@
         ],
         "Category": "Curlipede",
         "Abilities": [
-            "Swarm\nPoison Point"
+            "Swarm",
+            "Poison Point"
         ],
         "type": [
             "Bug",
@@ -23351,7 +23657,8 @@
         ],
         "Category": "Megapede",
         "Abilities": [
-            "Swarm\nPoison Point"
+            "Swarm",
+            "Poison Point"
         ],
         "type": [
             "Bug",
@@ -23397,7 +23704,8 @@
         ],
         "Category": "Cotton Puff",
         "Abilities": [
-            "Prankster\nInfiltrator"
+            "Prankster",
+            "Infiltrator"
         ],
         "type": [
             "Grass",
@@ -23442,7 +23750,8 @@
         ],
         "Category": "Windveiled",
         "Abilities": [
-            "Prankster\nInfiltrator"
+            "Prankster",
+            "Infiltrator"
         ],
         "type": [
             "Grass",
@@ -23486,7 +23795,8 @@
         ],
         "Category": "Bulb",
         "Abilities": [
-            "Chlorophyll\nOwn Tempo"
+            "Chlorophyll",
+            "Own Tempo"
         ],
         "type": [
             "Grass"
@@ -23529,7 +23839,8 @@
         ],
         "Category": "Flowering",
         "Abilities": [
-            "Chlorophyll\nOwn Tempo"
+            "Chlorophyll",
+            "Own Tempo"
         ],
         "type": [
             "Grass"
@@ -23573,7 +23884,8 @@
         ],
         "Category": "Hostile",
         "Abilities": [
-            "Reckless\nAdaptability"
+            "Reckless",
+            "Adaptability"
         ],
         "type": [
             "Water"
@@ -23614,7 +23926,8 @@
         ],
         "Category": "Desert Croc",
         "Abilities": [
-            "Intimidate\nMoxie"
+            "Intimidate",
+            "Moxie"
         ],
         "type": [
             "Ground",
@@ -23662,7 +23975,8 @@
         ],
         "Category": "Desert Croc",
         "Abilities": [
-            "Intimidate\nMoxie"
+            "Intimidate",
+            "Moxie"
         ],
         "type": [
             "Ground",
@@ -23710,7 +24024,8 @@
         ],
         "Category": "Intimidation",
         "Abilities": [
-            "Intimidate\nMoxie"
+            "Intimidate",
+            "Moxie"
         ],
         "type": [
             "Ground",
@@ -23842,7 +24157,8 @@
         ],
         "Category": "Cactus",
         "Abilities": [
-            "Chlorophyll\nWater Absorb"
+            "Chlorophyll",
+            "Water Absorb"
         ],
         "type": [
             "Grass"
@@ -23884,7 +24200,8 @@
         ],
         "Category": "Rock Inn",
         "Abilities": [
-            "Sturdy\nShell Armor"
+            "Sturdy",
+            "Shell Armor"
         ],
         "type": [
             "Bug",
@@ -23927,7 +24244,8 @@
         ],
         "Category": "Stone Home",
         "Abilities": [
-            "Sturdy\nShell Armor"
+            "Sturdy",
+            "Shell Armor"
         ],
         "type": [
             "Bug",
@@ -23970,7 +24288,8 @@
         ],
         "Category": "Shedding",
         "Abilities": [
-            "Shed Skin\nMoxie"
+            "Shed Skin",
+            "Moxie"
         ],
         "type": [
             "Dark",
@@ -24013,7 +24332,8 @@
         ],
         "Category": "Hoodlum",
         "Abilities": [
-            "Shed Skin\nMoxie"
+            "Shed Skin",
+            "Moxie"
         ],
         "type": [
             "Dark",
@@ -24056,7 +24376,8 @@
         ],
         "Category": "Avianoid",
         "Abilities": [
-            "Magic Guard\nWonder Skin"
+            "Magic Guard",
+            "Wonder Skin"
         ],
         "type": [
             "Psychic",
@@ -24181,7 +24502,8 @@
         ],
         "Category": "Prototurtle",
         "Abilities": [
-            "Sturdy\nSolid Rock"
+            "Sturdy",
+            "Solid Rock"
         ],
         "type": [
             "Water",
@@ -24225,7 +24547,8 @@
         ],
         "Category": "Prototurtle",
         "Abilities": [
-            "Sturdy\nSolid Rock"
+            "Sturdy",
+            "Solid Rock"
         ],
         "type": [
             "Water",
@@ -24359,7 +24682,8 @@
         ],
         "Category": "Trash Bag",
         "Abilities": [
-            "Stench\nSticky Hold"
+            "Stench",
+            "Sticky Hold"
         ],
         "type": [
             "Poison"
@@ -24400,7 +24724,8 @@
         ],
         "Category": "Trash Heap",
         "Abilities": [
-            "Stench\nWeak Armor"
+            "Stench",
+            "Weak Armor"
         ],
         "type": [
             "Poison"
@@ -24525,7 +24850,8 @@
         ],
         "Category": "Chinchilla",
         "Abilities": [
-            "Cute Charm\nTechnician"
+            "Cute Charm",
+            "Technician"
         ],
         "type": [
             "Normal"
@@ -24565,7 +24891,8 @@
         ],
         "Category": "Scarf",
         "Abilities": [
-            "Cute Charm\nTechnician"
+            "Cute Charm",
+            "Technician"
         ],
         "type": [
             "Normal"
@@ -24605,7 +24932,8 @@
         ],
         "Category": "Fixation",
         "Abilities": [
-            "Frisk\nCompetitive"
+            "Frisk",
+            "Competitive"
         ],
         "type": [
             "Psychic"
@@ -24649,7 +24977,8 @@
         ],
         "Category": "Manipulate",
         "Abilities": [
-            "Frisk\nCompetitive"
+            "Frisk",
+            "Competitive"
         ],
         "type": [
             "Psychic"
@@ -24693,7 +25022,8 @@
         ],
         "Category": "Astral Body",
         "Abilities": [
-            "Frisk\nCompetitive"
+            "Frisk",
+            "Competitive"
         ],
         "type": [
             "Psychic"
@@ -24737,7 +25067,8 @@
         ],
         "Category": "Cell",
         "Abilities": [
-            "Magic Guard\nOvercoat"
+            "Magic Guard",
+            "Overcoat"
         ],
         "type": [
             "Psychic"
@@ -24781,7 +25112,8 @@
         ],
         "Category": "Mitosis",
         "Abilities": [
-            "Magic Guard\nOvercoat"
+            "Magic Guard",
+            "Overcoat"
         ],
         "type": [
             "Psychic"
@@ -24825,7 +25157,8 @@
         ],
         "Category": "Multiplying",
         "Abilities": [
-            "Magic Guard\nOvercoat"
+            "Magic Guard",
+            "Overcoat"
         ],
         "type": [
             "Psychic"
@@ -24869,7 +25202,8 @@
         ],
         "Category": "Water Bird",
         "Abilities": [
-            "Keen Eye\nBig Pecks"
+            "Keen Eye",
+            "Big Pecks"
         ],
         "type": [
             "Water",
@@ -24911,7 +25245,8 @@
         ],
         "Category": "White Bird",
         "Abilities": [
-            "Keen Eye\nBig Pecks"
+            "Keen Eye",
+            "Big Pecks"
         ],
         "type": [
             "Water",
@@ -24953,7 +25288,8 @@
         ],
         "Category": "Fresh Snow",
         "Abilities": [
-            "Snow Cloak\nIce Body"
+            "Snow Cloak",
+            "Ice Body"
         ],
         "type": [
             "Ice"
@@ -24998,7 +25334,8 @@
         ],
         "Category": "Icy Snow",
         "Abilities": [
-            "Snow Cloak\nIce Body"
+            "Snow Cloak",
+            "Ice Body"
         ],
         "type": [
             "Ice"
@@ -25043,7 +25380,8 @@
         ],
         "Category": "Snowstorm",
         "Abilities": [
-            "Ice Body\nSnow Warning"
+            "Ice Body",
+            "Snow Warning"
         ],
         "type": [
             "Ice"
@@ -25088,7 +25426,8 @@
         ],
         "Category": "Season",
         "Abilities": [
-            "Chlorophyll\nSap Sipper"
+            "Chlorophyll",
+            "Sap Sipper"
         ],
         "type": [
             "Normal",
@@ -25134,7 +25473,8 @@
         ],
         "Category": "Season",
         "Abilities": [
-            "Chlorophyll\nSap Sipper"
+            "Chlorophyll",
+            "Sap Sipper"
         ],
         "type": [
             "Normal",
@@ -25220,7 +25560,8 @@
         ],
         "Category": "Clamping",
         "Abilities": [
-            "Shed Skin\nSwarm"
+            "Shed Skin",
+            "Swarm"
         ],
         "type": [
             "Bug"
@@ -25262,7 +25603,8 @@
         ],
         "Category": "Cavalry",
         "Abilities": [
-            "Swarm\nShell Armor"
+            "Swarm",
+            "Shell Armor"
         ],
         "type": [
             "Bug",
@@ -25390,7 +25732,8 @@
         ],
         "Category": "Floating",
         "Abilities": [
-            "Water Absorb\nCursed Body"
+            "Water Absorb",
+            "Cursed Body"
         ],
         "type": [
             "Water",
@@ -25433,7 +25776,8 @@
         ],
         "Category": "Floating",
         "Abilities": [
-            "Water Absorb\nCursed Body"
+            "Water Absorb",
+            "Cursed Body"
         ],
         "type": [
             "Water",
@@ -25477,7 +25821,8 @@
         ],
         "Category": "Caring",
         "Abilities": [
-            "Hydration\nHealer"
+            "Hydration",
+            "Healer"
         ],
         "type": [
             "Water"
@@ -25516,7 +25861,8 @@
         ],
         "Category": "Attaching",
         "Abilities": [
-            "Compound Eyes\nUnnerve"
+            "Compound Eyes",
+            "Unnerve"
         ],
         "type": [
             "Bug",
@@ -25558,7 +25904,8 @@
         ],
         "Category": "EleSpider",
         "Abilities": [
-            "Compound Eyes\nUnnerve"
+            "Compound Eyes",
+            "Unnerve"
         ],
         "type": [
             "Bug",
@@ -25681,7 +26028,8 @@
         "Gender": "Unknown",
         "Category": "Gear",
         "Abilities": [
-            "Plus\nMinus"
+            "Plus",
+            "Minus"
         ],
         "type": [
             "Steel"
@@ -25722,7 +26070,8 @@
         "Gender": "Unknown",
         "Category": "Gear",
         "Abilities": [
-            "Plus\nMinus"
+            "Plus",
+            "Minus"
         ],
         "type": [
             "Steel"
@@ -25763,7 +26112,8 @@
         "Gender": "Unknown",
         "Category": "Gear",
         "Abilities": [
-            "Plus\nMinus"
+            "Plus",
+            "Minus"
         ],
         "type": [
             "Steel"
@@ -25933,7 +26283,8 @@
         ],
         "Category": "Cerebral",
         "Abilities": [
-            "Synchronize\nTelepathy"
+            "Synchronize",
+            "Telepathy"
         ],
         "type": [
             "Psychic"
@@ -25975,7 +26326,8 @@
         ],
         "Category": "Cerebral",
         "Abilities": [
-            "Synchronize\nTelepathy"
+            "Synchronize",
+            "Telepathy"
         ],
         "type": [
             "Psychic"
@@ -26017,7 +26369,8 @@
         ],
         "Category": "Candle",
         "Abilities": [
-            "Flash Fire\nFlame Body"
+            "Flash Fire",
+            "Flame Body"
         ],
         "type": [
             "Ghost",
@@ -26064,7 +26417,8 @@
         ],
         "Category": "Lamp",
         "Abilities": [
-            "Flash Fire\nFlame Body"
+            "Flash Fire",
+            "Flame Body"
         ],
         "type": [
             "Ghost",
@@ -26111,7 +26465,8 @@
         ],
         "Category": "Luring",
         "Abilities": [
-            "Flash Fire\nFlame Body"
+            "Flash Fire",
+            "Flame Body"
         ],
         "type": [
             "Ghost",
@@ -26158,7 +26513,8 @@
         ],
         "Category": "Tusk",
         "Abilities": [
-            "Rivalry\nMold Breaker"
+            "Rivalry",
+            "Mold Breaker"
         ],
         "type": [
             "Dragon"
@@ -26202,7 +26558,8 @@
         ],
         "Category": "Axe Jaw",
         "Abilities": [
-            "Rivalry\nMold Breaker"
+            "Rivalry",
+            "Mold Breaker"
         ],
         "type": [
             "Dragon"
@@ -26246,7 +26603,8 @@
         ],
         "Category": "Axe Jaw",
         "Abilities": [
-            "Rivalry\nMold Breaker"
+            "Rivalry",
+            "Mold Breaker"
         ],
         "type": [
             "Dragon"
@@ -26290,7 +26648,8 @@
         ],
         "Category": "Chill",
         "Abilities": [
-            "Snow Cloak\nSlush Rush"
+            "Snow Cloak",
+            "Slush Rush"
         ],
         "type": [
             "Ice"
@@ -26333,7 +26692,8 @@
         ],
         "Category": "Freezing",
         "Abilities": [
-            "Snow Cloak\nSlush Rush"
+            "Snow Cloak",
+            "Slush Rush"
         ],
         "type": [
             "Ice"
@@ -26414,7 +26774,8 @@
         ],
         "Category": "Snail",
         "Abilities": [
-            "Hydration\nShell Armor"
+            "Hydration",
+            "Shell Armor"
         ],
         "type": [
             "Bug"
@@ -26456,7 +26817,8 @@
         ],
         "Category": "Shell Out",
         "Abilities": [
-            "Hydration\nSticky Hold"
+            "Hydration",
+            "Sticky Hold"
         ],
         "type": [
             "Bug"
@@ -26498,7 +26860,8 @@
         ],
         "Category": "Trap",
         "Abilities": [
-            "Static\nLimber"
+            "Static",
+            "Limber"
         ],
         "type": [
             "Ground",
@@ -26540,7 +26903,8 @@
         ],
         "Category": "Martial Arts",
         "Abilities": [
-            "Inner Focus\nRegenerator"
+            "Inner Focus",
+            "Regenerator"
         ],
         "type": [
             "Fighting"
@@ -26582,7 +26946,8 @@
         ],
         "Category": "Martial Arts",
         "Abilities": [
-            "Inner Focus\nRegenerator"
+            "Inner Focus",
+            "Regenerator"
         ],
         "type": [
             "Fighting"
@@ -26624,7 +26989,8 @@
         ],
         "Category": "Cave",
         "Abilities": [
-            "Rough Skin\nSheer Force"
+            "Rough Skin",
+            "Sheer Force"
         ],
         "type": [
             "Dragon"
@@ -26661,7 +27027,8 @@
         "Gender": "Unknown",
         "Category": "Automaton",
         "Abilities": [
-            "Iron Fist\nKlutz"
+            "Iron Fist",
+            "Klutz"
         ],
         "type": [
             "Ground",
@@ -26703,7 +27070,8 @@
         "Gender": "Unknown",
         "Category": "Automaton",
         "Abilities": [
-            "Iron Fist\nKlutz"
+            "Iron Fist",
+            "Klutz"
         ],
         "type": [
             "Ground",
@@ -26748,7 +27116,8 @@
         ],
         "Category": "Sharp Blade",
         "Abilities": [
-            "Inner Focus\nDefiant"
+            "Inner Focus",
+            "Defiant"
         ],
         "type": [
             "Dark",
@@ -26793,7 +27162,8 @@
         ],
         "Category": "Sword Blade",
         "Abilities": [
-            "Inner Focus\nDefiant"
+            "Inner Focus",
+            "Defiant"
         ],
         "type": [
             "Dark",
@@ -26838,7 +27208,8 @@
         ],
         "Category": "Bash Buffalo",
         "Abilities": [
-            "Reckless\nSap Sipper"
+            "Reckless",
+            "Sap Sipper"
         ],
         "type": [
             "Normal"
@@ -26875,7 +27246,8 @@
         ],
         "Category": "Eaglet",
         "Abilities": [
-            "Keen Eye\nSheer Force"
+            "Keen Eye",
+            "Sheer Force"
         ],
         "type": [
             "Normal",
@@ -26917,7 +27289,8 @@
         ],
         "Category": "Valiant",
         "Abilities": [
-            "Keen Eye\nSheer Force"
+            "Keen Eye",
+            "Sheer Force"
         ],
         "type": [
             "Normal",
@@ -26959,7 +27332,8 @@
         ],
         "Category": "Diapered",
         "Abilities": [
-            "Big Pecks\nOvercoat"
+            "Big Pecks",
+            "Overcoat"
         ],
         "type": [
             "Dark",
@@ -27002,7 +27376,8 @@
         ],
         "Category": "Bone Vulture",
         "Abilities": [
-            "Big Pecks\nOvercoat"
+            "Big Pecks",
+            "Overcoat"
         ],
         "type": [
             "Dark",
@@ -27046,7 +27421,8 @@
         ],
         "Category": "Anteater",
         "Abilities": [
-            "Flash Fire\nGluttony"
+            "Flash Fire",
+            "Gluttony"
         ],
         "type": [
             "Fire"
@@ -27086,7 +27462,8 @@
         ],
         "Category": "Iron Ant",
         "Abilities": [
-            "Swarm\nHustle"
+            "Swarm",
+            "Hustle"
         ],
         "type": [
             "Bug",
@@ -28228,7 +28605,8 @@
         ],
         "Category": "Digging",
         "Abilities": [
-            "Pickup\nCheek Pouch"
+            "Pickup",
+            "Cheek Pouch"
         ],
         "type": [
             "Normal"
@@ -28268,7 +28646,8 @@
         ],
         "Category": "Digging",
         "Abilities": [
-            "Pickup\nCheek Pouch"
+            "Pickup",
+            "Cheek Pouch"
         ],
         "type": [
             "Normal",
@@ -28447,7 +28826,8 @@
         ],
         "Category": "Scatterdust",
         "Abilities": [
-            "Shield Dust\nCompound Eyes"
+            "Shield Dust",
+            "Compound Eyes"
         ],
         "type": [
             "Bug"
@@ -28535,7 +28915,8 @@
         ],
         "Category": "Scale",
         "Abilities": [
-            "Shield Dust\nCompound Eyes"
+            "Shield Dust",
+            "Compound Eyes"
         ],
         "type": [
             "Bug",
@@ -28582,7 +28963,8 @@
         ],
         "Category": "Lion Cub",
         "Abilities": [
-            "Rivalry\nUnnerve"
+            "Rivalry",
+            "Unnerve"
         ],
         "type": [
             "Fire",
@@ -28625,7 +29007,8 @@
         ],
         "Category": "Royal",
         "Abilities": [
-            "Rivalry\nUnnerve"
+            "Rivalry",
+            "Unnerve"
         ],
         "type": [
             "Fire",
@@ -28883,7 +29266,8 @@
         ],
         "Category": "Playful",
         "Abilities": [
-            "Iron Fist\nMold Breaker"
+            "Iron Fist",
+            "Mold Breaker"
         ],
         "type": [
             "Fighting"
@@ -28925,7 +29309,8 @@
         ],
         "Category": "Daunting",
         "Abilities": [
-            "Iron Fist\nMold Breaker"
+            "Iron Fist",
+            "Mold Breaker"
         ],
         "type": [
             "Fighting",
@@ -29006,7 +29391,8 @@
         ],
         "Category": "Restraint",
         "Abilities": [
-            "Keen Eye\nInfiltrator"
+            "Keen Eye",
+            "Infiltrator"
         ],
         "type": [
             "Psychic"
@@ -29047,7 +29433,8 @@
         ],
         "Category": "Constraint",
         "Abilities": [
-            "Keen Eye\nInfiltrator"
+            "Keen Eye",
+            "Infiltrator"
         ],
         "type": [
             "Psychic"
@@ -29391,7 +29778,8 @@
         ],
         "Category": "Revolving",
         "Abilities": [
-            "Suction Cups\nContrary"
+            "Suction Cups",
+            "Contrary"
         ],
         "type": [
             "Dark",
@@ -29433,7 +29821,8 @@
         ],
         "Category": "Overturning",
         "Abilities": [
-            "Suction Cups\nContrary"
+            "Suction Cups",
+            "Contrary"
         ],
         "type": [
             "Dark",
@@ -29475,7 +29864,8 @@
         ],
         "Category": "Two-Handed",
         "Abilities": [
-            "Sniper\nTough Claws"
+            "Sniper",
+            "Tough Claws"
         ],
         "type": [
             "Rock",
@@ -29519,7 +29909,8 @@
         ],
         "Category": "Collective",
         "Abilities": [
-            "Sniper\nTough Claws"
+            "Sniper",
+            "Tough Claws"
         ],
         "type": [
             "Rock",
@@ -29563,7 +29954,8 @@
         ],
         "Category": "Mock Kelp",
         "Abilities": [
-            "Poison Point\nPoison Touch"
+            "Poison Point",
+            "Poison Touch"
         ],
         "type": [
             "Poison",
@@ -29606,7 +29998,8 @@
         ],
         "Category": "Mock Kelp",
         "Abilities": [
-            "Poison Point\nPoison Touch"
+            "Poison Point",
+            "Poison Touch"
         ],
         "type": [
             "Poison",
@@ -29732,7 +30125,8 @@
         ],
         "Category": "Generator",
         "Abilities": [
-            "Sand Veil\nDry Skin"
+            "Sand Veil",
+            "Dry Skin"
         ],
         "type": [
             "Electric",
@@ -29774,7 +30168,8 @@
         ],
         "Category": "Generator",
         "Abilities": [
-            "Sand Veil\nDry Skin"
+            "Sand Veil",
+            "Dry Skin"
         ],
         "type": [
             "Electric",
@@ -30048,7 +30443,8 @@
         ],
         "Category": "Wrestling",
         "Abilities": [
-            "Limber\nUnburden"
+            "Limber",
+            "Unburden"
         ],
         "type": [
             "Fighting",
@@ -30091,7 +30487,8 @@
         ],
         "Category": "Antenna",
         "Abilities": [
-            "Pickup\nCheek Pouch"
+            "Pickup",
+            "Cheek Pouch"
         ],
         "type": [
             "Electric",
@@ -30170,7 +30567,8 @@
         ],
         "Category": "Soft Tissue",
         "Abilities": [
-            "Hydration\nSap Sipper"
+            "Hydration",
+            "Sap Sipper"
         ],
         "type": [
             "Dragon"
@@ -30214,7 +30612,8 @@
         ],
         "Category": "Soft Tissue",
         "Abilities": [
-            "Hydration\nSap Sipper"
+            "Hydration",
+            "Sap Sipper"
         ],
         "type": [
             "Dragon"
@@ -30258,7 +30657,8 @@
         ],
         "Category": "Dragon",
         "Abilities": [
-            "Hydration\nSap Sipper"
+            "Hydration",
+            "Sap Sipper"
         ],
         "type": [
             "Dragon"
@@ -30342,7 +30742,8 @@
         ],
         "Category": "Stump",
         "Abilities": [
-            "Natural Cure\nFrisk"
+            "Natural Cure",
+            "Frisk"
         ],
         "type": [
             "Ghost",
@@ -30387,7 +30788,8 @@
         ],
         "Category": "Elder Tree",
         "Abilities": [
-            "Natural Cure\nFrisk"
+            "Natural Cure",
+            "Frisk"
         ],
         "type": [
             "Ghost",
@@ -30432,7 +30834,8 @@
         ],
         "Category": "Pumpkin",
         "Abilities": [
-            "Pickup\nFrisk"
+            "Pickup",
+            "Frisk"
         ],
         "type": [
             "Ghost",
@@ -30477,7 +30880,8 @@
         ],
         "Category": "Pumpkin",
         "Abilities": [
-            "Pickup\nFrisk"
+            "Pickup",
+            "Frisk"
         ],
         "type": [
             "Ghost",
@@ -30522,7 +30926,8 @@
         ],
         "Category": "Ice Chunk",
         "Abilities": [
-            "Own Tempo\nIce Body"
+            "Own Tempo",
+            "Ice Body"
         ],
         "type": [
             "Ice"
@@ -30565,7 +30970,8 @@
         ],
         "Category": "Iceberg",
         "Abilities": [
-            "Own Tempo\nIce Body"
+            "Own Tempo",
+            "Ice Body"
         ],
         "type": [
             "Ice"
@@ -30608,7 +31014,8 @@
         ],
         "Category": "Sound Wave",
         "Abilities": [
-            "Frisk\nInfiltrator"
+            "Frisk",
+            "Infiltrator"
         ],
         "type": [
             "Flying",
@@ -30652,7 +31059,8 @@
         ],
         "Category": "Sound Wave",
         "Abilities": [
-            "Frisk\nInfiltrator"
+            "Frisk",
+            "Infiltrator"
         ],
         "type": [
             "Flying",
@@ -31335,7 +31743,8 @@
         ],
         "Category": "Woodpecker",
         "Abilities": [
-            "Keen Eye\nSkill Link"
+            "Keen Eye",
+            "Skill Link"
         ],
         "type": [
             "Normal",
@@ -31380,7 +31789,8 @@
         ],
         "Category": "Bugle Beak",
         "Abilities": [
-            "Keen Eye\nSkill Link"
+            "Keen Eye",
+            "Skill Link"
         ],
         "type": [
             "Normal",
@@ -31425,7 +31835,8 @@
         ],
         "Category": "Cannon",
         "Abilities": [
-            "Keen Eye\nSkill Link"
+            "Keen Eye",
+            "Skill Link"
         ],
         "type": [
             "Normal",
@@ -31470,7 +31881,8 @@
         ],
         "Category": "Loitering",
         "Abilities": [
-            "Strong Jaw\nStakeout"
+            "Strong Jaw",
+            "Stakeout"
         ],
         "type": [
             "Normal"
@@ -31510,7 +31922,8 @@
         ],
         "Category": "Stakeout",
         "Abilities": [
-            "Strong Jaw\nStakeout"
+            "Strong Jaw",
+            "Stakeout"
         ],
         "type": [
             "Normal"
@@ -31682,7 +32095,8 @@
         ],
         "Category": "Boxing",
         "Abilities": [
-            "Hyper Cutter\nIron Fist"
+            "Hyper Cutter",
+            "Iron Fist"
         ],
         "type": [
             "Fighting"
@@ -31724,7 +32138,8 @@
         ],
         "Category": "Woolly Crab",
         "Abilities": [
-            "Hyper Cutter\nIron Fist"
+            "Hyper Cutter",
+            "Iron Fist"
         ],
         "type": [
             "Fighting",
@@ -31811,7 +32226,8 @@
         ],
         "Category": "Bee Fly",
         "Abilities": [
-            "Shield Dust\nHoney Gather"
+            "Shield Dust",
+            "Honey Gather"
         ],
         "type": [
             "Bug",
@@ -31856,7 +32272,8 @@
         ],
         "Category": "Bee Fly",
         "Abilities": [
-            "Shield Dust\nHoney Gather"
+            "Shield Dust",
+            "Honey Gather"
         ],
         "type": [
             "Bug",
@@ -31901,7 +32318,9 @@
         ],
         "Category": "Puppy",
         "Abilities": [
-            "Keen Eye\nVital Spirit\nOwn Tempo"
+            "Keen Eye",
+            "Vital Spirit",
+            "Own Tempo"
         ],
         "type": [
             "Rock"
@@ -31947,7 +32366,8 @@
         ],
         "Category": "Wolf",
         "Abilities": [
-            "Keen Eye\nSand Rush"
+            "Keen Eye",
+            "Sand Rush"
         ],
         "type": [
             "Rock"
@@ -32032,7 +32452,8 @@
         ],
         "Category": "Brutal Star",
         "Abilities": [
-            "Limber\nMerciless"
+            "Limber",
+            "Merciless"
         ],
         "type": [
             "Poison",
@@ -32075,7 +32496,8 @@
         ],
         "Category": "Brutal Star",
         "Abilities": [
-            "Limber\nMerciless"
+            "Limber",
+            "Merciless"
         ],
         "type": [
             "Poison",
@@ -32118,7 +32540,8 @@
         ],
         "Category": "Donkey",
         "Abilities": [
-            "Own Tempo\nStamina"
+            "Own Tempo",
+            "Stamina"
         ],
         "type": [
             "Ground"
@@ -32160,7 +32583,8 @@
         ],
         "Category": "Draft Horse",
         "Abilities": [
-            "Own Tempo\nStamina"
+            "Own Tempo",
+            "Stamina"
         ],
         "type": [
             "Ground"
@@ -32376,7 +32800,8 @@
         ],
         "Category": "Illuminating",
         "Abilities": [
-            "Effect Spore\nIlluminate"
+            "Effect Spore",
+            "Illuminate"
         ],
         "type": [
             "Grass",
@@ -32421,7 +32846,8 @@
         ],
         "Category": "Illuminating",
         "Abilities": [
-            "Effect Spore\nIlluminate"
+            "Effect Spore",
+            "Illuminate"
         ],
         "type": [
             "Grass",
@@ -32553,7 +32979,8 @@
         ],
         "Category": "Flailing",
         "Abilities": [
-            "Klutz\nFluffy"
+            "Klutz",
+            "Fluffy"
         ],
         "type": [
             "Normal",
@@ -32597,7 +33024,8 @@
         ],
         "Category": "Strong Arm",
         "Abilities": [
-            "Klutz\nFluffy"
+            "Klutz",
+            "Fluffy"
         ],
         "type": [
             "Normal",
@@ -32640,7 +33068,8 @@
         ],
         "Category": "Fruit",
         "Abilities": [
-            "Oblivious\nLeaf Guard"
+            "Oblivious",
+            "Leaf Guard"
         ],
         "type": [
             "Grass"
@@ -32685,7 +33114,8 @@
         ],
         "Category": "Fruit",
         "Abilities": [
-            "Oblivious\nLeaf Guard"
+            "Oblivious",
+            "Leaf Guard"
         ],
         "type": [
             "Grass"
@@ -32730,7 +33160,8 @@
         ],
         "Category": "Fruit",
         "Abilities": [
-            "Leaf Guard\nQueenly Majesty"
+            "Leaf Guard",
+            "Queenly Majesty"
         ],
         "type": [
             "Grass"
@@ -32776,7 +33207,8 @@
         ],
         "Category": "Posy Picker",
         "Abilities": [
-            "Flower Veil\nTriage"
+            "Flower Veil",
+            "Triage"
         ],
         "type": [
             "Fairy"
@@ -32815,7 +33247,8 @@
         ],
         "Category": "Sage",
         "Abilities": [
-            "Inner Focus\nTelepathy"
+            "Inner Focus",
+            "Telepathy"
         ],
         "type": [
             "Normal",
@@ -33303,7 +33736,8 @@
         ],
         "Category": "Roly-Poly",
         "Abilities": [
-            "Lightning Rod\nIron Barbs"
+            "Lightning Rod",
+            "Iron Barbs"
         ],
         "type": [
             "Electric",
@@ -33384,7 +33818,8 @@
         ],
         "Category": "Gnash Teeth",
         "Abilities": [
-            "Strong Jaw\nDazzling"
+            "Strong Jaw",
+            "Dazzling"
         ],
         "type": [
             "Water",
@@ -33427,7 +33862,8 @@
         ],
         "Category": "Placid",
         "Abilities": [
-            "Sap Sipper\nBerserk"
+            "Sap Sipper",
+            "Berserk"
         ],
         "type": [
             "Normal",
@@ -33509,7 +33945,8 @@
         ],
         "Category": "Scaly",
         "Abilities": [
-            "Soundproof\nBulletproof"
+            "Soundproof",
+            "Bulletproof"
         ],
         "type": [
             "Dragon"
@@ -33553,7 +33990,8 @@
         ],
         "Category": "Scaly",
         "Abilities": [
-            "Soundproof\nBulletproof"
+            "Soundproof",
+            "Bulletproof"
         ],
         "type": [
             "Dragon",
@@ -33600,7 +34038,8 @@
         ],
         "Category": "Scaly",
         "Abilities": [
-            "Soundproof\nBulletproof"
+            "Soundproof",
+            "Bulletproof"
         ],
         "type": [
             "Dragon",
@@ -35098,7 +35537,8 @@
         ],
         "Category": "Tiny Bird",
         "Abilities": [
-            "Keen Eye\nUnnerve"
+            "Keen Eye",
+            "Unnerve"
         ],
         "type": [
             "Flying"
@@ -35142,7 +35582,8 @@
         ],
         "Category": "Raven",
         "Abilities": [
-            "Keen Eye\nUnnerve"
+            "Keen Eye",
+            "Unnerve"
         ],
         "type": [
             "Flying"
@@ -35186,7 +35627,8 @@
         ],
         "Category": "Raven",
         "Abilities": [
-            "Pressure\nUnnerve"
+            "Pressure",
+            "Unnerve"
         ],
         "type": [
             "Flying",
@@ -35230,7 +35672,8 @@
         ],
         "Category": "Larva",
         "Abilities": [
-            "Compound Eyes\nSwarm"
+            "Compound Eyes",
+            "Swarm"
         ],
         "type": [
             "Bug"
@@ -35274,7 +35717,8 @@
         ],
         "Category": "Radome",
         "Abilities": [
-            "Compound Eyes\nSwarm"
+            "Compound Eyes",
+            "Swarm"
         ],
         "type": [
             "Bug",
@@ -35322,7 +35766,8 @@
         ],
         "Category": "Seven Spot",
         "Abilities": [
-            "Swarm\nFrisk"
+            "Swarm",
+            "Frisk"
         ],
         "type": [
             "Bug",
@@ -35370,7 +35815,8 @@
         ],
         "Category": "Fox",
         "Abilities": [
-            "Run Away\nUnburden"
+            "Run Away",
+            "Unburden"
         ],
         "type": [
             "Dark"
@@ -35412,7 +35858,8 @@
         ],
         "Category": "Fox",
         "Abilities": [
-            "Run Away\nUnburden"
+            "Run Away",
+            "Unburden"
         ],
         "type": [
             "Dark"
@@ -35454,7 +35901,8 @@
         ],
         "Category": "Flowering",
         "Abilities": [
-            "Regenerator\nCotton Down"
+            "Regenerator",
+            "Cotton Down"
         ],
         "type": [
             "Grass"
@@ -35498,7 +35946,8 @@
         ],
         "Category": "Cotton Bloom",
         "Abilities": [
-            "Regenerator\nCotton Down"
+            "Regenerator",
+            "Cotton Down"
         ],
         "type": [
             "Grass"
@@ -35542,7 +35991,8 @@
         ],
         "Category": "Sheep",
         "Abilities": [
-            "Run Away\nFluffy"
+            "Run Away",
+            "Fluffy"
         ],
         "type": [
             "Normal"
@@ -35582,7 +36032,8 @@
         ],
         "Category": "Sheep",
         "Abilities": [
-            "Steadfast\nFluffy"
+            "Steadfast",
+            "Fluffy"
         ],
         "type": [
             "Normal"
@@ -35622,7 +36073,8 @@
         ],
         "Category": "Snapping",
         "Abilities": [
-            "Shell Armor\nStrong Jaw"
+            "Shell Armor",
+            "Strong Jaw"
         ],
         "type": [
             "Water"
@@ -35663,7 +36115,8 @@
         ],
         "Category": "Bite",
         "Abilities": [
-            "Shell Armor\nStrong Jaw"
+            "Shell Armor",
+            "Strong Jaw"
         ],
         "type": [
             "Water",
@@ -35787,7 +36240,8 @@
         ],
         "Category": "Coal",
         "Abilities": [
-            "Heatproof\nSteam Engine"
+            "Heatproof",
+            "Steam Engine"
         ],
         "type": [
             "Rock"
@@ -35833,7 +36287,8 @@
         ],
         "Category": "Coal",
         "Abilities": [
-            "Flame Body\nSteam Engine"
+            "Flame Body",
+            "Steam Engine"
         ],
         "type": [
             "Rock",
@@ -35879,7 +36334,8 @@
         ],
         "Category": "Coal",
         "Abilities": [
-            "Flame Body\nSteam Engine"
+            "Flame Body",
+            "Steam Engine"
         ],
         "type": [
             "Rock",
@@ -35925,7 +36381,8 @@
         ],
         "Category": "Apple Core",
         "Abilities": [
-            "Gluttony\nRipen"
+            "Gluttony",
+            "Ripen"
         ],
         "type": [
             "Grass",
@@ -35972,7 +36429,8 @@
         ],
         "Category": "Apple Wing",
         "Abilities": [
-            "Gluttony\nRipen"
+            "Gluttony",
+            "Ripen"
         ],
         "type": [
             "Grass",
@@ -36019,7 +36477,8 @@
         ],
         "Category": "Apple Nectar",
         "Abilities": [
-            "Gluttony\nRipen"
+            "Gluttony",
+            "Ripen"
         ],
         "type": [
             "Grass",
@@ -36066,7 +36525,8 @@
         ],
         "Category": "Sand Snake",
         "Abilities": [
-            "Shed Skin\nSand Spit"
+            "Shed Skin",
+            "Sand Spit"
         ],
         "type": [
             "Ground"
@@ -36108,7 +36568,8 @@
         ],
         "Category": "Sand Snake",
         "Abilities": [
-            "Shed Skin\nSand Spit"
+            "Shed Skin",
+            "Sand Spit"
         ],
         "type": [
             "Ground"
@@ -36272,7 +36733,8 @@
         ],
         "Category": "Baby",
         "Abilities": [
-            "Static\nRattled"
+            "Static",
+            "Rattled"
         ],
         "type": [
             "Electric",
@@ -36314,7 +36776,8 @@
         ],
         "Category": "Punk",
         "Abilities": [
-            "Minus\nPunk Rock"
+            "Minus",
+            "Punk Rock"
         ],
         "type": [
             "Electric",
@@ -36356,7 +36819,8 @@
         ],
         "Category": "Radiator",
         "Abilities": [
-            "Flash Fire\nWhite Smoke"
+            "Flash Fire",
+            "White Smoke"
         ],
         "type": [
             "Fire",
@@ -36399,7 +36863,8 @@
         ],
         "Category": "Radiator",
         "Abilities": [
-            "Flash Fire\nWhite Smoke"
+            "Flash Fire",
+            "White Smoke"
         ],
         "type": [
             "Fire",
@@ -36601,7 +37066,8 @@
         ],
         "Category": "Calm",
         "Abilities": [
-            "Anticipation\nHealer"
+            "Anticipation",
+            "Healer"
         ],
         "type": [
             "Psychic"
@@ -36644,7 +37110,8 @@
         ],
         "Category": "Serene",
         "Abilities": [
-            "Anticipation\nHealer"
+            "Anticipation",
+            "Healer"
         ],
         "type": [
             "Psychic"
@@ -36687,7 +37154,8 @@
         ],
         "Category": "Silent",
         "Abilities": [
-            "Anticipation\nHealer"
+            "Anticipation",
+            "Healer"
         ],
         "type": [
             "Psychic",
@@ -36731,7 +37199,8 @@
         ],
         "Category": "Wily",
         "Abilities": [
-            "Frisk\nPrankster"
+            "Frisk",
+            "Prankster"
         ],
         "type": [
             "Dark",
@@ -36775,7 +37244,8 @@
         ],
         "Category": "Devious",
         "Abilities": [
-            "Frisk\nPrankster"
+            "Frisk",
+            "Prankster"
         ],
         "type": [
             "Dark",
@@ -36819,7 +37289,8 @@
         ],
         "Category": "Bulk Up",
         "Abilities": [
-            "Frisk\nPrankster"
+            "Frisk",
+            "Prankster"
         ],
         "type": [
             "Dark",
@@ -36864,7 +37335,8 @@
         ],
         "Category": "Blocking",
         "Abilities": [
-            "Guts\nReckless"
+            "Guts",
+            "Reckless"
         ],
         "type": [
             "Dark",
@@ -36909,7 +37381,8 @@
         ],
         "Category": "Viking",
         "Abilities": [
-            "Battle Armor\nTough Claws"
+            "Battle Armor",
+            "Tough Claws"
         ],
         "type": [
             "Steel"
@@ -37034,7 +37507,8 @@
         ],
         "Category": "Comedian",
         "Abilities": [
-            "Tangled Feet\nScreen Cleaner"
+            "Tangled Feet",
+            "Screen Cleaner"
         ],
         "type": [
             "Ice",
@@ -37452,7 +37926,8 @@
         ],
         "Category": "Emotion",
         "Abilities": [
-            "Inner Focus\nSynchronize"
+            "Inner Focus",
+            "Synchronize"
         ],
         "type": [
             "Psychic",
@@ -37615,7 +38090,8 @@
         "Gender": "Unknown",
         "Category": "Fossil",
         "Abilities": [
-            "Volt Absorb\nHustle"
+            "Volt Absorb",
+            "Hustle"
         ],
         "type": [
             "Electric",
@@ -37654,7 +38130,8 @@
         "Gender": "Unknown",
         "Category": "Fossil",
         "Abilities": [
-            "Static\nVolt Absorb"
+            "Static",
+            "Volt Absorb"
         ],
         "type": [
             "Electric",
@@ -37693,7 +38170,8 @@
         "Gender": "Unknown",
         "Category": "Fossil",
         "Abilities": [
-            "Water Absorb\nStrong Jaw"
+            "Water Absorb",
+            "Strong Jaw"
         ],
         "type": [
             "Water",
@@ -37730,7 +38208,8 @@
         "Gender": "Unknown",
         "Category": "Fossil",
         "Abilities": [
-            "Water Absorb\nIce Body"
+            "Water Absorb",
+            "Ice Body"
         ],
         "type": [
             "Water",
@@ -37772,7 +38251,8 @@
         ],
         "Category": "Alloy",
         "Abilities": [
-            "Light Metal\nHeavy Metal"
+            "Light Metal",
+            "Heavy Metal"
         ],
         "type": [
             "Steel",
@@ -37812,7 +38292,8 @@
         ],
         "Category": "Lingering",
         "Abilities": [
-            "Clear Body\nInfiltrator"
+            "Clear Body",
+            "Infiltrator"
         ],
         "type": [
             "Dragon",
@@ -37859,7 +38340,8 @@
         ],
         "Category": "Caretaker",
         "Abilities": [
-            "Clear Body\nInfiltrator"
+            "Clear Body",
+            "Infiltrator"
         ],
         "type": [
             "Dragon",
@@ -37906,7 +38388,8 @@
         ],
         "Category": "Stealth",
         "Abilities": [
-            "Clear Body\nInfiltrator"
+            "Clear Body",
+            "Infiltrator"
         ],
         "type": [
             "Dragon",
@@ -38380,7 +38863,8 @@
         ],
         "Category": "Big Horn",
         "Abilities": [
-            "Intimidate\nFrisk"
+            "Intimidate",
+            "Frisk"
         ],
         "type": [
             "Normal",
@@ -38422,7 +38906,8 @@
         ],
         "Category": "Axe",
         "Abilities": [
-            "Swarm\nSheer Force"
+            "Swarm",
+            "Sheer Force"
         ],
         "type": [
             "Bug",
@@ -38466,7 +38951,8 @@
         ],
         "Category": "Peat",
         "Abilities": [
-            "Guts\nBulletproof"
+            "Guts",
+            "Bulletproof"
         ],
         "type": [
             "Ground",
@@ -38511,7 +38997,8 @@
         ],
         "Category": "Big Fish",
         "Abilities": [
-            "Swift Swim\nAdaptability"
+            "Swift Swim",
+            "Adaptability"
         ],
         "type": [
             "Water",
@@ -38555,7 +39042,8 @@
         ],
         "Category": "Free Climb",
         "Abilities": [
-            "Pressure\nUnburden"
+            "Pressure",
+            "Unburden"
         ],
         "type": [
             "Fighting",
@@ -38598,7 +39086,8 @@
         ],
         "Category": "Pin Cluster",
         "Abilities": [
-            "Poison Point\nSwift Swim"
+            "Poison Point",
+            "Swift Swim"
         ],
         "type": [
             "Dark",
@@ -39090,7 +39579,8 @@
         ],
         "Category": "Hog",
         "Abilities": [
-            "Gluttony\nAroma Veil"
+            "Gluttony",
+            "Aroma Veil"
         ],
         "type": [
             "Normal"
@@ -39129,7 +39619,8 @@
         ],
         "Category": "Hog",
         "Abilities": [
-            "Gluttony\nLingering Aroma"
+            "Gluttony",
+            "Lingering Aroma"
         ],
         "type": [
             "Normal"
@@ -39340,7 +39831,8 @@
         ],
         "Category": "Mouse",
         "Abilities": [
-            "Static\nNatural Cure"
+            "Static",
+            "Natural Cure"
         ],
         "type": [
             "Electric"
@@ -39382,7 +39874,8 @@
         ],
         "Category": "Mouse",
         "Abilities": [
-            "Natural Cure\nVolt Absorb"
+            "Natural Cure",
+            "Volt Absorb"
         ],
         "type": [
             "Electric",
@@ -39427,7 +39920,8 @@
         ],
         "Category": "Hands-On",
         "Abilities": [
-            "Natural Cure\nVolt Absorb"
+            "Natural Cure",
+            "Volt Absorb"
         ],
         "type": [
             "Electric",
@@ -39469,7 +39963,8 @@
         "Gender": "Unknown",
         "Category": "Couple",
         "Abilities": [
-            "Run Away\nPickup"
+            "Run Away",
+            "Pickup"
         ],
         "type": [
             "Normal"
@@ -39506,7 +40001,8 @@
         "Gender": "Unknown",
         "Category": "Family",
         "Abilities": [
-            "Cheek Pouch\nFriend Guard"
+            "Cheek Pouch",
+            "Friend Guard"
         ],
         "type": [
             "Normal"
@@ -39772,7 +40268,8 @@
         ],
         "Category": "Parrot",
         "Abilities": [
-            "Intimidate\nHustle"
+            "Intimidate",
+            "Hustle"
         ],
         "type": [
             "Normal",
@@ -39813,7 +40310,8 @@
         ],
         "Category": "Rock Salt",
         "Abilities": [
-            "Sturdy\nPurifying Salt"
+            "Sturdy",
+            "Purifying Salt"
         ],
         "type": [
             "Rock"
@@ -39859,7 +40357,8 @@
         ],
         "Category": "Rock Salt",
         "Abilities": [
-            "Sturdy\nPurifying Salt"
+            "Sturdy",
+            "Purifying Salt"
         ],
         "type": [
             "Rock"
@@ -39905,7 +40404,8 @@
         ],
         "Category": "Rock Salt",
         "Abilities": [
-            "Sturdy\nPurifying Salt"
+            "Sturdy",
+            "Purifying Salt"
         ],
         "type": [
             "Rock"
@@ -40086,7 +40586,8 @@
         ],
         "Category": "EleTadpole",
         "Abilities": [
-            "Static\nOwn Tempo"
+            "Static",
+            "Own Tempo"
         ],
         "type": [
             "Electric"
@@ -40126,7 +40627,8 @@
         ],
         "Category": "EleFrog",
         "Abilities": [
-            "Static\nElectromorphosis"
+            "Static",
+            "Electromorphosis"
         ],
         "type": [
             "Electric"
@@ -40166,7 +40668,8 @@
         ],
         "Category": "Storm Petrel",
         "Abilities": [
-            "Volt Absorb\nWind Power"
+            "Volt Absorb",
+            "Wind Power"
         ],
         "type": [
             "Electric",
@@ -40208,7 +40711,8 @@
         ],
         "Category": "Frigatebird",
         "Abilities": [
-            "Volt Absorb\nWind Power"
+            "Volt Absorb",
+            "Wind Power"
         ],
         "type": [
             "Electric",
@@ -40250,7 +40754,8 @@
         ],
         "Category": "Rascal",
         "Abilities": [
-            "Run Away\nIntimidate"
+            "Run Away",
+            "Intimidate"
         ],
         "type": [
             "Dark"
@@ -40292,7 +40797,8 @@
         ],
         "Category": "Boss",
         "Abilities": [
-            "Intimidate\nGuard Dog"
+            "Intimidate",
+            "Guard Dog"
         ],
         "type": [
             "Dark"
@@ -40334,7 +40840,8 @@
         ],
         "Category": "Toxic Mouse",
         "Abilities": [
-            "Unburden\nPickpocket"
+            "Unburden",
+            "Pickpocket"
         ],
         "type": [
             "Poison",
@@ -40376,7 +40883,8 @@
         ],
         "Category": "Toxic Monkey",
         "Abilities": [
-            "Unburden\nPoison Touch"
+            "Unburden",
+            "Poison Touch"
         ],
         "type": [
             "Poison",
@@ -40596,7 +41104,8 @@
         ],
         "Category": "Ambush",
         "Abilities": [
-            "Shell Armor\nAnger Shell"
+            "Shell Armor",
+            "Anger Shell"
         ],
         "type": [
             "Rock"
@@ -40638,7 +41147,8 @@
         ],
         "Category": "Spicy Pepper",
         "Abilities": [
-            "Chlorophyll\nInsomnia"
+            "Chlorophyll",
+            "Insomnia"
         ],
         "type": [
             "Grass"
@@ -40682,7 +41192,8 @@
         ],
         "Category": "Spicy Pepper",
         "Abilities": [
-            "Chlorophyll\nInsomnia"
+            "Chlorophyll",
+            "Insomnia"
         ],
         "type": [
             "Grass",
@@ -40813,7 +41324,8 @@
         ],
         "Category": "Frill",
         "Abilities": [
-            "Frisk\nAnticipation"
+            "Frisk",
+            "Anticipation"
         ],
         "type": [
             "Psychic"
@@ -40855,7 +41367,8 @@
         ],
         "Category": "Ostrich",
         "Abilities": [
-            "Frisk\nOpportunist"
+            "Frisk",
+            "Opportunist"
         ],
         "type": [
             "Psychic"
@@ -40896,7 +41409,8 @@
         ],
         "Category": "Metalsmith",
         "Abilities": [
-            "Own Tempo\nMold Breaker"
+            "Own Tempo",
+            "Mold Breaker"
         ],
         "type": [
             "Fairy",
@@ -40939,7 +41453,8 @@
         ],
         "Category": "Hammer",
         "Abilities": [
-            "Own Tempo\nMold Breaker"
+            "Own Tempo",
+            "Mold Breaker"
         ],
         "type": [
             "Fairy",
@@ -40982,7 +41497,8 @@
         ],
         "Category": "Hammer",
         "Abilities": [
-            "Own Tempo\nMold Breaker"
+            "Own Tempo",
+            "Mold Breaker"
         ],
         "type": [
             "Fairy",
@@ -41026,7 +41542,8 @@
         ],
         "Category": "Garden Eel",
         "Abilities": [
-            "Gooey\nRattled"
+            "Gooey",
+            "Rattled"
         ],
         "type": [
             "Water"
@@ -41067,7 +41584,8 @@
         ],
         "Category": "Garden Eel",
         "Abilities": [
-            "Gooey\nRattled"
+            "Gooey",
+            "Rattled"
         ],
         "type": [
             "Water"
@@ -41108,7 +41626,8 @@
         ],
         "Category": "Item Drop",
         "Abilities": [
-            "Keen Eye\nBig Pecks"
+            "Keen Eye",
+            "Big Pecks"
         ],
         "type": [
             "Flying",
@@ -41568,7 +42087,8 @@
         ],
         "Category": "Synchronize",
         "Abilities": [
-            "Tangled Feet\nScrappy"
+            "Tangled Feet",
+            "Scrappy"
         ],
         "type": [
             "Flying",
@@ -41611,7 +42131,8 @@
         ],
         "Category": "Terra Whale",
         "Abilities": [
-            "Thick Fat\nSnow Cloak"
+            "Thick Fat",
+            "Snow Cloak"
         ],
         "type": [
             "Ice"
@@ -41654,7 +42175,8 @@
         ],
         "Category": "Terra Whale",
         "Abilities": [
-            "Thick Fat\nSlush Rush"
+            "Thick Fat",
+            "Slush Rush"
         ],
         "type": [
             "Ice"
@@ -41740,7 +42262,8 @@
         ],
         "Category": "Big Catfish",
         "Abilities": [
-            "Oblivious\nUnaware"
+            "Oblivious",
+            "Unaware"
         ],
         "type": [
             "Water"
@@ -41819,7 +42342,8 @@
         ],
         "Category": "Rage Monkey",
         "Abilities": [
-            "Inner Focus\nVital Spirit"
+            "Inner Focus",
+            "Vital Spirit"
         ],
         "type": [
             "Fighting",
@@ -41865,7 +42389,8 @@
         ],
         "Category": "Spiny Fish",
         "Abilities": [
-            "Poison Point\nWater Absorb"
+            "Poison Point",
+            "Water Absorb"
         ],
         "type": [
             "Poison",
@@ -41909,7 +42434,8 @@
         ],
         "Category": "Long Neck",
         "Abilities": [
-            "Cud Chew\nArmor Tail"
+            "Cud Chew",
+            "Armor Tail"
         ],
         "type": [
             "Normal",
@@ -41951,7 +42477,8 @@
         ],
         "Category": "Land Snake",
         "Abilities": [
-            "Run Away\nSerene Grace"
+            "Run Away",
+            "Serene Grace"
         ],
         "type": [
             "Normal"
@@ -41991,7 +42518,8 @@
         ],
         "Category": "Big Blade",
         "Abilities": [
-            "Defiant\nSupreme Overlord"
+            "Defiant",
+            "Supreme Overlord"
         ],
         "type": [
             "Dark",

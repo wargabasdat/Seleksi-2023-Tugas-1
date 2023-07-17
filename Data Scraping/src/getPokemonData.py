@@ -139,24 +139,3 @@ def getPokemonInfo(URL: str):
     driverPokemon.quit()
 
     return pokemon_data
-
-
-if (__name__ == "__main__"):
-    BASE_URL = "https://www.pokemon.com/"
-
-    with open("./Data Scraping/data/url_list.json","r") as file:
-            url_pokemon = json.load(file)
-    
-    for i in range(733, 1010):
-        pokemon_data = False
-        while(pokemon_data == False):
-            pokemon_data = getPokemonInfo(url_pokemon[i])
-
-        with open("./Data Scraping/data/pokedex.json","r") as file:
-            existing_data = json.load(file)
-
-        existing_data.append(pokemon_data)
-        json_object = json.dumps(existing_data, indent=4)
-
-        with open("./Data Scraping/data/pokedex.json","w") as file:
-            file.write(json_object)
