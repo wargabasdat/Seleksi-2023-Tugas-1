@@ -119,6 +119,9 @@ Setiap strong entity pada ERD akan menjadi tabel tersendiri. dan setiap atribut 
 7. Pada tabel payment terdapat specialization dari payment_method diantaranya terdapat credit_card dan paypal yang memiliki atribut tambahan tersendiri. Oleh karena dibuat tabel untuk lower-level entity masing-masing, tabel itu diisi dengan primary key dari higher-level entity yaitu id_payment dan atribut lokalnya masing-masing.
 ![translate7](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/translate7.png)
 
+Berikut tabel hasil translasi ERD
+note : <u>underline</u> for primary key, *italic* for foreign key
+
 ## Screenshots of the program
 ### Data scraping
 * search key function
