@@ -1,101 +1,126 @@
-<h1 align="center">
-  <br>
-  Seleksi Warga Basdat 2023
-  <br>
-  <br>
-</h1>
+# TUGAS SELEKSI WARGA BASDAT
+> Data Scraping, Database Modelling & Data Storing
 
-<h2 align="center">
-  <br>
-  Data Scraping, Database Modelling & Data Storing
-  <br>
-  <br>
-</h2>
+## Author
+Jason Rivalino - 13521008
 
+## Table of Contents
+* [Deskripsi Singkat Data dan DBMS](#deskripsi-singkat-data-dan-dbms)
+* [Spesifikasi Program](#spesifikasi-program)
+* [Struktur File](#struktur-file)
+* [Requirements](#requirements)
+* [Cara Menjalankan Program](#cara-menjalankan-program)
+* [JSON Structure](#json-structure)
+* [Struktur Database](#struktur-database)
+* [Penjelasan Struktur Database](#penjelasan-struktur-database)
+* [Screenshoot Program](#screenshoot-program)
+* [Referensi](#referensi)
+* [Acknowledgements](#acknowledgements)
 
-## Spesifikasi
+## Deskripsi Singkat Data dan DBMS
+Repository ini berisikan data yang memuat informasi terkait Top 500 lagu dari Rolling Stones sepanjang masa. Beberapa informasi yang diambil dari website antara lain peringkat lagu, judul lagu, nama penyanyi, dan tahun lagu dirilis. Setelah mendapatkan data yang diperlukan dari website, data yang didapat kemudian disimpan dalam bentuk JSON. Dari file JSON yang ada, data dikembangkan lagi untuk membentuk data yang bersifat relasional dengan menambahkan beberapa informasi terkait lagu (genre dan album) dan penyanyi (jenis, tanggal lahir, dan tahun lahir). Setelah terbentuk data relasional, data disimpan dalam bentuk SQL dan dijalankan menggunakan DBMS MariaDB. Penggunaan MariaDB dipilih karena saya sudah pernah menggunakan DBMS ini pada praktikum semester lalu sehingga sudah lebih familier. 
 
-### Data Scraping
+## Spesifikasi Program
+Untuk program WebScrapping, program dibuat menggunakan library BeautifySoup dari Python dan library json untuk menyimpan file json pada akhirnya. Setelah import library, berikutnya memasukkan URL yang ingin dilakukan scrapping data. Dari web tersebut kemudian melakukan parsing HTML teksnya dan berikutnya inspeksi untuk mencari data yang akan diambil. Setelah data diambil, kemudian data dicetak dan disimpan dalam bentuk file JSON.
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
+Untuk program SQL. Program dibuat berdasarkan file JSON yang sudah ada sebelumnya. Dalam program SQL, data yang diambil hanyalah data untuk lagu dengan urutan 50 tertinggi saja. Untuk struktur data relasional, dapat dicek pada diagram yang ada dibawah. Terdapat beberapa constraint yang ada dalam program seperti:
+1. Primary Key untuk beberapa data seperti rank, idSong, dan idSinger
+2. Foreign Key untuk data-data tertentu (penjelasan lebih lengkap dibawah)
+3. Check Constraint: jika penyanyi lebih dari 1 (duo, band, dll) maka data tanggal tempat lahir menjadi NULL, jika solo maka data tempat tanggal lahir tidak boleh NULL
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
+## Struktur File
+```bash
+📦TUGAS_SELEKSI_1_13521008
+ ┣ 📂Data Scraping
+ ┃ ┣ 📂data
+ ┃ ┃ ┗ 📜500_song_data.json
+ ┃ ┣ 📂screenshot
+ ┃ ┃ ┗ 📜Program Code + Output.png
+ ┃ ┗ 📂src
+ ┃ ┃ ┗ 📜webscrap.py
+ ┣ 📂Data Storing
+ ┃ ┣ 📂design
+ ┃ ┃ ┣ 📜ER Diagram.png
+ ┃ ┃ ┗ 📜Relational Database Diagram.png
+ ┃ ┣ 📂export
+ ┃ ┃ ┗ 📜top50songs.sql
+ ┃ ┗ 📂screenshot
+ ┃ ┃ ┣ 📜Bukti DBMS MARIADB - Constraint Check Penyanyi.png
+ ┃ ┃ ┣ 📜Bukti DBMS MARIADB - Desc Table SingerInfo.png
+ ┃ ┃ ┣ 📜Bukti DBMS MARIADB - Desc Table SongInfo.png
+ ┃ ┃ ┣ 📜Bukti DBMS MARIADB - Desc Table Top50Songs.png
+ ┃ ┃ ┣ 📜Bukti DBMS MARIADB - Desc Table TopSingerInfo.png
+ ┃ ┃ ┣ 📜Bukti DBMS MARIADB - Desc Table TopSongInfo.png
+ ┃ ┃ ┣ 📜Bukti DBMS MARIADB - Select All SingerInfo.png
+ ┃ ┃ ┣ 📜Bukti DBMS MARIADB - Select All SongInfo.png
+ ┃ ┃ ┣ 📜Bukti DBMS MARIADB - Select All Top50Songs.png
+ ┃ ┃ ┣ 📜Bukti DBMS MARIADB - Select All TopSingerInfo.png
+ ┃ ┃ ┣ 📜Bukti DBMS MARIADB - Select All TopSongInfo.png
+ ┃ ┃ ┗ 📜Bukti DBMS MARIADB - Show Tables.png
+ ┗ 📜README.md
+ ```
 
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
+## Requirements
+1. Visual Studio Code
+2. Python dengan library BeautifySoup (pip install beautifysoup4) dan json (pip install jsons)
+3. MariaDB untuk pengelolaan data
 
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
+## Cara Menjalankan Program
+Langkah-langkah proses setup program adalah sebagai berikut:
+1. Clone repository ini
+2. Jika ingin menjalankan webscrap, ubah direction ke `..\Data Scraping\src` lalu ketikkan `python webscrap.py` maka akan menampilkan data 500 lagu beserta hasil save file dalam bentuk JSON
+3. Jika ingin menjalankan file DBMS, membuka DBMS terlebih dahulu dengan buka terminal pada `..\Data Storing\export` lalu ketikkan `mariadb -u root -p`. Jika sudah terbuka, buat database dengan `create database song` lalu gunakan database dengan `use song` lalu import sql dengan `source top50songs.sql`. Setelah data terexport, data kemudian sudah bisa digunakan dan diolah dalam MariaDB
 
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
+## JSON Structure
 ```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
+[
+  {
+    "rank":"500"
+    "song":"Stronger"
+    "singer":"Kanye West"
+    "yearRelease":"2007"
+  }
+]
 ```
 
-### Database Modelling & Data Storing
+## Struktur Database
+![er + relational](https://github.com/jasonrivalino/TUGAS_SELEKSI_1_13521008/assets/91790457/6f47f0d7-ebef-48db-aff3-c8eeb659578e)
 
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
+## Penjelasan Struktur Database
+Untuk struktur database, pembuatan ER dilakukan berdasarkan file JSON yang terbentuk sebelumnya. Dari situ kemudian membentuk ER dengan tabel top50songs memiliki relasi dengan tabel songInfo dan singerInfo. Beberapa asumsi yang ada dalam ER diagram ini adalah sebagai berikut:
+1. Pada lagu-lagu di top 50, terdapat banyak lagu yang setiap lagu dan penyanyinya juga mempunyai banyak informasi, sehingga hubungan diagram ERnya adalah many-to-many
+2. Pada setiap lagu di top 50, pasti terdapat informasi, dan setiap informasi pasti merupakan bagian dari lagu top 50 sehingga bentuknya adalah total participation untuk relasi dari top50songs to songInfo, begitupn sama untuk relasi dari top50songs ke singerInfo
 
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
+Berdasarkan ER yang telah jadi, kemudian akan dibentuk diagram Relasional. Cara pengubahannya karena relasinya many-to-many, maka dibentuk lagi tabel baru yang berisikan PK dari kedua tabel yang berelasi sehingga bentuk akhir relational diagramnya adalah sebagai berikut:
+- top50songs: (<ins>rank</ins>, song, singer, yearRelease)
+- songInfo: (<ins>idSong</ins>, song, genre, album)
+- singerInfo: (<ins>idSinger</ins>, singer, types, bornPlace, bornDate)
+- topSongInfo: (<ins>rank</ins>, <ins>idSong</ins>)
+- topSingerInfo: (<ins>rank</ins>, <ins>idSinger</ins>)
 
-4. Tools yang digunakan __dibebaskan__ pada peserta.
+Adapun bentuk Foreign Keynya adalah sebagai berikut:
+- topSongInfo(rank) -> top50songs(rank)
+- topSingerInfo(rank) -> top50songs(rank)
+- topSongInfo(idSong) -> songInfo(idSong)
+- topSingerInfo(idSinger) -> singerInfo(idSinger)
 
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
+## Screenshoot Program
+- WebScrapping
+  
+![Program Code + Output](https://github.com/jasonrivalino/TUGAS_SELEKSI_1_13521008/assets/91790457/5b8387a4-5eb5-4772-8a40-fbca98f33fb2)
 
+- MariaDB Show Tables
 
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
-
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
-
-### Pengumpulan
-
-
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
-
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
-
-
-```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
+![Bukti DBMS MARIADB - Show Tables](https://github.com/jasonrivalino/TUGAS_SELEKSI_1_13521008/assets/91790457/c0743fe6-016f-4421-b043-105448cceacc)
 
 
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
+## Referensi
+|Library|Link|
+|:---|:---:|
+|BeautifySoup|[Link](https://pypi.org/project/beautifulsoup4/)|
+|JSON|[Link](https://pypi.org/project/jsons/)|
+|MariaDB Documentation|[Link](https://mariadb.com/kb/en/documentation/)|
 
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
-
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
-<br>
+## Acknowledgements
+- Tuhan Yang Maha Esa
+- Kakak-Kakak Asisten Lab Basdat
