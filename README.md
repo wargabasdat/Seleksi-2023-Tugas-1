@@ -45,7 +45,7 @@ Berikut *screenshot* hasil *storing* data objek wisata di Sumatra Barat:
 
 
 ## K. Referensi
-- Library yang digunakan: [dokumentasi beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
+- *Library* yang digunakan: [dokumentasi beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
 - Tutorial *scraping* dengan beautifulsoup: [tutorial beutifulsoup](https://www.youtube.com/watch?v=YIiYeyfo7MM&t=2254s).
 - DBMS yang digunakan: [dokumentasi postgreSQL](https://www.postgresql.org/docs/current/index.html).
 
