@@ -202,6 +202,8 @@ This library is used to scrape data from website.
 This library is used to store scraped data to json file
 3. <b>OS</b> <br>
 This library is used to get current work directory
-4. <b>psycopg2</b><br>
+4. <a href="https://www.geeksforgeeks.org/perform-postgresql-crud-operations-from-python/"><b>psycopg2</b></a><br>
 This library is used to connect to PostgreSQL
+
 ## Author
+Nathania Calista Djunaedi - 13521139
