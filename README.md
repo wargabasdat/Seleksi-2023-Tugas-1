@@ -199,6 +199,12 @@ foreign  key:
 * Berikut isi tabel product
 ![show](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/show_product.jpg)
 
+## Data vsiualization
+<p> 
+Tabelau digunakan untuk membuat dashbroad sebagai visualization dari data produk hasil scraping. Dashboard menampilkan price-range harga, 5 produk dengan potongan harga terbesar, dan jumlah produk berdasarkan status.
+</p>
+<br>
+
 ## Referensi
 - BeautifulSoup
 - Selenium
