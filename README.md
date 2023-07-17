@@ -18,18 +18,41 @@ Secara umum, program dalam *data scraping* dan *data storing* dapat dilihat pada
 2. Buat *database* terlebih dahulu, kemudian lakukan import file SQL dengan mengetik `psql -U {username} -d {database} < objek_wisata_sumbar.sql`.
 3. Setelah berhasil, silakan masuk ke akun postgreSQL dan file SQL objek_wisata_sumbar siap digunakan.
 
-## Struktur JSON
-Struktur JSON yang penulis buat cukup sederhana, setiap file JSON yang terdapat pada [data](https://github.com/ReyhanPA/Seleksi-2023-Tugas-1/tree/main/Data%20Scraping/data) masing-masingnya mengimplementasikan tabel-tabel yang terdapat pada diagram relasional yang akan dijelaskan pada poin berikutnya. Sebenarnya bisa saja dibuat menjadi satu buah file JSON, tapi penulis membuatnya terpisah untuk kemudahan dalam penyimpanan ke DBMS nya. **Catatan**: Pada folder data tersebut juga terdapat *file* dengan format CSV karena penulis terkendala dalam penyimpanan file JSON ke DBMS postgreSQL (PgAdmin4), oleh karena itu, penulis mengsiasatinya dengan mengonversi hasil *scraping* ke bentuk JSON dan CSV di mana format CSV ditujukan untuk penyimpanan di DBMS.
+## F. Struktur JSON
+Struktur JSON yang penulis buat cukup sederhana, setiap file JSON yang terdapat pada [data](https://github.com/ReyhanPA/Seleksi-2023-Tugas-1/tree/main/Data%20Scraping/data) masing-masingnya mengimplementasikan tabel-tabel yang terdapat pada diagram relasional yang akan dijelaskan pada poin berikutnya. Sebenarnya bisa saja dibuat menjadi satu buah file JSON, tapi penulis membuatnya terpisah untuk kemudahan dalam penyimpanan ke DBMS nya.
 
-## Struktur *Database*
+**Catatan**: Pada folder data tersebut juga terdapat *file* dengan format CSV karena penulis terkendala dalam penyimpanan file JSON ke DBMS postgreSQL (PgAdmin4), oleh karena itu, penulis mengsiasatinya dengan mengonversi hasil *scraping* ke bentuk JSON dan CSV di mana format CSV ditujukan untuk penyimpanan di DBMS.
+
+## G. Struktur *Database*
 Seperti yang dijelaskan pada poin di awal, ER *diagram* dan *relational diagram* yang terdapat pada [ER diagram](https://github.com/ReyhanPA/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ER%20Diagram.png) dan [relational diagram](https://github.com/ReyhanPA/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Relational%20Diagram.png) merupakan langkah awal yang dilakukan penulis. Untuk ER diagram, terdapat relasi ***one-to-many*** pada tabel daerah dan objek_wisata, hal ini karena 1 daerah bisa memiliki banyak objek wisata, sedangkan 1 objek wisata hanya akan terdapat pada 1 daerah saja. Lalu pada relasi ini pula bersifat parsial pada daerah karena ada beberapa daerah pada tabel daerah yang tidak memiliki objek wisata yang disebabkan oleh *cleaning data* yang dilakukan saat proses *scraping data*, kemudian bersifat total pada objek wisata karena dipastikan semua objek wisata memiliki pasangan daerah di tabel daerah. Untuk pengelola dan objek wisata, terdapat relasi ***one-to-one*** dan sama-sama total karena diasumsikan setiap objek memiliki hanya 1 pengelola dan setiap pengelola memiliki hanya 1 objek yang diurusnya. Terakhir, untuk operasional dengan objek wisata terdapat relasi ***one-to-one*** karena diasumsikan setiap objek wisata punya 1 operasional dan begitupun sebaliknya, pada relasi ini pula pada lengan kirinya hanya menggunakan partisipasi parsial karena diasumsikan terdapat objek wisata yang tidak punya operasional, maksudnya dapat dikunjungi di jam berapa saja dan hari apa saja.
 
-Ulasan hanya diambil yang teratas karena di websitenya ulasan dibagi-bagi per halaman (sampai ratusan halaman ulasan per 1 objeknya), jadi takutnya membebani server (etika scraping)
+**Catatan**: Tabel ulasan_teratas hanya diambil ulasan pengunjung yang teratas karena di websitenya ulasan setiap objek dibagi-bagi per halaman (sampai ratusan halaman ulasan per 1 objeknya), jadi takutnya membebani server, hal ini dilakukan untuk menjaga salah satu **etika *scraping***, yaitu melakukan *scraping* seperlunya tanpa memberatkan *website*.
+
+## H. Translasi ER *Diagram* ke *Relational Diagram*
+Secara umum, translasi ER *diagram* menjadi *relational diagram* mengikuti kaidah translasi. Ada beberapa perubahan setelah translasi, di antaranya ***one-to-many*** di daerah dan objek wisata terbentuk menjadi 2 tabel dengan *primary key* tabel daerah diselipkan pada tabel objek_wisata. Selanjutnya untuk jenis dan ulasan_teratas yang terdapat pada tabel objek_wisata memisahkan diri menjadi masing-masing tabel baru karena merupakan entitas **multivalue**. Tabel pengelola dan operasional menjadi tabel seperti biasa dengan *primary key* pada masing-masingnya diselipkan pada tabel objek_wisata.
+
+## I. *Screenshot* Program
+Berikut *screenshot* hasil *scraping* data objek wisata di Sumatra Barat:
+1. [*Screenshot* daerah](https://github.com/ReyhanPA/Seleksi-2023-Tugas-1/tree/main/Data%20Scraping/screenshot/daerah)
+2. [*Screenshot* jenis](https://github.com/ReyhanPA/Seleksi-2023-Tugas-1/tree/main/Data%20Scraping/screenshot/jenis)
+3. [*Screenshot* objek_wisata](https://github.com/ReyhanPA/Seleksi-2023-Tugas-1/tree/main/Data%20Scraping/screenshot/objek_wisata)
+4. [*Screenshot* ulasan_teratas](https://github.com/ReyhanPA/Seleksi-2023-Tugas-1/tree/main/Data%20Scraping/screenshot/ulasan_teratas)
+
+Berikut *screenshot* hasil *storing* data objek wisata di Sumatra Barat:
+1. [*Screenshot data storing*](https://github.com/ReyhanPA/Seleksi-2023-Tugas-1/tree/main/Data%20Storing/screenshot)
+
+## J. Bonus (Visualisasi Data)
+
+
+## K. Referensi
+- Library yang digunakan: [dokumentasi beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
+- Tutorial *scraping* dengan beautifulsoup: [tutorial beutifulsoup](https://www.youtube.com/watch?v=YIiYeyfo7MM&t=2254s).
+- DBMS yang digunakan: [dokumentasi postgreSQL](https://www.postgresql.org/docs/current/index.html).
+
+## L. Author
+|Nama|NIM|Jurusan|
+|----|---|-------|
+|Reyhan Putra Ananda|18221161|Sistem dan Teknologi Informasi 2021|
+
 
 Di ulasan_teratas ada beberapa objek wisata yang informasi pengulasnya kosong (satu row kosong) karena ada beberapa informasi yang tidak ada (jadi biar datanya bersih, maka 1 rownya dihapus) -> TAPI KAN NAMA AKUN PENGUNJUNG DAN ASAL PENGUNJUNG PRIMARY KEY ALIAS HARUS ADA -> ALTERNATIF SOLUSINYA DATANYA GAUSAH DICLEANING (KHUSUS INFORMASI PENGUNJUNG), JADI GAPAPA ADA INFORMASI BOLONG-BOLONG -> UPDATE : JADINYA CLEANING DENGAN DIREPLACE AJA KARENA SAYANG BANYAK DATA DIBUANG KALAU CLEANINGNYA DENGAN DIHAPUS
-
-## Database Structure (ERD and relational diagram)
-## Explanation of ERD to relational diagram translation process
-## Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-## Reference (Library used, etc)
-## Author
