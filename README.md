@@ -89,7 +89,7 @@ ER Diagram
 
 Relational Diagram
   
-![ERD](https://github.com/attariqazhar/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Relational%20Diagram.png)
+![Relational Diagram](https://github.com/attariqazhar/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Relational%20Diagram.png)
 
 ## ERD to Relational Diagram Translation
 Entitas Tournament dan Team memiliki hubungan _many-to-many_ karena setiap turnamen pasti terasosiasi dengan beberapa tim dan setiap tim dapat terasosasi dengan beberapa turnamen. Maka dari itu, hubungan "winner-runner-up" akan direpresentasikan sebagai skema dengan atribut berisi _primary key_ dari kedua entitas. Pada desain _relational diagram_, relasi winner-runner-up menjadikan atribut "tournament id" sebagai _primary key_-nya
