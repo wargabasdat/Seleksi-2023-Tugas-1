@@ -1,101 +1,134 @@
 <h1 align="center">
   <br>
-  Seleksi Warga Basdat 2023
+  DATA HOTEL DI BANDUNG
   <br>
   <br>
 </h1>
 
-<h2 align="center">
-  <br>
-  Data Scraping, Database Modelling & Data Storing
-  <br>
-  <br>
-</h2>
 
+## DESCRIPTION OF THE DATA AND DBMS
 
-## Spesifikasi
+### Data 
+Tripadvisor, Inc. adalah perusahaan biro perjalanan daring asal Amerika Serikat yang mengoperasikan situs web dan aplikasi seluler yang berisi konten buatan pengguna dan situs web pencarian harga yang berhubungan dengan perjalanan dan wisata. Perusahaan juga menawarkan reservasi dan pemesanan daring untuk transportasi, penginapan, atraksi wisata, dan restoran.
 
-### Data Scraping
+Script ini ditujukan untuk melakukan scraping pada web tripadvisor yang menunjukkan hotel-hotel terbaik di Bandung. Data yang diambil antara lain:
+- Nama hotel
+- Alamat hotel
+- Harga hotel pada saat data diambil
+- Review hotel overall
+- Review lokasi hotel
+- Review kebersihan hotel
+- Review Service hotel
+- Review kesepadanan harga hotel
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
+### DBMS
+DBMS yang dipilih adalah PostgreSQL dengan fiturnya yang lengkap dan memadai sehingga cocok digunakan sebagai penampung data web scraping ini
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
+## Spesifikasi program
+Language version: Python 3
+Library:
+- Pandas
+- numpy
+- BeautifulSoup
+- Selenium
+- time
 
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
+## How to Use
 
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
+### Data scraper
+Lakukan cloning atau download program scraper.py <br>
+Install library yang diperlukan dengan `pip install (library)` pada command prompt <br>
+Navigasi ke lokasi file pada .../Data Scraping/src dan lakukan run <br>
+Akan digenerasi raw_data.csv pada direktori file scraper.py diletakkan <br>
+<br >
+### Data Cleaner
+Lakukan cloning atau download program cleaner.py <br>
+Install library yang diperlukan dengan `pip install (library)` pada command prompt <br>
+Navigasi ke lokasi file pada .../Data Scraping/src dan lakukan run <br>
+Akan digenerasi raw_data.csv pada direktori file cleaner.py diletakkan <br>
 
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
+### Data Storing
+Lakukan cloning atau download database hotels.sql <br>
+Install postgresql jika belum terinstal pada perangkat yang digunakan <br>
+Navigasi cmd ke .../Data Storing/export <br>
+Restore database dengan perintah `psql -U {username} -d {database_name} < hotels.sql` sesuai dengan database yang ingin digunakan dan username postgres pada perangkat <br>
 
-### Database Modelling & Data Storing
+## JSON Structure
+JSON digenerasi dengan menggunakan tools online untuk mengkonversi csv menjadi json <br>
+JSON digunakan untuk menyimpan data yang nantinya dapat digunakan untuk export data ke sql <br>
+![json](https://github.com/Nicholas438/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/json_file.png)
 
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
+## Database Structure
+### Entity Relationship Diagram (ERD)
+![ERD](https://github.com/Nicholas438/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ERD.png)
+### Relational Diagram
+![Rel Diagram](https://github.com/Nicholas438/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Relation.png)
 
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
+## Explanation of ERD to relational diagram and translational process
+Pada ERD, dibuat dua buah entitas yaitu hotel dan price. Hotel terhubung dengan price dengan hotel_id sebagai foreign key. <br>
+Hotel berisi alamat, point yaitu 50% berasal dari review dan 50% dari harga dan hotel_id sebagai primary key identifier, selain itu hotel juga memiliki review dan detail per kategori <br>
+Prices adalah weak entity yang berisi harga per hari <br>
 
-4. Tools yang digunakan __dibebaskan__ pada peserta.
+Hotel akan ditranslasikan as is pada psql karena tidak ada yang perlu digantikan, sementara itu prices akan memiliki hotel_id sebagai foreign key karena status prices sebagai weak entity <br>
+Karena pengguna kemungkinan tidak memerlukan review setiap kali data hotel ingin diakses, maka akan dilakukan vertical partitioning dengan relasi baru reviews yang berisi detail review per kategori dari hotel <br>
 
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
+## Screenshots of the program
 
+### Website
+![Webpage](https://github.com/Nicholas438/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/website.png)
 
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
+### Export json ke sql
+![sql](https://github.com/Nicholas438/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/base_sql.png)
 
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
-
-### Pengumpulan
-
-
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
-
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
-
-
-```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
-
-
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
-
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
-
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
+### Pembuatan tabel prices
 <br>
+
+![prices](https://github.com/Nicholas438/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/prices_table.png)
+
+### Pembuatan tabel reviews
+![reviews](https://github.com/Nicholas438/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/reviews_table.png)
+
+### Update tabel hotels
+![drop](https://github.com/Nicholas438/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/hotel_drop_update.png)
+![tabel akhir](https://github.com/Nicholas438/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/hotel_table_final.png)
+## Visualization
+### Plot data berdasarkan postcode
+<br>
+
+![postcode](https://github.com/Nicholas438/Seleksi-2023-Tugas-1/blob/main/Data%20Visualization/postcode.png)
+
+### Hotel terbaik dari postcode terbanyak
+<br>
+
+![overall](https://github.com/Nicholas438/Seleksi-2023-Tugas-1/blob/main/Data%20Visualization/overall.png)
+
+### Plot korelasi harga dan review
+<br>
+
+![plot](https://github.com/Nicholas438/Seleksi-2023-Tugas-1/blob/main/Data%20Visualization/plot.png)
+
+### Insight yang didapatkan
+1. Kode pos 40115 memiliki frekuensi hotel terbaik oleh tripadvisor tertinggi yang mungkin terjadi karena adanya beberapa daerah wisata yang dapat dikunjungi dan lokasi strategis yang memiliki berbagai pilihan karena tingginya densitas penduduk pada daerah tersebut
+2. Tebu Hotel Bandung adalah hotel yang relatif terbaik dari segi harga, review melalui poin dan lokasi yang diuraikan pada nomor satu. 
+3. Ada korelasi positif antara harga dan review. Sehingga dengan naiknya harga, review memiliki kemungkinan tinggi untuk memiliki nilai yang lebih besar juga
+
+## References
+Libraries:
+https://www.postgresql.org/<br>
+https://pypi.org/project/beautifulsoup4/<br>
+https://www.selenium.dev/<br>
+https://pandas.pydata.org/<br>
+<br>
+Tutorials and tools:
+https://realpython.com/beautiful-soup-web-scraper-python/<br>
+https://realpython.com/modern-web-automation-with-python-and-selenium/<br>
+https://www.codespeedy.com/beautifulsoup-lxml-parser-full-tutorial-python/<br>
+https://antisyllogism.medium.com/how-to-webscrape-with-requests-selenium-and-beautifulsoup-in-python-d2b1b996399a<br>
+https://csvjson.com/<br>
+https://www.convertjson.com/json-to-sql.html<br>
+
+## Author
+Nicholas <br>
+18221165 <br>
+Seleksi Warga Basdat <br>
+2023 
