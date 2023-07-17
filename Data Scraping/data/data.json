@@ -1,0 +1,872 @@
+[
+  {
+    "hotel_name": "The Papandayan",
+    "review": 5,
+    "address": "Jl. Gatot Subroto 83, Bandung 40262 Indonesia",
+    "prices": 661922,
+    "location": 4.5,
+    "cleanliness": 4.5,
+    "service": 4.7,
+    "value": 4.6
+  },
+  {
+    "hotel_name": "The Gaia Hotel Bandung",
+    "review": 5,
+    "address": "No. 430 Jl. Dr. Setiabudi, Bandung 40143 Indonesia",
+    "prices": 1110455,
+    "location": 4.9,
+    "cleanliness": 4.8,
+    "service": 4.9,
+    "value": 4.9
+  },
+  {
+    "hotel_name": "Janevalla Bandung",
+    "review": 4.5,
+    "address": "Jalan Aceh No. 65, Jawa Barat, Bandung 40115 Indonesia",
+    "prices": 758694,
+    "location": 4.7,
+    "cleanliness": 4.6,
+    "service": 4.6,
+    "value": 4.5
+  },
+  {
+    "hotel_name": "Grand Tjokro Premiere Bandung",
+    "review": 4.5,
+    "address": "Jl. Cihampelas no. 211-217, Bandung 40131 Indonesia",
+    "prices": 505393,
+    "location": 4.5,
+    "cleanliness": 4.4,
+    "service": 4.4,
+    "value": 4.4
+  },
+  {
+    "hotel_name": "Swiss-Belresort Dago Heritage",
+    "review": 5,
+    "address": "Lapangan Golf Dago Atas No. 78 Dago Heritage Golf Complex, Bandung 40135 Indonesia",
+    "prices": 619111,
+    "location": 4.8,
+    "cleanliness": 4.3,
+    "service": 4.6,
+    "value": 4.6
+  },
+  {
+    "hotel_name": "Hotel Savoy Homann",
+    "review": 4,
+    "address": "Jl. Asia Afrika, No. 112, Bandung 40261 Indonesia",
+    "prices": 272805,
+    "location": 4.3,
+    "cleanliness": 4,
+    "service": 4.1,
+    "value": 3.9
+  },
+  {
+    "hotel_name": "Belviu Hotel",
+    "review": 5,
+    "address": "Jl. Dr Setiabudhi no. 35 Sukajadi, Bandung 40161 Indonesia",
+    "prices": 519328,
+    "location": 4.9,
+    "cleanliness": 4.6,
+    "service": 4.7,
+    "value": 4.8
+  },
+  {
+    "hotel_name": "Shakti Hotel Bandung",
+    "review": 4.5,
+    "address": "Jl. Soekarno Hatta No. 735 Gede Bage, Bandung 40294 Indonesia",
+    "prices": 249041,
+    "location": 4.2,
+    "cleanliness": 4,
+    "service": 4.3,
+    "value": 4.3
+  },
+  {
+    "hotel_name": "The Trans Luxury Hotel",
+    "review": 4.5,
+    "address": "Jl. Jenderal Gatot Subroto no. 289, Bandung 40273 Indonesia",
+    "prices": 1182664,
+    "location": 4.3,
+    "cleanliness": 4.7,
+    "service": 4.6,
+    "value": 4.4
+  },
+  {
+    "hotel_name": "HARRIS Hotel & Conventions Festival CityLink",
+    "review": 4.5,
+    "address": "Jl. Peta no. 241 Kopo, Bandung 40323 Indonesia",
+    "prices": 401525,
+    "location": 4.3,
+    "cleanliness": 4.3,
+    "service": 4.3,
+    "value": 4.3
+  },
+  {
+    "hotel_name": "de JAVA Hotel",
+    "review": 4.5,
+    "address": "Jl. Sukajadi no. 148-150, Bandung 40161 Indonesia",
+    "prices": 136845,
+    "location": 4.8,
+    "cleanliness": 4.1,
+    "service": 4.5,
+    "value": 4.5
+  },
+  {
+    "hotel_name": "THE 1O1 Bandung Dago",
+    "review": 4,
+    "address": "Jl. Ir H Djuanda no. 3 Dago Bawah, Bandung 40115 Indonesia",
+    "prices": 496698,
+    "location": 4.4,
+    "cleanliness": 3.9,
+    "service": 3.9,
+    "value": 3.8
+  },
+  {
+    "hotel_name": "Tebu Hotel Bandung",
+    "review": 4.5,
+    "address": "Jl. L.L.R.E Martadinata no. 62, Bandung 40115 Indonesia",
+    "prices": 238969,
+    "location": 4.4,
+    "cleanliness": 4,
+    "service": 3.9,
+    "value": 4.3
+  },
+  {
+    "hotel_name": "The Cherry Homes Hotel and Residence",
+    "review": 4,
+    "address": "Jl. Babakan Jeruk IV No.37-39, Bandung 40163 Indonesia",
+    "prices": 125272,
+    "location": 3.6,
+    "cleanliness": 4.2,
+    "service": 4.2,
+    "value": 4.1
+  },
+  {
+    "hotel_name": "Vue Palace Hotel",
+    "review": 4.5,
+    "address": "Jalan Otto Iskandar Dinata No 3, Bandung 40117 Indonesia",
+    "prices": 402488,
+    "location": 4.8,
+    "cleanliness": 4.7,
+    "service": 4.7,
+    "value": 0
+  },
+  {
+    "hotel_name": "Hotel Daily Inn Bandung",
+    "review": 5,
+    "address": "Jalan. Dalem Kaum No.36 Kec. Regol Kel. Balonggede. Alun-alun Kota Bandung, Bandung 40251 Indonesia",
+    "prices": 143153,
+    "location": 5,
+    "cleanliness": 5,
+    "service": 0,
+    "value": 0
+  },
+  {
+    "hotel_name": "The Jayakarta Suites Bandung, Boutique Suites, Hotel & Spa",
+    "review": 3.5,
+    "address": "Jl. Ir. H Juanda no. 381A, Bandung 40135 Indonesia",
+    "prices": 588182,
+    "location": 3.8,
+    "cleanliness": 3.8,
+    "service": 3.8,
+    "value": 3.8
+  },
+  {
+    "hotel_name": "Fabu Hotel Bandung",
+    "review": 3.5,
+    "address": "Jl. Kebon Jati no. 32, Bandung 40181 Indonesia",
+    "prices": 145947,
+    "location": 4,
+    "cleanliness": 3.7,
+    "service": 4,
+    "value": 3.6
+  },
+  {
+    "hotel_name": "West Point Hotel Bandung",
+    "review": 4.5,
+    "address": "Jln. Garuda No. 63 Near from Husein Sastranegara International Airport, Bandung 40183 Indonesia",
+    "prices": 364042,
+    "location": 4.2,
+    "cleanliness": 4.4,
+    "service": 4.4,
+    "value": 4
+  },
+  {
+    "hotel_name": "Collection O 25 Hotel Baltika",
+    "review": 3,
+    "address": "No. 42, Jl Gatot Subroto, Bandung 40262 Indonesia",
+    "prices": 34251,
+    "location": 4,
+    "cleanliness": 3.3,
+    "service": 3.3,
+    "value": 3.8
+  },
+  {
+    "hotel_name": "Grand Sovia Hotel",
+    "review": 3.5,
+    "address": "Jl. Kebon Kawung no. 16, Bandung 40171 Indonesia",
+    "prices": 260706,
+    "location": 4.3,
+    "cleanliness": 3.8,
+    "service": 3.6,
+    "value": 3.6
+  },
+  {
+    "hotel_name": "Meize Hotel",
+    "review": 3.5,
+    "address": "Jl. Sumbawa no. 7, Bandung 40113 Indonesia",
+    "prices": 231667,
+    "location": 4.2,
+    "cleanliness": 3.9,
+    "service": 3.8,
+    "value": 3.8
+  },
+  {
+    "hotel_name": "Clove Garden Hotel & Residence",
+    "review": 4.5,
+    "address": "Jl. Awiligar Raya II 2 Cimenyan, Bandung 40191 Indonesia",
+    "prices": 122341,
+    "location": 3.2,
+    "cleanliness": 3.5,
+    "service": 3.5,
+    "value": 3.8
+  },
+  {
+    "hotel_name": "Grand Asrilia Hotel Convention & Restaurant",
+    "review": 3,
+    "address": "Jl. Pelajar Pejuang 45 no. 108A Lengkong, Bandung 40264 Indonesia",
+    "prices": 297652,
+    "location": 4.2,
+    "cleanliness": 3.6,
+    "service": 3.5,
+    "value": 3.4
+  },
+  {
+    "hotel_name": "Kedaton Hotel",
+    "review": 3.5,
+    "address": "Jl. Suniaraja no. 14, Bandung 40111 Indonesia",
+    "prices": 301421,
+    "location": 4.2,
+    "cleanliness": 3.4,
+    "service": 3.9,
+    "value": 3.8
+  },
+  {
+    "hotel_name": "HOUSE Sangkuriang - Bandung",
+    "review": 4,
+    "address": "Jln. Sangkuriang No. 1, Dago, Bandung 40135 Indonesia",
+    "prices": 363363,
+    "location": 4.3,
+    "cleanliness": 3.9,
+    "service": 4.1,
+    "value": 3.8
+  },
+  {
+    "hotel_name": "Maison Teraskita Bandung by The Gala Hotels Group",
+    "review": 4,
+    "address": "55 Jalan Asia Afrika, Bandung 40251 Indonesia",
+    "prices": 165634,
+    "location": 0,
+    "cleanliness": 0,
+    "service": 0,
+    "value": 0
+  },
+  {
+    "hotel_name": "Kytos Hotel",
+    "review": 3.5,
+    "address": "Jl. Setiabudhi no. 153, Bandung 40153 Indonesia",
+    "prices": 344586,
+    "location": 4.5,
+    "cleanliness": 4.4,
+    "service": 4.1,
+    "value": 4
+  },
+  {
+    "hotel_name": "Collection O 22 Hotel Pasar Baru Heritage",
+    "review": 3.5,
+    "address": "No. 84-92, Jl Otto Iskandar Dinata, Bandung 40181 Indonesia",
+    "prices": 79766,
+    "location": 0,
+    "cleanliness": 0,
+    "service": 0,
+    "value": 0
+  },
+  {
+    "hotel_name": "POP! Hotel Festival Citylink",
+    "review": 4,
+    "address": "Pasir Koja Jln. Peta 241, Bandung 40323 Indonesia",
+    "prices": 190300,
+    "location": 4.1,
+    "cleanliness": 3.8,
+    "service": 3.9,
+    "value": 4.1
+  },
+  {
+    "hotel_name": "YELLO Hotel Paskal",
+    "review": 4.5,
+    "address": "Jl. Pasir Kaliki No.25 Komplek Paskal Hyper Square, Bandung 40181 Indonesia",
+    "prices": 475802,
+    "location": 4.7,
+    "cleanliness": 4.4,
+    "service": 4.5,
+    "value": 4.4
+  },
+  {
+    "hotel_name": "Hotel ibis Bandung Trans Studio",
+    "review": 4.5,
+    "address": "Jl. Sumatra no. 51 Kelurahan Citarum, Bandung 40115 Indonesia",
+    "prices": 247934,
+    "location": 4.4,
+    "cleanliness": 4.1,
+    "service": 4.1,
+    "value": 4.1
+  },
+  {
+    "hotel_name": "Serela Waringin Bandung",
+    "review": 4.5,
+    "address": "Jl Kelenteng No 30-31, Bandung 40181 Indonesia",
+    "prices": 102644,
+    "location": 4.3,
+    "cleanliness": 3.9,
+    "service": 4.2,
+    "value": 4.4
+  },
+  {
+    "hotel_name": "HARRIS Hotel & Conventions Ciumbuleuit",
+    "review": 4.5,
+    "address": "Jl. Ciumbuleuit no. 50-58, Bandung 40141 Indonesia",
+    "prices": 427213,
+    "location": 4.4,
+    "cleanliness": 4.3,
+    "service": 4.4,
+    "value": 4.3
+  },
+  {
+    "hotel_name": "Grand Tebu Hotel",
+    "review": 4.5,
+    "address": "LLRE Martadinata St. no. 207, Bandung 40115 Indonesia",
+    "prices": 444136,
+    "location": 4.5,
+    "cleanliness": 4.1,
+    "service": 4,
+    "value": 4.1
+  },
+  {
+    "hotel_name": "Sukajadi Hotel",
+    "review": 3.5,
+    "address": "Jl. Sukajadi no. 176, Bandung 40161 Indonesia",
+    "prices": 82785,
+    "location": 4,
+    "cleanliness": 3.6,
+    "service": 3.7,
+    "value": 3.5
+  },
+  {
+    "hotel_name": "Grand Hotel Preanger",
+    "review": 4,
+    "address": "Jln. Asia Afrika 81, Bandung 40111 Indonesia",
+    "prices": 596018,
+    "location": 4.3,
+    "cleanliness": 4.1,
+    "service": 4.3,
+    "value": 4
+  },
+  {
+    "hotel_name": "Puteri Gunung Hotel",
+    "review": 4.5,
+    "address": "Jl. Raya Tangkuban Perahu Km. 16-17, Bandung Indonesia",
+    "prices": 383218,
+    "location": 4,
+    "cleanliness": 3.5,
+    "service": 3.9,
+    "value": 3.4
+  },
+  {
+    "hotel_name": "The Luxton Bandung Hotel",
+    "review": 4,
+    "address": "Jln. Ir. H Juanda No. 18, Bandung 40115 Indonesia",
+    "prices": 640085,
+    "location": 4.6,
+    "cleanliness": 4.1,
+    "service": 4.2,
+    "value": 4.1
+  },
+  {
+    "hotel_name": "Kimaya Braga Bandung By Harris",
+    "review": 4,
+    "address": "Jln. Braga 8, Bandung 40111 Indonesia",
+    "prices": 497245,
+    "location": 4.5,
+    "cleanliness": 4.1,
+    "service": 4,
+    "value": 4.1
+  },
+  {
+    "hotel_name": "Sari Ater Hot Springs Ciater",
+    "review": 4,
+    "address": "Jl. Raya Ciater Subang, Bandung 41281 Indonesia",
+    "prices": 549276,
+    "location": 3.9,
+    "cleanliness": 3.4,
+    "service": 3.7,
+    "value": 3.4
+  },
+  {
+    "hotel_name": "Amaroossa Bandung",
+    "review": 4.5,
+    "address": "Jl. Aceh no. 71A, Bandung 40115 Indonesia",
+    "prices": 347683,
+    "location": 4.2,
+    "cleanliness": 4.1,
+    "service": 4.1,
+    "value": 4
+  },
+  {
+    "hotel_name": "Hotel Promenade Cihampelas",
+    "review": 3.5,
+    "address": "Jl. Cihampelas No. 119 - 121, Bandung 40131 Indonesia",
+    "prices": 225048,
+    "location": 4.5,
+    "cleanliness": 3.1,
+    "service": 3.4,
+    "value": 3.4
+  },
+  {
+    "hotel_name": "Yokotel Hotel",
+    "review": 4,
+    "address": "Jl. Kebon Jati No.17 & 19, Bandung 40181 Indonesia",
+    "prices": 126025,
+    "location": 4,
+    "cleanliness": 3.6,
+    "service": 4.2,
+    "value": 3.3
+  },
+  {
+    "hotel_name": "favehotel Hyper Square",
+    "review": 4,
+    "address": "Jl. Pasirkaliki no. 25-27 Paskal Hyper Square, Bandung 40181 Indonesia",
+    "prices": 117271,
+    "location": 4.3,
+    "cleanliness": 3.9,
+    "service": 4,
+    "value": 3.9
+  },
+  {
+    "hotel_name": "Ivory Hotel Bandung",
+    "review": 4.5,
+    "address": "Jl. Bahureksa no. 3, Bandung 40115 Indonesia",
+    "prices": 476388,
+    "location": 4.4,
+    "cleanliness": 4.4,
+    "service": 4.3,
+    "value": 4.4
+  },
+  {
+    "hotel_name": "Grand Viveana Hotel",
+    "review": 4,
+    "address": "Jl. Pajajaran no. 73 Ciceando, Bandung 40172 Indonesia",
+    "prices": 273017,
+    "location": 4,
+    "cleanliness": 5,
+    "service": 4,
+    "value": 3.5
+  },
+  {
+    "hotel_name": "De'Rain Hotel Bandung",
+    "review": 3.5,
+    "address": "Jl. Lengkong Kecil 76-80, Bandung 40261 Indonesia",
+    "prices": 254989,
+    "location": 4.1,
+    "cleanliness": 3.9,
+    "service": 3.7,
+    "value": 3.8
+  },
+  {
+    "hotel_name": "Verona Palace Hotel",
+    "review": 4,
+    "address": "Jl. Surya Sumantri No.36, Bandung 40164 Indonesia",
+    "prices": 218500,
+    "location": 3.6,
+    "cleanliness": 4.3,
+    "service": 4,
+    "value": 4.1
+  },
+  {
+    "hotel_name": "The Cipaku Garden Hotel",
+    "review": 4,
+    "address": "Jl. Cipaku Indah X No.2-4, Bandung 40143 Indonesia",
+    "prices": 370513,
+    "location": 3.3,
+    "cleanliness": 3.7,
+    "service": 3.6,
+    "value": 3.7
+  },
+  {
+    "hotel_name": "Favehotel Braga",
+    "review": 3.5,
+    "address": "Jl. Braga no. 99-101 Braga City Walk Entertainment Complex, Bandung 40111 Indonesia",
+    "prices": 396001,
+    "location": 4.4,
+    "cleanliness": 3.7,
+    "service": 3.8,
+    "value": 3.7
+  },
+  {
+    "hotel_name": "Park View Hotel Bandung",
+    "review": 4,
+    "address": "Jl. Sukajadi no. 153, Bandung 40162 Indonesia",
+    "prices": 102454,
+    "location": 4.6,
+    "cleanliness": 4.4,
+    "service": 4.3,
+    "value": 4.3
+  },
+  {
+    "hotel_name": "Lembang Asri",
+    "review": 4,
+    "address": "Km 4 Jl Kolonel Masturi Lembang, Bandung Indonesia",
+    "prices": 462289,
+    "location": 3.8,
+    "cleanliness": 3.9,
+    "service": 3.9,
+    "value": 4
+  },
+  {
+    "hotel_name": "Atlantic City Hotel",
+    "review": 4,
+    "address": "Jl. Pasirkaliki no. 126, Bandung 40171 Indonesia",
+    "prices": 307323,
+    "location": 4.3,
+    "cleanliness": 4.4,
+    "service": 4.1,
+    "value": 3.6
+  },
+  {
+    "hotel_name": "Yokotel City",
+    "review": 5,
+    "address": "Jl. Dr. Rajiman No.3 Pasir Kaliki, Cicendo, Bandung 40171 Indonesia",
+    "prices": 270816,
+    "location": 0,
+    "cleanliness": 0,
+    "service": 0,
+    "value": 0
+  },
+  {
+    "hotel_name": "Cihampelas Hotel 2 RedPartner",
+    "review": 3.5,
+    "address": "Jl. Cihampelas No. 222, Coblong, Bandung 40131 Indonesia",
+    "prices": 61053,
+    "location": 4.1,
+    "cleanliness": 3,
+    "service": 3.8,
+    "value": 3.7
+  },
+  {
+    "hotel_name": "OYO 342 De'kayakini Hotel",
+    "review": 3.5,
+    "address": "Jl. Cipamokolan Komp. Rancaloa Regency Ii No.7 Cipamokolan, Rancasari, Riung Bandung, Bandung 40292 Indonesia",
+    "prices": 97517,
+    "location": 2,
+    "cleanliness": 3,
+    "service": 0,
+    "value": 0
+  },
+  {
+    "hotel_name": "Travello Hotel Bandung",
+    "review": 5,
+    "address": "Jl. Dr Setiabudhi no. 268, Bandung 40143 Indonesia",
+    "prices": 489395,
+    "location": 4.7,
+    "cleanliness": 4.3,
+    "service": 4.7,
+    "value": 4.8
+  },
+  {
+    "hotel_name": "ibis Styles Bandung Grand Central",
+    "review": 5,
+    "address": "Jl. Diponegoro 27, Bandung 40115 Indonesia",
+    "prices": 1157025,
+    "location": 5,
+    "cleanliness": 4.4,
+    "service": 4.9,
+    "value": 4.9
+  },
+  {
+    "hotel_name": "Grand Dafam Braga Bandung",
+    "review": 5,
+    "address": "Jalan Braga No. 99-101, Bandung 40111 Indonesia",
+    "prices": 494886,
+    "location": 4.9,
+    "cleanliness": 4.1,
+    "service": 4.9,
+    "value": 4.8
+  },
+  {
+    "hotel_name": "Gino Feruci Braga Hotel",
+    "review": 4.5,
+    "address": "Jln. Braga no. 67, Bandung 40111 Indonesia",
+    "prices": 383881,
+    "location": 4.5,
+    "cleanliness": 4,
+    "service": 4.1,
+    "value": 4
+  },
+  {
+    "hotel_name": "Serela Cihampelas Hotel Bandung",
+    "review": 4.5,
+    "address": "Jl. Cihampelas no. 147, Bandung 40131 Indonesia",
+    "prices": 276930,
+    "location": 4.9,
+    "cleanliness": 4.3,
+    "service": 4.5,
+    "value": 4.5
+  },
+  {
+    "hotel_name": "Zest Hotel Sukajadi",
+    "review": 4,
+    "address": "Jl. Sukajadi no. 16, Bandung 40161 Indonesia",
+    "prices": 360857,
+    "location": 4.3,
+    "cleanliness": 4.3,
+    "service": 4.3,
+    "value": 4.2
+  },
+  {
+    "hotel_name": "Hilton Bandung",
+    "review": 4.5,
+    "address": "H.O.S. Tjokroaminoto no 41 - 43, Bandung 40172 Indonesia",
+    "prices": 1300000,
+    "location": 4.3,
+    "cleanliness": 4.5,
+    "service": 4.5,
+    "value": 4.3
+  },
+  {
+    "hotel_name": "ASTON Pasteur",
+    "review": 4.5,
+    "address": "Jl. Dr. Djundjunan no. 162, Bandung 40162 Indonesia",
+    "prices": 597417,
+    "location": 4.4,
+    "cleanliness": 4.3,
+    "service": 4.3,
+    "value": 4.2
+  },
+  {
+    "hotel_name": "Panen Hotel Bandung",
+    "review": 5,
+    "address": "100 Jalan L. L. R.E. Martadinata, Bandung 40113 Indonesia",
+    "prices": 92107,
+    "location": 4.9,
+    "cleanliness": 5,
+    "service": 4.9,
+    "value": 4.9
+  },
+  {
+    "hotel_name": "GH Universal Hotel",
+    "review": 5,
+    "address": "Jl. Dr Setiabudhi 376, Bandung 40143 Indonesia",
+    "prices": 484468,
+    "location": 4.6,
+    "cleanliness": 3.9,
+    "service": 4.6,
+    "value": 4.6
+  },
+  {
+    "hotel_name": "Arion Suites Hotel",
+    "review": 5,
+    "address": "Jl. Otto Iskandardinata No. 16 Bandung City Center, Bandung 40171 Indonesia",
+    "prices": 257607,
+    "location": 5,
+    "cleanliness": 5,
+    "service": 4.9,
+    "value": 0
+  },
+  {
+    "hotel_name": "Gumilang Regency Hotel",
+    "review": 3.5,
+    "address": "Jl. Setiabudi no. 323-325, Bandung 40154 Indonesia",
+    "prices": 439939,
+    "location": 3.6,
+    "cleanliness": 3.7,
+    "service": 3.7,
+    "value": 3.5
+  },
+  {
+    "hotel_name": "Hotel Santika Pasir Koja",
+    "review": 5,
+    "address": "Jl. Peta No.176, Bandung 40231 Indonesia",
+    "prices": 435168,
+    "location": 4.8,
+    "cleanliness": 4.9,
+    "service": 4.9,
+    "value": 0
+  },
+  {
+    "hotel_name": "Art Deco Luxury Hotel & Residence",
+    "review": 4,
+    "address": "Jl. Rancabentang No. 2, Bandung 40142 Indonesia",
+    "prices": 881381,
+    "location": 4.1,
+    "cleanliness": 4.1,
+    "service": 4.1,
+    "value": 3.9
+  },
+  {
+    "hotel_name": "Kollektiv Hotel",
+    "review": 4.5,
+    "address": "Jl. Prof. Insinyur Doktor Sutami No. 62, Bandung 40152 Indonesia",
+    "prices": 378746,
+    "location": 4,
+    "cleanliness": 4.8,
+    "service": 4.3,
+    "value": 4.3
+  },
+  {
+    "hotel_name": "Horison Green Forest Resort",
+    "review": 4,
+    "address": "Jl. Sersan Bajuri No.102 Cihideung, Bandung 40559 Indonesia",
+    "prices": 654874,
+    "location": 4,
+    "cleanliness": 3.3,
+    "service": 3.7,
+    "value": 3.9
+  },
+  {
+    "hotel_name": "Sandalwood Boutique Hotel",
+    "review": 4.5,
+    "address": "Jalan Seskoau No 1, Bandung 40791 Indonesia",
+    "prices": 747358,
+    "location": 4.2,
+    "cleanliness": 4.4,
+    "service": 4.3,
+    "value": 4.1
+  },
+  {
+    "hotel_name": "Oasis Siliwangi Hotel Bandung",
+    "review": 4,
+    "address": "Jl. Lombok No.10, Bandung 40113 Indonesia",
+    "prices": 495014,
+    "location": 3.8,
+    "cleanliness": 3.7,
+    "service": 3.2,
+    "value": 3.5
+  },
+  {
+    "hotel_name": "PRIME PARK Hotel Bandung",
+    "review": 4,
+    "address": "Jl. P.H.H. Mustofa no. 47/57, Bandung 40124 Indonesia",
+    "prices": 375879,
+    "location": 3.9,
+    "cleanliness": 4.2,
+    "service": 4.2,
+    "value": 4.3
+  },
+  {
+    "hotel_name": "Hotel Citradream Bandung",
+    "review": 4,
+    "address": "Jl. Pasirkaliki no. 36-42, Bandung 40171 Indonesia",
+    "prices": 233209,
+    "location": 4.4,
+    "cleanliness": 4.1,
+    "service": 4,
+    "value": 4
+  },
+  {
+    "hotel_name": "V Hotel & Residence",
+    "review": 4,
+    "address": "Jl. Terusan Sutami III Terusan Setrawangi Raya, Bandung Indonesia",
+    "prices": 184157,
+    "location": 3.4,
+    "cleanliness": 3.9,
+    "service": 3.6,
+    "value": 3.7
+  },
+  {
+    "hotel_name": "The Silk At Dago",
+    "review": 3.5,
+    "address": "Jl. Ir. H.Djuanda No.392 - 394, Bandung 40135 Indonesia",
+    "prices": 306053,
+    "location": 3.9,
+    "cleanliness": 3.8,
+    "service": 3.7,
+    "value": 3.4
+  },
+  {
+    "hotel_name": "Nindya Biodistrict Hotel",
+    "review": 5,
+    "address": "Jl. Phh. Mustofa, No. 57 Perempatan Cikutra, Bandung 40124 Indonesia",
+    "prices": 55321,
+    "location": 0,
+    "cleanliness": 0,
+    "service": 0,
+    "value": 0
+  },
+  {
+    "hotel_name": "Vio Cihampelas Hotel",
+    "review": 3.5,
+    "address": "Jl. Cihampelas no. 108, Bandung 40116 Indonesia",
+    "prices": 223275,
+    "location": 4.3,
+    "cleanliness": 3.4,
+    "service": 3.3,
+    "value": 3.3
+  },
+  {
+    "hotel_name": "Bali World Hotel",
+    "review": 3,
+    "address": "Jl. Soekarno-Hatta no. 713 By-Pass Timur, Bandung 40286 Indonesia",
+    "prices": 260991,
+    "location": 2.9,
+    "cleanliness": 3.4,
+    "service": 3.2,
+    "value": 3
+  },
+  {
+    "hotel_name": "HAY Bandung",
+    "review": 4,
+    "address": "Jl. Trunojoyo no. 19, Bandung 40115 Indonesia",
+    "prices": 552251,
+    "location": 5,
+    "cleanliness": 4.2,
+    "service": 4,
+    "value": 4.3
+  },
+  {
+    "hotel_name": "De Batara Hotel",
+    "review": 3.5,
+    "address": "Jl. Cihampelas no. 112, Bandung 40116 Indonesia",
+    "prices": 214904,
+    "location": 4.4,
+    "cleanliness": 3.9,
+    "service": 3.9,
+    "value": 3.6
+  },
+  {
+    "hotel_name": "Grand Aquila Hotel Bandung",
+    "review": 3.5,
+    "address": "Jl. DR Djundjunan 116, Bandung 40163 Indonesia",
+    "prices": 685736,
+    "location": 3.9,
+    "cleanliness": 3.3,
+    "service": 3.7,
+    "value": 3.2
+  },
+  {
+    "hotel_name": "Green Batara Hotel",
+    "review": 3.5,
+    "address": "Jln. Cihampelas no 145, Bandung 40131 Indonesia",
+    "prices": 217762,
+    "location": 4.5,
+    "cleanliness": 3.7,
+    "service": 3.7,
+    "value": 4.1
+  },
+  {
+    "hotel_name": "Vio Hotel Pasteur",
+    "review": 3.5,
+    "address": "Jl. Dr Jungjunan no. 154 Pasteur, Bandung 40163 Indonesia",
+    "prices": 369427,
+    "location": 3.7,
+    "cleanliness": 3.4,
+    "service": 3.3,
+    "value": 3.3
+  }
+]
