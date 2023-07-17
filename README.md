@@ -1,6 +1,7 @@
 <h1 align="center">
   Data Scraping and Data Storing from KKPK Catalogue Website
 </h1>
+<img src="Data Scraping\screenshot\logo.png">
 KKPK (Kecil-Kecil Punya Karya) merupakan pelopor media literasi bagi anak-anak yang sudah ada sejak tahun 2003. Dengan memanfaatkan ilmu dari perkuliahan Basis Data, katalog yang ada pada website KKPK akan diperoleh dengan metode Data Scraping. Data yang terkumpul akan disimpan dalam sebuah database sesuai dengan mata kuliah Basis Data yang sudah pernah dipelajari sebelumnya.
 
 ## Table of Contents
@@ -10,7 +11,7 @@ KKPK (Kecil-Kecil Punya Karya) merupakan pelopor media literasi bagi anak-anak y
 * [JSON Structure](#json-structure)
 * [Database Structure](#database-structure)
 * [Screenshots](#screenshot)
-* [Reference]
+* [Reference](#reference)
 * [Author](#author)
 
 ## Description of the data and DBMS
@@ -31,11 +32,11 @@ Data Storing akan dilakukan ke dalam DBMS [PostgreSQL](https://www.postgresql.or
 
 ## How to Run the Program
 1. Clone repository ini terlebih dahulu
-```
+```py
 > git clone https://github.com/cathlauretta/Seleksi-2023-Tugas-1.git
 ```
 2. Buka folder src yang ada di dalam folder Data Scraping, lalu install library yang diperlukan
-```
+```py
 > pip install -r library.txt
 ```
 
@@ -47,7 +48,7 @@ Data Storing akan dilakukan ke dalam DBMS [PostgreSQL](https://www.postgresql.or
 <img src="Data Scraping\screenshot\scraping2.png">
 
 4. Apabila file scraper sudah berhasil dijalankan, selanjutnya kita harus melakukan data storing ke dalam DBMS. Namun, sebelum menjalankan file ``storing.py`` kita harus membuat database bernama ``kkpk`` di dalam PostgreSQL. Di dalam terminal yang sama, jalankan perintah-perintah di bawah ini.
-```
+```bash
 > psql -U postgres
 Password : # Masukkan password kalian
 ```
@@ -55,15 +56,15 @@ Password : # Masukkan password kalian
 # CREATE DATABASE kkpk;
 ```
 
-5. Jika database ```kkpk``` sudah berhasil dibuat, kalian bisa keluar dari PostgreSQL dan menjalankan perintah berikut. 
-```
-py storing.py
+5. Jika database ```kkpk``` sudah berhasil dibuat, kalian bisa keluar dari PostgreSQL dan menjalankan perintah berikut. **Jangan lupa untuk mengubah nama username, database, dan password** di dalam file ``storing.py`` agar sesuai dengan milik kalian.
+```py
+> py storing.py
 ```
 <img src="Data Storing\screenshot\storing.png">
 
 6. Setelah melakukan data storing, database dapat di-export agar dapat digunakan untuk keperluan lain. SQL hasil export dapat disimpan di folder ```Data Storing\export```. Apabila sudah pindah folder, jalankan perintah berikut untuk melakukan export.
 ```bash
-pg_dump -U postgres -d > kkpkcatalogue.sql
+> pg_dump -U postgres -d > kkpkcatalogue.sql
 ```
 
 ## JSON Structure
