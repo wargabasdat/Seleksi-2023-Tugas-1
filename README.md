@@ -11,7 +11,12 @@ Terdapat 4 proses yang dilakukan dalam mengerjakan proyek ini. Pertama, saya har
 Untuk menggunakan database yang sudah dibuat, anda bisa mendownload file .sql di Data Storing/export. Setelah itu bisa gunakan tools sql favorit anda (kalau saya menggunakan MySQL), dengan menulis mysql -u root -p (database_anda) < realmadrid.sql. Anda juga bisa melihat dashboard Power BI yang saya sudah buat dengan mendownload file tersebut di folder Dashboard. Setelah itu, anda bisa melakukan eksplorasi tentang data statistik Real Madrid di tahun 2022-2023.
 
 ### Json Structure
-Record
+Json dengan tipe Record
+![Alt Text](Data%20Scraping/data/goal_log.png)
+![Alt Text](Data%20Scraping/data/madrid_fixtures.png)
+![Alt Text](Data%20Scraping/data/madrid_goalkeepers.png)
+![Alt Text](Data%20Scraping/data/madrid_players.png)
+![Alt Text](Data%20Scraping/data/wages.png)
 
 ### Database Structure
 #### ER Diagram
