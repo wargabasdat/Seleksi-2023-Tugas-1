@@ -19,7 +19,7 @@ Link for <a href="https://public.tableau.com/app/profile/ken.azizan/viz/SeleksiB
 
 ## Description of the Data and DBMS
 <p>
-  Kokoro Japan adalah e-commerce asalh Jepang yang diluncurkan pada tahun 2019. Banyak masyarakat yang sudah mengetahui produk yang berkualitas tinggi dari jepang namun sulit didapatkan pada negara tersebut dan jika ada harganya menjadi mahal .Oleh karena itu, Kokoro didirikan agar masyarakat di seluruh dunia dapat memiliki produk pengalaman berbelanja produk inovasi dan berkualitas tinggi dari negara Jepang dengan harga yang terjangkau. Kategori produk yang dijual diantaranya adalah produk kecantikan seperti skincare dan makeup, produk kesehatan seperti suplemen, dan makanan dan minuman.
+  Kokoro Japan adalah e-commerce asal Jepang yang diluncurkan pada tahun 2019. Banyak masyarakat yang sudah mengetahui produk yang berkualitas tinggi dari jepang namun sulit didapatkan pada negara tersebut dan jika ada harganya menjadi mahal .Oleh karena itu, Kokoro didirikan agar masyarakat di seluruh dunia dapat memiliki produk pengalaman berbelanja produk inovasi dan berkualitas tinggi dari negara Jepang dengan harga yang terjangkau. Kategori produk yang dijual diantaranya adalah produk kecantikan seperti skincare dan makeup, produk kesehatan seperti suplemen, makanan dan minuman.
 </p>
 <br>
 
@@ -29,12 +29,12 @@ Link for <a href="https://public.tableau.com/app/profile/ken.azizan/viz/SeleksiB
 <br>
 
 <p>
-  Saya memilih untuk melakukan Scrapping karena saya tertarik untuk melihat tren produk jepang  yang sedang disukai. Beserta untuk mengetahui produk-produk yang memiliki potongan harga yang besar. Serta Produk-produk memiliki rating yang tinggi dengan jumlah review yang banyak
+  Saya memilih untuk melakukan Scrapping kkokoro japan karena saya tertarik untuk melihat tren produk jepang  yang sedang disukai. Beserta untuk mengetahui produk-produk yang memiliki potongan harga yang besar. Serta Produk-produk memiliki rating yang tinggi dengan jumlah review yang banyak
 </p>
 
 ## Specification of the Program
 <p>
-  Pada proses data scraping saya menggunakan Jupyter-Lab Pada prosesnya saya menggunakan beberapa library diantaranya adalah BeautifulSoup, Selenium, chromedriver, dan Pandas. Untuk dapat mengakses website Kokoro Japan digunakan webchromedriver. Website kokoro japan adalah website dinamis maka Selenium harus digunakan untuk dapat mengambil seluruh data HTML dari website. Lalu dengan menggunkan beautifulSoup untuk melakukan scrape data yang dibutuhkan. Setelah itu dilakukan parsing,cleansing,dan transforming pada data yang telah didapatkan. Data tersebut dibuat menjadi JSON file dengan bantuan dataframe dari pandas.
+  Pada proses data scraping saya menggunakan Jupyter-Lab, pada prosesnya saya menggunakan beberapa library diantaranya adalah BeautifulSoup, Selenium, chromedriver, dan Pandas. Untuk dapat mengakses website Kokoro Japan digunakan webchromedriver. Website kokoro japan adalah website dinamis maka Selenium harus digunakan untuk dapat mengambil seluruh data HTML dari website. Lalu dengan menggunakan beautifulSoup untuk melakukan scrape data yang dibutuhkan. Setelah itu dilakukan parsing,cleansing,dan transforming pada data yang telah didapatkan. Data tersebut disimpan pada JSON file dengan bantuan dataframe dari pandas.
 
   Proses data storing dilakukan dengan membuat perancangan dan pengenmbangan database kokoro japan menggunakan Entity Relation Diagram(ERD). Setelah itu, ERD diagram ditranslasikan menjadi relational diagram untuk dapat diimplementasikan pada DBMS PostgreSQL. Data yang sudah didapatkan dari proses scraping dimasukan ke dalam database. File dump SQL dari database dapat ditemukan pada folder data storing, sub-folder export.
 </p>
