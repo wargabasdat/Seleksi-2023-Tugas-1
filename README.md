@@ -155,7 +155,7 @@ Entitas Tournament dan Team memiliki hubungan _many-to-many_ karena setiap turna
   <br>
   [Web Scraping with Python - Beautiful Soup Crash Course](https://www.youtube.com/watch?v=XVv6mJpFOb0)
 
-- Dokumentasi PostgreSQL
+- Dokumentasi DBMS
   <br>
   [Dokumentasi PostgreSQL](https://www.postgresql.org/docs/)
 
