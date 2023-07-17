@@ -1,101 +1,61 @@
-<h1 align="center">
-  <br>
-  Seleksi Warga Basdat 2023
-  <br>
-  <br>
-</h1>
-
 <h2 align="center">
   <br>
   Data Scraping, Database Modelling & Data Storing
+  I Dewa Made Manu Pradnyana / 18221047
   <br>
   <br>
 </h2>
 
+## Description of the data and DBMS
+Yu-Gi-Oh! adalah permainan kartu koleksi dan franchise multimedia yang populer yang berasal dari Jepang. Permainan ini dibuat oleh Kazuki Takahashi dan pertama kali diterbitkan sebagai seri manga pada tahun 1996. Franchise ini dengan cepat mendapatkan popularitas di seluruh dunia dan berkembang menjadi berbagai bentuk media, termasuk anime, permainan video, dan film. <br>
 
-## Spesifikasi
+Data yang diambil berasal dari https://www.db.yugioh-card.com/yugiohdb/card_list.action. Pada website tersebut, diambil data kartu dari boosterpack yang released pada rentang tahun 2018 - 2022. Saya memilih Yu-Gi-Oh! sebagai data yang diambil karena merupakan salah satu permainan favorit saya sejak kecil dan saya mengambil data dari website https://www.db.yugioh-card.com/yugiohdb/card_list.action karena pada website ini menampilkan data kartu yang cukup lengkap dari tahun ke tahun. <br>
 
-### Data Scraping
-
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
-
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
-
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
-
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
-
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
-
-### Database Modelling & Data Storing
-
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
-
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
-
-4. Tools yang digunakan __dibebaskan__ pada peserta.
-
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
+Saya memilih postgresql sebagai DBMS yang saya gunakan karena saya cukup familiar dengan DBMS tersebut serta memiliki kemampuan yang cukup baik dalam segi management database.<br>
 
 
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
+## Specification of the program
+Saya menggunakan python sebagai bahasa pemrograman serta menggunakan library tambahan seperti BeautifulSoup dan requests untuk scraping data dari website. Pertama - tama, saya melakukan request data terlebih dahulu untuk mendapatkan konten dari website tersebut menggunakan requests.get(url). Setelah itu, jika request berhasil dilakukan, akan dilakukan pengambilan data - data yang sekiranya memang dibutuhkan dengan menggunakan fungsi soup.get(). Setelah mendapatkan data, tidak lupa dilakukan preprocessing data agar format data yang diambil sesuai dengan yang diharapkan. Setelah itu, data - data tersebut akan disimpan ke dalam suatu list dan nantinya akan di-export dalam format json menggunakan library pandas. Data - data tersebut nantinya akan digunakan dalam membuat ER-Diagram dan translasi menjadi relational database.
 
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
+## How to use
+1. Download / clone repository terlebih dahulu
+2. Untuk melakukan scraping data, buka terminal terlebih dahulu pada directori ../Data Scraping/src kemudian ketik python web_scrapper.py pada terminal. Tunggu hingga beberapa saat kemudian dan json file akan secara otomatis tersimpan pada directori ../Data Scraping/data 
+3. Untuk menggunakan sql, buka DBMS yang ingin digunakan (disarankan menggunakan postgresql) dengan cara membuka terminal terlebih dahulu pada directori ../Data Storing/export kemudian ketik psql -U {username} dan ketik password, setelah itu buatlah database baru. Setelah itu log-out terlebih dahulu (ctrl+c) kemudian restore data ke database tersebut dengan ketik psql -U {username} -d {database_name} < {external_file_name}.sql . Setelah itu, lakukan log-in kembali dan database siap digunakan
 
-### Pengumpulan
+## JSON Structure
+saya menggunakan json dengan struktur array object dengan contoh :
+[
+  {
+    "Key 1": "Value",
+    "Key 2": "Value",
+    "Key 3": "Value",
+    ...
+    "Key X": "Value",
+  },
+  {
+    "Key 1": "Value",
+    "Key 2": "Value",
+    "Key 3": "Value",
+    ...
+    "Key X": "Value",
+  },
+  ...
+]
 
+## Database Structure (ERD and relational diagram)
+Dibawah ini merupakan ERD yang saya buat <br>
 
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
+Dibawah ini merupakan Relational diagram yang saya buat <br>
 
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
+## Explanation of ERD to relational diagram translation process
 
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
+## Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
 
+## Reference (Library used, etc)
+1. BeautifulSoup
+2. JSON
+3. Requests
+4. Pandas
 
-```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
-
-
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
-
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
-
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
-<br>
+## Author
+I Dewa Made Manu Pradnyana / 18221047 <br>
