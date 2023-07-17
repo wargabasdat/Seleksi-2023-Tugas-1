@@ -90,10 +90,10 @@ contoh isi JSON file
 ## Database Structure
 
 Berikut merupakan ERD dari database
-![erd_design]()
+![erd_design](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ERD_Kokoro.png)
 
 Berikut merupakan Relational diagram dari database
-![relational_diagram]()
+![relational_diagram](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/RD_Kokoro.png)
 
 ## Translasi ERD ke RDBMS
 Setiap strong entity pada ERD akan menjadi tabel tersendiri. dan setiap atribut pada entitas akan menjadi kolom pada tabel relasional. Entitas customer menjadi tabel customer, entitas product menjadi tabel product, entitas shopping_cart menjadi tabel shopping_cart, entitas voucher menjadi tabel voucher, dan entitas payment menjadi tabel payment.
