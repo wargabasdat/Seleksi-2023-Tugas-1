@@ -14,3 +14,8 @@ Tambahin .gitignore buat script DDL (dan file csv kalau mau)
 ## Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
 ## Reference (Library used, etc)
 ## Author
+
+# **ANALISIS OBJEK WISATA DI SUMATRA BARAT**
+---
+
+## Latar Belakang
