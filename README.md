@@ -4,3 +4,19 @@ Data yang saya pakai adalah data obat-obatan dari go.drugbank.com. Pada website 
 ## Spesifikasi Program
 ![ss](ssprogram1.png)
 Program yang saya buat diharapkan dapat melakukan web scraping tanpa API dengan user memasukkan page + 1 pada iterasi. Selanjutnya program akan mengscraping website yang dituju sebanyak page yang dimasukkan.
+
+## How to Use
+- Install library requests dan beautifulsoup4 dengan : (cmd -> pip install requests & pip install beautifulsoup4)
+[ss program]
+''''
+''''
+```
+pip install requests
+```
+```
+pip install beautifulsoup4
+```
+- Masukkan URL yang akan discrap pada url: (masukkan tanpa page jika terdapat pagination)
+- Masukkan jumlah page yang akan discrap pada iterasi
+- Jalankan program, maka program akan mulai scraping yang ditandai dengan output sebagai berikut
+- Setelah program selesai berjalan maka di file yang sama akan ada file .json yang berisi data hasil scraping
