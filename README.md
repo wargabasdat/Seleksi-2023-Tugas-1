@@ -21,9 +21,27 @@ Pada project ini, _scraping_ dilakukan terhadap _website_ [webometrics](https://
 ### DBMS
 Pada project ini, data-data hasil scraping diolah dan disimpan pada database sql dengan menggunakan DBMS PostgreSQL. DBMS PostgreSQL ini dipilih karena mudah untuk digunakan dan mudah pula untuk menemukan dokumentasinya apabila menemukan hambatan. 
 
+
 ## Specification of the program
 ### Data scraping
-Proses data _scraping_ yang dilakukan pada project ini melalui beberapa tahapan pre-processing seperti parsing data dari website (HTML), transformasi, dan juga _data cleaning_. Sebelum dilakukan _scraping_, telah dilakukan pengecekan terlebih dahulu mengenai _robots.txt_ dari _webiste_. Selain itu, pada proses _scraping_, telah ditambahkan header sebagai identitas untuk memenuhi etika dari melakukan _scraping_. Pada proses _cleaning_, telah dilakukan beberapa pengecekan untuk memastikan data yang tersedia sudah clear. Beberapa pengecekan yang dilakukan antara lain mengenai ada atau tidaknya nama universitas yang berulang, ada atau tidaknya ranking ASEAN maupun world yang diduduki oleh lebih dari satu universitas, dan ada atau tidaknya data null. 
+Proses data _scraping_ yang dilakukan pada project ini melalui beberapa tahapan pre-processing seperti parsing data dari website (HTML), transformasi, dan juga _data cleaning_. Sebelum dilakukan _scraping_, telah dilakukan pengecekan terlebih dahulu mengenai _robots.txt_ dari _webiste_. Selain itu, pada proses _scraping_, telah ditambahkan header sebagai identitas untuk memenuhi etika dari melakukan _scraping_. 
+<div align="center">
+<img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/add_header.png" alt="penambahan header" width="500">
+</div>
+
+Pada proses _cleaning_ telah dilakukan beberapa pengecekan untuk memastikan data yang tersedia sudah _clear_. Beberapa pengecekan yang dilakukan antara lain mengenai ada atau tidaknya nama universitas yang berulang, ada atau tidaknya ranking ASEAN maupun _world_ yang diduduki oleh lebih dari satu universitas, dan ada atau tidaknya data _null_. Selain itu, telah dilakukan _formattiing_ pula pada nama universitas agar hanya terdapat satu nama universitas (tanpa nama lain yang pada awalnya tertulis menggunakan "/") karena dianggap akan menyulitkan untuk diolah pada _database_.
+
+<div align="center">
+  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/cleaning1.png" alt="cleaning 1" width="450"/>
+  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/cleaning2.png" alt="cleaning 2" width="450"/>
+</div>
+<div align="center">
+  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/formatting.png" alt="cleaning 1" width="450"/>
+</div>
+<div align="center">
+  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/sebelum_formatting.png" alt="cleaning 1" width="450"/>
+  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/setelah_formatting.png" alt="cleaning 1" width="450"/>
+</div>
 ## How to use
 
 ## JSON Structure
