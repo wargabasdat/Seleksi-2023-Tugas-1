@@ -1,101 +1,77 @@
-<h1 align="center">
-  <br>
-  Seleksi Warga Basdat 2023
-  <br>
-  <br>
-</h1>
-
-<h2 align="center">
-  <br>
-  Data Scraping, Database Modelling & Data Storing
-  <br>
-  <br>
-</h2>
+### Deskripsi Data
+<p style="text-align: justify;">
+Dalam proyek ini, saya tertarik untuk menganalisis performa tim sepak bola Real Madrid di musim 2022-2023. Untuk melakukannya, saya menggunakan data yang diambil dari website fbref.com/en/squads/53a2f082/Real-Madrid-Stats. Saya memilih situs ini karena menyediakan berbagai tabel statistik yang relevan, termasuk data pemain, pertandingan, catatan gol, dan gaji pemain. Dengan melakukan proses web scraping, preprocessing datanya, serta pemodelan data, saya pun berhasil membuat database relational tentang Real Madrid. Saya ingin melihat gambaran yang lebih lengkap tentang performa Real Madrid di musim lalu dan mungkin menemukan insight menarik dari pemain-pemainnya. Proyek ini tidak hanya memadukan minat pribadi saya dalam sepak bola, tetapi juga keterampilan Basis Data yang telah saya pelajari. DBMS yang saya gunakan adalah MySQL karena MySQL salah satu DBMS yang paling banyak digunakan sehingga mudah untuk mencari dokumentasi atau mencari solusi ketika ada masalah. MySQL juga lebih cepat dan lebih efisien dibandingkan DBMS lainnya. Terakhir, MySQL menawarkan security yang aman dalam mengelola database.</p>
 
 
-## Spesifikasi
+### Spesifikasi Program
+<p style="text-align: justify;">
+Terdapat 4 proses yang dilakukan dalam mengerjakan proyek ini. Pertama, saya harus melakukan web scraping untuk mendapatkan data yang dibutuhkan. Caranya saya cukup menggunakan fungsi Request beserta read_html untuk membaca tabel tersebut. Setelah itu, datanya harus saya preprocess sehingga datanya dapat lebih mudah untuk dianalisis. Selanjutnya, saya perlu melakukan pemodelan dengan denormalisasi dan normalisasi data tersebut ke berbagai tabel sesuai dengan design relation model. Terakhir, saya perlu visualisasikan data tersebut dalam bentuk dashboard. Visualisasi tersebut saya menggunakan tools Power BI karena tool ini dapat dengan mudah mengintegrasikan data source SQL. Dengan tool ini, kita hanya perlu melakukan drag and drop atribut yang ingin divisualisikan tanpa melakukan join antar tabel, hal ini disebabkan kita sudah melakukan pemodelan dengan menghubungkan Foreign Key dengan Primary Key ke setial tabel.</p>
 
-### Data Scraping
+### How to use
+Untuk menggunakan database yang sudah dibuat, anda bisa mendownload file .sql di Data Storing/export. Setelah itu bisa gunakan tools sql favorit anda (kalau saya menggunakan MySQL), dengan menulis mysql -u root -p (database_anda) < realmadrid.sql. Anda juga bisa melihat dashboard Power BI yang saya sudah buat dengan mendownload file tersebut di folder Dashboard. Setelah itu, anda bisa melakukan eksplorasi tentang data statistik Real Madrid di tahun 2022-2023.
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
+### Json Structure
+Json dengan tipe Record
+![Alt Text](Data%20Scraping/data/goal_log.png)
+![Alt Text](Data%20Scraping/data/madrid_fixtures.png)
+![Alt Text](Data%20Scraping/data/madrid_goalkeepers.png)
+![Alt Text](Data%20Scraping/data/madrid_players.png)
+![Alt Text](Data%20Scraping/data/wages.png)
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
-
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
-
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
-
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
-
-### Database Modelling & Data Storing
-
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
-
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
-
-4. Tools yang digunakan __dibebaskan__ pada peserta.
-
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
-
-
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
-
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
-
-### Pengumpulan
-
-
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
-
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
-
-
-```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
-
-
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
-
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
-
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
+### Database Structure
+#### ER Diagram
+![Alt Text](Data%20Storing/design/ER%20Diagram.png)
+#### Relational Model
+![Alt Text](Data%20Storing/design/Relational%20Model.png)
+<p style="text-align: justify;">
+Pada ER Diagram terdapat 9 entity, dengan 8 strong entity dan 1 weak entity (match_goal_logs). Entity match_goal_logs dapat dikatakan weak entity karena bergantung pada entity matches untuk membuat tiap rownya unik. Entity ini bergantung pada primary key matches (MatchID), serta diskriminator GoalOrder untuk mendefinisikan tiap row unik. Selain itu, terdapat juga specialization pada entity player_basic menjadi player_performance dan goalkeeper_performance secara disjoint. Cara spesialisasinya berada pada atribut Position, apabila Position 'GK' maka akan ke goalkeeper_performance, selain itu akan ke player_performance.  Terdapat juga composite attribute (Address), serta derived attribute (GoalAssist). Derived attribute tersebut didapat dari penjumlah atribut Goals dan Assist. Terakhir, saya juga perlu menentukan hubungan antar entity seperti apakah total participation/partial participation serta one/many relationship. Sebagai contohnya hubungan antara matches dan stadium, sudah jelas bahwa setiap matches pasti terdapat 1 stadium (total participation dan many to one), serta setiap stadium pasti dipakai oleh beberapa matches(partial participation dan many to many). 
+Pada Relational Model, semua reational juga sudah termasuk pada form BCNF kecuali relation stadium. Relation BCNF merupakan relation yang semua non primary keynya bergantung penuh ke primary key. Hal ini yang tidak dimiliki relation stadium karena atribut Country bergantung pada City yang bukan merupakan primary key.
 </p>
-<br>
+
+### ERD to Relational Model
+<p style="text-align: justify;">
+Terdapat hal hal yang menarik saat mengubah dari ER Diagram ke Relation Model. Untuk entity yang terdapat specialization, saya memutuskan untuk menggunakan method 1 karena saya tidak mau agar atribut basic seperti Nation, Age, dan Position menjadi redundant. Walaupun dengan memilih method ini, saya jadinya harus mengakses 2 relasi untuk mendapat data tersebut. Selain itu, pada weak entity juga saya harus menambahkan primary key matches yaitu MatchID. Dengan begini, relation ini dapat terjaga keunikannya. Terakhir, saya juga perlu menghubungkan antara foreign key dan primary key yang sesuai. 
+</p>
+
+### Screenshot
+#### Data Scraping 
+![Alt Text](Data%20Scraping/screenshot/goal_log.png)
+![Alt Text](Data%20Scraping/screenshot/goalkeeper_performance.png)
+![Alt Text](Data%20Scraping/screenshot/madrid_fixtures.png)
+![Alt Text](Data%20Scraping/screenshot/player_performance.png)
+![Alt Text](Data%20Scraping/screenshot/wages.png)
+#### Data Storing
+![Alt Text](Data%20Storing/screenshot/all%20tables.png)
+![Alt Text](Data%20Storing/screenshot/goalkeeper_performance.png)
+![Alt Text](Data%20Storing/screenshot/match_goal_logs.png)
+![Alt Text](Data%20Storing/screenshot/matches.png)
+![Alt Text](Data%20Storing/screenshot/player_basic.png)
+![Alt Text](Data%20Storing/screenshot/player_performance.png)
+![Alt Text](Data%20Storing/screenshot/player_playingtime.png)
+![Alt Text](Data%20Storing/screenshot/player_wage.png)
+
+### Reference
+Saya mengambil data dari website fbref.com/en/squads/53a2f082/Real-Madrid-Stats. Selain itu juga saya menggunakan beberapa libary seperti :
+- pandas untuk preprocessing menggunakan dataframe
+- sklearn untuk mengkodekan RefereeID menggunakan OrdinalLabel
+- PIL untuk menampilkan gambar
+- pycountry untuk mengubah kode negara ke nama negara
+- re untuk menggunakan regular expression
+- mysql.connector untuk store data ke mysql table
+  
+Tools
+- Jupyter Notebook
+- MySQL
+- Power BI
+
+### Dashboard
+#### Model in Power BI
+![Alt Text](Dashboard/Model%20PowerBI.png)
+
+https://github.com/DamianMarvel7/TUGAS_SELEKSI_1_18221164/assets/110451781/5f8e3146-2bde-4e51-9f92-fafcf9cdfc6a
+
+Berdasarkan dashboard yang sudah dibuat, bisa dilihat data statistik pemain Real Madrid di halaman pertama. Bisa dilihat bahwa Karim Benzema merupakan pencetak gol terbanyak, diikuti dengan Vinicius Junior, Rodrygo, dan Marco Asensio. Selain menjadi pencetak gol kedua terbanyak, Vinicius Junior juga merupakan pemain yang memiliki total menit bermain terbnayak dibandingkan yang lain. Pemain Real Madrid juga berasal dari berbagai negara, dengan negara paling banyak yaitu Spanyol, Brazil, dan Perancis. Di halaman kedua, kita dapat melihat visualisasi bagaimana keberjalanan Real Madrid di tahun 2022-2023. Pada awal musim, Real Madrid tampil sangat perkasa dengan presentase loss yang sangat sedikit. Namun menjelang musim berakhir, Real Madrid kelihatan kehilangan fokus dengan mengalami kekalahan secara berenter.
+
+
+### Author
+Damian Marvel/ 18221164
