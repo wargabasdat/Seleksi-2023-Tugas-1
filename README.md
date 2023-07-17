@@ -92,7 +92,18 @@ contoh isi JSON file
 
 Berikut merupakan ERD dari database
 ![erd_design](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ERD_Kokoro.png)
+<p>
+  Database ini dibuat berdasarkan data produk hasil dari proses scraping sebelumnya. Produk menjadi entity tersendiri dan memiliki atribut hasil dari data scraping. Atributnya diantaranya adalah product_name, status, normal_price, sale_price, ratings, dan count_reviews. Dari entity product itu saya mengembangkan sebuah database berdasarkan website kokoro japan. Saya menambahkan entity customer sebagai pengguna dari website. entity shopping cart juga saya tambahkan untuk customer berbelanja produk yang. Entity voucher juga ditambahkan untuk mendapatkan potongan harga. Terdapat juga entity payment untuk melakukan pembayaran.
 
+  Berikut relation antar entity beserta alasannya
+1. Customer dengan shopping_cart memiliki relasi one-to-many dan total pada shopping cart. Hal ini dikarenakan, setiap customer dapat boleh memliki banyak shopping_cart tetapi shopping cart hanya boleh dimiliki oleh satu customer saja dan shopping_cart pasti dimiliki oleh customer.
+2. Customer dengan voucher memiliki relasi one-to-many dengan keduanya parsial. Customer boleh memiliki lebih dari satu voucher namun voucher hanya boleh dimiliki satu customer. Tidak semua customer memiliki voucher dan voucher juga tidak harus dimiliki voucher.
+3. Shopping_cart memiliki relasi many-to-many. shopping_cart dapat memiliki banyak produk dan produk dapat berada pada dibanyak shopping_cart. Pada relasi ini juga diperlukan kuantitas antara produk pada suatu shopping sehingga terdapat atribut relasi yang disebut entity.
+4. Shopping_cart mempunyai relasi one-to-one dengan payment karena pada satu transaksi pembayaran hanya bisa untuk membayar satu shopping cart
+5. Relasi antara voucher dengan payment juga one-to-one karena pada satu pembayaran hanya boleh menggunaka satu buah voucher. Untuk voucher yang sama potongan harga bisa didapatkan berbeda jika transaksi pembayarannya berbeda. Oleh karena itu, diperluka atribut relasi yaitu price_off
+6. Pada relasi pembayaran terdapat dua cara untuk membayar yaitu paypal dan kartu kredit. Kedua jenis pembayaran tersebut memiliki atribut yang berbeda. Sehingga diperlukan spesialization dengan payment sebagai high-level entity dengan paypal dan credit_card sebagai low-level entity. Pembayaran hanya dapat dilakukan menggunakan paypal atau credit card sehingga pada payment relasi menjadi total. Customer hanya boleh menggunakan satu jenis pembayaran sehingga perlu diberikan keterangan disjoint.
+</p>
+<br>
 Berikut merupakan Relational diagram dari database
 ![relational_diagram](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/RD_Kokoro.png)
 
@@ -102,13 +113,13 @@ Setiap strong entity pada ERD akan menjadi tabel tersendiri. dan setiap atribut 
 1. Pada entitas customer terdapat phone_number yang merupakan multivalue atribut. Oleh karena itu, dibuat tabel customer_phone yang memiliki kolom id_customer dan phone atribut. id_customer menjadi primary key dan sekaligus sebagai foreign key  yang reference pada kolom id_customer pada tabel customer
 ![translate1](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/translate1.png)
 
-2. relasi antara customer dengan shopping_cart adalah one-to-many dan many berada pada shopping cart. Sehingga pada tabel shoping cart akan ditambah atribut primary key dari tabel customer yaitu id_customer
+2. relasi antara customer dengan shopping_cart adalah one-to-many dan total berada pada shopping cart. Sehingga pada tabel shoping cart akan ditambah atribut primary key dari tabel customer yaitu id_customer
 ![translate2](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/translate2.png)
 
-3. Relasi antara shopping_cart dengan produk adalah many-to-many sehinga diperlukan tabel baru yang dinamakan fill_up dengan berisikan primary key dari kedua tabel yaitu id_shopping_cart dan id_product. pada relasi tersebut juga terdapat atribut pada relasi, atribut tersebut akan dimasukan ke dalam tabel fill_up.
+3. Relasi antara shopping_cart dengan produk adalah many-to-many sehinga diperlukan tabel baru yang dinamakan fill_up dengan berisikan primary key dari kedua tabel yaitu id_shopping_cart dan id_product. pada relasi tersebut juga terdapat atribut relasi, atribut tersebut akan dimasukan ke dalam tabel fill_up.
 ![translate3](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/translate3.png)
 
-4. Relasi antara voucher dengan customer adalah mmany-to-one dan kedua bagiannya relasi parsial. Bagian many terdapat pada voucher sehingga pada tabel voucher ditambahkan primary key dari tabel customer yaitu id customer
+4. Relasi antara voucher dengan customer adalah mmany-to-one dan kedua bagiannya relasi parsial. Bagian many terdapat pada voucher sehingga pada tabel voucher ditambahkan primary key dari tabel customer yaitu id_customer
 ![translate4](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/translate4.png)
 
 5. Relasi antara shopping_cart dengan payment adalah one-to-one sehingga dapat dapat memilih tabel yang mana yang akan mendapatkan atribut tambahan yang berupa primary key dari tabel lainnya. Saya memilih untuk menambahkan id_shopping_cart pada tabel payment.
