@@ -67,7 +67,8 @@ pip install json
 ```
 cd /file_path
 ```
-     lalu  
+ lalu 
+ 
 ```
 python store.py 
 ```
