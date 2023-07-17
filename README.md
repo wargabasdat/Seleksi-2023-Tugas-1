@@ -93,7 +93,7 @@ Berikut merupakan ERD dari database
 ![erd_design](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ERD_kokoro_japan.png)
 
 Berikut merupakan Relational diagram dari database
-![relational_diagram](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Relational%20Diagram_kokoro_japan.png)
+![relational_diagram]()
 
 ## Translasi ERD ke RDBMS
 Setiap strong entity pada ERD akan menjadi tabel tersendiri. dan setiap atribut pada entitas akan menjadi kolom pada tabel relasional. Entitas customer menjadi tabel customer, entitas product menjadi tabel product, entitas shopping_cart menjadi tabel shopping_cart, entitas voucher menjadi tabel voucher, dan entitas payment menjadi tabel payment.
@@ -119,8 +119,29 @@ Setiap strong entity pada ERD akan menjadi tabel tersendiri. dan setiap atribut 
 7. Pada tabel payment terdapat specialization dari payment_method diantaranya terdapat credit_card dan paypal yang memiliki atribut tambahan tersendiri. Oleh karena dibuat tabel untuk lower-level entity masing-masing, tabel itu diisi dengan primary key dari higher-level entity yaitu id_payment dan atribut lokalnya masing-masing.
 ![translate7](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/translate7.png)
 
-Berikut tabel hasil translasi ERD
-note : <u>underline</u> for primary key, *italic* for foreign key
+Berikut Schema hasil translasi ERD
+note : **bold** untuk primary key, *italic* untuk foreign key
+product(**id_product**,product_name,status,normal_price,sale_price,rating, count_reviews)
+customer(**id_customer**,first_name,last_name, email, password,country, state, city, address, post_code)
+customer_phone(**id_customer**,phone_number)
+shopping_cart(**id_shopping_cart**,id_customer,note,cart_status,date)
+fill_up(**id_shopping_cart**,**id_product**,quantity)
+voucher(**id_voucher**, voucher_name,voucher_exp,*id_customer*)
+payment(**id_payment**,*id_shopping_cart*,*id_customer*,total_amaount,price_off,payment_method,payment_date,payment_status)
+paypal(**id_payment**,paypal_number)
+credit_card(**id_payment**,card_number,name_on_card,exp_date)
+
+foreign  key:
+customer_phone(*id_customer*) -> customer(**id_customer**)
+shopping_cart(*id_customer*) -> customer(**id_customer**)
+voucher(*id_customer*) -> customer(**id_customer**)
+fill_up(*id_product*) -> product(**id_product**)
+fill_up(*id_shopping_cart*) -> shopping_cart(**id_shopping_cart**)
+payment(*id_shopping_cart*) -> shopping_cart(**id_shopping_cart**)
+payment(*id_voucher*) -> voucher(**id_voucher**)
+paypal(*id_payment*) -> payment(**id_payment**)
+credit card(*id_payment*) -> payment(**id_payment**)
+
 
 ## Screenshots of the program
 ### Data scraping
@@ -173,4 +194,4 @@ note : <u>underline</u> for primary key, *italic* for foreign key
 - time
 
 ## Author
-Ken Azizan - 18221107
+### Ken Azizan - 18221107
