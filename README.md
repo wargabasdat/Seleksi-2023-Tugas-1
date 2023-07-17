@@ -1,101 +1,119 @@
 <h1 align="center">
-  <br>
-  Seleksi Warga Basdat 2023
-  <br>
-  <br>
+  Data Scraping and Data Storing from KKPK Catalogue Website
 </h1>
+KKPK (Kecil-Kecil Punya Karya) merupakan pelopor media literasi bagi anak-anak yang sudah ada sejak tahun 2003. Dengan memanfaatkan ilmu dari perkuliahan Basis Data, katalog yang ada pada website KKPK akan diperoleh dengan metode Data Scraping. Data yang terkumpul akan disimpan dalam sebuah database sesuai dengan mata kuliah Basis Data yang sudah pernah dipelajari sebelumnya.
 
-<h2 align="center">
-  <br>
-  Data Scraping, Database Modelling & Data Storing
-  <br>
-  <br>
-</h2>
+## Table of Contents
+* [Description of the data and DBMS](#description-of-the-data-and-dbms)
+* [Specification of the program](#specification-of-the-program)
+* [How to Run the Program](#how-to-run-the-program)
+* [JSON Structure](#json-structure)
+* [Database Structure](#database-structure)
+* [Screenshots](#screenshot)
+* [Reference]
+* [Author](#author)
 
+## Description of the data and DBMS
+Data yang digunakan akan diambil dari website [katalog KKPK](https://kecilkecilpunyakarya.com/shop/), dimana di dalam web tersebut tersimpan informasi seperti judul buku KKPK, genre buku KKPK, dan harga. Pengguna juga dapat melihat informasi mengenai pengarang buku, ISBN, serta sinopsis dari setiap produk buku yang tersedia di katalog.
 
-## Spesifikasi
+Data yang sudah diperoleh akan disimpan dalam DBMS PostgreSQL. PostgreSQL memiliki fleksibilitas dan fitur yang lebih banyak, juga memiliki sistem database relasional dan bersifat open-source.
 
-### Data Scraping
+## Specification of the program
+Data Scraping akan dilakukan menggunakan bahasa [Python](https://www.python.org/downloads/), dengan beberapa library seperti :
+- BeautifulSoup
+- requests
+- os
+- pandas
+- json
+- psycopg2
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
+Data Storing akan dilakukan ke dalam DBMS [PostgreSQL](https://www.postgresql.org/download/) yang instalasinya dapat kalian ikuti melalui [panduan berikut](https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql/).
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
-
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
-
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
-
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
+## How to Run the Program
+1. Clone repository ini terlebih dahulu
 ```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
+> git clone https://github.com/cathlauretta/Seleksi-2023-Tugas-1.git
 ```
-
-### Database Modelling & Data Storing
-
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
-
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
-
-4. Tools yang digunakan __dibebaskan__ pada peserta.
-
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
-
-
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
-
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
-
-### Pengumpulan
-
-
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
-
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
-
-
+2. Buka folder src yang ada di dalam folder Data Scraping, lalu install library yang diperlukan
 ```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
+> pip install -r library.txt
 ```
 
+3. Dalam path yang sama, jalankan file ``scraper.py``
+```py
+> py scraper.py
+```
+<img src="Data Scraping\screenshot\scraping1.png">
+<img src="Data Scraping\screenshot\scraping2.png">
 
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
+4. Apabila file scraper sudah berhasil dijalankan, selanjutnya kita harus melakukan data storing ke dalam DBMS. Namun, sebelum menjalankan file ``storing.py`` kita harus membuat database bernama ``kkpk`` di dalam PostgreSQL. Di dalam terminal yang sama, jalankan perintah-perintah di bawah ini.
+```
+> psql -U postgres
+Password : # Masukkan password kalian
+```
+```sql
+# CREATE DATABASE kkpk;
+```
 
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
+5. Jika database ```kkpk``` sudah berhasil dibuat, kalian bisa keluar dari PostgreSQL dan menjalankan perintah berikut. 
+```
+py storing.py
+```
+<img src="Data Storing\screenshot\storing.png">
 
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
-<br>
+6. Setelah melakukan data storing, database dapat di-export agar dapat digunakan untuk keperluan lain. SQL hasil export dapat disimpan di folder ```Data Storing\export```. Apabila sudah pindah folder, jalankan perintah berikut untuk melakukan export.
+```bash
+pg_dump -U postgres -d > kkpkcatalogue.sql
+```
+
+## JSON Structure
+Terdapat 3 file JSON yang digunakan untuk menyimpan hasil scraping, yaitu :
+1. ``book_details.json``
+```json
+{
+  "Book ID" : ID Buku KKPK,
+  "Book Title" : Judul Buku KKPK,
+  "Price" : Harga Buku KKPK,
+  "ISBN" : ISBN Buku
+}
+```
+
+2. ``book_author.json``
+```json
+{
+  "Book ID" : ID Buku KKPK,
+  "Author" : Pengarang Buku KKPK
+}
+```
+
+3. ``book_genre.json``
+```json
+{
+  "Book ID" : ID Buku KKPK,
+  "Genre" : Genre Buku KKPK
+}
+```
+
+## Database Structure
+Berikut merupakan gambar _Entity-Relationship Diagram_ beserta _Relational Model_-nya
+<img src="Data Storing\design\erd-relational.png">
+Informasi yang diperoleh dari hasil scraping disusun menjadi atribut-atribut yang ada pada ER Diagram sebelah kiri. Pada website yang digunakan, tidak semua produk buku memiliki informasi mengenai pengarang dan isbn sehingga di dalam DBMS atribut tersebut bisa saja bernilai NULL. Karena terdapat beberapa buku yang dikarang oleh satu dan lebih pengarang, juga ada buku yang memiliki genre lebih dari satu, maka author dan genre dibuat multivalue sehingga transformasi ER Diagram menjadi seperti di gambar bagian sebelah kanan.
+
+## Screenshot
+Berikut merupakan daftar relasi yang terdapat dalam database serta deskripsi _field_ pada relasi
+<img src="Data Storing\screenshot\relations.png"> 
+<img src="Data Storing\screenshot\book_information.png">
+<img src="Data Storing\screenshot\book_author.png">
+<img src="Data Storing\screenshot\book_genre.png">
+
+## Reference
+- [Web Scraping Python using BeautifulSoup](https://www.youtube.com/watch?v=C5AOZZWxvIY)
+- [Pandas Dataframe To JSON](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_json.html)
+- [PostgreSQL CRUD Operation from Python](https://www.geeksforgeeks.org/perform-postgresql-crud-operations-from-python/)
+
+## Author
+| Name | NIM | Program Studi |
+|-----|-----|-----|
+| Cathleen Lauretta | 18221157 | Sistem dan Teknologi Informasi |
+
+Institut Teknologi Bandung 

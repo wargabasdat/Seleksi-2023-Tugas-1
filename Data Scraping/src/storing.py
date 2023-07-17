@@ -4,10 +4,13 @@ import os
 
 dir = os.getcwd()
 
-# connect to the database
+# Connect to the database and don't forget to change the user and password based on your own
 conn = psycopg2.connect(host="localhost", database="kkpk", user="postgres", password="12345678")
+
+# Create a cursor to perform database operations
 cursor = conn.cursor()
 
+# Function to create tables
 def createTable() :
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS book_information (
@@ -40,6 +43,7 @@ def createTable() :
                     """)
     print("Table book_author created successfully")
 
+# Functions to insert data into the table
 def insertBookInformation() :
     data_path = dir[:-3] + 'data\\book_details.json'
     with open(data_path) as file :
