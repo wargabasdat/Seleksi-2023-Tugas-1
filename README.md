@@ -93,6 +93,37 @@ There are two JSON files in this repository, one of them represents the structur
 For the full specific step-by-step of ERD to Relational translation process, you can [READ THIS DOC](https://docs.google.com/document/d/108qe9kLSCpudUiD8j0Pmmf38SbYldvXmvZrPH0l88D4/edit)
 
 In summary : 
-1. 
+1. The strong entity will be changed to a relation
+2. The weak entity will be changed to a relation with its discriminator and its strong entity's primary key as the primary key
+3. The entity with _**one to many**_ relationship will have foreign key inside of the relation that will refer to the _**many**_ entity
+4. Specialization: each specialization will be turned into its own relation but only containing the new attribute and its parent entity primary key that will refer to its parent relation
 
+Since the ERD doesn't have _**many to many**_ and _**one to one**_ relationships, the process of translating those relationship types won't be explained
 ### Screenshots
+* Function to get data from page to page
+  ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/20ff5d05-6d7f-4edd-867a-5f666e1ad9a4)
+* Saving scraped data to an array of dictionary
+  ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/b5a1c91f-597d-449a-a551-c2cd4e01b0c1)
+* Saving data to JSON structure
+  ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/e06c8172-21cf-4610-af2d-dde043d6227a)
+* Making new data structure for processed data
+  ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/2ab899f1-4f91-4870-8013-e8c53640a088)
+* Processing the scraped data
+  ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/5c6f9c88-bd6d-4c88-a633-802aebe1eebe)
+  ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/e635f0ac-d417-4a1c-999a-22d2bf3e7be4)
+  ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/e7557612-ab50-4286-8b5b-ab20f47a8609)
+* Data storing in PostgreSQL
+  Apartment table
+  ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/81f9d2a6-5dfa-4362-a52a-73d3605e45b0)
+  Room table
+  ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/b5af3840-a477-4bd2-8c69-803e14f5912b)
+* Database tables
+  ![image](https://github.com/MarcelRyan/Seleksi-2023-Tugas-1/assets/88817627/3e663b03-8659-4a4a-92fa-e27f224e7056)
+
+
+
+
+
+
+
+
