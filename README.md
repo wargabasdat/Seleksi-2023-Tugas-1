@@ -67,7 +67,7 @@ pip install json
 ```
 cd /file_path
 ```
-   lalu
+<p> lalu  </p>
 ```
 python store.py 
 ```
@@ -203,13 +203,13 @@ foreign  key:
 ### Data Storing
 
 * Berikut merupakan kode yang digunakan untuk membuat database beserta tabel dan constraint juga insert data pada tabel product menggunakan python
-![code1]()
-![code2]()
-![code3]()
-![code4]()
+![code1](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/code1.jpg)
+![code2](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/code2.jpg)
+![code3](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/code3.jpg)
+![code4](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/terminal.jpg)
 
 * berikut output terminal
-![terminal]()
+![terminal](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/terminal.jpg)
 
 * Berikut tabel yang ada pada database
 ![tabel](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/table.jpg)
