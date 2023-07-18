@@ -1,0 +1,84 @@
+## Steps on how to import the JSON files into PostgreSQL
+## Copy and paste lines after every '##'
+
+## Convert the JSON files into a NDJSON file using jq (a JSON to NDJSON converter)
+## How to install jq can be looked up on Google
+## Make sure to run the lines inside of the 'data' path terminal
+jq -c '.[]' products.json > products.ndjson
+jq -c '.[]' products_colors.json > products_colors.ndjson
+jq -c '.[]' products_sizes.json > products_sizes.ndjson
+jq -c '.[]' categories.json > categories.ndjson
+jq -c '.[]' subcategories.json > subcategories.ndjson
+
+## Creating the database to store the tables
+CREATE DATABASE uniqlo;
+
+## Moving to the new database
+\c uniqlo
+
+## Creating the tables for the database with its restrictions
+CREATE TABLE categories (
+    category_id INTEGER NOT NULL,
+    category VARCHAR(25),
+    PRIMARY KEY (category_id)
+);
+
+CREATE TABLE subcategories (
+    subcategory_id INTEGER NOT NULL,
+    subcategory VARCHAR(45),
+    PRIMARY KEY (subcategory_id)
+);
+
+CREATE TABLE products (
+    product_id INTEGER NOT NULL,
+    name TEXT NOT NULL,
+    price INTEGER NOT NULL,
+    description TEXT,
+    rating NUMERIC,
+    review_count INTEGER,
+    category_id INTEGER NOT NULL,
+    subcategory_id INTEGER NOT NULL,
+    PRIMARY KEY (product_id),
+    FOREIGN KEY (category_id) REFERENCES categories (category_id),
+    FOREIGN KEY (subcategory_id) REFERENCES subcategories (subcategory_id)
+);
+
+CREATE TABLE products_colors (
+    product_id INTEGER NOT NULL,
+    color VARCHAR(15),
+    PRIMARY KEY (product_id, color),
+    FOREIGN KEY (product_id) REFERENCES products (product_id)
+);
+
+CREATE TABLE products_sizes (
+    product_id INTEGER NOT NULL,
+    size VARCHAR(15),
+    PRIMARY KEY (product_id, size),
+    FOREIGN KEY (product_id) REFERENCES products (product_id)
+);
+
+## Importing the data into the table from the NDJSON file
+CREATE TABLE temp (data jsonb);
+\COPY temp (data) FROM '/Users/justin/Library/CloudStorage/OneDrive-InstitutTeknologiBandung/vscode/Python/Data Scraping/data/categories.ndjson';
+INSERT INTO categories SELECT (data->>'category_id')::integer, data->>'category' FROM temp;
+DROP TABLE temp;
+
+CREATE TABLE temp (data jsonb);
+\COPY temp (data) FROM '/Users/justin/Library/CloudStorage/OneDrive-InstitutTeknologiBandung/vscode/Python/Data Scraping/data/subcategories.ndjson';
+INSERT INTO subcategories SELECT (data->>'subcategory_id')::integer, data->>'subcategory' FROM temp;
+DROP TABLE temp;
+
+CREATE TABLE temp (data jsonb);
+\COPY temp (data) FROM '/Users/justin/Library/CloudStorage/OneDrive-InstitutTeknologiBandung/vscode/Python/Data Scraping/data/products.ndjson';
+INSERT INTO products SELECT (data->>'product_id')::integer, data->>'name', (data->>'price')::integer, data->>'description', (data->>'rating')::numeric, (data->>'review_count')::integer, (data->>'category_id')::integer, (data->>'subcategory_id')::integer FROM temp;
+DROP TABLE temp;
+
+CREATE TABLE temp (data jsonb);
+\COPY temp (data) FROM '/Users/justin/Library/CloudStorage/OneDrive-InstitutTeknologiBandung/vscode/Python/Data Scraping/data/products_colors.ndjson';
+INSERT INTO products_colors SELECT (data->>'product_id')::integer, data->>'color' FROM temp;
+DROP TABLE temp;
+
+CREATE TABLE temp (data jsonb);
+\COPY temp (data) FROM '/Users/justin/Library/CloudStorage/OneDrive-InstitutTeknologiBandung/vscode/Python/Data Scraping/data/products_sizes.ndjson';
+INSERT INTO products_sizes SELECT (data->>'product_id')::integer, data->>'size' FROM temp;
+DROP TABLE temp;
