@@ -149,8 +149,22 @@ partnership(supplier_id) -> supplier(supplier_id)
 ![scraping](https://github.com/reinhartlim1/Seleksi-2023-Tugas-1/blob/bfd71b0ccd6cf60715de0e53a72ead3d5ffd8dec/Data%20Scraping/screenshot/scraping_progress.png)
 
 - Data Storing <br>
-![datastoring1](https://github.com/reinhartlim1/Seleksi-2023-Tugas-1/blob/bfd71b0ccd6cf60715de0e53a72ead3d5ffd8dec/Data%20Storing/screenshot/restaurant_cuisine_table.png) <br>
-![datastoring1](https://github.com/reinhartlim1/Seleksi-2023-Tugas-1/blob/bfd71b0ccd6cf60715de0e53a72ead3d5ffd8dec/Data%20Storing/screenshot/restaurant_table.png)
+![datastoring](https://github.com/reinhartlim1/Seleksi-2023-Tugas-1/blob/bfd71b0ccd6cf60715de0e53a72ead3d5ffd8dec/Data%20Storing/screenshot/restaurant_cuisine_table.png) <br>
+![datastoring](https://github.com/reinhartlim1/Seleksi-2023-Tugas-1/blob/bfd71b0ccd6cf60715de0e53a72ead3d5ffd8dec/Data%20Storing/screenshot/restaurant_table.png)<br>
+![schematables](https://github.com/reinhartlim1/Seleksi-2023-Tugas-1/blob/dd6c8996cf13420849086d5664c91707c2f35375/Data%20Storing/screenshot/schema_tables.png)
+
+## Dashboard
+![dashboard](https://github.com/reinhartlim1/Seleksi-2023-Tugas-1/blob/4db9bd54d513204a9bfcb252aaaf677105d7986f/Data%20Storing/screenshot/dashboard.png) <br>
+
+[The dashboard](https://public.tableau.com/app/profile/reinhart.lim/viz/MichelinGuideRestaurants_16896701511160/Dashboard1) is interactive, so you can filter on the different countries to see more detailed information about the number of Michelin-starred restaurants in each country. You can also filter the data by star rating. <br>
+
+### Insight
+- France is the country with the most restaurants with Michelin awards, with 625 restaurants
+- The most common star rating is one star, with 2819 restaurants or about 81.78% all around the world
+- The most popular cuisine type that got the restaurant a Michelin award was Modern Cuisine with 1030 restaurants or about 32.73% all around the world
+- Most restaurants have a "spare no expense" price type, where the culinary experience is elevated to luxurious heights with no cost spared
+
+
 
 ## References
 ### Libraries
