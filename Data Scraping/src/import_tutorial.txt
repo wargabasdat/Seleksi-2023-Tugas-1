@@ -58,6 +58,7 @@ CREATE TABLE products_sizes (
 );
 
 ## Importing the data into the table from the NDJSON file
+## Change the path of the NDJSON to the path where you stored the data files
 CREATE TABLE temp (data jsonb);
 \COPY temp (data) FROM '/Users/justin/Library/CloudStorage/OneDrive-InstitutTeknologiBandung/vscode/Python/Data Scraping/data/categories.ndjson';
 INSERT INTO categories SELECT (data->>'category_id')::integer, data->>'category' FROM temp;
