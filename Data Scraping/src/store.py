@@ -55,7 +55,7 @@ def insert_to_postgre(host,port,user,password,database) :
                 
                 ''')
 
-    #executing query to create shopping table
+    #executing query to create shopping_cart table
     cur.execute('''
         CREATE TABLE IF NOT EXISTS shopping_cart (
         id_shopping_cart SERIAL PRIMARY KEY,

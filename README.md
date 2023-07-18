@@ -63,11 +63,10 @@ untuk memasukan data scraping ke database postgreSQL
 pip install psycopg2
 pip install json
 ```
-3. Buka command promp atau terminal dan masukan
+3. Buka command promp atau terminal dan masukan command dibawah secara berturut
 ```
-cd /file_path
+cd /your_file_path
 ```
- lalu 
  
 ```
 python store.py 
@@ -207,7 +206,7 @@ foreign  key:
 ![code1](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/code1.jpg)
 ![code2](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/code2.jpg)
 ![code3](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/code3.jpg)
-![code4](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/code4.jpg)
+
 
 * berikut output terminal
 ![terminal](https://github.com/Kenazizan01/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/terminal.jpg)
