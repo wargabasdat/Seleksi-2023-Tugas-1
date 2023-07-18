@@ -79,19 +79,43 @@ Data hasil _scraping_ disimpan dalam format `JSON` yaitu pada `scraping_webometr
   },
   {
 ```
-struktur orientasi yang digunakan pada JSON tersebut adalah berdasarkan __records__ data.
+struktur orientasi yang digunakan pada JSON tersebut adalah berdasarkan __records__ data. Hal ini membuat formatnya berbentuk daftar __nama kolom : value__ perbarisnya.
 
 ## Database Structure
 #### ERD (Entity Relationship Diagram)
+<div align="center">
+<img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ERD%20Webometrics%20-%2018221116.png" alt="ERD Webometrics" width="500">
+</div>
+
+Gambar di atas merupakan design ERD dari data Webometrics. Pada ERD tersebut, terdapat 5 _entity_ dengan 4 _relationship_. 
 
 #### Diagram Relasional
+<div align="center">
+<img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/diagram%20relasional%20Webometrics%20-%2018221116.png" alt="ERD Webometrics" width="500">
+</div>
+
+Gambar di atas merupakan diagram relasional yang dihasilkan dari ERD yang telah dibuat. Pada diagram relasional tersebut, terdapat 5 relasi yang dihasilkan.
 
 ## Explanation of ERD to relational diagram translation process
+Berdasarkan ERD dan diagram relasional sebelumnya, maka terdapat beberapa tahapan proses translasi dari ERD menjadi diagram relasional.
+1. __one-to-many relationship__
+   Pada ERD, _relationship_ `located` antara _entity country_ dengan _university_ berjenis _one-to-many_. Untuk itu, proses translasi yang dilakukan adalah menambahkan __primary key__ _entity one_ pada relasi _entity many_. Maka atribut country_id dari relasi country ditambahkan pada relasi university.
+<div align="center">
+<img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translasi%201.png" alt="Translasi 1" width="500">
+</div>
 
+2. __one-to-one relationship__
+   Pada ERD, _relationship_ `website`, `detail`, dan `ranking` berjenis _one-to-one_. Untuk itu, proses translasi yang dilakukan adalah menambahkan __primary key__ pada relasi pasangannya dengan dibebaskan _primary key_ milik siapa yang ingin ditambahkan diantara keduanya. _Entity_ dengan _total relationship_ menjadi prioritas untuk dipilih sebagai penyimpan _primary key_ pasangannya. Oleh karena itu, karena semua _one-to-one relationship_ yang terdapat di ERD bersifat total, maka dibebaskan. Maka, atribut yang dipilih adalah university_id yang ditambahkan pada relasi University_website, Info, dan juga Rank.
+<div align="center">
+  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translasi%202.png" alt="cleaning 1" width="300"/>
+  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translasi%203.png" alt="cleaning 1" width="300"/>
+  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translasi%204.png" alt="cleaning 1" width="300"/>
+</div>
+   
 ## Screenshot program
 
 ## Reference
-### Library yang digunakan :
+#### Library yang digunakan :
 + BeautifulSoup
 + json
 + request
