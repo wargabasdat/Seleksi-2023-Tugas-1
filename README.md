@@ -12,90 +12,118 @@
   <br>
 </h2>
 
+## Description
 
-## Spesifikasi
+![Pikachu](https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png)
 
-### Data Scraping
+`The National Pokédex`, which can be viewed at https://www.pokemon.com/us/pokedex/, has the data for `1010 Pokémon` that were utilized in this project. The retrieved data contains the name, Pokédex ID, description, stats, skills, type, weakness, and other visual needs like picture URLs and the source website for each Pokémon.
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
+For data processing, we will utilize the RDBMS `PostgreSQL` with the assistance of the `pgAdmin 4` GUI. The reason for choosing PostgreSQL is that it is a powerful, reliable, and feature-rich open-source DBMS for database management. Additionally, the author intends to explore further the usage of this DBMS.
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
+## Specification
 
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
+This program is created using `Python 3.10` as the programming language. The data extracted from the website will be stored in `.JSON` format and will be used for storing data into the `PostgreSQL` RDBMS.
 
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
+Additionally, several Python libraries will be utilized, including `selenium`, `psycopg2`, `json`, `os`, and `dotenv`.
 
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
+## How to use
 
-### Database Modelling & Data Storing
+To run this program, there are several prerequisites that need to be fulfilled:
 
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
+1. Ensure your device has Python installed, preferably version `3.10` or higher and latest `vscode` version.
+2. Upgrade pip to the latest version by executing the command `pip install --upgrade` in your favorite terminal.
+3. Install all required Python libraries.
+4. Install `PostgreSQL` and `pgAdmin 4`.
+5. Create a new server with the following connection configuration.
+   ![Alt text](<postgre configuration.png>)
+6. Create a `.env` file on root folder and define the PASSWORD variable with the value of your PostgreSQL account password.
 
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
+Once the prerequisites are met, follow these steps to run the data scraping program (optional):
 
-4. Tools yang digunakan __dibebaskan__ pada peserta.
+1. Open the `main.py` file in the `Data Scraping/src` directory.
+2. Run the program by clicking the `Play` button in the top right corner of Visual Studio Code (VSCode).
+3. When the first popup window opens, scroll down and click on `Load More Pokemon`, then manually scroll to the end of the list.
+4. After reaching the end of the list, the program will close automatically and save the URLs of each Pokémon in `url_list.json`.
+5. The program will continue to extract data from 1010 Pokémon. This step may take around 3-5 hours, depending on your internet speed.
+6. After data extraction, the program will perform `Preprocessing Data` and create the tables dan insert data in PostgreSQL.
+7. The stored `.JSON` data can be found in `evolution.json`, `pokedex.json`, and `url_list.json` in the `Data Scraping/data` directory.
+8. The data stored in the DBMS can be exported and saved in the `Data Storing/export` directory.
 
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
+To run the data visualization program, open the `main.py` file in the `Data Visualization/src` directory and run it by clicking the `Play` button in the top right corner of your vscode.
 
+## JSON Structure
 
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
+In this project, there are 3 `.JSON` files used, namely `pokedex.json`, `evolution.json`, and `url_list.json`.
 
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
+- In the `pokedex.json` file, data for each Pokémon will be stored. The structure of each object in this file is as follows:
+<pre>
+.
+└── pokedex.json/
+    ├── name
+    ├── id
+    ├── image
+    ├── description
+    ├── page
+    ├── Height
+    ├── Weight
+    ├── Gender
+    ├── Category
+    ├── Abilities
+    ├── type
+    ├── weaknesses
+    ├── stats/
+    │   ├── HP
+    │   ├── Attack
+    │   ├── Defense
+    │   ├── Special Attack
+    │   ├── Special Defense
+    │   └── Speed
+    └── evolution/
+        ├── first
+        ├── middle
+        └── last
+</pre>
 
-### Pengumpulan
+- In the `evolution.json` file, preprocessed data from the pokedex.json file will be stored, containing pairs of pre-evolution and post-evolution Pokémon id. The structure of each object in this file is as follows:
+<pre>
+.
+└── evolution.json
+    ├── initial_id
+    └── evolution_id
+</pre>
 
+- In the `url_list.json` file, URLs leading to the page of each Pokémon will be stored. The structure of each object in this file is a simple list of URLs:
 
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
+## Database Design
 
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
+### ER Diagram
 
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
+![Alt text](<ER Diagram.jpg>)
 
+### Relational Model
 
-```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
+![Alt text](<Relational Model.jpg>)
 
+## ERD to Relational Model Translation Process
 
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
+To translate the ER Diagram into a Relational Model, the following process is applied:
 
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
+1. The `Pokemon` entity is a strong entity with several multivalue attributes. Therefore, this entity is translated into the `Pokemon` table in the Relational Model, with the `id` as the Primary Key of the table. Attributes with no multivalue will inserted to this table and attributes with multivalue will be separated into different tables.
+2. The `Pokemon_Stat` entity in the ERD is a weak entity without multivalue attributes. Therefore, this entity is translated into the `Stat` table in the Relational Model, with `pokemon_id` as the Primary Key, which also serves as a Foreign Key referencing `Pokemon.id`.
+3. The `Evolution` entity in the ERD is a weak entity with multivalue attributes. Therefore, this entity is translated into the `Evolution` table in the Relational Model, changing the structure into a table that stores pairs of `initial_id` and `evolution_id`. Both attributes are Primary Keys, which also serve as Foreign Keys referencing `Pokemon.id`.
+4. Each multivalue attribute in the `Pokemon` entity is stored in a separate table that contains `pokemon_id` and the values they store. Both `pokemon_id` and the values they store are set as Primary Keys, and `pokemon_id` references `pokemon.id` as Foreign Keys. The tables created are `Type`, `Weaknesses`, `Ability`, and `Gender`.
 
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
-<br>
+## Reference
+
+Library used:
+
+- selenium
+- json
+- psycopg2
+- os
+- dotenv
+- pyqt6
+
+## Author
+
+Mohammad Farhan Fahrezy - 13521106
