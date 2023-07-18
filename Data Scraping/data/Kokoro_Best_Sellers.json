@@ -1,0 +1,1042 @@
+[
+    {
+        "Product_name":"Biore UV Aqua Rich Watery Essence SPF50+\/PA++++ 70ml",
+        "status":"Not sale",
+        "normal_price":1305.0,
+        "sale_price":1305.0,
+        "ratings":4.8,
+        "count_reviews":76
+    },
+    {
+        "Product_name":"Hada Labo Gokujyun Hyaluronic Acid Premium Lotion 170ml",
+        "status":"Not sale",
+        "normal_price":1710.0,
+        "sale_price":1710.0,
+        "ratings":4.8,
+        "count_reviews":39
+    },
+    {
+        "Product_name":"Canmake Mermaid Skin Gel UV",
+        "status":"Not sale",
+        "normal_price":1156.0,
+        "sale_price":1156.0,
+        "ratings":4.9,
+        "count_reviews":47
+    },
+    {
+        "Product_name":"Melano CC Intensive Anti-Spot Essence 20ml",
+        "status":"Sale",
+        "normal_price":1473.0,
+        "sale_price":1325.0,
+        "ratings":4.4,
+        "count_reviews":25
+    },
+    {
+        "Product_name":"Hada Labo Gokujyun Hyaluronic Acid Lotion 170ml",
+        "status":"Not sale",
+        "normal_price":1329.0,
+        "sale_price":1329.0,
+        "ratings":5.0,
+        "count_reviews":30
+    },
+    {
+        "Product_name":"Senka Perfect Whip Cleansing Foam 120 g",
+        "status":"Not sale",
+        "normal_price":789.0,
+        "sale_price":789.0,
+        "ratings":4.9,
+        "count_reviews":25
+    },
+    {
+        "Product_name":"DHC Collagen 60 Days",
+        "status":"Sale",
+        "normal_price":1854.0,
+        "sale_price":1668.0,
+        "ratings":4.9,
+        "count_reviews":20
+    },
+    {
+        "Product_name":"Hada Labo Gokujyun Cleansing Oil 200ml",
+        "status":"Not sale",
+        "normal_price":1451.0,
+        "sale_price":1451.0,
+        "ratings":5.0,
+        "count_reviews":16
+    },
+    {
+        "Product_name":"Hada Labo Gokujyun UV White Gel 90g",
+        "status":"Not sale",
+        "normal_price":2066.0,
+        "sale_price":2066.0,
+        "ratings":4.7,
+        "count_reviews":22
+    },
+    {
+        "Product_name":"Skin Aqua Super Moisture Gel",
+        "status":"Not sale",
+        "normal_price":1151.0,
+        "sale_price":1151.0,
+        "ratings":4.7,
+        "count_reviews":14
+    },
+    {
+        "Product_name":"Naturie Hatomugi Skin Conditioner",
+        "status":"Not sale",
+        "normal_price":1739.0,
+        "sale_price":1739.0,
+        "ratings":4.8,
+        "count_reviews":14
+    },
+    {
+        "Product_name":"Hada Labo Gokujyun Hyaluronic Acid Foaming Cleanser 100g",
+        "status":"Sale",
+        "normal_price":867.0,
+        "sale_price":780.0,
+        "ratings":5.0,
+        "count_reviews":11
+    },
+    {
+        "Product_name":"Heroine Make Kiss Me Long and Curl Mascara Super Waterproof",
+        "status":"Not sale",
+        "normal_price":1920.0,
+        "sale_price":1920.0,
+        "ratings":4.5,
+        "count_reviews":15
+    },
+    {
+        "Product_name":"Biore UV Aqua Rich Watery Gel SPF50+\/PA++++ 70ml",
+        "status":"Not sale",
+        "normal_price":1385.0,
+        "sale_price":1385.0,
+        "ratings":4.3,
+        "count_reviews":18
+    },
+    {
+        "Product_name":"Anessa Perfect UV Sunscreen Skincare Milk",
+        "status":"Not sale",
+        "normal_price":1752.0,
+        "sale_price":1752.0,
+        "ratings":4.7,
+        "count_reviews":13
+    },
+    {
+        "Product_name":"Kose Clear Turn Vitmanin C Essence Mask 30 Sheets",
+        "status":"Sale",
+        "normal_price":1895.0,
+        "sale_price":1705.0,
+        "ratings":4.4,
+        "count_reviews":8
+    },
+    {
+        "Product_name":"Hada Labo Shirojyun Premium Whitening Lotion 170ml",
+        "status":"Not sale",
+        "normal_price":1610.0,
+        "sale_price":1610.0,
+        "ratings":3.9,
+        "count_reviews":10
+    },
+    {
+        "Product_name":"Heroine Make Kiss Me Smooth Liquid Eyeliner",
+        "status":"Not sale",
+        "normal_price":1200.0,
+        "sale_price":1200.0,
+        "ratings":4.8,
+        "count_reviews":6
+    },
+    {
+        "Product_name":"Skin Aqua Tone Up UV Essence SPF50+\/PA++++",
+        "status":"Not sale",
+        "normal_price":1363.0,
+        "sale_price":1363.0,
+        "ratings":4.5,
+        "count_reviews":8
+    },
+    {
+        "Product_name":"Nivea Sun Protect Water Gel SPF50\/PA+++ Pump Type",
+        "status":"Not sale",
+        "normal_price":1667.0,
+        "sale_price":1667.0,
+        "ratings":5.0,
+        "count_reviews":11
+    },
+    {
+        "Product_name":"Canmake Cream Cheek",
+        "status":"Sale",
+        "normal_price":1040.0,
+        "sale_price":936.0,
+        "ratings":5.0,
+        "count_reviews":5
+    },
+    {
+        "Product_name":"Hada Labo Hyaluronic Acid Foaming Cleanser Pump Type 160ml",
+        "status":"Not sale",
+        "normal_price":1062.0,
+        "sale_price":1062.0,
+        "ratings":4.8,
+        "count_reviews":9
+    },
+    {
+        "Product_name":"Keana Nadeshiko Rice Mask 10 Sheets",
+        "status":"Sale",
+        "normal_price":1457.0,
+        "sale_price":1311.0,
+        "ratings":4.9,
+        "count_reviews":7
+    },
+    {
+        "Product_name":"DHC Vitamin C Hard Capsule 60 Days",
+        "status":"Sale",
+        "normal_price":800.0,
+        "sale_price":720.0,
+        "ratings":4.9,
+        "count_reviews":10
+    },
+    {
+        "Product_name":"Shiseido Fino Premium Touch Hair Mask",
+        "status":"Not sale",
+        "normal_price":1635.0,
+        "sale_price":1635.0,
+        "ratings":4.4,
+        "count_reviews":8
+    },
+    {
+        "Product_name":"Kanebo Suisai Beauty Clear Powder",
+        "status":"Sale",
+        "normal_price":1503.0,
+        "sale_price":1353.0,
+        "ratings":4.6,
+        "count_reviews":9
+    },
+    {
+        "Product_name":"Biore UV Aqua Rich Watery Essence SPF50+\/PA++++ 85g",
+        "status":"Not sale",
+        "normal_price":2133.0,
+        "sale_price":2133.0,
+        "ratings":4.5,
+        "count_reviews":4
+    },
+    {
+        "Product_name":"DHC Deep Cleansing Oil",
+        "status":"Not sale",
+        "normal_price":2828.0,
+        "sale_price":2828.0,
+        "ratings":4.8,
+        "count_reviews":9
+    },
+    {
+        "Product_name":"DHC Lip Cream",
+        "status":"Not sale",
+        "normal_price":819.0,
+        "sale_price":819.0,
+        "ratings":5.0,
+        "count_reviews":3
+    },
+    {
+        "Product_name":"Hada Labo Koi Gokujyun All-in-one Perfet Gel 100g",
+        "status":"Not sale",
+        "normal_price":1973.0,
+        "sale_price":1973.0,
+        "ratings":4.3,
+        "count_reviews":6
+    },
+    {
+        "Product_name":"Biore UV Aqua Rich Watery Gel SPF50+\/PA++++ 155ml",
+        "status":"Not sale",
+        "normal_price":2568.0,
+        "sale_price":2568.0,
+        "ratings":4.5,
+        "count_reviews":2
+    },
+    {
+        "Product_name":"Hada Labo Gokujyun Hyaluronic Acid Lotion Large 400ml",
+        "status":"Not sale",
+        "normal_price":2459.0,
+        "sale_price":2459.0,
+        "ratings":4.8,
+        "count_reviews":6
+    },
+    {
+        "Product_name":"Sagami Original 0.01ml 5 Pieces",
+        "status":"Not sale",
+        "normal_price":1629.0,
+        "sale_price":1629.0,
+        "ratings":5.0,
+        "count_reviews":4
+    },
+    {
+        "Product_name":"Naturie Hatomugi Skin Conditioning Gel",
+        "status":"Not sale",
+        "normal_price":1534.0,
+        "sale_price":1534.0,
+        "ratings":5.0,
+        "count_reviews":6
+    },
+    {
+        "Product_name":"Itoen Oi Ocha Instant Green Tea With Matcha Powder 40g",
+        "status":"Sale",
+        "normal_price":801.0,
+        "sale_price":721.0,
+        "ratings":4.5,
+        "count_reviews":6
+    },
+    {
+        "Product_name":"Biore u Foam Flower Stamp Hand Soap 250 ml",
+        "status":"Not sale",
+        "normal_price":2225.0,
+        "sale_price":2225.0,
+        "ratings":5.0,
+        "count_reviews":7
+    },
+    {
+        "Product_name":"Shiseido Eyelash Refill Pads",
+        "status":"Not sale",
+        "normal_price":179.0,
+        "sale_price":179.0,
+        "ratings":4.2,
+        "count_reviews":5
+    },
+    {
+        "Product_name":"Hada Labo Gokujyun Hyaluronic Acid Emulsion 140ml",
+        "status":"Not sale",
+        "normal_price":1352.0,
+        "sale_price":1352.0,
+        "ratings":4.7,
+        "count_reviews":6
+    },
+    {
+        "Product_name":"Curel Intensive Moisture Cream",
+        "status":"Not sale",
+        "normal_price":2844.0,
+        "sale_price":2844.0,
+        "ratings":4.8,
+        "count_reviews":4
+    },
+    {
+        "Product_name":"MegRhythm Steam Hot Eye Mask Unscented",
+        "status":"Sale",
+        "normal_price":1728.0,
+        "sale_price":1555.0,
+        "ratings":5.0,
+        "count_reviews":11
+    },
+    {
+        "Product_name":"Shiseido Eyelash Curler 213",
+        "status":"Not sale",
+        "normal_price":1188.0,
+        "sale_price":1188.0,
+        "ratings":4.7,
+        "count_reviews":3
+    },
+    {
+        "Product_name":"Skin Aqua Super Moisture Gel Pump Type SPF50+\/PA++++",
+        "status":"Not sale",
+        "normal_price":1416.0,
+        "sale_price":1416.0,
+        "ratings":5.0,
+        "count_reviews":5
+    },
+    {
+        "Product_name":"Hada Labo Gokujyun a Lift Cream",
+        "status":"Sale",
+        "normal_price":2060.0,
+        "sale_price":1854.0,
+        "ratings":5.0,
+        "count_reviews":3
+    },
+    {
+        "Product_name":"SK-II Facial Treatment Essence",
+        "status":"Not sale",
+        "normal_price":9901.0,
+        "sale_price":9901.0,
+        "ratings":4.2,
+        "count_reviews":5
+    },
+    {
+        "Product_name":"DHC Pink Colour Lip Cream",
+        "status":"Not sale",
+        "normal_price":742.0,
+        "sale_price":742.0,
+        "ratings":5.0,
+        "count_reviews":3
+    },
+    {
+        "Product_name":"Senka Perfect Whip Collagen in Cleansing Foam",
+        "status":"Sale",
+        "normal_price":1183.0,
+        "sale_price":1065.0,
+        "ratings":4.7,
+        "count_reviews":6
+    },
+    {
+        "Product_name":"Hada Labo Gokujyun a Lotion Moist Type 170ml",
+        "status":"Not sale",
+        "normal_price":1741.0,
+        "sale_price":1741.0,
+        "ratings":5.0,
+        "count_reviews":3
+    },
+    {
+        "Product_name":"Itoen Oi Oicha Premium Uji Matcha Tea Bag 50 Bags",
+        "status":"Not sale",
+        "normal_price":1770.0,
+        "sale_price":1770.0,
+        "ratings":4.4,
+        "count_reviews":11
+    },
+    {
+        "Product_name":"Tea Boutique Sweet Sakura Tea Green Tea with Cherry Blossom & Leaf 10 Bags",
+        "status":"Sale",
+        "normal_price":823.0,
+        "sale_price":741.0,
+        "ratings":5.0,
+        "count_reviews":3
+    },
+    {
+        "Product_name":"Morihan Organic Uji Matcha 30g",
+        "status":"Sale",
+        "normal_price":1115.0,
+        "sale_price":1003.0,
+        "ratings":5.0,
+        "count_reviews":5
+    },
+    {
+        "Product_name":"DHC Multivitamin 60 Days",
+        "status":"Sale",
+        "normal_price":993.0,
+        "sale_price":894.0,
+        "ratings":5.0,
+        "count_reviews":2
+    },
+    {
+        "Product_name":"Kiku Masamune Sake Lotion",
+        "status":"Not sale",
+        "normal_price":2143.0,
+        "sale_price":2143.0,
+        "ratings":4.0,
+        "count_reviews":4
+    },
+    {
+        "Product_name":"Heroine Make Kiss Me Volume and Curl Mascara Super Waterproof",
+        "status":"Not sale",
+        "normal_price":1920.0,
+        "sale_price":1920.0,
+        "ratings":5.0,
+        "count_reviews":5
+    },
+    {
+        "Product_name":"Shiseido Eyebrow Pencil",
+        "status":"Sale",
+        "normal_price":342.0,
+        "sale_price":308.0,
+        "ratings":4.3,
+        "count_reviews":3
+    },
+    {
+        "Product_name":"Shu Uemura S Eyelash Curler",
+        "status":"Not sale",
+        "normal_price":1560.0,
+        "sale_price":1560.0,
+        "ratings":5.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"Canmake Quick Lash Curler",
+        "status":"Not sale",
+        "normal_price":1055.0,
+        "sale_price":1055.0,
+        "ratings":5.0,
+        "count_reviews":4
+    },
+    {
+        "Product_name":"Calbee Jagariko Salad Large 3 Pack",
+        "status":"Not sale",
+        "normal_price":1026.0,
+        "sale_price":1026.0,
+        "ratings":5.0,
+        "count_reviews":3
+    },
+    {
+        "Product_name":"Lululun Pink Face Mask 7 Sheets",
+        "status":"Not sale",
+        "normal_price":1171.0,
+        "sale_price":1171.0,
+        "ratings":5.0,
+        "count_reviews":2
+    },
+    {
+        "Product_name":"Transino White C Clear 120 Tablets",
+        "status":"Sale",
+        "normal_price":3986.0,
+        "sale_price":3587.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Softymo Deep Cleansing Oil",
+        "status":"Not sale",
+        "normal_price":1323.0,
+        "sale_price":1323.0,
+        "ratings":5.0,
+        "count_reviews":2
+    },
+    {
+        "Product_name":"Meiji Almond Chocolate",
+        "status":"Not sale",
+        "normal_price":592.0,
+        "sale_price":592.0,
+        "ratings":5.0,
+        "count_reviews":3
+    },
+    {
+        "Product_name":"Itoen Oi Ocha Sencha Green Tea 100g",
+        "status":"Not sale",
+        "normal_price":868.0,
+        "sale_price":868.0,
+        "ratings":5.0,
+        "count_reviews":3
+    },
+    {
+        "Product_name":"ISDG Ishokudogen Night Diet Enzyme Supplements 232 Vegetable Fruits 120 Tablets",
+        "status":"Sale",
+        "normal_price":2125.0,
+        "sale_price":1912.0,
+        "ratings":4.0,
+        "count_reviews":2
+    },
+    {
+        "Product_name":"Hada Labo Gokujyun Perfect Gel",
+        "status":"Not sale",
+        "normal_price":1861.0,
+        "sale_price":1861.0,
+        "ratings":5.0,
+        "count_reviews":2
+    },
+    {
+        "Product_name":"Lululun Precious Green Face Mask 7 Sheets",
+        "status":"Sale",
+        "normal_price":1597.0,
+        "sale_price":1437.0,
+        "ratings":5.0,
+        "count_reviews":4
+    },
+    {
+        "Product_name":"Cure Natural Aqua Gel",
+        "status":"Not sale",
+        "normal_price":4437.0,
+        "sale_price":4437.0,
+        "ratings":5.0,
+        "count_reviews":3
+    },
+    {
+        "Product_name":"KOSE Suncut UV Protect Essence SPF50+\/PA++++",
+        "status":"Not sale",
+        "normal_price":1345.0,
+        "sale_price":1345.0,
+        "ratings":5.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"Meiji Amino Collagen 196g",
+        "status":"Sale",
+        "normal_price":3680.0,
+        "sale_price":3312.0,
+        "ratings":5.0,
+        "count_reviews":3
+    },
+    {
+        "Product_name":"Nissin Cup Noodle Seafood 3-Pack",
+        "status":"Not sale",
+        "normal_price":1549.0,
+        "sale_price":1549.0,
+        "ratings":5.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"Canmake Glow Fleur Cheeks",
+        "status":"Sale",
+        "normal_price":1383.0,
+        "sale_price":1245.0,
+        "ratings":5.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"Hada Labo Gokujyun Hyaluronic Acid Cream 50g",
+        "status":"Not sale",
+        "normal_price":1816.0,
+        "sale_price":1816.0,
+        "ratings":4.7,
+        "count_reviews":3
+    },
+    {
+        "Product_name":"Excel Powder and Pencil Eyebrow",
+        "status":"Sale",
+        "normal_price":2227.0,
+        "sale_price":2005.0,
+        "ratings":5.0,
+        "count_reviews":7
+    },
+    {
+        "Product_name":"Curel Intensive Moisture Care Foaming Wash",
+        "status":"Sale",
+        "normal_price":2433.0,
+        "sale_price":2190.0,
+        "ratings":5.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"Mentholatum Acnes Medictaed Cream Face Wash",
+        "status":"Sale",
+        "normal_price":830.0,
+        "sale_price":747.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Shiseido Spots Cover Foundation S100",
+        "status":"Sale",
+        "normal_price":1604.0,
+        "sale_price":1444.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Cow Brand No Additive Cleansing Milk",
+        "status":"Sale",
+        "normal_price":1430.0,
+        "sale_price":1287.0,
+        "ratings":5.0,
+        "count_reviews":5
+    },
+    {
+        "Product_name":"Opera My Lash Advanced Mascara",
+        "status":"Not sale",
+        "normal_price":1491.0,
+        "sale_price":1491.0,
+        "ratings":1.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"Lululun Precious Red Face Mask 7 Sheets",
+        "status":"Sale",
+        "normal_price":1559.0,
+        "sale_price":1403.0,
+        "ratings":5.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"Melano CC Medicated Spot Prevention Whitening Lotion Moist Type 170ml",
+        "status":"Not sale",
+        "normal_price":1537.0,
+        "sale_price":1537.0,
+        "ratings":2.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"Kanebo Kate Rare Fit Gel Pencil Eyeliner",
+        "status":"Not sale",
+        "normal_price":1731.0,
+        "sale_price":1731.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"TSUBAKI Extra Moist Shampoo Refill 345 ml",
+        "status":"Not sale",
+        "normal_price":2165.0,
+        "sale_price":2165.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Lululun Precious White Face Mask 7 Sheets",
+        "status":"Sale",
+        "normal_price":1523.0,
+        "sale_price":1371.0,
+        "ratings":4.5,
+        "count_reviews":2
+    },
+    {
+        "Product_name":"Saborino Morning Face Mask 32 Sheets",
+        "status":"Not sale",
+        "normal_price":2748.0,
+        "sale_price":2748.0,
+        "ratings":5.0,
+        "count_reviews":2
+    },
+    {
+        "Product_name":"Biore Pore Strips",
+        "status":"Sale",
+        "normal_price":803.0,
+        "sale_price":723.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"DHC Honey Moisturising Lip Cream",
+        "status":"Not sale",
+        "normal_price":879.0,
+        "sale_price":879.0,
+        "ratings":5.0,
+        "count_reviews":2
+    },
+    {
+        "Product_name":"Majolica Majorca Lash Expander Long Long Long Mascara",
+        "status":"Not sale",
+        "normal_price":1942.0,
+        "sale_price":1942.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Minon Amino Moist Mask 4 Sheets",
+        "status":"Not sale",
+        "normal_price":2019.0,
+        "sale_price":2019.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Shu Uemura Ultime8 Sublime Beauty Cleansing Oil",
+        "status":"Not sale",
+        "normal_price":14863.0,
+        "sale_price":14863.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"K-Palette Real Lasting Eyeliner 24h Waterproof",
+        "status":"Not sale",
+        "normal_price":2005.0,
+        "sale_price":2005.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Kinomegumi Ashi Rira Foot Patch Lavender",
+        "status":"Sale",
+        "normal_price":2983.0,
+        "sale_price":2685.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Calbee Jagariko Salad 3 Pack",
+        "status":"Not sale",
+        "normal_price":924.0,
+        "sale_price":924.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Cezanne Lasting Gloss Lipstick",
+        "status":"Not sale",
+        "normal_price":947.0,
+        "sale_price":947.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Biore Skincare Moisturising Face Wash",
+        "status":"Sale",
+        "normal_price":932.0,
+        "sale_price":839.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Dejavu Fiberwig Ultra Long Mascara",
+        "status":"Not sale",
+        "normal_price":2327.0,
+        "sale_price":2327.0,
+        "ratings":5.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"SK-II Facial Treatment Clear Lotion",
+        "status":"Not sale",
+        "normal_price":10115.0,
+        "sale_price":10115.0,
+        "ratings":5.0,
+        "count_reviews":3
+    },
+    {
+        "Product_name":"FANCL Facial Washing Powder",
+        "status":"Sale",
+        "normal_price":2345.0,
+        "sale_price":2111.0,
+        "ratings":5.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"Rosette Cleansing Paste Acne Clear 120g",
+        "status":"Sale",
+        "normal_price":873.0,
+        "sale_price":786.0,
+        "ratings":4.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"Nameraka Honpo Cleansing Face Wash 150g",
+        "status":"Sale",
+        "normal_price":1150.0,
+        "sale_price":1035.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"DUP Wonder Double Eyelid Tape Extra",
+        "status":"Not sale",
+        "normal_price":1598.0,
+        "sale_price":1598.0,
+        "ratings":3.0,
+        "count_reviews":2
+    },
+    {
+        "Product_name":"Rosette Cleansing Paste Sea Mud Smooth",
+        "status":"Not sale",
+        "normal_price":886.0,
+        "sale_price":886.0,
+        "ratings":5.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"Transino Clear Wash",
+        "status":"Sale",
+        "normal_price":3175.0,
+        "sale_price":2858.0,
+        "ratings":5.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"Arimino Peace Pro Design Freeze Wax",
+        "status":"Not sale",
+        "normal_price":2055.0,
+        "sale_price":2055.0,
+        "ratings":5.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"Cezanne Super Slim Eyebrow",
+        "status":"Not sale",
+        "normal_price":983.0,
+        "sale_price":983.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Bifesta Cleansing Water Eye Make Up Remover",
+        "status":"Not sale",
+        "normal_price":1306.0,
+        "sale_price":1306.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Cezanne Pearl Glow Highlight",
+        "status":"Sale",
+        "normal_price":1011.0,
+        "sale_price":910.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Hadabisei Super Penetrating 3D Moist Face Mask 4 Sheets",
+        "status":"Not sale",
+        "normal_price":1390.0,
+        "sale_price":1390.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Sekkisei Medicated Emulsion 140ml",
+        "status":"Not sale",
+        "normal_price":5195.0,
+        "sale_price":5195.0,
+        "ratings":5.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"Curel Moisture Lotion III Enrich",
+        "status":"Not sale",
+        "normal_price":2972.0,
+        "sale_price":2972.0,
+        "ratings":1.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"FANCL Mild Cleansing Oil",
+        "status":"Not sale",
+        "normal_price":3173.0,
+        "sale_price":3173.0,
+        "ratings":5.0,
+        "count_reviews":2
+    },
+    {
+        "Product_name":"Kate Lash Maximizer",
+        "status":"Not sale",
+        "normal_price":1906.0,
+        "sale_price":1906.0,
+        "ratings":4.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"Cezanne Gokuboso Extra Fine Eyeliner R Ultra Thin",
+        "status":"Not sale",
+        "normal_price":1016.0,
+        "sale_price":1016.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Gatsby Moving Rubber",
+        "status":"Not sale",
+        "normal_price":1288.0,
+        "sale_price":1288.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Hada Labo Gokujyun Hyaluronic Acid Face Mask 4 Sheets",
+        "status":"Not sale",
+        "normal_price":2244.0,
+        "sale_price":2244.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Opera Lip Tint N",
+        "status":"Not sale",
+        "normal_price":2774.0,
+        "sale_price":2774.0,
+        "ratings":5.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"Maybelline New York Lashionista N Masacara Black",
+        "status":"Not sale",
+        "normal_price":1849.0,
+        "sale_price":1849.0,
+        "ratings":1.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"Dolly Wink Eyelash",
+        "status":"Not sale",
+        "normal_price":1679.0,
+        "sale_price":1679.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Nameraka Honpo Cleansing Milk 300ml",
+        "status":"Sale",
+        "normal_price":2153.0,
+        "sale_price":1938.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Excel Skinny Rich Eye Shadow Sensual Brown",
+        "status":"Not sale",
+        "normal_price":2639.0,
+        "sale_price":2639.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Cow Brand Foaming Cleanser",
+        "status":"Sale",
+        "normal_price":1060.0,
+        "sale_price":954.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Uevo Design Cube Dry Wax",
+        "status":"Not sale",
+        "normal_price":2334.0,
+        "sale_price":2334.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Softymo White Cleansing Oil",
+        "status":"Not sale",
+        "normal_price":1291.0,
+        "sale_price":1291.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Canmake Mix Eyebrow",
+        "status":"Sale",
+        "normal_price":1188.0,
+        "sale_price":1069.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Men's Biore Foam Type Face Wash",
+        "status":"Sale",
+        "normal_price":989.0,
+        "sale_price":890.0,
+        "ratings":5.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"Flowfushi Mote Liner Liquid Cherry Cheek",
+        "status":"Not sale",
+        "normal_price":2352.0,
+        "sale_price":2352.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Dejavu Lash Knockout Extra Volume Mascara",
+        "status":"Not sale",
+        "normal_price":2327.0,
+        "sale_price":2327.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Lululun Cleansing Balm",
+        "status":"Not sale",
+        "normal_price":3916.0,
+        "sale_price":3916.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Shiseido Ultimune Power Infusing Concentrate 50ml",
+        "status":"Not sale",
+        "normal_price":15220.0,
+        "sale_price":15220.0,
+        "ratings":5.0,
+        "count_reviews":1
+    },
+    {
+        "Product_name":"D-Up Volume Extension Mascara",
+        "status":"Not sale",
+        "normal_price":2674.0,
+        "sale_price":2674.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Biore UV Aqua Rich Watery Essence SPF50+\/PA++++ 110ml",
+        "status":"Not sale",
+        "normal_price":2183.0,
+        "sale_price":2183.0,
+        "ratings":0.0,
+        "count_reviews":0
+    },
+    {
+        "Product_name":"Shu Uemura Eyelash Curler",
+        "status":"Sold out",
+        "normal_price":1560.0,
+        "sale_price":1560.0,
+        "ratings":4.0,
+        "count_reviews":8
+    }
+]
