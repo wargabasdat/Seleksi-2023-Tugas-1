@@ -7,7 +7,7 @@ from getPokemonData import getPokemonInfo
 from getUrlList import getUrlList
 
 if (__name__ == "__main__"):
-    BASE_URL = "https://www.pokemon.com/"
+    BASE_URL = "https://www.pokemon.com/us/pokedex"
 
     # GET ALL URL FOR EACH POKEMON
     # note : when the webpage is opened, scroll down till the very end of list

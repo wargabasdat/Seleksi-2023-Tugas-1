@@ -14,7 +14,9 @@
 
 ## Description
 
-![Pikachu](https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png)
+<p align="center">
+  <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png" alt="Pikachu">
+</p>
 
 `The National Pokédex`, which can be viewed at https://www.pokemon.com/us/pokedex/, has the data for `1010 Pokémon` that were utilized in this project. The retrieved data contains the name, Pokédex ID, description, stats, skills, type, weakness, and other visual needs like picture URLs and the source website for each Pokémon.
 
@@ -35,7 +37,7 @@ To run this program, there are several prerequisites that need to be fulfilled:
 3. Install all required Python libraries.
 4. Install `PostgreSQL` and `pgAdmin 4`.
 5. Create a new server with the following connection configuration.
-   ![Alt text](<postgre configuration.png>)
+   ![Configure Postgre](Data%20Scraping/screenshot/postgre%20configuration.png)
 6. Create a `.env` file on root folder and define the PASSWORD variable with the value of your PostgreSQL account password.
 
 Once the prerequisites are met, follow these steps to run the data scraping program (optional):
@@ -43,13 +45,15 @@ Once the prerequisites are met, follow these steps to run the data scraping prog
 1. Open the `main.py` file in the `Data Scraping/src` directory.
 2. Run the program by clicking the `Play` button in the top right corner of Visual Studio Code (VSCode).
 3. When the first popup window opens, scroll down and click on `Load More Pokemon`, then manually scroll to the end of the list.
+   ![Get Url](Data%20Scraping/screenshot/geturl%20loadmore.png)
 4. After reaching the end of the list, the program will close automatically and save the URLs of each Pokémon in `url_list.json`.
 5. The program will continue to extract data from 1010 Pokémon. This step may take around 3-5 hours, depending on your internet speed.
+   ![Crawl Data](Data%20Scraping/screenshot/crawling%20pokemon%20data.png)
 6. After data extraction, the program will perform `Preprocessing Data` and create the tables dan insert data in PostgreSQL.
 7. The stored `.JSON` data can be found in `evolution.json`, `pokedex.json`, and `url_list.json` in the `Data Scraping/data` directory.
 8. The data stored in the DBMS can be exported and saved in the `Data Storing/export` directory.
 
-To run the data visualization program, open the `main.py` file in the `Data Visualization/src` directory and run it by clicking the `Play` button in the top right corner of your vscode.
+To view the Data Visualization, just open the file `Data Visualization/src/main.ipynb`. You do not need to execute any code as it has already been run previously.
 
 ## JSON Structure
 
@@ -98,11 +102,11 @@ In this project, there are 3 `.JSON` files used, namely `pokedex.json`, `evoluti
 
 ### ER Diagram
 
-![Alt text](<ER Diagram.jpg>)
+![Alt text](Data%20Storing/design/ER%20Diagram.jpg)
 
 ### Relational Model
 
-![Alt text](<Relational Model.jpg>)
+![Alt text](Data%20Storing/design/Relational%20Model.jpg)
 
 ## ERD to Relational Model Translation Process
 
@@ -122,7 +126,8 @@ Library used:
 - psycopg2
 - os
 - dotenv
-- pyqt6
+- matplotlib
+- numpy
 
 ## Author
 
