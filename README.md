@@ -32,11 +32,11 @@ Source Code dibentuk menggunakan bahasa Python dengan penambahan library utama B
 1. Download _repository_ ini
 2. Buka _terminal_ dalam folder Data Scraping/src
 3. Pastikan Python sudah ter-_download_ dalam komputer Anda
-4. Ketik ini di terminal tanpa tanda kutip
+4. Ketik ini di terminal
 ```
    python scraper.py
 ```
-5. Jika _command_ diatas tidak bisa maka jalankan _command_ ini tanpa tanda kutip
+5. Jika _command_ diatas tidak bisa maka jalankan _command_ ini
 ```
    "python3 scraper.py"
 ```
