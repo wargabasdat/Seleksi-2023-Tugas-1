@@ -89,9 +89,9 @@ Berikut adalah langkah-langkah untuk menjalankan program:
 
 3. Apabila ingin mendapatkan notifikasi melalui email apabila scraping sudah selesai, lakukan konfigurasi Google 2-Step-Verification dan generate Google Application specific password sesuai panduan berikut
 <br><br>[How to Generate Google App Specific Password for 2-Step Verification](https://shoutmetech.com/app-specific-google-2-step-verification/)
-<br><br>Jika sudah, buka file `main.ipynb` dan ubah `email_to_notify` dan `email_password` sesuai dengan email dan password yang disiapkan untuk mengirim notifikasi.
+<br><br>Jika sudah, buka file `email_config.txt` dan masukkan email yang akan dikirimkan notifikasi pada baris pertama dan generated password sebelumnya pada baris kedua. 
 
-4. Jalankan semua cell pada file `main.ipynb` untuk menjalankan program.
+4. Buka file `main.ipynb` dan jalankan semua cell pada file tersebut untuk menjalankan program.
 
 ### JSON Structure
 Berikut adalah JSON structure untuk data yang diperoleh
