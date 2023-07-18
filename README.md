@@ -1,7 +1,7 @@
 <h1 align="center">
   Seleksi Warga Basdat 2023
   
-  Data Scraping Pakaian Pria di Uniqlo
+  Data Scraping [Pakaian Pria di Uniqlo](https://www.uniqlo.com/id/id/men)
 </h1>
 <h3 align="center">
   18221016 | Justin Yusuf Abidjoko
@@ -29,10 +29,20 @@ Source Code dibentuk menggunakan bahasa Python dengan penambahan library utama B
 - Subcategories: {"subcategory_id", "subcategory"}
 
 ## How to use
-1.
-2.
-3.
-dst.
+1. Download _repository_ ini
+2. Buka _terminal_ dalam folder Data Scraping/src
+3. Pastikan Python sudah ter-_download_ dalam komputer Anda
+4. Ketik ini di terminal tanpa tanda kutip
+```
+   python sraper.py
+```
+5. Jika _command_ diatas tidak bisa maka jalankan _command_ ini tanpa tanda kutip
+```
+   "python3 scraper.py"
+```
+6. Tunggu selama 15-20 menit, waktu dapat berlangsung lebih lama berdasarkan internet yang Anda gunakan
+7. Lakukan langkah-langkah yang disebutkan dalam file [Importing to PostgreSQL Tutorial](https://github.com/justinjya/TUGAS_SELEKSI_1_18221016/blob/main/Data%20Scraping/src/import_tutorial.txt)
+8. Anda berhasil menambahkan hasil _data scraping website_ Uniqlo dalam RDBMS PostgreSQL
 
 ## Database Structure (ERD and relational diagram)
 ![image](https://github.com/justinjya/TUGAS_SELEKSI_1_18221016/assets/103380665/261becc9-343b-4d2c-8f07-340be272ea9c)
@@ -47,6 +57,11 @@ Entitas Products karena memiliki dua atribut multi-value maka pada relational di
 
 ## Screenshot of program
 ![image](https://github.com/justinjya/TUGAS_SELEKSI_1_18221016/assets/103380665/749ee812-6c58-4815-8a04-f216e251be42)
+![image](https://github.com/justinjya/TUGAS_SELEKSI_1_18221016/assets/103380665/78b800c7-b76b-4340-81ad-cdeb5b5433f5)
+![image](https://github.com/justinjya/TUGAS_SELEKSI_1_18221016/assets/103380665/59f6ed2d-cb30-47d8-8b7d-b69244508df0)
+![image](https://github.com/justinjya/TUGAS_SELEKSI_1_18221016/assets/103380665/495f129b-9da6-41e7-9218-c2dfd686087a)
+![image](https://github.com/justinjya/TUGAS_SELEKSI_1_18221016/assets/103380665/c6e69448-59d8-4eeb-955f-f31c6c3ebc32)
+![image](https://github.com/justinjya/TUGAS_SELEKSI_1_18221016/assets/103380665/a84aef23-d765-4891-a914-66d27a6126a6)
 
 ## References (Library used, etc)
 - Beautiful Soup
