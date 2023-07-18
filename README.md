@@ -52,6 +52,20 @@ data sebelum dan sesudah _formatting_ :
 Proses data _storing_ dilakukan pada project ini dengan memasukkan data hasil _scraping_ ke dalam RDBMS sesuai hasil desain ERD dan juga diagram relasional. RDBMS yang dihasilkan terdiri dari 5 relasi, yaitu `Country`, `University`, `Rank`, `University_website`, dan juga `info`. Pada relasi Country, University, dan Rank, data hasil _scraping_ telah dimasukkan. Relasi University_website dan juga info merupakan hasil dari pengembangan ERD sehingga belum terdapat data didalamnya, namun telah diatur mengenai _constraint_ yang sesuai.
 
 ## How to use
+#### Data Scraping
+1. Untuk melakukan data scraping, clone repository ini atau dapat juga langsung melakukan _download file_ `scraping webometrics_18221116.ipynb` yang terletak pada folder Data Scraping > src
+2. Lakukan edit path pada _line_ terakhir code menjadi path sesuai yang diinginkan
+3. _Run all code_ lalu tunggu proses _scraping_ hingga selesai
+4. Data JSON hasil _scraping_ dapat ditemukan pada _path_ yang telah diatur pada nomor 2
+
+#### Database
+1. Untuk menggunakan database yang telah ada, clone repository ini atau dapat juga langsung melakukan _download file_ `webometrics_asean.sql` yang terletak pada folder Data Storing > export
+2. Buka path folder tempat _file_ `webometrics_asean.sql` berada, lalu buka _command prompt_
+3. Buka postgreSQL dengan menggunakan _command_ `psql -U {nama username}` lalu masukkan _password_
+4. Buat _database_ untuk tempat meng-_import_ _file_ SQL dengan menggunakan _command_ `CREATE DATABASE {nama database};`
+5. Keluar dari postgreSQL dengan `ctrl+C`
+6. Masukkan command `psql -U {username} -d {nama database yang telah dibuat} < webometrics_asean.sql` untuk memasukkan data SQL yang telah ada
+7. Database mengenai webometrics ASEAN sudah bisa untuk digunakan
 
 ## JSON Structure
 Data hasil _scraping_ disimpan dalam format `JSON` yaitu pada `scraping_webometrics.json`. Struktur dari `file` JSON tersebut adalah sebagai berikut.
