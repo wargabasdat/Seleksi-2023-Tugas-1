@@ -179,5 +179,3 @@ def parseJsonToPostgre():
         conn.commit()
         cursor.close()
         conn.close()
-
-parseJsonToPostgre()
