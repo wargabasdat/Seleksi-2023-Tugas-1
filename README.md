@@ -42,7 +42,7 @@ Link for <a href="https://public.tableau.com/app/profile/ken.azizan/viz/SeleksiB
 </p>
 
 ## How To Use
-untuk data scrapping
+* untuk data scrapping
 1. Clone repository ini
 2. Install chromedriver melalui link berikut 'https://chromedriver.chromium.org/downloads', pastikan versi chromedriver sesuai versi chrome yang sudah terinstall
 3. Masukan chromedriver.exe pada folder data scraping si subfolder src
@@ -56,7 +56,7 @@ pip install time
 5. buka Scraping_Kokoro.ipynb di IDE pilihan anda
 6. Run All, jika ada error lakukan Run All lagi
 
-untuk memasukan data scraping ke database postgreSQL
+* untuk memasukan data scraping ke database postgreSQL
 1. Clone repository ini
 2. Install library ini terlebih dahulu
 ```
@@ -72,7 +72,7 @@ cd /your_file_path
 python store.py 
 ```
 
-untuk memasukan data SQL ke DBMS PostgreSQL
+* untuk memasukan data SQL ke DBMS PostgreSQL
 1. Clone repository ini
 2. Buka command prompt pada folder Data storing, subfolder export
 3. Masukan database pada DBMS dengan command berikut
