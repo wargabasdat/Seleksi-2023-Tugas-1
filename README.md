@@ -24,12 +24,12 @@ Link for <a href="https://public.tableau.com/app/profile/ken.azizan/viz/SeleksiB
 <br>
 
 <p>
-  Pada kali ini saya mengambil data dari 100 best seller produt pada Kokoro Japan. Data yang saya scrape dari Kokoro Japan diantaranya adalah nama produk, status produk, harga normal, harga saat sedang sale, rating, dan jumlah review pada produk. Data yang telah diambil akan disimpan pada DBMS PostgreSQL sebagai file SQL. PostgreSQL saya gunakan karena memiliki keamanan yang ketat, memiliki banyak fitur yang baik dalam menyimpan data yang kompleks, prosedur penyimpanan yag baik, dan transaksi dapat dilaksanan sesuai dengan kaidah ACID(Atomicity, Consistency, Isolation,Durability)
+  Pada kali ini saya mengambil data dari 100 best seller produt pada Kokoro Japan. Data yang saya scrape dari Kokoro Japan diantaranya adalah nama produk, status produk, harga normal, harga saat sedang sale, rating, dan jumlah review pada produk. Data yang telah diambil akan disimpan pada DBMS PostgreSQL sebagai file SQL. PostgreSQL saya gunakan karena memiliki syntax yang mudah dipelajari, dapat mengolah query yang kompleks, dapat menyimpan data yang kompleks, keamanan yang ketat, transaksi dapat dilaksanan sesuai dengan kaidah ACID(Atomicity, Consistency, Isolation,Durability), serta dapat digunakan secara gratis
 </p>
 <br>
 
 <p>
-  Saya memilih untuk melakukan Scrapping kkokoro japan karena saya tertarik untuk melihat tren produk jepang  yang sedang disukai. Beserta untuk mengetahui produk-produk yang memiliki potongan harga yang besar. Serta Produk-produk memiliki rating yang tinggi dengan jumlah review yang banyak
+  Saya memilih untuk melakukan Scrapping kokoro japan karena saya tertarik untuk melihat tren produk jepang  yang sedang disukai. Beserta untuk mengetahui produk-produk yang memiliki potongan harga yang besar. Serta Produk-produk memiliki rating yang tinggi dengan jumlah review yang banyak
 </p>
 
 ## Specification of the Program
