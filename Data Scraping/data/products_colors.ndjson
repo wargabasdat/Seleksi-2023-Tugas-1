@@ -1,0 +1,1867 @@
+{"product_id":1,"color":"WHITE"}
+{"product_id":1,"color":"GRAY"}
+{"product_id":1,"color":"DARK GRAY"}
+{"product_id":1,"color":"BLACK"}
+{"product_id":1,"color":"ORANGE"}
+{"product_id":1,"color":"YELLOW"}
+{"product_id":1,"color":"BLUE"}
+{"product_id":1,"color":"NAVY"}
+{"product_id":2,"color":"WHITE"}
+{"product_id":2,"color":"GRAY"}
+{"product_id":2,"color":"BLACK"}
+{"product_id":2,"color":"PINK"}
+{"product_id":2,"color":"DARK GREEN"}
+{"product_id":2,"color":"BLUE"}
+{"product_id":2,"color":"NAVY"}
+{"product_id":3,"color":"WHITE"}
+{"product_id":3,"color":"GRAY"}
+{"product_id":3,"color":"BLACK"}
+{"product_id":3,"color":"PINK"}
+{"product_id":3,"color":"YELLOW"}
+{"product_id":3,"color":"GREEN"}
+{"product_id":3,"color":"BLUE"}
+{"product_id":3,"color":"NAVY"}
+{"product_id":4,"color":"WHITE"}
+{"product_id":4,"color":"GRAY"}
+{"product_id":4,"color":"BLACK"}
+{"product_id":4,"color":"RED"}
+{"product_id":4,"color":"ORANGE"}
+{"product_id":4,"color":"NATURAL"}
+{"product_id":4,"color":"BROWN"}
+{"product_id":4,"color":"GREEN"}
+{"product_id":4,"color":"OLIVE"}
+{"product_id":4,"color":"BLUE"}
+{"product_id":4,"color":"PURPLE"}
+{"product_id":5,"color":"WHITE"}
+{"product_id":5,"color":"BLACK"}
+{"product_id":5,"color":"BEIGE"}
+{"product_id":5,"color":"BROWN"}
+{"product_id":5,"color":"BLUE"}
+{"product_id":6,"color":"WHITE"}
+{"product_id":6,"color":"LIGHT GRAY"}
+{"product_id":6,"color":"GRAY"}
+{"product_id":6,"color":"BLACK"}
+{"product_id":6,"color":"PINK"}
+{"product_id":6,"color":"ORANGE"}
+{"product_id":6,"color":"BEIGE"}
+{"product_id":6,"color":"GREEN"}
+{"product_id":6,"color":"OLIVE"}
+{"product_id":6,"color":"BLUE"}
+{"product_id":6,"color":"PURPLE"}
+{"product_id":7,"color":"WHITE"}
+{"product_id":7,"color":"LIGHT GRAY"}
+{"product_id":7,"color":"BLACK"}
+{"product_id":7,"color":"BEIGE"}
+{"product_id":7,"color":"NAVY"}
+{"product_id":8,"color":"GRAY"}
+{"product_id":8,"color":"BEIGE"}
+{"product_id":8,"color":"NAVY"}
+{"product_id":9,"color":"WINE"}
+{"product_id":9,"color":"NAVY"}
+{"product_id":10,"color":"PINK"}
+{"product_id":10,"color":"BLUE"}
+{"product_id":11,"color":"GRAY"}
+{"product_id":11,"color":"NAVY"}
+{"product_id":12,"color":"YELLOW"}
+{"product_id":12,"color":"GREEN"}
+{"product_id":12,"color":"NAVY"}
+{"product_id":13,"color":"WHITE"}
+{"product_id":13,"color":"GRAY"}
+{"product_id":13,"color":"BLACK"}
+{"product_id":13,"color":"ORANGE"}
+{"product_id":13,"color":"CREAM"}
+{"product_id":13,"color":"GREEN"}
+{"product_id":13,"color":"BLUE"}
+{"product_id":14,"color":"WHITE"}
+{"product_id":14,"color":"DARK GRAY"}
+{"product_id":14,"color":"BLACK"}
+{"product_id":14,"color":"YELLOW"}
+{"product_id":14,"color":"DARK GREEN"}
+{"product_id":14,"color":"BLUE"}
+{"product_id":15,"color":"GRAY"}
+{"product_id":15,"color":"DARK GRAY"}
+{"product_id":15,"color":"RED"}
+{"product_id":15,"color":"BLUE"}
+{"product_id":16,"color":"WHITE"}
+{"product_id":16,"color":"BLACK"}
+{"product_id":16,"color":"GREEN"}
+{"product_id":16,"color":"BLUE"}
+{"product_id":16,"color":"PURPLE"}
+{"product_id":17,"color":"WHITE"}
+{"product_id":17,"color":"DARK GRAY"}
+{"product_id":17,"color":"LIGHT BLUE"}
+{"product_id":18,"color":"WHITE"}
+{"product_id":18,"color":"BLACK"}
+{"product_id":18,"color":"NAVY"}
+{"product_id":19,"color":"WHITE"}
+{"product_id":19,"color":"BLACK"}
+{"product_id":19,"color":"PURPLE"}
+{"product_id":20,"color":"WHITE"}
+{"product_id":20,"color":"GRAY"}
+{"product_id":20,"color":"BLACK"}
+{"product_id":20,"color":"PINK"}
+{"product_id":20,"color":"RED"}
+{"product_id":20,"color":"ORANGE"}
+{"product_id":20,"color":"YELLOW"}
+{"product_id":20,"color":"GREEN"}
+{"product_id":20,"color":"BLUE"}
+{"product_id":20,"color":"NAVY"}
+{"product_id":20,"color":"PURPLE"}
+{"product_id":21,"color":"WHITE"}
+{"product_id":21,"color":"BLACK"}
+{"product_id":22,"color":"WHITE"}
+{"product_id":22,"color":"BLACK"}
+{"product_id":22,"color":"GREEN"}
+{"product_id":22,"color":"BLUE"}
+{"product_id":22,"color":"PURPLE"}
+{"product_id":23,"color":"GRAY"}
+{"product_id":24,"color":"WHITE"}
+{"product_id":24,"color":"LIGHT BLUE"}
+{"product_id":24,"color":"NAVY"}
+{"product_id":25,"color":"WHITE"}
+{"product_id":25,"color":"GRAY"}
+{"product_id":25,"color":"BLACK"}
+{"product_id":25,"color":"PINK"}
+{"product_id":26,"color":"WHITE"}
+{"product_id":26,"color":"BLACK"}
+{"product_id":27,"color":"WHITE"}
+{"product_id":27,"color":"BLACK"}
+{"product_id":28,"color":"WHITE"}
+{"product_id":28,"color":"LIGHT BLUE"}
+{"product_id":28,"color":"NAVY"}
+{"product_id":29,"color":"GRAY"}
+{"product_id":29,"color":"RED"}
+{"product_id":29,"color":"BLUE"}
+{"product_id":30,"color":"GRAY"}
+{"product_id":30,"color":"BLACK"}
+{"product_id":30,"color":"PINK"}
+{"product_id":30,"color":"OLIVE"}
+{"product_id":30,"color":"BLUE"}
+{"product_id":30,"color":"NAVY"}
+{"product_id":31,"color":"WHITE"}
+{"product_id":31,"color":"GRAY"}
+{"product_id":31,"color":"BLACK"}
+{"product_id":31,"color":"ORANGE"}
+{"product_id":31,"color":"NATURAL"}
+{"product_id":31,"color":"GREEN"}
+{"product_id":31,"color":"BLUE"}
+{"product_id":32,"color":"OFF WHITE"}
+{"product_id":32,"color":"BLACK"}
+{"product_id":32,"color":"NATURAL"}
+{"product_id":32,"color":"YELLOW"}
+{"product_id":32,"color":"DARK GREEN"}
+{"product_id":33,"color":"OFF WHITE"}
+{"product_id":33,"color":"GRAY"}
+{"product_id":33,"color":"BLACK"}
+{"product_id":33,"color":"NATURAL"}
+{"product_id":33,"color":"OLIVE"}
+{"product_id":33,"color":"DARK GREEN"}
+{"product_id":34,"color":"OFF WHITE"}
+{"product_id":34,"color":"BLUE"}
+{"product_id":35,"color":"WHITE"}
+{"product_id":35,"color":"GRAY"}
+{"product_id":35,"color":"BLACK"}
+{"product_id":35,"color":"YELLOW"}
+{"product_id":35,"color":"GREEN"}
+{"product_id":35,"color":"PURPLE"}
+{"product_id":36,"color":"WHITE"}
+{"product_id":36,"color":"GRAY"}
+{"product_id":36,"color":"BLACK"}
+{"product_id":36,"color":"ORANGE"}
+{"product_id":36,"color":"NATURAL"}
+{"product_id":36,"color":"GREEN"}
+{"product_id":36,"color":"BLUE"}
+{"product_id":37,"color":"WHITE"}
+{"product_id":37,"color":"BLACK"}
+{"product_id":37,"color":"BROWN"}
+{"product_id":37,"color":"DARK GREEN"}
+{"product_id":37,"color":"NAVY"}
+{"product_id":38,"color":"WHITE"}
+{"product_id":38,"color":"GRAY"}
+{"product_id":38,"color":"BLACK"}
+{"product_id":38,"color":"RED"}
+{"product_id":38,"color":"BROWN"}
+{"product_id":38,"color":"OLIVE"}
+{"product_id":38,"color":"NAVY"}
+{"product_id":39,"color":"WHITE"}
+{"product_id":39,"color":"BLACK"}
+{"product_id":39,"color":"NAVY"}
+{"product_id":40,"color":"WHITE"}
+{"product_id":41,"color":"RED"}
+{"product_id":42,"color":"BLACK"}
+{"product_id":43,"color":"OLIVE"}
+{"product_id":44,"color":"NAVY"}
+{"product_id":45,"color":"YELLOW"}
+{"product_id":46,"color":"BLUE"}
+{"product_id":47,"color":"WHITE"}
+{"product_id":48,"color":"YELLOW"}
+{"product_id":49,"color":"WHITE"}
+{"product_id":50,"color":"DARK GRAY"}
+{"product_id":51,"color":"WHITE"}
+{"product_id":52,"color":"NAVY"}
+{"product_id":53,"color":"BLACK"}
+{"product_id":54,"color":"BLACK"}
+{"product_id":55,"color":"ORANGE"}
+{"product_id":56,"color":"WHITE"}
+{"product_id":57,"color":"WHITE"}
+{"product_id":58,"color":"WHITE"}
+{"product_id":59,"color":"PINK"}
+{"product_id":60,"color":"WHITE"}
+{"product_id":61,"color":"ORANGE"}
+{"product_id":62,"color":"DARK GRAY"}
+{"product_id":63,"color":"WHITE"}
+{"product_id":64,"color":"BLACK"}
+{"product_id":65,"color":"WHITE"}
+{"product_id":66,"color":"NAVY"}
+{"product_id":67,"color":"WHITE"}
+{"product_id":68,"color":"DARK GRAY"}
+{"product_id":69,"color":"WINE"}
+{"product_id":70,"color":"BLUE"}
+{"product_id":71,"color":"BLUE"}
+{"product_id":72,"color":"BLACK"}
+{"product_id":73,"color":"WHITE"}
+{"product_id":74,"color":"WHITE"}
+{"product_id":75,"color":"Other"}
+{"product_id":76,"color":"PURPLE"}
+{"product_id":77,"color":"WHITE"}
+{"product_id":78,"color":"WHITE"}
+{"product_id":79,"color":"BLACK"}
+{"product_id":80,"color":"BLUE"}
+{"product_id":81,"color":"ORANGE"}
+{"product_id":82,"color":"WHITE"}
+{"product_id":83,"color":"GREEN"}
+{"product_id":84,"color":"YELLOW"}
+{"product_id":85,"color":"BLACK"}
+{"product_id":85,"color":"OLIVE"}
+{"product_id":86,"color":"WHITE"}
+{"product_id":86,"color":"ORANGE"}
+{"product_id":87,"color":"BLACK"}
+{"product_id":88,"color":"BLACK"}
+{"product_id":89,"color":"WHITE"}
+{"product_id":90,"color":"WHITE"}
+{"product_id":91,"color":"OFF WHITE"}
+{"product_id":92,"color":"DARK GRAY"}
+{"product_id":93,"color":"YELLOW"}
+{"product_id":94,"color":"NAVY"}
+{"product_id":95,"color":"WHITE"}
+{"product_id":96,"color":"BLUE"}
+{"product_id":97,"color":"BLACK"}
+{"product_id":98,"color":"BLACK"}
+{"product_id":99,"color":"GREEN"}
+{"product_id":100,"color":"WHITE"}
+{"product_id":101,"color":"BLACK"}
+{"product_id":102,"color":"PINK"}
+{"product_id":103,"color":"PINK"}
+{"product_id":104,"color":"BLACK"}
+{"product_id":105,"color":"WHITE"}
+{"product_id":106,"color":"PINK"}
+{"product_id":107,"color":"WHITE"}
+{"product_id":108,"color":"GREEN"}
+{"product_id":109,"color":"WHITE"}
+{"product_id":110,"color":"WHITE"}
+{"product_id":111,"color":"BLACK"}
+{"product_id":112,"color":"WHITE"}
+{"product_id":113,"color":"BLACK"}
+{"product_id":114,"color":"BLACK"}
+{"product_id":115,"color":"WHITE"}
+{"product_id":116,"color":"NAVY"}
+{"product_id":117,"color":"BLACK"}
+{"product_id":118,"color":"WHITE"}
+{"product_id":119,"color":"WHITE"}
+{"product_id":120,"color":"WHITE"}
+{"product_id":121,"color":"NAVY"}
+{"product_id":122,"color":"BEIGE"}
+{"product_id":123,"color":"WHITE"}
+{"product_id":124,"color":"WHITE"}
+{"product_id":125,"color":"BLUE"}
+{"product_id":126,"color":"GREEN"}
+{"product_id":127,"color":"WHITE"}
+{"product_id":128,"color":"BLACK"}
+{"product_id":129,"color":"WHITE"}
+{"product_id":130,"color":"WHITE"}
+{"product_id":131,"color":"BLACK"}
+{"product_id":132,"color":"WHITE"}
+{"product_id":133,"color":"GREEN"}
+{"product_id":134,"color":"WHITE"}
+{"product_id":135,"color":"NATURAL"}
+{"product_id":136,"color":"WHITE"}
+{"product_id":137,"color":"WHITE"}
+{"product_id":138,"color":"BLACK"}
+{"product_id":139,"color":"WHITE"}
+{"product_id":140,"color":"WHITE"}
+{"product_id":141,"color":"WHITE"}
+{"product_id":142,"color":"WHITE"}
+{"product_id":143,"color":"WHITE"}
+{"product_id":144,"color":"GRAY"}
+{"product_id":145,"color":"WHITE"}
+{"product_id":146,"color":"NAVY"}
+{"product_id":147,"color":"GRAY"}
+{"product_id":148,"color":"WHITE"}
+{"product_id":149,"color":"GRAY"}
+{"product_id":150,"color":"PURPLE"}
+{"product_id":151,"color":"GRAY"}
+{"product_id":152,"color":"LIGHT BLUE"}
+{"product_id":153,"color":"WHITE"}
+{"product_id":154,"color":"NATURAL"}
+{"product_id":155,"color":"WHITE"}
+{"product_id":156,"color":"WHITE"}
+{"product_id":157,"color":"PINK"}
+{"product_id":158,"color":"BLACK"}
+{"product_id":159,"color":"OFF WHITE"}
+{"product_id":160,"color":"BLUE"}
+{"product_id":161,"color":"BLUE"}
+{"product_id":162,"color":"NAVY"}
+{"product_id":163,"color":"WHITE"}
+{"product_id":163,"color":"BLUE"}
+{"product_id":164,"color":"WHITE"}
+{"product_id":164,"color":"LIGHT GREEN"}
+{"product_id":164,"color":"BLUE"}
+{"product_id":165,"color":"WHITE"}
+{"product_id":166,"color":"BLACK"}
+{"product_id":167,"color":"BLACK"}
+{"product_id":168,"color":"BLACK"}
+{"product_id":169,"color":"WHITE"}
+{"product_id":170,"color":"WHITE"}
+{"product_id":171,"color":"RED"}
+{"product_id":172,"color":"BLUE"}
+{"product_id":173,"color":"BLACK"}
+{"product_id":174,"color":"WHITE"}
+{"product_id":175,"color":"WHITE"}
+{"product_id":176,"color":"NATURAL"}
+{"product_id":177,"color":"WHITE"}
+{"product_id":178,"color":"WHITE"}
+{"product_id":179,"color":"WHITE"}
+{"product_id":180,"color":"WINE"}
+{"product_id":180,"color":"NATURAL"}
+{"product_id":180,"color":"NAVY"}
+{"product_id":181,"color":"YELLOW"}
+{"product_id":181,"color":"GREEN"}
+{"product_id":182,"color":"WHITE"}
+{"product_id":182,"color":"PINK"}
+{"product_id":182,"color":"NAVY"}
+{"product_id":183,"color":"WHITE"}
+{"product_id":183,"color":"YELLOW"}
+{"product_id":183,"color":"NAVY"}
+{"product_id":184,"color":"WHITE"}
+{"product_id":184,"color":"GREEN"}
+{"product_id":184,"color":"NAVY"}
+{"product_id":185,"color":"WHITE"}
+{"product_id":185,"color":"GRAY"}
+{"product_id":185,"color":"BLACK"}
+{"product_id":185,"color":"PINK"}
+{"product_id":185,"color":"RED"}
+{"product_id":185,"color":"ORANGE"}
+{"product_id":185,"color":"YELLOW"}
+{"product_id":185,"color":"GREEN"}
+{"product_id":185,"color":"BLUE"}
+{"product_id":185,"color":"NAVY"}
+{"product_id":185,"color":"PURPLE"}
+{"product_id":186,"color":"WHITE"}
+{"product_id":186,"color":"BLACK"}
+{"product_id":187,"color":"WHITE"}
+{"product_id":187,"color":"GRAY"}
+{"product_id":187,"color":"BLACK"}
+{"product_id":187,"color":"PINK"}
+{"product_id":188,"color":"WHITE"}
+{"product_id":188,"color":"BLACK"}
+{"product_id":188,"color":"GREEN"}
+{"product_id":188,"color":"BLUE"}
+{"product_id":188,"color":"PURPLE"}
+{"product_id":189,"color":"GRAY"}
+{"product_id":190,"color":"WHITE"}
+{"product_id":190,"color":"LIGHT BLUE"}
+{"product_id":190,"color":"NAVY"}
+{"product_id":191,"color":"WHITE"}
+{"product_id":191,"color":"BLACK"}
+{"product_id":192,"color":"WHITE"}
+{"product_id":192,"color":"BLACK"}
+{"product_id":193,"color":"WHITE"}
+{"product_id":193,"color":"LIGHT BLUE"}
+{"product_id":193,"color":"NAVY"}
+{"product_id":194,"color":"GRAY"}
+{"product_id":194,"color":"RED"}
+{"product_id":194,"color":"BLUE"}
+{"product_id":195,"color":"WHITE"}
+{"product_id":195,"color":"BLACK"}
+{"product_id":196,"color":"WHITE"}
+{"product_id":196,"color":"BLACK"}
+{"product_id":196,"color":"GREEN"}
+{"product_id":196,"color":"BLUE"}
+{"product_id":196,"color":"NAVY"}
+{"product_id":197,"color":"WHITE"}
+{"product_id":197,"color":"NAVY"}
+{"product_id":198,"color":"WHITE"}
+{"product_id":198,"color":"GRAY"}
+{"product_id":198,"color":"BLACK"}
+{"product_id":198,"color":"DARK GREEN"}
+{"product_id":199,"color":"GREEN"}
+{"product_id":199,"color":"PURPLE"}
+{"product_id":200,"color":"DARK GRAY"}
+{"product_id":200,"color":"BLUE"}
+{"product_id":201,"color":"RED"}
+{"product_id":201,"color":"BLUE"}
+{"product_id":202,"color":"OFF WHITE"}
+{"product_id":202,"color":"GRAY"}
+{"product_id":202,"color":"BLACK"}
+{"product_id":202,"color":"YELLOW"}
+{"product_id":202,"color":"DARK GREEN"}
+{"product_id":202,"color":"NAVY"}
+{"product_id":203,"color":"OFF WHITE"}
+{"product_id":203,"color":"BLACK"}
+{"product_id":203,"color":"NAVY"}
+{"product_id":204,"color":"OFF WHITE"}
+{"product_id":204,"color":"LIGHT GRAY"}
+{"product_id":204,"color":"DARK GRAY"}
+{"product_id":204,"color":"BLACK"}
+{"product_id":204,"color":"GREEN"}
+{"product_id":204,"color":"BLUE"}
+{"product_id":205,"color":"ORANGE"}
+{"product_id":205,"color":"GREEN"}
+{"product_id":205,"color":"BLUE"}
+{"product_id":206,"color":"LIGHT GRAY"}
+{"product_id":206,"color":"GRAY"}
+{"product_id":206,"color":"BLACK"}
+{"product_id":206,"color":"ORANGE"}
+{"product_id":206,"color":"BLUE"}
+{"product_id":207,"color":"DARK GRAY"}
+{"product_id":207,"color":"WINE"}
+{"product_id":208,"color":"OFF WHITE"}
+{"product_id":208,"color":"GRAY"}
+{"product_id":208,"color":"BLACK"}
+{"product_id":208,"color":"PINK"}
+{"product_id":208,"color":"NATURAL"}
+{"product_id":208,"color":"YELLOW"}
+{"product_id":208,"color":"GREEN"}
+{"product_id":208,"color":"BLUE"}
+{"product_id":208,"color":"NAVY"}
+{"product_id":208,"color":"PURPLE"}
+{"product_id":209,"color":"OFF WHITE"}
+{"product_id":209,"color":"GRAY"}
+{"product_id":209,"color":"BLACK"}
+{"product_id":209,"color":"RED"}
+{"product_id":209,"color":"YELLOW"}
+{"product_id":209,"color":"PURPLE"}
+{"product_id":210,"color":"DARK GRAY"}
+{"product_id":211,"color":"LIGHT GRAY"}
+{"product_id":211,"color":"BLACK"}
+{"product_id":211,"color":"WINE"}
+{"product_id":211,"color":"BLUE"}
+{"product_id":212,"color":"BLUE"}
+{"product_id":213,"color":"OFF WHITE"}
+{"product_id":213,"color":"BLACK"}
+{"product_id":213,"color":"YELLOW"}
+{"product_id":213,"color":"DARK GREEN"}
+{"product_id":213,"color":"BLUE"}
+{"product_id":214,"color":"LIGHT GRAY"}
+{"product_id":214,"color":"GRAY"}
+{"product_id":214,"color":"BLACK"}
+{"product_id":215,"color":"LIGHT GRAY"}
+{"product_id":215,"color":"GRAY"}
+{"product_id":215,"color":"NAVY"}
+{"product_id":216,"color":"WHITE"}
+{"product_id":216,"color":"GRAY"}
+{"product_id":216,"color":"DARK GRAY"}
+{"product_id":216,"color":"BLACK"}
+{"product_id":217,"color":"OFF WHITE"}
+{"product_id":217,"color":"GRAY"}
+{"product_id":217,"color":"BLACK"}
+{"product_id":217,"color":"DARK GREEN"}
+{"product_id":217,"color":"BLUE"}
+{"product_id":217,"color":"NAVY"}
+{"product_id":218,"color":"LIGHT GRAY"}
+{"product_id":218,"color":"BLUE"}
+{"product_id":219,"color":"PINK"}
+{"product_id":219,"color":"BEIGE"}
+{"product_id":219,"color":"DARK GREEN"}
+{"product_id":220,"color":"LIGHT GRAY"}
+{"product_id":220,"color":"DARK GRAY"}
+{"product_id":220,"color":"BLACK"}
+{"product_id":220,"color":"BLUE"}
+{"product_id":221,"color":"WHITE"}
+{"product_id":221,"color":"NATURAL"}
+{"product_id":221,"color":"BROWN"}
+{"product_id":221,"color":"OLIVE"}
+{"product_id":221,"color":"BLUE"}
+{"product_id":222,"color":"WHITE"}
+{"product_id":222,"color":"BLACK"}
+{"product_id":222,"color":"DARK ORANGE"}
+{"product_id":222,"color":"BROWN"}
+{"product_id":222,"color":"OLIVE"}
+{"product_id":222,"color":"BLUE"}
+{"product_id":223,"color":"WHITE"}
+{"product_id":223,"color":"BLACK"}
+{"product_id":223,"color":"BEIGE"}
+{"product_id":223,"color":"BROWN"}
+{"product_id":223,"color":"OLIVE"}
+{"product_id":223,"color":"BLUE"}
+{"product_id":224,"color":"OLIVE"}
+{"product_id":224,"color":"NAVY"}
+{"product_id":225,"color":"OFF WHITE"}
+{"product_id":226,"color":"GREEN"}
+{"product_id":226,"color":"BLUE"}
+{"product_id":227,"color":"BLACK"}
+{"product_id":227,"color":"BEIGE"}
+{"product_id":228,"color":"BLACK"}
+{"product_id":229,"color":"RED"}
+{"product_id":230,"color":"WHITE"}
+{"product_id":231,"color":"OFF WHITE"}
+{"product_id":231,"color":"GRAY"}
+{"product_id":231,"color":"PINK"}
+{"product_id":231,"color":"BLUE"}
+{"product_id":232,"color":"OFF WHITE"}
+{"product_id":232,"color":"GRAY"}
+{"product_id":232,"color":"PINK"}
+{"product_id":233,"color":"GRAY"}
+{"product_id":233,"color":"OLIVE"}
+{"product_id":233,"color":"BLUE"}
+{"product_id":234,"color":"WHITE"}
+{"product_id":234,"color":"WINE"}
+{"product_id":234,"color":"NAVY"}
+{"product_id":235,"color":"RED"}
+{"product_id":235,"color":"BLUE"}
+{"product_id":236,"color":"YELLOW"}
+{"product_id":236,"color":"BLUE"}
+{"product_id":237,"color":"GREEN"}
+{"product_id":237,"color":"BLUE"}
+{"product_id":238,"color":"WHITE"}
+{"product_id":238,"color":"WINE"}
+{"product_id":238,"color":"NAVY"}
+{"product_id":239,"color":"WHITE"}
+{"product_id":239,"color":"GRAY"}
+{"product_id":239,"color":"WINE"}
+{"product_id":239,"color":"NAVY"}
+{"product_id":240,"color":"WHITE"}
+{"product_id":240,"color":"GRAY"}
+{"product_id":240,"color":"MUSTARD"}
+{"product_id":240,"color":"OLIVE"}
+{"product_id":240,"color":"BLUE"}
+{"product_id":240,"color":"NAVY"}
+{"product_id":241,"color":"WHITE"}
+{"product_id":241,"color":"NAVY"}
+{"product_id":242,"color":"NAVY"}
+{"product_id":243,"color":"GREEN"}
+{"product_id":244,"color":"YELLOW"}
+{"product_id":244,"color":"BLUE"}
+{"product_id":245,"color":"BLUE"}
+{"product_id":245,"color":"PURPLE"}
+{"product_id":246,"color":"ORANGE"}
+{"product_id":246,"color":"GREEN"}
+{"product_id":247,"color":"BLUE"}
+{"product_id":247,"color":"NAVY"}
+{"product_id":248,"color":"BLACK"}
+{"product_id":249,"color":"BROWN"}
+{"product_id":250,"color":"GREEN"}
+{"product_id":251,"color":"BEIGE"}
+{"product_id":252,"color":"WHITE"}
+{"product_id":252,"color":"ORANGE"}
+{"product_id":252,"color":"BEIGE"}
+{"product_id":252,"color":"OLIVE"}
+{"product_id":252,"color":"NAVY"}
+{"product_id":253,"color":"ORANGE"}
+{"product_id":253,"color":"BEIGE"}
+{"product_id":253,"color":"DARK GREEN"}
+{"product_id":254,"color":"OFF WHITE"}
+{"product_id":254,"color":"WINE"}
+{"product_id":254,"color":"BEIGE"}
+{"product_id":254,"color":"OLIVE"}
+{"product_id":254,"color":"NAVY"}
+{"product_id":255,"color":"GRAY"}
+{"product_id":256,"color":"OFF WHITE"}
+{"product_id":256,"color":"GRAY"}
+{"product_id":256,"color":"PINK"}
+{"product_id":256,"color":"BLUE"}
+{"product_id":256,"color":"NAVY"}
+{"product_id":257,"color":"OFF WHITE"}
+{"product_id":257,"color":"GRAY"}
+{"product_id":257,"color":"BLUE"}
+{"product_id":258,"color":"GRAY"}
+{"product_id":258,"color":"RED"}
+{"product_id":259,"color":"GREEN"}
+{"product_id":259,"color":"BLUE"}
+{"product_id":260,"color":"RED"}
+{"product_id":260,"color":"NAVY"}
+{"product_id":261,"color":"GRAY"}
+{"product_id":261,"color":"OLIVE"}
+{"product_id":262,"color":"OFF WHITE"}
+{"product_id":262,"color":"GRAY"}
+{"product_id":262,"color":"BROWN"}
+{"product_id":262,"color":"BLUE"}
+{"product_id":262,"color":"NAVY"}
+{"product_id":263,"color":"NATURAL"}
+{"product_id":263,"color":"OLIVE"}
+{"product_id":264,"color":"WINE"}
+{"product_id":265,"color":"BEIGE"}
+{"product_id":265,"color":"BLUE"}
+{"product_id":266,"color":"PINK"}
+{"product_id":266,"color":"BLUE"}
+{"product_id":267,"color":"YELLOW"}
+{"product_id":267,"color":"GREEN"}
+{"product_id":268,"color":"NATURAL"}
+{"product_id":268,"color":"BLUE"}
+{"product_id":269,"color":"OLIVE"}
+{"product_id":270,"color":"WINE"}
+{"product_id":271,"color":"YELLOW"}
+{"product_id":271,"color":"BLUE"}
+{"product_id":272,"color":"GRAY"}
+{"product_id":272,"color":"BEIGE"}
+{"product_id":273,"color":"BLUE"}
+{"product_id":274,"color":"GREEN"}
+{"product_id":275,"color":"YELLOW"}
+{"product_id":276,"color":"OFF WHITE"}
+{"product_id":276,"color":"RED"}
+{"product_id":276,"color":"GREEN"}
+{"product_id":276,"color":"BLUE"}
+{"product_id":277,"color":"BROWN"}
+{"product_id":278,"color":"BLUE"}
+{"product_id":279,"color":"BROWN"}
+{"product_id":279,"color":"OLIVE"}
+{"product_id":279,"color":"NAVY"}
+{"product_id":280,"color":"OFF WHITE"}
+{"product_id":280,"color":"BROWN"}
+{"product_id":280,"color":"OLIVE"}
+{"product_id":280,"color":"BLUE"}
+{"product_id":280,"color":"NAVY"}
+{"product_id":281,"color":"BLUE"}
+{"product_id":282,"color":"WINE"}
+{"product_id":283,"color":"ORANGE"}
+{"product_id":283,"color":"BROWN"}
+{"product_id":284,"color":"GREEN"}
+{"product_id":284,"color":"BLUE"}
+{"product_id":285,"color":"YELLOW"}
+{"product_id":285,"color":"BLUE"}
+{"product_id":286,"color":"WINE"}
+{"product_id":286,"color":"BLUE"}
+{"product_id":287,"color":"WHITE"}
+{"product_id":287,"color":"BLUE"}
+{"product_id":288,"color":"BLUE"}
+{"product_id":288,"color":"PURPLE"}
+{"product_id":289,"color":"GREEN"}
+{"product_id":289,"color":"BLUE"}
+{"product_id":290,"color":"WHITE"}
+{"product_id":290,"color":"GRAY"}
+{"product_id":290,"color":"BLUE"}
+{"product_id":290,"color":"NAVY"}
+{"product_id":290,"color":"LIGHT PURPLE"}
+{"product_id":291,"color":"BEIGE"}
+{"product_id":292,"color":"BLUE"}
+{"product_id":293,"color":"GRAY"}
+{"product_id":294,"color":"BLACK"}
+{"product_id":294,"color":"BEIGE"}
+{"product_id":294,"color":"OLIVE"}
+{"product_id":295,"color":"RED"}
+{"product_id":295,"color":"BLUE"}
+{"product_id":296,"color":"WHITE"}
+{"product_id":296,"color":"OLIVE"}
+{"product_id":296,"color":"NAVY"}
+{"product_id":297,"color":"WHITE"}
+{"product_id":297,"color":"GRAY"}
+{"product_id":297,"color":"BLACK"}
+{"product_id":297,"color":"RED"}
+{"product_id":297,"color":"BEIGE"}
+{"product_id":297,"color":"YELLOW"}
+{"product_id":297,"color":"OLIVE"}
+{"product_id":297,"color":"BLUE"}
+{"product_id":298,"color":"DARK GREEN"}
+{"product_id":299,"color":"NAVY"}
+{"product_id":300,"color":"GRAY"}
+{"product_id":301,"color":"GRAY"}
+{"product_id":301,"color":"BLACK"}
+{"product_id":301,"color":"BROWN"}
+{"product_id":302,"color":"DARK GRAY"}
+{"product_id":303,"color":"WINE"}
+{"product_id":303,"color":"DARK GREEN"}
+{"product_id":304,"color":"GRAY"}
+{"product_id":304,"color":"BLUE"}
+{"product_id":305,"color":"OFF WHITE"}
+{"product_id":305,"color":"GRAY"}
+{"product_id":306,"color":"BLUE"}
+{"product_id":307,"color":"DARK BROWN"}
+{"product_id":307,"color":"BLUE"}
+{"product_id":308,"color":"YELLOW"}
+{"product_id":309,"color":"BLACK"}
+{"product_id":309,"color":"RED"}
+{"product_id":309,"color":"ORANGE"}
+{"product_id":309,"color":"BLUE"}
+{"product_id":310,"color":"GRAY"}
+{"product_id":310,"color":"YELLOW"}
+{"product_id":311,"color":"OFF WHITE"}
+{"product_id":311,"color":"NAVY"}
+{"product_id":312,"color":"BROWN"}
+{"product_id":312,"color":"GREEN"}
+{"product_id":313,"color":"BROWN"}
+{"product_id":313,"color":"DARK GREEN"}
+{"product_id":314,"color":"BLUE"}
+{"product_id":315,"color":"BLUE"}
+{"product_id":316,"color":"WHITE"}
+{"product_id":317,"color":"BLUE"}
+{"product_id":318,"color":"BLUE"}
+{"product_id":319,"color":"WHITE"}
+{"product_id":319,"color":"BLACK"}
+{"product_id":319,"color":"BLUE"}
+{"product_id":320,"color":"WHITE"}
+{"product_id":320,"color":"BLACK"}
+{"product_id":320,"color":"LIGHT BLUE"}
+{"product_id":321,"color":"WHITE"}
+{"product_id":321,"color":"BLUE"}
+{"product_id":322,"color":"OFF WHITE"}
+{"product_id":322,"color":"GRAY"}
+{"product_id":322,"color":"PINK"}
+{"product_id":323,"color":"OFF WHITE"}
+{"product_id":323,"color":"GRAY"}
+{"product_id":323,"color":"BLUE"}
+{"product_id":324,"color":"WHITE"}
+{"product_id":324,"color":"BLUE"}
+{"product_id":325,"color":"BLUE"}
+{"product_id":326,"color":"OFF WHITE"}
+{"product_id":326,"color":"BLACK"}
+{"product_id":327,"color":"BEIGE"}
+{"product_id":327,"color":"GREEN"}
+{"product_id":327,"color":"NAVY"}
+{"product_id":328,"color":"OFF WHITE"}
+{"product_id":328,"color":"BLACK"}
+{"product_id":328,"color":"YELLOW"}
+{"product_id":328,"color":"DARK GREEN"}
+{"product_id":328,"color":"BLUE"}
+{"product_id":329,"color":"PINK"}
+{"product_id":329,"color":"BEIGE"}
+{"product_id":329,"color":"DARK GREEN"}
+{"product_id":330,"color":"DARK GRAY"}
+{"product_id":330,"color":"BLACK"}
+{"product_id":330,"color":"ORANGE"}
+{"product_id":330,"color":"BLUE"}
+{"product_id":331,"color":"BLACK"}
+{"product_id":331,"color":"BEIGE"}
+{"product_id":331,"color":"BROWN"}
+{"product_id":331,"color":"YELLOW"}
+{"product_id":331,"color":"GREEN"}
+{"product_id":331,"color":"OLIVE"}
+{"product_id":331,"color":"BLUE"}
+{"product_id":331,"color":"NAVY"}
+{"product_id":332,"color":"GRAY"}
+{"product_id":332,"color":"BLACK"}
+{"product_id":332,"color":"ORANGE"}
+{"product_id":332,"color":"NAVY"}
+{"product_id":333,"color":"GRAY"}
+{"product_id":333,"color":"BLACK"}
+{"product_id":333,"color":"ORANGE"}
+{"product_id":333,"color":"NAVY"}
+{"product_id":334,"color":"BLACK"}
+{"product_id":334,"color":"BROWN"}
+{"product_id":334,"color":"OLIVE"}
+{"product_id":335,"color":"BLACK"}
+{"product_id":335,"color":"OLIVE"}
+{"product_id":335,"color":"NAVY"}
+{"product_id":336,"color":"OFF WHITE"}
+{"product_id":336,"color":"LIGHT GRAY"}
+{"product_id":336,"color":"DARK GRAY"}
+{"product_id":336,"color":"BLACK"}
+{"product_id":336,"color":"GREEN"}
+{"product_id":336,"color":"BLUE"}
+{"product_id":337,"color":"OFF WHITE"}
+{"product_id":337,"color":"GRAY"}
+{"product_id":337,"color":"BLACK"}
+{"product_id":337,"color":"YELLOW"}
+{"product_id":337,"color":"DARK GREEN"}
+{"product_id":337,"color":"NAVY"}
+{"product_id":338,"color":"OFF WHITE"}
+{"product_id":338,"color":"BLACK"}
+{"product_id":338,"color":"NAVY"}
+{"product_id":339,"color":"ORANGE"}
+{"product_id":339,"color":"GREEN"}
+{"product_id":339,"color":"BLUE"}
+{"product_id":340,"color":"LIGHT GRAY"}
+{"product_id":340,"color":"GRAY"}
+{"product_id":340,"color":"BLACK"}
+{"product_id":340,"color":"ORANGE"}
+{"product_id":340,"color":"BLUE"}
+{"product_id":341,"color":"BLACK"}
+{"product_id":341,"color":"BEIGE"}
+{"product_id":341,"color":"BROWN"}
+{"product_id":341,"color":"DARK GREEN"}
+{"product_id":341,"color":"NAVY"}
+{"product_id":342,"color":"BLACK"}
+{"product_id":342,"color":"OLIVE"}
+{"product_id":342,"color":"NAVY"}
+{"product_id":343,"color":"BROWN"}
+{"product_id":343,"color":"OLIVE"}
+{"product_id":344,"color":"OLIVE"}
+{"product_id":344,"color":"BLUE"}
+{"product_id":345,"color":"BLACK"}
+{"product_id":345,"color":"RED"}
+{"product_id":345,"color":"GREEN"}
+{"product_id":345,"color":"BLUE"}
+{"product_id":346,"color":"BLACK"}
+{"product_id":346,"color":"NATURAL"}
+{"product_id":346,"color":"GREEN"}
+{"product_id":346,"color":"NAVY"}
+{"product_id":347,"color":"BEIGE"}
+{"product_id":347,"color":"NAVY"}
+{"product_id":348,"color":"LIGHT GRAY"}
+{"product_id":348,"color":"GRAY"}
+{"product_id":348,"color":"BLACK"}
+{"product_id":348,"color":"RED"}
+{"product_id":348,"color":"ORANGE"}
+{"product_id":348,"color":"DARK GREEN"}
+{"product_id":348,"color":"NAVY"}
+{"product_id":349,"color":"OFF WHITE"}
+{"product_id":349,"color":"BROWN"}
+{"product_id":349,"color":"OLIVE"}
+{"product_id":349,"color":"BLUE"}
+{"product_id":349,"color":"NAVY"}
+{"product_id":350,"color":"OFF WHITE"}
+{"product_id":350,"color":"BLUE"}
+{"product_id":351,"color":"BROWN"}
+{"product_id":351,"color":"OLIVE"}
+{"product_id":351,"color":"BLUE"}
+{"product_id":352,"color":"DARK BROWN"}
+{"product_id":353,"color":"NAVY"}
+{"product_id":354,"color":"GRAY"}
+{"product_id":355,"color":"DARK GRAY"}
+{"product_id":355,"color":"BLACK"}
+{"product_id":355,"color":"NAVY"}
+{"product_id":356,"color":"DARK GRAY"}
+{"product_id":356,"color":"BLACK"}
+{"product_id":356,"color":"NAVY"}
+{"product_id":357,"color":"BEIGE"}
+{"product_id":357,"color":"NAVY"}
+{"product_id":358,"color":"GRAY"}
+{"product_id":358,"color":"BLACK"}
+{"product_id":358,"color":"BROWN"}
+{"product_id":358,"color":"OLIVE"}
+{"product_id":359,"color":"BLACK"}
+{"product_id":359,"color":"ORANGE"}
+{"product_id":359,"color":"NATURAL"}
+{"product_id":359,"color":"BROWN"}
+{"product_id":359,"color":"OLIVE"}
+{"product_id":359,"color":"NAVY"}
+{"product_id":360,"color":"BLACK"}
+{"product_id":360,"color":"BEIGE"}
+{"product_id":360,"color":"OLIVE"}
+{"product_id":361,"color":"BROWN"}
+{"product_id":361,"color":"BLUE"}
+{"product_id":362,"color":"BROWN"}
+{"product_id":362,"color":"NAVY"}
+{"product_id":363,"color":"OLIVE"}
+{"product_id":363,"color":"BLUE"}
+{"product_id":364,"color":"BLACK"}
+{"product_id":364,"color":"NATURAL"}
+{"product_id":364,"color":"GREEN"}
+{"product_id":364,"color":"NAVY"}
+{"product_id":365,"color":"DARK GRAY"}
+{"product_id":365,"color":"BLACK"}
+{"product_id":365,"color":"NAVY"}
+{"product_id":366,"color":"BEIGE"}
+{"product_id":366,"color":"NAVY"}
+{"product_id":367,"color":"BLACK"}
+{"product_id":367,"color":"BEIGE"}
+{"product_id":367,"color":"OLIVE"}
+{"product_id":368,"color":"BLACK"}
+{"product_id":368,"color":"ORANGE"}
+{"product_id":368,"color":"NATURAL"}
+{"product_id":368,"color":"BROWN"}
+{"product_id":368,"color":"OLIVE"}
+{"product_id":368,"color":"NAVY"}
+{"product_id":369,"color":"LIGHT GRAY"}
+{"product_id":369,"color":"GRAY"}
+{"product_id":369,"color":"BLACK"}
+{"product_id":369,"color":"RED"}
+{"product_id":369,"color":"ORANGE"}
+{"product_id":369,"color":"DARK GREEN"}
+{"product_id":369,"color":"NAVY"}
+{"product_id":370,"color":"OLIVE"}
+{"product_id":370,"color":"BLUE"}
+{"product_id":371,"color":"BLACK"}
+{"product_id":371,"color":"NATURAL"}
+{"product_id":371,"color":"GREEN"}
+{"product_id":371,"color":"NAVY"}
+{"product_id":372,"color":"BROWN"}
+{"product_id":372,"color":"OLIVE"}
+{"product_id":373,"color":"BLACK"}
+{"product_id":373,"color":"RED"}
+{"product_id":373,"color":"GREEN"}
+{"product_id":373,"color":"BLUE"}
+{"product_id":374,"color":"DARK GRAY"}
+{"product_id":374,"color":"BLACK"}
+{"product_id":374,"color":"BROWN"}
+{"product_id":374,"color":"OLIVE"}
+{"product_id":375,"color":"BEIGE"}
+{"product_id":375,"color":"OLIVE"}
+{"product_id":375,"color":"NAVY"}
+{"product_id":376,"color":"GRAY"}
+{"product_id":376,"color":"BLUE"}
+{"product_id":377,"color":"DARK GRAY"}
+{"product_id":377,"color":"BROWN"}
+{"product_id":377,"color":"DARK GREEN"}
+{"product_id":378,"color":"OFF WHITE"}
+{"product_id":378,"color":"ORANGE"}
+{"product_id":378,"color":"BEIGE"}
+{"product_id":378,"color":"GREEN"}
+{"product_id":378,"color":"NAVY"}
+{"product_id":379,"color":"OLIVE"}
+{"product_id":380,"color":"DARK GRAY"}
+{"product_id":380,"color":"BLACK"}
+{"product_id":380,"color":"BEIGE"}
+{"product_id":380,"color":"OLIVE"}
+{"product_id":381,"color":"GRAY"}
+{"product_id":381,"color":"BLACK"}
+{"product_id":381,"color":"NAVY"}
+{"product_id":382,"color":"LIGHT GRAY"}
+{"product_id":382,"color":"GRAY"}
+{"product_id":382,"color":"BLACK"}
+{"product_id":383,"color":"LIGHT GRAY"}
+{"product_id":383,"color":"BLACK"}
+{"product_id":383,"color":"BEIGE"}
+{"product_id":383,"color":"NAVY"}
+{"product_id":384,"color":"LIGHT GRAY"}
+{"product_id":384,"color":"GRAY"}
+{"product_id":384,"color":"NAVY"}
+{"product_id":385,"color":"OFF WHITE"}
+{"product_id":385,"color":"GRAY"}
+{"product_id":385,"color":"DARK GRAY"}
+{"product_id":385,"color":"BLACK"}
+{"product_id":385,"color":"OLIVE"}
+{"product_id":386,"color":"WHITE"}
+{"product_id":386,"color":"GRAY"}
+{"product_id":386,"color":"DARK GRAY"}
+{"product_id":386,"color":"BLACK"}
+{"product_id":387,"color":"GRAY"}
+{"product_id":387,"color":"DARK GRAY"}
+{"product_id":387,"color":"BLACK"}
+{"product_id":387,"color":"BLUE"}
+{"product_id":388,"color":"OFF WHITE"}
+{"product_id":388,"color":"GRAY"}
+{"product_id":388,"color":"BLACK"}
+{"product_id":388,"color":"DARK GREEN"}
+{"product_id":388,"color":"BLUE"}
+{"product_id":388,"color":"NAVY"}
+{"product_id":389,"color":"DARK GRAY"}
+{"product_id":389,"color":"BEIGE"}
+{"product_id":389,"color":"OLIVE"}
+{"product_id":389,"color":"NAVY"}
+{"product_id":390,"color":"BLACK"}
+{"product_id":390,"color":"BLUE"}
+{"product_id":391,"color":"BLUE"}
+{"product_id":392,"color":"BLACK"}
+{"product_id":392,"color":"BEIGE"}
+{"product_id":392,"color":"OLIVE"}
+{"product_id":392,"color":"NAVY"}
+{"product_id":393,"color":"DARK GRAY"}
+{"product_id":393,"color":"NATURAL"}
+{"product_id":393,"color":"BROWN"}
+{"product_id":394,"color":"DARK GRAY"}
+{"product_id":394,"color":"BEIGE"}
+{"product_id":394,"color":"DARK GREEN"}
+{"product_id":394,"color":"NAVY"}
+{"product_id":395,"color":"GRAY"}
+{"product_id":395,"color":"BLUE"}
+{"product_id":396,"color":"BLUE"}
+{"product_id":397,"color":"GRAY"}
+{"product_id":397,"color":"BLUE"}
+{"product_id":398,"color":"OFF WHITE"}
+{"product_id":398,"color":"BLUE"}
+{"product_id":399,"color":"BLACK"}
+{"product_id":399,"color":"BLUE"}
+{"product_id":400,"color":"BLACK"}
+{"product_id":400,"color":"NAVY"}
+{"product_id":401,"color":"BLUE"}
+{"product_id":402,"color":"WHITE"}
+{"product_id":402,"color":"GRAY"}
+{"product_id":402,"color":"BLACK"}
+{"product_id":402,"color":"BEIGE"}
+{"product_id":402,"color":"BROWN"}
+{"product_id":402,"color":"GREEN"}
+{"product_id":402,"color":"OLIVE"}
+{"product_id":402,"color":"BLUE"}
+{"product_id":403,"color":"GRAY"}
+{"product_id":403,"color":"BLACK"}
+{"product_id":403,"color":"BLUE"}
+{"product_id":404,"color":"BLUE"}
+{"product_id":405,"color":"BLACK"}
+{"product_id":406,"color":"BLACK"}
+{"product_id":406,"color":"BLUE"}
+{"product_id":407,"color":"GRAY"}
+{"product_id":407,"color":"BLACK"}
+{"product_id":407,"color":"BLUE"}
+{"product_id":408,"color":"OFF WHITE"}
+{"product_id":408,"color":"BLACK"}
+{"product_id":408,"color":"BLUE"}
+{"product_id":409,"color":"BLUE"}
+{"product_id":410,"color":"BLACK"}
+{"product_id":411,"color":"BLUE"}
+{"product_id":412,"color":"OFF WHITE"}
+{"product_id":412,"color":"BLACK"}
+{"product_id":412,"color":"DARK ORANGE"}
+{"product_id":412,"color":"BEIGE"}
+{"product_id":412,"color":"BROWN"}
+{"product_id":412,"color":"YELLOW"}
+{"product_id":412,"color":"GREEN"}
+{"product_id":412,"color":"BLUE"}
+{"product_id":412,"color":"NAVY"}
+{"product_id":413,"color":"WINE"}
+{"product_id":414,"color":"BLACK"}
+{"product_id":414,"color":"NATURAL"}
+{"product_id":414,"color":"BEIGE"}
+{"product_id":414,"color":"OLIVE"}
+{"product_id":414,"color":"NAVY"}
+{"product_id":415,"color":"BLACK"}
+{"product_id":415,"color":"NATURAL"}
+{"product_id":415,"color":"BEIGE"}
+{"product_id":415,"color":"MUSTARD"}
+{"product_id":415,"color":"OLIVE"}
+{"product_id":415,"color":"BLUE"}
+{"product_id":416,"color":"BLUE"}
+{"product_id":417,"color":"BLACK"}
+{"product_id":417,"color":"BEIGE"}
+{"product_id":417,"color":"OLIVE"}
+{"product_id":417,"color":"BLUE"}
+{"product_id":418,"color":"BROWN"}
+{"product_id":418,"color":"OLIVE"}
+{"product_id":418,"color":"NAVY"}
+{"product_id":419,"color":"KHAKI"}
+{"product_id":419,"color":"BROWN"}
+{"product_id":419,"color":"NAVY"}
+{"product_id":420,"color":"GRAY"}
+{"product_id":420,"color":"BLACK"}
+{"product_id":421,"color":"BLACK"}
+{"product_id":422,"color":"GRAY"}
+{"product_id":422,"color":"DARK GRAY"}
+{"product_id":422,"color":"BLACK"}
+{"product_id":422,"color":"NAVY"}
+{"product_id":423,"color":"BEIGE"}
+{"product_id":423,"color":"OLIVE"}
+{"product_id":423,"color":"NAVY"}
+{"product_id":424,"color":"BLACK"}
+{"product_id":424,"color":"BEIGE"}
+{"product_id":424,"color":"OLIVE"}
+{"product_id":424,"color":"BLUE"}
+{"product_id":425,"color":"LIGHT GRAY"}
+{"product_id":425,"color":"GRAY"}
+{"product_id":425,"color":"BLACK"}
+{"product_id":426,"color":"LIGHT GRAY"}
+{"product_id":426,"color":"GRAY"}
+{"product_id":426,"color":"NAVY"}
+{"product_id":427,"color":"OFF WHITE"}
+{"product_id":427,"color":"GRAY"}
+{"product_id":427,"color":"BLACK"}
+{"product_id":427,"color":"DARK GREEN"}
+{"product_id":427,"color":"BLUE"}
+{"product_id":427,"color":"NAVY"}
+{"product_id":428,"color":"WHITE"}
+{"product_id":428,"color":"GRAY"}
+{"product_id":428,"color":"DARK GRAY"}
+{"product_id":428,"color":"BLACK"}
+{"product_id":429,"color":"GRAY"}
+{"product_id":429,"color":"DARK GRAY"}
+{"product_id":429,"color":"BLACK"}
+{"product_id":429,"color":"BLUE"}
+{"product_id":430,"color":"OFF WHITE"}
+{"product_id":430,"color":"GRAY"}
+{"product_id":430,"color":"DARK GRAY"}
+{"product_id":430,"color":"BLACK"}
+{"product_id":430,"color":"OLIVE"}
+{"product_id":431,"color":"DARK GRAY"}
+{"product_id":431,"color":"BLACK"}
+{"product_id":431,"color":"BEIGE"}
+{"product_id":431,"color":"OLIVE"}
+{"product_id":432,"color":"LIGHT GRAY"}
+{"product_id":432,"color":"DARK GRAY"}
+{"product_id":432,"color":"BLACK"}
+{"product_id":432,"color":"BLUE"}
+{"product_id":433,"color":"GRAY"}
+{"product_id":434,"color":"DARK BROWN"}
+{"product_id":435,"color":"OFF WHITE"}
+{"product_id":435,"color":"BEIGE"}
+{"product_id":435,"color":"OLIVE"}
+{"product_id":435,"color":"NAVY"}
+{"product_id":436,"color":"GRAY"}
+{"product_id":436,"color":"BLACK"}
+{"product_id":436,"color":"NAVY"}
+{"product_id":437,"color":"GRAY"}
+{"product_id":437,"color":"NAVY"}
+{"product_id":438,"color":"KHAKI"}
+{"product_id":438,"color":"BROWN"}
+{"product_id":438,"color":"NAVY"}
+{"product_id":439,"color":"GRAY"}
+{"product_id":439,"color":"BLACK"}
+{"product_id":440,"color":"BLACK"}
+{"product_id":441,"color":"GRAY"}
+{"product_id":441,"color":"DARK GRAY"}
+{"product_id":441,"color":"BLACK"}
+{"product_id":441,"color":"NAVY"}
+{"product_id":442,"color":"BEIGE"}
+{"product_id":442,"color":"OLIVE"}
+{"product_id":442,"color":"NAVY"}
+{"product_id":443,"color":"GRAY"}
+{"product_id":443,"color":"BLACK"}
+{"product_id":443,"color":"NAVY"}
+{"product_id":444,"color":"DARK GRAY"}
+{"product_id":444,"color":"BLACK"}
+{"product_id":444,"color":"BROWN"}
+{"product_id":444,"color":"OLIVE"}
+{"product_id":445,"color":"OLIVE"}
+{"product_id":446,"color":"GRAY"}
+{"product_id":446,"color":"BLUE"}
+{"product_id":447,"color":"DARK GRAY"}
+{"product_id":447,"color":"BROWN"}
+{"product_id":447,"color":"DARK GREEN"}
+{"product_id":448,"color":"OFF WHITE"}
+{"product_id":448,"color":"ORANGE"}
+{"product_id":448,"color":"BEIGE"}
+{"product_id":448,"color":"GREEN"}
+{"product_id":448,"color":"NAVY"}
+{"product_id":449,"color":"BEIGE"}
+{"product_id":449,"color":"OLIVE"}
+{"product_id":449,"color":"NAVY"}
+{"product_id":450,"color":"NAVY"}
+{"product_id":451,"color":"BLACK"}
+{"product_id":451,"color":"BEIGE"}
+{"product_id":451,"color":"OLIVE"}
+{"product_id":451,"color":"BLUE"}
+{"product_id":452,"color":"DARK GRAY"}
+{"product_id":452,"color":"BEIGE"}
+{"product_id":452,"color":"OLIVE"}
+{"product_id":452,"color":"NAVY"}
+{"product_id":453,"color":"BLACK"}
+{"product_id":453,"color":"BLUE"}
+{"product_id":454,"color":"BLUE"}
+{"product_id":455,"color":"GRAY"}
+{"product_id":455,"color":"BLACK"}
+{"product_id":455,"color":"NAVY"}
+{"product_id":456,"color":"OFF WHITE"}
+{"product_id":456,"color":"BLACK"}
+{"product_id":456,"color":"DARK ORANGE"}
+{"product_id":456,"color":"BEIGE"}
+{"product_id":456,"color":"BROWN"}
+{"product_id":456,"color":"YELLOW"}
+{"product_id":456,"color":"GREEN"}
+{"product_id":456,"color":"BLUE"}
+{"product_id":456,"color":"NAVY"}
+{"product_id":457,"color":"OFF WHITE"}
+{"product_id":457,"color":"DARK GRAY"}
+{"product_id":457,"color":"KHAKI"}
+{"product_id":457,"color":"OLIVE"}
+{"product_id":457,"color":"NAVY"}
+{"product_id":458,"color":"BEIGE"}
+{"product_id":458,"color":"NAVY"}
+{"product_id":459,"color":"DARK GRAY"}
+{"product_id":459,"color":"WINE"}
+{"product_id":459,"color":"OLIVE"}
+{"product_id":460,"color":"WHITE"}
+{"product_id":460,"color":"GRAY"}
+{"product_id":460,"color":"BEIGE"}
+{"product_id":460,"color":"NAVY"}
+{"product_id":461,"color":"DARK GRAY"}
+{"product_id":461,"color":"DARK ORANGE"}
+{"product_id":462,"color":"BLACK"}
+{"product_id":462,"color":"BEIGE"}
+{"product_id":462,"color":"YELLOW"}
+{"product_id":462,"color":"OLIVE"}
+{"product_id":462,"color":"BLUE"}
+{"product_id":462,"color":"PURPLE"}
+{"product_id":463,"color":"DARK GRAY"}
+{"product_id":463,"color":"BLUE"}
+{"product_id":464,"color":"OFF WHITE"}
+{"product_id":464,"color":"DARK GRAY"}
+{"product_id":464,"color":"BLACK"}
+{"product_id":464,"color":"OLIVE"}
+{"product_id":464,"color":"BLUE"}
+{"product_id":465,"color":"DARK GRAY"}
+{"product_id":465,"color":"BLACK"}
+{"product_id":465,"color":"DARK ORANGE"}
+{"product_id":465,"color":"BEIGE"}
+{"product_id":465,"color":"OLIVE"}
+{"product_id":465,"color":"NAVY"}
+{"product_id":466,"color":"BLUE"}
+{"product_id":466,"color":"NAVY"}
+{"product_id":467,"color":"BLUE"}
+{"product_id":468,"color":"DARK GRAY"}
+{"product_id":468,"color":"WINE"}
+{"product_id":468,"color":"BROWN"}
+{"product_id":468,"color":"DARK GREEN"}
+{"product_id":468,"color":"BLUE"}
+{"product_id":468,"color":"NAVY"}
+{"product_id":469,"color":"WINE"}
+{"product_id":469,"color":"BROWN"}
+{"product_id":469,"color":"YELLOW"}
+{"product_id":469,"color":"OLIVE"}
+{"product_id":469,"color":"DARK GREEN"}
+{"product_id":469,"color":"NAVY"}
+{"product_id":470,"color":"DARK GRAY"}
+{"product_id":471,"color":"BEIGE"}
+{"product_id":471,"color":"NAVY"}
+{"product_id":472,"color":"BLACK"}
+{"product_id":472,"color":"BEIGE"}
+{"product_id":472,"color":"NAVY"}
+{"product_id":473,"color":"GRAY"}
+{"product_id":473,"color":"WINE"}
+{"product_id":473,"color":"BEIGE"}
+{"product_id":473,"color":"BROWN"}
+{"product_id":473,"color":"NAVY"}
+{"product_id":474,"color":"GREEN"}
+{"product_id":474,"color":"BLUE"}
+{"product_id":475,"color":"PINK"}
+{"product_id":475,"color":"KHAKI"}
+{"product_id":475,"color":"GREEN"}
+{"product_id":475,"color":"BLUE"}
+{"product_id":476,"color":"GRAY"}
+{"product_id":476,"color":"NAVY"}
+{"product_id":477,"color":"WHITE"}
+{"product_id":477,"color":"GRAY"}
+{"product_id":477,"color":"BLACK"}
+{"product_id":477,"color":"GREEN"}
+{"product_id":477,"color":"BLUE"}
+{"product_id":477,"color":"NAVY"}
+{"product_id":478,"color":"WHITE"}
+{"product_id":478,"color":"BLACK"}
+{"product_id":478,"color":"NAVY"}
+{"product_id":479,"color":"WHITE"}
+{"product_id":479,"color":"BLACK"}
+{"product_id":479,"color":"GREEN"}
+{"product_id":479,"color":"NAVY"}
+{"product_id":480,"color":"WHITE"}
+{"product_id":480,"color":"BLACK"}
+{"product_id":480,"color":"NAVY"}
+{"product_id":481,"color":"WHITE"}
+{"product_id":481,"color":"BLACK"}
+{"product_id":482,"color":"WHITE"}
+{"product_id":482,"color":"BLACK"}
+{"product_id":483,"color":"BLACK"}
+{"product_id":483,"color":"RED"}
+{"product_id":484,"color":"BLACK"}
+{"product_id":484,"color":"BLUE"}
+{"product_id":485,"color":"BLACK"}
+{"product_id":485,"color":"BLUE"}
+{"product_id":486,"color":"GRAY"}
+{"product_id":486,"color":"BLUE"}
+{"product_id":487,"color":"BLACK"}
+{"product_id":487,"color":"GREEN"}
+{"product_id":487,"color":"NAVY"}
+{"product_id":488,"color":"GRAY"}
+{"product_id":488,"color":"BLACK"}
+{"product_id":488,"color":"NAVY"}
+{"product_id":489,"color":"GRAY"}
+{"product_id":490,"color":"BLACK"}
+{"product_id":490,"color":"NAVY"}
+{"product_id":491,"color":"BLACK"}
+{"product_id":491,"color":"NAVY"}
+{"product_id":492,"color":"GRAY"}
+{"product_id":493,"color":"BLACK"}
+{"product_id":493,"color":"NAVY"}
+{"product_id":494,"color":"BLACK"}
+{"product_id":494,"color":"NAVY"}
+{"product_id":495,"color":"BLACK"}
+{"product_id":495,"color":"GREEN"}
+{"product_id":496,"color":"LIGHT GRAY"}
+{"product_id":497,"color":"GRAY"}
+{"product_id":497,"color":"BLACK"}
+{"product_id":497,"color":"NAVY"}
+{"product_id":498,"color":"GRAY"}
+{"product_id":498,"color":"BLUE"}
+{"product_id":499,"color":"BLACK"}
+{"product_id":499,"color":"RED"}
+{"product_id":500,"color":"OFF WHITE"}
+{"product_id":500,"color":"DARK GRAY"}
+{"product_id":500,"color":"BLACK"}
+{"product_id":501,"color":"GRAY"}
+{"product_id":501,"color":"DARK GRAY"}
+{"product_id":501,"color":"BLACK"}
+{"product_id":502,"color":"OFF WHITE"}
+{"product_id":502,"color":"BLACK"}
+{"product_id":503,"color":"GRAY"}
+{"product_id":503,"color":"DARK BROWN"}
+{"product_id":504,"color":"OFF WHITE"}
+{"product_id":504,"color":"BLACK"}
+{"product_id":504,"color":"DARK GREEN"}
+{"product_id":504,"color":"NAVY"}
+{"product_id":505,"color":"DARK GRAY"}
+{"product_id":506,"color":"BLACK"}
+{"product_id":507,"color":"DARK GRAY"}
+{"product_id":507,"color":"BLACK"}
+{"product_id":508,"color":"GRAY"}
+{"product_id":508,"color":"DARK GRAY"}
+{"product_id":509,"color":"OFF WHITE"}
+{"product_id":509,"color":"DARK GRAY"}
+{"product_id":509,"color":"BLACK"}
+{"product_id":509,"color":"DARK BROWN"}
+{"product_id":509,"color":"DARK GREEN"}
+{"product_id":510,"color":"DARK GRAY"}
+{"product_id":510,"color":"BLACK"}
+{"product_id":511,"color":"GRAY"}
+{"product_id":511,"color":"DARK GRAY"}
+{"product_id":512,"color":"YELLOW"}
+{"product_id":512,"color":"OLIVE"}
+{"product_id":512,"color":"BLUE"}
+{"product_id":513,"color":"DARK GRAY"}
+{"product_id":514,"color":"GRAY"}
+{"product_id":514,"color":"DARK GREEN"}
+{"product_id":514,"color":"NAVY"}
+{"product_id":515,"color":"WHITE"}
+{"product_id":515,"color":"DARK GRAY"}
+{"product_id":515,"color":"BLACK"}
+{"product_id":516,"color":"OFF WHITE"}
+{"product_id":516,"color":"DARK GRAY"}
+{"product_id":516,"color":"WINE"}
+{"product_id":516,"color":"BLUE"}
+{"product_id":517,"color":"LIGHT GRAY"}
+{"product_id":517,"color":"BLACK"}
+{"product_id":517,"color":"DARK BROWN"}
+{"product_id":517,"color":"BLUE"}
+{"product_id":518,"color":"GRAY"}
+{"product_id":518,"color":"BLACK"}
+{"product_id":518,"color":"BROWN"}
+{"product_id":518,"color":"BLUE"}
+{"product_id":519,"color":"OFF WHITE"}
+{"product_id":519,"color":"GRAY"}
+{"product_id":519,"color":"DARK GRAY"}
+{"product_id":519,"color":"BLACK"}
+{"product_id":519,"color":"WINE"}
+{"product_id":519,"color":"BROWN"}
+{"product_id":519,"color":"BLUE"}
+{"product_id":520,"color":"OFF WHITE"}
+{"product_id":520,"color":"GRAY"}
+{"product_id":520,"color":"DARK GRAY"}
+{"product_id":520,"color":"BLACK"}
+{"product_id":520,"color":"WINE"}
+{"product_id":520,"color":"BROWN"}
+{"product_id":520,"color":"GREEN"}
+{"product_id":520,"color":"BLUE"}
+{"product_id":521,"color":"WHITE"}
+{"product_id":521,"color":"GRAY"}
+{"product_id":521,"color":"DARK GRAY"}
+{"product_id":521,"color":"BLACK"}
+{"product_id":521,"color":"ORANGE"}
+{"product_id":521,"color":"YELLOW"}
+{"product_id":521,"color":"BLUE"}
+{"product_id":521,"color":"NAVY"}
+{"product_id":522,"color":"WHITE"}
+{"product_id":522,"color":"GRAY"}
+{"product_id":522,"color":"BLACK"}
+{"product_id":522,"color":"PINK"}
+{"product_id":522,"color":"DARK GREEN"}
+{"product_id":522,"color":"BLUE"}
+{"product_id":522,"color":"NAVY"}
+{"product_id":523,"color":"WHITE"}
+{"product_id":523,"color":"GRAY"}
+{"product_id":523,"color":"BLACK"}
+{"product_id":523,"color":"GREEN"}
+{"product_id":523,"color":"BLUE"}
+{"product_id":523,"color":"NAVY"}
+{"product_id":524,"color":"WHITE"}
+{"product_id":524,"color":"BLACK"}
+{"product_id":524,"color":"NAVY"}
+{"product_id":525,"color":"WHITE"}
+{"product_id":525,"color":"BLACK"}
+{"product_id":525,"color":"NAVY"}
+{"product_id":526,"color":"WHITE"}
+{"product_id":526,"color":"BLACK"}
+{"product_id":526,"color":"GREEN"}
+{"product_id":526,"color":"NAVY"}
+{"product_id":527,"color":"WHITE"}
+{"product_id":527,"color":"BLACK"}
+{"product_id":528,"color":"WHITE"}
+{"product_id":528,"color":"BLACK"}
+{"product_id":529,"color":"GRAY"}
+{"product_id":529,"color":"DARK GRAY"}
+{"product_id":530,"color":"OFF WHITE"}
+{"product_id":530,"color":"BLACK"}
+{"product_id":531,"color":"GRAY"}
+{"product_id":531,"color":"DARK BROWN"}
+{"product_id":532,"color":"OFF WHITE"}
+{"product_id":532,"color":"DARK GRAY"}
+{"product_id":532,"color":"BLACK"}
+{"product_id":533,"color":"OFF WHITE"}
+{"product_id":533,"color":"BLACK"}
+{"product_id":533,"color":"DARK GREEN"}
+{"product_id":533,"color":"NAVY"}
+{"product_id":534,"color":"GRAY"}
+{"product_id":534,"color":"DARK GREEN"}
+{"product_id":534,"color":"NAVY"}
+{"product_id":535,"color":"GRAY"}
+{"product_id":535,"color":"DARK GRAY"}
+{"product_id":536,"color":"OFF WHITE"}
+{"product_id":536,"color":"DARK GRAY"}
+{"product_id":536,"color":"BLACK"}
+{"product_id":536,"color":"DARK BROWN"}
+{"product_id":536,"color":"DARK GREEN"}
+{"product_id":537,"color":"YELLOW"}
+{"product_id":537,"color":"OLIVE"}
+{"product_id":537,"color":"BLUE"}
+{"product_id":538,"color":"DARK GRAY"}
+{"product_id":539,"color":"DARK GRAY"}
+{"product_id":539,"color":"RED"}
+{"product_id":539,"color":"NAVY"}
+{"product_id":540,"color":"OLIVE"}
+{"product_id":540,"color":"NAVY"}
+{"product_id":541,"color":"BLACK"}
+{"product_id":541,"color":"NAVY"}
+{"product_id":542,"color":"GRAY"}
+{"product_id":542,"color":"WINE"}
+{"product_id":543,"color":"WHITE"}
+{"product_id":543,"color":"GRAY"}
+{"product_id":543,"color":"BLACK"}
+{"product_id":543,"color":"RED"}
+{"product_id":543,"color":"NAVY"}
+{"product_id":544,"color":"WHITE"}
+{"product_id":545,"color":"WHITE"}
+{"product_id":545,"color":"GRAY"}
+{"product_id":545,"color":"BLACK"}
+{"product_id":545,"color":"NAVY"}
+{"product_id":546,"color":"DARK GRAY"}
+{"product_id":546,"color":"NAVY"}
+{"product_id":547,"color":"WINE"}
+{"product_id":547,"color":"DARK GREEN"}
+{"product_id":548,"color":"GRAY"}
+{"product_id":548,"color":"BLACK"}
+{"product_id":548,"color":"NAVY"}
+{"product_id":549,"color":"GRAY"}
+{"product_id":549,"color":"BLACK"}
+{"product_id":549,"color":"NAVY"}
+{"product_id":550,"color":"DARK GRAY"}
+{"product_id":550,"color":"NAVY"}
+{"product_id":551,"color":"WINE"}
+{"product_id":551,"color":"DARK GREEN"}
+{"product_id":552,"color":"WHITE"}
+{"product_id":552,"color":"GRAY"}
+{"product_id":552,"color":"BLACK"}
+{"product_id":552,"color":"NAVY"}
+{"product_id":553,"color":"BLACK"}
+{"product_id":553,"color":"RED"}
+{"product_id":554,"color":"BLACK"}
+{"product_id":554,"color":"BLUE"}
+{"product_id":555,"color":"BLACK"}
+{"product_id":555,"color":"BLUE"}
+{"product_id":556,"color":"GRAY"}
+{"product_id":556,"color":"BLUE"}
+{"product_id":557,"color":"BLACK"}
+{"product_id":557,"color":"GREEN"}
+{"product_id":557,"color":"NAVY"}
+{"product_id":558,"color":"GRAY"}
+{"product_id":558,"color":"BLACK"}
+{"product_id":558,"color":"NAVY"}
+{"product_id":559,"color":"GRAY"}
+{"product_id":560,"color":"BLACK"}
+{"product_id":560,"color":"NAVY"}
+{"product_id":561,"color":"BLACK"}
+{"product_id":561,"color":"NAVY"}
+{"product_id":562,"color":"GRAY"}
+{"product_id":563,"color":"GRAY"}
+{"product_id":563,"color":"BLUE"}
+{"product_id":564,"color":"OLIVE"}
+{"product_id":565,"color":"DARK GRAY"}
+{"product_id":565,"color":"BROWN"}
+{"product_id":565,"color":"DARK GREEN"}
+{"product_id":566,"color":"OFF WHITE"}
+{"product_id":566,"color":"ORANGE"}
+{"product_id":566,"color":"BEIGE"}
+{"product_id":566,"color":"GREEN"}
+{"product_id":566,"color":"NAVY"}
+{"product_id":567,"color":"DARK GRAY"}
+{"product_id":567,"color":"BLACK"}
+{"product_id":567,"color":"BEIGE"}
+{"product_id":567,"color":"OLIVE"}
+{"product_id":568,"color":"DARK GRAY"}
+{"product_id":568,"color":"BLACK"}
+{"product_id":568,"color":"DARK ORANGE"}
+{"product_id":568,"color":"BEIGE"}
+{"product_id":568,"color":"OLIVE"}
+{"product_id":568,"color":"NAVY"}
+{"product_id":569,"color":"BLUE"}
+{"product_id":569,"color":"NAVY"}
+{"product_id":570,"color":"BLUE"}
+{"product_id":571,"color":"DARK GRAY"}
+{"product_id":571,"color":"WINE"}
+{"product_id":571,"color":"BROWN"}
+{"product_id":571,"color":"DARK GREEN"}
+{"product_id":571,"color":"BLUE"}
+{"product_id":571,"color":"NAVY"}
+{"product_id":572,"color":"WINE"}
+{"product_id":572,"color":"BROWN"}
+{"product_id":572,"color":"YELLOW"}
+{"product_id":572,"color":"OLIVE"}
+{"product_id":572,"color":"DARK GREEN"}
+{"product_id":572,"color":"NAVY"}
+{"product_id":573,"color":"DARK GRAY"}
+{"product_id":573,"color":"BEIGE"}
+{"product_id":573,"color":"OLIVE"}
+{"product_id":573,"color":"NAVY"}
+{"product_id":574,"color":"BLACK"}
+{"product_id":574,"color":"BLUE"}
+{"product_id":575,"color":"BLUE"}
+{"product_id":576,"color":"GREEN"}
+{"product_id":576,"color":"NAVY"}
+{"product_id":577,"color":"GREEN"}
+{"product_id":577,"color":"BLUE"}
+{"product_id":578,"color":"GRAY"}
+{"product_id":578,"color":"NAVY"}
+{"product_id":579,"color":"PINK"}
+{"product_id":579,"color":"KHAKI"}
+{"product_id":579,"color":"GREEN"}
+{"product_id":579,"color":"BLUE"}
+{"product_id":580,"color":"DARK GRAY"}
+{"product_id":580,"color":"OLIVE"}
+{"product_id":580,"color":"NAVY"}
+{"product_id":581,"color":"BLUE"}
+{"product_id":582,"color":"DARK GRAY"}
+{"product_id":582,"color":"BEIGE"}
+{"product_id":582,"color":"DARK GREEN"}
+{"product_id":582,"color":"NAVY"}
+{"product_id":583,"color":"BROWN"}
+{"product_id":584,"color":"GRAY"}
+{"product_id":585,"color":"DARK GRAY"}
+{"product_id":586,"color":"RED"}
+{"product_id":587,"color":"DARK BROWN"}
+{"product_id":588,"color":"DARK GREEN"}
+{"product_id":589,"color":"GRAY"}
+{"product_id":589,"color":"BLACK"}
+{"product_id":590,"color":"BLUE"}
+{"product_id":591,"color":"GRAY"}
+{"product_id":591,"color":"PINK"}
+{"product_id":591,"color":"BLUE"}
+{"product_id":592,"color":"GRAY"}
+{"product_id":592,"color":"PINK"}
+{"product_id":592,"color":"YELLOW"}
+{"product_id":592,"color":"GREEN"}
+{"product_id":592,"color":"NAVY"}
+{"product_id":593,"color":"LIGHT BLUE"}
+{"product_id":593,"color":"BLUE"}
+{"product_id":594,"color":"ORANGE"}
+{"product_id":594,"color":"NATURAL"}
+{"product_id":594,"color":"LIGHT BLUE"}
+{"product_id":594,"color":"NAVY"}
+{"product_id":595,"color":"DARK GRAY"}
+{"product_id":595,"color":"BEIGE"}
+{"product_id":595,"color":"DARK GREEN"}
+{"product_id":596,"color":"BLACK"}
+{"product_id":597,"color":"BLACK"}
+{"product_id":597,"color":"BEIGE"}
+{"product_id":598,"color":"BEIGE"}
+{"product_id":598,"color":"NAVY"}
+{"product_id":599,"color":"BLACK"}
+{"product_id":600,"color":"OLIVE"}
+{"product_id":600,"color":"NAVY"}
+{"product_id":601,"color":"BEIGE"}
+{"product_id":601,"color":"NAVY"}
+{"product_id":602,"color":"OFF WHITE"}
+{"product_id":602,"color":"BLACK"}
+{"product_id":603,"color":"OFF WHITE"}
+{"product_id":603,"color":"BLACK"}
+{"product_id":603,"color":"RED"}
+{"product_id":603,"color":"NATURAL"}
+{"product_id":603,"color":"BEIGE"}
+{"product_id":603,"color":"YELLOW"}
+{"product_id":603,"color":"OLIVE"}
+{"product_id":603,"color":"PURPLE"}
+{"product_id":604,"color":"BLACK"}
+{"product_id":604,"color":"BEIGE"}
+{"product_id":604,"color":"BROWN"}
+{"product_id":604,"color":"OLIVE"}
+{"product_id":604,"color":"PURPLE"}
+{"product_id":605,"color":"BLACK"}
+{"product_id":605,"color":"OLIVE"}
+{"product_id":606,"color":"OFF WHITE"}
+{"product_id":607,"color":"OFF WHITE"}
+{"product_id":608,"color":"BLACK"}
+{"product_id":608,"color":"NATURAL"}
+{"product_id":608,"color":"BEIGE"}
+{"product_id":608,"color":"GREEN"}
+{"product_id":608,"color":"BLUE"}
+{"product_id":608,"color":"NAVY"}
+{"product_id":609,"color":"BLACK"}
+{"product_id":609,"color":"BROWN"}
+{"product_id":610,"color":"BLACK"}
+{"product_id":610,"color":"DARK BROWN"}
+{"product_id":611,"color":"BLACK"}
+{"product_id":611,"color":"BROWN"}
+{"product_id":611,"color":"DARK BROWN"}
+{"product_id":612,"color":"BLACK"}
+{"product_id":612,"color":"BROWN"}
+{"product_id":612,"color":"DARK BROWN"}
+{"product_id":613,"color":"BLACK"}
+{"product_id":613,"color":"BROWN"}
+{"product_id":614,"color":"BLACK"}
+{"product_id":614,"color":"DARK BROWN"}
+{"product_id":615,"color":"BLACK"}
+{"product_id":615,"color":"BROWN"}
+{"product_id":615,"color":"DARK BROWN"}
+{"product_id":616,"color":"BLACK"}
+{"product_id":616,"color":"BROWN"}
+{"product_id":616,"color":"DARK BROWN"}
+{"product_id":616,"color":"LIGHT BLUE"}
+{"product_id":616,"color":"LIGHT PURPLE"}
+{"product_id":617,"color":"BLACK"}
+{"product_id":617,"color":"NATURAL"}
+{"product_id":617,"color":"OLIVE"}
+{"product_id":617,"color":"NAVY"}
+{"product_id":618,"color":"GRAY"}
+{"product_id":618,"color":"BLACK"}
+{"product_id":619,"color":"BLACK"}
+{"product_id":619,"color":"BROWN"}
+{"product_id":619,"color":"80"}
+{"product_id":619,"color":"81"}
+{"product_id":620,"color":"BLACK"}
+{"product_id":620,"color":"BROWN"}
+{"product_id":621,"color":"81"}
+{"product_id":621,"color":"82"}
+{"product_id":622,"color":"80"}
+{"product_id":622,"color":"81"}
+{"product_id":622,"color":"82"}
+{"product_id":623,"color":"BLACK"}
+{"product_id":623,"color":"BROWN"}
+{"product_id":624,"color":"BLACK"}
+{"product_id":624,"color":"BROWN"}
+{"product_id":625,"color":"WHITE"}
+{"product_id":625,"color":"WINE"}
+{"product_id":626,"color":"BEIGE"}
+{"product_id":626,"color":"NAVY"}
+{"product_id":627,"color":"BLACK"}
+{"product_id":628,"color":"BEIGE"}
+{"product_id":628,"color":"NAVY"}
+{"product_id":629,"color":"GRAY"}
+{"product_id":629,"color":"BLACK"}
+{"product_id":630,"color":"BLACK"}
+{"product_id":630,"color":"BROWN"}
+{"product_id":630,"color":"OLIVE"}
+{"product_id":631,"color":"OFF WHITE"}
+{"product_id":631,"color":"BLACK"}
+{"product_id":632,"color":"GRAY"}
+{"product_id":632,"color":"BLACK"}
+{"product_id":633,"color":"BLACK"}
+{"product_id":633,"color":"BROWN"}
+{"product_id":634,"color":"BLACK"}
+{"product_id":634,"color":"OLIVE"}
+{"product_id":635,"color":"WHITE"}
+{"product_id":635,"color":"GRAY"}
+{"product_id":635,"color":"DARK GRAY"}
+{"product_id":635,"color":"BLACK"}
+{"product_id":635,"color":"ORANGE"}
+{"product_id":635,"color":"YELLOW"}
+{"product_id":635,"color":"BLUE"}
+{"product_id":635,"color":"NAVY"}
+{"product_id":636,"color":"DARK GRAY"}
+{"product_id":637,"color":"LIGHT GRAY"}
+{"product_id":637,"color":"BLACK"}
+{"product_id":637,"color":"WINE"}
+{"product_id":637,"color":"BLUE"}
+{"product_id":638,"color":"OFF WHITE"}
+{"product_id":638,"color":"LIGHT GRAY"}
+{"product_id":638,"color":"DARK GRAY"}
+{"product_id":638,"color":"BLACK"}
+{"product_id":638,"color":"GREEN"}
+{"product_id":638,"color":"BLUE"}
+{"product_id":639,"color":"OFF WHITE"}
+{"product_id":639,"color":"GRAY"}
+{"product_id":639,"color":"BLACK"}
+{"product_id":639,"color":"YELLOW"}
+{"product_id":639,"color":"DARK GREEN"}
+{"product_id":639,"color":"NAVY"}
+{"product_id":640,"color":"LIGHT GRAY"}
+{"product_id":640,"color":"GRAY"}
+{"product_id":640,"color":"BLACK"}
+{"product_id":640,"color":"ORANGE"}
+{"product_id":640,"color":"BLUE"}
+{"product_id":641,"color":"OFF WHITE"}
+{"product_id":641,"color":"GRAY"}
+{"product_id":641,"color":"BLACK"}
+{"product_id":641,"color":"RED"}
+{"product_id":641,"color":"YELLOW"}
+{"product_id":641,"color":"PURPLE"}
+{"product_id":642,"color":"OFF WHITE"}
+{"product_id":642,"color":"GRAY"}
+{"product_id":642,"color":"BLACK"}
+{"product_id":642,"color":"PINK"}
+{"product_id":642,"color":"NATURAL"}
+{"product_id":642,"color":"YELLOW"}
+{"product_id":642,"color":"GREEN"}
+{"product_id":642,"color":"BLUE"}
+{"product_id":642,"color":"NAVY"}
+{"product_id":642,"color":"PURPLE"}
+{"product_id":643,"color":"BLACK"}
+{"product_id":643,"color":"BEIGE"}
+{"product_id":643,"color":"BROWN"}
+{"product_id":643,"color":"YELLOW"}
+{"product_id":643,"color":"GREEN"}
+{"product_id":643,"color":"OLIVE"}
+{"product_id":643,"color":"BLUE"}
+{"product_id":643,"color":"NAVY"}
+{"product_id":644,"color":"BLACK"}
+{"product_id":644,"color":"OLIVE"}
+{"product_id":644,"color":"NAVY"}
+{"product_id":645,"color":"GRAY"}
+{"product_id":645,"color":"BLACK"}
+{"product_id":645,"color":"ORANGE"}
+{"product_id":645,"color":"NAVY"}
+{"product_id":646,"color":"LIGHT GRAY"}
+{"product_id":646,"color":"GRAY"}
+{"product_id":646,"color":"BLACK"}
+{"product_id":646,"color":"RED"}
+{"product_id":646,"color":"ORANGE"}
+{"product_id":646,"color":"DARK GREEN"}
+{"product_id":646,"color":"NAVY"}
+{"product_id":647,"color":"GRAY"}
+{"product_id":647,"color":"BLACK"}
+{"product_id":647,"color":"ORANGE"}
+{"product_id":647,"color":"NAVY"}
+{"product_id":648,"color":"BLACK"}
+{"product_id":648,"color":"BEIGE"}
+{"product_id":648,"color":"BROWN"}
+{"product_id":648,"color":"DARK GREEN"}
+{"product_id":648,"color":"NAVY"}
+{"product_id":649,"color":"WHITE"}
+{"product_id":649,"color":"DARK GRAY"}
+{"product_id":649,"color":"BLACK"}
+{"product_id":649,"color":"YELLOW"}
+{"product_id":649,"color":"DARK GREEN"}
+{"product_id":649,"color":"BLUE"}
+{"product_id":650,"color":"WHITE"}
+{"product_id":650,"color":"BLACK"}
+{"product_id":650,"color":"PURPLE"}
+{"product_id":651,"color":"GRAY"}
+{"product_id":651,"color":"DARK GRAY"}
+{"product_id":651,"color":"RED"}
+{"product_id":651,"color":"BLUE"}
+{"product_id":652,"color":"WHITE"}
+{"product_id":652,"color":"BLACK"}
+{"product_id":652,"color":"GREEN"}
+{"product_id":652,"color":"BLUE"}
+{"product_id":652,"color":"PURPLE"}
+{"product_id":653,"color":"WHITE"}
+{"product_id":653,"color":"BLACK"}
+{"product_id":653,"color":"NAVY"}
+{"product_id":654,"color":"GRAY"}
+{"product_id":654,"color":"RED"}
+{"product_id":654,"color":"BLUE"}
+{"product_id":655,"color":"WHITE"}
+{"product_id":655,"color":"BLACK"}
+{"product_id":656,"color":"WHITE"}
+{"product_id":656,"color":"BLACK"}
+{"product_id":656,"color":"GREEN"}
+{"product_id":656,"color":"BLUE"}
+{"product_id":656,"color":"NAVY"}
+{"product_id":657,"color":"KHAKI"}
+{"product_id":657,"color":"BROWN"}
+{"product_id":657,"color":"NAVY"}
+{"product_id":658,"color":"LIGHT GRAY"}
+{"product_id":658,"color":"GRAY"}
+{"product_id":658,"color":"BLACK"}
+{"product_id":659,"color":"LIGHT GRAY"}
+{"product_id":659,"color":"BLACK"}
+{"product_id":659,"color":"BEIGE"}
+{"product_id":659,"color":"NAVY"}
+{"product_id":660,"color":"LIGHT GRAY"}
+{"product_id":660,"color":"GRAY"}
+{"product_id":660,"color":"NAVY"}
+{"product_id":661,"color":"OFF WHITE"}
+{"product_id":661,"color":"GRAY"}
+{"product_id":661,"color":"DARK GRAY"}
+{"product_id":661,"color":"BLACK"}
+{"product_id":661,"color":"OLIVE"}
+{"product_id":662,"color":"WHITE"}
+{"product_id":662,"color":"GRAY"}
+{"product_id":662,"color":"DARK GRAY"}
+{"product_id":662,"color":"BLACK"}
+{"product_id":663,"color":"OFF WHITE"}
+{"product_id":663,"color":"GRAY"}
+{"product_id":663,"color":"BLACK"}
+{"product_id":663,"color":"DARK GREEN"}
+{"product_id":663,"color":"BLUE"}
+{"product_id":663,"color":"NAVY"}
+{"product_id":664,"color":"DARK GRAY"}
+{"product_id":664,"color":"BLUE"}
+{"product_id":665,"color":"BEIGE"}
+{"product_id":665,"color":"NAVY"}
+{"product_id":666,"color":"DARK GRAY"}
+{"product_id":666,"color":"WINE"}
+{"product_id":666,"color":"OLIVE"}
+{"product_id":667,"color":"DARK GRAY"}
+{"product_id":667,"color":"DARK ORANGE"}
+{"product_id":668,"color":"OFF WHITE"}
+{"product_id":668,"color":"DARK GRAY"}
+{"product_id":668,"color":"BLACK"}
+{"product_id":668,"color":"OLIVE"}
+{"product_id":668,"color":"BLUE"}
+{"product_id":669,"color":"WHITE"}
+{"product_id":669,"color":"GRAY"}
+{"product_id":669,"color":"BEIGE"}
+{"product_id":669,"color":"NAVY"}
+{"product_id":670,"color":"BLACK"}
+{"product_id":670,"color":"BEIGE"}
+{"product_id":670,"color":"YELLOW"}
+{"product_id":670,"color":"OLIVE"}
+{"product_id":670,"color":"BLUE"}
+{"product_id":670,"color":"PURPLE"}
+{"product_id":671,"color":"WHITE"}
+{"product_id":671,"color":"BLACK"}
+{"product_id":671,"color":"NAVY"}
+{"product_id":672,"color":"WHITE"}
+{"product_id":672,"color":"BLACK"}
+{"product_id":673,"color":"WHITE"}
+{"product_id":673,"color":"BLACK"}
+{"product_id":673,"color":"NAVY"}
+{"product_id":674,"color":"BLACK"}
+{"product_id":675,"color":"OLIVE"}
+{"product_id":675,"color":"NAVY"}
+{"product_id":676,"color":"BLACK"}
+{"product_id":677,"color":"BLACK"}
+{"product_id":677,"color":"BEIGE"}
+{"product_id":678,"color":"WHITE"}
+{"product_id":678,"color":"BLACK"}
+{"product_id":678,"color":"YELLOW"}
+{"product_id":678,"color":"OLIVE"}
+{"product_id":679,"color":"WHITE"}
+{"product_id":679,"color":"BLACK"}
+{"product_id":679,"color":"ORANGE"}
+{"product_id":679,"color":"OLIVE"}
+{"product_id":680,"color":"GRAY"}
+{"product_id":680,"color":"DARK GRAY"}
+{"product_id":680,"color":"RED"}
+{"product_id":680,"color":"PURPLE"}
+{"product_id":681,"color":"RED"}
+{"product_id":681,"color":"BLUE"}
+{"product_id":682,"color":"WHITE"}
+{"product_id":682,"color":"GRAY"}
+{"product_id":682,"color":"DARK GRAY"}
+{"product_id":682,"color":"PURPLE"}
+{"product_id":683,"color":"OFF WHITE"}
+{"product_id":683,"color":"BLACK"}
+{"product_id":683,"color":"GREEN"}
+{"product_id":683,"color":"BLUE"}
+{"product_id":683,"color":"PURPLE"}
+{"product_id":684,"color":"WHITE"}
+{"product_id":684,"color":"WINE"}
+{"product_id":685,"color":"BROWN"}
+{"product_id":685,"color":"OLIVE"}
+{"product_id":686,"color":"OLIVE"}
+{"product_id":686,"color":"BLUE"}
+{"product_id":687,"color":"BLACK"}
+{"product_id":687,"color":"RED"}
+{"product_id":687,"color":"GREEN"}
+{"product_id":687,"color":"BLUE"}
+{"product_id":688,"color":"BLACK"}
+{"product_id":688,"color":"NATURAL"}
+{"product_id":688,"color":"GREEN"}
+{"product_id":688,"color":"NAVY"}
+{"product_id":689,"color":"WHITE"}
+{"product_id":689,"color":"GRAY"}
+{"product_id":689,"color":"BLACK"}
+{"product_id":689,"color":"ORANGE"}
+{"product_id":689,"color":"NATURAL"}
+{"product_id":689,"color":"GREEN"}
+{"product_id":689,"color":"BLUE"}
+{"product_id":690,"color":"DARK GRAY"}
+{"product_id":690,"color":"BLUE"}
+{"product_id":691,"color":"RED"}
+{"product_id":691,"color":"BLUE"}
+{"product_id":692,"color":"BLACK"}
+{"product_id":692,"color":"BEIGE"}
+{"product_id":692,"color":"OLIVE"}
+{"product_id":692,"color":"NAVY"}
+{"product_id":693,"color":"WHITE"}
+{"product_id":693,"color":"GRAY"}
+{"product_id":693,"color":"DARK GRAY"}
+{"product_id":693,"color":"BLACK"}
+{"product_id":694,"color":"LIGHT GRAY"}
+{"product_id":694,"color":"DARK GRAY"}
+{"product_id":694,"color":"BLACK"}
+{"product_id":694,"color":"BLUE"}
+{"product_id":695,"color":"GRAY"}
+{"product_id":695,"color":"BLACK"}
