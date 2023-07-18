@@ -12,8 +12,8 @@
 
 ### Table of Contents
   - [Description](#description)
-    - [Data](#data-desc)
-    - [DBMS](#dbms-desc)
+    - [Jamtangan.com](#jamtangancom)
+    - [Data and DBMS](#data-and-dbms)
   - [Spesification](#spesification)
     - [Libraries](#libraries)
     - [Tools](#tools)
@@ -23,14 +23,14 @@
     - [ERD](#erd)
     - [Relational Diagram](#relational-diagram)
     - [The Explanation](#the-explanation)
-  - [Screenshot of Program](#screenshot)
+  - [Screenshot of Program](#screenshot-of-program)
   - [Data Visualization](#data-visualization)
   - [References](#references)
   - [Author](#author)
 
 ### Description
 
-#### Jamtangan.com
+#### Jamtangan.com 
 Jamtangan.com merupakan platform penjualan berbasis online dan offline yang menjual produk jam tangan #PastiOri. Jamtangan.com berada di bawah naungan PT Ming Jaya Sejahtera dengan mengusung nama Jamtangan.com sebagai brand platform penjualan. Jamtangan.com berfokus menjual produk jam tangan dengan pilihan lengkap dengan harga terbaik se-Indonesia. Semua produk di Jamtangan.com telah melalui kurasi yang ketat dari aspek model, fungsi, bahan, dan pemilihan brand demi menyajikan pilihan-pilihan yang beragam untuk berbagai kebutuhan.
 #### Data and DBMS
 Data yang digunakan adalah data dari website [Jamtangan.com](https://www.jamtangan.com/). Secara umum, data yang diambil adalah data produk, data penjualan, dan data review beserta customer dari tiap review-nya. Data produk dan penjualan diambil dari halaman detail produk tiap brand yang dibatasi sejumlah 20 data untuk setiap produk dengan jumlah brand sekitar 85. Data produk dan penjualan yang diambil tersebut merupakan data teratas yang merepresentasikan data terlaris dan memiliki paling banyak ulasan. Untuk data review diambil dari section review dari setiap produk yang dibatasi sejumlah 5 review dengan reviewer yang tidak anonim. 
@@ -83,13 +83,14 @@ Diperlukan beberapa libraries dan tools untuk menjalankan program. Berikut adala
 
 ### How to Use
 Berikut adalah langkah-langkah untuk menjalankan program:
-1. Pastikan semua libraries dan tools yang dibutuhkan sudah terinstall. <br><br>Untuk menginstall libraries, gunakan perintah berikut pada directory `Data Scraping/src` di terminal `pip install -r requirements` <br><br>Untuk menginstall [ChromeDriver](https://chromedriver.chromium.org/downloads), download file sesuai versi Google Chrome yang digunakan dan letakkan file tersebut pada folder yang sama dengan file program.
+1. Pastikan semua libraries dan tools yang dibutuhkan sudah terinstall. <br><br>Untuk menginstall libraries, gunakan perintah berikut pada directory `Data Scraping/src/config` di terminal <p align="center">`pip install -r requirements.txt`</p>
+Untuk menginstall [ChromeDriver](https://chromedriver.chromium.org/downloads), download file sesuai versi Google Chrome yang digunakan dan letakkan file tersebut pada folder yang sama dengan file program.
 
 2. Clone repository ini pada local directory yang sudah disiapkan
 
 3. Apabila ingin mendapatkan notifikasi melalui email apabila scraping sudah selesai, lakukan konfigurasi Google 2-Step-Verification dan generate Google Application specific password sesuai panduan berikut
-<br><br>[How to Generate Google App Specific Password for 2-Step Verification](https://shoutmetech.com/app-specific-google-2-step-verification/)
-<br><br>Jika sudah, buka file `email_config.txt` dan masukkan email yang akan dikirimkan notifikasi pada baris pertama dan generated password sebelumnya pada baris kedua. 
+<br><br><p align="center">[How to Generate Google App Specific Password for 2-Step Verification](https://shoutmetech.com/app-specific-google-2-step-verification/)<p/>
+Jika sudah, buka file `email_config.txt` dan masukkan email yang akan dikirimkan notifikasi pada baris pertama dan generated password sebelumnya pada baris kedua. 
 
 4. Buka file `main.ipynb` dan jalankan semua cell pada file tersebut untuk menjalankan program.
 
