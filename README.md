@@ -46,6 +46,7 @@ pip install requests
 ```console
 pip install lxml
 ```
+Kemudian, jalankan program pertama lalu jalankan program kedua menggunakan IDE python yang disukai.
 ## JSON Structure
 Berikut adalah struktur dasar dari berkas JSON hasil _scraping_:
 ```JSON
@@ -92,8 +93,17 @@ Berikut adalah diagram _entity-relational_ dan diagram relasional dari basis dat
 * Setiap fon mungkin saja memiliki variasi nama gaya fon, tetapi namanya akan selalu terkait nilai _slant_ dan _weight_, misalnya Roboto Extrabold 700 Italic
 * Oleh karena itu, setiap gaya fon akan terikat dengan suatu fon, penyimpanan gaya fon secara individual (tanpa terikat ke suatu fon) tidak masuk akal secara organisasi data
 * Sebuah _glpyh_ unik untuk setiap gaya fon dan dapat dilambangkan dengan _unicode_ sehingga namanya tidak unik dan terikat pada masing-masing gaya fon (bisa saja fon Roboto dengan gaya Extrabold memiliki 300 _glpyhs_ tetapi varian Roboto Italic hanya memiliki 100 _glphys_
+* Diasumsikan sebuah _author_ dapat berupa gabungan beberapa orang, setiap _author_ dapat membuat beberapa fon, tetapi suatu fon hanya punya sebuah _author_ (pahami _author_ sebagai entitas kelompok)
   
 ## Explanation of ERD to relational diagram translation process
+Pada ERD terdapat enam entitas: language, typeface, license, author, styles, dan glyph. Diketahui bahwa styles dan glyph merupakan _weak entity_.
+Berikut adalah proses penerjemahan ERD menjadi diagram relasional:
+* Typeface memiliki hubungan one to many terhadap _author_ dan setiap typeface pasti memiliki _author_ sehingga data _authorID_ dicatat pada relasi Typeface
+* Typeface memiliki hubungan many to many dengan Language tapi tidak wajib terhubung maka diwakilkan dengan tabel terpisah berisi PK dari kedua relasi
+* Typeface memiliki hubungan many to one dengan License dan setiap typeface wajib punya license maka typeface menyimpan licenseID
+* Styles merupakan _weak entity_ dari Typeface maka relasinya memiliki dua PK: styleID dan typefaceID (dari Typeface)
+* Glyph merupakan _weak entity_ dari Styles (merupakan _weak entity_ dari Typeface) maka Glyph harus memiliki tiga PK: glyphID, styleID (dari Style), dan typefaceID (dari Typeface)
+  
 ## Program Screencapture
 Berikut adalah tangkapan layar program:
 | ![Program Pertama](./Data%20Scraping/screenshot/First_Program.png) | ![Proses Program Pertama](./Data%20Scraping/screenshot/First_Program_Process.png) |
