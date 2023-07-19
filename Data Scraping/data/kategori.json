@@ -1,0 +1,36 @@
+{
+    "kategori_event": [
+        {
+            "id_kategori": 252001,
+            "kategori": "Musik"
+        },
+        {
+            "id_kategori": 252002,
+            "kategori": "Seminar"
+        },
+        {
+            "id_kategori": 252003,
+            "kategori": "Expo"
+        },
+        {
+            "id_kategori": 252004,
+            "kategori": "Bursa Kerja"
+        },
+        {
+            "id_kategori": 252005,
+            "kategori": "Sport"
+        },
+        {
+            "id_kategori": 252006,
+            "kategori": "Pensi"
+        },
+        {
+            "id_kategori": 252007,
+            "kategori": "Lain-lain"
+        },
+        {
+            "id_kategori": 252008,
+            "kategori": "Donasi"
+        }
+    ]
+}

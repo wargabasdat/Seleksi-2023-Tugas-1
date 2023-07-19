@@ -1,0 +1,40 @@
+{
+    "paket_event": [
+        {
+            "id_paket": 135001,
+            "nama_paket": "Promo Ruby",
+            "harga_paket": 500000, 
+            "penawaran": "Website post, 3x Post Sosial Media (IG, FB, Twitter), 3x Instastory, 3x WA Story, Iklan Bersponsor (200k)"
+        },
+        {
+            "id_paket": 135002,
+            "nama_paket": "Promo Safir",
+            "harga_paket": 1000000, 
+            "penawaran": "Website post, 4x Post Sosial Media (IG, FB, Twitter), 4x Instastory, 4x WA Story, Iklan Bersponsor (700k)"
+        },
+        {
+            "id_paket": 135003,
+            "paket": "Silver Mhs",
+            "harga_paket": 30000, 
+            "penawaran": "Website Post, 1x Post Sosial Media (IG, FB, Twitter)"
+        },
+        {
+            "id_paket": 135004,
+            "paket": "Gold Mhs",
+            "harga_paket": 40000, 
+            "penawaran": "Website Post, 1x Post Sosial Media (IG, FB, Twitter), 2x Instastory"
+        },
+        {
+            "id_paket": 135005,
+            "paket": "Platinum Mhs",
+            "harga_paket": 70000, 
+            "penawaran": "Website post, 2x Post Sosial Media (IG, FB, Twitter), 2x Instastory"
+        },
+        {
+            "id_paket": 135006,
+            "paket": "Diamond Mhs",
+            "harga_paket": 95000, 
+            "penawaran": "Website post, 3x Post Sosial Media (IG, FB, Twitter), 3x Instastory, 2x WA Story"
+        }
+    ]
+}

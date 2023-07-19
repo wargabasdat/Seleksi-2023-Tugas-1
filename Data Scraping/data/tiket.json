@@ -1,0 +1,406 @@
+{
+    "harga_tikettiket_event": [
+        {
+            "id_event": "4421",
+            "id_tiket": "442101",
+            "jenis_tiket": "Tour Karanganyar ",
+            "harga_tiket": 750000
+        },
+        {
+            "id_event": "4454",
+            "id_tiket": "445401",
+            "jenis_tiket": "Fun Walk 90's STIE Totalwin",
+            "harga_tiket": 25000
+        },
+        {
+            "id_event": "4444",
+            "id_tiket": "444401",
+            "jenis_tiket": "OPICK & KYAI TAPEL GAMELAN",
+            "harga_tiket": 250000
+        },
+        {
+            "id_event": "4284",
+            "id_tiket": "428401",
+            "jenis_tiket": "Semnas EXCESS 2022",
+            "harga_tiket": 50000
+        },
+        {
+            "id_event": "4283",
+            "id_tiket": "428301",
+            "jenis_tiket": "Special Price Only (1 Orang)",
+            "harga_tiket": 275000
+        },
+        {
+            "id_event": "4283",
+            "id_tiket": "428302",
+            "jenis_tiket": "Paket Combo (2 orang)",
+            "harga_tiket": 500000
+        },
+        {
+            "id_event": "4283",
+            "id_tiket": "428303",
+            "jenis_tiket": "Kategori Umum (1 Orang)",
+            "harga_tiket": 375000
+        },
+        {
+            "id_event": "4283",
+            "id_tiket": "428304",
+            "jenis_tiket": "Paket Combo Umum (2 Orang)",
+            "harga_tiket": 725000
+        },
+        {
+            "id_event": "4200",
+            "id_tiket": "420001",
+            "jenis_tiket": "GELOMBANG II",
+            "harga_tiket": 20000
+        },
+        {
+            "id_event": "4199",
+            "id_tiket": "419901",
+            "jenis_tiket": "INVESTMENT SUMMIT PROJECT 2022 : INVESTMENT RESEARCH COMPETITION",
+            "harga_tiket": 75000
+        },
+        {
+            "id_event": "4198",
+            "id_tiket": "419801",
+            "jenis_tiket": "WEBINAR NASIONAL INSPECT 2022 \u201cPemulihan Ekonomi Pasca Pandemi: Sebagai Upaya Menarik Milenial untuk",
+            "harga_tiket": 15000
+        },
+        {
+            "id_event": "4191",
+            "id_tiket": "419101",
+            "jenis_tiket": "GANESION 2022",
+            "harga_tiket": 25000
+        },
+        {
+            "id_event": "4181",
+            "id_tiket": "418101",
+            "jenis_tiket": "PRESALE 1 (1 Jan - 25 Jan)",
+            "harga_tiket": 25000
+        },
+        {
+            "id_event": "4181",
+            "id_tiket": "418102",
+            "jenis_tiket": "PRESALE 2 (26 Jan - 5 Feb)",
+            "harga_tiket": 35000
+        },
+        {
+            "id_event": "4166",
+            "id_tiket": "416601",
+            "jenis_tiket": "Offline",
+            "harga_tiket": 55000
+        },
+        {
+            "id_event": "4166",
+            "id_tiket": "416602",
+            "jenis_tiket": "Streaming",
+            "harga_tiket": 25000
+        },
+        {
+            "id_event": "4161",
+            "id_tiket": "416101",
+            "jenis_tiket": "SMECOMP 2022",
+            "harga_tiket": 35000
+        },
+        {
+            "id_event": "4185",
+            "id_tiket": "418501",
+            "jenis_tiket": "HTM Beauty Class and Fashion Show with Wardah",
+            "harga_tiket": 100000
+        },
+        {
+            "id_event": "4173",
+            "id_tiket": "417301",
+            "jenis_tiket": "TOEFL Akbar Online",
+            "harga_tiket": 70000
+        },
+        {
+            "id_event": "4170",
+            "id_tiket": "417001",
+            "jenis_tiket": "Webinar INCREASE 3.0 (Innovative and Creation of Psychopreneur in Society)",
+            "harga_tiket": 35000
+        },
+        {
+            "id_event": "4170",
+            "id_tiket": "417002",
+            "jenis_tiket": "Webinar INCREASE 3.0 (Innovative and Creation of Psychopreneur in Society) for 2 pax",
+            "harga_tiket": 65000
+        },
+        {
+            "id_event": "4167",
+            "id_tiket": "416701",
+            "jenis_tiket": "SMC Online Lampung",
+            "harga_tiket": 50000
+        },
+        {
+            "id_event": "4164",
+            "id_tiket": "416401",
+            "jenis_tiket": "FOCUS : Finance On Discuss",
+            "harga_tiket": 30000
+        },
+        {
+            "id_event": "4159",
+            "id_tiket": "415901",
+            "jenis_tiket": "[LEOIWID 2022] Pre-sale 3",
+            "harga_tiket": 40000
+        },
+        {
+            "id_event": "4159",
+            "id_tiket": "415902",
+            "jenis_tiket": "[LEOIWID 2022] OTS",
+            "harga_tiket": 50000
+        },
+        {
+            "id_event": "4142",
+            "id_tiket": "414201",
+            "jenis_tiket": "Seminar;Trainerpreneur",
+            "harga_tiket": 125000
+        },
+        {
+            "id_event": "4103",
+            "id_tiket": "410301",
+            "jenis_tiket": "\u2728Webinar Personal Branding \"Your Future Created By You\" \u2728",
+            "harga_tiket": 10000
+        },
+        {
+            "id_event": "4084",
+            "id_tiket": "408401",
+            "jenis_tiket": " SEMINAR NASIONAL & CALL FOR PAPER BEM-FT 2021",
+            "harga_tiket": 100000
+        },
+        {
+            "id_event": "4066",
+            "id_tiket": "406601",
+            "jenis_tiket": "Upgrade Your Personality",
+            "harga_tiket": 90000
+        },
+        {
+            "id_event": "4041",
+            "id_tiket": "404101",
+            "jenis_tiket": "Paket 1",
+            "harga_tiket": 10000
+        },
+        {
+            "id_event": "4041",
+            "id_tiket": "404102",
+            "jenis_tiket": "Paket 2",
+            "harga_tiket": 25000
+        },
+        {
+            "id_event": "4041",
+            "id_tiket": "404103",
+            "jenis_tiket": "Paket 3",
+            "harga_tiket": 35000
+        },
+        {
+            "id_event": "4031",
+            "id_tiket": "403101",
+            "jenis_tiket": "Speaking For Communication",
+            "harga_tiket": 500000
+        },
+        {
+            "id_event": "4030",
+            "id_tiket": "403001",
+            "jenis_tiket": "IELTS WRITING PREPARATION",
+            "harga_tiket": 500000
+        },
+        {
+            "id_event": "4030",
+            "id_tiket": "403002",
+            "jenis_tiket": "IELTS SPEAKING PREPARATION",
+            "harga_tiket": 500000
+        },
+        {
+            "id_event": "4029",
+            "id_tiket": "402901",
+            "jenis_tiket": "TOEFL ITP COMPLATE SKILLS",
+            "harga_tiket": 250000
+        },
+        {
+            "id_event": "4025",
+            "id_tiket": "402501",
+            "jenis_tiket": "Early Bird",
+            "harga_tiket": 15000
+        },
+        {
+            "id_event": "4025",
+            "id_tiket": "402502",
+            "jenis_tiket": "Normal",
+            "harga_tiket": 20000
+        },
+        {
+            "id_event": "3249",
+            "id_tiket": "324901",
+            "jenis_tiket": "Dalgona + Pisgor",
+            "harga_tiket": 25000
+        },
+        {
+            "id_event": "3249",
+            "id_tiket": "324902",
+            "jenis_tiket": "Dalgona + French fries",
+            "harga_tiket": 25000
+        },
+        {
+            "id_event": "3249",
+            "id_tiket": "324903",
+            "jenis_tiket": "Ice lemon tea + Pisgor",
+            "harga_tiket": 25000
+        },
+        {
+            "id_event": "3249",
+            "id_tiket": "324904",
+            "jenis_tiket": "Thai Tea + French Fries",
+            "harga_tiket": 25000
+        },
+        {
+            "id_event": "3249",
+            "id_tiket": "324905",
+            "jenis_tiket": "VIP - Paket 1",
+            "harga_tiket": 75000
+        },
+        {
+            "id_event": "3249",
+            "id_tiket": "324906",
+            "jenis_tiket": "VIP - Paket 2",
+            "harga_tiket": 75000
+        },
+        {
+            "id_event": "3249",
+            "id_tiket": "324907",
+            "jenis_tiket": "VIP - Paket 3",
+            "harga_tiket": 75000
+        },
+        {
+            "id_event": "3249",
+            "id_tiket": "324908",
+            "jenis_tiket": "Reguler - Paket 1",
+            "harga_tiket": 40000
+        },
+        {
+            "id_event": "3249",
+            "id_tiket": "324909",
+            "jenis_tiket": "Reguler - Paket 2",
+            "harga_tiket": 40000
+        },
+        {
+            "id_event": "3249",
+            "id_tiket": "3249010",
+            "jenis_tiket": "Reguler - Paket 3",
+            "harga_tiket": 40000
+        },
+        {
+            "id_event": "3081",
+            "id_tiket": "308101",
+            "jenis_tiket": "Presale 1Regular",
+            "harga_tiket": 40000
+        },
+        {
+            "id_event": "3081",
+            "id_tiket": "308102",
+            "jenis_tiket": "Presale 1 Premium",
+            "harga_tiket": 50000
+        },
+        {
+            "id_event": "3081",
+            "id_tiket": "308103",
+            "jenis_tiket": "Presale 2 Regular",
+            "harga_tiket": 45000
+        },
+        {
+            "id_event": "3081",
+            "id_tiket": "308104",
+            "jenis_tiket": "Presale 2 Premium",
+            "harga_tiket": 60000
+        },
+        {
+            "id_event": "3014",
+            "id_tiket": "301401",
+            "jenis_tiket": "Early Bird 1 Nasional",
+            "harga_tiket": 100000
+        },
+        {
+            "id_event": "3014",
+            "id_tiket": "301402",
+            "jenis_tiket": "Early Bird 2 Nasional",
+            "harga_tiket": 125000
+        },
+        {
+            "id_event": "3014",
+            "id_tiket": "301403",
+            "jenis_tiket": "Normal Nasional",
+            "harga_tiket": 150000
+        },
+        {
+            "id_event": "3014",
+            "id_tiket": "301404",
+            "jenis_tiket": "Internasional",
+            "harga_tiket": 200000
+        },
+        {
+            "id_event": "2992",
+            "id_tiket": "299201",
+            "jenis_tiket": "Presale 2 Gebyar Kharisma XIX UKM Musik UBHARA",
+            "harga_tiket": 30000
+        },
+        {
+            "id_event": "2821",
+            "id_tiket": "282101",
+            "jenis_tiket": "PsyTalk 2019",
+            "harga_tiket": 80000
+        },
+        {
+            "id_event": "2721",
+            "id_tiket": "272101",
+            "jenis_tiket": "Presale 1",
+            "harga_tiket": 35000
+        },
+        {
+            "id_event": "2520",
+            "id_tiket": "252001",
+            "jenis_tiket": "Presale 1",
+            "harga_tiket": 45000
+        },
+        {
+            "id_event": "2027",
+            "id_tiket": "202701",
+            "jenis_tiket": "Presale 1 Festival",
+            "harga_tiket": 25000
+        },
+        {
+            "id_event": "2027",
+            "id_tiket": "202702",
+            "jenis_tiket": "Presale 1 VIP",
+            "harga_tiket": 40000
+        },
+        {
+            "id_event": "2027",
+            "id_tiket": "202703",
+            "jenis_tiket": "Presale 2 Festival",
+            "harga_tiket": 30000
+        },
+        {
+            "id_event": "1933",
+            "id_tiket": "193301",
+            "jenis_tiket": "Presale 2",
+            "harga_tiket": 50000
+        },
+        {
+            "id_event": "1071",
+            "id_tiket": "107101",
+            "jenis_tiket": "Presale 1",
+            "harga_tiket": 45000
+        },
+        {
+            "id_event": "1071",
+            "id_tiket": "107102",
+            "jenis_tiket": "Presale 2",
+            "harga_tiket": 55000
+        },
+        {
+            "id_event": "1071",
+            "id_tiket": "107103",
+            "jenis_tiket": "Presale 3",
+            "harga_tiket": 60000
+        }
+    ]
+}

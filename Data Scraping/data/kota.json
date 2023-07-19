@@ -1,0 +1,496 @@
+{
+    "kota_event": [
+        {
+            "id_kota": 182001,
+            "kota": " Kab. Aceh Barat"
+        },
+        {
+            "id_kota": 182002,
+            "kota": " Kab. Adm. Kep. Seribu"
+        },
+        {
+            "id_kota": 182003,
+            "kota": " Kab. Badung"
+        },
+        {
+            "id_kota": 182004,
+            "kota": " Kab. Bandung"
+        },
+        {
+            "id_kota": 182005,
+            "kota": " Kab. Bandung Barat"
+        },
+        {
+            "id_kota": 182006,
+            "kota": " Kab. Bangkalan"
+        },
+        {
+            "id_kota": 182007,
+            "kota": " Kab. Banjarnegara"
+        },
+        {
+            "id_kota": 182008,
+            "kota": " Kab. Bantul"
+        },
+        {
+            "id_kota": 182009,
+            "kota": " Kab. Banyumas"
+        },
+        {
+            "id_kota": 182010,
+            "kota": " Kab. Banyuwangi"
+        },
+        {
+            "id_kota": 182011,
+            "kota": " Kab. Bekasi"
+        },
+        {
+            "id_kota": 182012,
+            "kota": " Kab. Bogor"
+        },
+        {
+            "id_kota": 182013,
+            "kota": " Kab. Bone"
+        },
+        {
+            "id_kota": 182014,
+            "kota": " Kab. Boyolali"
+        },
+        {
+            "id_kota": 182015,
+            "kota": " Kab. Brebes"
+        },
+        {
+            "id_kota": 182016,
+            "kota": " Kab. Buleleng"
+        },
+        {
+            "id_kota": 182017,
+            "kota": " Kab. Cianjur"
+        },
+        {
+            "id_kota": 182018,
+            "kota": " Kab. Cilacap"
+        },
+        {
+            "id_kota": 182019,
+            "kota": " Kab. Deli Serdang"
+        },
+        {
+            "id_kota": 182020,
+            "kota": " Kab. Fak Fak"
+        },
+        {
+            "id_kota": 182021,
+            "kota": " Kab. Garut"
+        },
+        {
+            "id_kota": 182022,
+            "kota": " Kab. Gowa"
+        },
+        {
+            "id_kota": 182023,
+            "kota": " Kab. Gresik"
+        },
+        {
+            "id_kota": 182024,
+            "kota": " Kab. Halmahera Barat"
+        },
+        {
+            "id_kota": 182025,
+            "kota": " Kab. Indramayu"
+        },
+        {
+            "id_kota": 182026,
+            "kota": " Kab. Jember"
+        },
+        {
+            "id_kota": 182027,
+            "kota": " Kab. Jepara"
+        },
+        {
+            "id_kota": 182028,
+            "kota": " Kab. Karanganyar"
+        },
+        {
+            "id_kota": 182029,
+            "kota": " Kab. Karawang"
+        },
+        {
+            "id_kota": 182030,
+            "kota": " Kab. Kebumen"
+        },
+        {
+            "id_kota": 182031,
+            "kota": " Kab. Klaten"
+        },
+        {
+            "id_kota": 182032,
+            "kota": " Kab. Kudus"
+        },
+        {
+            "id_kota": 182033,
+            "kota": " Kab. Kulon Progo"
+        },
+        {
+            "id_kota": 182034,
+            "kota": " Kab. Kuningan"
+        },
+        {
+            "id_kota": 182035,
+            "kota": " Kab. Lamongan"
+        },
+        {
+            "id_kota": 182036,
+            "kota": " Kab. Lampung Selatan"
+        },
+        {
+            "id_kota": 182037,
+            "kota": " Kab. Lombok Tengah"
+        },
+        {
+            "id_kota": 182038,
+            "kota": " Kab. Magelang"
+        },
+        {
+            "id_kota": 182039,
+            "kota": " Kab. Majalengka"
+        },
+        {
+            "id_kota": 182040,
+            "kota": " Kab. Malang"
+        },
+        {
+            "id_kota": 182041,
+            "kota": " Kab. Manggarai"
+        },
+        {
+            "id_kota": 182042,
+            "kota": " Kab. Minahasa"
+        },
+        {
+            "id_kota": 182043,
+            "kota": " Kab. Nganjuk"
+        },
+        {
+            "id_kota": 182044,
+            "kota": " Kab. Pacitan"
+        },
+        {
+            "id_kota": 182045,
+            "kota": " Kab. Pamekasan"
+        },
+        {
+            "id_kota": 182046,
+            "kota": " Kab. Pandeglang"
+        },
+        {
+            "id_kota": 182047,
+            "kota": " Kab. Pegunungan Arfak"
+        },
+        {
+            "id_kota": 182048,
+            "kota": " Kab. Pekalongan"
+        },
+        {
+            "id_kota": 182049,
+            "kota": " Kab. Pesisir Barat"
+        },
+        {
+            "id_kota": 182050,
+            "kota": " Kab. Ponorogo"
+        },
+        {
+            "id_kota": 182051,
+            "kota": " Kab. Purwakarta"
+        },
+        {
+            "id_kota": 182052,
+            "kota": " Kab. Purworejo"
+        },
+        {
+            "id_kota": 182053,
+            "kota": " Kab. Rembang"
+        },
+        {
+            "id_kota": 182054,
+            "kota": " Kab. Semarang"
+        },
+        {
+            "id_kota": 182055,
+            "kota": " Kab. Serang"
+        },
+        {
+            "id_kota": 182056,
+            "kota": " Kab. Sidoarjo"
+        },
+        {
+            "id_kota": 182057,
+            "kota": " Kab. Sleman"
+        },
+        {
+            "id_kota": 182058,
+            "kota": " Kab. Soppeng"
+        },
+        {
+            "id_kota": 182059,
+            "kota": " Kab. Sragen"
+        },
+        {
+            "id_kota": 182060,
+            "kota": " Kab. Subang"
+        },
+        {
+            "id_kota": 182061,
+            "kota": " Kab. Sukoharjo"
+        },
+        {
+            "id_kota": 182062,
+            "kota": " Kab. Sumbawa"
+        },
+        {
+            "id_kota": 182063,
+            "kota": " Kab. Sumedang"
+        },
+        {
+            "id_kota": 182064,
+            "kota": " Kab. Sumenep"
+        },
+        {
+            "id_kota": 182065,
+            "kota": " Kab. Tangerang"
+        },
+        {
+            "id_kota": 182066,
+            "kota": " Kab. Tasikmalaya"
+        },
+        {
+            "id_kota": 182067,
+            "kota": " Kab. Tulungagung"
+        },
+        {
+            "id_kota": 182068,
+            "kota": " Kab. Wonogiri"
+        },
+        {
+            "id_kota": 182069,
+            "kota": " Kota Adm. Jakarta Barat"
+        },
+        {
+            "id_kota": 182070,
+            "kota": " Kota Adm. Jakarta Pusat"
+        },
+        {
+            "id_kota": 182071,
+            "kota": " Kota Adm. Jakarta Selatan"
+        },
+        {
+            "id_kota": 182072,
+            "kota": " Kota Adm. Jakarta Timur"
+        },
+        {
+            "id_kota": 182073,
+            "kota": " Kota Adm. Jakarta Utara"
+        },
+        {
+            "id_kota": 182074,
+            "kota": " Kota Balikpapan"
+        },
+        {
+            "id_kota": 182075,
+            "kota": " Kota Banda Aceh"
+        },
+        {
+            "id_kota": 182076,
+            "kota": " Kota Bandar Lampung"
+        },
+        {
+            "id_kota": 182077,
+            "kota": " Kota Bandung"
+        },
+        {
+            "id_kota": 182078,
+            "kota": " Kota Banjarbaru"
+        },
+        {
+            "id_kota": 182079,
+            "kota": " Kota Banjarmasin"
+        },
+        {
+            "id_kota": 182080,
+            "kota": " Kota Batu"
+        },
+        {
+            "id_kota": 182081,
+            "kota": " Kota Bekasi"
+        },
+        {
+            "id_kota": 182082,
+            "kota": " Kota Bengkulu"
+        },
+        {
+            "id_kota": 182083,
+            "kota": " Kota Bogor"
+        },
+        {
+            "id_kota": 182084,
+            "kota": " Kota Bontang"
+        },
+        {
+            "id_kota": 182085,
+            "kota": " Kota Bukittinggi"
+        },
+        {
+            "id_kota": 182086,
+            "kota": " Kota Cilegon"
+        },
+        {
+            "id_kota": 182087,
+            "kota": " Kota Cimahi"
+        },
+        {
+            "id_kota": 182088,
+            "kota": " Kota Cirebon"
+        },
+        {
+            "id_kota": 182089,
+            "kota": " Kota Denpasar"
+        },
+        {
+            "id_kota": 182090,
+            "kota": " Kota Depok"
+        },
+        {
+            "id_kota": 182091,
+            "kota": " Kota Jambi"
+        },
+        {
+            "id_kota": 182092,
+            "kota": " Kota Kediri"
+        },
+        {
+            "id_kota": 182093,
+            "kota": " Kota Kendari"
+        },
+        {
+            "id_kota": 182094,
+            "kota": " Kota Madiun"
+        },
+        {
+            "id_kota": 182095,
+            "kota": " Kota Magelang"
+        },
+        {
+            "id_kota": 182096,
+            "kota": " Kota Makassar"
+        },
+        {
+            "id_kota": 182097,
+            "kota": " Kota Malang"
+        },
+        {
+            "id_kota": 182098,
+            "kota": " Kota Mataram"
+        },
+        {
+            "id_kota": 182099,
+            "kota": " Kota Medan"
+        },
+        {
+            "id_kota": 182100,
+            "kota": " Kota Mojokerto"
+        },
+        {
+            "id_kota": 182101,
+            "kota": " Kota Padang"
+        },
+        {
+            "id_kota": 182102,
+            "kota": " Kota Padang Panjang"
+        },
+        {
+            "id_kota": 182103,
+            "kota": " Kota Padangsidimpuan"
+        },
+        {
+            "id_kota": 182104,
+            "kota": " Kota Palangkaraya"
+        },
+        {
+            "id_kota": 182105,
+            "kota": " Kota Palembang"
+        },
+        {
+            "id_kota": 182106,
+            "kota": " Kota Palu"
+        },
+        {
+            "id_kota": 182107,
+            "kota": " Kota Pekalongan"
+        },
+        {
+            "id_kota": 182108,
+            "kota": " Kota Pekanbaru"
+        },
+        {
+            "id_kota": 182109,
+            "kota": " Kota Pematangsiantar"
+        },
+        {
+            "id_kota": 182110,
+            "kota": " Kota Pontianak"
+        },
+        {
+            "id_kota": 182111,
+            "kota": " Kota Salatiga"
+        },
+        {
+            "id_kota": 182112,
+            "kota": " Kota Samarinda"
+        },
+        {
+            "id_kota": 182113,
+            "kota": " Kota Semarang"
+        },
+        {
+            "id_kota": 182114,
+            "kota": " Kota Serang"
+        },
+        {
+            "id_kota": 182115,
+            "kota": " Kota Sukabumi"
+        },
+        {
+            "id_kota": 182116,
+            "kota": " Kota Surabaya"
+        },
+        {
+            "id_kota": 182117,
+            "kota": " Kota Surakarta"
+        },
+        {
+            "id_kota": 182118,
+            "kota": " Kota Tangerang"
+        },
+        {
+            "id_kota": 182119,
+            "kota": " Kota Tangerang Selatan"
+        },
+        {
+            "id_kota": 182120,
+            "kota": " Kota Tanjung Pinang"
+        },
+        {
+            "id_kota": 182121,
+            "kota": " Kota Tasikmalaya"
+        },
+        {
+            "id_kota": 182122,
+            "kota": " Kota Tegal"
+        },
+        {
+            "id_kota": 182123,
+            "kota": " Kota Yogyakarta"
+        }
+    ]
+}
