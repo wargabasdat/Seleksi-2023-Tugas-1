@@ -142,6 +142,8 @@ Berdasarkan ERD dan diagram relasional sebelumnya, maka terdapat beberapa tahapa
 </div>
 
 #### Code Data storing :
+storing dari JSON ke dalam database terdapat di folder `Data Scraping` > `Src` atau [disini](https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/src/storing1.py)
+
 daftar tabel : 
 <div align="center">
 <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/daftar%20tabel.png" alt="Daftar tabel" width="450">
