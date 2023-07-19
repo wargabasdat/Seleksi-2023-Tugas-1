@@ -1,186 +1,22 @@
-{
-    "schema":{
-        "fields":[
-            {
-                "name":"index",
-                "type":"integer"
-            },
-            {
-                "name":"publisherID",
-                "type":"string"
-            },
-            {
-                "name":"publisherName",
-                "type":"string"
-            },
-            {
-                "name":"address",
-                "type":"string"
-            },
-            {
-                "name":"phone",
-                "type":"string"
-            }
-        ],
-        "primaryKey":[
-            "index"
-        ],
-        "pandas_version":"1.4.0"
-    },
-    "data":[
-        {
-            "index":0,
-            "publisherID":"PB0001",
-            "publisherName":"Sinar angsa",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":1,
-            "publisherID":"PB0002",
-            "publisherName":"Elex Media Komputindo",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":2,
-            "publisherID":"PB0003",
-            "publisherName":"Romancious",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":3,
-            "publisherID":"PB0004",
-            "publisherName":"bukune",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":4,
-            "publisherID":"PB0005",
-            "publisherName":"Salsabila Al-kautsar",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":5,
-            "publisherID":"PB0006",
-            "publisherName":"Salsabila",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":6,
-            "publisherID":"PB0007",
-            "publisherName":"Aria Media Mandiri",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":7,
-            "publisherID":"PB0008",
-            "publisherName":"Bhuana Ilmu Populer",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":8,
-            "publisherID":"PB0009",
-            "publisherName":"Akad x Tekad",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":9,
-            "publisherID":"PB0010",
-            "publisherName":"Loveable",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":10,
-            "publisherID":"PB0011",
-            "publisherName":"Al-Kautsar Kids",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":11,
-            "publisherID":"PB0012",
-            "publisherName":"Akad x Skuad",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":12,
-            "publisherID":"PB0013",
-            "publisherName":"Bukune",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":13,
-            "publisherID":"PB0014",
-            "publisherName":"Ump Press",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":14,
-            "publisherID":"PB0015",
-            "publisherName":"m&c!",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":15,
-            "publisherID":"PB0016",
-            "publisherName":"GagasMedia",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":16,
-            "publisherID":"PB0017",
-            "publisherName":"Kepustakaan Populer Gramedia",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":17,
-            "publisherID":"PB0018",
-            "publisherName":"Gramedia Pustaka Utama",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":18,
-            "publisherID":"PB0019",
-            "publisherName":"Noura Books Publishing",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":19,
-            "publisherID":"PB0020",
-            "publisherName":"Falcon",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":20,
-            "publisherID":"PB0021",
-            "publisherName":"Gema Insani Pers",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        },
-        {
-            "index":21,
-            "publisherID":"PB0022",
-            "publisherName":"Mediakita",
-            "address":"by 18221171",
-            "phone":"by 18221171"
-        }
-    ]
-}
+{"publisherID":"PB001","publisherName":"Elex Media Komputindo","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB002","publisherName":"Aria Media Mandiri","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB003","publisherName":"Salsabila","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB004","publisherName":"Gema Insani Pers","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB005","publisherName":"Noura Books Publishing","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB006","publisherName":"bukune","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB007","publisherName":"Mediakita","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB008","publisherName":"Al-Kautsar Kids","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB009","publisherName":"Bhuana Ilmu Populer","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB010","publisherName":"Loveable","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB011","publisherName":"Akad x Skuad","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB012","publisherName":"Romancious","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB013","publisherName":"Gramedia Pustaka Utama","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB014","publisherName":"GagasMedia","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB015","publisherName":"m&c!","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB016","publisherName":"Sinar angsa","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB017","publisherName":"Ump Press","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB018","publisherName":"Akad x Tekad","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB019","publisherName":"Kepustakaan Populer Gramedia","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB020","publisherName":"Salsabila Al-kautsar","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB021","publisherName":"Bukune","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
+{"publisherID":"PB022","publisherName":"Falcon","address":"182-21-171-STREET","phone":"182-21-171-STREET"}
