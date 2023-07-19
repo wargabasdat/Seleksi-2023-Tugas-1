@@ -1,0 +1,544 @@
+{
+ "prefered_light_cones": [
+  {
+   "character_name": "March 7th",
+   "light_cone_name": "Moment of Victory"
+  },
+  {
+   "character_name": "March 7th",
+   "light_cone_name": "Day One of My New Life"
+  },
+  {
+   "character_name": "March 7th",
+   "light_cone_name": "This Is Me!"
+  },
+  {
+   "character_name": "March 7th",
+   "light_cone_name": "We Are Wildfire"
+  },
+  {
+   "character_name": "March 7th",
+   "light_cone_name": "Amber"
+  },
+  {
+   "character_name": "Trailblazer (Physical)",
+   "light_cone_name": "On the Fall of an Aeon"
+  },
+  {
+   "character_name": "Trailblazer (Physical)",
+   "light_cone_name": "Something Irreplaceable"
+  },
+  {
+   "character_name": "Trailblazer (Physical)",
+   "light_cone_name": "The Moles Welcome You"
+  },
+  {
+   "character_name": "Trailblazer (Physical)",
+   "light_cone_name": "Nowhere to Run"
+  },
+  {
+   "character_name": "Trailblazer (Physical)",
+   "light_cone_name": "Collapsing Sky"
+  },
+  {
+   "character_name": "Dan Heng",
+   "light_cone_name": "In the Night"
+  },
+  {
+   "character_name": "Dan Heng",
+   "light_cone_name": "Sleep Like the Dead"
+  },
+  {
+   "character_name": "Dan Heng",
+   "light_cone_name": "Cruising in the Stellar Sea"
+  },
+  {
+   "character_name": "Dan Heng",
+   "light_cone_name": "Swordplay"
+  },
+  {
+   "character_name": "Dan Heng",
+   "light_cone_name": "Only Silence Remains"
+  },
+  {
+   "character_name": "Himeko",
+   "light_cone_name": "Before Dawn"
+  },
+  {
+   "character_name": "Himeko",
+   "light_cone_name": "Today is Another Peaceful Day"
+  },
+  {
+   "character_name": "Himeko",
+   "light_cone_name": "Night on the Milky Way"
+  },
+  {
+   "character_name": "Himeko",
+   "light_cone_name": "The Birth of the Self"
+  },
+  {
+   "character_name": "Himeko",
+   "light_cone_name": "The Seriousness of Breakfast"
+  },
+  {
+   "character_name": "Asta",
+   "light_cone_name": "The Battle Isn't Over"
+  },
+  {
+   "character_name": "Asta",
+   "light_cone_name": "Planetary Rendezvous"
+  },
+  {
+   "character_name": "Asta",
+   "light_cone_name": "Dance! Dance! Dance!"
+  },
+  {
+   "character_name": "Asta",
+   "light_cone_name": "Carve the Moon, Weave the Clouds"
+  },
+  {
+   "character_name": "Asta",
+   "light_cone_name": "Meshing Cogs"
+  },
+  {
+   "character_name": "Arlan",
+   "light_cone_name": "Something Irreplaceable"
+  },
+  {
+   "character_name": "Arlan",
+   "light_cone_name": "On the Fall of an Aeon"
+  },
+  {
+   "character_name": "Arlan",
+   "light_cone_name": "A Secret Vow"
+  },
+  {
+   "character_name": "Arlan",
+   "light_cone_name": "Nowhere to Run"
+  },
+  {
+   "character_name": "Arlan",
+   "light_cone_name": "Mutual Demise"
+  },
+  {
+   "character_name": "Seele",
+   "light_cone_name": "In the Night"
+  },
+  {
+   "character_name": "Seele",
+   "light_cone_name": "Sleep Like the Dead"
+  },
+  {
+   "character_name": "Seele",
+   "light_cone_name": "Cruising in the Stellar Sea"
+  },
+  {
+   "character_name": "Seele",
+   "light_cone_name": "Swordplay"
+  },
+  {
+   "character_name": "Seele",
+   "light_cone_name": "Only Silence Remains"
+  },
+  {
+   "character_name": "Natasha",
+   "light_cone_name": "Time Waits for No One"
+  },
+  {
+   "character_name": "Natasha",
+   "light_cone_name": "Post-Op Conversation"
+  },
+  {
+   "character_name": "Natasha",
+   "light_cone_name": "Warmth Shortens Cold Nights"
+  },
+  {
+   "character_name": "Natasha",
+   "light_cone_name": "Shared Feeling"
+  },
+  {
+   "character_name": "Natasha",
+   "light_cone_name": "Cornucopia"
+  },
+  {
+   "character_name": "Pela",
+   "light_cone_name": "Resolution Shines As Pearls of Sweat"
+  },
+  {
+   "character_name": "Pela",
+   "light_cone_name": "Eyes of the Prey"
+  },
+  {
+   "character_name": "Pela",
+   "light_cone_name": "Good Night and Sleep Well"
+  },
+  {
+   "character_name": "Pela",
+   "light_cone_name": "We Will Meet Again"
+  },
+  {
+   "character_name": "Pela",
+   "light_cone_name": "In the Name of the World"
+  },
+  {
+   "character_name": "Hook",
+   "light_cone_name": "On the Fall of an Aeon"
+  },
+  {
+   "character_name": "Hook",
+   "light_cone_name": "Something Irreplaceable"
+  },
+  {
+   "character_name": "Hook",
+   "light_cone_name": "Woof! Walk Time!"
+  },
+  {
+   "character_name": "Hook",
+   "light_cone_name": "The Moles Welcome You"
+  },
+  {
+   "character_name": "Hook",
+   "light_cone_name": "Collapsing Sky"
+  },
+  {
+   "character_name": "Serval",
+   "light_cone_name": "Before Dawn"
+  },
+  {
+   "character_name": "Serval",
+   "light_cone_name": "Today is Another Peaceful Day"
+  },
+  {
+   "character_name": "Serval",
+   "light_cone_name": "Night on the Milky Way"
+  },
+  {
+   "character_name": "Serval",
+   "light_cone_name": "The Seriousness of Breakfast"
+  },
+  {
+   "character_name": "Serval",
+   "light_cone_name": "Geniuses' Repose"
+  },
+  {
+   "character_name": "Qingque",
+   "light_cone_name": "Before Dawn"
+  },
+  {
+   "character_name": "Qingque",
+   "light_cone_name": "Today is Another Peaceful Day"
+  },
+  {
+   "character_name": "Qingque",
+   "light_cone_name": "Night on the Milky Way"
+  },
+  {
+   "character_name": "Qingque",
+   "light_cone_name": "The Seriousness of Breakfast"
+  },
+  {
+   "character_name": "Qingque",
+   "light_cone_name": "Geniuses' Repose"
+  },
+  {
+   "character_name": "Herta",
+   "light_cone_name": "Before Dawn"
+  },
+  {
+   "character_name": "Herta",
+   "light_cone_name": "Today is Another Peaceful Day"
+  },
+  {
+   "character_name": "Herta",
+   "light_cone_name": "Night on the Milky Way"
+  },
+  {
+   "character_name": "Herta",
+   "light_cone_name": "The Birth of the Self"
+  },
+  {
+   "character_name": "Herta",
+   "light_cone_name": "The Seriousness of Breakfast"
+  },
+  {
+   "character_name": "Tingyun",
+   "light_cone_name": "Dance! Dance! Dance!"
+  },
+  {
+   "character_name": "Tingyun",
+   "light_cone_name": "Carve the Moon, Weave the Clouds"
+  },
+  {
+   "character_name": "Tingyun",
+   "light_cone_name": "The Battle Isn't Over"
+  },
+  {
+   "character_name": "Tingyun",
+   "light_cone_name": "Memories of the Past"
+  },
+  {
+   "character_name": "Tingyun",
+   "light_cone_name": "Chorus"
+  },
+  {
+   "character_name": "Sushang",
+   "light_cone_name": "In the Night"
+  },
+  {
+   "character_name": "Sushang",
+   "light_cone_name": "Sleep Like the Dead"
+  },
+  {
+   "character_name": "Sushang",
+   "light_cone_name": "Cruising in the Stellar Sea"
+  },
+  {
+   "character_name": "Sushang",
+   "light_cone_name": "Swordplay"
+  },
+  {
+   "character_name": "Sushang",
+   "light_cone_name": "Only Silence Remains"
+  },
+  {
+   "character_name": "Clara",
+   "light_cone_name": "Something Irreplaceable"
+  },
+  {
+   "character_name": "Clara",
+   "light_cone_name": "On the Fall of an Aeon"
+  },
+  {
+   "character_name": "Clara",
+   "light_cone_name": "The Moles Welcome You"
+  },
+  {
+   "character_name": "Clara",
+   "light_cone_name": "Nowhere to Run"
+  },
+  {
+   "character_name": "Clara",
+   "light_cone_name": "Mutual Demise"
+  },
+  {
+   "character_name": "Bronya",
+   "light_cone_name": "The Battle Isn't Over"
+  },
+  {
+   "character_name": "Bronya",
+   "light_cone_name": "Past and Future"
+  },
+  {
+   "character_name": "Bronya",
+   "light_cone_name": "Memories of the Past"
+  },
+  {
+   "character_name": "Bronya",
+   "light_cone_name": "Carve the Moon, Weave the Clouds"
+  },
+  {
+   "character_name": "Bronya",
+   "light_cone_name": "Meshing Cogs"
+  },
+  {
+   "character_name": "Gepard",
+   "light_cone_name": "Moment of Victory"
+  },
+  {
+   "character_name": "Gepard",
+   "light_cone_name": "Texture of Memories"
+  },
+  {
+   "character_name": "Gepard",
+   "light_cone_name": "Landau's Choice"
+  },
+  {
+   "character_name": "Gepard",
+   "light_cone_name": "Day One of My New Life"
+  },
+  {
+   "character_name": "Gepard",
+   "light_cone_name": "Amber"
+  },
+  {
+   "character_name": "Bailu",
+   "light_cone_name": "Time Waits for No One"
+  },
+  {
+   "character_name": "Bailu",
+   "light_cone_name": "Post-Op Conversation"
+  },
+  {
+   "character_name": "Bailu",
+   "light_cone_name": "Warmth Shortens Cold Nights"
+  },
+  {
+   "character_name": "Bailu",
+   "light_cone_name": "Shared Feeling"
+  },
+  {
+   "character_name": "Bailu",
+   "light_cone_name": "Cornucopia"
+  },
+  {
+   "character_name": "Yanqing",
+   "light_cone_name": "In the Night"
+  },
+  {
+   "character_name": "Yanqing",
+   "light_cone_name": "Sleep Like the Dead"
+  },
+  {
+   "character_name": "Yanqing",
+   "light_cone_name": "Cruising in the Stellar Sea"
+  },
+  {
+   "character_name": "Yanqing",
+   "light_cone_name": "Swordplay"
+  },
+  {
+   "character_name": "Yanqing",
+   "light_cone_name": "Only Silence Remains"
+  },
+  {
+   "character_name": "Welt",
+   "light_cone_name": "In the Name of the World"
+  },
+  {
+   "character_name": "Welt",
+   "light_cone_name": "Eyes of the Prey"
+  },
+  {
+   "character_name": "Welt",
+   "light_cone_name": "Good Night and Sleep Well"
+  },
+  {
+   "character_name": "Welt",
+   "light_cone_name": "We Will Meet Again"
+  },
+  {
+   "character_name": "Welt",
+   "light_cone_name": "Loop"
+  },
+  {
+   "character_name": "Sampo",
+   "light_cone_name": "In the Name of the World"
+  },
+  {
+   "character_name": "Sampo",
+   "light_cone_name": "Eyes of the Prey"
+  },
+  {
+   "character_name": "Sampo",
+   "light_cone_name": "Good Night and Sleep Well"
+  },
+  {
+   "character_name": "Sampo",
+   "light_cone_name": "We Will Meet Again"
+  },
+  {
+   "character_name": "Sampo",
+   "light_cone_name": "Fermata"
+  },
+  {
+   "character_name": "Trailblazer (Fire)",
+   "light_cone_name": "Moment of Victory"
+  },
+  {
+   "character_name": "Trailblazer (Fire)",
+   "light_cone_name": "Landau's Choice"
+  },
+  {
+   "character_name": "Trailblazer (Fire)",
+   "light_cone_name": "Day One of My New Life"
+  },
+  {
+   "character_name": "Trailblazer (Fire)",
+   "light_cone_name": "This Is Me!"
+  },
+  {
+   "character_name": "Trailblazer (Fire)",
+   "light_cone_name": "Amber"
+  },
+  {
+   "character_name": "Jing Yuan",
+   "light_cone_name": "Before Dawn"
+  },
+  {
+   "character_name": "Jing Yuan",
+   "light_cone_name": "Today is Another Peaceful Day"
+  },
+  {
+   "character_name": "Jing Yuan",
+   "light_cone_name": "Night on the Milky Way"
+  },
+  {
+   "character_name": "Jing Yuan",
+   "light_cone_name": "The Birth of the Self"
+  },
+  {
+   "character_name": "Jing Yuan",
+   "light_cone_name": "The Seriousness of Breakfast"
+  },
+  {
+   "character_name": "Silver Wolf",
+   "light_cone_name": "Incessant Rain"
+  },
+  {
+   "character_name": "Silver Wolf",
+   "light_cone_name": "Before the Tutorial Mission Starts"
+  },
+  {
+   "character_name": "Silver Wolf",
+   "light_cone_name": "In the Name of the World"
+  },
+  {
+   "character_name": "Silver Wolf",
+   "light_cone_name": "Resolution Shines As Pearls of Sweat"
+  },
+  {
+   "character_name": "Silver Wolf",
+   "light_cone_name": "Eyes of the Prey"
+  },
+  {
+   "character_name": "Luocha",
+   "light_cone_name": "Echoes of the Coffin"
+  },
+  {
+   "character_name": "Luocha",
+   "light_cone_name": "Post-Op Conversation"
+  },
+  {
+   "character_name": "Luocha",
+   "light_cone_name": "Shared Feeling"
+  },
+  {
+   "character_name": "Luocha",
+   "light_cone_name": "Perfect Timing"
+  },
+  {
+   "character_name": "Luocha",
+   "light_cone_name": "Quid Pro Quo"
+  },
+  {
+   "character_name": "Yukong",
+   "light_cone_name": "The Battle Isn't Over"
+  },
+  {
+   "character_name": "Yukong",
+   "light_cone_name": "Past and Future"
+  },
+  {
+   "character_name": "Yukong",
+   "light_cone_name": "Planetary Rendezvous"
+  },
+  {
+   "character_name": "Yukong",
+   "light_cone_name": "Carve the Moon, Weave the Clouds"
+  },
+  {
+   "character_name": "Yukong",
+   "light_cone_name": "Dance! Dance! Dance!"
+  }
+ ]
+}
