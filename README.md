@@ -12,8 +12,6 @@
   <br>
 </h2>
 
-## Table of Contents
-
 
 ## Description
 [MyAnimeList](https://myanimelist.net/topmanga.php?type=manhwa) merupakan sebuah situs web komunitas yang populer di kalangan penggemar anime dan manga. Situs ini berfungsi sebagai basis data anime dan manga dengan menyediakan informasi lengkap seperti judul, genre, chapter, status, sinopsis, dll serta menjadi platform sosial untuk para penggemar anime dan manga di seluruh dunia. Di MyAnimeList, pengguna dapat menemukan informasi tentang berbagai anime, manga, karakter, staf produksi, dan lainnya. Tak hanya itu, website ini juga mengurutkan berbagai anime dan manga berdasarkan peringkat pengguna yang di-update seriap harinya. Dengan fitur-fitur tersebut, website ini dipercaya oleh oleh para penggemar sebagai referensi dalam mencari anime dan manga serta mencari teman komunitas yang memiliki hobi yang sama.  
@@ -199,6 +197,7 @@ foreign key:
 ![Translasi ERD1](https://github.com/WanAzis/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/select_isi.png)
 
 ## Data Visualization
+Tableau digunakan untuk membuat visualisasi data [sebagai berikut](https://public.tableau.com/views/ManhwaDahboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Referensi
 - Library
