@@ -82,7 +82,17 @@ Pada struktur di atas ada beberapa _key_ yang dapat diidentifikasi:
 - `num_of_lang_sup` adalah kunci yang **menyimpan total jumlah bahasa yang didukung fon**
 ## Database Structure
 ## Explanation of ERD to relational diagram translation process
-## Screenshot program
+## Program Screencapture
+Berikut adalah tangkapan layar program:
+| ![Program Pertama](./Data%20Scraping/screenshot/First_Program.png) | ![Proses Program Pertama](./Data%20Scraping/screenshot/First_Program_Process.png) |
+| ------- | ------- |
+| Program Pertama | Proses Program Pertama |
+
+| ![Program Kedua](./Data%20Scraping/screenshot/Second_Program.png) | ![Proses Program Kedua](./Data%20Scraping/screenshot/Second_Program_Process.png) |
+| ------- | ------- |
+| Program Kedua | Proses Program Kedua |
+
+
 ## Reference
 Program ini ditulis dengan menggunakan _library_ `BeautifulSoup` untuk proses _parsing_ laman HTML, `Selenium` untuk membuka halaman situs yang dinamis serta simulasi aktivitas _scroll_, `JSON` untuk menuliskan hasil _scraping_ ke dalam bentuk berkas JSON, serta _library_ pendukung lainnya seperti `LXML` untuk parsing, `Time` untuk memberi jeda waktu pada proses, dan `requests` untuk mengirimkan permintaan HTTP.
 
