@@ -7,95 +7,174 @@
 
 <h2 align="center">
   <br>
-  Data Scraping, Database Modelling & Data Storing
+    Michelin Guide Restaurants
   <br>
+    Data Scraping, Database Modelling & Data Storing
   <br>
 </h2>
 
+## Table of Contents
+- [Description of the data and DBMS](#description-of-the-data-and-dbms)
+- [Specification of the program](#specification-of-the-program)
+- [How to use](#how-to-use)
+- [JSON Structure](#json-structure)
+- [Database Structure](#database-structure)
+- [Explanation of ERD to relational diagram translation process](#explanation-of-erd-to-relational-diagram-translation-process)
+- [Screenshot program](#screenshot-program)
+- [Reference](#reference)
+- [Author](#author)
 
-## Spesifikasi
+## Description of the data and DBMS
 
+The Michelin Guide is a series of restaurant guides published by the French tyre company Michelin. It was first published in 1900 and has since become one of the most prestigious restaurant guides in the world. The guide awards up to three stars to restaurants that meet its standards of excellence, with three stars being the highest possible rating. The acquisition or loss of a star can have a significant impact on the success of a restaurant. <br>
+
+The data is scraped from [Michelin Guide](https://guide.michelin.com/en/restaurants) by the award category from 1 star to 3 stars. The data consists of the restaurant name, country, address, award, description, price, cuisine, reservation, phone number, and URL. By scraping the Michelin Guide restaurant data, I intended to collect data about these highly prestigious restaurants and extract some useful or interesting information from the data so that anyone could know more about restaurants with a Michelin award. <br>
+
+The RDBMS used for data storing in this project was PostgreSQL. The reason for using this RDBMS is because it's open source, support many data types, provides data integrity by implementing constraint, and provide reliability with backup and restore feature.
+
+
+## Specification of the program
+The web scraping program in this project is mainly using Python with `BeautifulSoup` library for parsing web HTML structure to get the needed data and convert it to JSON format. Another libraries that used in this project were `TQDM`, `time`, `json`, `lxml`. Before running the program make sure all the libraries were installed.
+
+
+## How to use
 ### Data Scraping
-
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
-
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
-
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
-
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
-
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
+1. Clone repository
+2. Change directory to `Data Scraping/src`
+3. Install all libraries
 ```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
+pip install -r requirements.txt
+```
+4. Run program 
+```
+python main.py
+```
+5. JSON file will be stored in `Data Scraping/data`
+
+### Data Storing
+1. Change directory to `Data Storing/export`
+2. Create a new database in PostgreSQL to restore the dump file
+3. Use this command to restore the dump file
+```
+psql -U username dbname < restaurant.sql
+```
+4. The data will be stored in PostgreSQL database
+
+## JSON Structure
+This is the JSON structure for scraped data.
+```
+{
+    "name"                      : string,
+    "country"                   : string,
+    "address"                   : string,
+    "award"                     : string,
+    "description"               : string,
+    "price_type"                : string,
+    "cuisine_type"              : [string],
+    "reservation_availability"  : boolean,
+    "phone_number"              : string,
+    "restaurant_url"            : string
+}
+```
+### Example
+```
+ {
+    "name": "Le Gavroche",
+    "country": "United Kingdom",
+    "address": "43 Upper Brook Street, London, W1K 7QR, United Kingdom",
+    "award": "2 Stars",
+    "description": "Le Gavroche’s longevity is legendary. Opened in 1967, this iconic  restaurant has been a key player in the post-war culinary history of the UK and, as you descend the stairs into the intimate, clubby room, you’ll be transported back in time. It might have a formal air but it also has a comforting feel, and it’s a delight to see Michel Roux Jnr in his element, touring the tables and chatting to diners as he continues the family legacy.The menu is a roll-call of refined, sophisticated French classics that delight and satisfy in equal measure – the soufflé Suissesse is renowned and luxury items lead the way, with the likes of coquilles St Jacques, turbot and lobster; if it all sounds so good that you simply can’t decide, go for the ‘Menu Exceptionnel’. The sommelier’s recommendations are spot-on and the cheese trolley is one of the best around.",
+    "price_type": "Spare no expense",
+    "cuisine_type": [
+        "French"
+    ],
+    "reservation_availability": false,
+    "phone_number": "+442074080881",
+    "restaurant_url": "https://www.le-gavroche.co.uk/"
+}
+```
+## Database Structure
+### ERD
+![erd](https://github.com/reinhartlim1/Seleksi-2023-Tugas-1/blob/bfd71b0ccd6cf60715de0e53a72ead3d5ffd8dec/Data%20Storing/design/ERD.png)
+### Relational Schema
+![relational](https://github.com/reinhartlim1/Seleksi-2023-Tugas-1/blob/bfd71b0ccd6cf60715de0e53a72ead3d5ffd8dec/Data%20Storing/design/Relational%20Schema.png)
+
+## Explanation of ERD to relational diagram translation process
+### Strong Entity
+Strong entity were represented with same schema and primary key. For strong entity with complex attributes like multivalued will caused a new relation created for these attributes. <br>
+```
+restaurant = (restaurant_id, name, country, address, award, description, price_type, reservation_availability, phone_number, restaurant_url)
+chef = (chef_id, chef_name, chef_type)
+supplier = (supplier_id, supplier_name, address, phone_number)
+menu = (menu_id, menu_name, description)
+dish = (dish_id, name, description, price)
+
+// Multivalued
+restaurant_cuisine = (restaurant_id, cuisine_type)
 ```
 
-### Database Modelling & Data Storing
-
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
-
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
-
-4. Tools yang digunakan __dibebaskan__ pada peserta.
-
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
-
-
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
-
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
-
-### Pengumpulan
-
-
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
-
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
-
-
+### Relationship Set
+#### Many to many
+When dealing with a many-to-many relationship between two entities, it is essential to implement it using a separate relation for the relationship itself. This new relation, often referred to as a junction or associative table, will have a composite primary key that combines the primary keys of the participating entities.
 ```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
+partnership = (restaurant_id, supplier_id)
 ```
+#### One to many
+In a one-to-many relationship, a foreign key must incorporate into the table corresponding to the 'many' side of the relationship. Additionally, any other attributes defined for the relationship should also be included in this 'many' table.
+```
+dish = (dish_id, name, description, price, menu_id)
+chef = (chef_id, chef_name, chef_type, restaurant_id)
+```
+#### One to one
+In a one-to-one relationship there is flexibility to decide where to implement the relationship by placing foreign key to one of the entity.
+```
+restaurant = (restaurant_id, name, country, address, award, description, price_type, reservation_availability, phone_number, restaurant_url, menu_id)
+```
+#### Foreign Key
+```
+dish(menu_id) -> menu(menu_id)
+restaurant(menu_id) -> menu(menu_id)
+chef(restaurant_id) -> restaurant(restaurant_id)
+restaurant_cuisine(restaurant_id) -> restaurant(restaurant_id)
+partnership(restaurant_id) -> restaurant(restaurant_id)
+partnership(supplier_id) -> supplier(supplier_id)
+```
+## Screenshot program
+- Main Program <br>
+![mainprogram](https://github.com/reinhartlim1/Seleksi-2023-Tugas-1/blob/0b2b982812e8214935e8eb65aacb29142190bd77/Data%20Scraping/screenshot/src.png)
+- Preprocessing <br>
+![preprocessing](https://github.com/reinhartlim1/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/preprocessing.png)
+
+- Scraping process <br>
+![scraping](https://github.com/reinhartlim1/Seleksi-2023-Tugas-1/blob/bfd71b0ccd6cf60715de0e53a72ead3d5ffd8dec/Data%20Scraping/screenshot/scraping_progress.png)
+
+- Data Storing <br>
+![datastoring](https://github.com/reinhartlim1/Seleksi-2023-Tugas-1/blob/bfd71b0ccd6cf60715de0e53a72ead3d5ffd8dec/Data%20Storing/screenshot/restaurant_cuisine_table.png) <br>
+![datastoring](https://github.com/reinhartlim1/Seleksi-2023-Tugas-1/blob/bfd71b0ccd6cf60715de0e53a72ead3d5ffd8dec/Data%20Storing/screenshot/restaurant_table.png)<br>
+![schematables](https://github.com/reinhartlim1/Seleksi-2023-Tugas-1/blob/dd6c8996cf13420849086d5664c91707c2f35375/Data%20Storing/screenshot/schema_tables.png)
+
+## Dashboard
+![dashboard](https://github.com/reinhartlim1/Seleksi-2023-Tugas-1/blob/4db9bd54d513204a9bfcb252aaaf677105d7986f/Data%20Storing/screenshot/dashboard.png) <br>
+
+[The dashboard](https://public.tableau.com/app/profile/reinhart.lim/viz/MichelinGuideRestaurants_16896701511160/Dashboard1) is interactive, so you can filter on the different countries to see more detailed information about the number of Michelin-starred restaurants in each country. You can also filter the data by star rating. <br>
+
+### Insight
+- France is the country with the most restaurants with Michelin awards, with 625 restaurants
+- The most common star rating is one star, with 2819 restaurants or about 81.78% all around the world
+- The most popular cuisine type that got the restaurant a Michelin award was Modern Cuisine with 1030 restaurants or about 32.73% all around the world
+- Most restaurants have a "spare no expense" price type, where the culinary experience is elevated to luxurious heights with no cost spared
 
 
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
 
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
-
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
-<br>
+## References
+### Libraries
+- [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/#)
+- [requests](https://docs.python-requests.org/en/latest/index.html)
+- [lxml](https://lxml.de/)
+- [tqdm](https://tqdm.github.io/)
+- [json](https://docs.python.org/3/library/json.html)
+- [time](https://docs.python.org/3/library/time.html)
+## Author
+Reinhart Wisely Lim (18221154) <br>
+Information System and Technology <br>
+Bandung Institute of Technology
