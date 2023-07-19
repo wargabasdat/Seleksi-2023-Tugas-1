@@ -1,0 +1,168 @@
+peringkat,nama_objek,nama_daerah,rata_rata_rating,jumlah_rating_5,jumlah_rating_4,jumlah_rating_3,jumlah_rating_2,jumlah_rating_1,jumlah_ulasan
+1,Istana Pagaruyung,Bukittinggi,4.5,153,165,47,1,0,366
+2,Jam Gadang Bukittinggi ,Bukittinggi,4.0,200,257,176,23,3,659
+3,Air Terjun Lembah Anai,Padang,4.0,84,141,102,8,1,336
+4,Lembah Harau,Payakumbuh,4.5,96,85,18,2,1,202
+5,Wisata pulau pagang,Padang,4.5,57,50,11,0,2,120
+6,Danau Meninjau,Bukittinggi,4.0,143,169,43,7,2,364
+7,Puncak Lawang,Bukittinggi,4.5,37,37,2,2,0,78
+8,Kelok Sembilan,Payakumbuh,4.0,47,50,22,0,0,119
+9,Gunung Marapi,Bukittinggi,4.5,49,31,7,2,0,89
+10,Ngarai Sianok,Bukittinggi,4.0,122,172,46,5,0,345
+11,Masjid Raya Sumatera Barat,Padang,4.5,37,20,0,0,0,57
+12,Pulau Mandeh,Mandeh,4.5,18,10,0,1,0,29
+13,Goa Jepang,Bukittinggi,4.0,52,96,54,8,2,212
+14,Pantai Air Manis,Padang,3.5,41,89,93,25,10,258
+15,Danau Singkarak,Solok,3.5,17,44,39,4,0,104
+16,Pulau Sikuai,Padang,4.0,26,20,8,2,4,60
+17,Pantai Padang Taplau,Padang,3.5,38,80,89,8,5,220
+18,Museum Adityawarman,Padang,4.0,29,44,33,2,2,110
+19,Pulau Pasumpahan,Padang,4.5,24,27,5,0,0,56
+20,Kampung Cina,Padang,4.0,16,33,11,2,1,63
+21,Pulau Pamutusan,Padang,4.5,17,11,2,0,0,30
+22,Pantai Carocok Painan,Painan,4.0,22,27,5,4,0,58
+23,Koto Gadang,Bukittinggi,3.5,19,34,32,1,3,89
+24,Taman  Nasional Kerinci Seblat,West Sumatra,4.5,10,7,0,1,0,18
+25,Lubuk Nyarai,Padang,4.5,6,10,0,0,0,16
+26,Nagari Tuo Pariangan,Batusangkar,4.5,10,6,1,0,0,17
+27,Alek Pacu Jawi,Payakumbuh,4.5,4,4,0,0,0,8
+28,Pantai Suwarnadwipa,Bungus,4.0,12,9,3,0,1,25
+29,Padang Mengatas,Payakumbuh,4.5,9,4,0,0,0,13
+30,Jenjang Seribu,Bukittinggi,4.0,8,15,9,1,0,33
+31,Pantai Bungus,Padang,3.5,7,12,6,3,1,29
+32,Ngalau Indah,Payakumbuh,4.0,7,9,3,0,0,19
+33,Danau Diatas,Painan,4.0,4,14,3,0,0,21
+34,Pulau Sirandah,Padang,4.0,3,4,1,1,0,9
+35,Museum Rumah Kelahiran Bung Hatta,Bukittinggi,4.0,12,16,6,1,1,36
+36,Mandeh Sea Park,West Sumatra,4.5,10,8,0,0,0,18
+37,Kebun Teh Alahan Panjang,Solok,4.0,6,9,2,0,0,17
+38,Teluk Bayur,Padang,4.5,4,3,1,0,0,8
+39,Pandai Sikek,Bukittinggi,4.5,5,4,2,0,0,11
+40,Pusat Konservasi Batang Palupuh Alami (Taman Rafflesia),Palupuh,4.5,7,5,0,0,0,12
+41,Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau,Padang,4.5,10,5,1,0,0,16
+42,Pelabuhan Muaro,Padang,3.5,5,24,24,7,1,61
+43,Jembatan Limpapeh,Bukittinggi,4.0,6,17,9,1,0,33
+44,Pulau Angso Duo,Pariaman,4.0,7,9,2,1,0,19
+45,Pantai Carolina,Padang,3.5,7,7,15,3,0,32
+46,Kepala Bandar,Payakumbuh,4.0,5,4,3,0,0,12
+47,Masjid Raya Bukittinggi,Bukittinggi,4.0,4,11,2,0,0,17
+48,Benteng Fort de Kock,Bukittinggi,3.0,14,33,46,18,29,140
+49,Pantai Muaro Lasak,Padang,4.0,4,10,3,0,0,17
+50,Puncak Anai,Pariaman,4.0,3,6,1,0,0,10
+51,Pantai Tiram,Padang,4.0,3,7,4,1,0,15
+52,Goedang Ransum,Sawahlunto,4.0,4,11,3,0,0,18
+53,Pemandian Tirta Alami,Padang Pariaman,4.0,3,12,1,1,0,17
+54,Mifan Water Park & Resort,Padang Panjang,4.0,3,7,3,0,0,13
+55,Gunung Singgalang,Bukittinggi,4.0,4,5,2,0,1,12
+56,Taman Nasional Siberut,Siberut,5.0,4,0,0,0,0,4
+57,Hole Mine Site Museum Mbah Suro & Infobox,Sawahlunto,4.0,4,10,3,0,0,17
+58,Masjid Ulakan,Padang,4.5,6,2,1,0,0,9
+59,Air Terjun Sarasah Gadut,Padang,4.5,4,5,0,0,0,9
+60,Kolam Renang Batang Tabik,Payakumbuh,4.5,3,2,0,0,0,5
+61,Janjang Saribu,Agam,4.0,5,5,6,0,0,16
+62,Masjid Taqwa Muhammadiyah,Padang,4.0,2,11,2,0,0,15
+63,Kelok 44,Maninjau,4.5,6,3,1,0,0,10
+64,Bukit Nobita,Padang,4.0,6,4,6,0,1,17
+65,Taman Nirwana,Padang,3.5,1,7,6,2,0,16
+66,Lubuk Minturun,Padang,4.0,1,4,2,0,0,7
+67,Jembatan Siti Nurbaya,Padang,4.0,1,13,2,0,0,16
+68,Sungai Kapalo Banda Taram,Payakumbuh,4.0,1,5,0,0,0,6
+69,Hutan Lindung Bung Hatta,Padang,4.0,2,3,3,0,0,8
+70,Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau,Padang Panjang,4.5,2,2,0,0,0,4
+71,Rumah Puisi Taufiq Ismail,Padang Panjang,4.5,2,4,0,0,0,6
+72,Basko Grand Mall,Padang,3.0,1,5,8,5,0,19
+73,Museum Perjuangan Tri Daya Eka Dharma,Bukittinggi,4.5,3,3,1,0,0,7
+74,Air Terjun Kulu Kubuk,Siberut,5.0,3,0,0,0,0,3
+75,Batu Malin Kundang,Padang,3.5,0,5,5,1,0,11
+76,Danau Kandi,Sawahlunto,4.5,2,3,0,0,0,5
+77,Museum Kereta Api Sawahlunto,Sawahlunto,3.5,1,9,5,0,0,15
+78,Puncak Langkisau,Painan,4.5,3,3,0,0,0,6
+79,Taman Marga Satwa Budaya Kinantan,Bukittinggi,3.0,2,8,20,1,8,39
+80,Air Terjun Lubuk Hitam,Padang,4.0,3,2,0,0,1,6
+81,Monumen Bung Hatta,Bukittinggi,4.0,0,8,2,0,0,10
+82,Pantai Gandoriah,Pariaman,4.5,3,4,0,0,0,7
+83,Jembatan Akar,South Pesisir,4.5,3,3,1,0,0,7
+84,Batu Batikam,Batusangkar,4.0,3,1,2,0,0,6
+85,Makam Muhammad Yamin,Sawahlunto,4.0,1,3,2,0,0,6
+86,Lubuk Cimantung,Pariaman,4.5,3,1,1,0,0,5
+87,Nagari 1000 Rumah Gadang,Solok,4.5,2,2,0,0,0,4
+88,Museum Rumah Kelahiran Buya Hamka,Nagari Sungai Pinang,4.5,1,3,0,0,0,4
+89,Tabek Gadang,Agam,4.0,0,5,1,0,0,6
+90,Pantai Ketaping,Padang,4.0,1,3,1,0,0,5
+91,Puncak Polan,Sawahlunto,4.5,2,3,0,0,0,5
+92,Kincir Air Talawi,Sawahlunto,4.5,1,3,0,0,0,4
+93,Masjid Raya Bayur,Agam,4.5,2,2,0,0,0,4
+94,Lubuak Tempurung,Padang,4.0,0,4,0,0,0,4
+95,Sungai Belimbing,Bukittinggi,3.0,0,0,1,0,0,1
+96,Jambak Sea Turtle Camp,Padang,5.0,2,0,0,0,0,2
+97,Bukit Cambai,Solok,4.5,1,1,0,0,0,2
+98,Bukit Sirih,Pariaman,5.0,2,0,0,0,0,2
+99,Gunung Tandikat,Bukittinggi,4.0,1,2,0,1,0,4
+100,Air Terjun Batu Bersurat,Pariaman,4.5,1,2,0,0,0,3
+101,Rumah Tuo Kampai Nan Panjang,Bukittinggi,3.0,0,0,1,0,0,1
+102,Danau Tarusan Kamang,Agam,4.0,1,2,1,0,0,4
+103,Pantai Kata,Pariaman,4.0,1,4,1,0,0,6
+104,Kincir Air Tradisional,Sawahlunto,5.0,2,0,0,0,0,2
+105,Pulau Sironjong,Padang,5.0,1,0,0,0,0,1
+106,Konservasi Penyu Kota Pariaman,Pariaman,4.5,1,1,0,0,0,2
+107,Pulau Karang,Pagai Utara,4.0,0,2,0,0,0,2
+108,Gereja Katolik Santa Barbara Sawahlunto,Sawahlunto,3.5,0,2,1,0,0,3
+109,Air Terjun Baburai,Padang,4.0,0,3,0,0,0,3
+110,Shoot - Pool Lounge & Sport Bar,Pagai Utara,5.0,1,0,0,0,0,1
+111,Airport Raillink Service,Padang,5.0,2,0,0,0,0,2
+112,Air Terjun Ngungun Saok,Padang,5.0,1,0,0,0,0,1
+113,Pantai Carocok,Painan,4.0,1,2,1,0,0,4
+114,Rumah Gadang Tuanku Lareh St,Agam,5.0,1,0,0,0,0,1
+115,Sandiang Gagoan,Solok,4.0,1,1,2,0,0,4
+116,Mentawai Tribe Tour,Padang,5.0,80,1,0,0,0,81
+117,Pulau kasiak,Pariaman,4.0,0,2,0,0,0,2
+118,Monumen Merpati Perdamaian,Padang,5.0,1,0,0,0,0,1
+119,Danau Biru Sawahlunto,Sawahlunto,4.0,0,1,0,0,0,1
+120,Padang Private Driver,Padang,5.0,99,9,0,1,1,110
+121,Air Terjun Titian Puti (Nyarai),Pariaman,4.0,0,1,0,0,0,1
+122,Taman Green Lezatta,Agam,4.0,0,2,0,0,0,2
+123,Puncak Payo Rapuih,Padang Panjang,4.0,0,1,0,0,0,1
+124,Puncak Happy,Solok,5.0,1,0,0,0,0,1
+125,Masjid Agung Nurul Islam,Sawahlunto,4.0,0,2,0,0,0,2
+126,Kebun Teh Mitra Kerinci,Solok,4.0,0,2,0,0,0,2
+127,Pantai Labuang Baruak,South Pesisir,5.0,1,0,0,0,0,1
+128,Sarasah Sungai Guntuang,Palupuh,4.0,0,1,0,0,0,1
+129,Pulau Batu Nago,South Pesisir,4.0,0,1,0,0,0,1
+130,Teluk Air Putih,Solok,4.0,0,1,0,0,0,1
+131,Museum Tuanku Imam Bonjol,Bonjol,2.5,1,0,0,1,2,4
+132,Pincuran Tujuh,Padang,3.0,0,0,1,0,0,1
+133,Pasar Atas Bukittinggi,Bukittinggi,4.0,19,33,22,4,0,78
+134,Danau Tomosu,Sawahlunto,4.0,0,1,0,0,0,1
+135,Lite 'N' Easy Tour,Bukittinggi,5.0,113,8,2,0,0,123
+136,Roni's Tours,Bukittinggi,5.0,112,17,1,0,0,130
+137,Mentawai Experience Tour,Padang,5.0,49,1,0,0,0,50
+138,Lawang Park,Agam,4.5,4,6,1,0,0,11
+139,Kripik Balado Shirley,Padang,3.5,1,11,7,0,1,20
+140,Aie Angek Bukik Gadang,Solok,5.0,3,0,0,0,0,3
+141,Batik Tanah Liek Citra Monalisa,Padang,5.0,2,0,0,0,0,2
+142,Kakiku Refleksi,Padang,3.0,2,0,0,1,2,5
+143,Martha Tilaar Salon Day Spa,Padang,5.0,1,0,0,0,0,1
+144,Aie Angek Bukik Kili,Solok,4.5,2,1,1,0,0,4
+145,Komando Paintball & Cafe,Bukittinggi,4.0,0,1,0,0,0,1
+146,Kopi Kiniko,Batusangkar,4.0,2,1,3,0,0,6
+147,Minangkabau Adventures Tour,Bukittinggi,5.0,15,2,0,0,0,17
+148,Samba Lado,Padang,5.0,11,1,0,0,0,12
+149,House Of Beauty And Spa,Bukittinggi,3.0,0,1,0,1,0,2
+150,Tungku Sanjai Amak Haji,Bukittinggi,5.0,1,0,0,0,0,1
+151,PADANG DESTINATION,Padang,5.0,18,0,1,0,0,19
+152,West Sumatra Traveler,Padang,5.0,5,1,0,0,0,6
+153,Duta Pesona,Padang,4.5,9,5,0,0,0,14
+154,Matonagari,Padang,5.0,4,0,0,0,0,4
+155,Ricky Abdi Tour,Padang Pariaman,5.0,12,2,0,0,0,14
+156,Discover Mentawais,Siberut,5.0,2,0,0,0,0,2
+157,Sumatra Adventure,Bukittinggi,4.5,1,1,0,0,0,2
+158,Habibie DelapanTour,Bukittinggi,5.0,5,0,0,0,0,5
+159,Menyelam - Starocean,Padang,5.0,1,0,0,0,0,1
+160,Mentawai Tribe Journey with Wetravelinc,Siberut,5.0,1,0,0,0,0,1
+161,Platinum Holidays Indonesia,Bukittinggi,5.0,1,0,0,0,0,1
+162,Surf in Mentawais,Siberut,5.0,1,0,0,0,0,1
+163,Banto Royo,Agam,3.5,0,1,3,0,0,4
+164,Rizal Tour,Bukittinggi,5.0,1,0,0,0,0,1
+165,Al Wafa Adventure,Padang,5.0,1,0,0,0,0,1
+166,Rianzha Holiday,Padang,5.0,1,0,0,0,0,1
+167,Santa Lusia Boat,Padang,2.0,0,0,0,1,0,1

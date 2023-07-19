@@ -1,0 +1,7268 @@
+[
+     {
+          "peringkat": 1,
+          "nama_akun_pengunjung": [
+               "Sare B",
+               "April Kinana",
+               "evi d",
+               "Ari Wirajaya",
+               "anak rantau",
+               "Alfar",
+               "Grasella",
+               "Banissalam",
+               "Yoga Efendi (Tour Guide)",
+               "Pramono"
+          ],
+          "asal_pengunjung": [
+               "Bandung",
+               "Padang",
+               "Pekanbaru",
+               "Denpasar",
+               "Banda Aceh",
+               "Tangerang",
+               "Medan",
+               "Palembang",
+               "Yogyakarta",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               4.0,
+               5.0,
+               5.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Feb 2021",
+               "Nov 2019",
+               "Des 2019",
+               "Okt 2019",
+               "Mei 2019",
+               "Apr 2019",
+               "Apr 2018",
+               "Mar 2019",
+               "Jan 2019",
+               "Des 2018"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Bisnis",
+               "Sendiri",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 2,
+          "nama_akun_pengunjung": [
+               "Fahdi",
+               "Ade Mirwan",
+               "April Kinana",
+               "Dyandra66",
+               "anida krisstini",
+               "M Richan",
+               "Duan",
+               "Ken Aditya",
+               "aint marssy",
+               "Mustakim Dr"
+          ],
+          "asal_pengunjung": [
+               "Jakarta",
+               "Pekanbaru",
+               "Padang",
+               "Bandung",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Jakarta",
+               "Makassar"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jan 2023",
+               "Mar 2021",
+               "Jan 2020",
+               "Mar 2020",
+               "Nov 2019",
+               "Jan 2020",
+               "Nov 2019",
+               "Nov 2019",
+               "Okt 2019",
+               "Okt 2019"
+          ],
+          "tipe_kunjungan": [
+               "Pasangan",
+               "Keluarga",
+               "Keluarga",
+               "Pasangan",
+               "Teman",
+               "Teman",
+               "Teman",
+               "Pasangan",
+               "Bisnis",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 3,
+          "nama_akun_pengunjung": [
+               "Fahdi",
+               "Dina",
+               "rahmi",
+               "Forza",
+               "monika",
+               "tHea_Mario",
+               "Ari Wirajaya",
+               "putriariani",
+               "putriamarisa",
+               "BangNess"
+          ],
+          "asal_pengunjung": [
+               "Jakarta",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Pangkal Pinang",
+               "Denpasar",
+               "Padang",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               4.0,
+               5.0,
+               4.0,
+               5.0,
+               3.0,
+               4.0,
+               3.0,
+               3.0
+          ],
+          "waktu_berkunjung": [
+               "Jan 2023",
+               "Jun 2022",
+               "Des 2019",
+               "Des 2019",
+               "Agt 2019",
+               "Des 2019",
+               "Okt 2019",
+               "Jul 2019",
+               "Okt 2019",
+               "Des 2018"
+          ],
+          "tipe_kunjungan": [
+               "Pasangan",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Bisnis",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 4,
+          "nama_akun_pengunjung": [
+               "Haryono",
+               "Sare B",
+               "prisil a",
+               "Sefanya travel",
+               "yudhi k",
+               "jack_parwanto",
+               "Alfar",
+               "Devwanto Dariel Nugroho",
+               "sabrina_ho88",
+               "Indryechania"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Bandung",
+               "Jakarta",
+               "Padang",
+               "Padang",
+               "Jakarta",
+               "Tangerang",
+               "Bandung",
+               "Padang",
+               "Payakumbuh"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jan 2023",
+               "Feb 2021",
+               "Des 2019",
+               "Nov 2019",
+               "Agt 2019",
+               "Jun 2019",
+               "Apr 2019",
+               "Jun 2018",
+               "Feb 2019",
+               "Feb 2019"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Bisnis",
+               "Teman",
+               "Bisnis",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 5,
+          "nama_akun_pengunjung": [
+               "Forza",
+               "Zainalabidin",
+               "anak rantau",
+               "asman a",
+               "Antohokkeh",
+               "kk_funky",
+               "zain5urvey",
+               "Ewi D",
+               "aferio y",
+               "Deecy lauw"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Jakarta",
+               "Banda Aceh",
+               "Padang",
+               "Padang",
+               "Jakarta",
+               "Sentani",
+               "Pekanbaru",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0,
+               5.0,
+               5.0,
+               4.0,
+               4.0,
+               5.0,
+               4.0,
+               4.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Nov 2019",
+               "Sep 2019",
+               "Jun 2018",
+               "Okt 2018",
+               "Agt 2018",
+               "Des 2017",
+               "Jan 2017",
+               "Okt 2017",
+               "Agt 2016",
+               "Des 2016"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Bisnis",
+               "Teman",
+               "Teman",
+               "Sendiri",
+               "Pasangan",
+               "Bisnis",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 6,
+          "nama_akun_pengunjung": [
+               "Forza",
+               "iwanskomari",
+               "Ahmad Fauzan",
+               "Rizky A",
+               "Indri87",
+               "anak rantau",
+               "roby",
+               "Alfar",
+               "sabrina_ho88",
+               "mr. ari"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Jakarta",
+               "Padang Pariaman",
+               "Jakarta",
+               "Padang",
+               "Banda Aceh",
+               "Padang",
+               "Tangerang",
+               "Padang",
+               "Pekanbaru"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               4.0,
+               4.0,
+               5.0,
+               5.0,
+               4.0,
+               4.0,
+               5.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Agt 2019",
+               "Nov 2019",
+               "Apr 2019",
+               "Mar 2019",
+               "Mei 2019",
+               "Jun 2018",
+               "Mei 2019",
+               "Apr 2019",
+               "Des 2018",
+               "Feb 2019"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Pasangan",
+               "Pasangan",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 7,
+          "nama_akun_pengunjung": [
+               "Nanda",
+               "Ahmad Fauzan",
+               "Banissalam",
+               "rifa'atul K",
+               "hendysuherman86",
+               "fery79",
+               "Dhany Alfaruq",
+               "vella ovelia",
+               "aefer",
+               "pahlevi p"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang Pariaman",
+               "Palembang",
+               "Agam",
+               "Jakarta",
+               "Palu",
+               "Bukittinggi",
+               "Padang",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               5.0,
+               4.0,
+               4.0,
+               4.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Mei 2022",
+               "Jan 2019",
+               "Apr 2019",
+               "Mar 2018",
+               "Des 2018",
+               "Jan 2019",
+               "Jan 2018",
+               "Okt 2018",
+               "Agt 2018",
+               "Sep 2018"
+          ],
+          "tipe_kunjungan": [
+               "Pasangan",
+               "Pasangan",
+               "Bisnis",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 8,
+          "nama_akun_pengunjung": [
+               "Haryono",
+               "Alfar",
+               "Devwanto Dariel Nugroho",
+               "Sefanya travel",
+               "Agusti Esden",
+               "dendyfebdwiyana",
+               "Elfindra Aswin",
+               "alnurdin",
+               "Dilla R",
+               "Bendriwijaya"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Tangerang",
+               "Bandung",
+               "Padang",
+               "Tangerang Selatan",
+               "Bandung",
+               "Jakarta",
+               "Jakarta",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               4.0,
+               5.0,
+               4.0,
+               4.0,
+               5.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Jan 2023",
+               "Apr 2019",
+               "Jun 2018",
+               "Feb 2018",
+               "Sep 2018",
+               "Nov 2018",
+               "Okt 2018",
+               "Feb 2018",
+               "Agt 2017",
+               "Jun 2018"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Bisnis",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 9,
+          "nama_akun_pengunjung": [
+               "Yurisystem",
+               "Frenji",
+               "Ahmad Fauzan",
+               "Agung Suria Darma",
+               "Djoko Roemantio",
+               "anak rantau",
+               "Fikri mufadhdhal",
+               "rumahambacang",
+               "NurJane11",
+               "Kadarmanto B"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Padang Pariaman",
+               "Sentul",
+               "Padang",
+               "Banda Aceh",
+               "Jambi",
+               "Padang",
+               "Padang",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Jun 2021",
+               "Nov 2019",
+               "Des 2018",
+               "Agt 2019",
+               "Jul 2019",
+               "Mei 2019",
+               "Jan 2019",
+               "Des 2017",
+               "Mar 2017",
+               "Jul 2017"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri",
+               "Teman",
+               "Pasangan",
+               "Bisnis",
+               "Teman",
+               "Teman",
+               "Teman",
+               "Bisnis",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 10,
+          "nama_akun_pengunjung": [
+               "Kapatoman_Cafe",
+               "Chiquita P",
+               "Valiant Vemby",
+               "anak rantau",
+               "Alfar",
+               "differensiasi",
+               "Dhany Alfaruq",
+               "Wihartanto",
+               "an_victor"
+          ],
+          "asal_pengunjung": [
+               "Bukittinggi",
+               "Padang",
+               "Bukittinggi",
+               "Banda Aceh",
+               "Tangerang",
+               "Medan",
+               "Bukittinggi",
+               "Tangerang Selatan",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Sep 2020",
+               "Jul 2019",
+               "Mar 2019",
+               "Mei 2019",
+               "Apr 2019",
+               "Nov 2018",
+               "Des 2018",
+               "Okt 2017",
+               "Agt 2018"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Sendiri",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 11,
+          "nama_akun_pengunjung": [
+               "Dina",
+               "yudhi k",
+               "rahmi",
+               "Muhammad ardi",
+               "Forza",
+               "iwanskomari",
+               "rvsdi",
+               "Halid T",
+               "dendyfebdwiyana",
+               "Rizky A"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Padang",
+               "Palembang",
+               "Padang",
+               "Jakarta",
+               "Padang",
+               "Jakarta",
+               "Bandung",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               4.0,
+               5.0,
+               5.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jun 2022",
+               "Feb 2020",
+               "Okt 2019",
+               "Okt 2019",
+               "Agt 2019",
+               "Nov 2019",
+               "Okt 2019",
+               "Okt 2019",
+               "Nov 2018",
+               "Mar 2019"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Sendiri",
+               "Keluarga",
+               "Sendiri",
+               "Keluarga",
+               "Keluarga",
+               "Sendiri",
+               "Keluarga",
+               "Bisnis",
+               "Pasangan"
+          ]
+     },
+     {
+          "peringkat": 12,
+          "nama_akun_pengunjung": [
+               "Forza",
+               "Ken Aditya",
+               "Ahmad Fauzan",
+               "Erik_Ariyanto",
+               "Denni Risman",
+               "ate75",
+               "Antohokkeh",
+               "chuiichigo",
+               "MaulidaSaktia",
+               "hotelfoodreviewindonesia"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Padang Pariaman",
+               "Kalimantan Barat",
+               "Pekanbaru",
+               "Pekanbaru",
+               "Padang",
+               "Jakarta",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               4.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Mar 2020",
+               "Nov 2019",
+               "Des 2018",
+               "Jun 2019",
+               "Jun 2019",
+               "Feb 2019",
+               "Sep 2018",
+               "Sep 2018",
+               "Mar 2018",
+               "Agt 2018"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Pasangan",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Pasangan",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 13,
+          "nama_akun_pengunjung": [
+               "April Kinana",
+               "Mom wafiy",
+               "aint marssy",
+               "Mustakim Dr",
+               "differensiasi",
+               "Sefanya travel",
+               "Dhany Alfaruq",
+               "Haris A",
+               "Nurhalimah N",
+               "an_victor"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Jakarta",
+               "Makassar",
+               "Medan",
+               "Padang",
+               "Bukittinggi",
+               "Padang",
+               "Jakarta",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               3.0,
+               4.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               4.0,
+               5.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Sep 2020",
+               "Sep 2019",
+               "Okt 2019",
+               "Okt 2019",
+               "Nov 2018",
+               "Agt 2018",
+               "Des 2018",
+               "Nov 2018",
+               "Okt 2017",
+               "Agt 2018"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Bisnis",
+               "Sendiri",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Bisnis",
+               "Bisnis",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 14,
+          "nama_akun_pengunjung": [
+               "widi irawati",
+               "Forza",
+               "Sefanya travel",
+               "Halid T",
+               "Amel",
+               "aint marssy",
+               "Ahmad Fauzan",
+               "siti jalan jalan",
+               "Refandi Budi",
+               "yudhi k"
+          ],
+          "asal_pengunjung": [
+               "Bogor",
+               "Padang",
+               "Padang",
+               "Jakarta",
+               "Banjarmasin",
+               "Jakarta",
+               "Padang Pariaman",
+               "Padang",
+               "Bekasi",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               5.0,
+               2.0,
+               3.0,
+               5.0,
+               4.0,
+               4.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Feb 2020",
+               "Jul 2019",
+               "Des 2019",
+               "Okt 2019",
+               "Okt 2019",
+               "Okt 2019",
+               "Jul 2019",
+               "Agt 2019",
+               "Agt 2019",
+               "Jun 2018"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Bisnis",
+               "Pasangan",
+               "Pasangan",
+               "Teman",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 15,
+          "nama_akun_pengunjung": [
+               "Priojati A",
+               "Ken Aditya",
+               "makdangnisa",
+               "Ahmad Fauzan",
+               "anak rantau",
+               "Pasya",
+               "Agusti Esden",
+               "jonialexanderheytsit",
+               "ArfiveGandhi",
+               "Wihartanto"
+          ],
+          "asal_pengunjung": [
+               "Jakarta",
+               "Padang",
+               "Padang",
+               "Padang Pariaman",
+               "Banda Aceh",
+               "Pekanbaru",
+               "Tangerang Selatan",
+               "Solok",
+               "Bandung",
+               "Tangerang Selatan"
+          ],
+          "rating_pengunjung": [
+               3.0,
+               5.0,
+               4.0,
+               4.0,
+               5.0,
+               4.0,
+               4.0,
+               3.0,
+               5.0,
+               3.0
+          ],
+          "waktu_berkunjung": [
+               "Feb 2020",
+               "Nov 2019",
+               "Nov 2019",
+               "Apr 2019",
+               "Mei 2019",
+               "Apr 2019",
+               "Jul 2018",
+               "Des 2017",
+               "Okt 2018",
+               "Okt 2017"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Pasangan",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 16,
+          "nama_akun_pengunjung": [
+               "anak rantau",
+               "sabrina_ho88",
+               "Antohokkeh",
+               "hendra_lokkasa",
+               "Rahayus101",
+               "winaldo",
+               "Anida_Krisstini",
+               "andregiovando",
+               "Oky A",
+               "ana2626"
+          ],
+          "asal_pengunjung": [
+               "Banda Aceh",
+               "Padang",
+               "Padang",
+               "Medan",
+               "Padang",
+               "Palembang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Pekanbaru"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               4.0,
+               4.0,
+               5.0,
+               3.0,
+               4.0,
+               5.0,
+               5.0,
+               3.0
+          ],
+          "waktu_berkunjung": [
+               "Jun 2019",
+               "Mei 2018",
+               "Agt 2018",
+               "Okt 2016",
+               "Jul 2017",
+               "Agt 2016",
+               "Okt 2015",
+               "Sep 2015",
+               "Des 2015",
+               "Jan 2016"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Bisnis",
+               "Sendiri",
+               "Bisnis",
+               "Pasangan",
+               "Pasangan",
+               "Teman",
+               "Teman",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 17,
+          "nama_akun_pengunjung": [
+               "Indri87",
+               "Saipul Arifin",
+               "anida krisstini",
+               "Duan",
+               "Sefanya travel",
+               "fifi",
+               "yudhi k",
+               "Seaside55351852926",
+               "anak rantau"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Banda Aceh"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               3.0,
+               5.0,
+               3.0,
+               5.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Sep 2021",
+               "Nov 2019",
+               "Nov 2019",
+               "Nov 2019",
+               "Nov 2019",
+               "Nov 2019",
+               "Jul 2019",
+               "Jun 2019",
+               "Mei 2019"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Sendiri",
+               "Sendiri",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Sendiri",
+               "Sendiri",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 18,
+          "nama_akun_pengunjung": [
+               "rafid fernando",
+               "Forza",
+               "monika",
+               "siti jalan jalan",
+               "Erik_Ariyanto",
+               "anak rantau",
+               "Dizzman",
+               "Ruth H",
+               "DewiLes",
+               "Sefanya travel"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Kalimantan Barat",
+               "Banda Aceh",
+               "Jakarta",
+               "Pekanbaru",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               3.0,
+               5.0,
+               3.0,
+               3.0,
+               3.0,
+               5.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jan 2021",
+               "Jun 2019",
+               "Jun 2019",
+               "Agt 2019",
+               "Jun 2019",
+               "Jun 2019",
+               "Nov 2018",
+               "Jan 2019",
+               "Des 2018",
+               "Okt 2018"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Pasangan",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 19,
+          "nama_akun_pengunjung": [
+               "Hendra Yolanda Rangkuti",
+               "Akmal",
+               "Petualangbumi",
+               "Antohokkeh",
+               "Shakila P",
+               "DiyanFariha",
+               "andregiovando",
+               "Febri H",
+               "Ahmad Wijaya",
+               "zain5urvey"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Padang",
+               "Bandung",
+               "Padang",
+               "Bali",
+               "Duri",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Sentani"
+          ],
+          "rating_pengunjung": [
+               3.0,
+               5.0,
+               4.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Okt 2018",
+               "Apr 2018",
+               "Sep 2018",
+               "Agt 2018",
+               "Jun 2018",
+               "Mei 2018",
+               "Feb 2018",
+               "Jun 2017",
+               "Des 2017",
+               "Jan 2017"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Teman",
+               "Bisnis",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Sendiri",
+               "Teman",
+               "Pasangan"
+          ]
+     },
+     {
+          "peringkat": 20,
+          "nama_akun_pengunjung": [
+               "monika",
+               "anak rantau",
+               "sabrina_ho88",
+               "asman a",
+               "Antohokkeh",
+               "andregiovando",
+               "Mira Emirina",
+               "kk_funky",
+               "Aris",
+               "iwan s"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Banda Aceh",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Jakarta",
+               "Tangerang Selatan",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               5.0,
+               4.0,
+               4.0,
+               5.0,
+               5.0,
+               4.0,
+               4.0,
+               3.0
+          ],
+          "waktu_berkunjung": [
+               "Okt 2019",
+               "Mei 2019",
+               "Mar 2019",
+               "Okt 2018",
+               "Agt 2018",
+               "Mar 2018",
+               "Mar 2018",
+               "Des 2017",
+               "Des 2017",
+               "Jan 2017"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Keluarga",
+               "Bisnis",
+               "Teman",
+               "Teman",
+               "Teman",
+               "Keluarga",
+               "Sendiri",
+               "Keluarga",
+               "Pasangan"
+          ]
+     },
+     {
+          "peringkat": 21,
+          "nama_akun_pengunjung": [
+               "Ruth H",
+               "Petualangbumi",
+               "Antohokkeh",
+               "MaulidaSaktia",
+               "andregiovando",
+               "Muhammad R",
+               "dionpratama",
+               "winaldo",
+               "Bujang L",
+               "mirzaasril"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Bandung",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Palembang",
+               "Pekanbaru",
+               "Tegal"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               4.0,
+               4.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jan 2019",
+               "Sep 2018",
+               "Sep 2018",
+               "Mar 2018",
+               "Mar 2018",
+               "Des 2017",
+               "Nov 2016",
+               "Agt 2016",
+               "Des 2015",
+               "Agt 2016"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Bisnis",
+               "Teman",
+               "Pasangan",
+               "Teman",
+               "Teman",
+               "Bisnis",
+               "Keluarga",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 22,
+          "nama_akun_pengunjung": [
+               "Bumimi homestay",
+               "rent car & tour jogja",
+               "Dee Rahayu Sapta",
+               "Sefanya travel",
+               "dzdessy",
+               "kk_funky",
+               "Anjar Normatasari",
+               "jawekmentour",
+               "egha17",
+               "Ramadhan6297"
+          ],
+          "asal_pengunjung": [
+               "Painan",
+               "Yogyakarta",
+               "Jakarta",
+               "Padang",
+               "Padang",
+               "Jakarta",
+               "Banjarbaru",
+               "Bekasi",
+               "Palembang",
+               "Pekanbaru"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               4.0,
+               4.0,
+               5.0,
+               4.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Sep 2019",
+               "Mar 2019",
+               "Jan 2019",
+               "Jun 2018",
+               "Jul 2018",
+               "Des 2017",
+               "Des 2017",
+               "Jul 2016",
+               "Jul 2016",
+               "Jan 2016"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Bisnis",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Sendiri",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 23,
+          "nama_akun_pengunjung": [
+               "Valiant Vemby",
+               "rigeladitya",
+               "mr. ari",
+               "langgeng14",
+               "Ilham I",
+               "Audreyqueen A",
+               "megahariani29",
+               "Fisra A",
+               "meow_fransisca2006",
+               "Arifien"
+          ],
+          "asal_pengunjung": [
+               "Bukittinggi",
+               "Jakarta",
+               "Pekanbaru",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Depok",
+               "Jakarta",
+               "Pematang Siantar",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0,
+               4.0,
+               5.0,
+               4.0,
+               4.0,
+               3.0,
+               4.0,
+               3.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Agt 2018",
+               "Des 2018",
+               "Feb 2019",
+               "Mei 2018",
+               "Feb 2017",
+               "Okt 2017",
+               "Jul 2017",
+               "Jul 2016",
+               "Apr 2017",
+               "Apr 2017"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Bisnis",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Pasangan",
+               "Keluarga",
+               "Keluarga",
+               "Sendiri"
+          ]
+     },
+     {
+          "peringkat": 24,
+          "nama_akun_pengunjung": [
+               "JelajahKerinci",
+               "andreas_kheneva",
+               "Y Yaniari",
+               "Rinchung",
+               "Sahat_art",
+               "DnaUSA",
+               "Balira17",
+               "jajavalB",
+               "aji suryanto",
+               "korian89"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Jakarta",
+               "Abu Dhabi",
+               "Bogor",
+               "Berkeley",
+               "Padang",
+               "Lampang",
+               "Jakarta",
+               "Groningen"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               5.0,
+               4.0,
+               5.0,
+               4.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Mar 2018",
+               "Agt 2017",
+               "Jan 2016",
+               "Jul 2015",
+               "Jan 2023",
+               "Sep 2019",
+               "Jul 2019",
+               "Okt 2016",
+               "Sep 2015",
+               "Sep 2014"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri",
+               "Keluarga",
+               "Pasangan",
+               "Pasangan",
+               "Keluarga",
+               "Pasangan",
+               "Teman",
+               "Sendiri",
+               "Keluarga",
+               "Sendiri"
+          ]
+     },
+     {
+          "peringkat": 25,
+          "nama_akun_pengunjung": [
+               "Pasya",
+               "Antohokkeh",
+               "Dessy J",
+               "en2qm",
+               "OkeTravel",
+               "ate75",
+               "ana2626",
+               "noqeuy",
+               "Aldi S",
+               "EFENDY_JAMES"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Padang",
+               "Bandung",
+               "Batam",
+               "Riau",
+               "Pekanbaru",
+               "Pekanbaru",
+               "Jakarta",
+               "Bandung",
+               "Medan"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0,
+               5.0,
+               5.0,
+               4.0,
+               4.0,
+               4.0,
+               5.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Okt 2018",
+               "Sep 2018",
+               "Jul 2018",
+               "Sep 2018",
+               "Apr 2018",
+               "Sep 2015",
+               "Okt 2015",
+               "Agt 2015",
+               "Jul 2015",
+               "Mei 2015"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Bisnis",
+               "Pasangan",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 26,
+          "nama_akun_pengunjung": [
+               "Fajrin",
+               "Rachella Homestay",
+               "rijalpurwailmiawan",
+               "ekosapoetrasati",
+               "kaumNUsantara",
+               "Muhammad R",
+               "fadilannisa a",
+               "fanimami",
+               "Fisra A",
+               "shafarul i"
+          ],
+          "asal_pengunjung": [
+               "Batusangkar",
+               "Batusangkar",
+               "Jakarta",
+               "Batusangkar",
+               "Jakarta",
+               "Padang",
+               "Jakarta",
+               "Pekanbaru",
+               "Jakarta",
+               "Bukittinggi"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               4.0,
+               5.0,
+               3.0,
+               4.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Nov 2019",
+               "Agt 2019",
+               "Jan 2018",
+               "Des 2017",
+               "Mar 2018",
+               "Jan 2018",
+               "Des 2017",
+               "Jul 2017",
+               "Jul 2016",
+               "Agt 2015"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Pasangan",
+               "Sendiri",
+               "Pasangan",
+               "Keluarga",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 27,
+          "nama_akun_pengunjung": [
+               "Pasya",
+               "Brigitta",
+               "Coastal764018",
+               "EKO-Y-PRAMONO",
+               "Agusti Esden",
+               "carlbray"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Padang",
+               "Padang",
+               "Denpasar",
+               "Tangerang Selatan",
+               "Wellington"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               5.0,
+               4.0,
+               4.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Apr 2019",
+               "Jul 2018",
+               "Apr 2018",
+               "Des 2016",
+               "Nov 2012",
+               "Mei 2017"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Bisnis",
+               "Sendiri",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 28,
+          "nama_akun_pengunjung": [
+               "Hendra Yolanda Rangkuti",
+               "Brigitta",
+               "Ruth H",
+               "Antohokkeh",
+               "dennygustiyandra",
+               "Ilham I",
+               "ibnu reza s",
+               "pikhanza",
+               "Bujang L",
+               "mirzaasril"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Padang",
+               "Pekanbaru",
+               "Padang",
+               "Bandar Lampung",
+               "Padang",
+               "Padang",
+               "Medan",
+               "Pekanbaru",
+               "Tegal"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               4.0,
+               4.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               3.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Des 2018",
+               "Mar 2019",
+               "Jan 2019",
+               "Sep 2018",
+               "Mar 2018",
+               "Agt 2017",
+               "Des 2017",
+               "Des 2017",
+               "Des 2015",
+               "Agt 2016"
+          ],
+          "tipe_kunjungan": [
+               "Pasangan",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Teman",
+               "Pasangan",
+               "Teman",
+               "Teman",
+               "Bisnis"
+          ]
+     },
+     {
+          "peringkat": 29,
+          "nama_akun_pengunjung": [
+               "Indryechania",
+               "Pasya",
+               "Sefanya travel",
+               "Citra F",
+               "rusiagus f",
+               "Fisra A",
+               "salma615",
+               "tempat yang indah yang tertutup untuk umum",
+               "shafarul i",
+               "visitminangkabau"
+          ],
+          "asal_pengunjung": [
+               "Payakumbuh",
+               "Pekanbaru",
+               "Padang",
+               "Jakarta",
+               "Padang",
+               "Jakarta",
+               "Payakumbuh",
+               "Padang",
+               "Bukittinggi",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               4.0,
+               4.0,
+               5.0,
+               5.0,
+               4.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jul 2019",
+               "Des 2018",
+               "Jan 2018",
+               "Agt 2017",
+               "Sep 2017",
+               "Des 2016",
+               "Des 2016",
+               "Okt 2016",
+               "Nov 2015",
+               "Sep 2016"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Bisnis",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Sendiri"
+          ]
+     },
+     {
+          "peringkat": 30,
+          "nama_akun_pengunjung": [
+               "Valiant Vemby",
+               "mr. ari",
+               "Ilham I",
+               "Adiguna M",
+               "langgeng14",
+               "Hidayati D",
+               "RerePutri",
+               "KurniawanAdhi",
+               "sabrina_ho88"
+          ],
+          "asal_pengunjung": [
+               "Bukittinggi",
+               "Pekanbaru",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Tangerang",
+               "Jakarta",
+               "Jakarta",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               3.0,
+               4.0,
+               3.0,
+               5.0,
+               4.0,
+               3.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Mar 2019",
+               "Feb 2019",
+               "Nov 2017",
+               "Jul 2016",
+               "Nov 2016",
+               "Agt 2016",
+               "Mei 2016",
+               "Agt 2016",
+               "Feb 2016"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Pasangan",
+               "Teman",
+               "Keluarga",
+               "Sendiri",
+               "Pasangan"
+          ]
+     },
+     {
+          "peringkat": 31,
+          "nama_akun_pengunjung": [
+               "Ruth H",
+               "Antohokkeh",
+               "Ilham I",
+               "tjutjukbs",
+               "differensiasi",
+               "Anida_Krisstini",
+               "MairizaYulianti",
+               "ana2626",
+               "marioluigiyoshi",
+               "dama0002"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Padang",
+               "Padang",
+               "Surabaya",
+               "Medan",
+               "Padang",
+               "Sumatera Utara",
+               "Pekanbaru",
+               "Jakarta",
+               "Singapura"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               3.0,
+               5.0,
+               4.0,
+               5.0,
+               3.0,
+               3.0,
+               3.0,
+               2.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Jan 2019",
+               "Sep 2018",
+               "Feb 2018",
+               "Feb 2017",
+               "Nov 2016",
+               "Okt 2015",
+               "Des 2015",
+               "Jan 2016",
+               "Mei 2015",
+               "Feb 2015"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Teman",
+               "Bisnis",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 32,
+          "nama_akun_pengunjung": [
+               "Pasya",
+               "Fisra A",
+               "winaldo",
+               "PaxJef",
+               "HermanWay",
+               "sabrina_ho88",
+               "Eddy1215",
+               "andreas_ertanto",
+               "Haikal1988",
+               "hendysuherman"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Jakarta",
+               "Palembang",
+               "Padang",
+               "Tangerang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Payakumbuh",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0,
+               4.0,
+               4.0,
+               4.0,
+               5.0,
+               4.0,
+               3.0,
+               5.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Apr 2019",
+               "Des 2016",
+               "Agt 2016",
+               "Mei 2016",
+               "Agt 2016",
+               "Jan 2016",
+               "Agt 2015",
+               "Okt 2014",
+               "Mei 2015",
+               "Nov 2014"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Bisnis"
+          ]
+     },
+     {
+          "peringkat": 33,
+          "nama_akun_pengunjung": [
+               "Sefanya travel",
+               "Navigator729627",
+               "Ichazizah",
+               "erfi0012014",
+               "wanay11",
+               "Evinayaspi",
+               "fajaradiartha",
+               "rudi sutrisno ho",
+               "Aldi S"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Jakarta",
+               "Tangerang",
+               "Jakarta",
+               "Padang",
+               "Jakarta",
+               "Jakarta",
+               "Bandung"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               4.0,
+               4.0,
+               3.0,
+               3.0,
+               4.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Des 2018",
+               "Sep 2017",
+               "Okt 2016",
+               "Agt 2016",
+               "Agt 2016",
+               "Jul 2016",
+               "Mei 2016",
+               "Mei 2016",
+               "Jul 2015"
+          ],
+          "tipe_kunjungan": [
+               "Bisnis",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Teman",
+               "Teman",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 34,
+          "nama_akun_pengunjung": [
+               "Antohokkeh",
+               "mr. ari",
+               "yoliyoliandra8",
+               "rusiagus f",
+               "fanimami",
+               "Abdika Permana",
+               "tanoe7788",
+               "partnerst0ur"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Pekanbaru",
+               "Padang",
+               "Padang",
+               "Pekanbaru",
+               "Jakarta",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               2.0,
+               4.0,
+               4.0,
+               4.0,
+               4.0,
+               3.0
+          ],
+          "waktu_berkunjung": [
+               "Des 2018",
+               "Okt 2018",
+               "Mar 2018",
+               "Sep 2017",
+               "Jul 2017",
+               "Jul 2017",
+               "Apr 2017",
+               "Apr 2017"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Teman",
+               "Teman",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Pasangan",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 35,
+          "nama_akun_pengunjung": [
+               "Dizzman",
+               "iwan_akraz",
+               "imas u",
+               "iratsaihtum",
+               "kk_funky",
+               "honestkaro",
+               "ihsanadh",
+               "Feriandi",
+               "fajarsakti"
+          ],
+          "asal_pengunjung": [
+               "Jakarta",
+               "Tangerang",
+               "Bogor",
+               "Jakarta",
+               "Jakarta",
+               "Kabanjahe",
+               "Makassar",
+               "Serpong",
+               "Waikabubak"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               5.0,
+               4.0,
+               5.0,
+               3.0,
+               5.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Nov 2018",
+               "Mar 2018",
+               "Apr 2018",
+               "Mei 2017",
+               "Des 2017",
+               "Jul 2017",
+               "Jul 2016",
+               "Jan 2017",
+               "Des 2016"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Pasangan",
+               "Teman",
+               "Keluarga",
+               "Sendiri",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 36,
+          "nama_akun_pengunjung": [
+               "Pasya",
+               "kk_funky",
+               "partnerst0ur",
+               "Ridho S",
+               "shafarul i",
+               "Panduko_Sutan",
+               "wulann2014",
+               "Voleta_H",
+               "Haikal1988",
+               "Mahmud B"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Jakarta",
+               "Padang",
+               "Padang",
+               "Bukittinggi",
+               "Kajang",
+               "Padang",
+               "Jakarta",
+               "Payakumbuh",
+               "Palembang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               4.0,
+               5.0,
+               4.0,
+               4.0,
+               5.0,
+               4.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Apr 2019",
+               "Des 2017",
+               "Mar 2017",
+               "Agt 2016",
+               "Mei 2016",
+               "Des 2015",
+               "Mei 2015",
+               "Des 2015",
+               "Des 2015",
+               "Jun 2015"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Sendiri",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Keluarga",
+               "Pasangan",
+               "Keluarga",
+               "Keluarga",
+               "Sendiri"
+          ]
+     },
+     {
+          "peringkat": 37,
+          "nama_akun_pengunjung": [
+               "makdangnisa",
+               "BangNess",
+               "Pasya",
+               "jonialexanderheytsit",
+               "kk_funky",
+               "Annisa A",
+               "ViNasution",
+               "Rahmat R",
+               "Tri Julian H",
+               "endriano"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Pekanbaru",
+               "Solok",
+               "Jakarta",
+               "Padang",
+               "Padang",
+               "Pekanbaru",
+               "Padang",
+               "Pekanbaru"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0,
+               4.0,
+               4.0,
+               5.0,
+               5.0,
+               4.0,
+               4.0,
+               5.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Nov 2019",
+               "Feb 2019",
+               "Apr 2019",
+               "Des 2017",
+               "Jun 2018",
+               "Okt 2017",
+               "Jan 2018",
+               "Okt 2016",
+               "Jul 2017",
+               "Des 2016"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Sendiri",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 38,
+          "nama_akun_pengunjung": [
+               "Kasmadi Munthe",
+               "kk_funky",
+               "Ahmad Wijaya",
+               "irmadevita",
+               "Alfalegro",
+               "tjutjukbs",
+               "CenturyAlpha"
+          ],
+          "asal_pengunjung": [
+               "Malang",
+               "Jakarta",
+               "Padang",
+               "Jakarta",
+               "Jakarta",
+               "Surabaya",
+               "Yogyakarta"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               5.0,
+               3.0,
+               4.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Jan 2022",
+               "Jun 2018",
+               "Des 2017",
+               "Apr 2017",
+               "Apr 2017",
+               "Feb 2017",
+               "Feb 2017"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 39,
+          "nama_akun_pengunjung": [
+               "hendysuherman86",
+               "RikhePurnamaSari",
+               "Mira Emirina",
+               "shafarul i",
+               "Laksmi A",
+               "Aang174",
+               "RaiAriff",
+               "Eilyn M",
+               "Boonlong"
+          ],
+          "asal_pengunjung": [
+               "Jakarta",
+               "Padang",
+               "Padang",
+               "Bukittinggi",
+               "Depok",
+               "Padang",
+               "Kuala Lumpur",
+               "Johor Bahru",
+               "San Diego"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               4.0,
+               4.0,
+               5.0,
+               4.0,
+               3.0,
+               5.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Des 2018",
+               "Jan 2018",
+               "Jul 2017",
+               "Agt 2016",
+               "Jun 2019",
+               "Apr 2018",
+               "Des 2017",
+               "Agt 2017",
+               "Feb 2017"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Sendiri",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 40,
+          "nama_akun_pengunjung": [
+               "Didy Ardiano",
+               "herman p",
+               "Alex S"
+          ],
+          "asal_pengunjung": [
+               "Palupuh",
+               "Padang",
+               "Deventer"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Des 2019",
+               "Jul 2019",
+               "Mar 2019"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Keluarga",
+               "Pasangan"
+          ]
+     },
+     {
+          "peringkat": 41,
+          "nama_akun_pengunjung": [
+               "mr. ari",
+               "Antohokkeh",
+               "Alwin Assegaff",
+               "NurJane11",
+               "dewi_rizki",
+               "Fatimah A",
+               "Amirashidah A",
+               "DF-ADL",
+               "Dawannes",
+               "Pesona Jejak Wisata"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Padang",
+               "Bali",
+               "Padang",
+               "Makassar",
+               "Padang",
+               "Padang",
+               "Glenelg",
+               "Hoogstraten",
+               "Bukittinggi"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               4.0,
+               5.0,
+               4.0,
+               5.0,
+               4.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Feb 2019",
+               "Okt 2018",
+               "Apr 2018",
+               "Mar 2017",
+               "Sep 2017",
+               "Agt 2016",
+               "Okt 2019",
+               "Des 2018",
+               "Feb 2018",
+               "Jul 2018"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Bisnis",
+               "Teman",
+               "Keluarga",
+               "Bisnis",
+               "Keluarga",
+               "Keluarga",
+               "Bisnis",
+               "Sendiri",
+               "Bisnis"
+          ]
+     },
+     {
+          "peringkat": 42,
+          "nama_akun_pengunjung": [
+               "anak rantau",
+               "Antohokkeh",
+               "kk_funky",
+               "Febri H",
+               "Tri Julian H",
+               "Devijoe",
+               "iwan s",
+               "Alfalegro",
+               "tjutjukbs",
+               "Ismaul H"
+          ],
+          "asal_pengunjung": [
+               "Banda Aceh",
+               "Padang",
+               "Jakarta",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Jakarta",
+               "Jakarta",
+               "Surabaya",
+               "Bandung"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               3.0,
+               4.0,
+               5.0,
+               4.0,
+               1.0,
+               2.0,
+               4.0,
+               3.0,
+               3.0
+          ],
+          "waktu_berkunjung": [
+               "Mei 2019",
+               "Agt 2018",
+               "Jun 2018",
+               "Jun 2017",
+               "Mar 2018",
+               "Jul 2017",
+               "Jan 2017",
+               "Apr 2017",
+               "Feb 2017",
+               "Jan 2017"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Sendiri",
+               "Bisnis",
+               "Keluarga",
+               "Pasangan",
+               "Keluarga",
+               "Teman",
+               "Bisnis"
+          ]
+     },
+     {
+          "peringkat": 43,
+          "nama_akun_pengunjung": [
+               "Mom wafiy",
+               "LENNI5y",
+               "Dhany Alfaruq",
+               "Agusti Esden",
+               "an_victor",
+               "ViNasution",
+               "Ahmad Wijaya",
+               "ihsanadh",
+               "iwan s",
+               "Embara"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Jakarta",
+               "Bukittinggi",
+               "Tangerang Selatan",
+               "Jakarta",
+               "Padang",
+               "Padang",
+               "Makassar",
+               "Jakarta",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0,
+               4.0,
+               4.0,
+               4.0,
+               5.0,
+               5.0,
+               4.0,
+               3.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Sep 2019",
+               "Jun 2019",
+               "Des 2018",
+               "Sep 2018",
+               "Agt 2018",
+               "Jan 2018",
+               "Des 2017",
+               "Jul 2016",
+               "Jan 2017",
+               "Jan 2017"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Sendiri",
+               "Sendiri",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Pasangan",
+               "Pasangan"
+          ]
+     },
+     {
+          "peringkat": 44,
+          "nama_akun_pengunjung": [
+               "Duan",
+               "Almadinah-Pariaman",
+               "Looliequeen",
+               "OkeTravel",
+               "Abu U",
+               "Rozi Saputra U",
+               "Agusti Esden",
+               "M Richan",
+               "Septy K",
+               "eshaple"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Padang",
+               "Riau",
+               "Padang",
+               "Padang",
+               "Tangerang Selatan",
+               "Padang",
+               "Padang",
+               "Medan"
+          ],
+          "rating_pengunjung": [
+               3.0,
+               5.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               4.0,
+               2.0,
+               4.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Nov 2019",
+               "Jul 2018",
+               "Jun 2018",
+               "Mar 2018",
+               "Des 2017",
+               "Mar 2017",
+               "Jul 2016",
+               "Okt 2016",
+               "Sep 2016",
+               "Jan 2016"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 45,
+          "nama_akun_pengunjung": [
+               "NIA_MARPA",
+               "Antohokkeh",
+               "dewirof",
+               "Andri K",
+               "tjutjukbs",
+               "pahlevi p",
+               "Anida_Krisstini",
+               "shafarul i",
+               "Agusti Esden",
+               "Bujang L"
+          ],
+          "asal_pengunjung": [
+               "Medan",
+               "Padang",
+               "Jakarta",
+               "Medan",
+               "Surabaya",
+               "Padang",
+               "Padang",
+               "Bukittinggi",
+               "Tangerang Selatan",
+               "Pekanbaru"
+          ],
+          "rating_pengunjung": [
+               3.0,
+               5.0,
+               3.0,
+               3.0,
+               4.0,
+               5.0,
+               3.0,
+               3.0,
+               3.0,
+               3.0
+          ],
+          "waktu_berkunjung": [
+               "Nov 2018",
+               "Sep 2018",
+               "Jun 2017",
+               "Mar 2017",
+               "Feb 2017",
+               "Okt 2016",
+               "Okt 2015",
+               "Agt 2015",
+               "Feb 2015",
+               "Sep 2015"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Keluarga",
+               "Bisnis",
+               "Keluarga",
+               "Keluarga",
+               "Pasangan"
+          ]
+     },
+     {
+          "peringkat": 46,
+          "nama_akun_pengunjung": [
+               "yudhi k",
+               "Pasya",
+               "Citra F",
+               "sabrina_ho88",
+               "Andri Zainal Kari",
+               "Riffno K",
+               "mestikesini",
+               "virad2014",
+               "Sophia_LSF",
+               "Darnel-HDI"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Pekanbaru",
+               "Jakarta",
+               "Padang",
+               "Jakarta",
+               "Padang",
+               "West Sumatra",
+               "Padang",
+               "Kuala Lumpur",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               3.0,
+               5.0,
+               5.0,
+               3.0,
+               5.0,
+               5.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Agt 2019",
+               "Agt 2018",
+               "Sep 2017",
+               "Jan 2016",
+               "Sep 2015",
+               "Agt 2015",
+               "Agt 2014",
+               "Jan 2023",
+               "Okt 2015",
+               "Des 2014"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 47,
+          "nama_akun_pengunjung": [
+               "Valiant Vemby",
+               "Pasya",
+               "Dhany Alfaruq",
+               "Sitti Nur Rachm... K",
+               "becitirta",
+               "Adiguna M",
+               "Perlengkapan B",
+               "Anida_Krisstini",
+               "Hidayati D",
+               "ida_srini"
+          ],
+          "asal_pengunjung": [
+               "Bukittinggi",
+               "Pekanbaru",
+               "Bukittinggi",
+               "Padang",
+               "Bandung",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Tangerang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0,
+               5.0,
+               4.0,
+               4.0,
+               3.0,
+               4.0,
+               3.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Mar 2019",
+               "Sep 2018",
+               "Jul 2018",
+               "Mei 2018",
+               "Okt 2017",
+               "Jul 2016",
+               "Agt 2016",
+               "Nov 2015",
+               "Agt 2016",
+               "Agt 2016"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Keluarga",
+               "Sendiri",
+               "Pasangan",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Sendiri"
+          ]
+     },
+     {
+          "peringkat": 48,
+          "nama_akun_pengunjung": [
+               "Dyandra66",
+               "anida krisstini",
+               "hkrishna2014",
+               "MyCiamik",
+               "Dhany Alfaruq",
+               "Emma R",
+               "Antohokkeh",
+               "rahelsyanivia",
+               "Malin U",
+               "zain5urvey"
+          ],
+          "asal_pengunjung": [
+               "Bandung",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Bukittinggi",
+               "Binjai",
+               "Padang",
+               "Pekanbaru",
+               "Bukittinggi",
+               "Sentani"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               3.0,
+               4.0,
+               4.0,
+               2.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Mar 2020",
+               "Nov 2019",
+               "Okt 2019",
+               "Jan 2019",
+               "Nov 2018",
+               "Sep 2017",
+               "Mar 2018",
+               "Mar 2018",
+               "Mar 2018",
+               "Jan 2017"
+          ],
+          "tipe_kunjungan": [
+               "Pasangan",
+               "Teman",
+               "Pasangan",
+               "Keluarga",
+               "Sendiri",
+               "Sendiri",
+               "Teman",
+               "Pasangan",
+               "Keluarga",
+               "Sendiri"
+          ]
+     },
+     {
+          "peringkat": 49,
+          "nama_akun_pengunjung": [
+               "Nasirullah Sitam",
+               "Felia putri",
+               "izzu-kun",
+               "Agusti Esden",
+               "Antohokkeh",
+               "wanderlustid",
+               "kk_funky",
+               "Supriyono S Prio",
+               "dewi_rizki",
+               "Ummiaiz"
+          ],
+          "asal_pengunjung": [
+               "Yogyakarta",
+               "Padang",
+               "Padang",
+               "Tangerang Selatan",
+               "Padang",
+               "Padang",
+               "Jakarta",
+               "Tangerang Selatan",
+               "Makassar",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               3.0,
+               4.0,
+               5.0,
+               3.0,
+               4.0,
+               4.0,
+               3.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Okt 2018",
+               "Jun 2018",
+               "Nov 2018",
+               "Sep 2018",
+               "Okt 2018",
+               "Des 2017",
+               "Jun 2018",
+               "Okt 2017",
+               "Sep 2017",
+               "Mar 2017"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Pasangan",
+               "Keluarga",
+               "Teman",
+               "Sendiri",
+               "Keluarga",
+               "Sendiri",
+               "Bisnis",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 50,
+          "nama_akun_pengunjung": [
+               "Malibou Organizer",
+               "mr. ari",
+               "OkeTravel",
+               "fanimami",
+               "tjutjukbs",
+               "sofian c",
+               "Kermit Y",
+               "shafarul i",
+               "Puanmh2017"
+          ],
+          "asal_pengunjung": [
+               "Padang Pariaman",
+               "Pekanbaru",
+               "Riau",
+               "Pekanbaru",
+               "Surabaya",
+               "Padang",
+               "Padang",
+               "Bukittinggi",
+               "Kuala Lumpur"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               5.0,
+               4.0,
+               4.0,
+               3.0,
+               4.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Des 2019",
+               "Feb 2019",
+               "Jun 2018",
+               "Okt 2016",
+               "Feb 2017",
+               "Jul 2016",
+               "Jun 2016",
+               "Agt 2015",
+               "Jan 2020"
+          ],
+          "tipe_kunjungan": [
+               "Bisnis",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 51,
+          "nama_akun_pengunjung": [
+               "anak rantau",
+               "Antohokkeh",
+               "tessarahmadani2",
+               "tjutjukbs",
+               "indraamir",
+               "Dikki B.A.",
+               "shafarul i",
+               "Evinayaspi",
+               "Haikal1988",
+               "Agusti Esden"
+          ],
+          "asal_pengunjung": [
+               "Banda Aceh",
+               "Padang",
+               "Pariaman",
+               "Surabaya",
+               "Jakarta",
+               "Bogor",
+               "Bukittinggi",
+               "Padang",
+               "Payakumbuh",
+               "Tangerang Selatan"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               3.0,
+               5.0,
+               4.0,
+               4.0,
+               4.0,
+               4.0,
+               3.0,
+               5.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Okt 2018",
+               "Sep 2018",
+               "Apr 2018",
+               "Feb 2017",
+               "Feb 2016",
+               "Agt 2016",
+               "Des 2015",
+               "Mar 2016",
+               "Des 2015",
+               "Apr 2015"
+          ],
+          "tipe_kunjungan": [
+               "Pasangan",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 52,
+          "nama_akun_pengunjung": [
+               "Rachella Homestay",
+               "Dizzman",
+               "kk_funky",
+               "pLORAkeph",
+               "hiburansepi",
+               "ida_srini",
+               "shafarul i",
+               "Ichazizah",
+               "Laurent R",
+               "esubijono"
+          ],
+          "asal_pengunjung": [
+               "Batusangkar",
+               "Jakarta",
+               "Jakarta",
+               "Jakarta",
+               "Bandung",
+               "Padang",
+               "Bukittinggi",
+               "Jakarta",
+               "Singapura",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               5.0,
+               5.0,
+               3.0,
+               4.0,
+               4.0,
+               3.0,
+               3.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Jul 2019",
+               "Nov 2018",
+               "Des 2017",
+               "Des 2017",
+               "Sep 2016",
+               "Agt 2016",
+               "Des 2015",
+               "Mei 2015",
+               "Okt 2015",
+               "Agt 2015"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Keluarga",
+               "Sendiri",
+               "Bisnis",
+               "Teman",
+               "Teman",
+               "Teman",
+               "Teman",
+               "Pasangan",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 53,
+          "nama_akun_pengunjung": [
+               "Shinta",
+               "Pasya",
+               "mr. ari",
+               "vella ovelia",
+               "OkeTravel",
+               "yoliyoliandra8",
+               "Alfalegro",
+               "tjutjukbs",
+               "Riana P",
+               "eshaple"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Pekanbaru",
+               "Pekanbaru",
+               "Padang",
+               "Riau",
+               "Padang",
+               "Jakarta",
+               "Surabaya",
+               "Padang",
+               "Medan"
+          ],
+          "rating_pengunjung": [
+               3.0,
+               4.0,
+               4.0,
+               5.0,
+               4.0,
+               4.0,
+               4.0,
+               4.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Des 2019",
+               "Agt 2018",
+               "Feb 2019",
+               "Okt 2018",
+               "Jun 2018",
+               "Mei 2017",
+               "Apr 2017",
+               "Feb 2017",
+               "Jan 2016",
+               "Jan 2016"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 54,
+          "nama_akun_pengunjung": [
+               "Valiant Vemby",
+               "Sefanya travel",
+               "Hodril B",
+               "Lidya J",
+               "Dwi Panuntun",
+               "Mira Emirina",
+               "amell92",
+               "shafarul i",
+               "dendirahmat",
+               "PoerJaya"
+          ],
+          "asal_pengunjung": [
+               "Bukittinggi",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Tangerang Selatan",
+               "Padang",
+               "Padang",
+               "Bukittinggi",
+               "Padang Panjang",
+               "Bekasi"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               3.0,
+               5.0,
+               5.0,
+               4.0,
+               4.0,
+               4.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Jun 2019",
+               "Nov 2018",
+               "Agt 2018",
+               "Jan 2018",
+               "Okt 2017",
+               "Jul 2017",
+               "Agt 2016",
+               "Agt 2015",
+               "Sep 2015",
+               "Des 2015"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Bisnis",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 55,
+          "nama_akun_pengunjung": [
+               "Frenji",
+               "Ahmad Fauzan",
+               "hendysuherman86",
+               "irmadevita",
+               "shafarul i",
+               "Nilah R",
+               "santo_chua",
+               "Fess S",
+               "Darnel-HDI"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang Pariaman",
+               "Jakarta",
+               "Jakarta",
+               "Bukittinggi",
+               "Provinsi Jambi",
+               "Batam",
+               "Tucson",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               4.0,
+               4.0,
+               4.0,
+               5.0,
+               5.0,
+               1.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Nov 2019",
+               "Jan 2019",
+               "Des 2018",
+               "Apr 2017",
+               "Mar 2016",
+               "Jan 2015",
+               "Mar 2020",
+               "Mei 2019",
+               "Jun 2014"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Teman",
+               "Pasangan",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 56,
+          "nama_akun_pengunjung": [
+               "zak T"
+          ],
+          "asal_pengunjung": [
+               "San Diego"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Apr 2015"
+          ],
+          "tipe_kunjungan": [
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 57,
+          "nama_akun_pengunjung": [
+               "Ewi D",
+               "Dizzman",
+               "kk_funky",
+               "pLORAkeph",
+               "helena y",
+               "shafarul i",
+               "Ichazizah",
+               "Laurent R",
+               "esubijono",
+               "andreas_ertanto"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Jakarta",
+               "Jakarta",
+               "Jakarta",
+               "Padang",
+               "Bukittinggi",
+               "Jakarta",
+               "Singapura",
+               "Jakarta",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0,
+               5.0,
+               5.0,
+               4.0,
+               4.0,
+               4.0,
+               3.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Feb 2019",
+               "Nov 2018",
+               "Des 2017",
+               "Des 2017",
+               "Jun 2017",
+               "Nov 2015",
+               "Mei 2015",
+               "Okt 2015",
+               "Agt 2015",
+               "Jul 2015"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Sendiri",
+               "Bisnis",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Pasangan",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 58,
+          "nama_akun_pengunjung": [
+               "Antohokkeh",
+               "Citra F",
+               "Ilham I",
+               "indraamir",
+               "shafarul i",
+               "AlvianIbr",
+               "syafrizal_info",
+               "Agusti Esden"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Jakarta",
+               "Padang",
+               "Jakarta",
+               "Bukittinggi",
+               "Jakarta",
+               "Jakarta",
+               "Tangerang Selatan"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               4.0,
+               3.0,
+               5.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Des 2018",
+               "Jun 2018",
+               "Feb 2018",
+               "Feb 2016",
+               "Mei 2016",
+               "Jun 2015",
+               "Jan 2014",
+               "Okt 2013"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Pasangan",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 59,
+          "nama_akun_pengunjung": [
+               "Erik_Ariyanto",
+               "tjutjukbs",
+               "rispertani",
+               "Reki H",
+               "MairizaYulianti",
+               "Oky A",
+               "Lilik S",
+               "Danny Too"
+          ],
+          "asal_pengunjung": [
+               "Kalimantan Barat",
+               "Surabaya",
+               "Depok",
+               "Padang",
+               "Sumatera Utara",
+               "Padang",
+               "Padang",
+               "Petaling Jaya"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0,
+               5.0,
+               5.0,
+               4.0,
+               5.0,
+               4.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jun 2019",
+               "Feb 2017",
+               "Jul 2016",
+               "Mar 2016",
+               "Sep 2015",
+               "Feb 2016",
+               "Sep 2014",
+               "Sep 2017"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Sendiri",
+               "Teman",
+               "Pasangan",
+               "Keluarga",
+               "Teman",
+               "Pasangan"
+          ]
+     },
+     {
+          "peringkat": 60,
+          "nama_akun_pengunjung": [
+               "Rahmadini",
+               "Pasya",
+               "Sefanya travel",
+               "winaldo"
+          ],
+          "asal_pengunjung": [
+               "Bogor",
+               "Pekanbaru",
+               "Padang",
+               "Palembang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Agt 2020",
+               "Apr 2019",
+               "Nov 2018",
+               "Jul 2016"
+          ],
+          "tipe_kunjungan": [
+               "Pasangan",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 61,
+          "nama_akun_pengunjung": [
+               "Pasya",
+               "Forza",
+               "Citra F",
+               "Fisra A",
+               "Iman Sadesmesli",
+               "Anida_Krisstini",
+               "Teguh H",
+               "langgeng14",
+               "shafarul i",
+               "dendirahmat"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Padang",
+               "Jakarta",
+               "Jakarta",
+               "Depok",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Bukittinggi",
+               "Padang Panjang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               5.0,
+               4.0,
+               3.0,
+               3.0,
+               5.0,
+               5.0,
+               4.0,
+               3.0
+          ],
+          "waktu_berkunjung": [
+               "Apr 2019",
+               "Okt 2018",
+               "Jun 2018",
+               "Jun 2016",
+               "Nov 2016",
+               "Okt 2015",
+               "Sep 2016",
+               "Mar 2016",
+               "Agt 2015",
+               "Feb 2015"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Teman",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 62,
+          "nama_akun_pengunjung": [
+               "Antohokkeh",
+               "Ilham I",
+               "Alfalegro",
+               "hkrishna2014",
+               "fachrulrozy",
+               "dkahmad1",
+               "MairizaYulianti",
+               "dendirahmat",
+               "Adek M",
+               "aria h"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Jakarta",
+               "Padang",
+               "Padang",
+               "Bandung",
+               "Sumatera Utara",
+               "Padang Panjang",
+               "Padang",
+               "Solok"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               4.0,
+               3.0,
+               3.0,
+               4.0,
+               4.0,
+               4.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Sep 2018",
+               "Feb 2018",
+               "Apr 2017",
+               "Jun 2016",
+               "Sep 2015",
+               "Mar 2016",
+               "Agt 2015",
+               "Des 2015",
+               "Mei 2015",
+               "Jan 2015"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Teman",
+               "Teman",
+               "Keluarga",
+               "Sendiri",
+               "Bisnis",
+               "Keluarga",
+               "Sendiri",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 63,
+          "nama_akun_pengunjung": [
+               "Citra F",
+               "pipin p",
+               "Fauzan z",
+               "Dody A",
+               "Adiguna M",
+               "Dikki B.A.",
+               "Ragu88",
+               "inascully",
+               "Darnel-HDI",
+               "Elfina Z"
+          ],
+          "asal_pengunjung": [
+               "Jakarta",
+               "Jakarta",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Bogor",
+               "Kuala Lumpur",
+               "Kuala Lumpur",
+               "Jakarta",
+               "Kuala Lumpur"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               5.0,
+               4.0,
+               3.0,
+               5.0,
+               5.0,
+               4.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jun 2018",
+               "Des 2017",
+               "Feb 2017",
+               "Mei 2017",
+               "Jul 2016",
+               "Sep 2016",
+               "Apr 2019",
+               "Feb 2019",
+               "Sep 2016",
+               "Okt 2016"
+          ],
+          "tipe_kunjungan": [
+               "Pasangan",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 64,
+          "nama_akun_pengunjung": [
+               "Antohokkeh",
+               "tanoe7788",
+               "tjutjukbs",
+               "Riana P",
+               "andregiovando",
+               "PaxJef",
+               "allovesmel",
+               "Hidayat S",
+               "Aldi S",
+               "Rustandi E"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Surabaya",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Pekanbaru",
+               "Kuala Lumpur",
+               "Bandung",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               3.0,
+               4.0,
+               3.0,
+               5.0,
+               1.0,
+               5.0,
+               5.0,
+               4.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Sep 2018",
+               "Apr 2017",
+               "Feb 2017",
+               "Sep 2015",
+               "Apr 2015",
+               "Mei 2015",
+               "Sep 2015",
+               "Agt 2015",
+               "Jul 2015",
+               "Jul 2015"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Pasangan",
+               "Teman",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 65,
+          "nama_akun_pengunjung": [
+               "Antohokkeh",
+               "kk_funky",
+               "tanoe7788",
+               "tjutjukbs",
+               "srizandra",
+               "FerdyDenny_Tulong",
+               "kualanyiur",
+               "sabrina_ho88",
+               "SANAMO",
+               "hkrishna2014"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Jakarta",
+               "Padang",
+               "Surabaya",
+               "Pekanbaru",
+               "Manado",
+               "Bandung",
+               "Padang",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               3.0,
+               4.0,
+               4.0,
+               4.0,
+               2.0,
+               3.0,
+               3.0,
+               4.0,
+               4.0,
+               3.0
+          ],
+          "waktu_berkunjung": [
+               "Sep 2018",
+               "Jun 2018",
+               "Apr 2017",
+               "Feb 2017",
+               "Jul 2015",
+               "Okt 2015",
+               "Mei 2015",
+               "Feb 2016",
+               "Jul 2014",
+               "Nov 2014"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Keluarga",
+               "Pasangan",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Bisnis",
+               "Keluarga",
+               "Sendiri"
+          ]
+     },
+     {
+          "peringkat": 66,
+          "nama_akun_pengunjung": [
+               "Ruth H",
+               "Rizki A",
+               "hamdiirza",
+               "Albert825",
+               "ate75",
+               "Switenana",
+               "Jack F"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Pekanbaru",
+               "Pekanbaru",
+               "Bandung"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               3.0,
+               3.0,
+               5.0,
+               4.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Jan 2019",
+               "Jul 2015",
+               "Feb 2015",
+               "Apr 2014",
+               "Apr 2014",
+               "Jul 2016",
+               "Jan 2023"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Pasangan",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 67,
+          "nama_akun_pengunjung": [
+               "iwanskomari",
+               "Rizky A",
+               "Alfar",
+               "sucay",
+               "Agusti Esden",
+               "wanderlustid",
+               "karenovera",
+               "kk_funky",
+               "balance0906",
+               "Ilham I"
+          ],
+          "asal_pengunjung": [
+               "Jakarta",
+               "Jakarta",
+               "Tangerang",
+               "Padang",
+               "Tangerang Selatan",
+               "Padang",
+               "Purwokerto",
+               "Jakarta",
+               "Jakarta",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0,
+               3.0,
+               4.0,
+               4.0,
+               3.0,
+               4.0,
+               4.0,
+               4.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Nov 2019",
+               "Mar 2019",
+               "Apr 2019",
+               "Jun 2018",
+               "Sep 2018",
+               "Des 2017",
+               "Agt 2018",
+               "Jun 2018",
+               "Jun 2018",
+               "Jun 2017"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Pasangan",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Sendiri",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 68,
+          "nama_akun_pengunjung": [
+               "Doditata",
+               "Indindmil",
+               "shafarul i",
+               "sabrina_ho88",
+               "jxbars",
+               "Darnel-HDI"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Jakarta",
+               "Bukittinggi",
+               "Padang",
+               "Denpasar",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0,
+               4.0,
+               5.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Sep 2021",
+               "Jan 2017",
+               "Jul 2016",
+               "Jan 2016",
+               "Jan 2016",
+               "Agt 2015"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Pasangan",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 69,
+          "nama_akun_pengunjung": [
+               "kk_funky",
+               "Citra F",
+               "erw@n",
+               "ferinovriyal",
+               "Agusti Esden",
+               "karimpaputungan",
+               "Darnel-HDI"
+          ],
+          "asal_pengunjung": [
+               "Jakarta",
+               "Jakarta",
+               "Serpong",
+               "Gorontalo",
+               "Tangerang Selatan",
+               "Jakarta",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               3.0,
+               5.0,
+               4.0,
+               3.0,
+               5.0,
+               3.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Jun 2018",
+               "Jun 2018",
+               "Nov 2013",
+               "Sep 2013",
+               "Mar 2014",
+               "Feb 2014",
+               "Mar 2015"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Sendiri",
+               "Teman",
+               "Teman",
+               "Keluarga",
+               "Pasangan",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 70,
+          "nama_akun_pengunjung": [
+               "Valiant Vemby",
+               "Ryan",
+               "Fisra A",
+               "Puanmh2017"
+          ],
+          "asal_pengunjung": [
+               "Bukittinggi",
+               "Malang",
+               "Jakarta",
+               "Kuala Lumpur"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Sep 2018",
+               "Mei 2019",
+               "Jul 2016",
+               "Jan 2020"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 71,
+          "nama_akun_pengunjung": [
+               "Fisra A",
+               "Fatimah A",
+               "ida_srini",
+               "shafarul i",
+               "Hellen L"
+          ],
+          "asal_pengunjung": [
+               "Jakarta",
+               "Padang",
+               "Padang",
+               "Bukittinggi",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               4.0,
+               4.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jul 2016",
+               "Agt 2016",
+               "Agt 2016",
+               "Agt 2015",
+               "Jun 2014"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Sendiri",
+               "Teman",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 72,
+          "nama_akun_pengunjung": [
+               "Ika J",
+               "Sefanya travel",
+               "Antohokkeh",
+               "kk_funky",
+               "Aris",
+               "gerage",
+               "Widya O",
+               "Jktmale",
+               "Riana P",
+               "Ariesadhar"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Padang",
+               "Jakarta",
+               "Tangerang Selatan",
+               "Jakarta",
+               "Padang",
+               "Jakarta",
+               "Padang",
+               "Tangerang Selatan"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               3.0,
+               2.0,
+               4.0,
+               3.0,
+               3.0,
+               3.0,
+               2.0,
+               2.0
+          ],
+          "waktu_berkunjung": [
+               "Des 2019",
+               "Nov 2019",
+               "Sep 2018",
+               "Jun 2018",
+               "Des 2017",
+               "Agt 2017",
+               "Jun 2017",
+               "Agt 2016",
+               "Agt 2016",
+               "Mei 2016"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Bisnis",
+               "Sendiri",
+               "Teman",
+               "Sendiri",
+               "Sendiri"
+          ]
+     },
+     {
+          "peringkat": 73,
+          "nama_akun_pengunjung": [
+               "anida krisstini",
+               "honestkaro",
+               "agus muslim",
+               "sabrina_ho88",
+               "shafarul i",
+               "dendirahmat"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Kabanjahe",
+               "Depok",
+               "Padang",
+               "Bukittinggi",
+               "Padang Panjang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               3.0,
+               4.0,
+               5.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Nov 2019",
+               "Jul 2017",
+               "Apr 2017",
+               "Jun 2015",
+               "Feb 2016",
+               "Feb 2016"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 74,
+          "nama_akun_pengunjung": [
+               "TobiTim",
+               "Raoan azevedo",
+               "Meet the mentawai"
+          ],
+          "asal_pengunjung": [
+               "Velbert",
+               "Padang",
+               "Kepulauan Mentawai"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jun 2019",
+               "Des 2018",
+               "Agt 2018"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri",
+               "Pasangan",
+               "Bisnis"
+          ]
+     },
+     {
+          "peringkat": 75,
+          "nama_akun_pengunjung": [
+               "siti jalan jalan",
+               "Erik_Ariyanto",
+               "Rizky A",
+               "sucay",
+               "hesasoujiro",
+               "kk_funky",
+               "balance0906",
+               "Puanmh2017",
+               "Hasnah1962"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Kalimantan Barat",
+               "Jakarta",
+               "Padang",
+               "Jakarta",
+               "Jakarta",
+               "Jakarta",
+               "Kuala Lumpur",
+               "Singapura"
+          ],
+          "rating_pengunjung": [
+               3.0,
+               2.0,
+               4.0,
+               4.0,
+               4.0,
+               4.0,
+               3.0,
+               3.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Agt 2019",
+               "Jun 2019",
+               "Mar 2019",
+               "Jun 2018",
+               "Okt 2017",
+               "Jun 2018",
+               "Jun 2018",
+               "Jan 2020",
+               "Mar 2018"
+          ],
+          "tipe_kunjungan": [
+               "Pasangan",
+               "Keluarga",
+               "Pasangan",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Sendiri",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 76,
+          "nama_akun_pengunjung": [
+               "Sefanya travel",
+               "tjutjukbs",
+               "Agusti Esden",
+               "dewi_naglilya"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Surabaya",
+               "Tangerang Selatan",
+               "Sawahlunto"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               4.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jul 2018",
+               "Feb 2017",
+               "Agt 2016",
+               "Apr 2014"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 77,
+          "nama_akun_pengunjung": [
+               "Rachella Homestay",
+               "Dizzman",
+               "kk_funky",
+               "pLORAkeph",
+               "I Made T",
+               "ida_srini",
+               "shafarul i",
+               "Laurent R",
+               "esubijono",
+               "Palangkaraya"
+          ],
+          "asal_pengunjung": [
+               "Batusangkar",
+               "Jakarta",
+               "Jakarta",
+               "Jakarta",
+               "Palembang",
+               "Padang",
+               "Bukittinggi",
+               "Singapura",
+               "Jakarta",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               4.0,
+               4.0,
+               3.0,
+               3.0,
+               4.0,
+               4.0,
+               3.0,
+               3.0
+          ],
+          "waktu_berkunjung": [
+               "Jul 2019",
+               "Nov 2018",
+               "Des 2017",
+               "Des 2017",
+               "Sep 2016",
+               "Agt 2016",
+               "Des 2015",
+               "Okt 2015",
+               "Agt 2015",
+               "Des 2014"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Keluarga",
+               "Sendiri",
+               "Keluarga",
+               "Bisnis",
+               "Teman",
+               "Teman",
+               "Pasangan",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 78,
+          "nama_akun_pengunjung": [
+               "kaumNUsantara",
+               "Ilham I",
+               "Tri Julian H",
+               "jawekmentour",
+               "edwardorusfid",
+               "Fasta'Iza N"
+          ],
+          "asal_pengunjung": [
+               "Jakarta",
+               "Padang",
+               "Padang",
+               "Bekasi",
+               "Jakarta",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Okt 2017",
+               "Jul 2017",
+               "Apr 2017",
+               "Agt 2016",
+               "Agt 2016",
+               "Mar 2016"
+          ],
+          "tipe_kunjungan": [
+               "Pasangan",
+               "Teman",
+               "Teman",
+               "Teman",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 79,
+          "nama_akun_pengunjung": [
+               "Valiant Vemby",
+               "Dhany Alfaruq",
+               "an_victor",
+               "Fisra A",
+               "Adiguna M",
+               "ida_srini",
+               "yoserizaladha",
+               "shafarul i",
+               "sabrina_ho88",
+               "MairizaYulianti"
+          ],
+          "asal_pengunjung": [
+               "Bukittinggi",
+               "Bukittinggi",
+               "Jakarta",
+               "Jakarta",
+               "Padang",
+               "Padang",
+               "Pulau Bangka",
+               "Bukittinggi",
+               "Padang",
+               "Sumatera Utara"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               3.0,
+               3.0,
+               3.0,
+               3.0,
+               4.0,
+               3.0,
+               5.0,
+               3.0
+          ],
+          "waktu_berkunjung": [
+               "Agt 2018",
+               "Mar 2018",
+               "Agt 2018",
+               "Jul 2016",
+               "Jul 2016",
+               "Agt 2016",
+               "Agt 2016",
+               "Jul 2016",
+               "Feb 2016",
+               "Feb 2016"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Pasangan",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 80,
+          "nama_akun_pengunjung": [
+               "FebruariCeria",
+               "Brigitta",
+               "tjutjukbs"
+          ],
+          "asal_pengunjung": [
+               "Jakarta",
+               "Padang",
+               "Surabaya"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Mar 2020",
+               "Sep 2018",
+               "Feb 2017"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 81,
+          "nama_akun_pengunjung": [
+               "LENNI5y",
+               "siti jalan jalan",
+               "Valiant Vemby",
+               "Halidya",
+               "Puanmh2017",
+               "arminhari",
+               "IftekharA-Sep2016",
+               "Danny Too",
+               "Aang174"
+          ],
+          "asal_pengunjung": [
+               "Jakarta",
+               "Padang",
+               "Bukittinggi",
+               "Padang",
+               "Kuala Lumpur",
+               "Yogyakarta",
+               "Padang",
+               "Petaling Jaya",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               3.0,
+               4.0,
+               4.0,
+               4.0,
+               3.0,
+               4.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Jun 2019",
+               "Agt 2019",
+               "Mar 2019",
+               "Des 2017",
+               "Jan 2020",
+               "Okt 2019",
+               "Sep 2018",
+               "Sep 2017",
+               "Apr 2018"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri",
+               "Pasangan",
+               "Teman",
+               "Bisnis",
+               "Keluarga",
+               "Keluarga",
+               "Pasangan",
+               "Pasangan",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 82,
+          "nama_akun_pengunjung": [
+               "Sefanya travel",
+               "Ahmad Fauzan",
+               "mr. ari",
+               "MansyahTanjung",
+               "OkeTravel"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang Pariaman",
+               "Pekanbaru",
+               "Batam",
+               "Riau"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               4.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Jun 2019",
+               "Agt 2019",
+               "Feb 2019",
+               "Sep 2018",
+               "Mar 2018"
+          ],
+          "tipe_kunjungan": [
+               "Bisnis",
+               "Pasangan",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 83,
+          "nama_akun_pengunjung": [
+               "Pasya",
+               "rent car & tour jogja",
+               "mealbatros B",
+               "marioluigiyoshi",
+               "Nila S",
+               "Yrref W"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Yogyakarta",
+               "Medan",
+               "Jakarta",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               3.0,
+               4.0,
+               5.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Apr 2019",
+               "Mar 2019",
+               "Jul 2016",
+               "Mei 2015",
+               "Jul 2014",
+               "Nov 2014"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Bisnis",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 84,
+          "nama_akun_pengunjung": [
+               "evi d",
+               "Rachella Homestay",
+               "Fatimah A",
+               "shafarul i",
+               "Agusti Esden",
+               "Darnel-HDI"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Batusangkar",
+               "Padang",
+               "Bukittinggi",
+               "Tangerang Selatan",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               3.0,
+               5.0,
+               3.0,
+               5.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Des 2019",
+               "Nov 2018",
+               "Agt 2016",
+               "Agt 2015",
+               "Mar 2014",
+               "Jul 2017"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 85,
+          "nama_akun_pengunjung": [
+               "Dizzman",
+               "ida_srini",
+               "shafarul i",
+               "hamdiirza",
+               "Agusti Esden",
+               "645khairula"
+          ],
+          "asal_pengunjung": [
+               "Jakarta",
+               "Padang",
+               "Bukittinggi",
+               "Padang",
+               "Tangerang Selatan",
+               "Kuala Lumpur"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               3.0,
+               4.0,
+               3.0,
+               4.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Nov 2018",
+               "Agt 2016",
+               "Des 2015",
+               "Agt 2014",
+               "Mar 2014",
+               "Mei 2017"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Bisnis"
+          ]
+     },
+     {
+          "peringkat": 86,
+          "nama_akun_pengunjung": [
+               "mr. ari",
+               "tjutjukbs",
+               "Indindmil",
+               "jekysusandi"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Surabaya",
+               "Jakarta",
+               "Kuta"
+          ],
+          "rating_pengunjung": [
+               3.0,
+               4.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Feb 2019",
+               "Feb 2017",
+               "Mei 2016",
+               "Mar 2015"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 87,
+          "nama_akun_pengunjung": [
+               "Pasya",
+               "mr. ari",
+               "Indra R",
+               "Nuurma"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Pekanbaru",
+               "Sumenep",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Apr 2019",
+               "Sep 2018",
+               "Mei 2018",
+               "Mei 2017"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 88,
+          "nama_akun_pengunjung": [
+               "rifa'atul K",
+               "Fatimah A",
+               "Mochram",
+               "muliati"
+          ],
+          "asal_pengunjung": [
+               "Agam",
+               "Padang",
+               "Balikpapan",
+               "Seremban"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Mar 2018",
+               "Agt 2016",
+               "Jan 2015",
+               "Agt 2019"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 89,
+          "nama_akun_pengunjung": [
+               "Valiant Vemby",
+               "Fisra A",
+               "Laut2015",
+               "shafarul i",
+               "dendirahmat"
+          ],
+          "asal_pengunjung": [
+               "Bukittinggi",
+               "Jakarta",
+               "Padang",
+               "Bukittinggi",
+               "Padang Panjang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0,
+               4.0,
+               3.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Agt 2018",
+               "Jul 2016",
+               "Okt 2016",
+               "Des 2015",
+               "Nov 2015"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Sendiri"
+          ]
+     },
+     {
+          "peringkat": 90,
+          "nama_akun_pengunjung": [
+               "sabrina_ho88",
+               "tjutjukbs",
+               "indraamir",
+               "Dikki B.A.",
+               "Fauzan Darmi"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Surabaya",
+               "Jakarta",
+               "Bogor",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0,
+               5.0,
+               4.0,
+               3.0
+          ],
+          "waktu_berkunjung": [
+               "Agt 2016",
+               "Feb 2017",
+               "Okt 2016",
+               "Sep 2016",
+               "Jul 2016"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 91,
+          "nama_akun_pengunjung": [
+               "kk_funky",
+               "tjutjukbs",
+               "hiburansepi",
+               "shafarul i"
+          ],
+          "asal_pengunjung": [
+               "Jakarta",
+               "Surabaya",
+               "Bandung",
+               "Bukittinggi"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Des 2017",
+               "Feb 2017",
+               "Sep 2016",
+               "Nov 2015"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri",
+               "Teman",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 92,
+          "nama_akun_pengunjung": [
+               "imgar",
+               "Dizzman",
+               "ida_srini",
+               "sucyfebriningsih"
+          ],
+          "asal_pengunjung": [
+               "Jakarta",
+               "Jakarta",
+               "Padang",
+               "Pekanbaru"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0,
+               4.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Feb 2020",
+               "Nov 2018",
+               "Agt 2016",
+               "Apr 2016"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 93,
+          "nama_akun_pengunjung": [
+               "Citra F",
+               "Fisra A",
+               "Laut2015",
+               "Agusti Esden"
+          ],
+          "asal_pengunjung": [
+               "Jakarta",
+               "Jakarta",
+               "Padang",
+               "Tangerang Selatan"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               4.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jun 2018",
+               "Jul 2016",
+               "Jun 2015",
+               "Mar 2014"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri",
+               "Teman",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 94,
+          "nama_akun_pengunjung": [
+               "Ryan O",
+               "Kermit Y",
+               "agam12014",
+               "Agusti Esden"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Padang",
+               "Tangerang Selatan"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Jan 2017",
+               "Sep 2016",
+               "Nov 2013",
+               "Mar 2014"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Teman",
+               "Pasangan",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 95,
+          "nama_akun_pengunjung": [
+               "MarvinSitorus"
+          ],
+          "asal_pengunjung": [
+               "Denpasar"
+          ],
+          "rating_pengunjung": [
+               3.0
+          ],
+          "waktu_berkunjung": [
+               "Jun 2015"
+          ],
+          "tipe_kunjungan": [
+               "Pasangan"
+          ]
+     },
+     {
+          "peringkat": 96,
+          "nama_akun_pengunjung": [
+               "Forza"
+          ],
+          "asal_pengunjung": [
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Agt 2019"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 97,
+          "nama_akun_pengunjung": [
+               "Fasta'Iza N"
+          ],
+          "asal_pengunjung": [
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Feb 2017"
+          ],
+          "tipe_kunjungan": [
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 98,
+          "nama_akun_pengunjung": [
+               "OkeTravel",
+               "Asrilwandi"
+          ],
+          "asal_pengunjung": [
+               "Riau",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jan 2018",
+               "Jun 2017"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Bisnis"
+          ]
+     },
+     {
+          "peringkat": 99,
+          "nama_akun_pengunjung": [
+               "Ryan",
+               "OkeTravel",
+               "NurJane11",
+               "becitirta"
+          ],
+          "asal_pengunjung": [
+               "Malang",
+               "Riau",
+               "Padang",
+               "Bandung"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               2.0,
+               5.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Apr 2019",
+               "Mar 2018",
+               "Mar 2017",
+               "Okt 2017"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 100,
+          "nama_akun_pengunjung": [
+               "tjutjukbs",
+               "Aswarizky A",
+               "Asrilwandi"
+          ],
+          "asal_pengunjung": [
+               "Surabaya",
+               "Pariaman",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Feb 2017",
+               "Jan 2016",
+               "Feb 2016"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 101,
+          "nama_akun_pengunjung": [
+               "Sabai-Nan-Aluih"
+          ],
+          "asal_pengunjung": [
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               3.0
+          ],
+          "waktu_berkunjung": [
+               "Jan 2023"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 102,
+          "nama_akun_pengunjung": [
+               "elvinadiah",
+               "Fisra A",
+               "shafarul i",
+               "dendirahmat"
+          ],
+          "asal_pengunjung": [
+               "Depok",
+               "Jakarta",
+               "Bukittinggi",
+               "Padang Panjang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               4.0,
+               3.0
+          ],
+          "waktu_berkunjung": [
+               "Nov 2017",
+               "Jul 2016",
+               "Feb 2016",
+               "Feb 2016"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 103,
+          "nama_akun_pengunjung": [
+               "mr. ari",
+               "Aisah I",
+               "Alfalegro",
+               "tjutjukbs",
+               "M Richan",
+               "Dikki B.A."
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Padang",
+               "Jakarta",
+               "Surabaya",
+               "Padang",
+               "Bogor"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               4.0,
+               4.0,
+               3.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Feb 2019",
+               "Jul 2017",
+               "Apr 2017",
+               "Feb 2017",
+               "Sep 2016",
+               "Agt 2016"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Pasangan",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 104,
+          "nama_akun_pengunjung": [
+               "sucyfebriningsih"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Apr 2016"
+          ],
+          "tipe_kunjungan": [
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 105,
+          "nama_akun_pengunjung": [
+               "rispertani"
+          ],
+          "asal_pengunjung": [
+               "Depok"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jul 2017"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 106,
+          "nama_akun_pengunjung": [
+               "mr. ari",
+               "OkeTravel"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Riau"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Feb 2019",
+               "Mei 2018"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 107,
+          "nama_akun_pengunjung": [
+               "Listia Vidyawat... M",
+               "alghozi"
+          ],
+          "asal_pengunjung": [
+               "Bogor",
+               "Medan"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Jul 2018",
+               "Mar 2018"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 108,
+          "nama_akun_pengunjung": [
+               "shafarul i",
+               "Laurent R",
+               "Agusti Esden"
+          ],
+          "asal_pengunjung": [
+               "Bukittinggi",
+               "Singapura",
+               "Tangerang Selatan"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               3.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Des 2015",
+               "Okt 2015",
+               "Mar 2014"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Pasangan",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 109,
+          "nama_akun_pengunjung": [
+               "tanoe7788",
+               "tjutjukbs",
+               "shafarul i"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Surabaya",
+               "Bukittinggi"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Apr 2017",
+               "Feb 2017",
+               "Jun 2016"
+          ],
+          "tipe_kunjungan": [
+               "Pasangan",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 110,
+          "nama_akun_pengunjung": [
+               "Marcus_Me"
+          ],
+          "asal_pengunjung": [
+               "Budapest"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Nov 2011"
+          ],
+          "tipe_kunjungan": [
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 111,
+          "nama_akun_pengunjung": [
+               "sabrina_ho88"
+          ],
+          "asal_pengunjung": [
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jan 2019"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 112,
+          "nama_akun_pengunjung": [
+               "Kermit Y"
+          ],
+          "asal_pengunjung": [
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Des 2016"
+          ],
+          "tipe_kunjungan": [
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 113,
+          "nama_akun_pengunjung": [
+               "Rahayus101",
+               "tjutjukbs",
+               "eshaple",
+               "shafarul i"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Surabaya",
+               "Medan",
+               "Bukittinggi"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               3.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Apr 2017",
+               "Feb 2017",
+               "Jan 2016",
+               "Mei 2016"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 114,
+          "nama_akun_pengunjung": [
+               "Dikki B.A."
+          ],
+          "asal_pengunjung": [
+               "Bogor"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Sep 2016"
+          ],
+          "tipe_kunjungan": [
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 115,
+          "nama_akun_pengunjung": [
+               "Randi Novendra",
+               "shafarul i",
+               "Ganda S"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Bukittinggi",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               3.0,
+               4.0,
+               3.0
+          ],
+          "waktu_berkunjung": [
+               "Feb 2020",
+               "Feb 2016",
+               "Apr 2016"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 116,
+          "nama_akun_pengunjung": [
+               "Singgah Sebentar Disini",
+               "Rahmaniah_Mardja",
+               "Raouldd",
+               "Csaba F",
+               "Simon",
+               "Monika",
+               "Marie K",
+               "Margo C",
+               "Jan Dokulil"
+          ],
+          "asal_pengunjung": [
+               "Medan",
+               "Padang",
+               "Madrid",
+               "Budapest",
+               "Montreal",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Des 2021",
+               "Des 2017",
+               "Feb 2020",
+               "Okt 2019",
+               "Sep 2019",
+               "Sep 2019",
+               "Agt 2019",
+               "Jul 2019",
+               "Jun 2019"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Sendiri",
+               "Sendiri",
+               "Keluarga",
+               "Pasangan",
+               "Keluarga",
+               "Keluarga",
+               "Pasangan",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 117,
+          "nama_akun_pengunjung": [
+               "mr. ari",
+               "tessarahmadani2"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Pariaman"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Feb 2019",
+               "Mar 2018"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 118,
+          "nama_akun_pengunjung": [
+               "sabrina_ho88"
+          ],
+          "asal_pengunjung": [
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Mar 2019"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 119,
+          "nama_akun_pengunjung": [
+               "Ahmad Fauzan"
+          ],
+          "asal_pengunjung": [
+               "Padang Pariaman"
+          ],
+          "rating_pengunjung": [
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Apr 2019"
+          ],
+          "tipe_kunjungan": [
+               "Pasangan"
+          ]
+     },
+     {
+          "peringkat": 120,
+          "nama_akun_pengunjung": [
+               "Nomad628465",
+               "Nur",
+               "Hajimi Junsei",
+               "Antohokkeh",
+               "Emmi G",
+               "ume",
+               "Abdul K",
+               "Sightseer462373",
+               "Mohammad Alan Abdullah",
+               "Rahidah S"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Singapura"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Nov 2019",
+               "Jul 2019",
+               "Mar 2019",
+               "Sep 2018",
+               "Apr 2015",
+               "Mar 2020",
+               "Jan 2020",
+               "Jan 2020",
+               "Des 2019",
+               "Des 2019"
+          ],
+          "tipe_kunjungan": [
+               "Pasangan",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Pasangan",
+               "Pasangan"
+          ]
+     },
+     {
+          "peringkat": 121,
+          "nama_akun_pengunjung": [
+               "endriano"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru"
+          ],
+          "rating_pengunjung": [
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Jan 2016"
+          ],
+          "tipe_kunjungan": [
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 122,
+          "nama_akun_pengunjung": [
+               "Valiant Vemby",
+               "Looliequeen"
+          ],
+          "asal_pengunjung": [
+               "Bukittinggi",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Sep 2018",
+               "Apr 2018"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 123,
+          "nama_akun_pengunjung": [
+               "Aban Sheer"
+          ],
+          "asal_pengunjung": [
+               "Benggala Barat"
+          ],
+          "rating_pengunjung": [
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Mei 2019"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri"
+          ]
+     },
+     {
+          "peringkat": 124,
+          "nama_akun_pengunjung": [
+               "Fasta'Iza N"
+          ],
+          "asal_pengunjung": [
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Sep 2016"
+          ],
+          "tipe_kunjungan": [
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 125,
+          "nama_akun_pengunjung": [
+               "shafarul i",
+               "sylvandriaprianto"
+          ],
+          "asal_pengunjung": [
+               "Bukittinggi",
+               "Palembang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Des 2015",
+               "Agt 2015"
+          ],
+          "tipe_kunjungan": [
+               "Teman",
+               "Bisnis"
+          ]
+     },
+     {
+          "peringkat": 126,
+          "nama_akun_pengunjung": [
+               "jonialexanderheytsit",
+               "ypudijanto"
+          ],
+          "asal_pengunjung": [
+               "Solok",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Des 2017",
+               "Okt 2017"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri",
+               "Bisnis"
+          ]
+     },
+     {
+          "peringkat": 127,
+          "nama_akun_pengunjung": [
+               "rent car & tour jogja"
+          ],
+          "asal_pengunjung": [
+               "Yogyakarta"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Mar 2019"
+          ],
+          "tipe_kunjungan": [
+               "Bisnis"
+          ]
+     },
+     {
+          "peringkat": 128,
+          "nama_akun_pengunjung": [
+               "Didy Ardiano"
+          ],
+          "asal_pengunjung": [
+               "Palupuh"
+          ],
+          "rating_pengunjung": [
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Jun 2019"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 129,
+          "nama_akun_pengunjung": [
+               "edwardorusfid"
+          ],
+          "asal_pengunjung": [
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Agt 2016"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 130,
+          "nama_akun_pengunjung": [
+               "Aban Sheer"
+          ],
+          "asal_pengunjung": [
+               "Benggala Barat"
+          ],
+          "rating_pengunjung": [
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Mei 2019"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri"
+          ]
+     },
+     {
+          "peringkat": 131,
+          "nama_akun_pengunjung": [
+               "Citra F",
+               "Ping L",
+               "MarSya78"
+          ],
+          "asal_pengunjung": [
+               "Jakarta",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               1.0,
+               2.0
+          ],
+          "waktu_berkunjung": [
+               "Jun 2018",
+               "Apr 2017",
+               "Mar 2016"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Sendiri",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 132,
+          "nama_akun_pengunjung": [
+               "Aban Sheer"
+          ],
+          "asal_pengunjung": [
+               "Benggala Barat"
+          ],
+          "rating_pengunjung": [
+               3.0
+          ],
+          "waktu_berkunjung": [
+               "Mei 2019"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri"
+          ]
+     },
+     {
+          "peringkat": 133,
+          "nama_akun_pengunjung": [
+               "Tunas Karya Aluminium",
+               "Chiquita P",
+               "Sefanya travel",
+               "Dhany Alfaruq",
+               "linda w",
+               "Wihartanto",
+               "YahyaHukmaShabyyan",
+               "ViNasution",
+               "Ahmad Wijaya",
+               "Meyer75"
+          ],
+          "asal_pengunjung": [
+               "Bukittinggi",
+               "Padang",
+               "Padang",
+               "Bukittinggi",
+               "Padang",
+               "Tangerang Selatan",
+               "Kuta",
+               "Padang",
+               "Padang",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0,
+               5.0,
+               3.0,
+               3.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               3.0
+          ],
+          "waktu_berkunjung": [
+               "Jul 2019",
+               "Jul 2019",
+               "Okt 2018",
+               "Des 2018",
+               "Nov 2017",
+               "Okt 2017",
+               "Apr 2018",
+               "Jan 2018",
+               "Des 2017",
+               "Mar 2017"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Sendiri",
+               "Keluarga",
+               "Teman",
+               "Pasangan",
+               "Keluarga",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 134,
+          "nama_akun_pengunjung": [
+               "tjutjukbs"
+          ],
+          "asal_pengunjung": [
+               "Surabaya"
+          ],
+          "rating_pengunjung": [
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Feb 2017"
+          ],
+          "tipe_kunjungan": [
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 135,
+          "nama_akun_pengunjung": [
+               "Ozzi Rahmadeni",
+               "Antohokkeh",
+               "rasbens",
+               "jxbars",
+               "eastcoastrod0218",
+               "NickoSilfido",
+               "senandoah",
+               "Jon S",
+               "danaJ41",
+               "Isaure D"
+          ],
+          "asal_pengunjung": [
+               "Bukittinggi",
+               "Padang",
+               "Padang",
+               "Denpasar",
+               "Singapura",
+               "Jakarta",
+               "Padang",
+               "Jakarta",
+               "Amersfoort",
+               "Paris"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               5.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Mei 2018",
+               "Jan 2018",
+               "Mei 2016",
+               "Jan 2016",
+               "Jan 2023",
+               "Agt 2014",
+               "Mar 2014",
+               "Jan 2020",
+               "Agt 2019",
+               "Agt 2019"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Pasangan",
+               "Pasangan",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 136,
+          "nama_akun_pengunjung": [
+               "Ozzi Rahmadeni",
+               "ronip2014",
+               "Hana",
+               "Kirstennfp",
+               "Edita",
+               "Nina Maria W",
+               "Fraser",
+               "LoubLou21",
+               "mideboer03",
+               "Ceri-Cherry"
+          ],
+          "asal_pengunjung": [
+               "Bukittinggi",
+               "Padang",
+               "Pulau Penang",
+               "Grindsted",
+               "Padang",
+               "Kempten",
+               "Padang",
+               "Huddersfield",
+               "Amsterdam",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               4.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jul 2018",
+               "Jan 2023",
+               "Agt 2019",
+               "Mar 2019",
+               "Mar 2019",
+               "Mar 2019",
+               "Feb 2019",
+               "Jan 2019",
+               "Sep 2018",
+               "Okt 2018"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Pasangan",
+               "Pasangan",
+               "Teman",
+               "Teman",
+               "Teman",
+               "Pasangan",
+               "Pasangan",
+               "Sendiri"
+          ]
+     },
+     {
+          "peringkat": 137,
+          "nama_akun_pengunjung": [
+               "Antohokkeh",
+               "Jantje1988",
+               "cecile",
+               "Safe and Healthy Travel",
+               "Marion",
+               "Kinga S",
+               "Sara",
+               "gladys160",
+               "raksaka",
+               "Chris"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Padang",
+               "Hellendoorn",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Sep 2018",
+               "Nov 2019",
+               "Okt 2019",
+               "Okt 2019",
+               "Sep 2019",
+               "Jul 2019",
+               "Agt 2019",
+               "Jul 2019",
+               "Jun 2019",
+               "Mei 2019"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri",
+               "Teman",
+               "Keluarga",
+               "Sendiri",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 138,
+          "nama_akun_pengunjung": [
+               "Pasya",
+               "Forza",
+               "Anida_Krisstini",
+               "Waskito T",
+               "shafarul i",
+               "dendirahmat",
+               "Jacques V",
+               "TipsOfConcierge",
+               "Elisse",
+               "ASukadis"
+          ],
+          "asal_pengunjung": [
+               "Pekanbaru",
+               "Padang",
+               "Padang",
+               "Johor Bahru",
+               "Bukittinggi",
+               "Padang Panjang",
+               "Antwerpen",
+               "Manila",
+               "Padang",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0,
+               3.0,
+               5.0,
+               4.0,
+               4.0,
+               5.0,
+               5.0,
+               4.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Apr 2019",
+               "Apr 2018",
+               "Sep 2016",
+               "Mar 2016",
+               "Mei 2015",
+               "Mei 2015",
+               "Nov 2019",
+               "Sep 2017",
+               "Nov 2016",
+               "Des 2015"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Keluarga",
+               "Pasangan",
+               "Teman",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 139,
+          "nama_akun_pengunjung": [
+               "Lisbet_310183",
+               "Antohokkeh",
+               "Syifa F",
+               "Excursion710027",
+               "Meyer75",
+               "Junidarmanto",
+               "Y. Tri Herwanto",
+               "huzaifi",
+               "hendra",
+               "Basri Adhi"
+          ],
+          "asal_pengunjung": [
+               "Depok",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Jakarta",
+               "Tangerang Selatan",
+               "Jakarta",
+               "Tangerang Selatan",
+               "Palembang",
+               "Bogor"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               4.0,
+               1.0,
+               3.0,
+               3.0,
+               4.0,
+               4.0,
+               3.0,
+               3.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Okt 2018",
+               "Sep 2018",
+               "Sep 2018",
+               "Mei 2017",
+               "Mar 2017",
+               "Jul 2016",
+               "Sep 2016",
+               "Jul 2016",
+               "Jul 2016",
+               "Jul 2016"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri",
+               "Sendiri",
+               "Keluarga",
+               "Sendiri",
+               "Teman",
+               "Sendiri",
+               "Teman",
+               "Bisnis",
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 140,
+          "nama_akun_pengunjung": [
+               "anak rantau",
+               "Kermit Y",
+               "Fasta'Iza N"
+          ],
+          "asal_pengunjung": [
+               "Banda Aceh",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Mei 2019",
+               "Des 2016",
+               "Jul 2016"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 141,
+          "nama_akun_pengunjung": [
+               "Vivyanti"
+          ],
+          "asal_pengunjung": [
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Sep 2014"
+          ],
+          "tipe_kunjungan": [
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 142,
+          "nama_akun_pengunjung": [
+               "nina hasyim",
+               "Sefanya travel",
+               "Andri",
+               "Racohel",
+               "Kathleen C"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Padang",
+               "Bellingen",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               1.0,
+               5.0,
+               1.0,
+               2.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Nov 2020",
+               "Nov 2019",
+               "Apr 2019",
+               "Feb 2018",
+               "Des 2017"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri",
+               "Keluarga",
+               "Bisnis",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 143,
+          "nama_akun_pengunjung": [
+               "Sefanya travel"
+          ],
+          "asal_pengunjung": [
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jul 2019"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri"
+          ]
+     },
+     {
+          "peringkat": 144,
+          "nama_akun_pengunjung": [
+               "anak rantau",
+               "Kermit Y",
+               "mia permata",
+               "Fasta'Iza N"
+          ],
+          "asal_pengunjung": [
+               "Banda Aceh",
+               "Padang",
+               "Jakarta",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               3.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Mei 2019",
+               "Jan 2017",
+               "Jun 2018",
+               "Okt 2016"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Sendiri"
+          ]
+     },
+     {
+          "peringkat": 145,
+          "nama_akun_pengunjung": [
+               "PoetZ"
+          ],
+          "asal_pengunjung": [
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Agt 2016"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 146,
+          "nama_akun_pengunjung": [
+               "irwan idris",
+               "Satrio B",
+               "BangkokLoft",
+               "zarikh z",
+               "David o",
+               "Fasta'Iza N"
+          ],
+          "asal_pengunjung": [
+               "Bukittinggi",
+               "Padang",
+               "Yeovil",
+               "Padang",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               3.0,
+               5.0,
+               3.0,
+               3.0,
+               4.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Sep 2016",
+               "Mei 2016",
+               "Agt 2018",
+               "Feb 2017",
+               "Des 2016",
+               "Okt 2016"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Pasangan",
+               "Teman",
+               "Keluarga",
+               "Bisnis"
+          ]
+     },
+     {
+          "peringkat": 147,
+          "nama_akun_pengunjung": [
+               "Rini",
+               "Nanny V",
+               "Sylvie D",
+               "DamienLienART",
+               "Marieke R",
+               "Dreamer37651215239",
+               "ZelManan",
+               "MONNET S",
+               "Torgane",
+               "claire6"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Arnhem",
+               "Kuala Lumpur",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Des 2019",
+               "Agt 2017",
+               "Agt 2019",
+               "Agt 2019",
+               "Jul 2019",
+               "Sep 2018",
+               "Feb 2019",
+               "Okt 2018",
+               "Mar 2018",
+               "Mar 2018"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Pasangan",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 148,
+          "nama_akun_pengunjung": [
+               "Mike J",
+               "Margaux M",
+               "Sarah johns"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jan 2023",
+               "Jul 2019",
+               "Jul 2019"
+          ],
+          "tipe_kunjungan": [
+               "Pasangan",
+               "Keluarga",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 149,
+          "nama_akun_pengunjung": [
+               "azah A"
+          ],
+          "asal_pengunjung": [
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               2.0
+          ],
+          "waktu_berkunjung": [
+               "Agt 2017"
+          ],
+          "tipe_kunjungan": [
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 150,
+          "nama_akun_pengunjung": [
+               "70ava"
+          ],
+          "asal_pengunjung": [
+               "Beijing"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jun 2023"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 151,
+          "nama_akun_pengunjung": [
+               "Nofri delni",
+               "Tio",
+               "Zonel",
+               "Ghiwen",
+               "Putra",
+               "Andre willy",
+               "Reza Sri Wahyuni",
+               "Syahju pandrizal",
+               "Raif",
+               "Arie Elang Lembah"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               3.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Nov 2021",
+               "Nov 2021",
+               "Nov 2021",
+               "Feb 2021",
+               "Jun 2021",
+               "Mei 2021",
+               "Jun 2021",
+               "Jul 2020",
+               "Jun 2021",
+               "Agt 2020"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Teman",
+               "Pasangan",
+               "Pasangan",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Pasangan",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 152,
+          "nama_akun_pengunjung": [
+               "Travel771124",
+               "David N",
+               "kahfi f",
+               "goodgrief1960",
+               "TessaB01"
+          ],
+          "asal_pengunjung": [
+               "Payakumbuh",
+               "Padang",
+               "Padang",
+               "Bridgwater",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Mei 2018",
+               "Nov 2017",
+               "Mei 2017",
+               "Feb 2016",
+               "Okt 2016"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Pasangan",
+               "Bisnis",
+               "Pasangan",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 153,
+          "nama_akun_pengunjung": [
+               "Akiko N",
+               "Antohokkeh",
+               "ritha s",
+               "louisemr17",
+               "wisnu f",
+               "ojie l",
+               "farta p",
+               "Indah P",
+               "Yuliza D",
+               "indraamir"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Padang",
+               "Padang",
+               "Jakarta",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Jakarta"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               4.0,
+               5.0,
+               4.0,
+               5.0,
+               5.0,
+               5.0,
+               4.0,
+               5.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Des 2021",
+               "Sep 2018",
+               "Okt 2017",
+               "Okt 2017",
+               "Okt 2017",
+               "Jul 2016",
+               "Mar 2017",
+               "Jan 2017",
+               "Mar 2017",
+               "Apr 2016"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri",
+               "Bisnis",
+               "Teman",
+               "Teman",
+               "Bisnis",
+               "Keluarga",
+               "Sendiri",
+               "Keluarga",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 154,
+          "nama_akun_pengunjung": [
+               "Seon",
+               "uta_germany",
+               "Wahyu Bajok",
+               "Nicholas"
+          ],
+          "asal_pengunjung": [
+               "Namyangju",
+               "Padang",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jan 2023",
+               "Mei 2019",
+               "Mei 2019",
+               "Sep 2019"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Sendiri",
+               "Sendiri",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 155,
+          "nama_akun_pengunjung": [
+               "Naim G",
+               "Shamimi23",
+               "Shamimi",
+               "LeendaKrill",
+               "Azura I",
+               "SitiMusa",
+               "Hana",
+               "Vijay S",
+               "Kai Qian",
+               "Rita W"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Singapura",
+               "Padang",
+               "Cyberjaya",
+               "Padang",
+               "Australia Barat",
+               "Pulau Penang",
+               "Padang",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               4.0,
+               5.0,
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Mar 2022",
+               "Des 2019",
+               "Des 2019",
+               "Okt 2019",
+               "Okt 2019",
+               "Sep 2019",
+               "Agt 2019",
+               "Agt 2019",
+               "Agt 2019",
+               "Agt 2019"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Teman",
+               "Keluarga",
+               "Pasangan",
+               "Keluarga",
+               "Sendiri",
+               "Pasangan"
+          ]
+     },
+     {
+          "peringkat": 156,
+          "nama_akun_pengunjung": [
+               "Elizamurray92",
+               "Coal Coast Movement"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Thirroul"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Feb 2020",
+               "Apr 2020"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 157,
+          "nama_akun_pengunjung": [
+               "Hatikasih"
+          ],
+          "asal_pengunjung": [
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               4.0
+          ],
+          "waktu_berkunjung": [
+               "Des 2013"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri"
+          ]
+     },
+     {
+          "peringkat": 158,
+          "nama_akun_pengunjung": [
+               "Easy Holiday Tour Travel Management",
+               "Rahayu F",
+               "Catherine Gallo",
+               "Reka",
+               "Monica A"
+          ],
+          "asal_pengunjung": [
+               "Bukittinggi",
+               "Padang",
+               "Padang",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0,
+               5.0,
+               5.0,
+               5.0,
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jun 2022",
+               "Jun 2022",
+               "Feb 2020",
+               "Jul 2019",
+               "Feb 2020"
+          ],
+          "tipe_kunjungan": [
+               "Bisnis",
+               "Sendiri",
+               "Pasangan",
+               "Sendiri",
+               "Sendiri"
+          ]
+     },
+     {
+          "peringkat": 159,
+          "nama_akun_pengunjung": [
+               "Claris Lee W"
+          ],
+          "asal_pengunjung": [
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jan 2023"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 160,
+          "nama_akun_pengunjung": [
+               "Sella Chalia"
+          ],
+          "asal_pengunjung": [
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Okt 2018"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 161,
+          "nama_akun_pengunjung": [
+               "Janelle O"
+          ],
+          "asal_pengunjung": [
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jan 2023"
+          ],
+          "tipe_kunjungan": [
+               "Sendiri"
+          ]
+     },
+     {
+          "peringkat": 162,
+          "nama_akun_pengunjung": [
+               "nikki088"
+          ],
+          "asal_pengunjung": [
+               "Thirroul"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Mar 2019"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga"
+          ]
+     },
+     {
+          "peringkat": 163,
+          "nama_akun_pengunjung": [
+               "roby",
+               "Valiant Vemby",
+               "Forza",
+               "hkrishna2014"
+          ],
+          "asal_pengunjung": [
+               "Padang",
+               "Bukittinggi",
+               "Padang",
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               4.0,
+               3.0,
+               3.0,
+               3.0
+          ],
+          "waktu_berkunjung": [
+               "Jan 2019",
+               "Apr 2019",
+               "Okt 2018",
+               "Des 2018"
+          ],
+          "tipe_kunjungan": [
+               "Keluarga",
+               "Keluarga",
+               "Teman",
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 164,
+          "nama_akun_pengunjung": [
+               "Fauziah Ibrahim"
+          ],
+          "asal_pengunjung": [
+               "Kuala Lumpur"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Mar 2020"
+          ],
+          "tipe_kunjungan": [
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 165,
+          "nama_akun_pengunjung": [
+               "Naufal"
+          ],
+          "asal_pengunjung": [
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Jul 2019"
+          ],
+          "tipe_kunjungan": [
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 166,
+          "nama_akun_pengunjung": [
+               "imam"
+          ],
+          "asal_pengunjung": [
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               5.0
+          ],
+          "waktu_berkunjung": [
+               "Mar 2022"
+          ],
+          "tipe_kunjungan": [
+               "Teman"
+          ]
+     },
+     {
+          "peringkat": 167,
+          "nama_akun_pengunjung": [
+               "Reily S"
+          ],
+          "asal_pengunjung": [
+               "Padang"
+          ],
+          "rating_pengunjung": [
+               2.0
+          ],
+          "waktu_berkunjung": [
+               "Okt 2018"
+          ],
+          "tipe_kunjungan": [
+               "Teman"
+          ]
+     }
+]
