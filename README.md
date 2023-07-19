@@ -218,7 +218,7 @@ Hubungan Antar Entitas:
 ####  Relational Diagram
 Berikut adalah diagram relasional yang menggambarkan tabel-tabel yang akan dibuat:
 
-![Relational Diagram](Data%20Storing/design/Relational_Diagram_Dragon_City.png)
+![Relational Diagram](Data%20Storing/design/Diagram_Relasional_Dragon_City.png)
 
 1. Dragon:
     - id_dragon (Primary Key)
@@ -341,7 +341,7 @@ GROUP BY dr.id_dragon;
 
 Berikut adalah hasil query untuk mencari naga dengan info lengkap berdasarkan id atau nama naga
 
-![Query Find Dragon](Data%20Storing/screenshot/query_info_dragon_by_id.pngpng)
+![Query Find Dragon](Data%20Storing/screenshot/query_info_dragon_by_id.png)
 
 Seperti yang kita lihat pada gambar di atas, query tersebut menghasilkan info lengkap dari naga dengan id 1, yaitu naga Nature Dragon. Jika anda ingin mengquery berdasarkan nama naga, anda dapat mengganti `dr.id_dragon = <dragon_id>` dengan `dr.dragon_name = <dragon_name>`.
 
