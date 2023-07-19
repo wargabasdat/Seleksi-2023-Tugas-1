@@ -6,9 +6,9 @@
 </h1>
 
 ## Description of Data and DBMS
-Data diambil dari laman web https://www.dbl.id khususnya __*Season 2022 East Java Series North Region Group Stage to Final*__. Laman web DBL berisi data statistik hasil pertandingan DBL, pemain, dan sekolah di seluruh *region*. Saya memilih untuk melakukan *scraping* web ini karena melihat data-data yang disediakan dalam web tersebut, analisis dapat dilakukan untuk menemukan semua kelemahan dan kekuatan dari tiap sekolah dan pemain sehingga dapat menentukan strategi yang tepat ketika melawan sekolah-sekolah tersebut.
+Data diambil dari laman web https://www.dbl.id khususnya __*Season 2022 East Java Series North Region Group Stage to Final*__. Laman web DBL berisi data statistik hasil pertandingan DBL, pemain, dan sekolah di seluruh *region*. Saya memilih untuk melakukan *scraping* web ini karena melihat data-data yang disediakan dalam web tersebut, analisis dapat dilakukan untuk menemukan semua kelemahan maupun kekuatan dari tiap sekolah dan pemain sehingga dapat menentukan strategi yang tepat ketika melawan sekolah-sekolah tersebut.
 
-DBMS yang digunakan adalah __PostgreSQL__. Alasan penggunaan PostgreSQL karena merupakan *database* relasional dan kompatibilitas dengan __python__ yang dalam *repository* ini digunakan untuk melakukan *data scraping*.
+DBMS yang digunakan adalah __PostgreSQL__. Alasan penggunaan PostgreSQL karena merupakan *database* relasional dan memiliki kompatibilitas dengan __python__ yang dalam *repository* ini digunakan untuk melakukan *data scraping* serta mudah untuk digunakan.
 
 ## Specification of the program
 Program untuk melakukan *data scraping* dan *data storing* ditulis menggunakan bahasa pemrograman __Python__ dengan beberapa library:
@@ -36,7 +36,7 @@ Program untuk melakukan *data scraping* dan *data storing* ditulis menggunakan b
 5. *create database* terlebih dahulu di __PostgreSQL__. Ganti nama __database, user, dan password yang sesuai__ pada file __store.py__.
 6. Jalankan program dengan mengetikkan __python3 store.py__ pada CMD
 
-## JSON Structure
+## JSON Structure {#JSON-structure}
 Contoh *instance* data JSON:
 ```
 { "school": [
@@ -160,6 +160,49 @@ Setelah pemetaan *Entity-Relationship Diagram*, didapatkan *Relational Diagram* 
 </div>
 
 ## Screenshot program
+Berikut merupakan beberapa *screenshot* program beserta penjelasannya.  
+Website yang digunakan:
+<div align=center>
+  <img src=>
+</div>
+
+### Data Scraping
+Dalam 1 *season*, terdapat beberapa games yang dipisahkan dalam beberapa hari dan hari dipisahkan menggunakan *button* yang ketika diklik akan mengarahkan ke *page website* yang lain. Maka dari itu, dilakukan penyimpanan link url untuk setiap hari yang tercatat serta link url *game detail* untuk setiap *match* yang dilaksanakan pada hari itu.  
+<div style="display: flex; justify-content: center;">
+  <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/ss_scraping_link_day.jpg width=510>
+  <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/ss_scraping_urlgame.jpg width=450>
+</div>
+
+Sebelum melakukan *scraping*, dibuat fungsi untuk melakukan *data cleaning* sehingga data yang didapatkan bersih dan tidak ada *null value* maupun data yang redundan
+<div align=center>
+  <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/ss_scraping_data_cleaning.jpg width=400>
+</div>
+  
+Setelah itu, dilakukan iterasi untuk setiap *match* yang dilaksanakan. Website menggunakan button yang harus diklik untuk melihat *summary* dan *boxscore* dari tiap team. Dilakukan *scraping* untuk mendapatkan informasi umum tentang *match* dan *summary* yang merupakan tampilan *default* setelah link dibuka untuk mendapatkan statistik team. Kemudian, dilakukan klik pada *button boxscore* terlebih dahulu. Teamm A merupakan *default* tampilan setelah *button* diklik, kemudian dilakukan *scraping* terhadap statistik pemain team A. Setelah itu, dilakukan klik pada button *team B* untuk melakukan *scraping* statistik pemain team B.
+<div align=center>
+  <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/ss_scraping_team.jpg width=500>
+</div>
+  
+Lalu, dilakukan *scraping* untuk mendapatkan data umum sekolah. Link telah didapatkan dari *scraping game detail* yang sebelumnya.
+<div align=center>
+  <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/ss_scraping_school.jpg width=500>
+</div>
+
+Seluruh hasil *scraping* diletakkan di dalam list yang telah dideklarasikan sebelumnya. Setelah *scraping* selesai, hasil akan dimasukkan ke file .json 
+<div align=center>
+  <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/ss_scraping_export_json.jpg width=500>
+</div>
+
+### Data Storing
+Dilakukan perintah *create table* terlebih dahulu di awal program sesuai dengan diagram relasional yang telah dibuat.
+<div align=center>
+  <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/ss_storing_create_table.jpg width=600>
+</div>
+
+Setelah itu, dilakukan perintah *insert value* untuk memindahkan seluruh isi dari file .json ke dalam *database*
+<div align=center>
+  <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/ss_storing_insert_data.jpg width=600>
+</div>
 
 ## Reference 
 1. [Website DBL](https://www.dbl.id/)
