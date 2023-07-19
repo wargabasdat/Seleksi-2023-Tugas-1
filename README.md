@@ -25,7 +25,7 @@ In these times of globalization, electronic products are considered to be top-se
 </div>
 
 The data will be scrapped and then preprocessed with the steps of **Data Cleaning** and **Data Transformation**. All the preprocessed steps is done using **pandas** and **numpy** in Python programming language. After the data is preprocessed, the data will be stored in a RDBMS using MySQL. 
-This exporting steps are done with the **mysql.connector** libraries in Python programming language. First thing first, I initially chose PostgreSQl as the RDBMS. But unfortunately, the PostgreSQL installation got somekind of error and did not seem to be working. Therefore, I changed the chosen RDMS to MySQL since I have already installed it for the long time. In addition, I believe that MySQL is sufficiently well-known to be used for data storing.
+This exporting steps are done with the **mysql.connector** library in Python programming language. First thing first, I initially chose PostgreSQl as the RDBMS. But unfortunately, the PostgreSQL installation got somekind of error and did not seem to be working. Therefore, I changed the chosen RDMS to MySQL since I have already installed it for the long time. In addition, I believe that MySQL is sufficiently well-known to be used for data storing.
 
 ## **Program Specification**
 The program specification that I used in order to develop the programs are displayed as below:
@@ -45,8 +45,21 @@ Scraped data is stored inside `Data Scraping/data/data.json`. The explanation of
 
 ```
 JSON Structure
+
+// orient = `index`
 {
     <Dataframe Index> : {
+        <Attribute 1> : <Value 1>,
+        <Attribute 2> : <Value 2>,
+        .
+        .
+        <Attribute n> : <Value n>
+    },
+}
+
+// orient = `records`
+{
+    {
         <Attribute 1> : <Value 1>,
         <Attribute 2> : <Value 2>,
         .
@@ -76,45 +89,55 @@ JSON Structure
 }
 ```
 
-After the preprocessing steps, considering the readable aspect, the data will be stored in three seperate `.json` file inside the `Data Scraping/data` folder, which are `data_price.json`, `data_product.json`, and `data_shipment.json`. The explanation of each attributes is displayed as below:
+After the preprocessing steps, considering the readable aspect, the data will be stored in four seperate `.json` file inside the `Data Scraping/data` folder, which are `data_payment.json`, `data_price.json`, `data_product.json`, and `data_shipment.json`. The explanation of each attributes is displayed as below:
 
-### *data_product.json*
+### *data_payment.json*
 ```json
-{
-  "0":{
-    "listing_id":354907151520,
-    "title":"Microsoft 13\" Surface Pro 8 (i5, 8GB RAM, 256GB SSD, Graphite) with Surface Pen",
-    "type":"Laptops & Netbooks",
-    "available":"Limited quantity ",
-    "sold":1,
-    "return":"30 days ",
-    "seller":"Always Deals Store",
-    "condition":"New"
+[
+  {
+    "listing_id":"333563280818",
+    "method":"PayPal"
   },
-}
+]
 ```
 
 ### *data_price.json*
 ```json
-{
-  "0":{
-    "price_original_currency":"US $",
-    "price_original_value":669.99,
-    "price_idr":9999850.75
+[
+  {
+    "price_original_currency":"EUR ",
+    "price_original_value":239.99,
+    "price_idr":4026996.3799999999
   },
-}
+]
+```
+
+### *data_product.json*
+```json
+[
+  {
+    "listing_id":333563280818,
+    "title":"CHUWI Laptop HeroBook GemiBook CoreBook Pro\/Plus\/X Intel Core Laptop Windows",
+    "type":"Laptops & Netbooks",
+    "available":"2 ",
+    "sold":32,
+    "return":"30 days ",
+    "seller":"CHUWI Official Store\uff08chuwi2018\uff09",
+    "condition":"New"
+  },
+]
 ```
 
 ### *data_shipment.json*
 ```json
-{
-  "0":{
+[
+  {
     "shipping_availability":true,
-    "shipping_price_currency":"US $",
-    "shipping_price_value":54.46,
-    "shipping_location":"Avenel, New Jersey, United States"
+    "shipping_price_currency":null,
+    "shipping_price_value":0.0,
+    "shipping_location":null
   },
-}
+]
 ```
 
 ## **Database Structure**
@@ -136,7 +159,6 @@ After the preprocessing steps, considering the readable aspect, the data will be
 
 
 ## **Author**
-
 | Name | Student ID |
 |--------|--------------|
 | Juan Christopher Santoso | 13521116 |
