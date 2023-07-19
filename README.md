@@ -1,101 +1,150 @@
 <h1 align="center">
   <br>
-  Seleksi Warga Basdat 2023
+  Seleksi Warga Basdat 2023 : Scraping Top 100 TV Series IMDB
   <br>
   <br>
 </h1>
 
-<h2 align="center">
-  <br>
-  Data Scraping, Database Modelling & Data Storing
-  <br>
-  <br>
-</h2>
+# Data & DBMS Description 
+Pada tugas seleksi Warga Basdat kali ini, saya memilih untuk melakukan data scraping pada website IMDB, terutama pada bagian Top 100 TV Series karena tidak bisa dipungkiri bahwa akhir-akhir ini, TV Series sangat populer dan diminati oleh banyak orang. Adapun data yang saya peroleh adalah ranking penilaian TV Series, Judul, Tahun dimulai dan selesai, durasi per episode, genre dari TV Series tersebut, rating yang diberikan oleh para pengguna IMDB, jumlah votes yang membentuk rating tersebut, deskripsi yang menceritakan garis besar dari TV Series tersebut, dan nama aktor utama yang ada pada TV Series tersebut.
 
+# Spesifikasi Program
+Pada proses data scraping, saya menggunakan Jupyter notebook dengan beberapa library, yaitu panda untuk membuat dataframe, requests untuk memastikan bahwa saya bisa mengirim request ke URL yang akan diakses, dan menggunakan beautifulSoup untuk melakukan pengambilan konten pada bentuk HTML untuk mendapatkan data yang diinginkan. Untuk membuat database dan melakukan penyimpanan data scraping, saya menggunakan python dengan library psycopg2 untuk membuka koneksi dengan  database postgreSQL yang digunakan. Pemindahan data scraping ke database postgreSQL dilakukan dengan mengakses file json yang dihasilkan dari data scraping, dan melakukan insert ke table yang telah dibuat. Alasan saya menggunakan postgreSQL sebagai DBMS adalah stabil, dan ia dapat memenuhi kebutuhan data yang harus mengikuti ACID, yang dapat memastikan integritas data.  
 
-## Spesifikasi
-
-### Data Scraping
-
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
-
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
-
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
-
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
-
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
+# How to Use
+## Data Scraping
+1. Install library yang akan digunakan
 ```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
+pip install bs4
+pip install pandas
+```
+2. Buka Scraping.ipynb yang dapat diakses di
+```
+Data Scraping/src/Scraping.ipynb
+```
+3. Run seluruh kode, dan ubah filepath menjadi path yang diinginkan, file finaldata.json akan tersimpan di path yang telah dipilih
+
+## Open SQL file
+1. Download file sql di 
+```
+Data Storing/export/tvseries.sql
+```
+2. Buka terminal, run prompt berikut
+ ```
+psql -U your_username -d your_database -h your_host -p your_port
+```
+4. Setelah itu, masukkan command berikut
+```
+\i tv_series.sql
+```
+# Json Structure
+```
+{
+    "Rank":"Rank di IMDB",
+    "TV Series Title":"Judul",
+    "Year Started":"Tahun dimulai",
+    "Year Ended":"Tahun Selesai",
+    "Duration":"Durasi dalam menit",
+    "Genres":[ "Genre TV Series"],
+    "Rating":"Rating dalam skala 10",
+    "Votes":"Jumlah Votes",
+    "Description":"Deskripsi",
+    "Actors":["Nama Aktor"]
+  }
 ```
 
-### Database Modelling & Data Storing
+Contoh salah satu record data
+```
+{
+    "Rank":"1",
+    "TV Series Title":"The Witcher",
+    "Year Started":"2019",
+    "Year Ended":"Present",
+    "Duration":"60",
+    "Genres":[
+      "Action",
+      " Adventure",
+      " Drama"
+    ],
+    "Rating":"8.1",
+    "Votes":"532,263",
+    "Description":"Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+    "Actors":[
+      "Henry Cavill",
+      " Freya Allan",
+      " Anya Chalotra",
+      " Eamon Farren"
+    ]
+  }
+```
+# Database Structure
+Dari Entity Relationship Diagram,
+![ERD](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ERD.png)
+Terdapat beberapa entity yang dikembangkan dari data TV Series, yaitu user, karakter, episode, dan studio.
 
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
+Berikut daftar relation yang ada pada diagram tersebut : 
+1. User many to many dengan TV Series karena satu user dapat melakukan rating pada banyak tv series, dan sebaliknya, dengan atribut rating yang ada setiap user melakukan rating terhadap tv series
+2. TV series many to one partial dengan studio, karena terdapat tv series yang tidak diproduksi oleh suatu studio
+3. TV series memiliki relation one to many dengan episodes, dimana episode merupakan weak entity yang hanya ada ketika tv series ada
+4. TV series many to one total dengana characters, karena suatu karakter yang ada pasti berasal dari TV series, tetapi sebuah TV series tidak harus memiliki karakter.
+5. Character - Cast memiliki relation one-to one dengan asumsi bahwa suatu karakter pada suatu TV Series hanya diperankan oleh satu aktor.
    
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
+Di translasikan jadi Relational Diagram
+![Relational Diagram](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Relational.png)
 
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
+# Translation Process
+1. Many to one - primary key one ditaruh di many
+![1](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translation%201.png)
+2. TV Series - Char : One to many
+Char - Casts : One to One
+![2](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translation%202.png)
+3. User - TV Series : Many to many
+Dibuat entity baru berupa rating yang memiiliki primary key keduanya beserta beberapa atribut tambahan
+![3](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translation%203.png)
+4. Episode - TV Series : Many to one, primary key tv series ditaruh di episode
+![4](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translation%204.png)
 
-4. Tools yang digunakan __dibebaskan__ pada peserta.
+# Program Snippets
+Tampilan singkat program yang digunakan,
 
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
+## Scraping
+- Import Library, Create Attribute Names
+![1](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Import%20Library%2C%20Create%20Attribute%20Names.png)
+- Scraping, Iterating through the page
+![2](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Scraping%2C%20Iterating%20through%20the%20page.png)
+- Dataframe
+![3](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Dataframe.png)
+- Data preview using pandas
+![4](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Data%20preview%20using%20pandas.png)
+- Checking Null Datas
+![5](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Checking%20Null%20Datas.png)
+- Ensure TV Series Title Unique, and no rank is duplicate
+![6](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Ensure%20TV%20Series%20Title%20Unique%2C%20and%20no%20rank%20is%20duplicate.png)
+- Export data to json and csv
+![7](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Export%20data%20to%20json%20and%20csv.png)
 
+## Storing
+- Import Library & Open connection with PostgreSQL 
+![1](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Import%20Library%20%26%20Open%20connection%20with%20PostgreSQL.png)
+- Creating tables
+![2](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Creating%20TABLES.png)
+- Executing Create Queries
+![3](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Executing%20Create%20Queries.png)
+- Input data from json to created tables
+![4](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Input%20data%20from%20json%20to%20created%20tables.png)
+- Close connection and commit data, mengecek apakah aktor sudah dimasukan satu per-satu, bukan list
+![5](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Close%20connection%20and%20commit%20data.png)
+- Tables information in database
+![6](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Tables%20information%20in%20database.png)
+- Check insert done
+![7](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Check%20insert%20done.png)
 
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
-
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
-
-### Pengumpulan
-
-
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
-
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
-
+# Library
+1. Beatuifulsoup
+2. Pandas
+3. Referensi menggunakan python postgreSQL https://www.tutorialspoint.com/python_data_access/python_postgresql_create_database.htm
 
 ```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
+by Farah Khairana Haniifah
+18221139
 ```
-
-
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
-
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
-
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
-<br>
