@@ -123,8 +123,7 @@ Berikut adalah struktur JSON yang dihasilkan oleh program:
       "Flame",
       "Ice"
     ]
-  },
-  // Data naga lainnya...
+  }.
 ]
 ```
 Struktur JSON di atas menggambarkan data naga yang diperoleh dari scraping. Setiap objek naga memiliki properti-properti seperti name (nama naga), breed_time (waktu pembiakan), buy_price (harga beli), hatch_time (waktu penetasan), breedable (dapat dipiara), hatch_xp (XP saat menetaskan), description (deskripsi naga), base_moves (serangan dasar), trainable_attacks (serangan yang dapat dilatih), strengths (kekuatan), dan weaknesses (kelemahan).
@@ -148,6 +147,7 @@ Berikut adalah diagram relasional yang menggambarkan tabel-tabel yang akan dibua
 
 Entitas : 
   1. Dragon
+
     - id_dragon
     - dragon_name
     - breed_time
@@ -156,10 +156,14 @@ Entitas :
     - breedable
     - hatch_xp
     - description
+
   2. Element
+
     - id_element
     - element_name
+
   3. Trainable_Attack
+
     - id_trainable_attack
     - trainable_attack_name
     - trainable_attack_type
@@ -180,20 +184,30 @@ Hubungan Antar Entitas:
     - Satu elemen dapat dimiliki oleh banyak naga
 
   2. Dragon_Strength (Many-to-Many)
+
     - Setiap naga dapat memiliki banyak kekuatan
     - Setiap kekuatan dapat dimiliki oleh banyak naga
+
   3. Dragon_Weakness (Many-to-Many)
+
     - Setiap naga dapat memiliki banyak kelemahan
     - Setiap kelemahan dapat dimiliki oleh banyak naga
+
   4. Dragon_Trainable_Attack (Many-to-Many)
+
     - Setiap naga dapat memiliki banyak serangan yang dapat dilatih
     - Setiap serangan yang dapat dilatih dapat dimiliki oleh banyak naga
+
   5. Dragon_Base_Move (Many-to-Many)
+
     - Setiap naga dapat memiliki banyak serangan dasar
     - Setiap serangan dasar dapat dimiliki oleh banyak naga
+
   6. Dragon_Rarity (Many-to-One)
+
     - Setiap naga hanya dapat memiliki satu rarity
     - Satu rarity dapat dimiliki oleh banyak naga
+
 
 ####  Relational Diagram
 Berikut adalah diagram relasional yang menggambarkan tabel-tabel yang akan dibuat:
