@@ -1,0 +1,7818 @@
+[
+    {
+        "id_dragon": 1,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 1,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 2,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 2,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 3,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 3,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 4,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 4,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 5,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 5,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 6,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 6,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 7,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 7,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 8,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 8,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 9,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 9,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 10,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 10,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 11,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 11,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 12,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 12,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 13,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 13,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 14,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 14,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 15,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 15,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 16,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 16,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 17,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 17,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 18,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 18,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 19,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 19,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 20,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 20,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 21,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 21,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 22,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 22,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 23,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 23,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 24,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 24,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 25,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 25,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 26,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 26,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 27,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 27,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 28,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 28,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 29,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 29,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 30,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 31,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 31,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 32,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 32,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 33,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 33,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 34,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 34,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 35,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 35,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 36,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 36,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 37,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 37,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 38,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 38,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 39,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 39,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 40,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 40,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 41,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 42,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 43,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 44,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 44,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 45,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 45,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 46,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 46,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 47,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 47,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 48,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 48,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 49,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 49,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 50,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 50,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 51,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 51,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 52,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 52,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 53,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 53,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 54,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 54,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 55,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 55,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 56,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 56,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 57,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 57,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 58,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 58,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 59,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 60,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 60,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 61,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 61,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 62,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 62,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 63,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 63,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 64,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 64,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 65,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 65,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 66,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 66,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 67,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 67,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 68,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 68,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 69,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 69,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 70,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 70,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 71,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 71,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 72,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 72,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 73,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 73,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 74,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 74,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 75,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 75,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 76,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 76,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 77,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 77,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 78,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 78,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 79,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 79,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 80,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 80,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 81,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 81,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 82,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 82,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 83,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 83,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 84,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 84,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 85,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 85,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 86,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 86,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 87,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 87,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 88,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 88,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 89,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 89,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 90,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 90,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 91,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 91,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 92,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 92,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 93,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 93,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 94,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 94,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 95,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 95,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 96,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 96,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 97,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 97,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 98,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 98,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 99,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 99,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 100,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 100,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 101,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 101,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 102,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 102,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 103,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 103,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 104,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 104,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 105,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 105,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 106,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 106,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 107,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 107,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 108,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 108,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 109,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 109,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 110,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 110,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 111,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 111,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 112,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 112,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 113,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 113,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 114,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 114,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 115,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 115,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 116,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 116,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 117,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 117,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 118,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 118,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 119,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 119,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 120,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 120,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 121,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 121,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 122,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 122,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 123,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 123,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 124,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 124,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 125,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 125,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 126,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 126,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 127,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 127,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 128,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 128,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 129,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 129,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 130,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 130,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 131,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 131,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 132,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 132,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 133,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 133,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 134,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 134,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 135,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 136,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 137,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 137,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 138,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 138,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 139,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 139,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 140,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 140,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 141,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 141,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 142,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 142,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 143,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 143,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 144,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 144,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 145,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 145,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 146,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 146,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 147,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 147,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 148,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 148,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 149,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 149,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 150,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 150,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 151,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 151,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 152,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 152,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 153,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 153,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 154,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 154,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 155,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 155,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 156,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 156,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 157,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 157,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 158,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 158,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 159,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 159,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 160,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 160,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 161,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 161,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 162,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 162,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 163,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 163,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 164,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 164,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 165,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 165,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 166,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 166,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 167,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 167,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 168,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 168,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 169,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 169,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 170,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 170,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 171,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 171,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 172,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 172,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 173,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 173,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 174,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 174,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 175,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 175,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 176,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 176,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 177,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 177,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 178,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 178,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 179,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 179,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 180,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 180,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 181,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 181,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 182,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 182,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 183,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 183,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 184,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 184,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 185,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 185,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 186,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 186,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 187,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 187,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 188,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 188,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 189,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 189,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 190,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 190,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 191,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 191,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 192,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 192,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 193,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 193,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 194,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 194,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 195,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 195,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 196,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 196,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 197,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 197,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 198,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 198,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 199,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 199,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 200,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 200,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 201,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 201,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 202,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 202,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 203,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 203,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 204,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 204,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 205,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 205,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 206,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 206,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 207,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 207,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 208,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 208,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 209,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 209,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 210,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 210,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 211,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 211,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 212,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 212,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 213,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 213,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 214,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 214,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 215,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 215,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 216,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 216,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 217,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 217,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 218,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 218,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 219,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 219,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 220,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 220,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 221,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 221,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 222,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 222,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 223,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 223,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 224,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 224,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 225,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 225,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 226,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 227,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 227,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 228,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 228,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 229,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 229,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 230,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 230,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 231,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 231,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 232,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 232,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 233,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 233,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 234,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 234,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 235,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 235,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 236,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 236,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 237,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 237,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 238,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 238,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 239,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 239,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 240,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 240,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 241,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 241,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 242,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 242,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 243,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 243,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 244,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 244,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 245,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 245,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 246,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 246,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 247,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 247,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 248,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 248,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 249,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 249,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 250,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 250,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 251,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 251,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 252,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 252,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 253,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 253,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 254,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 254,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 255,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 255,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 256,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 256,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 257,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 257,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 258,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 258,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 259,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 259,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 260,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 260,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 261,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 261,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 262,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 262,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 263,
+        "id_element": 17
+    },
+    {
+        "id_dragon": 263,
+        "id_element": 18
+    },
+    {
+        "id_dragon": 264,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 264,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 265,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 265,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 266,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 266,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 267,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 267,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 268,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 268,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 269,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 269,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 270,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 270,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 271,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 271,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 272,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 272,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 273,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 273,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 274,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 274,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 275,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 275,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 276,
+        "id_element": 20
+    },
+    {
+        "id_dragon": 276,
+        "id_element": 15
+    },
+    {
+        "id_dragon": 277,
+        "id_element": 17
+    },
+    {
+        "id_dragon": 277,
+        "id_element": 18
+    },
+    {
+        "id_dragon": 278,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 278,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 279,
+        "id_element": 19
+    },
+    {
+        "id_dragon": 279,
+        "id_element": 20
+    },
+    {
+        "id_dragon": 280,
+        "id_element": 19
+    },
+    {
+        "id_dragon": 280,
+        "id_element": 18
+    },
+    {
+        "id_dragon": 281,
+        "id_element": 17
+    },
+    {
+        "id_dragon": 281,
+        "id_element": 18
+    },
+    {
+        "id_dragon": 282,
+        "id_element": 15
+    },
+    {
+        "id_dragon": 282,
+        "id_element": 16
+    },
+    {
+        "id_dragon": 283,
+        "id_element": 20
+    },
+    {
+        "id_dragon": 283,
+        "id_element": 15
+    },
+    {
+        "id_dragon": 284,
+        "id_element": 20
+    },
+    {
+        "id_dragon": 284,
+        "id_element": 15
+    },
+    {
+        "id_dragon": 285,
+        "id_element": 17
+    },
+    {
+        "id_dragon": 285,
+        "id_element": 18
+    },
+    {
+        "id_dragon": 286,
+        "id_element": 15
+    },
+    {
+        "id_dragon": 286,
+        "id_element": 16
+    },
+    {
+        "id_dragon": 287,
+        "id_element": 15
+    },
+    {
+        "id_dragon": 287,
+        "id_element": 16
+    },
+    {
+        "id_dragon": 288,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 288,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 289,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 289,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 290,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 290,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 291,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 291,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 292,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 292,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 293,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 293,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 294,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 294,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 295,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 295,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 296,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 297,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 297,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 298,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 298,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 299,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 299,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 300,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 300,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 301,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 301,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 302,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 302,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 303,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 303,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 304,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 304,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 305,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 305,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 306,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 307,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 307,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 308,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 308,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 309,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 310,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 310,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 311,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 311,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 312,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 312,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 313,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 313,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 314,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 314,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 315,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 315,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 316,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 316,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 317,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 318,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 318,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 319,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 319,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 320,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 320,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 321,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 321,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 322,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 322,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 323,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 323,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 324,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 324,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 325,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 325,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 326,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 326,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 327,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 327,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 328,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 328,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 329,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 329,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 330,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 331,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 331,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 332,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 333,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 334,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 334,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 335,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 335,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 336,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 337,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 337,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 338,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 338,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 339,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 340,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 340,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 341,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 341,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 342,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 342,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 343,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 343,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 344,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 344,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 345,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 345,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 346,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 346,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 347,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 347,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 348,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 348,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 349,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 350,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 350,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 351,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 351,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 352,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 353,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 353,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 354,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 354,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 355,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 356,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 356,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 357,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 357,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 358,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 358,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 359,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 360,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 360,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 361,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 361,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 362,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 362,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 363,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 363,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 364,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 364,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 365,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 365,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 366,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 366,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 367,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 367,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 368,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 369,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 369,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 370,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 370,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 371,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 371,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 372,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 373,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 373,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 374,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 375,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 376,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 376,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 377,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 377,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 378,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 379,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 380,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 380,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 381,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 381,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 382,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 382,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 383,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 383,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 384,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 384,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 385,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 385,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 386,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 387,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 388,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 389,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 390,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 391,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 391,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 392,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 393,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 393,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 394,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 394,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 395,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 395,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 396,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 397,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 397,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 398,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 399,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 399,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 400,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 400,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 401,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 401,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 402,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 403,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 403,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 404,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 405,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 406,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 406,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 407,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 407,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 408,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 409,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 409,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 410,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 411,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 411,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 412,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 413,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 414,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 414,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 415,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 415,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 416,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 416,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 417,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 418,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 418,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 419,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 419,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 420,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 420,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 421,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 421,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 422,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 422,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 423,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 423,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 424,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 425,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 425,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 426,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 427,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 428,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 429,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 430,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 430,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 431,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 431,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 432,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 432,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 433,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 433,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 434,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 435,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 436,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 436,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 437,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 438,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 438,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 439,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 439,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 440,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 440,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 441,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 441,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 442,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 442,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 443,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 444,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 444,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 445,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 446,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 446,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 447,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 447,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 448,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 448,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 449,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 449,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 450,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 450,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 451,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 452,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 452,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 453,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 454,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 454,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 455,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 455,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 456,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 456,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 457,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 458,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 458,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 459,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 459,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 460,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 460,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 461,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 461,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 462,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 462,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 463,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 463,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 464,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 465,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 465,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 466,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 466,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 467,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 467,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 468,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 468,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 469,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 469,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 470,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 470,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 471,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 472,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 472,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 473,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 473,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 474,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 475,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 475,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 476,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 477,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 477,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 478,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 478,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 479,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 480,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 481,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 481,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 482,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 483,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 484,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 484,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 485,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 485,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 486,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 486,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 487,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 487,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 488,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 489,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 489,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 490,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 491,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 491,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 492,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 492,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 493,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 494,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 494,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 495,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 496,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 496,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 497,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 498,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 498,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 499,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 499,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 500,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 500,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 501,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 501,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 502,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 503,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 503,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 504,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 505,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 505,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 506,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 506,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 507,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 507,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 508,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 508,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 509,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 509,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 510,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 510,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 511,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 511,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 512,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 512,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 513,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 513,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 514,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 514,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 515,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 516,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 516,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 517,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 517,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 518,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 518,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 519,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 520,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 521,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 521,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 522,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 522,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 523,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 523,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 524,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 525,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 525,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 526,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 526,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 527,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 527,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 528,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 528,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 529,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 529,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 530,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 530,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 531,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 532,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 533,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 534,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 535,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 535,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 536,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 536,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 537,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 537,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 538,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 538,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 539,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 540,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 540,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 541,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 542,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 543,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 544,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 544,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 545,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 545,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 546,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 546,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 547,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 548,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 548,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 549,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 550,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 551,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 552,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 552,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 553,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 554,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 555,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 555,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 556,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 556,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 557,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 558,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 559,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 560,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 561,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 562,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 562,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 563,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 563,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 564,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 565,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 565,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 566,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 566,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 567,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 567,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 568,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 568,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 569,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 569,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 570,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 571,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 572,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 573,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 573,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 574,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 574,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 575,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 575,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 576,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 576,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 577,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 577,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 578,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 579,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 580,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 580,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 581,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 581,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 582,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 583,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 583,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 584,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 585,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 586,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 587,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 588,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 589,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 589,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 590,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 591,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 592,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 593,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 594,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 594,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 595,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 595,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 596,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 596,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 597,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 597,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 598,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 598,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 599,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 599,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 600,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 601,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 601,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 602,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 602,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 603,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 604,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 604,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 605,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 606,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 606,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 607,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 608,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 609,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 609,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 610,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 611,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 611,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 612,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 613,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 614,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 614,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 615,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 615,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 616,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 617,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 617,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 618,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 618,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 619,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 619,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 620,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 620,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 621,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 621,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 622,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 622,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 623,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 623,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 624,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 624,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 625,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 625,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 626,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 626,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 627,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 628,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 629,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 629,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 630,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 630,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 631,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 631,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 632,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 632,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 633,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 633,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 634,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 635,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 636,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 637,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 638,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 639,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 640,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 641,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 642,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 643,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 644,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 645,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 646,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 647,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 648,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 649,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 650,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 651,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 652,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 653,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 654,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 654,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 655,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 655,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 656,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 656,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 657,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 658,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 658,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 659,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 659,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 660,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 660,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 661,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 661,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 662,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 662,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 663,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 663,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 664,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 664,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 665,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 665,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 666,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 666,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 667,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 667,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 668,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 668,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 669,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 669,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 670,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 671,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 671,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 672,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 672,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 673,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 673,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 674,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 674,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 675,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 676,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 676,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 677,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 677,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 678,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 678,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 679,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 679,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 680,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 680,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 681,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 681,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 682,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 682,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 683,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 683,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 684,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 684,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 685,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 686,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 686,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 687,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 687,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 688,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 688,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 689,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 689,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 690,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 690,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 691,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 691,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 692,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 692,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 693,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 694,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 695,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 696,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 696,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 697,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 698,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 699,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 700,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 700,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 701,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 701,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 702,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 702,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 703,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 703,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 704,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 705,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 705,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 706,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 706,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 707,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 707,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 708,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 709,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 710,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 710,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 711,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 711,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 712,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 713,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 713,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 714,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 714,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 715,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 715,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 716,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 716,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 717,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 718,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 718,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 719,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 720,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 720,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 721,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 721,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 722,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 722,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 723,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 723,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 724,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 725,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 725,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 726,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 727,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 727,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 728,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 728,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 729,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 729,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 730,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 731,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 731,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 732,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 732,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 733,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 733,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 734,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 734,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 735,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 735,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 736,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 737,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 737,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 738,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 738,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 739,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 740,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 741,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 741,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 742,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 742,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 743,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 744,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 744,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 745,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 745,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 746,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 746,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 747,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 747,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 748,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 748,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 749,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 749,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 750,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 750,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 751,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 751,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 752,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 753,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 754,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 754,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 755,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 756,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 756,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 757,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 757,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 758,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 758,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 759,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 759,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 760,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 760,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 761,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 761,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 762,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 763,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 764,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 764,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 765,
+        "id_element": 20
+    },
+    {
+        "id_dragon": 765,
+        "id_element": 15
+    },
+    {
+        "id_dragon": 766,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 767,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 767,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 768,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 768,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 769,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 769,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 770,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 771,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 771,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 772,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 773,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 774,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 775,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 776,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 776,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 777,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 777,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 778,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 779,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 780,
+        "id_element": 16
+    },
+    {
+        "id_dragon": 780,
+        "id_element": 17
+    },
+    {
+        "id_dragon": 781,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 781,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 782,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 782,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 783,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 784,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 785,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 785,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 786,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 786,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 787,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 788,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 789,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 789,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 790,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 790,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 791,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 791,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 792,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 793,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 793,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 794,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 794,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 795,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 795,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 796,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 796,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 797,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 798,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 798,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 799,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 799,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 800,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 800,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 801,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 801,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 802,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 803,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 803,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 804,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 805,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 805,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 806,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 806,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 807,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 807,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 808,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 808,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 809,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 810,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 810,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 811,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 812,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 812,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 813,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 813,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 814,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 815,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 815,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 816,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 816,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 817,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 817,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 818,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 818,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 819,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 819,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 820,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 820,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 821,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 821,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 822,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 822,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 823,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 823,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 824,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 825,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 826,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 826,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 827,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 828,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 829,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 829,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 830,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 831,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 831,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 832,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 832,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 833,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 834,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 834,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 835,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 835,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 836,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 836,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 837,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 838,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 838,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 839,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 840,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 840,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 841,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 841,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 842,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 843,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 844,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 844,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 845,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 845,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 846,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 846,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 847,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 847,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 848,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 849,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 849,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 850,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 851,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 852,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 852,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 853,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 853,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 854,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 854,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 855,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 856,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 857,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 857,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 858,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 858,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 859,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 859,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 860,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 861,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 861,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 862,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 862,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 863,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 864,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 864,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 865,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 866,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 867,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 868,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 868,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 869,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 869,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 870,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 870,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 871,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 872,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 873,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 873,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 874,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 875,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 875,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 876,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 876,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 877,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 877,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 878,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 878,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 879,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 879,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 880,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 880,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 881,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 881,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 882,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 882,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 883,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 883,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 884,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 884,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 885,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 885,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 886,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 886,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 887,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 887,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 888,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 888,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 889,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 889,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 890,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 890,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 891,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 892,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 893,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 893,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 894,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 895,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 895,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 896,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 897,
+        "id_element": 19
+    },
+    {
+        "id_dragon": 897,
+        "id_element": 20
+    },
+    {
+        "id_dragon": 898,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 899,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 900,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 901,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 901,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 902,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 903,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 903,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 904,
+        "id_element": 11
+    },
+    {
+        "id_dragon": 905,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 905,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 906,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 906,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 907,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 907,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 908,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 909,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 909,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 910,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 911,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 911,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 912,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 912,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 913,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 913,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 914,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 914,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 915,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 915,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 916,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 916,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 917,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 917,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 918,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 918,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 919,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 919,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 920,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 920,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 921,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 921,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 922,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 922,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 923,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 923,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 924,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 925,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 925,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 926,
+        "id_element": 11
+    },
+    {
+        "id_dragon": 927,
+        "id_element": 11
+    },
+    {
+        "id_dragon": 928,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 929,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 930,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 931,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 932,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 933,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 934,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 935,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 936,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 937,
+        "id_element": 11
+    },
+    {
+        "id_dragon": 938,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 939,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 940,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 940,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 941,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 942,
+        "id_element": 11
+    },
+    {
+        "id_dragon": 943,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 944,
+        "id_element": 11
+    },
+    {
+        "id_dragon": 945,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 945,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 946,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 946,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 947,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 947,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 948,
+        "id_element": 19
+    },
+    {
+        "id_dragon": 948,
+        "id_element": 20
+    },
+    {
+        "id_dragon": 949,
+        "id_element": 19
+    },
+    {
+        "id_dragon": 949,
+        "id_element": 20
+    },
+    {
+        "id_dragon": 950,
+        "id_element": 19
+    },
+    {
+        "id_dragon": 950,
+        "id_element": 20
+    },
+    {
+        "id_dragon": 951,
+        "id_element": 19
+    },
+    {
+        "id_dragon": 951,
+        "id_element": 20
+    },
+    {
+        "id_dragon": 952,
+        "id_element": 19
+    },
+    {
+        "id_dragon": 952,
+        "id_element": 20
+    },
+    {
+        "id_dragon": 953,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 953,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 954,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 954,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 955,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 956,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 957,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 958,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 958,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 959,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 959,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 960,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 961,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 961,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 962,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 962,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 963,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 963,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 964,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 964,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 965,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 965,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 966,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 966,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 967,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 967,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 968,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 968,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 969,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 970,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 971,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 971,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 972,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 973,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 973,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 974,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 975,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 975,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 976,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 976,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 977,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 977,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 978,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 978,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 979,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 980,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 980,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 981,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 981,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 982,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 982,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 983,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 984,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 984,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 985,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 986,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 986,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 987,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 988,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 988,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 989,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 989,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 990,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 990,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 991,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 991,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 992,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 992,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 993,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 993,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 994,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 994,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 995,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 995,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 996,
+        "id_element": 11
+    },
+    {
+        "id_dragon": 997,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 997,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 998,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 999,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 999,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 1000,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 1000,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1001,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 1002,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 1003,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 1004,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 1005,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 1006,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 1007,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 1008,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 1009,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 1010,
+        "id_element": 17
+    },
+    {
+        "id_dragon": 1010,
+        "id_element": 18
+    },
+    {
+        "id_dragon": 1011,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 1011,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 1012,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 1012,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 1013,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 1013,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 1014,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 1014,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 1015,
+        "id_element": 16
+    },
+    {
+        "id_dragon": 1015,
+        "id_element": 17
+    },
+    {
+        "id_dragon": 1016,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 1016,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 1017,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 1017,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 1018,
+        "id_element": 19
+    },
+    {
+        "id_dragon": 1018,
+        "id_element": 20
+    },
+    {
+        "id_dragon": 1019,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 1019,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1020,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 1020,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 1021,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 1021,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 1022,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 1022,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 1023,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 1023,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 1024,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 1024,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 1025,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 1025,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 1026,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 1026,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1027,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 1028,
+        "id_element": 20
+    },
+    {
+        "id_dragon": 1028,
+        "id_element": 15
+    },
+    {
+        "id_dragon": 1029,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 1029,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1030,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 1031,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 1031,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1032,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 1032,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 1033,
+        "id_element": 11
+    },
+    {
+        "id_dragon": 1034,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 1034,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 1035,
+        "id_element": 16
+    },
+    {
+        "id_dragon": 1035,
+        "id_element": 17
+    },
+    {
+        "id_dragon": 1036,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 1036,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 1037,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 1037,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 1038,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 1038,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 1039,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 1039,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 1040,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 1040,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 1041,
+        "id_element": 11
+    },
+    {
+        "id_dragon": 1042,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 1043,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 1043,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 1044,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 1044,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 1045,
+        "id_element": 11
+    },
+    {
+        "id_dragon": 1046,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 1046,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1047,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 1047,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1048,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 1048,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1049,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 1049,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1050,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 1051,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 1052,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 1052,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1053,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 1053,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1054,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 1054,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 1055,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 1055,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1056,
+        "id_element": 11
+    },
+    {
+        "id_dragon": 1057,
+        "id_element": 11
+    },
+    {
+        "id_dragon": 1058,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 1058,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1059,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 1059,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 1060,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 1061,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 1061,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 1062,
+        "id_element": 11
+    },
+    {
+        "id_dragon": 1063,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 1064,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 1064,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 1065,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 1065,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 1066,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 1066,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 1067,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 1067,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1068,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 1068,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 1069,
+        "id_element": 11
+    },
+    {
+        "id_dragon": 1070,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 1070,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 1071,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 1072,
+        "id_element": 11
+    },
+    {
+        "id_dragon": 1073,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 1074,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 1075,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 1075,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1076,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 1076,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 1077,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 1077,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1078,
+        "id_element": 17
+    },
+    {
+        "id_dragon": 1078,
+        "id_element": 18
+    },
+    {
+        "id_dragon": 1079,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 1079,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1080,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 1080,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 1081,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 1081,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 1082,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 1082,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 1083,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 1084,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 1085,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 1085,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 1086,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 1086,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 1087,
+        "id_element": 11
+    },
+    {
+        "id_dragon": 1088,
+        "id_element": 15
+    },
+    {
+        "id_dragon": 1088,
+        "id_element": 16
+    },
+    {
+        "id_dragon": 1089,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 1089,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 1090,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 1091,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 1091,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 1092,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 1093,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 1093,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 1094,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 1094,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 1095,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 1095,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 1096,
+        "id_element": 11
+    },
+    {
+        "id_dragon": 1097,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 1097,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1098,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 1099,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 1099,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 1100,
+        "id_element": 20
+    },
+    {
+        "id_dragon": 1100,
+        "id_element": 15
+    },
+    {
+        "id_dragon": 1101,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 1101,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1102,
+        "id_element": 11
+    },
+    {
+        "id_dragon": 1103,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 1103,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 1104,
+        "id_element": 1
+    },
+    {
+        "id_dragon": 1104,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1105,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 1106,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 1107,
+        "id_element": 12
+    },
+    {
+        "id_dragon": 1108,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 1109,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 1109,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 1110,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 1110,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 1111,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 1111,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 1112,
+        "id_element": 14
+    },
+    {
+        "id_dragon": 1113,
+        "id_element": 8
+    },
+    {
+        "id_dragon": 1113,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 1114,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 1114,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 1115,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 1115,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 1116,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 1116,
+        "id_element": 9
+    },
+    {
+        "id_dragon": 1117,
+        "id_element": 7
+    },
+    {
+        "id_dragon": 1117,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 1118,
+        "id_element": 5
+    },
+    {
+        "id_dragon": 1118,
+        "id_element": 4
+    },
+    {
+        "id_dragon": 1119,
+        "id_element": 21
+    },
+    {
+        "id_dragon": 1120,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 1120,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 1121,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 1121,
+        "id_element": 2
+    },
+    {
+        "id_dragon": 1122,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 1122,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 1123,
+        "id_element": 3
+    },
+    {
+        "id_dragon": 1123,
+        "id_element": 10
+    },
+    {
+        "id_dragon": 1124,
+        "id_element": 19
+    },
+    {
+        "id_dragon": 1124,
+        "id_element": 18
+    },
+    {
+        "id_dragon": 1125,
+        "id_element": 6
+    },
+    {
+        "id_dragon": 1125,
+        "id_element": 2
+    }
+]

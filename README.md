@@ -1,101 +1,383 @@
 <h1 align="center">
   <br>
-  Seleksi Warga Basdat 2023
+  Data Dragon City
   <br>
   <br>
 </h1>
 
 <h2 align="center">
   <br>
-  Data Scraping, Database Modelling & Data Storing
+  Data Scraping, Database Modelling & Data Storing : Website deetlist.com/dragoncity/
   <br>
   <br>
 </h2>
 
+![Dragon City](Data%20Storing/screenshot/dragon_city.png)
+
+[Dragon City](https://www.dragoncitygame.com/) adalah sebuah permainan simulasi yang telah dikembangkan oleh Social Point. Permainan ini bisa dimainkan di berbagai platform seperti Facebook, iOS, Android, dan Windows Phone. Dalam permainan ini, para pemain memiliki kesempatan untuk membangun sebuah kota yang penuh dengan naga-naga, melakukan pembiakan naga, serta bertarung melawan naga-naga lainnya. Dalam proyek ini, penulis akan melakukan pengambilan data mengenai naga-naga dari situs web [deetlist.com/dragoncity/](https://deetlist.com/dragoncity/), menyimpan data tersebut dalam sebuah basis data yang berhubungan menggunakan MySQL, dan melakukan analisis sederhana terhadap data yang telah disimpan.
+
 
 ## Spesifikasi
 
-### Data Scraping
+### Table of Content
+  - [Description](#description)
+  - [Specification of the program](#specification-of-the-program)
+  - [How to use](#how-to-use)
+  - [JSON Structure](#json-structure)
+  - [Database Structure (ERD and relational diagram)](#database-structure-erd-and-relational-diagram)
+  - [Explanation of ERD to relational diagram translation process](#explanation-of-erd-to-relational-diagram-translation-process)
+  - [Reference (Library used, etc)](#reference-library-used-etc)
+  - [Author](#author)
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
+### Description
+Data yang digunakan dalam proyek ini berasal dari website [deetlist.com/dragoncity/](https://deetlist.com/dragoncity/). Data tersebut merupakan informasi tentang naga-naga dalam permainan Dragon City, termasuk detail seperti nama, elemen, statistik, serangan, dan kekuatan/kelemahan.
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
+DBMS yang digunakan dalam proyek ini adalah MySQL yang diakses melalui phpMyAdmin. MySQL dan phpMyAdmin dipilih karena merupakan kombinasi yang populer dan dapat diandalkan untuk mengelola basis data relasional dengan antarmuka pengguna yang intuitif.
 
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
+MySQL adalah sistem manajemen basis data relasional yang tangguh, stabil, dan populer di kalangan pengembang. Selain itu, MySQL juga mendukung bahasa SQL yang sangat kuat untuk mengelola dan memanipulasi data.
 
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
+phpMyAdmin adalah aplikasi web berbasis PHP yang menyediakan antarmuka grafis untuk mengelola dan mengakses basis data MySQL. Dengan menggunakan phpMyAdmin, pengguna dapat dengan mudah membuat, mengubah, dan menghapus tabel, menjalankan kueri SQL, mengelola indeks dan kunci asing, serta melakukan tugas administrasi lainnya terkait basis data.
 
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
+Pemilihan MySQL melalui phpMyAdmin sebagai DBMS yang digunakan memungkinkan penulis untuk membuat skema database yang baik dan efisien, serta melakukan operasi database dengan mudah melalui antarmuka web yang disediakan oleh phpMyAdmin.
+
+Dengan menggunakan MySQL melalui phpMyAdmin, penulis dapat menyimpan, mengelola, dan mengakses data naga Dragon City dengan efisien, memungkinkan pengguna untuk melakukan berbagai operasi dan analisis pada data tersebut.
+
+### Specification
+
+Program ini menggunakan Python dan beberapa library sebagai berikut:
+
+- `requests`: Digunakan untuk mengirim permintaan HTTP ke website dan mendapatkan responnya.
+- `json`: Digunakan untuk memanipulasi data dalam format JSON.
+- `BeautifulSoup`: Digunakan untuk melakukan parsing dan ekstraksi data dari HTML.
+- `urllib.parse`: Digunakan untuk menggabungkan URL dengan benar.
+- `re`: Digunakan untuk melakukan pencocokan pola (pattern matching) menggunakan regular expression.
+
+
+### How to use
+
+1. Clone repository ini.
+2. Buka terminal dan arahkan ke direktori repository ini.
+3. Pastikan Python sudah terinstall di komputer Anda. Jika belum, silakan install Python terlebih dahulu.
+4. Install library yang dibutuhkan dengan menjalankan perintah `pip install <library>`.
+5. Jalankan program file `scrapping_dc_json` pada `Data Scraping/src`.
+( Anda bisa menyesuaikan jumlah data naga yang berusaha diambil dengan mengubah nilai `1584` pada `dragons[:1584]` file `Data Scraping/src/scrapping_dc_json.py` )
+6. Anda akan mendapatkan file `all_dragon_data.json` yang berisi data naga-naga Dragon City.
+7. Anda bisa melihat dan memabandingkan data naga-naga Dragon City yang telah discraping dengan data yang ada di website [deetlist.com/dragoncity/](https://deetlist.com/dragoncity/) oleh penulis pada file `Data Scraping/data/all_dragon_data.json`.
+
+Note : Program tidak akan mengambil data naga yang tidak ada informasi detailnya (tidak ada informasi mengenai informasi dasar, serangan, kekuatan, dan lain-lain). Hal ini dikarenakan data tersebut tidak dapat diambil dari website [deetlist.com/dragoncity/](https://deetlist.com/dragoncity/).
+
+### JSON Structure
+Berikut adalah struktur JSON yang dihasilkan oleh program:
+
+```json
+{
+        "name": "Nature Dragon",
+        "rarity": "Common",
+        "element": "Nature",
+        "breed_time": "20 minutes ",
+        "buy_price": 500,
+        "hatch_time": "20 minutes ",
+        "breedable": "Yes",
+        "hatch_xp": 1000,
+        "description": "The Nature Dragon loves humans, animals, and all living things - some of them for gastronomic purposes. Even though she hasnt eaten a whole human, a finger or two have been lost...",
+        "base_moves": [
+            {
+                "type": "att_physical",
+                "name": "Punch",
+                "damage": 338
+            },
+            {
+                "type": "att_plant",
+                "name": "Stitching Roots",
+                "damage": 550
+            },
+            {
+                "type": "att_plant",
+                "name": "Poison Ivy",
+                "damage": 650
+            },
+            {
+                "type": "att_plant",
+                "name": "Leaf Blast",
+                "damage": 1050
+            }
+        ],
+        "trainable_attacks": [
+            {
+                "type": "att_physical",
+                "name": "Hard Charge",
+                "damage": 488
+            },
+            {
+                "type": "att_plant",
+                "name": "Rotting Spell",
+                "damage": 1200
+            },
+            {
+                "type": "att_physical",
+                "name": "Stunning Hit",
+                "damage": 638
+            },
+            {
+                "type": "att_plant",
+                "name": "Beehive",
+                "damage": 1350
+            }
+        ],
+        "strengths": [
+            "Sea",
+            "Light"
+        ],
+        "weaknesses": [
+            "Flame",
+            "Ice"
+        ]
+    }
 ```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
+
+Struktur JSON di atas menggambarkan data naga yang diperoleh dari scraping. Setiap objek naga memiliki properti-properti seperti name (nama naga), rarity (kelangkaan),element (elemen utama yang dikuasai)  , breed_time (waktu pembiakan), buy_price (harga beli), hatch_time (waktu penetasan), breedable (dapat kembang biakan), hatch_xp (XP saat menetaskan), description (deskripsi naga), base_moves (serangan dasar), trainable_attacks (serangan yang dapat dilatih), strengths (kekuatan), dan weaknesses (kelemahan).
+
+Bagian base_moves dan trainable_attacks berisi array dari objek-objek serangan dengan properti seperti type (jenis serangan), name (nama serangan), dan damage (jumlah kerusakan yang disebabkan).
+
+Bagian strengths dan weaknesses berisi array dari elemen-elemen yang menyatakan kekuatan dan kelemahan naga terhadap elemen-elemen tertentu.
+
+
+### Database Structure (ERD and relational diagram)
+
+#### ERD
+Berikut adalah diagram hubungan antar entitas (Entity Relationship Diagram/ERD) berdasarkan poin-poin yang telah disebutkan:
+
+![ERD](Data%20Storing/design/ERD_Dragon_City.png)
+
+
+Entitas : 
+1. Dragon
+
+    - id_dragon
+    - dragon_name
+    - breed_time
+    - buy_price
+    - hatch_time
+    - breedable
+    - hatch_xp
+    - description
+
+2. Element
+
+    - id_element
+    - element_name
+
+3. Trainable_Attack
+
+    - id_trainable_attack
+    - trainable_attack_name
+    - trainable_attack_type
+    - trainable_attack_damage
+
+4. Base_move
+
+    - id_base_move
+    - base_move_name
+    - base_move_type
+    - base_move_damage
+
+5. Rarity
+
+    - id_rarity
+    - rarity_name
+
+Hubungan Antar Entitas:
+1. Dragon_Element (Many-to-One)
+  
+    - Setiap naga hanya dapat memiliki satu elemen
+    - Satu elemen dapat dimiliki oleh banyak naga
+
+2. Dragon_Strength (Many-to-Many)
+
+    - Setiap naga dapat memiliki banyak kekuatan
+    - Setiap kekuatan dapat dimiliki oleh banyak naga
+
+3. Dragon_Weakness (Many-to-Many)
+
+    - Setiap naga dapat memiliki banyak kelemahan
+    - Setiap kelemahan dapat dimiliki oleh banyak naga
+
+4. Dragon_Trainable_Attack (Many-to-Many)
+
+    - Setiap naga dapat memiliki banyak serangan yang dapat dilatih
+    - Setiap serangan yang dapat dilatih dapat dimiliki oleh banyak naga
+
+5. Dragon_Base_Move (Many-to-Many)
+
+    - Setiap naga dapat memiliki banyak serangan dasar
+    - Setiap serangan dasar dapat dimiliki oleh banyak naga
+
+6. Dragon_Rarity (Many-to-One)
+
+    - Setiap naga hanya dapat memiliki satu rarity
+    - Satu rarity dapat dimiliki oleh banyak naga
+
+
+####  Relational Diagram
+Berikut adalah diagram relasional yang menggambarkan tabel-tabel yang akan dibuat:
+
+![Relational Diagram](Data%20Storing/design/Diagram_Relasional_Dragon_City.png)
+
+1. Dragon:
+    - id_dragon (Primary Key)
+    - dragon_name
+    - breed_time
+    - buy_price
+    - hatch_time
+    - breedable
+    - hatch_xp
+    - description
+    - id_element (Foreign Key referencing Element)
+    - id_rarity (Foreign Key referencing Rarity)
+
+2. Element:
+    - id_element (Primary Key)
+    - element_name
+
+3. Trainable_Attack:
+    - id_trainable_attack (Primary Key)
+    - trainable_attack_name
+    - trainable_attack_type
+    - trainable_attack_damage
+
+4. Base_move:
+    - id_base_move (Primary Key)
+    - base_move_name
+    - base_move_type
+    - base_move_damage
+
+5. Rarity:
+    - id_rarity (Primary Key)
+    - rarity_name
+
+6. Dragon_Element:
+    - id_dragon (Foreign Key referencing Dragon)
+    - id_element (Foreign Key referencing Element)
+    - Primary Key (id_dragon, id_element)
+
+7. Dragon_Strength:
+    - id_dragon (Foreign Key referencing Dragon)
+    - id_strength (Foreign Key referencing Strength)
+    - Primary Key (id_dragon, id_strength)
+
+8. Dragon_Weakness:
+    - id_dragon (Foreign Key referencing Dragon)
+    - id_weakness (Foreign Key referencing Weakness)
+    - Primary Key (id_dragon, id_weakness)
+
+9. Dragon_Trainable_Attack:
+    - id_dragon (Foreign Key referencing Dragon)
+    - id_trainable_attack (Foreign Key referencing Trainable_Attack)
+    - Primary Key (id_dragon, id_trainable_attack)
+
+10. Dragon_Base_Move:
+    - id_dragon (Foreign Key referencing Dragon)
+    - id_base_move (Foreign Key referencing Base_move)
+    - Primary Key (id_dragon, id_base_move)
+
+11. Dragon_Rarity:
+    - id_dragon (Foreign Key referencing Dragon)
+    - id_rarity (Foreign Key referencing Rarity)
+    - Primary Key (id_dragon, id_rarity)
+
+
+
+
+### Explanation of ERD to relational diagram translation process
+
+Proses translasi ERD menjadi relational diagram melibatkan beberapa langkah berikut:
+
+1. Identifikasi Entity
+
+    - Setiap entitas dalam ERD akan menjadi tabel dalam relational diagram
+
+2. Identifikasi Atribut
+  
+    - Setiap atribut dalam ERD akan menjadi kolom dalam tabel yang sesuai
+
+3. Identifikasi Primary Key
+  
+    - Setiap primary key dalam ERD akan menjadi primary key dalam tabel yang sesuai
+
+4. Identifikasi Relation 
+
+    - Setiap relasi dalam ERD akan menjadi tabel atau kolom dalam relational diagram
+    - Setiap relasi many-to-many akan menjadi tabel join baru yang berisi primary key dari kedua entitas yang berelasi
+    - Setiap relasi many-to-one akan menjadi kolom dalam tabel yang sesuai
+    - Setiap relasi many-to-one akan menjadi foreign key dalam tabel yang sesuai
+    - Setiap relasi many-to-many akan menjadi foreign key dalam tabel yang sesuai
+
+### Query Find Dragon
+
+Berikut adalah query untuk mencari naga dengan info lengkap berdasarkan id atau nama naga
+
+
+```sql
+SELECT dr.dragon_name, e.element_name, r.rarity_name, dr.breed_time, dr.buy_price, dr.hatch_time, dr.breedable, dr.hatch_xp, dr.description,
+       GROUP_CONCAT(DISTINCT bm.base_move_name) AS base_moves,
+       GROUP_CONCAT(DISTINCT ta.trainable_attack_name) AS trainable_attacks,
+       GROUP_CONCAT(DISTINCT s.element_name) AS strengths,
+       GROUP_CONCAT(DISTINCT w.element_name) AS weaknesses
+FROM dragon AS dr
+INNER JOIN element AS e ON dr.id_element = e.id_element
+INNER JOIN rarity AS r ON dr.id_rarity = r.id_rarity
+INNER JOIN dragon_base_move AS dbm ON dr.id_dragon = dbm.id_dragon
+INNER JOIN base_move AS bm ON dbm.id_base_move = bm.id_base_move
+INNER JOIN dragon_trainable_attack AS dta ON dr.id_dragon = dta.id_dragon
+INNER JOIN trainable_attack AS ta ON dta.id_trainable_attack = ta.id_trainable_attack
+INNER JOIN dragon_strength AS ds ON dr.id_dragon = ds.id_dragon
+INNER JOIN element AS s ON ds.id_element = s.id_element
+INNER JOIN dragon_weakness AS dw ON dr.id_dragon = dw.id_dragon
+INNER JOIN element AS w ON dw.id_element = w.id_element
+WHERE dr.id_dragon = <dragon_id>
+GROUP BY dr.id_dragon;
 ```
 
-### Database Modelling & Data Storing
+Berikut adalah hasil query untuk mencari naga dengan info lengkap berdasarkan id atau nama naga
 
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
+![Query Find Dragon](Data%20Storing/screenshot/query_info_dragon_by_id.png)
 
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
+Seperti yang kita lihat pada gambar di atas, query tersebut menghasilkan info lengkap dari naga dengan id 1, yaitu naga Nature Dragon. Jangan lupa untuk mengganti `<dragon_id>` dengan id naga yang ingin dicari. Jika anda ingin melakukan query berdasarkan nama naga, anda dapat mengganti `dr.id_dragon = <dragon_id>` dengan `dr.dragon_name = <dragon_name>`. Begitu juga jika ingin mencari berdasarkan element, rarity, atau atribut lainnya anda tinggal menyesuaikan kondisi pada `WHERE` query tersebut.
 
-4. Tools yang digunakan __dibebaskan__ pada peserta.
+### Data Visualization
 
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
+Penulis telah melakukan visualisasi data yang telah disimpan dalam basis data yang telah dibuat dengan menggunakan Google Data Studio. Anda bisa melihat visualisasi data tersebut pada link berikut:
+[Dragon City Data Visualization - Google Data Studio](https://lookerstudio.google.com/u/0/reporting/ef058495-98c9-4c46-8590-7eb11e7e0c00/page/7AYXD)
 
+### Reference (Library used, etc)
 
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Requests](https://requests.readthedocs.io/en/master/)
+- [JSON](https://docs.python.org/3/library/json.html)
+- [MySQL](https://www.mysql.com/)
+- [PhpMyAdmin](https://www.phpmyadmin.net/)
+- [XAMPP](https://www.apachefriends.org/index.html)
+- [Minimization of ER Diagrams - GeeksforGeeks](https://www.geeksforgeeks.org/minimization-of-er-diagrams/)
+- [Dragon City - Deetlist](https://deetlist.com/dragoncity/dragon/)
+- [Goggle Data Studio](https://datastudio.google.com/u/0/navigation/reporting)
 
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
-
-### Pengumpulan
-
-
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
-
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
-
-
-```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
-
-
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
+### Author
 
 <h3 align="center">
   <br>
-  Selamat Mengerjakan!
+  Adrian Fahri Affandi
   <br>
+  18221002
+  <br>
+
 </h3>
+
 
 <p align="center">
   <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
+    <a href="https://www.linkedin.com/in/adrian-fahri-affandi-030698217/">LinkedIn</a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/adrianfhr/">Instagram</a>
   </i>
 </p>
 <br>

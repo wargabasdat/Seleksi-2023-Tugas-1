@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "element": "Sea"
+    },
+    {
+        "id": 2,
+        "element": "Light"
+    },
+    {
+        "id": 3,
+        "element": "Nature"
+    },
+    {
+        "id": 4,
+        "element": "Ice"
+    },
+    {
+        "id": 5,
+        "element": "Flame"
+    },
+    {
+        "id": 6,
+        "element": "War"
+    },
+    {
+        "id": 7,
+        "element": "Terra"
+    },
+    {
+        "id": 8,
+        "element": "Metal"
+    },
+    {
+        "id": 9,
+        "element": "Electric"
+    },
+    {
+        "id": 10,
+        "element": "Dark"
+    },
+    {
+        "id": 11,
+        "element": "Pure"
+    },
+    {
+        "id": 12,
+        "element": "Primal"
+    },
+    {
+        "id": 13,
+        "element": "Wind"
+    },
+    {
+        "id": 14,
+        "element": "Time"
+    },
+    {
+        "id": 15,
+        "element": "Happy"
+    },
+    {
+        "id": 16,
+        "element": "Chaos"
+    },
+    {
+        "id": 17,
+        "element": "Magic"
+    },
+    {
+        "id": 18,
+        "element": "Soul"
+    },
+    {
+        "id": 19,
+        "element": "Beauty"
+    },
+    {
+        "id": 20,
+        "element": "Dream"
+    },
+    {
+        "id": 21,
+        "element": "Legend"
+    }
+]
