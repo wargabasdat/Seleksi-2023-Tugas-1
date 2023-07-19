@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Data Naga Dragon City
+  Data Dragon City
   <br>
   <br>
 </h1>
@@ -22,7 +22,6 @@
   - [JSON Structure](#json-structure)
   - [Database Structure (ERD and relational diagram)](#database-structure-erd-and-relational-diagram)
   - [Explanation of ERD to relational diagram translation process](#explanation-of-erd-to-relational-diagram-translation-process)
-  - [Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)](#screenshot-program-di-upload-pada-folder-screenshots-di-upload-file-image-nya-dan-ditampilkan-di-dalam-readme)
   - [Reference (Library used, etc)](#reference-library-used-etc)
   - [Author](#author)
 
@@ -229,25 +228,25 @@ Proses translasi ERD menjadi relational diagram melibatkan beberapa langkah beri
 
 1. Identifikasi Entity
 
-  - Setiap entitas dalam ERD akan menjadi tabel dalam relational diagram
+    - Setiap entitas dalam ERD akan menjadi tabel dalam relational diagram
 
 2. Identifikasi Atribut
   
-  - Setiap atribut dalam ERD akan menjadi kolom dalam tabel yang sesuai
+    - Setiap atribut dalam ERD akan menjadi kolom dalam tabel yang sesuai
 
 3. Identifikasi Relation
 
-  - Setiap relasi dalam ERD akan menjadi tabel atau kolom dalam relational diagram
-  - Setiap relasi many-to-many akan menjadi tabel join baru yang berisi primary key dari kedua entitas yang berelasi
-  - Setiap relasi many-to-one akan menjadi kolom dalam tabel yang sesuai
+    - Setiap relasi dalam ERD akan menjadi tabel atau kolom dalam relational diagram
+    - Setiap relasi many-to-many akan menjadi tabel join baru yang berisi primary key dari kedua entitas yang berelasi
+    - Setiap relasi many-to-one akan menjadi kolom dalam tabel yang sesuai
 
 4. Identifikasi Primary Key
   
-  - Setiap primary key dalam ERD akan menjadi primary key dalam tabel yang sesuai
+    - Setiap primary key dalam ERD akan menjadi primary key dalam tabel yang sesuai
 
 5. Identifikasi dan implementasi Foreign Key
   
-  - Setiap foreign key dalam ERD akan menjadi foreign key dalam tabel yang sesuai
+    - Setiap foreign key dalam ERD akan menjadi foreign key dalam tabel yang sesuai
 
 
 ### Reference (Library used, etc)
