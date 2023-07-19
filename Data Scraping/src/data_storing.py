@@ -5,9 +5,11 @@ import os
 # Establish a connection to the PostgreSQL database
 
 current_directory = os.path.dirname(os.path.abspath(__file__))
-crypto_file_path =  os.path.join(current_directory,"cryptocurrency_data.json")
-price_file_path =  os.path.join(current_directory,"price_data.json")
-volume_file_path =  os.path.join(current_directory,"volume_data.json")
+data_folder = os.path.abspath(os.path.join(current_directory, '..', 'data'))
+
+crypto_file_path =  os.path.join(data_folder,"cryptocurrency_data.json")
+price_file_path =  os.path.join(data_folder,"price_data.json")
+volume_file_path =  os.path.join(data_folder,"volume_data.json")
 
 # Load JSON data from the file
 with open(crypto_file_path) as file:
