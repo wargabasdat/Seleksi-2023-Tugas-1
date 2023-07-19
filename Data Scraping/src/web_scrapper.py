@@ -11,6 +11,7 @@ data_card_boosterpack = []  # untuk keperluan join data kartu dengan boosterpack
 data_card_pscale = []       # menyimpan data monster yang memiliki card_type pendulum
 card_id = 1                 # menyimpan atribut card_id
 boosterpack_id = 0          # menyimpan atribut boosterpack_id
+i = 1
 
 # for loop untuk setiap url dalam list
 for url in url_list:
@@ -27,6 +28,7 @@ for url in url_list:
     release_date = release_date_parsed[2] + "-" + release_date_parsed[0] + "-" + release_date_parsed[1]             # menyimpan atribut release date
     
     # Add the extracted data to data_boosterpack
+    print(f"Scraping boosterpack {boosterpack_id} : {boosterpack_name}")
     data_boosterpack.append({
         "boosterpack_id": boosterpack_id,
         "boosterpack_name": boosterpack_name,
@@ -143,6 +145,9 @@ for url in url_list:
             })
         card_id+=1
 
+    print(f"data card scrapped in boosterpack {boosterpack_id} : {card_id - i}")
+    i = card_id
+    
 # membuat dataframe
 df_card = pd.DataFrame(data_card)       
 df_monster = pd.DataFrame(data_monster)
@@ -157,4 +162,4 @@ df_boosterpack.to_json("Data Scraping/data/boosterpack_data.json",orient="record
 df_card_boosterpack.to_json("Data Scraping/data/card_boosterpack_data.json",orient="records")
 df_card_pscale.to_json("Data Scraping/data/pendulum_data.json",orient="records")
 
-print("Scraping data berhasil dilakukan")
+print("Scraping data has been successfully done!")

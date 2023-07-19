@@ -9,6 +9,12 @@
 </h2>
 
 ## Description of the data and DBMS
+
+<p align="center">
+  <img src="./Data Scraping/screenshot/Yugioh_banner.jpg">
+</p>
+<br>
+
 Yu-Gi-Oh! adalah permainan kartu koleksi dan franchise multimedia yang populer yang berasal dari Jepang. Permainan ini dibuat oleh Kazuki Takahashi dan pertama kali diterbitkan sebagai seri manga pada tahun 1996. Franchise ini dengan cepat mendapatkan popularitas di seluruh dunia dan berkembang menjadi berbagai bentuk media, termasuk anime, permainan video, dan film. <br>
 
 Data yang diambil berasal dari https://www.db.yugioh-card.com/yugiohdb/card_list.action. Pada website tersebut, diambil data kartu dari boosterpack yang released pada rentang tahun 2018 - 2022. Saya memilih Yu-Gi-Oh! sebagai data yang diambil karena merupakan salah satu permainan favorit saya sejak kecil dan saya mengambil data dari website https://www.db.yugioh-card.com/yugiohdb/card_list.action karena pada website ini menampilkan data kartu yang cukup lengkap dari tahun ke tahun. <br>
@@ -47,7 +53,7 @@ saya menggunakan json dengan struktur array object dengan contoh :
 ```
 
 ## Database Structure (ERD and relational diagram)
-Dibawah ini merupakan ERD yang saya buat
+Dibawah ini merupakan ERD yang saya buat <br>
 <img src = "./Data Storing/design/ERDiagram.png" alt="ERD">
 
 Dibawah ini merupakan Relational diagram yang saya buat <br>
@@ -56,7 +62,7 @@ Dibawah ini merupakan Relational diagram yang saya buat <br>
 ## Explanation of ERD to relational diagram translation process
 proses translasi ERD menjadi relational diagram dilakukan dengan berbagai proses, yaitu :
 1. Hubungan many-to-many antara boosterpack dan player ditranslasikan menjadi tiga buah tabel, yaitu tabel boosterpack, player, dan hubungan relasi antara kedua tabel tersebut yang dijadikan tabel (boosterpack_order) dengan primary key dari kedua tabel dijadikan atribut pada tabel boosterpack_order
-2. Hubungan many to one antara boosterpack dan cards ditranslasikan menjadi tiga buah tabel, yaitu tabel boosterpack, cards, dan hubungan relasi antara kedua tabel tersebut yang dijadikan tabel (Card_Boosterpack) dengan primary key dari kedua tabel dijadikan atribut pada tabel card_boosterpack. Dilakukan hal tersebut karena dirasa lebih efisien.
+2. Hubungan many to one antara boosterpack dan cards ditranslasikan menjadi tiga buah tabel, yaitu tabel boosterpack, cards, dan hubungan relasi antara kedua tabel tersebut yang dijadikan tabel (Card_Boosterpack) dengan primary key dari kedua tabel dijadikan atribut pada tabel card_boosterpack. Dilakukan hal tersebut karena jika primary key dari one side dimasukkan ke many side, akan terdapat beberapa redudansi data
 3. Hubungan many (partial) to one antara card dengan forbiddenlist ditranslasikan menjadi tiga buah tabel, yaitu tabel cards, forbiddenlist, dan hubungan relasi antara kedua tabel tersebut yang dijadikan tabel (Card_Forbiddenlist) dengan primary key dari kedua tabel dijadikan atribut pada tabel card_forbiddenlist. Hal ini dilakukan agar menghindari null value pada many side.
 4. Hubungan spesialisasi pada tabel card serta tabel lainnya yang berhubungan ditranslasikan menjadi tiga tabel, yaitu tabel cards, monster, dan pendulum. Hal ini karena beberapa tabel spesialisasi yang dibuat tidak memiliki atribut khusus sehingga tidak perlu dibuat tabel. Lalu, primary key dari tabel card dimasukkan pada tabel monster dan primary key dari tabel monster dimasukkan pada tabel pendulum.
 
@@ -67,6 +73,17 @@ proses translasi ERD menjadi relational diagram dilakukan dengan berbagai proses
 <p align="center">
   <img src="./Data Scraping/screenshot/Scrap Testing.png">
 </p>
+<br>
+
+<p align="center">
+  <img src="./Data Scraping/screenshot/Scrap Testing_1.png">
+</p>
+<br>
+
+<p align="center">
+  <img src="./Data Scraping/screenshot/Scrap Testing_2.png">
+</p>
+<br>
 
 ### Data Storing
 List of Table
@@ -104,17 +121,19 @@ List of Table
   <img src="./Data Visualization/yugioh_dashboard.png">
 </p>
 Insight yang didapatkan dari hasil visualisasi data :
+
 1. Jenis kartu monster terbanyak yang released pada rentang tahun 2018 - 2022 yaitu Effect Monster dengan jumlah sebanyak 1572 kartu
 2. Jenis kartu spell terbanyak yang released pada rentang tahun 2018 - 2022 yaitu Normal Spell dengan jumlah sebanyak 410 kartu
 3. Jenis kartu trap terbanyak yang released pada rentang tahun 2018 - 2022 yaitu Normal Trap dengan jumlah sebanyak 344 kartu
 4. Tahun 2022 merupakan tahun dengan jumlah keluaran boosterpack terbanyak, yaitu sebanyak 12 boosterpack
 5. Ghost from the past: the 2nd haunting merupakan boosterpack dengan jumlah kartu terbanyak, yaitu sebanyak 183 kartu
 
-## Reference (Library used, etc)
+## Reference Tools
 1. BeautifulSoup
 2. JSON
 3. Requests
 4. Pandas
+5. Power BI
 
 ## Author
 I Dewa Made Manu Pradnyana / 18221047 <br>
