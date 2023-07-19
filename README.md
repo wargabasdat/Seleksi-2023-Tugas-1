@@ -98,9 +98,11 @@ Struktur pada file `tournament.json` sedikit berbeda dibanding file `player.json
 
 ## Database Structure
 Berikut adalah struktur database dalam bentuk ERD (Entity Relationship Diagram):
+
 ![erd](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/BWF%20Men's%20Singles%20ERD.png)
 
 Berikut adalah struktur database dalam bentuk Relational Diagram:
+
 ![erd](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/BWF%20Men's%20Singles%20Relational%20Diagram.png)
 
 ## Proses Memetakan ERD ke Relational Diagram
