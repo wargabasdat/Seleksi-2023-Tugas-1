@@ -55,7 +55,7 @@ Cara menggunakan `File SQL`:
 
 ### JSON Structure
 <b>Berikut merupakan struktur JSON dari file event.json:</b>
-'''
+```
 {
     "event_event": [
         {
@@ -68,7 +68,7 @@ Cara menggunakan `File SQL`:
         }
     ]
 }
-'''
+```
 * `id_event`: kode unik untuk event yang diperoleh dari penomoran pada link di website eventkampus.com
 * `event`: nama dari event yang diselenggarakan
 * `kategori`: kategori dari event yang diselenggarakan, terdapat 8 kategori yang dapat dipilih oleh pengunggah
@@ -77,7 +77,7 @@ Cara menggunakan `File SQL`:
 * `tempat`: tempat penyelenggaraan event (berupa nama gedung atau lokasi spesifik lainnya)
 
 <b>Berikut merupakan struktur JSON dari file tiket.json:</b>
-'''
+```
 {
     "harga_tikettiket_event": [
         {
@@ -88,14 +88,14 @@ Cara menggunakan `File SQL`:
         }
     ]
 }
-'''
+```
 * `id_event`: ID event yang menyediakan tiket
 * `id_tiket`: kode unik untuk setiap jenis tiket yang dijual
 * `jenis_tiket`: nama atau jenis tiket dari suatu event
 * `harga_tiket`: harga tiket yang dijual
 
 <b>Berikut merupakan struktur JSON dari file tag.json:</b>
-'''
+```
 {
     "tag_event": [
         {
@@ -104,12 +104,12 @@ Cara menggunakan `File SQL`:
         }
     ]
 }
-'''
+```
 * `id_event`: berupa ID event yang terhubung dengan suatu tag
 * `tag`: nama tag
 
 <b>Berikut merupakan struktur JSON dari file kota.json:</b>
-'''
+```
 {
     "kota_event": [
         {
@@ -118,7 +118,7 @@ Cara menggunakan `File SQL`:
         }
     ]
 }
-'''
+```
 * `id_kota`: kode unik untuk suatu kota
 * `kota`: nama kota yang diperoleh dari _list_ kota pada website eventkampus.com
 
@@ -197,7 +197,7 @@ Detail terkait tabel tag:
 <br><br>
 
 Data pada tabel kota:
-<brs>
+<br>
 <img src='/Data Storing/screenshot/data_kota.png'>
 <br>
 Detail terkait tabel kota:
