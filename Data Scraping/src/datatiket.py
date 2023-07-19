@@ -44,6 +44,7 @@ for page in range(1,5):
             harga_tiket = harga_tiket.replace('Rp ','')
             harga_tiket = harga_tiket.replace('.','')
             harga_tiket = int(harga_tiket)
+            # memasukkan ke dictionary
             data_hargatiket["hargatiket_event"].append(
                 {
                     "id_event" : id_event,
@@ -54,7 +55,7 @@ for page in range(1,5):
             )
 
         
-
+# masukkan data tiket dengan update file tiket.json
 folderPath = '/Users/marchelinefannihp/Documents/GitHub/Seleksi-2023-Tugas-1/Data Scraping/data/'
 with open(folderPath + 'tiket.json', 'w') as file:
     json.dump(data_hargatiket, file)

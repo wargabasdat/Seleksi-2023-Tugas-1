@@ -39,6 +39,7 @@ for page in range(1,152):
         tanggal = event_data[1].text.replace('date_range ','')
         jam = event_data[2].text.replace('access_time ','')
         tempat = event_data[3].text.replace('place ','')
+        # memasukkan ke dictionary
         data_event["event_event"].append(
             {
                 "id_event" : id_event,
@@ -50,7 +51,7 @@ for page in range(1,152):
             }
         )
 
-
+# masukkan data event dengan update file event.json
 folderPath = '/Users/marchelinefannihp/Documents/GitHub/Seleksi-2023-Tugas-1/Data Scraping/data/'
 with open(folderPath + 'event.json', 'w') as file:
     json.dump(data_event, file)

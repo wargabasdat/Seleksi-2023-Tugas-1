@@ -21,6 +21,7 @@ for city in cities:
     # menghilangkan angka di akhir nama kota
     kota = kota.replace(' ' + str(span) + ' ', '')
     
+    # memasukkan ke dictionary
     data_kota["kota_event"].append(
         {
             "id_kota" : id_kota,
@@ -28,6 +29,7 @@ for city in cities:
         }
     )
 
+# masukkan data kota dengan update file kota.json
 folderPath = '/Users/marchelinefannihp/Documents/GitHub/Seleksi-2023-Tugas-1/Data Scraping/data/'
 with open(folderPath + 'kota.json', 'w') as file:
     json.dump(data_kota, file)

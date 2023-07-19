@@ -48,6 +48,7 @@ for t in tags:
             if '/' in id_event:
                 id_event = id_event[0:1]
             
+            # memasukkan ke dictionary
             data_tag["tag_event"].append(
                 {
                     "id_event" : id_event,
@@ -55,7 +56,7 @@ for t in tags:
                 }
             )
 
-
+# masukkan data tag dengan update file tag.json
 folderPath = '/Users/marchelinefannihp/Documents/GitHub/Seleksi-2023-Tugas-1/Data Scraping/data/'
 with open(folderPath + 'tag.json', 'w') as file:
     json.dump(data_tag, file)

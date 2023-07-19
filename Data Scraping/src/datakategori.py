@@ -13,9 +13,11 @@ categories = soup.findAll('a', 'button-kategori')
 
 id_kategori = 252000; #pembuatan ID unik untuk masing-masing kategori
 
+# looping per kategori
 for category in categories:
-    id_kategori += 1
-    kategori = category.find('div', 'button-kategori__text').text
+    id_kategori += 1 # membuat ID kategori
+    kategori = category.find('div', 'button-kategori__text').text # memperoleh nama kategori
+    # memasukkan ke dictionary
     data_kategori["kategori_event"].append(
         {
             "id_kategori" : id_kategori,
@@ -23,6 +25,7 @@ for category in categories:
         }
     )
 
+# masukkan data kategori dengan update file kategori.json
 folderPath = '/Users/marchelinefannihp/Documents/GitHub/Seleksi-2023-Tugas-1/Data Scraping/data/'
 with open(folderPath + 'kategori.json', 'w') as file:
     json.dump(data_kategori, file)
