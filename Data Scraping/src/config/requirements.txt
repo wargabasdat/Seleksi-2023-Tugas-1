@@ -2,3 +2,4 @@ selenium
 webdriver_manager
 emailmessage
 pandas
+psycopg2
