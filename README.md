@@ -42,7 +42,9 @@ Berikut *screenshot* hasil *storing* data objek wisata di Sumatra Barat:
 1. [*Screenshot data storing*](https://github.com/ReyhanPA/Seleksi-2023-Tugas-1/tree/main/Data%20Storing/screenshot)
 
 ## J. Bonus (Visualisasi Data)
+Visualisasi data dapat dilihat pada gambar di bawah ini.
 
+![Visualisasi Data]()
 
 ## K. Referensi
 - *Library* yang digunakan: [dokumentasi beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
