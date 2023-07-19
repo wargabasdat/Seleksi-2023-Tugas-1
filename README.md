@@ -1,13 +1,13 @@
 <h1 align="center">
   <br>
-  Data Sociolla
+  Seleksi Warga Basdat 2023: Data Sociolla
   <br>
   <br>
 </h1>
 
 <h2 align="center">
   <br>
-  Reswara Trista Aulia
+  Reswara Trista Aulia C. (18221122)
   <br>
   <br>
 </h2>
@@ -20,7 +20,7 @@
 #### Data Source
 Data yang diambil berasal dari laman [Sociolla](https://www.sociolla.com/), sebuah platform e-commerce yang fokus pada produk kecantikan dan perawatan kulit. Data ini mencakup informasi tentang merek-merek (brands) produk yang tersedia di Sociolla, termasuk kategori produk, harga, diskon, dan status produk sebagai produk baru (just arrived) atau produk terlaris (best seller).
 
-##### Data Structure
+#### Data Structure
 Data ini terdiri dari beberapa tabel yang saling terkait dalam basis data:
 
 Tabel `"brands"`: Tabel ini menyimpan informasi tentang merek-merek produk yang tersedia di Sociolla. Setiap merek memiliki atribut seperti nama merek (name), negara asal merek (country), dan mungkin atribut lain terkait merek.
