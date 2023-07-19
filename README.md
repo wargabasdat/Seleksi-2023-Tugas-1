@@ -311,6 +311,39 @@ Proses translasi ERD menjadi relational diagram melibatkan beberapa langkah beri
     - Setiap foreign key dalam ERD akan menjadi foreign key dalam tabel yang sesuai
 
 
+### Query Find Dragon
+
+Berikut adalah query untuk mencari naga dengan info lengkap berdasarkan id atau nama naga
+
+```sql
+
+```sql
+SELECT dr.dragon_name, e.element_name, r.rarity_name, dr.breed_time, dr.buy_price, dr.hatch_time, dr.breedable, dr.hatch_xp, dr.description,
+       GROUP_CONCAT(DISTINCT bm.base_move_name) AS base_moves,
+       GROUP_CONCAT(DISTINCT ta.trainable_attack_name) AS trainable_attacks,
+       GROUP_CONCAT(DISTINCT s.element_name) AS strengths,
+       GROUP_CONCAT(DISTINCT w.element_name) AS weaknesses
+FROM dragon AS dr
+INNER JOIN element AS e ON dr.id_element = e.id_element
+INNER JOIN rarity AS r ON dr.id_rarity = r.id_rarity
+INNER JOIN dragon_base_move AS dbm ON dr.id_dragon = dbm.id_dragon
+INNER JOIN base_move AS bm ON dbm.id_base_move = bm.id_base_move
+INNER JOIN dragon_trainable_attack AS dta ON dr.id_dragon = dta.id_dragon
+INNER JOIN trainable_attack AS ta ON dta.id_trainable_attack = ta.id_trainable_attack
+INNER JOIN dragon_strength AS ds ON dr.id_dragon = ds.id_dragon
+INNER JOIN element AS s ON ds.id_element = s.id_element
+INNER JOIN dragon_weakness AS dw ON dr.id_dragon = dw.id_dragon
+INNER JOIN element AS w ON dw.id_element = w.id_element
+WHERE dr.id_dragon = <dragon_id>
+GROUP BY dr.id_dragon;
+```
+
+Berikut adalah hasil query untuk mencari naga dengan info lengkap berdasarkan id atau nama naga
+
+![Query Find Dragon](Data%20Storing/screenshot/query_info_dragon_by_id.pngpng)
+
+Seperti yang kita lihat pada gambar di atas, query tersebut menghasilkan info lengkap dari naga dengan id 1, yaitu naga Nature Dragon. Jika anda ingin mengquery berdasarkan nama naga, anda dapat mengganti `dr.id_dragon = <dragon_id>` dengan `dr.dragon_name = <dragon_name>`.
+
 ### Reference (Library used, etc)
 
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
