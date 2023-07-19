@@ -344,6 +344,11 @@ Berikut adalah hasil query untuk mencari naga dengan info lengkap berdasarkan id
 
 Seperti yang kita lihat pada gambar di atas, query tersebut menghasilkan info lengkap dari naga dengan id 1, yaitu naga Nature Dragon. Jangan lupa untuk mengganti `<dragon_id>` dengan id naga yang ingin dicari. Jika anda ingin melakukan query berdasarkan nama naga, anda dapat mengganti `dr.id_dragon = <dragon_id>` dengan `dr.dragon_name = <dragon_name>`. Begitu juga jika ingin mencari berdasarkan element, rarity, atau atribut lainnya anda tinggal menyesuaikan kondisi pada `WHERE` query tersebut.
 
+### Data Visualization
+
+Penulis telah melakukan visualisasi data yang telah disimpan dalam basis data yang telah dibuat dengan menggunakan Google Data Studio. Anda bisa melihat visualisasi data tersebut pada link berikut:
+[Dragon City Data Visualization - Google Data Studio](https://lookerstudio.google.com/u/0/reporting/ef058495-98c9-4c46-8590-7eb11e7e0c00/page/7AYXD)
+
 ### Reference (Library used, etc)
 
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
