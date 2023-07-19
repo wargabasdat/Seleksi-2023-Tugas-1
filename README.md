@@ -80,12 +80,23 @@ Contoh salah satu record data
 # Database Structure
 Dari Entity Relationship Diagram,
 ![ERD](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ERD.png)
+Terdapat beberapa entity yang dikembangkan dari data TV Series, yaitu user, karakter, episode, dan studio.
 
+Berikut daftar relation yang ada pada diagram tersebut : 
+1. User many to many dengan TV Series karena satu user dapat melakukan rating pada banyak tv series, dan sebaliknya, dengan atribut rating yang ada setiap user melakukan rating terhadap tv series
+2. TV series many to one partial dengan studio, karena terdapat tv series yang tidak diproduksi oleh suatu studio
+3. TV series memiliki relation one to many dengan episodes, dimana episode merupakan weak entity yang hanya ada ketika tv series ada
+4. TV series many to one total dengana characters, karena suatu karakter yang ada pasti berasal dari TV series, tetapi sebuah TV series tidak harus memiliki karakter.
+5. Character - Cast memiliki relation one-to one dengan asumsi bahwa suatu karakter pada suatu TV Series hanya diperankan oleh satu aktor.
+   
 Di translasikan jadi Relational Diagram
 ![Relational Diagram](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Relational.png)
 
 # Translation Process
-
+1. ![1](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translation%201.png)
+2. ![2](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translation%202.png)
+3. ![3](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translation%203.png)
+4. ![4](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translation%204.png)
 
 # Program Snippets
 Tampilan singkat program yang digunakan,
