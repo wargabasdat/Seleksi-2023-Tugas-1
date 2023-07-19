@@ -78,6 +78,7 @@ Contoh salah satu record data
   }
 ```
 # Database Structure
+![Description](Data Scraping/screenshot/Import Library, Create Attribute Names.png)
 
 
 # Translation Process
