@@ -141,28 +141,70 @@ __Example: Publisher.json__
 1. publisher
 Pada entitas publisher, terdapat 4 atribut: ___publisherID___ sebagai _primary key_, name yang menyimpan nama penerbit, address yang menyimpan alamat penerbit, serta phone yang menyimpan nomor telepon penerbit. Oleh sebab ketiadaan atribut-atribut spesial, entitas berikut dapat diturunkan menjadi skema relational berikut.
 
-publisher = (___publisherID___, publisherName, address, phone)
+* publisher = (___publisherID___, publisherName, address, phone)
 
 2. author
 Pada entitas author, terdapat 3 atribut: ___authorID___ sebagai _primary key_, name yang menyimpan nama penulis, serta description yang menyimpan deskripsi penulis. Oleh sebab ketiadaan atribut-atribut spesial, entitas berikut dapat diturunkan menjadi skema relational berikut.
 
-author = (___authorID___, authorName, description)
+* author = (___authorID___, authorName, description)
 
 3. books
 Pada entitas books, terdapat atribut komposit bookDetail. Dengan demikian, langkah transformasi yang tepat untuk mengubah entitas ini adalah menjadikan setiap atribut dalam bookDetail sebagai atribut independen. Selain itu, entitas book juga terhubung pada relasi _publishedBooks_ dan _bookAuthor_. Oleh karena setiap buku harus memiliki data penulis dan peneribit, maka atribut _publisherID_ & _authorID_ akan dimasukkan ke dalam skema relational books sebagai _foreign key_. Atas penjelasan tersebut, entitas books dapat diturunkan menjadi skema relational berikut.
 
-
+* books = (___isbn___, title, _authorID_, _publisherID_, basePrice, description, publishDate, pageNum, weight, length, width, language)
+* books(publisherID) --> publisher(publisherID)
+* books(authorID) --> author(authorID)
 
 4. store
 Pada entitas store, terdapat 5 atribut: storeID sebagai _primary key_, address yang menyimpan alamat toko, city yang menyimpan kota lokasi toko, province yang menyimpan provinsi lokasi toko, serta phone yang menyimpan no. telepon toko. Oleh sebab ketiadaan atribut-atribut spesial, entitas berikut dapat diturunkan menjadi skema relational berikut.
 
-
+* store = (___storeID___, address, city, province, phone)
 
 5. customer
+Pada entitas customer terdapat 6 atribut: customerID sebagai primary key, email yang menyimpan surel pelanggan, name yang menyimpan nama pelanggan, birthdate yang menyimpan tanggal lahir pelanggan, gender yang menyimpan jenis kelamin pelanggan, serta phone yang menyimpan no. telepon pelanggan. Oleh karena ketiadaan atribut-atribut spesial dalam entitas ini, maka entitas ini dapat ditransformasikan menjadi skema relasional berikut.
+
+* customer = (___customerID___, email, name, birthDate, gender, phone)
+
 6. shippingAddress
+Entitas shippingAddress merupakan suatu weak entity yang dependen dengan entitas customer. Oleh karena itu, terdapat 8 atribut: customerID dan addressNum sebagai composite primary key yang menunjukkan alamat yang pelanggan simpan, receiverName yang menyimpan nama penerima, receiverPhone yang menyimpan no. telepon penerima, address yang menyimpan alamat penerima, city yang menyimpan kota domisili penerima, province yang menyimpan provinsi domisili penerima, serta postalCode yang menyimpan kode pos penerima. Atas penjelasan tersebut, entitas ini dapat ditransformasikan menjadi skema relasional berikut yang mengikuti nama sesuai dengan relasi antara entitas shippingAddress serta customer.
+
+* savedAddress = (___addressNum, customerID___, receiverName, receiverPhone, address, city, province, postalCode)
+* savedAddress(customerID) --> customer(customerID) 
+
 7. payment
+Entitas ini menyimpan seluruh pembayaran yang masuk ke dalam program. Entitas ini tersusun atas 3 atribut: paymentID sebagai primary key, amount yang menyimpan nominal pembayaran, serta method yang menunjukkan cara bayar yang dilakukan. Entitas ini terhubung pada relasi madePayment sebagai total participation sehingga primary key dari entitas customer perlu dimasukkan ke dalam relasi ini. Atas penjelasan tersebut, skema relasional dari entitas ini adalah sebagai berikut.
+
+* payment = (___paymentID___, amount, method, _customerID, invoiceNum_)
+* payment(customerID) --> customer(customerID)
+* payment(invoiceNum) --> orders(invoiceNum)
+
 8. orders
+Entitas ini menyimpan seluruh pemesanan yang terjadi dalam program. Entitas ini memiliki atribut turunan total price sehingga atribut ini tidak dimasukkan dalam skema relasional. Atribut lain yang terdapat dalam entitas ini adalah invoiceNum sebagai primary key, orderDate yang menyimpan tanggal pemesanan, shippingAddress yang menyimpan alamat pengiriman, serta status yang menunjukkan status pemesanan. Entitas ini terhubung dengan relasi orderPayment yang bersifat one-to-one sehingga primary key dari entitas payment dapat dimasukkan sebagai atribut dalam skema relasional orders. Selain itu, entitas ini juga terhubung dengan relasi placed order pada sisi total participation sehingga primary key dari entitas customer harus dimasukkan sebagai atribut foreign key dalam skema relasional orders. Atas penjelasan tersebut, skema relasional yang terbentuk adalah senagai berikut.
+
+* orders = (___invoiceNum___, _customerID_, orderDate, _addressNum_, status)
+* orders(customerID) --> customer(customerID)
+* orders(addressNum, customerID) --> savedAddress(addressNum, customerID)
+
 9. orderDetails
+Entitas ini merupakan suatu weak entity yang dependen pada entitas orders sehingga dibutuhkan primary key entitas orders dalam skema relasional entitas ini sebagai composite primary key. Entitas ini memiliki suatu atribut turunan finalPrice sehingga atribut ini tidak dimasukkan ke dalam skema relasional. Atribut lain yang terdapat dalam entitas ini adalah itemLineNumber sebagai composite primary key bersama invoiceNumber, quantity yang menyimpan jumlah buku yang dipesan, serta discount yang menyimpan diskon yang digunakan. Selain itu, entitas ini juga terhubung dengan relasi contains yang terhubung dengan entitas books pada sisi total participation sehingga primary isbn pada entitas books harus dijadikan foreign key pada skema relasi orderDetails. Atas penjelasan tersebut, skema relasional yang terbentuk adalah sebagai berikut.
+
+* orderDetails(___invoiceNum, itemLineNumber___, _isbn_, quantity, discount)
+* orderDetails(invoiceNum) --> orders(invoiceNum)
+* orderDetails(isbn) --> books(isbn)
+
+10. storeStock
+Relasi ini menghubungkan entitas store dengan books yang menunjukkan ketersediaan buku dalam suatu toko. Relasi ini bersifat total participation pada sisi store dan one pada sisi books yang berarti seluruh toko harus memiliki buku. Selain itu, relasi ini juga ditambahkan dengan atribut stock yang menunjukkan jumlah buku yang tersedia di dalam toko. Atas penjelasan tersebut, skema relasional yang terbentuk adalah sebagai berikut.
+
+* storeStock = (___storeID, isbn___, quantity)
+* storeStock(storeID) --> store(storeID)
+* storeStock(isbn) --> books(isbn)
+
+11. shoppingCart
+Relasi ini merupakan relasi yang menghubungkan entitas books dan customer yang menunjukkan buku-buku yang ingin dibeli pelanggan. Relasi ini bersifat many-to-many dan memiliki 3 atribut: isbn dan customerID sebagai atribut komposit, serta quantity sebagai jumlah dari buku yang ingin dipesan. Atas penjelasan tersebut, skema relasional yang terbentuk adalah sebagai berikut.
+
+* shoppingCart = (___customerID, isbn___, quantity)
+* shoppingCart(customerID) --> customer(customerID)
+* shoppingCart(isbn) --> books(isbn)
 &nbsp;
 
 ## __Program Screenshots__
