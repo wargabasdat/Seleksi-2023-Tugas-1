@@ -14,6 +14,7 @@
 * [ERD to Relational Diagram](#erd-to-relational-diagram)
 * [Screenshot](#screenshot)
 * [References](#references)
+* [Visualization](#visualization)
 * [Author](#author)
 
 ## **Repository Description**
@@ -32,11 +33,27 @@ The program specification that I used in order to develop the programs are displ
 | Specification | Additional Info |
 |---------------|----------|
 | [Python](https://www.python.org/downloads/release/python-3113/) | v3.11.3 
-| [MySQL](https://www.mysql.com/downloads/) |  |
-
-Several libraries are used 
+| [MySQL](https://www.mysql.com/downloads/) or [MariaDB](https://mariadb.org/download/?t=mariadb&p=mariadb&r=11.2.0) |  |
+| [Tableau](https://www.tableau.com/)| 2023.2 |
 
 ## **How To Use**
+First thing first, clone this repository:
+```sh
+git clone git@github.com:Gulilil/Seleksi-2023-Tugas-1.git
+```
+
+All the programs are stored inside `.ipynb` files in the `Data Scraping/src` folder. Therefore, all these files needed to be run sequentially, starts from `scraping.ipynb`, then `preprocess.ipynb`, and last `export.ipynb`.
+
+The `scraping.ipynb` contains the algorithm starts from scraping the website to storing the data as `.json` file.
+
+The `preprocess.ipynb` contains the algorithm to prepare the data from previous `.json` file to be processed further.
+
+The `export.ipynb` contains the algorithm starts from connecting the code to local RDBMS, creating database and tables, and inserting the needed data into the database.
+
+After the database is inserted with data, the specific database will be dumped into an `.sql` file, with a command as below:
+```sh
+mysqldump -u root -p {database_name} > {sql_file_name}.sql 
+```
 
 
 ## **JSON Structure**
@@ -46,7 +63,7 @@ Scraped data is stored inside `Data Scraping/data/data.json`. The explanation of
 ```
 JSON Structure
 
-// orient = `index`
+// orient = 'index'
 {
     <Dataframe Index> : {
         <Attribute 1> : <Value 1>,
@@ -57,7 +74,7 @@ JSON Structure
     },
 }
 
-// orient = `records`
+// orient = 'records'
 {
     {
         <Attribute 1> : <Value 1>,
@@ -152,11 +169,121 @@ After the preprocessing steps, considering the readable aspect, the data will be
 </div>
 
 ## **ERD to Relational Diagram**
+Here are the explanation steps to translate the ERD into a Relational Diagram.
+1. Composite attribute inside an entity is needed to be seperated into a different table. The new tables made from this attributes have two primary keys, which are the primary key from the previous entity and the composite attribute itself. The primary key from the previous entity will be set as a reference to the primary key from the origin entity.
+2. Create a table for each weak entity with its primary key is the attribute from the strong attribute it depended on. This primary key will be set as a reference to the primary key of the strong entity.
+3. For the strong entity, make a table with the same attributes with the origin entity, excluding the composite attribute which has been seperated.
 
 ## **Screenshot**
 
+### Data Scraping
+
+Function to scrap item and to get href of a product page in a webpage
+
+<img src='./Data Scraping/screenshot/scraping1.png'>
+
+Function to scrap product data from a product page
+
+<img src='./Data Scraping/screenshot/scraping2.jpg'>
+
+List of product type pages to be scraped
+
+<img src='./Data Scraping/screenshot/scraping3.jpg'>
+
+### Data Preprocess
+Splitting price attributes to currency and value
+
+<img src='./Data Scraping/screenshot/preprocess1.jpg'>
+<img src='./Data Scraping/screenshot/preprocess2.jpg'>
+
+Drop unused attributes
+
+<img src='./Data Scraping/screenshot/preprocess3.jpg'>
+
+Replace unnecessary value for string data
+
+<img src='./Data Scraping/screenshot/preprocess4.jpg'>
+
+Drop products that might be categorized as multiple types 
+
+<img src='./Data Scraping/screenshot/preprocess5.jpg'>
+
+Split payment value into a new dataframe
+
+<img src='./Data Scraping/screenshot/preprocess6.jpg'>
+
+### Data Exporting
+Establish connection to local RDBMS and create a new database
+
+<img src='./Data Storing/screenshot/export1.jpg'>
+
+Query to create tables
+
+<img src='./Data Storing/screenshot/export2.jpg'>
+
+Insert data to `product` table
+
+<img src='./Data Storing/screenshot/export3.jpg'>
+
+Insert data to `price` table
+
+<img src='./Data Storing/screenshot/export4.jpg'>
+
+Insert data to `shipment` table
+
+<img src='./Data Storing/screenshot/export5.jpg'>
+
+Insert data to `payment` table
+
+<img src='./Data Storing/screenshot/export6.jpg'>
+
+### Data Storing
+
+Tables in the constructed database
+
+<img src='./Data Storing/screenshot/dbms1.jpg'>
+
+`payment` and `price` tables' description
+
+<img src='./Data Storing/screenshot/dbms2.jpg'>
+
+`product` and `shipment` tables' description
+
+<img src='./Data Storing/screenshot/dbms3.jpg'>
+
+Selecting data in `product` table
+
+<img src='./Data Storing/screenshot/dbms4.jpg'>
+
+Selecting data in `price`, `payment`, and `shipment` tables
+
+<img src='./Data Storing/screenshot/dbms5.jpg'>
+
 ## **References**
 
+Here are the libraries used the program development:
+
+| Libraries | |
+|----------|--|
+| BeautifulSoup (bs4) | urllib.request |
+| pandas | numpy |
+| mysql.conector | |
+
+
+## **Visualization**
+The Data Visualization aspect is developed using [Tableau](https://www.tableau.com/) software. The result dashboards and the link to the dashboards are displayed as png as below:
+
+<div align="center">
+<img src="./Data Visualization/Dashboard_1.png">
+
+Source: [Data Visualization 1](https://public.tableau.com/app/profile/juan.christopher/viz/VisualisasiDataAslabBasdat1/Dashboard?publish=yes)
+</div>
+
+<div align="center">
+<img src="./Data Visualization/Dashboard_2.png">
+
+Source: [Data Visualization 2](https://public.tableau.com/app/profile/juan.christopher/viz/VisualisasiDataAslabBasdat2/Dashboard2?publish=yes)
+</div>
 
 ## **Author**
 | Name | Student ID |
