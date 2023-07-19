@@ -12,9 +12,11 @@ DBMS yang digunakan adalah __PostgreSQL__. Alasan penggunaan PostgreSQL karena m
 
 ## Specification of the program
 Program untuk melakukan *data scraping* dan *data storing* ditulis menggunakan bahasa pemrograman __Python__ dengan beberapa library:
-- `Selenium`: Library ini digunakan atas pertimbangan bahwa https://www.dbl.id merupakan web yang __dinamis__ sehingga penggunaan Selenium yang melakukan otomatisasi browser dan interaktif termasuk memungkinkan untuk melakukan klik pada web akan memudahkan dalam melakukan *scraping*.
-- `JSON`: Library ini digunakan karena keluaran file yang diharapkan adalah dalam format .json
-- `psycopg2`: Library ini digunakan untuk melakukan koneksi dengan *database* PostgreSQL dan memasukkan data-data dari file .json ke *database*
+- `Selenium`: Digunakan atas pertimbangan bahwa https://www.dbl.id merupakan web yang __dinamis__ sehingga penggunaan Selenium yang melakukan otomatisasi browser dan interaktif termasuk memungkinkan untuk melakukan klik pada web akan memudahkan dalam melakukan *scraping*.
+- `JSON`: Digunakan karena keluaran file yang diharapkan adalah dalam format .json
+- `psycopg2`: Digunakan untuk melakukan koneksi dengan *database* PostgreSQL dan memasukkan data-data dari file .json ke *database*
+- `pandas`: Digunakan untuk memuat dan menyimpan data dari berbagai format file, termasuk .json
+- `matplotlib`: Digunakan untuk melakukan visualisasi data dalam bentuk grafik
 
 ## How to use
 ### Data Scraping
@@ -211,6 +213,14 @@ Berikut merupakan contoh hasil penyimpanan data pada *database* setelah program 
 <div align=center>
   <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/ss_match_info.jpg width=500>
 </div>
+
+## Data Visualization (BONUS)
+Visualisasi data digunakan untuk memudahkan analisis data dalam mendapatkan suatu *insight* yang berguna. Berikut merupakan contoh visualisasi data dalam bentuk *pie chart* mengenai statistik hasil pertandingan dari SMA GLORIA 1 SURABAYA (GIRLS) yang merupakan juara DBL *Season 2022 East Java Series North Region* dan telah menjadi juara dalam 3 season berturut-turut. 
+<div align=center>
+  <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Visualization/visualisasi/Visualisasi_Pertandingan_Gloria1.png width=450>
+</div>
+
+*Pie chart* berisi total __assist, steal, block, turnover, dan points off turnover__ oleh SMA GLORIA 1 SURABAYA selama season 2022. Terlihat bahwa 31.7% 
 
 
 ## Reference 
