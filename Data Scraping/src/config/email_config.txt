@@ -1,0 +1,2 @@
+<input_email_to_notify>
+<input_generated_password>
