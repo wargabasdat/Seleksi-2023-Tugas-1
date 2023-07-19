@@ -141,9 +141,6 @@ Berikut adalah diagram hubungan antar entitas (Entity Relationship Diagram/ERD) 
 ![ERD](Data%20Storing/design/ERD_Dragon_City.png)
 
 
-
-Berikut adalah diagram relasional yang menggambarkan tabel-tabel yang akan dibuat:
-
 Entitas : 
 1. Dragon
 
