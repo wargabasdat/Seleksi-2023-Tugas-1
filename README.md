@@ -7,95 +7,162 @@
 
 <h2 align="center">
   <br>
-  Data Scraping, Database Modelling & Data Storing
+  NBA Regular Season 2022/23 Data Scraping, Database Modelling & Data Storing
   <br>
   <br>
 </h2>
 
 
-## Spesifikasi
+# Data and DBMS Description
 
+Data yang saya ambil untuk proyek kali ini adalah data NBA Regular Season 2022/23 yang didapatkan dari website https://www.espn.com/nba/standings/_/sort/wins/dir/desc. Dari website ini saya mengambil data-data seperti posisi dan statistik team, statistik dan data pemain, serta data pertandingan.  Saya mengambil data ini karena tertarik dengan NBA dan ingin mendapatkan insight yang lebih banyak mengenai Regular Season 2022/23. Dengan mengerjakan proyek ini, dua hal yang saya minati bisa digabung menjadi satu, yaitu basket dan basis data.
+
+Untuk proyek kali ini saya menggunakan PostgreSQL dengan alasan, 
+
+1. Kompatibilitas : PostgreSQL mengikuti standar SQL sehingga bisa digunakan dengan berbagai macam framework. Selain itu, PostgreSQL juga dapat digunakan oleh operating system Windows,Mac, dan Linux. 
+
+2. Keamanan: PostgreSQL memiliki berbagai macam fitur keamanan untuk melindungi data yang dimiliki. Hal ini termasuk otorisasi tingkat kolom, enkripsi data, dana pengaturan akses pengguna.
+
+3. Komunitas yang Besar: PostgreSQL memiliki komunitas yang aktif dan beragam, yang akan membantu penyelesaian masalah yang ditemukan selama pengerjaan proyek ini
+
+# Program Spesification
+
+### Project Steps
+Proyek kali ini dibagi menjadi 4 tahap, yaitu Data Scrapping, Data Pre-Processing, Normalisation, dan Pemindahan Data yang didapatkan menjadi SQL Dump. 
+1. Proses data scrapping cukup sederhana dengan menggunakan function request beserta library BeautifulSoup. 
+2. Setelah data-data berhasil di dapatkan dari website ESPN, akan dilakukan pre-processing agar sesuai dengan bentuk yang diinginkan serta mempermudah proses analisis. 
+3. Data yang sudah diproses akan dilakukan normalisasi agar sesuai dengan tabel-tabel Relational Model. 
+4. Setelah semua ini selesai data akan diubah menjadi JSON untuk disimpan dan juga dipindahkan menjadi SQL yang akan dianalisis menggunakan postgreSQL.
+
+# How to Use the Program
 ### Data Scraping
+Untuk melihat proses data scrapping hingga normalization dapat menjalankan source code yang terdapat pada folder Data Scraping/src dan menjalankan seluruh code block yang terdapat pada source code tersebut. 
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
+### SQL
+Cara untuk menjalankan SQL yang sudah dibuat, pertama membuka terminal dan pindah direktori menjadi DataStoring/export. Setelah itu jalankan kode berikut pg_dump -U {nama_user} -d {nama_database}> NBASeason2223.sql
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
+# JSON Structure 
+Dari data yang telah di scrape, data dipindahkan menjadi bentuk JSON, sebagai berikut   
+1. player_bio JSON Structure
 
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
+>  {
+   "PlayerId": 1,
+    "PlayerName": "Giannis Antetokounmpo",
+    "Position": "Power Forward",
+   "PlayerHeight": 210.82,
+    "PlayerWeight": 243.0,
+    "Birthdate": "1994-12-6",
+    "Experience": "9th Season",
+    "Birth City": "Athens",
+    "Birth State": "Greece"
+>  }
 
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
+2. player_stats JSON Structure
 
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
+>{
+    "PlayerId": 1,
+    "Team": "Milwaukee Bucks",
+    "Gp": 63,
+    "Gs": 63,
+    "Min": 32.1,
+    "Pts": 31.1,
+    "OffReb": 2.2,
+    "DefReb": 9.6,
+    "Ast": 5.7,
+    "Stl": 0.8,
+    "Blk": 0.8,
+    "Turnover": 3.9,
+    "Pf": 3.1
+>}
 
-### Database Modelling & Data Storing
+3. team_matches JSON Structure
 
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
+>{
+    "MatchDay": "Thursday",
+    "MatchDate": "2022-10-20",
+    "Team1": "Milwaukee Bucks",
+    "Court": "Team 2",
+    "Team2": "Philadelphia 76ers",
+    "Winner": "Milwaukee Bucks",
+    "Overtime": false,
+    "Score1": 90,
+    "Score2": 88
+>}
 
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
+4. teams JSON Structure
 
-4. Tools yang digunakan __dibebaskan__ pada peserta.
+> {
+    "Standing": 1,
+    "City": "MIL",
+    "Name": "Milwaukee Bucks",
+    "Conference": "Eastern Conference",
+    "Pct": 70.7,
+    "Ppg": 116.9,
+    "OppPpg": 113.3,
+    "Coach": "Adrian Griffin"
+>}
 
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
+# Database Structure
 
+### ERD
+![alt text](https://github.com/Wentonn/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Relational%20Model%20Design.drawio.png)
 
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
+ERD Model diatas dibuat berdasarkan data-data yang telah di scrape dari website ESPN
 
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
+`player_bio` akan memiliki relasi one to many dengan `player_stats`. Selanjutnya `player_stats` akan memiliki relasi many to one dengan `teams`. Terakhir `teams` akan memiliki relasi many to many dengan `teams` sendiri dalam relasi `team_matches`.
 
-### Pengumpulan
+Setelah itu kita akan mengubah ERD ke dalam bentuk Relational Model. 
+1. `player_bio` akan memiliki primary key `playerid` dengan atribut lainnya yang terdapat entity `player_bio` pada ERD
+2. `teams` akan memiliki primary key `name` (nama team) dengan atribut lainnya yang terdapat pada entity `teams` pada ERD
+3. `player_stats` akan memiliki primary key yang juga merupakan foreign key, yaitu `playerid` yang merupakan reference to `player_bio` dan `teams` yang terdapat pada entity `player_stats` pada ERD
+4. team_matches akan memiliki primary key `matchdate` dan `team1` dan foreign key `team1` dan `team2` yang merupakan reference ke `teams` dan juga deskripsi tambahan yang terdapat pada relasi `team_matches` pada ERD
 
+### Relational Model
+![alt text](https://github.com/Wentonn/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ERD%20Design.drawio.png)
 
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
+# Screenshots
+Berikut adalah screenshot yang didapatkan saat melakukan Data Scraping dan Data Storing
+![alt text](https://github.com/Wentonn/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/player_bio.jpg)
 
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
+![alt text](https://github.com/Wentonn/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/player_stats.jpg)
 
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
+![alt text](https://github.com/Wentonn/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/team_matches.jpg)
 
+![alt text](https://github.com/Wentonn/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/player_bio%20table.jpg)
 
-```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
+![alt text](https://github.com/Wentonn/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/teams%20table.jpg)
 
+# Insights
+Dari data yang yang didapatkan melalui web scraping, kita bisa mendapatkan beberapa *insights*, seperti
 
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
+### Oldest NBA Players
+![alt_text](https://github.com/Wentonn/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/top%2010%20oldest%20player.jpg)
 
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
+### Team dengan Bigman (200cm) lebih dari 10:
+![alt_text](https://github.com/Wentonn/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/most%20bigman%20team.jpg)
+
+### Pemain Defensif kuat di NBA
+![alt_text](https://github.com/Wentonn/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/top%2010%20defensive%20players.jpg)
+
+### Pemain dengan Turnover yang banyak
+![alt_text](https://github.com/Wentonn/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/umur%20pemain%20dan%20turnover%20lebih%20dari%204.jpg)
+
+### Team yang kuat di home court
+![alt_text](https://github.com/Wentonn/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/top%20home%20winners.jpg)
+
+Seperti yang bisa dilihat dari hasil screenshot diatas, kita dapat mempelajari banyak hal-hal dari data yang sudah di scrape. Dengan menggunakan query-query yang tersedia pun kita dapat melakukan analisis mendalam untuk setiap pemain dan tim dan probabilitas statistik mereka di season berikutnya.
+
+# References
+Library yang digunakan adalah :
+1. Language : Python  (https://www.python.org/doc/)
+2. BeautifulSoup : Library utama yang digunakan untuk Data Scraping (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+3. Requests : Library yang digunakan untuk mengirimkan HTTP request (https://pypi.org/project/requests/)
+4. Pandas : Data yang digunakan untuk melakukan pre processing (https://pandas.pydata.org/docs/)
+5. JSON : Library json digunakan untuk mendapatkan file json untuk data yang telah diproses (https://www.w3schools.com/python/python_json.asp)
+6. re : Library re digunakan untuk membantu pre processing (https://docs.python.org/3/library/re.html)
 
 <p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
+  <br>
+   18221095 Nicolas Owen Halim
 </p>
 <br>
