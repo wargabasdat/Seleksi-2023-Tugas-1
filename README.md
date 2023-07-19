@@ -168,12 +168,16 @@ Entitas :
     - trainable_attack_name
     - trainable_attack_type
     - trainable_attack_damage
+
   4. Base_move
+
     - id_base_move
     - base_move_name
     - base_move_type
     - base_move_damage
+
   5. Rarity
+
     - id_rarity
     - rarity_name
 
@@ -223,8 +227,53 @@ Berikut adalah diagram relasional yang menggambarkan tabel-tabel yang akan dibua
 
 Proses translasi ERD menjadi relational diagram melibatkan beberapa langkah berikut:
 
-1. 
+1. Identifikasi Entity
+
+  - Setiap entitas dalam ERD akan menjadi tabel dalam relational diagram
+
+2. Identifikasi Atribut
+  
+  - Setiap atribut dalam ERD akan menjadi kolom dalam tabel yang sesuai
+
+3. Identifikasi Relation
+
+  - Setiap relasi dalam ERD akan menjadi tabel atau kolom dalam relational diagram
+  - Setiap relasi many-to-many akan menjadi tabel join baru yang berisi primary key dari kedua entitas yang berelasi
+  - Setiap relasi many-to-one akan menjadi kolom dalam tabel yang sesuai
+
+4. Identifikasi Primary Key
+  
+  - Setiap primary key dalam ERD akan menjadi primary key dalam tabel yang sesuai
+
+5. Identifikasi dan implementasi Foreign Key
+  
+  - Setiap foreign key dalam ERD akan menjadi foreign key dalam tabel yang sesuai
+
 
 ### Reference (Library used, etc)
+
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Requests](https://requests.readthedocs.io/en/master/)
+- [JSON](https://docs.python.org/3/library/json.html)
+- [MySQL](https://www.mysql.com/)
+- [PhpMyAdmin](https://www.phpmyadmin.net/)
+- [XAMPP](https://www.apachefriends.org/index.html)
+- [Minimization of ER Diagrams - GeeksforGeeks](https://www.geeksforgeeks.org/minimization-of-er-diagrams/)
+
+
 ### Author
 
+<h3 align="center">
+  <br>
+  Adrian Fahri Affandi
+  <br>
+</h3>
+
+<p align="center">
+  <i>
+    <a href="https://www.linkedin.com/in/adrian-fahri-affandi-030698217/">LinkedIn</a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/adrianfhr/">Instagram</a>
+  </i>
+</p>
+<br>
