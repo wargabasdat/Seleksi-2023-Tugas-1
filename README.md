@@ -18,7 +18,7 @@
 <img src='/Data Visualization/Dashboard.png'>
 
 
-### Description of the data and DBMS (Why you choose it)
+### Description of the data and DBMS
 Event Kampus merupakan sebuah organisasi yang menyediakan jasa _media partner_ maupun paid promote untuk mempromosikan kegiatan-kegiatan yang diadakan untuk publik. Layanan yang diberikan berupa promosi melalui media sosial eventkampuscom maupun pengunggahan informasi terkait _event_ maupun tiketnya melalui website `eventkampus.com`.
 
 Pada program ini, dilakukan _data scraping_ terhadap data event, tiket, kota, dan tag pada website eventkampus.com. Data `event` terdiri dari id_event, nama event, kategori event, tanggal penyelenggaraan event, jam pelaksanaan event, serta tempat pelaksanaan event. Melalui data event, pengguna dapat melihat event-event yang diadakan beserta informasi lengkap terkait event tersebut. Beberapa event yang diunggah pada website eventkampus.com menyediakan `tiket` yang dapat dibeli melalui website. Setiap event dapat memiliki lebih dari satu jenis tiket dengan harga yang berbeda-beda. Selain itu, terdapat data `kota` penyelenggaraan event dan `tag` dari event untuk memudahkan pencarian oleh pengguna. Satu event hanya dapat diselenggarakan di satu kota, namun satu event dapat memiliki banyak tag.
@@ -149,52 +149,88 @@ Untuk penjelasan lebih lengkap terkait translasi untuk basis data eventkampus da
 ### Screenshot program
 #### Data Scraping
 Program untuk _scraping_ data event:
+<br>
 <img src='/Data Scraping/screenshot/ss_dataevent.png'>
+<br><br>
 
 Program untuk _scraping_ data tiket:
+<br>
 <img src='/Data Scraping/screenshot/ss_datatiket.png'>
+<br><br>
 
 Program untuk _scraping_ data tag:
+<br>
 <img src='/Data Scraping/screenshot/ss_datatag.png'>
+<br><br>
 
 Program untuk _scraping_ data kota:
+<br>
 <img src='/Data Scraping/screenshot/ss_datakota.png'>
+<br><br>
 
 #### Data Storing
 Data pada tabel event:
+<br>
 <img src='/Data Storing/screenshot/data_event.png'>
+<br>
 Detail terkait tabel event:
+<br>
 <img src='/Data Storing/screenshot/detail_event.png'>
+<br><br>
 
 Data pada tabel tiket:
+<br>
 <img src='/Data Storing/screenshot/data_tiket.png'>
+<br>
 Detail terkait tabel tiket:
+<br>
 <img src='/Data Storing/screenshot/detail_tiket.png'>
+<br><br>
 
 Data pada tabel tag:
+<br>
 <img src='/Data Storing/screenshot/data_tag.png'>
+<br>
 Detail terkait tabel tag:
+<br>
 <img src='/Data Storing/screenshot/detail_tag.png'>
+<br><br>
 
 Data pada tabel kota:
+<brs>
 <img src='/Data Storing/screenshot/data_kota.png'>
+<br>
 Detail terkait tabel kota:
+<br>
 <img src='/Data Storing/screenshot/detail_kota.png'>
+<br><br>
 
 Data pada tabel pembelian:
+<br>
 <img src='/Data Storing/screenshot/data_pembelian.png'>
+<br>
 Detail terkait tabel pembelian:
+<br>
 <img src='/Data Storing/screenshot/detail_pembelian.png'>
+<br><br>
 
 Data pada tabel pengguna:
+<br>
 <img src='/Data Storing/screenshot/data_pengguna.png'>
+<br>
 Detail terkait tabel pengguna:
+<br>
 <img src='/Data Storing/screenshot/detail_pengguna.png'>
+<br><br>
 
 Data pada tabel profil:
+<br>
 <img src='/Data Storing/screenshot/data_profil.png'>
+<br>
 Detail terkait tabel profil:
+<br>
 <img src='/Data Storing/screenshot/detail_profil.png'>
+<br>
 
 <br>
 
