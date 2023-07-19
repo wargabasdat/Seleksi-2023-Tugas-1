@@ -81,6 +81,18 @@ Pada struktur di atas ada beberapa _key_ yang dapat diidentifikasi:
 - `langSupp` adalah sebuah kunci yang menyimpan sebuah objek yang memiliki beberapa _sub-object_, yakni **Africa, Americas, Asia, Europe, dan Oceania**. Masing-masing _sub-object_ m**enyimpan _array of String_** berupa bahasa yang didukung fon dari masing-masing benua
 - `num_of_lang_sup` adalah kunci yang **menyimpan total jumlah bahasa yang didukung fon**
 ## Database Structure
+Berikut adalah diagram _entity-relational_ dan diagram relasional dari basis data:
+| ![Diagram ER](./Data%20Storing/design/ERD.png) | ![Diagram Relasional](./Data%20Storing/design/RelationalDiagram.png) |
+| ------- | ------- |
+| Diagram ER | Diagram Relasional |
+
+**Pada penyusunan diagram ER, terdapat beberapa asumsi:**
+* Sebuah fon misalnya Roboto, memiliki beberapa jenis gaya fon
+* Sebuah gaya fon merupakan variasi dari fon dengan modifikasi _slant_ dan _weight_
+* Setiap fon mungkin saja memiliki variasi nama gaya fon, tetapi namanya akan selalu terkait nilai _slant_ dan _weight_, misalnya Roboto Extrabold 700 Italic
+* Oleh karena itu, setiap gaya fon akan terikat dengan suatu fon, penyimpanan gaya fon secara individual (tanpa terikat ke suatu fon) tidak masuk akal secara organisasi data
+* Sebuah _glpyh_ unik untuk setiap gaya fon dan dapat dilambangkan dengan _unicode_ sehingga namanya tidak unik dan terikat pada masing-masing gaya fon (bisa saja fon Roboto dengan gaya Extrabold memiliki 300 _glpyhs_ tetapi varian Roboto Italic hanya memiliki 100 _glphys_
+  
 ## Explanation of ERD to relational diagram translation process
 ## Program Screencapture
 Berikut adalah tangkapan layar program:
