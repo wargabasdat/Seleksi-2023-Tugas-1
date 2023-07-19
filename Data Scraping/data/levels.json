@@ -1,0 +1,24 @@
+{
+  "levels": [
+    {
+      "game_id": "hl2",
+      "level_id": "full_game",
+      "level_name": "Full game"
+    },
+    {
+      "game_id": "hl2",
+      "level_id": "l_r9gzojkd",
+      "level_name": "Point Insertion"
+    },
+    {
+      "game_id": "hl2",
+      "level_id": "l_o9x2vz1w",
+      "level_name": "\"A Red Letter Day\""
+    },
+    {
+      "game_id": "hl2",
+      "level_id": "l_495j0rjw",
+      "level_name": "Route Kanal"
+    }
+  ]
+}
