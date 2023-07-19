@@ -175,8 +175,9 @@ Entitas :
 
 Hubungan Antar Entitas:
   1. Dragon_Element (Many-to-One)
-    - Setiap naga hanya dapat memiliki satu elemen
-    - Satu elemen dapat dimiliki oleh banyak naga
+  - Setiap naga hanya dapat memiliki satu elemen
+  - Satu elemen dapat dimiliki oleh banyak naga
+  
   2. Dragon_Strength (Many-to-Many)
     - Setiap naga dapat memiliki banyak kekuatan
     - Setiap kekuatan dapat dimiliki oleh banyak naga
@@ -208,7 +209,7 @@ Berikut adalah diagram relasional yang menggambarkan tabel-tabel yang akan dibua
 Proses translasi ERD menjadi relational diagram melibatkan beberapa langkah berikut:
 
 1. 
-### Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
+
 ### Reference (Library used, etc)
 ### Author
 
