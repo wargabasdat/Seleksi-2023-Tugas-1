@@ -297,20 +297,17 @@ Proses translasi ERD menjadi relational diagram melibatkan beberapa langkah beri
   
     - Setiap atribut dalam ERD akan menjadi kolom dalam tabel yang sesuai
 
-3. Identifikasi Relation
+3. Identifikasi Primary Key
+  
+    - Setiap primary key dalam ERD akan menjadi primary key dalam tabel yang sesuai
+
+4. Identifikasi Relation 
 
     - Setiap relasi dalam ERD akan menjadi tabel atau kolom dalam relational diagram
     - Setiap relasi many-to-many akan menjadi tabel join baru yang berisi primary key dari kedua entitas yang berelasi
     - Setiap relasi many-to-one akan menjadi kolom dalam tabel yang sesuai
-
-4. Identifikasi Primary Key
-  
-    - Setiap primary key dalam ERD akan menjadi primary key dalam tabel yang sesuai
-
-5. Identifikasi dan implementasi Foreign Key
-  
-    - Setiap foreign key dalam ERD akan menjadi foreign key dalam tabel yang sesuai
-
+    - Setiap relasi many-to-one akan menjadi foreign key dalam tabel yang sesuai
+    - Setiap relasi many-to-many akan menjadi foreign key dalam tabel yang sesuai
 
 ### Query Find Dragon
 
