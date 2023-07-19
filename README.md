@@ -14,7 +14,7 @@
 
 ![Dragon City](Data%20Storing/screenshot/dragon_city.png)
 
-Dragon City adalah sebuah permainan simulasi yang telah dikembangkan oleh Social Point. Permainan ini bisa dimainkan di berbagai platform seperti Facebook, iOS, Android, dan Windows Phone. Dalam permainan ini, para pemain memiliki kesempatan untuk membangun sebuah kota yang penuh dengan naga-naga, melakukan pembiakan naga, serta bertarung melawan naga-naga lainnya. Dalam proyek ini, penulis akan melakukan pengambilan data mengenai naga-naga dari situs web [deetlist.com/dragoncity/], menyimpan data tersebut dalam sebuah basis data yang berhubungan, dan kemudian melakukan analisis sederhana terhadap data yang berhasil diperoleh.
+Dragon City adalah sebuah permainan simulasi yang telah dikembangkan oleh Social Point. Permainan ini bisa dimainkan di berbagai platform seperti Facebook, iOS, Android, dan Windows Phone. Dalam permainan ini, para pemain memiliki kesempatan untuk membangun sebuah kota yang penuh dengan naga-naga, melakukan pembiakan naga, serta bertarung melawan naga-naga lainnya. Dalam proyek ini, penulis akan melakukan pengambilan data mengenai naga-naga dari situs web deetlist.com/dragoncity/, menyimpan data tersebut dalam sebuah basis data yang berhubungan menggunakan MySQL, dan melakukan analisis sederhana terhadap data yang telah disimpan.
 
 
 ## Spesifikasi
@@ -282,6 +282,8 @@ Berikut adalah diagram relasional yang menggambarkan tabel-tabel yang akan dibua
     - id_dragon (Foreign Key referencing Dragon)
     - id_rarity (Foreign Key referencing Rarity)
     - Primary Key (id_dragon, id_rarity)
+
+
 
 
 ### Explanation of ERD to relational diagram translation process
