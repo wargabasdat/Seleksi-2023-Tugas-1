@@ -216,6 +216,6 @@ time
 - Additional Source
 [BeautifulSoup Tutorial web scraping](https://www.youtube.com/watch?v=gRLHr664tXA)
 ## Author
-Wan Aufa Azis - 18221001
-Sistem dan Teknologi Informasi
-Institut Teknologi Bandung
+Wan Aufa Azis - 18221001  
+Sistem dan Teknologi Informasi  
+Institut Teknologi Bandung  
