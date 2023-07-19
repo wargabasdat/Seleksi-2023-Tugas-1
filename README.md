@@ -80,10 +80,10 @@ Pada struktur di atas ada beberapa _key_ yang dapat diidentifikasi:
 - `web_usage` adalah kunci yang **menyimpan jumlah situs web yang menggunakan fon**
 - `langSupp` adalah sebuah kunci yang menyimpan sebuah objek yang memiliki beberapa _sub-object_, yakni **Africa, Americas, Asia, Europe, dan Oceania**. Masing-masing _sub-object_ m**enyimpan _array of String_** berupa bahasa yang didukung fon dari masing-masing benua
 - `num_of_lang_sup` adalah kunci yang **menyimpan total jumlah bahasa yang didukung fon**
-## Database Structure (ERD and relational diagram)
+## Database Structure
 ## Explanation of ERD to relational diagram translation process
-## Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-## Reference (Library used, etc)
+## Screenshot program
+## Reference
 Program ini ditulis dengan menggunakan _library_ `BeautifulSoup` untuk proses _parsing_ laman HTML, `Selenium` untuk membuka halaman situs yang dinamis serta simulasi aktivitas _scroll_, `JSON` untuk menuliskan hasil _scraping_ ke dalam bentuk berkas JSON, serta _library_ pendukung lainnya seperti `LXML` untuk parsing, `Time` untuk memberi jeda waktu pada proses, dan `requests` untuk mengirimkan permintaan HTTP.
 
 Program untuk simulasi gerakan _scrolling_ didasarkan pada program yang ditulis oleh [Kuan Wei](https://medium.com/analytics-vidhya/using-python-and-selenium-to-scrape-infinite-scroll-web-pages-825d12c24ec7). Namun, program dimodifikasi untuk menyesuaikan perilaku dan karakteristik dari situs web Google Font sehingga pengambilan data tidak dilakukan di akhir, melainkan di tiap kali iterasi _scroll down_.
