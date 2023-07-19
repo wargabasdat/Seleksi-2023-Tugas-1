@@ -1,0 +1,4504 @@
+1,Punch,att_physical,338
+2,Stitching Roots,att_plant,550
+3,Poison Ivy,att_plant,650
+4,Leaf Blast,att_plant,1050
+5,Flying Kick,att_physical,413
+6,Lava Balls,att_fire,550
+7,Poison Ivy,att_plant,650
+8,Flaming Arrows,att_fire,650
+9,Punch,att_physical,338
+10,Tsunami,att_water,550
+11,Hard Charge,att_physical,488
+12,Nail Rain,att_metal,550
+13,Stunning Hit,att_physical,638
+14,Laser Beam,att_electric,650
+15,Poison Ivy,att_plant,650
+16,Electric Shock,att_electric,1050
+17,Flying Kick,att_physical,413
+18,Earthquake,att_earth,550
+19,Poison Ivy,att_plant,650
+20,Meteor Shower,att_earth,650
+21,Flying Kick,att_physical,413
+22,Nail Rain,att_metal,550
+23,Leech,att_dark,650
+24,Magneto,att_metal,650
+25,Stunning Hit,att_physical,638
+26,Flooding,att_water,650
+27,Ghost Cloud,att_dark,1050
+28,Storm,att_water,1050
+29,Flying Kick,att_physical,413
+30,Stitching Roots,att_plant,550
+31,Ice Spikes,att_ice,650
+32,Poison Ivy,att_plant,650
+33,Flying Kick,att_physical,413
+34,Stitching Roots,att_plant,550
+35,Magneto,att_metal,650
+36,Poison Ivy,att_plant,650
+37,Flying Kick,att_physical,413
+38,Earthquake,att_earth,550
+39,Laser Beam,att_electric,650
+40,Meteor Shower,att_earth,650
+41,Punch,att_physical,338
+42,Earthquake,att_earth,550
+43,Meteor Shower,att_earth,650
+44,Tumbleweed,att_earth,1050
+45,Stunning Hit,att_physical,638
+46,Meteor Shower,att_earth,650
+47,Rust,att_metal,1050
+48,Tumbleweed,att_earth,1050
+49,Flying Kick,att_physical,413
+50,Lava Balls,att_fire,550
+51,Flooding,att_water,650
+52,Flaming Arrows,att_fire,650
+53,Flying Kick,att_physical,413
+54,Lava Balls,att_fire,550
+55,Laser Beam,att_electric,650
+56,Flaming Arrows,att_fire,650
+57,Flying Kick,att_physical,413
+58,Tsunami,att_water,550
+59,Earthquake,att_earth,550
+60,Flooding,att_water,650
+61,Flying Kick,att_physical,413
+62,Tsunami,att_water,550
+63,Poison Ivy,att_plant,650
+64,Flooding,att_water,650
+65,Flying Kick,att_physical,413
+66,Earthquake,att_earth,550
+67,Leech,att_dark,650
+68,Meteor Shower,att_earth,650
+69,Punch,att_physical,338
+70,Lava Balls,att_fire,550
+71,Flaming Arrows,att_fire,650
+72,Nuclear Hit,att_fire,1050
+73,Flying Kick,att_physical,413
+74,Lightning,att_electric,550
+75,Leech,att_dark,650
+76,Laser Beam,att_electric,650
+77,Flying Kick,att_physical,413
+78,Frost Nova,att_ice,550
+79,Magneto,att_metal,650
+80,Ice Spikes,att_ice,650
+81,Flying Kick,att_physical,413
+82,Lava Balls,att_fire,550
+83,Magneto,att_metal,650
+84,Flaming Arrows,att_fire,650
+85,Flying Kick,att_physical,413
+86,Frost Nova,att_ice,550
+87,Leech,att_dark,650
+88,Ice Spikes,att_ice,650
+89,Punch,att_physical,338
+90,Frost Nova,att_ice,550
+91,Stunning Hit,att_physical,638
+92,Ice Spikes,att_ice,650
+93,Flying Kick,att_physical,413
+94,Lightning,att_electric,550
+95,Ice Spikes,att_ice,650
+96,Laser Beam,att_electric,650
+97,Punch,att_physical,338
+98,Lightning,att_electric,550
+99,Stunning Hit,att_physical,638
+100,Laser Beam,att_electric,650
+101,Flying Kick,att_physical,413
+102,Lightning,att_electric,550
+103,Magneto,att_metal,650
+104,Laser Beam,att_electric,650
+105,Punch,att_physical,338
+106,Tsunami,att_water,550
+107,Flooding,att_water,650
+108,Storm,att_water,1050
+109,Punch,att_physical,338
+110,Nail Rain,att_metal,550
+111,Stunning Hit,att_physical,638
+112,Magneto,att_metal,650
+113,Punch,att_physical,338
+114,Life Drain,att_dark,550
+115,Stunning Hit,att_physical,638
+116,Leech,att_dark,650
+117,Head Butt,att_physical,788
+118,Legendary Wind,att_legend,550
+119,Paralyzing Spell,att_legend,650
+120,Rainbow,att_legend,1050
+121,Flying Kick,att_physical,413
+122,Lava Balls,att_fire,550
+123,Leech,att_dark,650
+124,Flaming Arrows,att_fire,650
+125,Flying Kick,att_physical,413
+126,Ice Spikes,att_ice,650
+127,Stunning Hit,att_physical,638
+128,Tumbleweed,att_earth,1050
+129,Flying Kick,att_physical,413
+130,Earthquake,att_earth,550
+131,Tsunami,att_water,550
+132,Leech,att_dark,650
+133,Hard Charge,att_physical,488
+134,Flaming Arrows,att_fire,650
+135,Meteor Shower,att_earth,650
+136,Nuclear Hit,att_fire,1050
+137,Hard Charge,att_physical,488
+138,Flaming Arrows,att_fire,650
+139,Flooding,att_water,650
+140,Nuclear Hit,att_fire,1050
+141,Hard Charge,att_physical,488
+142,Leech,att_dark,650
+143,Poison Ivy,att_plant,650
+144,Ghost Cloud,att_dark,1050
+145,Hard Charge,att_physical,488
+146,Nail Rain,att_metal,550
+147,Electric Shock,att_electric,1050
+148,Magneto,att_metal,650
+149,Stunning Hit,att_physical,638
+150,Ice Spikes,att_ice,650
+151,Nuclear Hit,att_fire,1050
+152,Snow Storm,att_ice,1050
+153,Hard Charge,att_physical,488
+154,Magneto,att_metal,650
+155,Judo Kick,att_physical,863
+156,Snow Storm,att_ice,1050
+157,Stunning Hit,att_physical,638
+158,Leech,att_dark,650
+159,Storm,att_water,1050
+160,Ghost Cloud,att_dark,1050
+161,Head Butt,att_physical,788
+162,Legendary Wind,att_legend,550
+163,Paralyzing Spell,att_legend,650
+164,Rainbow,att_legend,1050
+165,Head Butt,att_physical,788
+166,Legendary Wind,att_legend,550
+167,Paralyzing Spell,att_legend,650
+168,Judo Kick,att_physical,863
+169,Head Butt,att_physical,788
+170,Legendary Wind,att_legend,550
+171,Rainbow,att_legend,1050
+172,Judo Kick,att_physical,863
+173,Hard Charge,att_physical,488
+174,Flooding,att_water,650
+175,Stunning Hit,att_physical,638
+176,Leaf Blast,att_plant,1050
+177,Flying Kick,att_physical,413
+178,Lava Balls,att_fire,550
+179,Poison Ivy,att_plant,650
+180,Stunning Hit,att_physical,638
+181,Hard Charge,att_physical,488
+182,Earthquake,att_earth,550
+183,Stunning Hit,att_physical,638
+184,Storm,att_water,1050
+185,Hard Charge,att_physical,488
+186,Meteor Shower,att_earth,650
+187,Head Butt,att_physical,788
+188,Leaf Blast,att_plant,1050
+189,Hard Charge,att_physical,488
+190,Flooding,att_water,650
+191,Head Butt,att_physical,788
+192,Laser Beam,att_electric,650
+193,Hard Charge,att_physical,488
+194,Poison Ivy,att_plant,650
+195,Stunning Hit,att_physical,638
+196,Snow Storm,att_ice,1050
+197,Hard Charge,att_physical,488
+198,Meteor Shower,att_earth,650
+199,Head Butt,att_physical,788
+200,Electric Shock,att_electric,1050
+201,Hard Charge,att_physical,488
+202,Earthquake,att_earth,550
+203,Head Butt,att_physical,788
+204,Ice Spikes,att_ice,650
+205,Hard Charge,att_physical,488
+206,Flooding,att_water,650
+207,Stunning Hit,att_physical,638
+208,Magneto,att_metal,650
+209,Hard Charge,att_physical,488
+210,Laser Beam,att_electric,650
+211,Stunning Hit,att_physical,638
+212,Ice Spikes,att_ice,650
+213,Hard Charge,att_physical,488
+214,Poison Ivy,att_plant,650
+215,Head Butt,att_physical,788
+216,Nail Rain,att_metal,550
+217,Stunning Hit,att_physical,638
+218,Meteor Shower,att_earth,650
+219,Head Butt,att_physical,788
+220,Ghost Cloud,att_dark,1050
+221,Flying Kick,att_physical,413
+222,Flaming Arrows,att_fire,650
+223,Hard Charge,att_physical,488
+224,Magneto,att_metal,650
+225,Hard Charge,att_physical,488
+226,Poison Ivy,att_plant,650
+227,Head Butt,att_physical,788
+228,Nuclear Hit,att_fire,1050
+229,Flying Kick,att_physical,413
+230,Magneto,att_metal,650
+231,Head Butt,att_physical,788
+232,Laser Beam,att_electric,650
+233,Lava Balls,att_fire,550
+234,Hypnosis,att_pure,1500
+235,Karate Brick Break,att_physical,1013
+236,Pure Energy,att_pure,1500
+237,Flying Kick,att_physical,413
+238,Meteor Shower,att_earth,650
+239,Stunning Hit,att_physical,638
+240,Electric Shock,att_electric,1050
+241,Hard Charge,att_physical,488
+242,Leech,att_dark,650
+243,Stunning Hit,att_physical,638
+244,Snow Storm,att_ice,1050
+245,Hard Charge,att_physical,488
+246,Flooding,att_water,650
+247,Head Butt,att_physical,788
+248,Leaf Blast,att_plant,1050
+249,Stunning Hit,att_physical,638
+250,Meteor Shower,att_earth,650
+251,Head Butt,att_physical,788
+252,Electric Shock,att_electric,1050
+253,Stunning Hit,att_physical,638
+254,Meteor Shower,att_earth,650
+255,Head Butt,att_physical,788
+256,Ghost Cloud,att_dark,1050
+257,Hard Charge,att_physical,488
+258,Flaming Arrows,att_fire,650
+259,Stunning Hit,att_physical,638
+260,Tumbleweed,att_earth,1050
+261,Stunning Hit,att_physical,638
+262,Meteor Shower,att_earth,650
+263,Head Butt,att_physical,788
+264,Nuclear Hit,att_fire,1050
+265,Hard Charge,att_physical,488
+266,Magneto,att_metal,650
+267,Stunning Hit,att_physical,638
+268,Nuclear Hit,att_fire,1050
+269,Stunning Hit,att_physical,638
+270,Meteor Shower,att_earth,650
+271,Head Butt,att_physical,788
+272,Ghost Cloud,att_dark,1050
+273,Hard Charge,att_physical,488
+274,Poison Ivy,att_plant,650
+275,Stunning Hit,att_physical,638
+276,Ghost Cloud,att_dark,1050
+277,Stunning Hit,att_physical,638
+278,Flooding,att_water,650
+279,Head Butt,att_physical,788
+280,Earthquake,att_earth,550
+281,Stunning Hit,att_physical,638
+282,Ice Spikes,att_ice,650
+283,Head Butt,att_physical,788
+284,Storm,att_water,1050
+285,Hard Charge,att_physical,488
+286,Flooding,att_water,650
+287,Head Butt,att_physical,788
+288,Tumbleweed,att_earth,1050
+289,Hard Charge,att_physical,488
+290,Poison Ivy,att_plant,650
+291,Head Butt,att_physical,788
+292,Nuclear Hit,att_fire,1050
+293,Hard Charge,att_physical,488
+294,Poison Ivy,att_plant,650
+295,Head Butt,att_physical,788
+296,Nail Rain,att_metal,550
+297,Hard Charge,att_physical,488
+298,Flaming Arrows,att_fire,650
+299,Flooding,att_water,650
+300,Nuclear Hit,att_fire,1050
+301,Hard Charge,att_physical,488
+302,Earthquake,att_earth,550
+303,Head Butt,att_physical,788
+304,Ice Spikes,att_ice,650
+305,Stunning Hit,att_physical,638
+306,Meteor Shower,att_earth,650
+307,Head Butt,att_physical,788
+308,Ghost Cloud,att_dark,1050
+309,Hard Charge,att_physical,488
+310,Poison Ivy,att_plant,650
+311,Head Butt,att_physical,788
+312,Nail Rain,att_metal,550
+313,Stunning Hit,att_physical,638
+314,Ice Spikes,att_ice,650
+315,Nuclear Hit,att_fire,1050
+316,Snow Storm,att_ice,1050
+317,Hard Charge,att_physical,488
+318,Laser Beam,att_electric,650
+319,Stunning Hit,att_physical,638
+320,Nuclear Hit,att_fire,1050
+321,Stunning Hit,att_physical,638
+322,Flaming Arrows,att_fire,650
+323,Head Butt,att_physical,788
+324,Electric Shock,att_electric,1050
+325,Stunning Hit,att_physical,638
+326,Laser Beam,att_electric,650
+327,Head Butt,att_physical,788
+328,Ghost Cloud,att_dark,1050
+329,Hard Charge,att_physical,488
+330,Poison Ivy,att_plant,650
+331,Head Butt,att_physical,788
+332,Nuclear Hit,att_fire,1050
+333,Stunning Hit,att_physical,638
+334,Storm,att_water,1050
+335,Judo Kick,att_physical,863
+336,Rust,att_metal,1050
+337,Lightning,att_electric,550
+338,Earthquake,att_earth,550
+339,Electric Shock,att_electric,1050
+340,Meteor Shower,att_earth,650
+341,Hard Charge,att_physical,488
+342,Poison Ivy,att_plant,650
+343,Head Butt,att_physical,788
+344,Nuclear Hit,att_fire,1050
+345,Hard Charge,att_physical,488
+346,Earthquake,att_earth,550
+347,Head Butt,att_physical,788
+348,Ice Spikes,att_ice,650
+349,Stunning Hit,att_physical,638
+350,Flooding,att_water,650
+351,Judo Kick,att_physical,863
+352,Ghost Cloud,att_dark,1050
+353,Hard Charge,att_physical,488
+354,Flooding,att_water,650
+355,Head Butt,att_physical,788
+356,Leaf Blast,att_plant,1050
+357,Hard Charge,att_physical,488
+358,Magneto,att_metal,650
+359,Stunning Hit,att_physical,638
+360,Nuclear Hit,att_fire,1050
+361,Hard Charge,att_physical,488
+362,Lava Balls,att_fire,550
+363,Lightning,att_electric,550
+364,Stitching Roots,att_plant,550
+365,Hard Charge,att_physical,488
+366,Frost Nova,att_ice,550
+367,Electric Shock,att_electric,1050
+368,Nuclear Hit,att_fire,1050
+369,Hard Charge,att_physical,488
+370,Lava Balls,att_fire,550
+371,Hard Charge,att_physical,488
+372,Earthquake,att_earth,550
+373,Hard Charge,att_physical,488
+374,Meteor Shower,att_earth,650
+375,Head Butt,att_physical,788
+376,Leaf Blast,att_plant,1050
+377,Hard Charge,att_physical,488
+378,Laser Beam,att_electric,650
+379,Stunning Hit,att_physical,638
+380,Storm,att_water,1050
+381,Hard Charge,att_physical,488
+382,Flooding,att_water,650
+383,Head Butt,att_physical,788
+384,Leaf Blast,att_plant,1050
+385,Hard Charge,att_physical,488
+386,Laser Beam,att_electric,650
+387,Stunning Hit,att_physical,638
+388,Ice Spikes,att_ice,650
+389,Hard Charge,att_physical,488
+390,Meteor Shower,att_earth,650
+391,Head Butt,att_physical,788
+392,Leaf Blast,att_plant,1050
+393,Hard Charge,att_physical,488
+394,Poison Ivy,att_plant,650
+395,Head Butt,att_physical,788
+396,Nail Rain,att_metal,550
+397,Hard Charge,att_physical,488
+398,Flamethrower,att_fire,1200
+399,Nail Rain,att_metal,550
+400,Hammer Fist,att_physical,900
+401,Stunning Hit,att_physical,638
+402,Earthquake,att_earth,550
+403,Leaf Blast,att_plant,1050
+404,Nuclear Hit,att_fire,1050
+405,Stunning Hit,att_physical,638
+406,Lava Balls,att_fire,550
+407,Meteor Shower,att_earth,650
+408,Leech,att_dark,650
+409,Hard Charge,att_physical,488
+410,Leech,att_dark,650
+411,Flaming Arrows,att_fire,650
+412,Ghost Cloud,att_dark,1050
+413,Stunning Hit,att_physical,638
+414,Flaming Arrows,att_fire,650
+415,Karate Brick Break,att_physical,1013
+416,Nail Rain,att_metal,550
+417,Judo Kick,att_physical,863
+418,Lightning,att_electric,550
+419,Lava Balls,att_fire,550
+420,Flaming Arrows,att_fire,650
+421,Hard Charge,att_physical,488
+422,Laser Beam,att_electric,650
+423,Life Drain,att_dark,550
+424,Leech,att_dark,650
+425,Hard Charge,att_physical,488
+426,Ice Spikes,att_ice,650
+427,Earthquake,att_earth,550
+428,Stitching Roots,att_plant,550
+429,Stunning Hit,att_physical,638
+430,Leech,att_dark,650
+431,Flaming Arrows,att_fire,650
+432,Rust,att_metal,1050
+433,Stunning Hit,att_physical,638
+434,Tumbleweed,att_earth,1050
+435,Ice Spikes,att_ice,650
+436,Leech,att_dark,650
+437,Storm,att_water,1050
+438,Head Butt,att_physical,788
+439,Rust,att_metal,1050
+440,Nuclear Hit,att_fire,1050
+441,Punch,att_physical,338
+442,Light Prism,att_light,750
+443,Head Butt,att_physical,788
+444,Light Sword,att_light,650
+445,Lightning,att_electric,550
+446,Hard Charge,att_physical,488
+447,Electric Shock,att_electric,1050
+448,Storm,att_water,1050
+449,Punch,att_physical,338
+450,Lightning,att_electric,550
+451,Snow Storm,att_ice,1050
+452,Leaf Blast,att_plant,1050
+453,Stunning Hit,att_physical,638
+454,Poison Ivy,att_plant,650
+455,Head Butt,att_physical,788
+456,Tumbleweed,att_earth,1050
+457,Punch,att_physical,338
+458,Snow Storm,att_ice,1050
+459,Lightning,att_electric,550
+460,Leaf Blast,att_plant,1050
+461,Punch,att_physical,338
+462,Leech,att_dark,650
+463,Lava Balls,att_fire,550
+464,Meteor Shower,att_earth,650
+465,Hard Charge,att_physical,488
+466,Flaming Arrows,att_fire,650
+467,Head Butt,att_physical,788
+468,Life Drain,att_dark,550
+469,Punch,att_physical,338
+470,Magneto,att_metal,650
+471,Hard Charge,att_physical,488
+472,Meteor Shower,att_earth,650
+473,Flying Kick,att_physical,413
+474,Earthquake,att_earth,550
+475,Hard Charge,att_physical,488
+476,Flaming Arrows,att_fire,650
+477,Punch,att_physical,338
+478,Leech,att_dark,650
+479,Hard Charge,att_physical,488
+480,Tumbleweed,att_earth,1050
+481,Punch,att_physical,338
+482,Life Drain,att_dark,550
+483,Flaming Arrows,att_fire,650
+484,Tumbleweed,att_earth,1050
+485,Punch,att_physical,338
+486,Life Drain,att_dark,550
+487,Flaming Arrows,att_fire,650
+488,Tumbleweed,att_earth,1050
+489,Flying Kick,att_physical,413
+490,Tsunami,att_water,550
+491,Head Butt,att_physical,788
+492,Storm,att_water,1050
+493,Hard Charge,att_physical,488
+494,Flooding,att_water,650
+495,Head Butt,att_physical,788
+496,Ghost Cloud,att_dark,1050
+497,Judo Kick,att_physical,863
+498,Storm,att_water,1050
+499,Meteor Shower,att_earth,650
+500,Leaf Blast,att_plant,1050
+501,Hard Charge,att_physical,488
+502,Light Sword,att_light,650
+503,Stunning Hit,att_physical,638
+504,Earthquake,att_earth,550
+505,Punch,att_physical,338
+506,Light Star,att_light,1050
+507,Hard Charge,att_physical,488
+508,Nuclear Hit,att_fire,1050
+509,Flying Kick,att_physical,413
+510,Light Prism,att_light,750
+511,Hard Charge,att_physical,488
+512,Flooding,att_water,650
+513,Punch,att_physical,338
+514,Light Sword,att_light,650
+515,Stunning Hit,att_physical,638
+516,Rust,att_metal,1050
+517,Flying Kick,att_physical,413
+518,Giant Crack,att_war,638
+519,Stunning Hit,att_physical,638
+520,Giant Mouth,att_war,975
+521,Hard Charge,att_physical,488
+522,Giant Mouth,att_war,975
+523,Head Butt,att_physical,788
+524,Nuclear Hit,att_fire,1050
+525,Stunning Hit,att_physical,638
+526,Giant Claw,att_war,1050
+527,Judo Kick,att_physical,863
+528,Earthquake,att_earth,550
+529,Punch,att_physical,338
+530,Giant Mouth,att_war,975
+531,Stunning Hit,att_physical,638
+532,Tsunami,att_water,550
+533,Nail Rain,att_metal,550
+534,Giant Claw,att_war,1050
+535,Head Butt,att_physical,788
+536,Magneto,att_metal,650
+537,Flying Kick,att_physical,413
+538,Paralyzing Spell,att_legend,650
+539,Stunning Hit,att_physical,638
+540,Rainbow,att_legend,1050
+541,Stunning Hit,att_physical,638
+542,Legendary Wind,att_legend,550
+543,Head Butt,att_physical,788
+544,Rainbow,att_legend,1050
+545,Hard Charge,att_physical,488
+546,Storm,att_water,1050
+547,Head Butt,att_physical,788
+548,Tumbleweed,att_earth,1050
+549,Hard Charge,att_physical,488
+550,Meteor Shower,att_earth,650
+551,Head Butt,att_physical,788
+552,Tumbleweed,att_earth,1050
+553,Punch,att_physical,338
+554,Meteor Shower,att_earth,650
+555,Stunning Hit,att_physical,638
+556,Snow Storm,att_ice,1050
+557,Flying Kick,att_physical,413
+558,Laser Beam,att_electric,650
+559,Stunning Hit,att_physical,638
+560,Leech,att_dark,650
+561,Flying Kick,att_physical,413
+562,Life Drain,att_dark,550
+563,Stunning Hit,att_physical,638
+564,Earthquake,att_earth,550
+565,Flying Kick,att_physical,413
+566,Flaming Arrows,att_fire,650
+567,Meteor Shower,att_earth,650
+568,Ghost Cloud,att_dark,1050
+569,Punch,att_physical,338
+570,Magneto,att_metal,650
+571,Hard Charge,att_physical,488
+572,Flooding,att_water,650
+573,Hard Charge,att_physical,488
+574,Stitching Roots,att_plant,550
+575,Stunning Hit,att_physical,638
+576,Earthquake,att_earth,550
+577,Punch,att_physical,338
+578,Poison Ivy,att_plant,650
+579,Flying Kick,att_physical,413
+580,Tumbleweed,att_earth,1050
+581,Flying Kick,att_physical,413
+582,Poison Ivy,att_plant,650
+583,Stunning Hit,att_physical,638
+584,Light Star,att_light,1050
+585,Hard Charge,att_physical,488
+586,Giant Crack,att_war,638
+587,Head Butt,att_physical,788
+588,Flaming Arrows,att_fire,650
+589,Flying Kick,att_physical,413
+590,Giant Crack,att_war,638
+591,Nuclear Hit,att_fire,1050
+592,Leech,att_dark,650
+593,Stunning Hit,att_physical,638
+594,Giant Claw,att_war,1050
+595,Nuclear Hit,att_fire,1050
+596,Light Star,att_light,1050
+597,Stunning Hit,att_physical,638
+598,Light Prism,att_light,750
+599,Lightning,att_electric,550
+600,Electric Shock,att_electric,1050
+601,Stunning Hit,att_physical,638
+602,Giant Claw,att_war,1050
+603,Head Butt,att_physical,788
+604,Light Sword,att_light,650
+605,Stunning Hit,att_physical,638
+606,Light Prism,att_light,750
+607,Judo Kick,att_physical,863
+608,Light Star,att_light,1050
+609,Punch,att_physical,338
+610,Giant Claw,att_war,1050
+611,Hard Charge,att_physical,488
+612,Lightning,att_electric,550
+613,Head Butt,att_physical,788
+614,Giant Crack,att_war,638
+615,Hard Charge,att_physical,488
+616,Giant Claw,att_war,1050
+617,Stunning Hit,att_physical,638
+618,Tsunami,att_water,550
+619,Frost Nova,att_ice,550
+620,Light Sword,att_light,650
+621,Flying Kick,att_physical,413
+622,Earthquake,att_earth,550
+623,Stunning Hit,att_physical,638
+624,Life Drain,att_dark,550
+625,Punch,att_physical,338
+626,Nail Rain,att_metal,550
+627,Head Butt,att_physical,788
+628,Earthquake,att_earth,550
+629,Hard Charge,att_physical,488
+630,Poison Ivy,att_plant,650
+631,Frost Nova,att_ice,550
+632,Leech,att_dark,650
+633,Punch,att_physical,338
+634,Tsunami,att_water,550
+635,Flooding,att_water,650
+636,Leaf Blast,att_plant,1050
+637,Stunning Hit,att_physical,638
+638,Ghost Cloud,att_dark,1050
+639,Flying Kick,att_physical,413
+640,Poison Ivy,att_plant,650
+641,Punch,att_physical,338
+642,Stitching Roots,att_plant,550
+643,Poison Ivy,att_plant,650
+644,Lightning,att_electric,550
+645,Hard Charge,att_physical,488
+646,Earthquake,att_earth,550
+647,Lava Balls,att_fire,550
+648,Rust,att_metal,1050
+649,Hard Charge,att_physical,488
+650,Stitching Roots,att_plant,550
+651,Earthquake,att_earth,550
+652,Nuclear Hit,att_fire,1050
+653,Punch,att_physical,338
+654,Life Drain,att_dark,550
+655,Stunning Hit,att_physical,638
+656,Rust,att_metal,1050
+657,Judo Kick,att_physical,863
+658,Snow Storm,att_ice,1050
+659,Punch,att_physical,338
+660,Leech,att_dark,650
+661,Hard Charge,att_physical,488
+662,Meteor Shower,att_earth,650
+663,Flaming Arrows,att_fire,650
+664,Giant Crack,att_war,638
+665,Punch,att_physical,338
+666,Leaf Blast,att_plant,1050
+667,Head Butt,att_physical,788
+668,Ice Spikes,att_ice,650
+669,Judo Kick,att_physical,863
+670,Meteor Shower,att_earth,650
+671,Snow Storm,att_ice,1050
+672,Leech,att_dark,650
+673,Stunning Hit,att_physical,638
+674,Poison Ivy,att_plant,650
+675,Punch,att_physical,338
+676,Flooding,att_water,650
+677,Judo Kick,att_physical,863
+678,Flooding,att_water,650
+679,Stitching Roots,att_plant,550
+680,Nail Rain,att_metal,550
+681,Hard Charge,att_physical,488
+682,Earthquake,att_earth,550
+683,Lava Balls,att_fire,550
+684,Rust,att_metal,1050
+685,Punch,att_physical,338
+686,Earthquake,att_earth,550
+687,Rust,att_metal,1050
+688,Giant Claw,att_war,1050
+689,Hard Charge,att_physical,488
+690,Nuclear Hit,att_fire,1050
+691,Tsunami,att_water,550
+692,Giant Mouth,att_war,975
+693,Flying Kick,att_physical,413
+694,Nuclear Hit,att_fire,1050
+695,Head Butt,att_physical,788
+696,Light Prism,att_light,750
+697,Hard Charge,att_physical,488
+698,Flooding,att_water,650
+699,Life Drain,att_dark,550
+700,Light Star,att_light,1050
+701,Flying Kick,att_physical,413
+702,Flooding,att_water,650
+703,Lightning,att_electric,550
+704,Ghost Cloud,att_dark,1050
+705,Flying Kick,att_physical,413
+706,Flaming Arrows,att_fire,650
+707,Judo Kick,att_physical,863
+708,Life Drain,att_dark,550
+709,Hard Charge,att_physical,488
+710,Flaming Arrows,att_fire,650
+711,Meteor Shower,att_earth,650
+712,Lightning,att_electric,550
+713,Head Butt,att_physical,788
+714,Poison Ivy,att_plant,650
+715,Flooding,att_water,650
+716,Electric Shock,att_electric,1050
+717,Head Butt,att_physical,788
+718,Frost Nova,att_ice,550
+719,Stunning Hit,att_physical,638
+720,Magneto,att_metal,650
+721,Stunning Hit,att_physical,638
+722,Laser Beam,att_electric,650
+723,Poison Ivy,att_plant,650
+724,Nuclear Hit,att_fire,1050
+725,Stunning Hit,att_physical,638
+726,Earthquake,att_earth,550
+727,Head Butt,att_physical,788
+728,Life Drain,att_dark,550
+729,Hard Charge,att_physical,488
+730,Stitching Roots,att_plant,550
+731,Stunning Hit,att_physical,638
+732,Meteor Shower,att_earth,650
+733,Hard Charge,att_physical,488
+734,Earthquake,att_earth,550
+735,Flaming Arrows,att_fire,650
+736,Tsunami,att_water,550
+737,Judo Kick,att_physical,863
+738,Meteor Shower,att_earth,650
+739,Flooding,att_water,650
+740,Poison Ivy,att_plant,650
+741,Flying Kick,att_physical,413
+742,Stitching Roots,att_plant,550
+743,Head Butt,att_physical,788
+744,Rust,att_metal,1050
+745,Punch,att_physical,338
+746,Stitching Roots,att_plant,550
+747,Flying Kick,att_physical,413
+748,Light Prism,att_light,750
+749,Hard Charge,att_physical,488
+750,Earthquake,att_earth,550
+751,Lava Balls,att_fire,550
+752,Lightning,att_electric,550
+753,Flying Kick,att_physical,413
+754,Tsunami,att_water,550
+755,Stunning Hit,att_physical,638
+756,Ghost Cloud,att_dark,1050
+757,Head Butt,att_physical,788
+758,Leaf Blast,att_plant,1050
+759,Judo Kick,att_physical,863
+760,Giant Crack,att_war,638
+761,Flying Kick,att_physical,413
+762,Meteor Shower,att_earth,650
+763,Stunning Hit,att_physical,638
+764,Electric Shock,att_electric,1050
+765,Hard Charge,att_physical,488
+766,Earthquake,att_earth,550
+767,Stunning Hit,att_physical,638
+768,Flooding,att_water,650
+769,Hard Charge,att_physical,488
+770,Earthquake,att_earth,550
+771,Stunning Hit,att_physical,638
+772,Snow Storm,att_ice,1050
+773,Hard Charge,att_physical,488
+774,Meteor Shower,att_earth,650
+775,Laser Beam,att_electric,650
+776,Tumbleweed,att_earth,1050
+777,Stunning Hit,att_physical,638
+778,Leech,att_dark,650
+779,Poison Ivy,att_plant,650
+780,Ghost Cloud,att_dark,1050
+781,Punch,att_physical,338
+782,Tsunami,att_water,550
+783,Judo Kick,att_physical,863
+784,Lightning,att_electric,550
+785,Stunning Hit,att_physical,638
+786,Meteor Shower,att_earth,650
+787,Flaming Arrows,att_fire,650
+788,Flooding,att_water,650
+789,Hard Charge,att_physical,488
+790,Earthquake,att_earth,550
+791,Light Sword,att_light,650
+792,Hypnosis,att_pure,1500
+793,Stunning Hit,att_physical,638
+794,Lava Balls,att_fire,550
+795,Head Butt,att_physical,788
+796,Leech,att_dark,650
+797,Head Butt,att_physical,788
+798,Earthquake,att_earth,550
+799,Ice Spikes,att_ice,650
+800,Leaf Blast,att_plant,1050
+801,Head Butt,att_physical,788
+802,Lava Balls,att_fire,550
+803,Magneto,att_metal,650
+804,Ghost Cloud,att_dark,1050
+805,Hard Charge,att_physical,488
+806,Snow Storm,att_ice,1050
+807,Head Butt,att_physical,788
+808,Stitching Roots,att_plant,550
+809,Punch,att_physical,338
+810,Snow Storm,att_ice,1050
+811,Ghost Cloud,att_dark,1050
+812,Giant Crack,att_war,638
+813,Punch,att_physical,338
+814,Earthquake,att_earth,550
+815,Head Butt,att_physical,788
+816,Light Sword,att_light,650
+817,Hard Charge,att_physical,488
+818,Nail Rain,att_metal,550
+819,Flaming Arrows,att_fire,650
+820,Giant Crack,att_war,638
+821,Punch,att_physical,338
+822,Stitching Roots,att_plant,550
+823,Laser Beam,att_electric,650
+824,Electric Shock,att_electric,1050
+825,Punch,att_physical,338
+826,Leaf Blast,att_plant,1050
+827,Flooding,att_water,650
+828,Storm,att_water,1050
+829,Hard Charge,att_physical,488
+830,Poison Ivy,att_plant,650
+831,Meteor Shower,att_earth,650
+832,Pure Energy,att_pure,1500
+833,Head Butt,att_physical,788
+834,Tsunami,att_water,550
+835,Flaming Arrows,att_fire,650
+836,Frost Nova,att_ice,550
+837,Hard Charge,att_physical,488
+838,Leech,att_dark,650
+839,Poison Ivy,att_plant,650
+840,Electric Shock,att_electric,1050
+841,Flying Kick,att_physical,413
+842,Tumbleweed,att_earth,1050
+843,Magneto,att_metal,650
+844,Electric Shock,att_electric,1050
+845,Stunning Hit,att_physical,638
+846,Earthquake,att_earth,550
+847,Tsunami,att_water,550
+848,Giant Crack,att_war,638
+849,Nuclear Hit,att_fire,1050
+850,Snow Storm,att_ice,1050
+851,Light Prism,att_light,750
+852,Ghost Cloud,att_dark,1050
+853,Flooding,att_water,650
+854,Giant Claw,att_war,1050
+855,Meteor Shower,att_earth,650
+856,Nail Rain,att_metal,550
+857,Rust,att_metal,1050
+858,Meteor Shower,att_earth,650
+859,Frost Nova,att_ice,550
+860,Flaming Arrows,att_fire,650
+861,Light Star,att_light,1050
+862,Leech,att_dark,650
+863,Poison Ivy,att_plant,650
+864,Laser Beam,att_electric,650
+865,Light Sword,att_light,650
+866,Ghost Cloud,att_dark,1050
+867,Frost Nova,att_ice,550
+868,Nuclear Hit,att_fire,1050
+869,Lava Balls,att_fire,550
+870,Snow Storm,att_ice,1050
+871,Leaf Blast,att_plant,1050
+872,Lightning,att_electric,550
+873,Stitching Roots,att_plant,550
+874,Lightning,att_electric,550
+875,Meteor Shower,att_earth,650
+876,Magneto,att_metal,650
+877,Stunning Hit,att_physical,638
+878,Light Prism,att_light,750
+879,Pure Energy,att_pure,1500
+880,Light Star,att_light,1050
+881,Stunning Hit,att_physical,638
+882,Lava Balls,att_fire,550
+883,Pure Energy,att_pure,1500
+884,Nuclear Hit,att_fire,1050
+885,Stunning Hit,att_physical,638
+886,Flooding,att_water,650
+887,Head Butt,att_physical,788
+888,Light Star,att_light,1050
+889,Head Butt,att_physical,788
+890,Earthquake,att_earth,550
+891,Light Star,att_light,1050
+892,Leaf Blast,att_plant,1050
+893,Stunning Hit,att_physical,638
+894,Stitching Roots,att_plant,550
+895,Flaming Arrows,att_fire,650
+896,Hypnosis,att_pure,1500
+897,Punch,att_physical,338
+898,Lightning,att_electric,550
+899,Flying Kick,att_physical,413
+900,Light Prism,att_light,750
+901,Hammer Fist,att_physical,900
+902,Legendary Wind,att_legend,550
+903,Paralyzing Spell,att_legend,650
+904,Rainbow,att_legend,1050
+905,Stunning Hit,att_physical,638
+906,Tsunami,att_water,550
+907,Giant Crack,att_war,638
+908,Ghost Cloud,att_dark,1050
+909,Hard Charge,att_physical,488
+910,Earthquake,att_earth,550
+911,Flooding,att_water,650
+912,Giant Mouth,att_war,975
+913,Punch,att_physical,338
+914,Life Drain,att_dark,550
+915,Electric Shock,att_electric,1050
+916,Leech,att_dark,650
+917,Flying Kick,att_physical,413
+918,Frost Nova,att_ice,550
+919,Ghost Cloud,att_dark,1050
+920,Storm,att_water,1050
+921,Punch,att_physical,338
+922,Flooding,att_water,650
+923,Leaf Blast,att_plant,1050
+924,Lava Balls,att_fire,550
+925,Flying Kick,att_physical,413
+926,Meteor Shower,att_earth,650
+927,Leaf Blast,att_plant,1050
+928,Electric Shock,att_electric,1050
+929,Head Butt,att_physical,788
+930,Tumbleweed,att_earth,1050
+931,Pure Energy,att_pure,1500
+932,Light Star,att_light,1050
+933,Flying Kick,att_physical,413
+934,Meteor Shower,att_earth,650
+935,Electric Shock,att_electric,1050
+936,Light Star,att_light,1050
+937,Punch,att_physical,338
+938,Earthquake,att_earth,550
+939,Leech,att_dark,650
+940,Giant Crack,att_war,638
+941,Stunning Hit,att_physical,638
+942,Tumbleweed,att_earth,1050
+943,Pure Energy,att_pure,1500
+944,Light Star,att_light,1050
+945,Hard Charge,att_physical,488
+946,Earthquake,att_earth,550
+947,Giant Mouth,att_war,975
+948,Lava Balls,att_fire,550
+949,Punch,att_physical,338
+950,Tumbleweed,att_earth,1050
+951,Snow Storm,att_ice,1050
+952,Hypnosis,att_pure,1500
+953,Hard Charge,att_physical,488
+954,Tumbleweed,att_earth,1050
+955,Ghost Cloud,att_dark,1050
+956,Electric Shock,att_electric,1050
+957,Head Butt,att_physical,788
+958,Earthquake,att_earth,550
+959,Light Star,att_light,1050
+960,Hypnosis,att_pure,1500
+961,Punch,att_physical,338
+962,Tumbleweed,att_earth,1050
+963,Stitching Roots,att_plant,550
+964,Ice Spikes,att_ice,650
+965,Stunning Hit,att_physical,638
+966,Tumbleweed,att_earth,1050
+967,Flaming Arrows,att_fire,650
+968,Light Prism,att_light,750
+969,Head Butt,att_physical,788
+970,Magneto,att_metal,650
+971,Life Drain,att_dark,550
+972,Giant Mouth,att_war,975
+973,Punch,att_physical,338
+974,Flaming Arrows,att_fire,650
+975,Light Sword,att_light,650
+976,Hypnosis,att_pure,1500
+977,Judo Kick,att_physical,863
+978,Tumbleweed,att_earth,1050
+979,Lava Balls,att_fire,550
+980,Giant Crack,att_war,638
+981,Head Butt,att_physical,788
+982,Snow Storm,att_ice,1050
+983,Ghost Cloud,att_dark,1050
+984,Giant Claw,att_war,1050
+985,Ghost Cloud,att_dark,1050
+986,Nuclear Hit,att_fire,1050
+987,Hypnosis,att_pure,1500
+988,Giant Claw,att_war,1050
+989,Hard Charge,att_physical,488
+990,Flooding,att_water,650
+991,Poison Ivy,att_plant,650
+992,Light Prism,att_light,750
+993,Hard Charge,att_physical,488
+994,Flooding,att_water,650
+995,Storm,att_water,1050
+996,Tumbleweed,att_earth,1050
+997,Stunning Hit,att_physical,638
+998,Meteor Shower,att_earth,650
+999,Tumbleweed,att_earth,1050
+1000,Leaf Blast,att_plant,1050
+1001,Punch,att_physical,338
+1002,Lightning,att_electric,550
+1003,Snow Storm,att_ice,1050
+1004,Rust,att_metal,1050
+1005,Flying Kick,att_physical,413
+1006,Earthquake,att_earth,550
+1007,Flooding,att_water,650
+1008,Ghost Cloud,att_dark,1050
+1009,Hard Charge,att_physical,488
+1010,Lightning,att_electric,550
+1011,Magneto,att_metal,650
+1012,Light Star,att_light,1050
+1013,Punch,att_physical,338
+1014,Earthquake,att_earth,550
+1015,Laser Beam,att_electric,650
+1016,Pure Energy,att_pure,1500
+1017,Stunning Hit,att_physical,638
+1018,Leech,att_dark,650
+1019,Magneto,att_metal,650
+1020,Giant Crack,att_war,638
+1021,Punch,att_physical,338
+1022,Earthquake,att_earth,550
+1023,Meteor Shower,att_earth,650
+1024,Tumbleweed,att_earth,1050
+1025,Hard Charge,att_physical,488
+1026,Earthquake,att_earth,550
+1027,Poison Ivy,att_plant,650
+1028,Hypnosis,att_pure,1500
+1029,Hard Charge,att_physical,488
+1030,Lava Balls,att_fire,550
+1031,Magneto,att_metal,650
+1032,Hypnosis,att_pure,1500
+1033,Flying Kick,att_physical,413
+1034,Life Drain,att_dark,550
+1035,Meteor Shower,att_earth,650
+1036,Rust,att_metal,1050
+1037,Head Butt,att_physical,788
+1038,Light Sword,att_light,650
+1039,Light Prism,att_light,750
+1040,Poison Ivy,att_plant,650
+1041,Hard Charge,att_physical,488
+1042,Meteor Shower,att_earth,650
+1043,Tumbleweed,att_earth,1050
+1044,Leech,att_dark,650
+1045,Head Butt,att_physical,788
+1046,Flaming Arrows,att_fire,650
+1047,Nuclear Hit,att_fire,1050
+1048,Hypnosis,att_pure,1500
+1049,Judo Kick,att_physical,863
+1050,Floral Coup,att_beauty,1050
+1051,Soul Breaker,att_soul,1175
+1052,Bright Aura,att_beauty,1175
+1053,Hard Charge,att_physical,488
+1054,Flooding,att_water,650
+1055,Storm,att_water,1050
+1056,Pure Energy,att_pure,1500
+1057,Stunning Hit,att_physical,638
+1058,Meteor Shower,att_earth,650
+1059,Tumbleweed,att_earth,1050
+1060,Hypnosis,att_pure,1500
+1061,Head Butt,att_physical,788
+1062,Flaming Arrows,att_fire,650
+1063,Nuclear Hit,att_fire,1050
+1064,Pure Energy,att_pure,1500
+1065,Punch,att_physical,338
+1066,Lava Balls,att_fire,550
+1067,Flaming Arrows,att_fire,650
+1068,Nuclear Hit,att_fire,1050
+1069,Stunning Hit,att_physical,638
+1070,Nail Rain,att_metal,550
+1071,Magneto,att_metal,650
+1072,Tumbleweed,att_earth,1050
+1073,Hard Charge,att_physical,488
+1074,Giant Crack,att_war,638
+1075,Giant Mouth,att_war,975
+1076,Light Star,att_light,1050
+1077,Judo Kick,att_physical,863
+1078,Life Drain,att_dark,550
+1079,Leech,att_dark,650
+1080,Giant Crack,att_war,638
+1081,Head Butt,att_physical,788
+1082,Giant Mouth,att_war,975
+1083,Ghost Cloud,att_dark,1050
+1084,Pure Energy,att_pure,1500
+1085,Head Butt,att_physical,788
+1086,Tsunami,att_water,550
+1087,Ice Spikes,att_ice,650
+1088,Life Drain,att_dark,550
+1089,Hard Charge,att_physical,488
+1090,Stitching Roots,att_plant,550
+1091,Meteor Shower,att_earth,650
+1092,Light Prism,att_light,750
+1093,Hard Charge,att_physical,488
+1094,Stitching Roots,att_plant,550
+1095,Poison Ivy,att_plant,650
+1096,Ice Spikes,att_ice,650
+1097,Stunning Hit,att_physical,638
+1098,Light Prism,att_light,750
+1099,Pure Energy,att_pure,1500
+1100,Light Star,att_light,1050
+1101,Stunning Hit,att_physical,638
+1102,Confusing Wake,att_dream,1050
+1103,Destiny Chains,att_chaos,1175
+1104,Poisonous Dream,att_dream,1175
+1105,Stunning Hit,att_physical,638
+1106,Floral Coup,att_beauty,1050
+1107,Poisonous Dream,att_dream,1175
+1108,Bright Aura,att_beauty,1175
+1109,Stunning Hit,att_physical,638
+1110,Earthquake,att_earth,550
+1111,Meteor Shower,att_earth,650
+1112,Light Star,att_light,1050
+1113,Head Butt,att_physical,788
+1114,Brilliant Fireworks,att_happy,1050
+1115,Confusing Wake,att_dream,1050
+1116,Festive Lights,att_happy,1175
+1117,Judo Kick,att_physical,863
+1118,Confusing Wake,att_dream,1050
+1119,Soul Breaker,att_soul,1175
+1120,Poisonous Dream,att_dream,1175
+1121,Stunning Hit,att_physical,638
+1122,Brilliant Fireworks,att_happy,1050
+1123,Floral Coup,att_beauty,1050
+1124,Festive Lights,att_happy,1175
+1125,Judo Kick,att_physical,863
+1126,Brilliant Fireworks,att_happy,1050
+1127,Magic Blow,att_magic,1050
+1128,Festive Lights,att_happy,1175
+1129,Head Butt,att_physical,788
+1130,Brilliant Fireworks,att_happy,1050
+1131,Infernal Crack,att_chaos,1050
+1132,Festive Lights,att_happy,1175
+1133,Head Butt,att_physical,788
+1134,Celestial Hand,att_soul,1050
+1135,Destiny Chains,att_chaos,1175
+1136,Soul Breaker,att_soul,1175
+1137,Head Butt,att_physical,788
+1138,Floral Coup,att_beauty,1050
+1139,Mana Lightnings,att_magic,1175
+1140,Bright Aura,att_beauty,1175
+1141,Head Butt,att_physical,788
+1142,Confusing Wake,att_dream,1050
+1143,Mana Lightnings,att_magic,1175
+1144,Poisonous Dream,att_dream,1175
+1145,Stunning Hit,att_physical,638
+1146,Magic Blow,att_magic,1050
+1147,Soul Breaker,att_soul,1175
+1148,Mana Lightnings,att_magic,1175
+1149,Head Butt,att_physical,788
+1150,Meteor Shower,att_earth,650
+1151,Nuclear Hit,att_fire,1050
+1152,Giant Mouth,att_war,975
+1153,Judo Kick,att_physical,863
+1154,Nuclear Hit,att_fire,1050
+1155,Poison Ivy,att_plant,650
+1156,Storm,att_water,1050
+1157,Head Butt,att_physical,788
+1158,Stitching Roots,att_plant,550
+1159,Meteor Shower,att_earth,650
+1160,Light Prism,att_light,750
+1161,Stunning Hit,att_physical,638
+1162,Flaming Arrows,att_fire,650
+1163,Snow Storm,att_ice,1050
+1164,Light Prism,att_light,750
+1165,Hard Charge,att_physical,488
+1166,Light Sword,att_light,650
+1167,Stitching Roots,att_plant,550
+1168,Tumbleweed,att_earth,1050
+1169,Stunning Hit,att_physical,638
+1170,Meteor Shower,att_earth,650
+1171,Magneto,att_metal,650
+1172,Storm,att_water,1050
+1173,Head Butt,att_physical,788
+1174,Meteor Shower,att_earth,650
+1175,Flooding,att_water,650
+1176,Light Star,att_light,1050
+1177,Judo Kick,att_physical,863
+1178,Leech,att_dark,650
+1179,Giant Mouth,att_war,975
+1180,Rust,att_metal,1050
+1181,Judo Kick,att_physical,863
+1182,Legendary Wind,att_legend,550
+1183,Paralyzing Spell,att_legend,650
+1184,Rainbow,att_legend,1050
+1185,Head Butt,att_physical,788
+1186,Leech,att_dark,650
+1187,Flooding,att_water,650
+1188,Nuclear Hit,att_fire,1050
+1189,Judo Kick,att_physical,863
+1190,Light Prism,att_light,750
+1191,Flaming Arrows,att_fire,650
+1192,Giant Claw,att_war,1050
+1193,Head Butt,att_physical,788
+1194,Flaming Arrows,att_fire,650
+1195,Storm,att_water,1050
+1196,Leaf Blast,att_plant,1050
+1197,Judo Kick,att_physical,863
+1198,Flooding,att_water,650
+1199,Meteor Shower,att_earth,650
+1200,Light Prism,att_light,750
+1201,Stunning Hit,att_physical,638
+1202,Poison Ivy,att_plant,650
+1203,Tumbleweed,att_earth,1050
+1204,Hypnosis,att_pure,1500
+1205,Hard Charge,att_physical,488
+1206,Leech,att_dark,650
+1207,Leaf Blast,att_plant,1050
+1208,Giant Claw,att_war,1050
+1209,Stunning Hit,att_physical,638
+1210,Leech,att_dark,650
+1211,Poison Ivy,att_plant,650
+1212,Ghost Cloud,att_dark,1050
+1213,Stunning Hit,att_physical,638
+1214,Light Prism,att_light,750
+1215,Leech,att_dark,650
+1216,Light Star,att_light,1050
+1217,Punch,att_physical,338
+1218,Light Sword,att_light,650
+1219,Flooding,att_water,650
+1220,Asteroid,att_earth,1200
+1221,Punch,att_physical,338
+1222,Legendary Wind,att_legend,550
+1223,Flying Kick,att_physical,413
+1224,Rainbow,att_legend,1050
+1225,Head Butt,att_physical,788
+1226,Meteor Shower,att_earth,650
+1227,Leech,att_dark,650
+1228,Magneto,att_metal,650
+1229,Flying Kick,att_physical,413
+1230,Earthquake,att_earth,550
+1231,Flooding,att_water,650
+1232,Leaf Blast,att_plant,1050
+1233,Hammer Fist,att_physical,900
+1234,Paralyzing Spell,att_legend,650
+1235,Rainbow,att_legend,1050
+1236,Destiny Chains,att_chaos,1175
+1237,Punch,att_physical,338
+1238,Frost Nova,att_ice,550
+1239,Tumbleweed,att_earth,1050
+1240,Poison Ivy,att_plant,650
+1241,Leech,att_dark,650
+1242,Pure Energy,att_pure,1500
+1243,Magneto,att_metal,650
+1244,Giant Claw,att_war,1050
+1245,Flying Kick,att_physical,413
+1246,Light Sword,att_light,650
+1247,Leaf Blast,att_plant,1050
+1248,Giant Claw,att_war,1050
+1249,Giant Claw,att_war,1050
+1250,Hypnosis,att_pure,1500
+1251,Icy Wind,att_ice,1200
+1252,The Grim Reaper,att_dark,1200
+1253,Hammer Fist,att_physical,900
+1254,Life Drain,att_dark,550
+1255,Electric Shock,att_electric,1050
+1256,Nuclear Hit,att_fire,1050
+1257,Stunning Hit,att_physical,638
+1258,Meteor Shower,att_earth,650
+1259,Flaming Arrows,att_fire,650
+1260,Ghost Cloud,att_dark,1050
+1261,Stunning Hit,att_physical,638
+1262,Flaming Arrows,att_fire,650
+1263,Tumbleweed,att_earth,1050
+1264,Rust,att_metal,1050
+1265,Head Butt,att_physical,788
+1266,Legendary Wind,att_legend,550
+1267,Paralyzing Spell,att_legend,650
+1268,Rainbow,att_legend,1050
+1269,Hard Charge,att_physical,488
+1270,Frost Nova,att_ice,550
+1271,Flooding,att_water,650
+1272,Leaf Blast,att_plant,1050
+1273,Punch,att_physical,338
+1274,Light Prism,att_light,750
+1275,Meteor Shower,att_earth,650
+1276,Flaming Arrows,att_fire,650
+1277,Head Butt,att_physical,788
+1278,Life Drain,att_dark,550
+1279,Giant Mouth,att_war,975
+1280,Leech,att_dark,650
+1281,Punch,att_physical,338
+1282,Frost Nova,att_ice,550
+1283,Poison Ivy,att_plant,650
+1284,Enlightening Wisdom,att_light,1200
+1285,Flying Kick,att_physical,413
+1286,Frost Nova,att_ice,550
+1287,Giant Mouth,att_war,975
+1288,Ghost Cloud,att_dark,1050
+1289,Head Butt,att_physical,788
+1290,Meteor Shower,att_earth,650
+1291,Nuclear Hit,att_fire,1050
+1292,Giant Mouth,att_war,975
+1293,Stunning Hit,att_physical,638
+1294,Nail Rain,att_metal,550
+1295,Flooding,att_water,650
+1296,Giant Claw,att_war,1050
+1297,Head Butt,att_physical,788
+1298,Nail Rain,att_metal,550
+1299,Flaming Arrows,att_fire,650
+1300,Giant Claw,att_war,1050
+1301,Hard Charge,att_physical,488
+1302,Meteor Shower,att_earth,650
+1303,Nail Rain,att_metal,550
+1304,Life Drain,att_dark,550
+1305,Giant Crack,att_war,638
+1306,Light Sword,att_light,650
+1307,Frost Nova,att_ice,550
+1308,Life Drain,att_dark,550
+1309,Giant Mouth,att_war,975
+1310,Ghost Cloud,att_dark,1050
+1311,Cannon Balls,att_metal,1200
+1312,Lava Balls,att_fire,550
+1313,Hammer Fist,att_physical,900
+1314,Laser Beam,att_electric,650
+1315,Frost Nova,att_ice,550
+1316,Nail Rain,att_metal,550
+1317,Head Butt,att_physical,788
+1318,Legendary Wind,att_legend,550
+1319,Judo Kick,att_physical,863
+1320,Paralyzing Spell,att_legend,650
+1321,Hard Charge,att_physical,488
+1322,Snow Storm,att_ice,1050
+1323,Nuclear Hit,att_fire,1050
+1324,Giant Crack,att_war,638
+1325,Stunning Hit,att_physical,638
+1326,Paralyzing Spell,att_legend,650
+1327,Celestial Hand,att_soul,1050
+1328,Rainbow,att_legend,1050
+1329,Punch,att_physical,338
+1330,Paralyzing Spell,att_legend,650
+1331,Infernal Crack,att_chaos,1050
+1332,Life Drain,att_dark,550
+1333,Stunning Hit,att_physical,638
+1334,Poison Ivy,att_plant,650
+1335,Light Prism,att_light,750
+1336,Snow Storm,att_ice,1050
+1337,Judo Kick,att_physical,863
+1338,Light Prism,att_light,750
+1339,Nail Rain,att_metal,550
+1340,Pure Energy,att_pure,1500
+1341,Hard Charge,att_physical,488
+1342,Legendary Wind,att_legend,550
+1343,Ghost Cloud,att_dark,1050
+1344,Rainbow,att_legend,1050
+1345,Hard Charge,att_physical,488
+1346,Snow Storm,att_ice,1050
+1347,The Grim Reaper,att_dark,1200
+1348,Giant Crack,att_war,638
+1349,Judo Kick,att_physical,863
+1350,Electric Shock,att_electric,1050
+1351,Stitching Roots,att_plant,550
+1352,Light Sword,att_light,650
+1353,Stunning Hit,att_physical,638
+1354,Legendary Wind,att_legend,550
+1355,Head Butt,att_physical,788
+1356,Paralyzing Spell,att_legend,650
+1357,Head Butt,att_physical,788
+1358,Lightning,att_electric,550
+1359,Flooding,att_water,650
+1360,Laser Beam,att_electric,650
+1361,Hard Charge,att_physical,488
+1362,Magneto,att_metal,650
+1363,Ice Spikes,att_ice,650
+1364,Rust,att_metal,1050
+1365,Judo Kick,att_physical,863
+1366,Frost Nova,att_ice,550
+1367,Storm,att_water,1050
+1368,Ice Spikes,att_ice,650
+1369,Judo Kick,att_physical,863
+1370,Stitching Roots,att_plant,550
+1371,Light Sword,att_light,650
+1372,Poison Ivy,att_plant,650
+1373,Stunning Hit,att_physical,638
+1374,Poison Ivy,att_plant,650
+1375,Snow Storm,att_ice,1050
+1376,Leaf Blast,att_plant,1050
+1377,Hard Charge,att_physical,488
+1378,Tsunami,att_water,550
+1379,Electric Shock,att_electric,1050
+1380,Light Star,att_light,1050
+1381,Flying Kick,att_physical,413
+1382,Life Drain,att_dark,550
+1383,Earthquake,att_earth,550
+1384,Leech,att_dark,650
+1385,Punch,att_physical,338
+1386,Light Sword,att_light,650
+1387,Ghost Cloud,att_dark,1050
+1388,Electro Ball,att_electric,1200
+1389,Giant Crack,att_war,638
+1390,Hypnosis,att_pure,1500
+1391,Flaming Arrows,att_fire,650
+1392,Leech,att_dark,650
+1393,Hypnosis,att_pure,1500
+1394,Rust,att_metal,1050
+1395,Laser Beam,att_electric,650
+1396,Light Prism,att_light,750
+1397,Hard Charge,att_physical,488
+1398,Stitching Roots,att_plant,550
+1399,Light Sword,att_light,650
+1400,Meteor Shower,att_earth,650
+1401,Hard Charge,att_physical,488
+1402,Cannon Balls,att_metal,1200
+1403,Ghost Cloud,att_dark,1050
+1404,Stitching Roots,att_plant,550
+1405,Punch,att_physical,338
+1406,Legendary Wind,att_legend,550
+1407,Head Butt,att_physical,788
+1408,Paralyzing Spell,att_legend,650
+1409,Karate Brick Break,att_physical,1013
+1410,Stitching Roots,att_plant,550
+1411,Lightning,att_electric,550
+1412,Poison Ivy,att_plant,650
+1413,Punch,att_physical,338
+1414,Life Drain,att_dark,550
+1415,Snow Storm,att_ice,1050
+1416,Tsunami,att_water,550
+1417,Punch,att_physical,338
+1418,Legendary Wind,att_legend,550
+1419,Hard Charge,att_physical,488
+1420,Rainbow,att_legend,1050
+1421,Head Butt,att_physical,788
+1422,Earthquake,att_earth,550
+1423,Lava Balls,att_fire,550
+1424,Nail Rain,att_metal,550
+1425,Flying Kick,att_physical,413
+1426,Flaming Arrows,att_fire,650
+1427,Leech,att_dark,650
+1428,Asteroid,att_earth,1200
+1429,Head Butt,att_physical,788
+1430,Electro Ball,att_electric,1200
+1431,Life Drain,att_dark,550
+1432,Giant Crack,att_war,638
+1433,Flying Kick,att_physical,413
+1434,Paralyzing Spell,att_legend,650
+1435,Head Butt,att_physical,788
+1436,Rainbow,att_legend,1050
+1437,Head Butt,att_physical,788
+1438,Leech,att_dark,650
+1439,Nail Rain,att_metal,550
+1440,Nuclear Hit,att_fire,1050
+1441,Asteroid,att_earth,1200
+1442,Light Sword,att_light,650
+1443,Rust,att_metal,1050
+1444,Giant Crack,att_war,638
+1445,Stunning Hit,att_physical,638
+1446,Acid Rain,att_water,1200
+1447,Tumbleweed,att_earth,1050
+1448,Light Sword,att_light,650
+1449,Punch,att_physical,338
+1450,Ice Spikes,att_ice,650
+1451,Electric Shock,att_electric,1050
+1452,Enlightening Wisdom,att_light,1200
+1453,Stunning Hit,att_physical,638
+1454,Tsunami,att_water,550
+1455,Frost Nova,att_ice,550
+1456,Leech,att_dark,650
+1457,Punch,att_physical,338
+1458,Light Prism,att_light,750
+1459,Giant Crack,att_war,638
+1460,Pure Light,att_pure,1500
+1461,Hard Charge,att_physical,488
+1462,Giant Crack,att_war,638
+1463,Nail Rain,att_metal,550
+1464,Laser Beam,att_electric,650
+1465,Hard Charge,att_physical,488
+1466,Ghost Cloud,att_dark,1050
+1467,Tumbleweed,att_earth,1050
+1468,Giant Claw,att_war,1050
+1469,Hammer Fist,att_physical,900
+1470,Legendary Wind,att_legend,550
+1471,The Grim Reaper,att_dark,1200
+1472,Paralyzing Spell,att_legend,650
+1473,Flying Kick,att_physical,413
+1474,Earthquake,att_earth,550
+1475,Laser Beam,att_electric,650
+1476,Meteor Shower,att_earth,650
+1477,Hammer Fist,att_physical,900
+1478,Lava Balls,att_fire,550
+1479,Lightning,att_electric,550
+1480,Giant Mouth,att_war,975
+1481,Flying Kick,att_physical,413
+1482,Light Sword,att_light,650
+1483,Hypnosis,att_pure,1500
+1484,Lightning,att_electric,550
+1485,Hard Charge,att_physical,488
+1486,Legendary Wind,att_legend,550
+1487,Head Butt,att_physical,788
+1488,Paralyzing Spell,att_legend,650
+1489,Punch,att_physical,338
+1490,Stitching Roots,att_plant,550
+1491,Earthquake,att_earth,550
+1492,Pure Energy,att_pure,1500
+1493,Judo Kick,att_physical,863
+1494,Hypnosis,att_pure,1500
+1495,Life Drain,att_dark,550
+1496,Light Prism,att_light,750
+1497,Punch,att_physical,338
+1498,Legendary Wind,att_legend,550
+1499,Life Drain,att_dark,550
+1500,Rainbow,att_legend,1050
+1501,Karate Brick Break,att_physical,1013
+1502,Rust,att_metal,1050
+1503,Lava Balls,att_fire,550
+1504,The Grim Reaper,att_dark,1200
+1505,Hammer Fist,att_physical,900
+1506,Life Drain,att_dark,550
+1507,Light Prism,att_light,750
+1508,Lightning,att_electric,550
+1509,Flying Kick,att_physical,413
+1510,Legendary Wind,att_legend,550
+1511,Stunning Hit,att_physical,638
+1512,Paralyzing Spell,att_legend,650
+1513,Punch,att_physical,338
+1514,Legendary Wind,att_legend,550
+1515,Life Drain,att_dark,550
+1516,Tsunami,att_water,550
+1517,Magneto,att_metal,650
+1518,The Grim Reaper,att_dark,1200
+1519,Giant Mouth,att_war,975
+1520,Pure Energy,att_pure,1500
+1521,Karate Brick Break,att_physical,1013
+1522,Laser Beam,att_electric,650
+1523,Earthquake,att_earth,550
+1524,Leaf Blast,att_plant,1050
+1525,Flying Kick,att_physical,413
+1526,Flaming Arrows,att_fire,650
+1527,Meteor Shower,att_earth,650
+1528,Leaf Blast,att_plant,1050
+1529,Head Butt,att_physical,788
+1530,Meteor Shower,att_earth,650
+1531,Rotting Spell,att_plant,1200
+1532,Flamethrower,att_fire,1200
+1533,Punch,att_physical,338
+1534,Laser Beam,att_electric,650
+1535,Stitching Roots,att_plant,550
+1536,Storm,att_water,1050
+1537,Hammer Fist,att_physical,900
+1538,Flaming Arrows,att_fire,650
+1539,Earthquake,att_earth,550
+1540,Light Star,att_light,1050
+1541,Punch,att_physical,338
+1542,Legendary Wind,att_legend,550
+1543,Stunning Hit,att_physical,638
+1544,Rainbow,att_legend,1050
+1545,Flying Kick,att_physical,413
+1546,Legendary Wind,att_legend,550
+1547,Hard Charge,att_physical,488
+1548,Paralyzing Spell,att_legend,650
+1549,Judo Kick,att_physical,863
+1550,Paralyzing Spell,att_legend,650
+1551,Giant Mouth,att_war,975
+1552,Light Sword,att_light,650
+1553,Head Butt,att_physical,788
+1554,Paralyzing Spell,att_legend,650
+1555,Electric Shock,att_electric,1050
+1556,Asteroid,att_earth,1200
+1557,Head Butt,att_physical,788
+1558,Rainbow,att_legend,1050
+1559,Magneto,att_metal,650
+1560,Icy Wind,att_ice,1200
+1561,Stunning Hit,att_physical,638
+1562,Tumbleweed,att_earth,1050
+1563,Rotting Spell,att_plant,1200
+1564,Snow Storm,att_ice,1050
+1565,Punch,att_physical,338
+1566,Legendary Wind,att_legend,550
+1567,Flying Kick,att_physical,413
+1568,Rainbow,att_legend,1050
+1569,Hard Charge,att_physical,488
+1570,Lightning,att_electric,550
+1571,Hypnosis,att_pure,1500
+1572,Enlightening Wisdom,att_light,1200
+1573,Flying Kick,att_physical,413
+1574,Leech,att_dark,650
+1575,Light Star,att_light,1050
+1576,Snow Storm,att_ice,1050
+1577,Punch,att_physical,338
+1578,Stitching Roots,att_plant,550
+1579,Earthquake,att_earth,550
+1580,Light Sword,att_light,650
+1581,Flying Kick,att_physical,413
+1582,Legendary Wind,att_legend,550
+1583,Ghost Cloud,att_dark,1050
+1584,Poison Ivy,att_plant,650
+1585,Flying Kick,att_physical,413
+1586,Icy Wind,att_ice,1200
+1587,Flooding,att_water,650
+1588,Giant Crack,att_war,638
+1589,Punch,att_physical,338
+1590,Legendary Wind,att_legend,550
+1591,Hard Charge,att_physical,488
+1592,Paralyzing Spell,att_legend,650
+1593,Hard Charge,att_physical,488
+1594,Frost Nova,att_ice,550
+1595,Hypnosis,att_pure,1500
+1596,Life Drain,att_dark,550
+1597,Judo Kick,att_physical,863
+1598,Life Drain,att_dark,550
+1599,Light Sword,att_light,650
+1600,Ghost Cloud,att_dark,1050
+1601,Flying Kick,att_physical,413
+1602,Earthquake,att_earth,550
+1603,Life Drain,att_dark,550
+1604,Lava Balls,att_fire,550
+1605,Stunning Hit,att_physical,638
+1606,Legendary Wind,att_legend,550
+1607,Flaming Arrows,att_fire,650
+1608,Paralyzing Spell,att_legend,650
+1609,Head Butt,att_physical,788
+1610,Ghost Cloud,att_dark,1050
+1611,Flamethrower,att_fire,1200
+1612,Rust,att_metal,1050
+1613,Head Butt,att_physical,788
+1614,Paralyzing Spell,att_legend,650
+1615,Light Star,att_light,1050
+1616,Hypnosis,att_pure,1500
+1617,Punch,att_physical,338
+1618,Pure Energy,att_pure,1500
+1619,Light Star,att_light,1050
+1620,Nail Rain,att_metal,550
+1621,Stunning Hit,att_physical,638
+1622,Nuclear Hit,att_fire,1050
+1623,Earthquake,att_earth,550
+1624,Electro Ball,att_electric,1200
+1625,Hard Charge,att_physical,488
+1626,Electro Ball,att_electric,1200
+1627,Life Drain,att_dark,550
+1628,Acid Rain,att_water,1200
+1629,Hard Charge,att_physical,488
+1630,Legendary Wind,att_legend,550
+1631,Stunning Hit,att_physical,638
+1632,Rainbow,att_legend,1050
+1633,Hard Charge,att_physical,488
+1634,Life Drain,att_dark,550
+1635,Lightning,att_electric,550
+1636,Giant Claw,att_war,1050
+1637,Flying Kick,att_physical,413
+1638,Hypnosis,att_pure,1500
+1639,Life Drain,att_dark,550
+1640,Tumbleweed,att_earth,1050
+1641,Judo Kick,att_physical,863
+1642,Giant Claw,att_war,1050
+1643,Cannon Balls,att_metal,1200
+1644,Tsunami,att_water,550
+1645,Hammer Fist,att_physical,900
+1646,Rainbow,att_legend,1050
+1647,Light Sword,att_light,650
+1648,Leech,att_dark,650
+1649,Head Butt,att_physical,788
+1650,Rainbow,att_legend,1050
+1651,Giant Crack,att_war,638
+1652,Lightning,att_electric,550
+1653,Light Sword,att_light,650
+1654,Hypnosis,att_pure,1500
+1655,Cannon Balls,att_metal,1200
+1656,Icy Wind,att_ice,1200
+1657,Punch,att_physical,338
+1658,Stitching Roots,att_plant,550
+1659,Earthquake,att_earth,550
+1660,Hypnosis,att_pure,1500
+1661,Karate Brick Break,att_physical,1013
+1662,Lava Balls,att_fire,550
+1663,Leaf Blast,att_plant,1050
+1664,Flaming Arrows,att_fire,650
+1665,Punch,att_physical,338
+1666,Rainbow,att_legend,1050
+1667,Storm,att_water,1050
+1668,Poison Ivy,att_plant,650
+1669,Hard Charge,att_physical,488
+1670,Earthquake,att_earth,550
+1671,Flooding,att_water,650
+1672,Stitching Roots,att_plant,550
+1673,Flying Kick,att_physical,413
+1674,Life Drain,att_dark,550
+1675,Flaming Arrows,att_fire,650
+1676,Electric Shock,att_electric,1050
+1677,Hammer Fist,att_physical,900
+1678,Lava Balls,att_fire,550
+1679,Poison Ivy,att_plant,650
+1680,Hypnosis,att_pure,1500
+1681,Hard Charge,att_physical,488
+1682,Nuclear Hit,att_fire,1050
+1683,Poison Ivy,att_plant,650
+1684,Lightning,att_electric,550
+1685,Storm,att_water,1050
+1686,Hypnosis,att_pure,1500
+1687,Ghost Cloud,att_dark,1050
+1688,Ice Spikes,att_ice,650
+1689,Punch,att_physical,338
+1690,Laser Beam,att_electric,650
+1691,Magneto,att_metal,650
+1692,Giant Crack,att_war,638
+1693,Hypnosis,att_pure,1500
+1694,Enlightening Wisdom,att_light,1200
+1695,Electric Shock,att_electric,1050
+1696,Lava Balls,att_fire,550
+1697,Head Butt,att_physical,788
+1698,Leech,att_dark,650
+1699,Light Prism,att_light,750
+1700,Lava Balls,att_fire,550
+1701,Hypnosis,att_pure,1500
+1702,Storm,att_water,1050
+1703,Snow Storm,att_ice,1050
+1704,Poison Ivy,att_plant,650
+1705,Pure Energy,att_pure,1500
+1706,Lava Balls,att_fire,550
+1707,Rust,att_metal,1050
+1708,Life Drain,att_dark,550
+1709,Pure Energy,att_pure,1500
+1710,Ice Spikes,att_ice,650
+1711,Electric Shock,att_electric,1050
+1712,Life Drain,att_dark,550
+1713,Hard Charge,att_physical,488
+1714,Hypnosis,att_pure,1500
+1715,Stitching Roots,att_plant,550
+1716,Meteor Shower,att_earth,650
+1717,Cannon Balls,att_metal,1200
+1718,Lightning,att_electric,550
+1719,Light Prism,att_light,750
+1720,Astro Hit,att_war,1400
+1721,Flying Kick,att_physical,413
+1722,Rust,att_metal,1050
+1723,Meteor Shower,att_earth,650
+1724,Leech,att_dark,650
+1725,Head Butt,att_physical,788
+1726,Giant Mouth,att_war,975
+1727,Poison Ivy,att_plant,650
+1728,Lava Balls,att_fire,550
+1729,Punch,att_physical,338
+1730,Snow Storm,att_ice,1050
+1731,Leech,att_dark,650
+1732,Nail Rain,att_metal,550
+1733,Pure Energy,att_pure,1500
+1734,Ice Spikes,att_ice,650
+1735,Electric Shock,att_electric,1050
+1736,Life Drain,att_dark,550
+1737,Punch,att_physical,338
+1738,Hypnosis,att_pure,1500
+1739,Light Prism,att_light,750
+1740,Tsunami,att_water,550
+1741,Flying Kick,att_physical,413
+1742,Lightning,att_electric,550
+1743,Ghost Cloud,att_dark,1050
+1744,Light Sword,att_light,650
+1745,Punch,att_physical,338
+1746,Legendary Wind,att_legend,550
+1747,Leech,att_dark,650
+1748,Rust,att_metal,1050
+1749,Hard Charge,att_physical,488
+1750,Stitching Roots,att_plant,550
+1751,Meteor Shower,att_earth,650
+1752,Nuclear Hit,att_fire,1050
+1753,Punch,att_physical,338
+1754,Light Sword,att_light,650
+1755,Cannon Balls,att_metal,1200
+1756,Laser Beam,att_electric,650
+1757,Punch,att_physical,338
+1758,Electric Shock,att_electric,1050
+1759,Tsunami,att_water,550
+1760,Leaf Blast,att_plant,1050
+1761,Hard Charge,att_physical,488
+1762,Laser Beam,att_electric,650
+1763,Frost Nova,att_ice,550
+1764,Nail Rain,att_metal,550
+1765,Head Butt,att_physical,788
+1766,Light Sword,att_light,650
+1767,Ice Spikes,att_ice,650
+1768,Laser Beam,att_electric,650
+1769,Hard Charge,att_physical,488
+1770,Legendary Wind,att_legend,550
+1771,Stunning Hit,att_physical,638
+1772,Rainbow,att_legend,1050
+1773,Astro Hit,att_war,1400
+1774,Ghost Cloud,att_dark,1050
+1775,Magneto,att_metal,650
+1776,Flaming Arrows,att_fire,650
+1777,Hypnosis,att_pure,1500
+1778,Light Prism,att_light,750
+1779,Frost Nova,att_ice,550
+1780,Tumbleweed,att_earth,1050
+1781,Hard Charge,att_physical,488
+1782,Frost Nova,att_ice,550
+1783,Nuclear Hit,att_fire,1050
+1784,Electro Ball,att_electric,1200
+1785,Hard Charge,att_physical,488
+1786,Tsunami,att_water,550
+1787,Stitching Roots,att_plant,550
+1788,Pure Energy,att_pure,1500
+1789,Punch,att_physical,338
+1790,Lightning,att_electric,550
+1791,Flying Kick,att_physical,413
+1792,Light Prism,att_light,750
+1793,Flying Kick,att_physical,413
+1794,Electric Shock,att_electric,1050
+1795,Frost Nova,att_ice,550
+1796,Ghost Cloud,att_dark,1050
+1797,Nail Rain,att_metal,550
+1798,Light Star,att_light,1050
+1799,Pure Energy,att_pure,1500
+1800,Meteor Shower,att_earth,650
+1801,Judo Kick,att_physical,863
+1802,Legendary Wind,att_legend,550
+1803,Magneto,att_metal,650
+1804,Paralyzing Spell,att_legend,650
+1805,Tsunami,att_water,550
+1806,Hypnosis,att_pure,1500
+1807,Astro Hit,att_war,1400
+1808,Frost Nova,att_ice,550
+1809,Hypnosis,att_pure,1500
+1810,Light Sword,att_light,650
+1811,Nail Rain,att_metal,550
+1812,Asteroid,att_earth,1200
+1813,Hard Charge,att_physical,488
+1814,Light Sword,att_light,650
+1815,Flaming Arrows,att_fire,650
+1816,Nail Rain,att_metal,550
+1817,Punch,att_physical,338
+1818,Earthquake,att_earth,550
+1819,Stitching Roots,att_plant,550
+1820,Electric Shock,att_electric,1050
+1821,Life Drain,att_dark,550
+1822,Light Sword,att_light,650
+1823,Hypnosis,att_pure,1500
+1824,Giant Claw,att_war,1050
+1825,Punch,att_physical,338
+1826,Legendary Wind,att_legend,550
+1827,Flying Kick,att_physical,413
+1828,Paralyzing Spell,att_legend,650
+1829,Head Butt,att_physical,788
+1830,Enlightening Wisdom,att_light,1200
+1831,Laser Beam,att_electric,650
+1832,Hypnosis,att_pure,1500
+1833,Hard Charge,att_physical,488
+1834,Earthquake,att_earth,550
+1835,Flooding,att_water,650
+1836,Stitching Roots,att_plant,550
+1837,Flying Kick,att_physical,413
+1838,Tsunami,att_water,550
+1839,Frost Nova,att_ice,550
+1840,Nail Rain,att_metal,550
+1841,Life Drain,att_dark,550
+1842,Rust,att_metal,1050
+1843,Giant Crack,att_war,638
+1844,Poison Ivy,att_plant,650
+1845,Hammer Fist,att_physical,900
+1846,Light Sword,att_light,650
+1847,Hypnosis,att_pure,1500
+1848,Lightning,att_electric,550
+1849,Punch,att_physical,338
+1850,Cannon Balls,att_metal,1200
+1851,Ice Spikes,att_ice,650
+1852,Lightning,att_electric,550
+1853,Hypnosis,att_pure,1500
+1854,Life Drain,att_dark,550
+1855,Magneto,att_metal,650
+1856,Lightning,att_electric,550
+1857,Hammer Fist,att_physical,900
+1858,Life Drain,att_dark,550
+1859,Tumbleweed,att_earth,1050
+1860,Rotting Spell,att_plant,1200
+1861,Head Butt,att_physical,788
+1862,Flooding,att_water,650
+1863,Electro Ball,att_electric,1200
+1864,Frost Nova,att_ice,550
+1865,Head Butt,att_physical,788
+1866,Leaf Blast,att_plant,1050
+1867,Storm,att_water,1050
+1868,Hypnosis,att_pure,1500
+1869,Ghost Cloud,att_dark,1050
+1870,Pure Energy,att_pure,1500
+1871,Flaming Arrows,att_fire,650
+1872,Light Prism,att_light,750
+1873,Punch,att_physical,338
+1874,Giant Crack,att_war,638
+1875,The Grim Reaper,att_dark,1200
+1876,Poison Ivy,att_plant,650
+1877,Punch,att_physical,338
+1878,Giant Crack,att_war,638
+1879,Poison Ivy,att_plant,650
+1880,Cannon Balls,att_metal,1200
+1881,Hard Charge,att_physical,488
+1882,Legendary Wind,att_legend,550
+1883,Hypnosis,att_pure,1500
+1884,Life Drain,att_dark,550
+1885,Hard Charge,att_physical,488
+1886,Laser Beam,att_electric,650
+1887,Stunning Hit,att_physical,638
+1888,Nuclear Hit,att_fire,1050
+1889,Hard Charge,att_physical,488
+1890,Magneto,att_metal,650
+1891,Judo Kick,att_physical,863
+1892,Snow Storm,att_ice,1050
+1893,Hypnosis,att_pure,1500
+1894,Giant Claw,att_war,1050
+1895,Life Drain,att_dark,550
+1896,Magneto,att_metal,650
+1897,Punch,att_physical,338
+1898,Light Star,att_light,1050
+1899,Leech,att_dark,650
+1900,Hypnosis,att_pure,1500
+1901,Hypnosis,att_pure,1500
+1902,Rotting Spell,att_plant,1200
+1903,Giant Crack,att_war,638
+1904,The Grim Reaper,att_dark,1200
+1905,Hard Charge,att_physical,488
+1906,Poison Ivy,att_plant,650
+1907,Stunning Hit,att_physical,638
+1908,Snow Storm,att_ice,1050
+1909,Judo Kick,att_physical,863
+1910,Snow Storm,att_ice,1050
+1911,Punch,att_physical,338
+1912,Leech,att_dark,650
+1913,Head Butt,att_physical,788
+1914,Legendary Wind,att_legend,550
+1915,Paralyzing Spell,att_legend,650
+1916,Rainbow,att_legend,1050
+1917,Judo Kick,att_physical,863
+1918,Legendary Wind,att_legend,550
+1919,Frost Nova,att_ice,550
+1920,Rainbow,att_legend,1050
+1921,Punch,att_physical,338
+1922,Snow Storm,att_ice,1050
+1923,Acid Rain,att_water,1200
+1924,Electric Shock,att_electric,1050
+1925,Punch,att_physical,338
+1926,Legendary Wind,att_legend,550
+1927,Hard Charge,att_physical,488
+1928,Rainbow,att_legend,1050
+1929,Punch,att_physical,338
+1930,Legendary Wind,att_legend,550
+1931,Flying Kick,att_physical,413
+1932,Paralyzing Spell,att_legend,650
+1933,Head Butt,att_physical,788
+1934,Life Drain,att_dark,550
+1935,Giant Crack,att_war,638
+1936,Asteroid,att_earth,1200
+1937,Hard Charge,att_physical,488
+1938,Tsunami,att_water,550
+1939,Electric Shock,att_electric,1050
+1940,Light Star,att_light,1050
+1941,Hard Charge,att_physical,488
+1942,Cannon Balls,att_metal,1200
+1943,Ghost Cloud,att_dark,1050
+1944,Stitching Roots,att_plant,550
+1945,Stunning Hit,att_physical,638
+1946,Ghost Cloud,att_dark,1050
+1947,Giant Claw,att_war,1050
+1948,Earthquake,att_earth,550
+1949,Punch,att_physical,338
+1950,Legendary Wind,att_legend,550
+1951,Hard Charge,att_physical,488
+1952,Paralyzing Spell,att_legend,650
+1953,Hard Charge,att_physical,488
+1954,Light Sword,att_light,650
+1955,Nail Rain,att_metal,550
+1956,Meteor Shower,att_earth,650
+1957,Head Butt,att_physical,788
+1958,Legendary Wind,att_legend,550
+1959,Giant Claw,att_war,1050
+1960,Flaming Arrows,att_fire,650
+1961,Flying Kick,att_physical,413
+1962,Ice Spikes,att_ice,650
+1963,Stunning Hit,att_physical,638
+1964,Hypnosis,att_pure,1500
+1965,Punch,att_physical,338
+1966,Life Drain,att_dark,550
+1967,Hard Charge,att_physical,488
+1968,Rust,att_metal,1050
+1969,Pure Energy,att_pure,1500
+1970,Giant Crack,att_war,638
+1971,Leaf Blast,att_plant,1050
+1972,Giant Claw,att_war,1050
+1973,Judo Kick,att_physical,863
+1974,Giant Claw,att_war,1050
+1975,The Grim Reaper,att_dark,1200
+1976,Stitching Roots,att_plant,550
+1977,Hypnosis,att_pure,1500
+1978,Leech,att_dark,650
+1979,Flaming Arrows,att_fire,650
+1980,Meteor Shower,att_earth,650
+1981,Stunning Hit,att_physical,638
+1982,Light Prism,att_light,750
+1983,Poison Ivy,att_plant,650
+1984,Meteor Shower,att_earth,650
+1985,Hypnosis,att_pure,1500
+1986,Stitching Roots,att_plant,550
+1987,Ghost Cloud,att_dark,1050
+1988,Stitching Roots,att_plant,550
+1989,Judo Kick,att_physical,863
+1990,Tumbleweed,att_earth,1050
+1991,Lava Balls,att_fire,550
+1992,Giant Crack,att_war,638
+1993,Head Butt,att_physical,788
+1994,Ice Spikes,att_ice,650
+1995,Life Drain,att_dark,550
+1996,Laser Beam,att_electric,650
+1997,Flying Kick,att_physical,413
+1998,Rust,att_metal,1050
+1999,Nuclear Hit,att_fire,1050
+2000,Laser Beam,att_electric,650
+2001,Judo Kick,att_physical,863
+2002,Nail Rain,att_metal,550
+2003,Electric Shock,att_electric,1050
+2004,Meteor Shower,att_earth,650
+2005,Punch,att_physical,338
+2006,Legendary Wind,att_legend,550
+2007,Head Butt,att_physical,788
+2008,Rainbow,att_legend,1050
+2009,Hammer Fist,att_physical,900
+2010,Asteroid,att_earth,1200
+2011,Poison Ivy,att_plant,650
+2012,Light Prism,att_light,750
+2013,Punch,att_physical,338
+2014,Legendary Wind,att_legend,550
+2015,Leech,att_dark,650
+2016,Rust,att_metal,1050
+2017,Hard Charge,att_physical,488
+2018,Earthquake,att_earth,550
+2019,Giant Mouth,att_war,975
+2020,Lava Balls,att_fire,550
+2021,Hard Charge,att_physical,488
+2022,Tumbleweed,att_earth,1050
+2023,Ghost Cloud,att_dark,1050
+2024,Electric Shock,att_electric,1050
+2025,Punch,att_physical,338
+2026,Earthquake,att_earth,550
+2027,Leech,att_dark,650
+2028,Giant Crack,att_war,638
+2029,Head Butt,att_physical,788
+2030,Tumbleweed,att_earth,1050
+2031,Pure Energy,att_pure,1500
+2032,Light Star,att_light,1050
+2033,Life Drain,att_dark,550
+2034,Earthquake,att_earth,550
+2035,Stitching Roots,att_plant,550
+2036,Lava Balls,att_fire,550
+2037,Magneto,att_metal,650
+2038,The Grim Reaper,att_dark,1200
+2039,Giant Mouth,att_war,975
+2040,Pure Energy,att_pure,1500
+2041,Cannon Balls,att_metal,1200
+2042,Lightning,att_electric,550
+2043,Light Prism,att_light,750
+2044,Astro Hit,att_war,1400
+2045,Punch,att_physical,338
+2046,Life Drain,att_dark,550
+2047,Rotting Spell,att_plant,1200
+2048,Hypnosis,att_pure,1500
+2049,Flying Kick,att_physical,413
+2050,Giant Claw,att_war,1050
+2051,Ghost Cloud,att_dark,1050
+2052,Nuclear Hit,att_fire,1050
+2053,Punch,att_physical,338
+2054,Lightning,att_electric,550
+2055,Nuclear Hit,att_fire,1050
+2056,Earthquake,att_earth,550
+2057,Stunning Hit,att_physical,638
+2058,Legendary Wind,att_legend,550
+2059,Flaming Arrows,att_fire,650
+2060,Paralyzing Spell,att_legend,650
+2061,Life Drain,att_dark,550
+2062,Astro Hit,att_war,1400
+2063,Light Sword,att_light,650
+2064,Stitching Roots,att_plant,550
+2065,Giant Crack,att_war,638
+2066,Leech,att_dark,650
+2067,Earthquake,att_earth,550
+2068,Deus Axe,att_war,2100
+2069,Head Butt,att_physical,788
+2070,Light Prism,att_light,750
+2071,Rust,att_metal,1050
+2072,Hypnosis,att_pure,1500
+2073,Hard Charge,att_physical,488
+2074,Pure Energy,att_pure,1500
+2075,Stunning Hit,att_physical,638
+2076,Tumbleweed,att_earth,1050
+2077,Stunning Hit,att_physical,638
+2078,Legendary Wind,att_legend,550
+2079,Flaming Arrows,att_fire,650
+2080,Rainbow,att_legend,1050
+2081,Flying Kick,att_physical,413
+2082,Ghost Cloud,att_dark,1050
+2083,Nail Rain,att_metal,550
+2084,Flaming Arrows,att_fire,650
+2085,Life Drain,att_dark,550
+2086,Astro Hit,att_war,1400
+2087,Magneto,att_metal,650
+2088,Laser Beam,att_electric,650
+2089,Flooding,att_water,650
+2090,Ice Spikes,att_ice,650
+2091,Light Prism,att_light,750
+2092,Astro Hit,att_war,1400
+2093,Punch,att_physical,338
+2094,Legendary Wind,att_legend,550
+2095,Flying Kick,att_physical,413
+2096,Rainbow,att_legend,1050
+2097,Lightning,att_electric,550
+2098,Leaf Blast,att_plant,1050
+2099,Rust,att_metal,1050
+2100,Deus Thunder,att_electric,2100
+2101,Flying Kick,att_physical,413
+2102,Flamethrower,att_fire,1200
+2103,Storm,att_water,1050
+2104,Leech,att_dark,650
+2105,Frost Nova,att_ice,550
+2106,Lightning,att_electric,550
+2107,Tsunami,att_water,550
+2108,Laser Beam,att_electric,650
+2109,Magneto,att_metal,650
+2110,Flooding,att_water,650
+2111,Storm,att_water,1050
+2112,Hypnosis,att_pure,1500
+2113,Enlightening Wisdom,att_light,1200
+2114,Hypnosis,att_pure,1500
+2115,Electro Ball,att_electric,1200
+2116,Rotting Spell,att_plant,1200
+2117,Astro Hit,att_war,1400
+2118,Cannon Balls,att_metal,1200
+2119,Enlightening Wisdom,att_light,1200
+2120,Rotting Spell,att_plant,1200
+2121,Judo Kick,att_physical,863
+2122,Deus Crystal,att_pure,2100
+2123,Ice Spikes,att_ice,650
+2124,Meteor Shower,att_earth,650
+2125,Stunning Hit,att_physical,638
+2126,Legendary Wind,att_legend,550
+2127,Lava Balls,att_fire,550
+2128,Paralyzing Spell,att_legend,650
+2129,Stunning Hit,att_physical,638
+2130,Nuclear Hit,att_fire,1050
+2131,Karate Brick Break,att_physical,1013
+2132,Flamethrower,att_fire,1200
+2133,Deus Crystal,att_pure,2100
+2134,Snow Storm,att_ice,1050
+2135,Tumbleweed,att_earth,1050
+2136,Rust,att_metal,1050
+2137,Hard Charge,att_physical,488
+2138,Deus Beam,att_light,2100
+2139,Magneto,att_metal,650
+2140,Flaming Arrows,att_fire,650
+2141,Hard Charge,att_physical,488
+2142,Giant Claw,att_war,1050
+2143,Lava Balls,att_fire,550
+2144,Earthquake,att_earth,550
+2145,Hard Charge,att_physical,488
+2146,Leech,att_dark,650
+2147,Rust,att_metal,1050
+2148,Snow Storm,att_ice,1050
+2149,Hard Charge,att_physical,488
+2150,Light Sword,att_light,650
+2151,Lightning,att_electric,550
+2152,Tsunami,att_water,550
+2153,Head Butt,att_physical,788
+2154,Legendary Wind,att_legend,550
+2155,Hard Charge,att_physical,488
+2156,Paralyzing Spell,att_legend,650
+2157,Hard Charge,att_physical,488
+2158,Ice Spikes,att_ice,650
+2159,Flooding,att_water,650
+2160,Light Star,att_light,1050
+2161,Flying Kick,att_physical,413
+2162,Legendary Wind,att_legend,550
+2163,Judo Kick,att_physical,863
+2164,Magneto,att_metal,650
+2165,Head Butt,att_physical,788
+2166,Legendary Wind,att_legend,550
+2167,Earthquake,att_earth,550
+2168,Paralyzing Spell,att_legend,650
+2169,Deus Crystal,att_pure,2100
+2170,Deus Beam,att_light,2100
+2171,Deus Thunder,att_electric,2100
+2172,Deus Axe,att_war,2100
+2173,Flying Kick,att_physical,413
+2174,Giant Crack,att_war,638
+2175,Hard Charge,att_physical,488
+2176,Rust,att_metal,1050
+2177,Hard Charge,att_physical,488
+2178,Light Sword,att_light,650
+2179,Laser Beam,att_electric,650
+2180,Stitching Roots,att_plant,550
+2181,Stunning Hit,att_physical,638
+2182,Nail Rain,att_metal,550
+2183,Frost Nova,att_ice,550
+2184,Poison Ivy,att_plant,650
+2185,Head Butt,att_physical,788
+2186,Legendary Wind,att_legend,550
+2187,Magneto,att_metal,650
+2188,Nuclear Hit,att_fire,1050
+2189,Ghost Cloud,att_dark,1050
+2190,Electric Shock,att_electric,1050
+2191,Rust,att_metal,1050
+2192,Ice Spikes,att_ice,650
+2193,Stunning Hit,att_physical,638
+2194,Hypnosis,att_pure,1500
+2195,Light Prism,att_light,750
+2196,Ghost Cloud,att_dark,1050
+2197,Hard Charge,att_physical,488
+2198,Legendary Wind,att_legend,550
+2199,Nail Rain,att_metal,550
+2200,Giant Claw,att_war,1050
+2201,Head Butt,att_physical,788
+2202,Rainbow,att_legend,1050
+2203,Tumbleweed,att_earth,1050
+2204,Stitching Roots,att_plant,550
+2205,Hard Charge,att_physical,488
+2206,Nail Rain,att_metal,550
+2207,Giant Claw,att_war,1050
+2208,Laser Beam,att_electric,650
+2209,Pure Energy,att_pure,1500
+2210,Life Drain,att_dark,550
+2211,Leaf Blast,att_plant,1050
+2212,Flooding,att_water,650
+2213,Deus Crystal,att_pure,2100
+2214,Light Sword,att_light,650
+2215,Stitching Roots,att_plant,550
+2216,Tsunami,att_water,550
+2217,Flying Kick,att_physical,413
+2218,Nuclear Hit,att_fire,1050
+2219,Stunning Hit,att_physical,638
+2220,Storm,att_water,1050
+2221,Punch,att_physical,338
+2222,Light Prism,att_light,750
+2223,Electric Shock,att_electric,1050
+2224,Snow Storm,att_ice,1050
+2225,Flying Kick,att_physical,413
+2226,Paralyzing Spell,att_legend,650
+2227,Magneto,att_metal,650
+2228,Giant Claw,att_war,1050
+2229,Legendary Wind,att_legend,550
+2230,Nuclear Hit,att_fire,1050
+2231,Tsunami,att_water,550
+2232,Earthquake,att_earth,550
+2233,Paralyzing Spell,att_legend,650
+2234,Light Prism,att_light,750
+2235,Giant Mouth,att_war,975
+2236,Rotting Spell,att_plant,1200
+2237,Legendary Wind,att_legend,550
+2238,Light Star,att_light,1050
+2239,Ghost Cloud,att_dark,1050
+2240,Flaming Arrows,att_fire,650
+2241,Hard Charge,att_physical,488
+2242,Rainbow,att_legend,1050
+2243,Head Butt,att_physical,788
+2244,Poison Ivy,att_plant,650
+2245,Light Star,att_light,1050
+2246,Ice Spikes,att_ice,650
+2247,Rust,att_metal,1050
+2248,Electric Shock,att_electric,1050
+2249,Judo Kick,att_physical,863
+2250,Ice Spikes,att_ice,650
+2251,Rust,att_metal,1050
+2252,Leech,att_dark,650
+2253,Judo Kick,att_physical,863
+2254,Hypnosis,att_pure,1500
+2255,Meteor Shower,att_earth,650
+2256,Life Drain,att_dark,550
+2257,Stunning Hit,att_physical,638
+2258,Electric Shock,att_electric,1050
+2259,Poison Ivy,att_plant,650
+2260,Life Drain,att_dark,550
+2261,Life Drain,att_dark,550
+2262,Electric Shock,att_electric,1050
+2263,Storm,att_water,1050
+2264,Rust,att_metal,1050
+2265,Stunning Hit,att_physical,638
+2266,Flaming Arrows,att_fire,650
+2267,Life Drain,att_dark,550
+2268,Giant Claw,att_war,1050
+2269,Giant Mouth,att_war,975
+2270,Ghost Cloud,att_dark,1050
+2271,Icy Wind,att_ice,1200
+2272,Whirlpool,att_water,1350
+2273,Life Drain,att_dark,550
+2274,Light Prism,att_light,750
+2275,Magneto,att_metal,650
+2276,Icy Wind,att_ice,1200
+2277,Pure Energy,att_pure,1500
+2278,Ghost Cloud,att_dark,1050
+2279,Nuclear Hit,att_fire,1050
+2280,Cannon Balls,att_metal,1200
+2281,Aurora Borealis,att_legend,2100
+2282,Light Star,att_light,1050
+2283,The Grim Reaper,att_dark,1200
+2284,Beehive,att_plant,1350
+2285,Pure Light,att_pure,1500
+2286,Light Star,att_light,1050
+2287,Electric Shock,att_electric,1050
+2288,Stitching Roots,att_plant,550
+2289,Punch,att_physical,338
+2290,Earthquake,att_earth,550
+2291,Rock throw,att_earth,1000
+2292,Poison Ivy,att_plant,650
+2293,Flying Kick,att_physical,413
+2294,Lava Balls,att_fire,550
+2295,Ignition,att_fire,1000
+2296,Flooding,att_water,650
+2297,Hard Charge,att_physical,488
+2298,Flooding,att_water,650
+2299,Foam,att_water,900
+2300,Leaf Blast,att_plant,1050
+2301,Stitching Roots,att_plant,550
+2302,Laser Beam,att_electric,650
+2303,Flooding,att_water,650
+2304,Root sap,att_plant,900
+2305,Rust,att_metal,1050
+2306,Ghost Cloud,att_dark,1050
+2307,Light Star,att_light,1050
+2308,Nail fall,att_metal,1000
+2309,Stunning Hit,att_physical,638
+2310,Hypnosis,att_pure,1500
+2311,Light Prism,att_light,750
+2312,Electric Shock,att_electric,1050
+2313,Karate Brick Break,att_physical,1013
+2314,Aurora Borealis,att_legend,2100
+2315,War Fist,att_war,1500
+2316,Cannon Balls,att_metal,1200
+2317,Hard Charge,att_physical,488
+2318,Leech,att_dark,650
+2319,Rust,att_metal,1050
+2320,Electric Shock,att_electric,1050
+2321,Flying Kick,att_physical,413
+2322,Light Sword,att_light,650
+2323,Cannon Balls,att_metal,1200
+2324,Whirlpool,att_water,1350
+2325,Paralyzing Spell,att_legend,650
+2326,Ghost Cloud,att_dark,1050
+2327,Rust,att_metal,1050
+2328,Astro Hit,att_war,1400
+2329,Light Star,att_light,1050
+2330,Electric Shock,att_electric,1050
+2331,Pure Energy,att_pure,1500
+2332,Snow Storm,att_ice,1050
+2333,Stunning Hit,att_physical,638
+2334,Legendary Wind,att_legend,550
+2335,Light Prism,att_light,750
+2336,Electric Shock,att_electric,1050
+2337,Hard Charge,att_physical,488
+2338,Hypnosis,att_pure,1500
+2339,Head Butt,att_physical,788
+2340,Earthquake,att_earth,550
+2341,Legendary Wind,att_legend,550
+2342,Life Drain,att_dark,550
+2343,Frost Nova,att_ice,550
+2344,Meteor Shower,att_earth,650
+2345,Legendary Wind,att_legend,550
+2346,Light Prism,att_light,750
+2347,Nuclear Hit,att_fire,1050
+2348,Leaf Blast,att_plant,1050
+2349,Legendary Wind,att_legend,550
+2350,Deus Beam,att_light,2100
+2351,Deus Thunder,att_electric,2100
+2352,Celestial Hand,att_soul,1050
+2353,Nuclear Hit,att_fire,1050
+2354,Tumbleweed,att_earth,1050
+2355,Ghost Cloud,att_dark,1050
+2356,Pure Light,att_pure,1500
+2357,Stunning Hit,att_physical,638
+2358,Pure Energy,att_pure,1500
+2359,Lava Balls,att_fire,550
+2360,Giant Claw,att_war,1050
+2361,Pure Light,att_pure,1500
+2362,Leaf Blast,att_plant,1050
+2363,Storm,att_water,1050
+2364,Ice Spikes,att_ice,650
+2365,Hypnosis,att_pure,1500
+2366,Electric Shock,att_electric,1050
+2367,Light Prism,att_light,750
+2368,Ghost Cloud,att_dark,1050
+2369,Hard Charge,att_physical,488
+2370,Pure Light,att_pure,1500
+2371,Head Butt,att_physical,788
+2372,Paralyzing Spell,att_legend,650
+2373,Ice Spikes,att_ice,650
+2374,Magneto,att_metal,650
+2375,Leech,att_dark,650
+2376,Snow mirror,att_ice,1000
+2377,Stunning Hit,att_physical,638
+2378,Leech,att_dark,650
+2379,Electric Shock,att_electric,1050
+2380,Giant Claw,att_war,1050
+2381,Hard Charge,att_physical,488
+2382,Light Sword,att_light,650
+2383,Flooding,att_water,650
+2384,Poison Ivy,att_plant,650
+2385,Stunning Hit,att_physical,638
+2386,Ice Spikes,att_ice,650
+2387,Leech,att_dark,650
+2388,Storm,att_water,1050
+2389,Punch,att_physical,338
+2390,Earthquake,att_earth,550
+2391,Life Drain,att_dark,550
+2392,Poison Ivy,att_plant,650
+2393,Punch,att_physical,338
+2394,Magneto,att_metal,650
+2395,Flooding,att_water,650
+2396,Poison Ivy,att_plant,650
+2397,Punch,att_physical,338
+2398,Paralyzing Spell,att_legend,650
+2399,Magneto,att_metal,650
+2400,Light Star,att_light,1050
+2401,Judo Kick,att_physical,863
+2402,Poison Ivy,att_plant,650
+2403,Tumbleweed,att_earth,1050
+2404,Pure Light,att_pure,1500
+2405,Electric Shock,att_electric,1050
+2406,Rust,att_metal,1050
+2407,Ghost Cloud,att_dark,1050
+2408,Giant Claw,att_war,1050
+2409,Paralyzing Spell,att_legend,650
+2410,Leech,att_dark,650
+2411,Meteor Shower,att_earth,650
+2412,Electric Shock,att_electric,1050
+2413,Hard Charge,att_physical,488
+2414,Poison Ivy,att_plant,650
+2415,Hypnosis,att_pure,1500
+2416,Tumbleweed,att_earth,1050
+2417,Rainbow,att_legend,1050
+2418,Ghost Cloud,att_dark,1050
+2419,Giant Claw,att_war,1050
+2420,Nuclear Hit,att_fire,1050
+2421,Tumbleweed,att_earth,1050
+2422,Storm,att_water,1050
+2423,Light Star,att_light,1050
+2424,Leaf Blast,att_plant,1050
+2425,Karate Brick Break,att_physical,1013
+2426,Aurora Borealis,att_legend,2100
+2427,The Grim Reaper,att_dark,1200
+2428,War Fist,att_war,1500
+2429,Aurora Borealis,att_legend,2100
+2430,Flamethrower,att_fire,1200
+2431,The Grim Reaper,att_dark,1200
+2432,War Fist+,att_war,2100
+2433,Electric Shock,att_electric,1050
+2434,Light Star,att_light,1050
+2435,Leaf Blast,att_plant,1050
+2436,Pure Light,att_pure,1500
+2437,Rainbow,att_legend,1050
+2438,Snow Storm,att_ice,1050
+2439,Tumbleweed,att_earth,1050
+2440,Storm,att_water,1050
+2441,Hammer Fist,att_physical,900
+2442,Snow Storm,att_ice,1050
+2443,Tumbleweed,att_earth,1050
+2444,Aurora Borealis,att_legend,2100
+2445,Paralyzing Spell,att_legend,650
+2446,Flaming Arrows,att_fire,650
+2447,Earthquake,att_earth,550
+2448,Pure Energy,att_pure,1500
+2449,Stunning Hit,att_physical,638
+2450,Legendary Wind,att_legend,550
+2451,Lava Balls,att_fire,550
+2452,Ice Spikes,att_ice,650
+2453,Hard Charge,att_physical,488
+2454,Flooding,att_water,650
+2455,Snow Storm,att_ice,1050
+2456,Nuclear Hit,att_fire,1050
+2457,Hard Charge,att_physical,488
+2458,Ice Spikes,att_ice,650
+2459,Magneto,att_metal,650
+2460,Pure Light,att_pure,1500
+2461,Legendary Wind,att_legend,550
+2462,Light Prism,att_light,750
+2463,Laser Beam,att_electric,650
+2464,Leaf Blast,att_plant,1050
+2465,Flying Kick,att_physical,413
+2466,Tumbleweed,att_earth,1050
+2467,Leaf Blast,att_plant,1050
+2468,Light Star,att_light,1050
+2469,Hard Charge,att_physical,488
+2470,Giant Crack,att_war,638
+2471,Light Star,att_light,1050
+2472,Meteor throw,att_earth,1950
+2473,Punch,att_physical,338
+2474,Paralyzing Spell,att_legend,650
+2475,Life Drain,att_dark,550
+2476,Explosion,att_fire,1950
+2477,Flying Kick,att_physical,413
+2478,Nuclear Hit,att_fire,1050
+2479,Life Drain,att_dark,550
+2480,Wave,att_water,1800
+2481,Life Drain,att_dark,550
+2482,Light Star,att_light,1050
+2483,Storm,att_water,1050
+2484,Gaia sap,att_plant,1800
+2485,Light Star,att_light,1050
+2486,Ghost Cloud,att_dark,1050
+2487,Rust,att_metal,1050
+2488,Thunder switch,att_electric,1800
+2489,Head Butt,att_physical,788
+2490,Ice Spikes,att_ice,650
+2491,Deus Axe,att_war,2100
+2492,Nail storm,att_metal,1950
+2493,Stunning Hit,att_physical,638
+2494,Flooding,att_water,650
+2495,Giant Crack,att_war,638
+2496,Random purge,att_war,2100
+2497,Holy light,att_light,1000
+2498,Magneto,att_metal,650
+2499,Hypnosis,att_pure,1500
+2500,Ghost Cloud,att_dark,1050
+2501,Leech seeds,att_plant,1000
+2502,Paralyzing Spell,att_legend,650
+2503,Hypnosis,att_pure,1500
+2504,Giant Crack,att_war,638
+2505,Stunning Hit,att_physical,638
+2506,Legendary Wind,att_legend,550
+2507,Stitching Roots,att_plant,550
+2508,Snow Storm,att_ice,1050
+2509,Punch,att_physical,338
+2510,Paralyzing Spell,att_legend,650
+2511,Flaming Arrows,att_fire,650
+2512,Life Drain,att_dark,550
+2513,Earthquake,att_earth,550
+2514,Light Star,att_light,1050
+2515,Pure Energy,att_pure,1500
+2516,Magneto,att_metal,650
+2517,Ice Spikes,att_ice,650
+2518,Leech,att_dark,650
+2519,Hypnosis,att_pure,1500
+2520,Giant Claw,att_war,1050
+2521,Punch,att_physical,338
+2522,Magneto,att_metal,650
+2523,Hard Charge,att_physical,488
+2524,Laser Beam,att_electric,650
+2525,Flying Kick,att_physical,413
+2526,Life Drain,att_dark,550
+2527,Laser Beam,att_electric,650
+2528,Pure Energy,att_pure,1500
+2529,Hard Charge,att_physical,488
+2530,Giant Mouth,att_war,975
+2531,Magneto,att_metal,650
+2532,Lava Balls,att_fire,550
+2533,Paralyzing Spell,att_legend,650
+2534,Electric Shock,att_electric,1050
+2535,Magneto,att_metal,650
+2536,Nuclear Hit,att_fire,1050
+2537,Punch,att_physical,338
+2538,Primitive Ram,att_primal,1000
+2539,Frost Nova,att_ice,550
+2540,Slash of Ages,att_primal,1200
+2541,Hard Charge,att_physical,488
+2542,Primitive Ram,att_primal,1000
+2543,Head Butt,att_physical,788
+2544,Earthquake,att_earth,550
+2545,Punch,att_physical,338
+2546,Primitive Ram,att_primal,1000
+2547,Head Butt,att_physical,788
+2548,Nuclear Hit,att_fire,1050
+2549,Hard Charge,att_physical,488
+2550,Primitive Ram,att_primal,1000
+2551,Earthquake,att_earth,550
+2552,Nuclear Hit,att_fire,1050
+2553,Slash of Ages,att_primal,1200
+2554,Meteor Shower,att_earth,650
+2555,Lava Balls,att_fire,550
+2556,Giant Claw,att_war,1050
+2557,Hard Charge,att_physical,488
+2558,Primitive Ram,att_primal,1000
+2559,Judo Kick,att_physical,863
+2560,Tsunami,att_water,550
+2561,Hard Charge,att_physical,488
+2562,Primitive Ram,att_primal,1000
+2563,Head Butt,att_physical,788
+2564,Poison Ivy,att_plant,650
+2565,Hard Charge,att_physical,488
+2566,Primitive Ram,att_primal,1000
+2567,Stunning Hit,att_physical,638
+2568,Laser Beam,att_electric,650
+2569,Hard Charge,att_physical,488
+2570,Slash of Ages,att_primal,1200
+2571,Stunning Hit,att_physical,638
+2572,Ice Spikes,att_ice,650
+2573,Punch,att_physical,338
+2574,Primitive Ram,att_primal,1000
+2575,Hard Charge,att_physical,488
+2576,Ghost Cloud,att_dark,1050
+2577,Punch,att_physical,338
+2578,Slash of Ages,att_primal,1200
+2579,Head Butt,att_physical,788
+2580,Light Star,att_light,1050
+2581,Hard Charge,att_physical,488
+2582,Primitive Ram,att_primal,1000
+2583,Head Butt,att_physical,788
+2584,Deus Beam,att_light,2100
+2585,Stunning Hit,att_physical,638
+2586,Primitive Ram,att_primal,1000
+2587,Head Butt,att_physical,788
+2588,Electric Shock,att_electric,1050
+2589,Flying Kick,att_physical,413
+2590,Slash of Ages,att_primal,1200
+2591,Stunning Hit,att_physical,638
+2592,Magneto,att_metal,650
+2593,Flying Kick,att_physical,413
+2594,Slash of Ages,att_primal,1200
+2595,Light Prism,att_light,750
+2596,Tsunami,att_water,550
+2597,Primitive Ram,att_primal,1000
+2598,Paralyzing Spell,att_legend,650
+2599,Frost Nova,att_ice,550
+2600,Magneto,att_metal,650
+2601,Slash of Ages,att_primal,1200
+2602,Laser Beam,att_electric,650
+2603,Giant Mouth,att_war,975
+2604,Leech,att_dark,650
+2605,Judo Kick,att_physical,863
+2606,Slash of Ages,att_primal,1200
+2607,Lava Balls,att_fire,550
+2608,Leech,att_dark,650
+2609,Head Butt,att_physical,788
+2610,Primitive Ram,att_primal,1000
+2611,Electric Shock,att_electric,1050
+2612,Giant Mouth,att_war,975
+2613,Giant Claw,att_war,1050
+2614,Rust,att_metal,1050
+2615,Snow Storm,att_ice,1050
+2616,Ghost Cloud,att_dark,1050
+2617,Ghost Cloud,att_dark,1050
+2618,Pure Energy,att_pure,1500
+2619,Legendary Wind,att_legend,550
+2620,Slash of Ages,att_primal,1200
+2621,Giant Mouth,att_war,975
+2622,Life Drain,att_dark,550
+2623,Storm,att_water,1050
+2624,Ice Spikes,att_ice,650
+2625,Punch,att_physical,338
+2626,Primitive Ram,att_primal,1000
+2627,Leaf Blast,att_plant,1050
+2628,Light Star,att_light,1050
+2629,Light Star,att_light,1050
+2630,Ghost Cloud,att_dark,1050
+2631,Tumbleweed,att_earth,1050
+2632,Nuclear Hit,att_fire,1050
+2633,Tumbleweed,att_earth,1050
+2634,Rust,att_metal,1050
+2635,Leech,att_dark,650
+2636,Giant Claw,att_war,1050
+2637,Head Butt,att_physical,788
+2638,Nuclear Hit,att_fire,1050
+2639,Light Star,att_light,1050
+2640,Tumbleweed,att_earth,1050
+2641,Stunning Hit,att_physical,638
+2642,Ice Spikes,att_ice,650
+2643,Storm,att_water,1050
+2644,Rust,att_metal,1050
+2645,Hard Charge,att_physical,488
+2646,Meteor Shower,att_earth,650
+2647,Leaf Blast,att_plant,1050
+2648,Giant Claw,att_war,1050
+2649,Hard Charge,att_physical,488
+2650,Tsunami,att_water,550
+2651,Poison Ivy,att_plant,650
+2652,Meteor Shower,att_earth,650
+2653,Punch,att_physical,338
+2654,Life Drain,att_dark,550
+2655,Ice Spikes,att_ice,650
+2656,Meteor Shower,att_earth,650
+2657,Light Prism,att_light,750
+2658,Nail Rain,att_metal,550
+2659,Flaming Arrows,att_fire,650
+2660,Giant Mouth,att_war,975
+2661,Stunning Hit,att_physical,638
+2662,Rust,att_metal,1050
+2663,Ghost Cloud,att_dark,1050
+2664,Earthquake,att_earth,550
+2665,Punch,att_physical,338
+2666,Nuclear Hit,att_fire,1050
+2667,Life Drain,att_dark,550
+2668,Light Star,att_light,1050
+2669,Punch,att_physical,338
+2670,Poison Ivy,att_plant,650
+2671,Life Drain,att_dark,550
+2672,Light Star,att_light,1050
+2673,Storm,att_water,1050
+2674,Leaf Blast,att_plant,1050
+2675,Rust,att_metal,1050
+2676,Nuclear Hit,att_fire,1050
+2677,Pure Energy,att_pure,1500
+2678,Magneto,att_metal,650
+2679,Ghost Cloud,att_dark,1050
+2680,Leaf Blast,att_plant,1050
+2681,Holy light,att_light,1000
+2682,Light Star,att_light,1050
+2683,Tsunami,att_water,550
+2684,Pure Energy,att_pure,1500
+2685,Stunning Hit,att_physical,638
+2686,Nuclear Hit,att_fire,1050
+2687,Laser Beam,att_electric,650
+2688,Magneto,att_metal,650
+2689,Hard Charge,att_physical,488
+2690,Light Sword,att_light,650
+2691,Electric Shock,att_electric,1050
+2692,Nail Rain,att_metal,550
+2693,Life Drain,att_dark,550
+2694,Flooding,att_water,650
+2695,Lightning,att_electric,550
+2696,Rust,att_metal,1050
+2697,Paralyzing Spell,att_legend,650
+2698,Giant Claw,att_war,1050
+2699,Electric Shock,att_electric,1050
+2700,Magneto,att_metal,650
+2701,Head Butt,att_physical,788
+2702,Rust,att_metal,1050
+2703,Hypnosis,att_pure,1500
+2704,Ghost Cloud,att_dark,1050
+2705,Giant Claw,att_war,1050
+2706,Nuclear Hit,att_fire,1050
+2707,Tumbleweed,att_earth,1050
+2708,Rust,att_metal,1050
+2709,Hard Charge,att_physical,488
+2710,Flooding,att_water,650
+2711,Stitching Roots,att_plant,550
+2712,Laser Beam,att_electric,650
+2713,Light Star,att_light,1050
+2714,Pure Energy,att_pure,1500
+2715,Leaf Blast,att_plant,1050
+2716,Storm,att_water,1050
+2717,Punch,att_physical,338
+2718,Giant Crack,att_war,638
+2719,Leaf Blast,att_plant,1050
+2720,Light Prism,att_light,750
+2721,Giant Crack,att_war,638
+2722,Rust,att_metal,1050
+2723,Tsunami,att_water,550
+2724,Earthquake,att_earth,550
+2725,Giant Mouth,att_war,975
+2726,Meteor Shower,att_earth,650
+2727,Light Star,att_light,1050
+2728,Random hit,att_war,1100
+2729,Flying Kick,att_physical,413
+2730,Leech,att_dark,650
+2731,Laser Beam,att_electric,650
+2732,Snow Storm,att_ice,1050
+2733,Giant Claw,att_war,1050
+2734,Light Sword,att_light,650
+2735,Magneto,att_metal,650
+2736,Life Drain,att_dark,550
+2737,Stunning Hit,att_physical,638
+2738,Rainbow,att_legend,1050
+2739,Primitive Ram,att_primal,1000
+2740,Pure Energy,att_pure,1500
+2741,Hard Charge,att_physical,488
+2742,Giant Crack,att_war,638
+2743,Earthquake,att_earth,550
+2744,Nail Rain,att_metal,550
+2745,Judo Kick,att_physical,863
+2746,Electric Shock,att_electric,1050
+2747,Rainbow,att_legend,1050
+2748,Giant Claw,att_war,1050
+2749,Stunning Hit,att_physical,638
+2750,Flooding,att_water,650
+2751,Poison Ivy,att_plant,650
+2752,Pure Energy,att_pure,1500
+2753,Head Butt,att_physical,788
+2754,Rust,att_metal,1050
+2755,Electric Shock,att_electric,1050
+2756,Light Star,att_light,1050
+2757,Hard Charge,att_physical,488
+2758,Giant Mouth,att_war,975
+2759,Ghost Cloud,att_dark,1050
+2760,Nuclear Hit,att_fire,1050
+2761,Giant Claw,att_war,1050
+2762,Ghost Cloud,att_dark,1050
+2763,Leaf Blast,att_plant,1050
+2764,Rainbow,att_legend,1050
+2765,Flying Kick,att_physical,413
+2766,Light Prism,att_light,750
+2767,Pure Energy,att_pure,1500
+2768,Flooding,att_water,650
+2769,Hypnosis,att_pure,1500
+2770,Leaf Blast,att_plant,1050
+2771,Life Drain,att_dark,550
+2772,Electric Shock,att_electric,1050
+2773,Paralyzing Spell,att_legend,650
+2774,Magneto,att_metal,650
+2775,Laser Beam,att_electric,650
+2776,Light Star,att_light,1050
+2777,Pure Energy,att_pure,1500
+2778,Flaming Arrows,att_fire,650
+2779,Light Prism,att_light,750
+2780,Confusing Wake,att_dream,1050
+2781,Giant Claw,att_war,1050
+2782,Random hit,att_war,1100
+2783,Ghost Cloud,att_dark,1050
+2784,Enlightening Wisdom,att_light,1200
+2785,Punch,att_physical,338
+2786,Primitive Ram,att_primal,1000
+2787,Stunning Hit,att_physical,638
+2788,Laser Beam,att_electric,650
+2789,Stunning Hit,att_physical,638
+2790,Primitive Ram,att_primal,1000
+2791,Head Butt,att_physical,788
+2792,Hypnosis,att_pure,1500
+2793,Hard Charge,att_physical,488
+2794,Primitive Ram,att_primal,1000
+2795,Head Butt,att_physical,788
+2796,Slash of Ages,att_primal,1200
+2797,Giant Crack,att_war,638
+2798,Pure Energy,att_pure,1500
+2799,Nuclear Hit,att_fire,1050
+2800,Magneto,att_metal,650
+2801,Storm,att_water,1050
+2802,Tumbleweed,att_earth,1050
+2803,Light Star,att_light,1050
+2804,Snow Storm,att_ice,1050
+2805,Life Drain,att_dark,550
+2806,Nuclear Hit,att_fire,1050
+2807,Lightning,att_electric,550
+2808,Snow Storm,att_ice,1050
+2809,Punch,att_physical,338
+2810,Earthquake,att_earth,550
+2811,Rust,att_metal,1050
+2812,Light Prism,att_light,750
+2813,Paralyzing Spell,att_legend,650
+2814,Tsunami,att_water,550
+2815,Leech,att_dark,650
+2816,Giant Mouth,att_war,975
+2817,Stunning Hit,att_physical,638
+2818,Giant Crack,att_war,638
+2819,Electric Shock,att_electric,1050
+2820,Light Sword,att_light,650
+2821,Flying Kick,att_physical,413
+2822,Meteor Shower,att_earth,650
+2823,Life Drain,att_dark,550
+2824,Hypnosis,att_pure,1500
+2825,Punch,att_physical,338
+2826,Earthquake,att_earth,550
+2827,Light Sword,att_light,650
+2828,Giant Crack,att_war,638
+2829,Legendary Wind,att_legend,550
+2830,Life Drain,att_dark,550
+2831,Nail Rain,att_metal,550
+2832,Giant Claw,att_war,1050
+2833,Hard Charge,att_physical,488
+2834,Primitive Ram,att_primal,1000
+2835,Punch,att_physical,338
+2836,Paralyzing Spell,att_legend,650
+2837,Leech,att_dark,650
+2838,Flooding,att_water,650
+2839,Paralyzing Spell,att_legend,650
+2840,Tumbleweed,att_earth,1050
+2841,Punch,att_physical,338
+2842,Giant Crack,att_war,638
+2843,Meteor Shower,att_earth,650
+2844,Legendary Wind,att_legend,550
+2845,Dragonitarian,att_pure,1100
+2846,Giant Mouth,att_war,975
+2847,Light Star,att_light,1050
+2848,The Grim Reaper,att_dark,1200
+2849,Snow Storm,att_ice,1050
+2850,Hypnosis,att_pure,1500
+2851,Leaf Blast,att_plant,1050
+2852,Electric Shock,att_electric,1050
+2853,Rust,att_metal,1050
+2854,Rainbow,att_legend,1050
+2855,Ghost Cloud,att_dark,1050
+2856,Tumbleweed,att_earth,1050
+2857,Ghost Cloud,att_dark,1050
+2858,Light Star,att_light,1050
+2859,Rainbow,att_legend,1050
+2860,Magneto,att_metal,650
+2861,Light Star,att_light,1050
+2862,Pure Energy,att_pure,1500
+2863,Slash of Ages,att_primal,1200
+2864,Ghost Cloud,att_dark,1050
+2865,Pure Energy,att_pure,1500
+2866,Slash of Ages,att_primal,1200
+2867,Tumbleweed,att_earth,1050
+2868,Storm,att_water,1050
+2869,Light Star,att_light,1050
+2870,Pure Light,att_pure,1500
+2871,Storm,att_water,1050
+2872,Rust,att_metal,1050
+2873,Flying Kick,att_physical,413
+2874,Primitive Ram,att_primal,1000
+2875,Hard Charge,att_physical,488
+2876,Nuclear Hit,att_fire,1050
+2877,Punch,att_physical,338
+2878,Light Prism,att_light,750
+2879,Lightning,att_electric,550
+2880,Mana Lightnings,att_magic,1175
+2881,Light Star,att_light,1050
+2882,Tsunami,att_water,550
+2883,Stitching Roots,att_plant,550
+2884,Laser Beam,att_electric,650
+2885,Slash of Ages,att_primal,1200
+2886,Leaf Blast,att_plant,1050
+2887,Light Star,att_light,1050
+2888,Flooding,att_water,650
+2889,Stunning Hit,att_physical,638
+2890,Electric Shock,att_electric,1050
+2891,Rainbow,att_legend,1050
+2892,Flaming Arrows,att_fire,650
+2893,Stunning Hit,att_physical,638
+2894,Primitive Ram,att_primal,1000
+2895,Hard Charge,att_physical,488
+2896,Meteor Shower,att_earth,650
+2897,Stunning Hit,att_physical,638
+2898,Light Star,att_light,1050
+2899,Snow Storm,att_ice,1050
+2900,Primitive Ram,att_primal,1000
+2901,Pure Energy,att_pure,1500
+2902,Paralyzing Spell,att_legend,650
+2903,Flooding,att_water,650
+2904,Confusing Wake,att_dream,1050
+2905,Light Sword,att_light,650
+2906,Nuclear Hit,att_fire,1050
+2907,Tsunami,att_water,550
+2908,Rust,att_metal,1050
+2909,Giant Crack,att_war,638
+2910,Earthquake,att_earth,550
+2911,Giant Claw,att_war,1050
+2912,Primitive Ram,att_primal,1000
+2913,Nail Rain,att_metal,550
+2914,Legendary Wind,att_legend,550
+2915,Light Prism,att_light,750
+2916,Life Drain,att_dark,550
+2917,Primitive Ram,att_primal,1000
+2918,Storm,att_water,1050
+2919,Magneto,att_metal,650
+2920,Ghost Cloud,att_dark,1050
+2921,Stunning Hit,att_physical,638
+2922,Light Prism,att_light,750
+2923,Hypnosis,att_pure,1500
+2924,Poison Ivy,att_plant,650
+2925,Hard Charge,att_physical,488
+2926,Rust,att_metal,1050
+2927,Tumbleweed,att_earth,1050
+2928,Leaf Blast,att_plant,1050
+2929,Stunning Hit,att_physical,638
+2930,Leaf Blast,att_plant,1050
+2931,Storm,att_water,1050
+2932,Tumbleweed,att_earth,1050
+2933,Ghost Cloud,att_dark,1050
+2934,Light Sword,att_light,650
+2935,Giant Claw,att_war,1050
+2936,Meteor Shower,att_earth,650
+2937,Light Star,att_light,1050
+2938,Pure Light,att_pure,1500
+2939,Flaming Arrows,att_fire,650
+2940,Lightning,att_electric,550
+2941,Aurora Borealis,att_legend,2100
+2942,Pure Light,att_pure,1500
+2943,Light Star,att_light,1050
+2944,Call for backup,att_legend,2400
+2945,Electric Shock,att_electric,1050
+2946,Magneto,att_metal,650
+2947,Life Drain,att_dark,550
+2948,Legendary Wind,att_legend,550
+2949,Leaf Blast,att_plant,1050
+2950,Pure Energy,att_pure,1500
+2951,Ghost Cloud,att_dark,1050
+2952,Nuclear Hit,att_fire,1050
+2953,Head Butt,att_physical,788
+2954,Primal Howl,att_primal,1000
+2955,Snow Storm,att_ice,1050
+2956,Magneto,att_metal,650
+2957,Primal Howl,att_primal,1000
+2958,Giant Crack,att_war,638
+2959,Stitching Roots,att_plant,550
+2960,Lightning,att_electric,550
+2961,Hard Charge,att_physical,488
+2962,Life Drain,att_dark,550
+2963,Meteor Shower,att_earth,650
+2964,Nail Rain,att_metal,550
+2965,Stunning Hit,att_physical,638
+2966,Magneto,att_metal,650
+2967,Head Butt,att_physical,788
+2968,Laser Beam,att_electric,650
+2969,Paralyzing Spell,att_legend,650
+2970,Nail Rain,att_metal,550
+2971,Electric Shock,att_electric,1050
+2972,Life Drain,att_dark,550
+2973,Leech,att_dark,650
+2974,Poison Ivy,att_plant,650
+2975,Tumbleweed,att_earth,1050
+2976,Flaming Arrows,att_fire,650
+2977,Giant Mouth,att_war,975
+2978,Ice Spikes,att_ice,650
+2979,Paralyzing Spell,att_legend,650
+2980,Light Star,att_light,1050
+2981,Hard Charge,att_physical,488
+2982,Flooding,att_water,650
+2983,Stunning Hit,att_physical,638
+2984,Primitive Ram,att_primal,1000
+2985,Stunning Hit,att_physical,638
+2986,Earthquake,att_earth,550
+2987,Nuclear Hit,att_fire,1050
+2988,Leech,att_dark,650
+2989,Rust,att_metal,1050
+2990,Giant Mouth,att_war,975
+2991,Paralyzing Spell,att_legend,650
+2992,Electric Shock,att_electric,1050
+2993,Head Butt,att_physical,788
+2994,Ghost Cloud,att_dark,1050
+2995,Poison Ivy,att_plant,650
+2996,Giant Crack,att_war,638
+2997,Hard Charge,att_physical,488
+2998,Meteor Shower,att_earth,650
+2999,Stunning Hit,att_physical,638
+3000,Life Drain,att_dark,550
+3001,Head Butt,att_physical,788
+3002,Light Sword,att_light,650
+3003,Stitching Roots,att_plant,550
+3004,Storm,att_water,1050
+3005,Slash of Ages,att_primal,1200
+3006,Nail Rain,att_metal,550
+3007,Rainbow,att_legend,1050
+3008,Primitive Rumble,att_primal,1950
+3009,Rainbow,att_legend,1050
+3010,Ghost Cloud,att_dark,1050
+3011,Tumbleweed,att_earth,1050
+3012,Celestial Hand,att_soul,1050
+3013,Punch,att_physical,338
+3014,Giant Mouth,att_war,975
+3015,Magneto,att_metal,650
+3016,Light Star,att_light,1050
+3017,Call for help,att_legend,1200
+3018,Cannon Balls,att_metal,1200
+3019,Icy Wind,att_ice,1200
+3020,The Grim Reaper,att_dark,1200
+3021,Giant Claw,att_war,1050
+3022,Slash of Ages,att_primal,1200
+3023,Storm,att_water,1050
+3024,Leaf Blast,att_plant,1050
+3025,Judo Kick,att_physical,863
+3026,Giant Mouth,att_war,975
+3027,Light Prism,att_light,750
+3028,Magneto,att_metal,650
+3029,Stunning Hit,att_physical,638
+3030,Ghost Cloud,att_dark,1050
+3031,Nail Rain,att_metal,550
+3032,Giant Crack,att_war,638
+3033,Laser Beam,att_electric,650
+3034,Flaming Arrows,att_fire,650
+3035,Light Prism,att_light,750
+3036,Leaf Blast,att_plant,1050
+3037,Leech,att_dark,650
+3038,Ice Spikes,att_ice,650
+3039,Pure Energy,att_pure,1500
+3040,Paralyzing Spell,att_legend,650
+3041,Rust,att_metal,1050
+3042,Rainbow,att_legend,1050
+3043,Electric Shock,att_electric,1050
+3044,Nuclear Hit,att_fire,1050
+3045,Legendary Wind,att_legend,550
+3046,Flaming Arrows,att_fire,650
+3047,Laser Beam,att_electric,650
+3048,Light Prism,att_light,750
+3049,Call for help,att_legend,1200
+3050,Beehive,att_plant,1350
+3051,Sand Storm,att_earth,1350
+3052,Cannon Balls,att_metal,1200
+3053,Hard Charge,att_physical,488
+3054,Light Prism,att_light,750
+3055,Flaming Arrows,att_fire,650
+3056,Laser Beam,att_electric,650
+3057,Infernal Crack,att_chaos,1050
+3058,Legend Spell,att_legend,2300
+3059,Pure Energy+,att_pure,2100
+3060,Original Pain,att_primal,2000
+3061,Paralyzing Spell,att_legend,650
+3062,Leech,att_dark,650
+3063,Magneto,att_metal,650
+3064,Slash of Ages,att_primal,1200
+3065,Earthquake,att_earth,550
+3066,Light Star,att_light,1050
+3067,Hypnosis,att_pure,1500
+3068,Festive Lights,att_happy,1175
+3069,Stitching Roots,att_plant,550
+3070,Giant Mouth,att_war,975
+3071,Legendary Wind,att_legend,550
+3072,Rust,att_metal,1050
+3073,Head Butt,att_physical,788
+3074,Leaf Blast,att_plant,1050
+3075,Light Star,att_light,1050
+3076,Giant Mouth,att_war,975
+3077,Pure Energy,att_pure,1500
+3078,Stitching Roots,att_plant,550
+3079,Electric Shock,att_electric,1050
+3080,Tumbleweed,att_earth,1050
+3081,Leech,att_dark,650
+3082,Meteor Shower,att_earth,650
+3083,Light Prism,att_light,750
+3084,Pure Light,att_pure,1500
+3085,Hypnosis,att_pure,1500
+3086,Poison Ivy,att_plant,650
+3087,Flooding,att_water,650
+3088,Life Drain,att_dark,550
+3089,Paralyzing Spell,att_legend,650
+3090,Nuclear Hit,att_fire,1050
+3091,Stitching Roots,att_plant,550
+3092,Giant Claw,att_war,1050
+3093,Legendary Wind,att_legend,550
+3094,Pure Energy,att_pure,1500
+3095,Stitching Roots,att_plant,550
+3096,Light Prism,att_light,750
+3097,Call for backup,att_legend,2400
+3098,Ghost Cloud,att_dark,1050
+3099,Rust,att_metal,1050
+3100,Light Star,att_light,1050
+3101,Laser Beam,att_electric,650
+3102,Frost Nova,att_ice,550
+3103,Tumbleweed,att_earth,1050
+3104,Hypnosis,att_pure,1500
+3105,Meteor Shower,att_earth,650
+3106,Pure Light,att_pure,1500
+3107,Magneto,att_metal,650
+3108,Snow Storm,att_ice,1050
+3109,Legendary Wind,att_legend,550
+3110,Pure Energy,att_pure,1500
+3111,Magneto,att_metal,650
+3112,Earthquake,att_earth,550
+3113,Paralyzing Spell,att_legend,650
+3114,Giant Claw,att_war,1050
+3115,Ghost Cloud,att_dark,1050
+3116,Ice Spikes,att_ice,650
+3117,Soul Breaker,att_soul,1175
+3118,Flaming Arrows,att_fire,650
+3119,Paralyzing Spell,att_legend,650
+3120,Ghost Cloud,att_dark,1050
+3121,Punch,att_physical,338
+3122,Leech,att_dark,650
+3123,Meteor Shower,att_earth,650
+3124,Leaf Blast,att_plant,1050
+3125,Storm,att_water,1050
+3126,Leech,att_dark,650
+3127,Poison Ivy,att_plant,650
+3128,Nuclear Hit,att_fire,1050
+3129,Paralyzing Spell,att_legend,650
+3130,Laser Beam,att_electric,650
+3131,Giant Claw,att_war,1050
+3132,Rust,att_metal,1050
+3133,Rainbow,att_legend,1050
+3134,Leech,att_dark,650
+3135,Light Prism,att_light,750
+3136,Giant Claw,att_war,1050
+3137,Stunning Hit,att_physical,638
+3138,Frost Nova,att_ice,550
+3139,Leech,att_dark,650
+3140,Meteor Shower,att_earth,650
+3141,Stunning Hit,att_physical,638
+3142,Light Prism,att_light,750
+3143,Leech,att_dark,650
+3144,Poison Ivy,att_plant,650
+3145,Hypnosis,att_pure,1500
+3146,Ghost Cloud,att_dark,1050
+3147,Light Prism,att_light,750
+3148,Flaming Arrows,att_fire,650
+3149,Stunning Hit,att_physical,638
+3150,Pure Energy,att_pure,1500
+3151,Light Prism,att_light,750
+3152,Frost Nova,att_ice,550
+3153,Hard Charge,att_physical,488
+3154,Stitching Roots,att_plant,550
+3155,Primitive Ram,att_primal,1000
+3156,Light Star,att_light,1050
+3157,Flying Kick,att_physical,413
+3158,Meteor Shower,att_earth,650
+3159,Lightning,att_electric,550
+3160,Ghost Cloud,att_dark,1050
+3161,Head Butt,att_physical,788
+3162,Life Drain,att_dark,550
+3163,Earthquake,att_earth,550
+3164,Slash of Ages,att_primal,1200
+3165,Paralyzing Spell,att_legend,650
+3166,Rust,att_metal,1050
+3167,Ghost Cloud,att_dark,1050
+3168,Electric Shock,att_electric,1050
+3169,Nuclear Hit,att_fire,1050
+3170,Tumbleweed,att_earth,1050
+3171,Rainbow,att_legend,1050
+3172,Giant Claw,att_war,1050
+3173,Poison Ivy,att_plant,650
+3174,Magneto,att_metal,650
+3175,Tumbleweed,att_earth,1050
+3176,Primitive Ram,att_primal,1000
+3177,Hard Charge,att_physical,488
+3178,Meteor Shower,att_earth,650
+3179,Storm,att_water,1050
+3180,Pure Energy,att_pure,1500
+3181,Light Sword,att_light,650
+3182,Laser Beam,att_electric,650
+3183,Frost Nova,att_ice,550
+3184,Magneto,att_metal,650
+3185,Primitive Ram,att_primal,1000
+3186,Electric Shock,att_electric,1050
+3187,Ghost Cloud,att_dark,1050
+3188,Paralyzing Spell,att_legend,650
+3189,Meteor Shower,att_earth,650
+3190,Lava Balls,att_fire,550
+3191,Light Prism,att_light,750
+3192,Giant Crack,att_war,638
+3193,Nuclear Hit,att_fire,1050
+3194,Slash of Ages,att_primal,1200
+3195,Giant Claw,att_war,1050
+3196,Paralyzing Spell,att_legend,650
+3197,Stunning Hit,att_physical,638
+3198,Storm,att_water,1050
+3199,Poison Ivy,att_plant,650
+3200,Pure Energy,att_pure,1500
+3201,Leech,att_dark,650
+3202,Rainbow,att_legend,1050
+3203,Light Prism,att_light,750
+3204,Pure Light,att_pure,1500
+3205,Rainbow,att_legend,1050
+3206,Flaming Arrows,att_fire,650
+3207,Snow Storm,att_ice,1050
+3208,Leaf Blast,att_plant,1050
+3209,Snow Storm,att_ice,1050
+3210,Giant Crack,att_war,638
+3211,Nuclear Hit,att_fire,1050
+3212,Slash of Ages,att_primal,1200
+3213,Pure Energy,att_pure,1500
+3214,Poison Ivy,att_plant,650
+3215,Electric Shock,att_electric,1050
+3216,Tumbleweed,att_earth,1050
+3217,Light Star,att_light,1050
+3218,Flaming Arrows,att_fire,650
+3219,Meteor Shower,att_earth,650
+3220,Storm,att_water,1050
+3221,Stunning Hit,att_physical,638
+3222,Poison Ivy,att_plant,650
+3223,Flaming Arrows,att_fire,650
+3224,Earthquake,att_earth,550
+3225,Magneto,att_metal,650
+3226,Flooding,att_water,650
+3227,Lightning,att_electric,550
+3228,Poison Ivy,att_plant,650
+3229,Giant Crack,att_war,638
+3230,Paralyzing Spell,att_legend,650
+3231,Hypnosis,att_pure,1500
+3232,Slash of Ages,att_primal,1200
+3233,Primitive Ram,att_primal,1000
+3234,Meteor Shower,att_earth,650
+3235,Storm,att_water,1050
+3236,Giant Claw,att_war,1050
+3237,Light Prism,att_light,750
+3238,Legendary Wind,att_legend,550
+3239,Electric Shock,att_electric,1050
+3240,Giant Crack,att_war,638
+3241,Pure Energy,att_pure,1500
+3242,Rust,att_metal,1050
+3243,Nuclear Hit,att_fire,1050
+3244,Storm,att_water,1050
+3245,Flying Kick,att_physical,413
+3246,Giant Claw,att_war,1050
+3247,Slash of Ages,att_primal,1200
+3248,Nuclear Hit,att_fire,1050
+3249,Frost Nova,att_ice,550
+3250,Paralyzing Spell,att_legend,650
+3251,Flooding,att_water,650
+3252,Giant Mouth,att_war,975
+3253,Paralyzing Spell,att_legend,650
+3254,Frost Nova,att_ice,550
+3255,Life Drain,att_dark,550
+3256,Storm,att_water,1050
+3257,Life Drain,att_dark,550
+3258,Laser Beam,att_electric,650
+3259,Giant Mouth,att_war,975
+3260,Flaming Arrows,att_fire,650
+3261,Nail Rain,att_metal,550
+3262,Hypnosis,att_pure,1500
+3263,Ice Spikes,att_ice,650
+3264,Leech,att_dark,650
+3265,Flaming Arrows,att_fire,650
+3266,Ice Spikes,att_ice,650
+3267,Life Drain,att_dark,550
+3268,Electric Shock,att_electric,1050
+3269,Lava Balls,att_fire,550
+3270,Paralyzing Spell,att_legend,650
+3271,Light Prism,att_light,750
+3272,Electric Shock,att_electric,1050
+3273,Flaming Arrows,att_fire,650
+3274,Ghost Cloud,att_dark,1050
+3275,Laser Beam,att_electric,650
+3276,Giant Claw,att_war,1050
+3277,Flying Kick,att_physical,413
+3278,Flaming Arrows,att_fire,650
+3279,Light Prism,att_light,750
+3280,Pure Energy,att_pure,1500
+3281,Giant Mouth,att_war,975
+3282,Pure Light,att_pure,1500
+3283,Leaf Blast,att_plant,1050
+3284,Paralyzing Spell,att_legend,650
+3285,Leaf Blast,att_plant,1050
+3286,Light Sword,att_light,650
+3287,Flooding,att_water,650
+3288,Leech,att_dark,650
+3289,Frost Nova,att_ice,550
+3290,Magneto,att_metal,650
+3291,Giant Crack,att_war,638
+3292,Light Prism,att_light,750
+3293,Paralyzing Spell,att_legend,650
+3294,Stitching Roots,att_plant,550
+3295,Meteor Shower,att_earth,650
+3296,Flooding,att_water,650
+3297,Hard Charge,att_physical,488
+3298,Pure Energy,att_pure,1500
+3299,Leech,att_dark,650
+3300,Flaming Arrows,att_fire,650
+3301,Meteor Shower,att_earth,650
+3302,Poison Ivy,att_plant,650
+3303,Light Sword,att_light,650
+3304,Ghost Cloud,att_dark,1050
+3305,Legendary Wind,att_legend,550
+3306,Flooding,att_water,650
+3307,Ice Spikes,att_ice,650
+3308,Light Prism,att_light,750
+3309,Pure Light,att_pure,1500
+3310,Flooding,att_water,650
+3311,Lightning,att_electric,550
+3312,Tumbleweed,att_earth,1050
+3313,Flying Kick,att_physical,413
+3314,Poison Ivy,att_plant,650
+3315,Flooding,att_water,650
+3316,Leech,att_dark,650
+3317,Slash of Ages,att_primal,1200
+3318,Flaming Arrows,att_fire,650
+3319,Magneto,att_metal,650
+3320,Giant Claw,att_war,1050
+3321,Lava Balls,att_fire,550
+3322,Life Drain,att_dark,550
+3323,Legendary Wind,att_legend,550
+3324,Soul Breaker,att_soul,1175
+3325,Life Drain,att_dark,550
+3326,Meteor Shower,att_earth,650
+3327,Slash of Ages,att_primal,1200
+3328,Magneto,att_metal,650
+3329,Rainbow,att_legend,1050
+3330,Ghost Cloud,att_dark,1050
+3331,Snow Storm,att_ice,1050
+3332,Electric Shock,att_electric,1050
+3333,Ghost Cloud,att_dark,1050
+3334,Nuclear Hit,att_fire,1050
+3335,Magneto,att_metal,650
+3336,Giant Claw,att_war,1050
+3337,Hard Charge,att_physical,488
+3338,Nuclear Hit,att_fire,1050
+3339,Light Star,att_light,1050
+3340,Tumbleweed,att_earth,1050
+3341,Flying Kick,att_physical,413
+3342,Meteor Shower,att_earth,650
+3343,Leaf Blast,att_plant,1050
+3344,Giant Crack,att_war,638
+3345,Slash of Ages,att_primal,1200
+3346,Life Drain,att_dark,550
+3347,Nail Rain,att_metal,550
+3348,Meteor Shower,att_earth,650
+3349,Rust,att_metal,1050
+3350,Snow Storm,att_ice,1050
+3351,Tumbleweed,att_earth,1050
+3352,Giant Claw,att_war,1050
+3353,Hypnosis,att_pure,1500
+3354,Stitching Roots,att_plant,550
+3355,Paralyzing Spell,att_legend,650
+3356,Light Prism,att_light,750
+3357,Hard Charge,att_physical,488
+3358,Frost Nova,att_ice,550
+3359,Pure Energy,att_pure,1500
+3360,Poison Ivy,att_plant,650
+3361,Stunning Hit,att_physical,638
+3362,Lava Balls,att_fire,550
+3363,Hypnosis,att_pure,1500
+3364,Light Prism,att_light,750
+3365,Hypnosis,att_pure,1500
+3366,Leech,att_dark,650
+3367,Giant Crack,att_war,638
+3368,Rust,att_metal,1050
+3369,Rainbow,att_legend,1050
+3370,Tumbleweed,att_earth,1050
+3371,Light Star,att_light,1050
+3372,Rust,att_metal,1050
+3373,Hard Charge,att_physical,488
+3374,Electric Shock,att_electric,1050
+3375,Storm,att_water,1050
+3376,Flaming Arrows,att_fire,650
+3377,Life Drain,att_dark,550
+3378,Paralyzing Spell,att_legend,650
+3379,Tsunami,att_water,550
+3380,Poison Ivy,att_plant,650
+3381,Leaf Blast,att_plant,1050
+3382,Pure Light,att_pure,1500
+3383,Ice Spikes,att_ice,650
+3384,Nuclear Hit,att_fire,1050
+3385,Stunning Hit,att_physical,638
+3386,Life Drain,att_dark,550
+3387,Meteor Shower,att_earth,650
+3388,Laser Beam,att_electric,650
+3389,Paralyzing Spell,att_legend,650
+3390,Light Prism,att_light,750
+3391,Flooding,att_water,650
+3392,Lightning,att_electric,550
+3393,Magneto,att_metal,650
+3394,Giant Claw,att_war,1050
+3395,Storm,att_water,1050
+3396,Leech,att_dark,650
+3397,Rainbow,att_legend,1050
+3398,Light Prism,att_light,750
+3399,Flaming Arrows,att_fire,650
+3400,Floral Coup,att_beauty,1050
+3401,Hard Charge,att_physical,488
+3402,Legendary Wind,att_legend,550
+3403,Hypnosis,att_pure,1500
+3404,Flaming Arrows,att_fire,650
+3405,Lava Balls,att_fire,550
+3406,Pure Energy,att_pure,1500
+3407,Light Star,att_light,1050
+3408,Electric Shock,att_electric,1050
+3409,Ice Spikes,att_ice,650
+3410,Hypnosis,att_pure,1500
+3411,Light Sword,att_light,650
+3412,Meteor Shower,att_earth,650
+3413,Hard Charge,att_physical,488
+3414,Light Prism,att_light,750
+3415,Pure Light,att_pure,1500
+3416,Earthquake,att_earth,550
+3417,Pure Light,att_pure,1500
+3418,Tumbleweed,att_earth,1050
+3419,Poison Ivy,att_plant,650
+3420,Nail Rain,att_metal,550
+3421,Paralyzing Spell,att_legend,650
+3422,Tumbleweed,att_earth,1050
+3423,Giant Crack,att_war,638
+3424,Ghost Cloud,att_dark,1050
+3425,Judo Kick,att_physical,863
+3426,Life Drain,att_dark,550
+3427,Tsunami,att_water,550
+3428,Ghost Cloud,att_dark,1050
+3429,Leech,att_dark,650
+3430,Lava Balls,att_fire,550
+3431,Earthquake,att_earth,550
+3432,Poison Ivy,att_plant,650
+3433,Judo Kick,att_physical,863
+3434,Giant Mouth,att_war,975
+3435,Tsunami,att_water,550
+3436,Stitching Roots,att_plant,550
+3437,Hard Charge,att_physical,488
+3438,Pure Energy,att_pure,1500
+3439,Giant Claw,att_war,1050
+3440,Tsunami,att_water,550
+3441,Poison Ivy,att_plant,650
+3442,Rainbow,att_legend,1050
+3443,Tsunami,att_water,550
+3444,Hypnosis,att_pure,1500
+3445,Electric Shock,att_electric,1050
+3446,Meteor Shower,att_earth,650
+3447,Magneto,att_metal,650
+3448,Pure Energy,att_pure,1500
+3449,Slash of Ages,att_primal,1200
+3450,Snow Storm,att_ice,1050
+3451,Magneto,att_metal,650
+3452,Giant Claw,att_war,1050
+3453,Head Butt,att_physical,788
+3454,Poison Ivy,att_plant,650
+3455,Tumbleweed,att_earth,1050
+3456,Giant Claw,att_war,1050
+3457,Paralyzing Spell,att_legend,650
+3458,Flooding,att_water,650
+3459,Electric Shock,att_electric,1050
+3460,Pure Energy,att_pure,1500
+3461,Head Butt,att_physical,788
+3462,Primitive Ram,att_primal,1000
+3463,Earthquake,att_earth,550
+3464,Slash of Ages,att_primal,1200
+3465,Legendary Wind,att_legend,550
+3466,Nuclear Hit,att_fire,1050
+3467,Light Prism,att_light,750
+3468,Stitching Roots,att_plant,550
+3469,Head Butt,att_physical,788
+3470,Earthquake,att_earth,550
+3471,Flooding,att_water,650
+3472,Meteor Shower,att_earth,650
+3473,Hard Charge,att_physical,488
+3474,Ghost Cloud,att_dark,1050
+3475,Meteor Shower,att_earth,650
+3476,Giant Mouth,att_war,975
+3477,Giant Mouth,att_war,975
+3478,Nuclear Hit,att_fire,1050
+3479,Meteor Shower,att_earth,650
+3480,Leech,att_dark,650
+3481,Paralyzing Spell,att_legend,650
+3482,Stitching Roots,att_plant,550
+3483,Giant Mouth,att_war,975
+3484,Nuclear Hit,att_fire,1050
+3485,Stunning Hit,att_physical,638
+3486,Primitive Ram,att_primal,1000
+3487,Nuclear Hit,att_fire,1050
+3488,Slash of Ages,att_primal,1200
+3489,Stunning Hit,att_physical,638
+3490,Tsunami,att_water,550
+3491,Leech,att_dark,650
+3492,Ice Spikes,att_ice,650
+3493,Rainbow,att_legend,1050
+3494,Life Drain,att_dark,550
+3495,Giant Mouth,att_war,975
+3496,Lightning,att_electric,550
+3497,Hard Charge,att_physical,488
+3498,Frost Nova,att_ice,550
+3499,Earthquake,att_earth,550
+3500,Giant Mouth,att_war,975
+3501,Giant Mouth,att_war,975
+3502,Meteor Shower,att_earth,650
+3503,Leech,att_dark,650
+3504,Stitching Roots,att_plant,550
+3505,Magneto,att_metal,650
+3506,Electric Shock,att_electric,1050
+3507,Ghost Cloud,att_dark,1050
+3508,Legendary Wind,att_legend,550
+3509,Rust,att_metal,1050
+3510,Life Drain,att_dark,550
+3511,Electric Shock,att_electric,1050
+3512,Giant Claw,att_war,1050
+3513,Flying Kick,att_physical,413
+3514,Lightning,att_electric,550
+3515,Giant Crack,att_war,638
+3516,Laser Beam,att_electric,650
+3517,Punch,att_physical,338
+3518,Magneto,att_metal,650
+3519,Meteor Shower,att_earth,650
+3520,Laser Beam,att_electric,650
+3521,Flooding,att_water,650
+3522,Light Prism,att_light,750
+3523,Poison Ivy,att_plant,650
+3524,Giant Claw,att_war,1050
+3525,Tumbleweed,att_earth,1050
+3526,Leech,att_dark,650
+3527,Nuclear Hit,att_fire,1050
+3528,Giant Claw,att_war,1050
+3529,Flooding,att_water,650
+3530,Earthquake,att_earth,550
+3531,Light Prism,att_light,750
+3532,Stitching Roots,att_plant,550
+3533,Leaf Blast,att_plant,1050
+3534,Pure Energy,att_pure,1500
+3535,Light Prism,att_light,750
+3536,Flaming Arrows,att_fire,650
+3537,Electric Shock,att_electric,1050
+3538,Pure Energy,att_pure,1500
+3539,Light Star,att_light,1050
+3540,Magneto,att_metal,650
+3541,Giant Crack,att_war,638
+3542,Rust,att_metal,1050
+3543,Nuclear Hit,att_fire,1050
+3544,Earthquake,att_earth,550
+3545,Rust,att_metal,1050
+3546,Giant Crack,att_war,638
+3547,Nuclear Hit,att_fire,1050
+3548,Ghost Cloud,att_dark,1050
+3549,Hard Charge,att_physical,488
+3550,Tsunami,att_water,550
+3551,Earthquake,att_earth,550
+3552,Flooding,att_water,650
+3553,Light Star,att_light,1050
+3554,Pure Light,att_pure,1500
+3555,Leaf Blast,att_plant,1050
+3556,Storm,att_water,1050
+3557,Head Butt,att_physical,788
+3558,Meteor Shower,att_earth,650
+3559,Leaf Blast,att_plant,1050
+3560,Lightning,att_electric,550
+3561,Paralyzing Spell,att_legend,650
+3562,Storm,att_water,1050
+3563,Rust,att_metal,1050
+3564,Earthquake,att_earth,550
+3565,Pure Light,att_pure,1500
+3566,Lava Balls,att_fire,550
+3567,Light Star,att_light,1050
+3568,Magneto,att_metal,650
+3569,Meteor Shower,att_earth,650
+3570,Pure Energy,att_pure,1500
+3571,Flooding,att_water,650
+3572,Leaf Blast,att_plant,1050
+3573,Pure Energy,att_pure,1500
+3574,Snow Storm,att_ice,1050
+3575,Leech,att_dark,650
+3576,Magneto,att_metal,650
+3577,Head Butt,att_physical,788
+3578,Flooding,att_water,650
+3579,Lava Balls,att_fire,550
+3580,Earthquake,att_earth,550
+3581,Pure Energy,att_pure,1500
+3582,Lightning,att_electric,550
+3583,Stitching Roots,att_plant,550
+3584,Magneto,att_metal,650
+3585,Brilliant Fireworks,att_happy,1050
+3586,Rainbow,att_legend,1050
+3587,Light Star,att_light,1050
+3588,Giant Mouth,att_war,975
+3589,Rainbow,att_legend,1050
+3590,Magneto,att_metal,650
+3591,Ice Spikes,att_ice,650
+3592,Giant Crack,att_war,638
+3593,Primitive Ram,att_primal,1000
+3594,Earthquake,att_earth,550
+3595,Stitching Roots,att_plant,550
+3596,Nuclear Hit,att_fire,1050
+3597,Pure Energy,att_pure,1500
+3598,Magneto,att_metal,650
+3599,Frost Nova,att_ice,550
+3600,Laser Beam,att_electric,650
+3601,Magneto,att_metal,650
+3602,Electric Shock,att_electric,1050
+3603,Tsunami,att_water,550
+3604,Light Sword,att_light,650
+3605,Legendary Wind,att_legend,550
+3606,Rust,att_metal,1050
+3607,Lava Balls,att_fire,550
+3608,Electric Shock,att_electric,1050
+3609,Light Star,att_light,1050
+3610,Tumbleweed,att_earth,1050
+3611,Ice Spikes,att_ice,650
+3612,Nail Rain,att_metal,550
+3613,Hard Charge,att_physical,488
+3614,Sky Cutter,att_wind,1400
+3615,Flying Kick,att_physical,413
+3616,Tornado Drop,att_wind,1600
+3617,Hard Charge,att_physical,488
+3618,Earthquake,att_earth,550
+3619,Tsunami,att_water,550
+3620,Poison Ivy,att_plant,650
+3621,Judo Kick,att_physical,863
+3622,Ghost Cloud,att_dark,1050
+3623,Giant Claw,att_war,1050
+3624,Legendary Wind,att_legend,550
+3625,Rust,att_metal,1050
+3626,Lava Balls,att_fire,550
+3627,Light Prism,att_light,750
+3628,Laser Beam,att_electric,650
+3629,Pure Energy,att_pure,1500
+3630,Light Prism,att_light,750
+3631,Electric Shock,att_electric,1050
+3632,Magneto,att_metal,650
+3633,Leaf Blast,att_plant,1050
+3634,Rainbow,att_legend,1050
+3635,Magneto,att_metal,650
+3636,Frost Nova,att_ice,550
+3637,Paralyzing Spell,att_legend,650
+3638,Rust,att_metal,1050
+3639,Earthquake,att_earth,550
+3640,Storm,att_water,1050
+3641,Stunning Hit,att_physical,638
+3642,Ice Spikes,att_ice,650
+3643,Stitching Roots,att_plant,550
+3644,Tsunami,att_water,550
+3645,Leech,att_dark,650
+3646,Nail Rain,att_metal,550
+3647,Frost Nova,att_ice,550
+3648,Electric Shock,att_electric,1050
+3649,Light Star,att_light,1050
+3650,Pure Energy,att_pure,1500
+3651,Giant Claw,att_war,1050
+3652,Nuclear Hit,att_fire,1050
+3653,Leech,att_dark,650
+3654,Magneto,att_metal,650
+3655,Electric Shock,att_electric,1050
+3656,Lava Balls,att_fire,550
+3657,Life Drain,att_dark,550
+3658,Slash of Ages,att_primal,1200
+3659,Giant Claw,att_war,1050
+3660,Rust,att_metal,1050
+3661,Tumbleweed,att_earth,1050
+3662,Pure Energy,att_pure,1500
+3663,Light Star,att_light,1050
+3664,Nuclear Hit,att_fire,1050
+3665,Ghost Cloud,att_dark,1050
+3666,Pure Energy,att_pure,1500
+3667,Storm,att_water,1050
+3668,Magneto,att_metal,650
+3669,Lava Balls,att_fire,550
+3670,Giant Crack,att_war,638
+3671,Poison Ivy,att_plant,650
+3672,Electric Shock,att_electric,1050
+3673,Stunning Hit,att_physical,638
+3674,Stitching Roots,att_plant,550
+3675,Light Prism,att_light,750
+3676,Earthquake,att_earth,550
+3677,Light Star,att_light,1050
+3678,Pure Light,att_pure,1500
+3679,Nuclear Hit,att_fire,1050
+3680,Electric Shock,att_electric,1050
+3681,Life Drain,att_dark,550
+3682,Slash of Ages,att_primal,1200
+3683,Stitching Roots,att_plant,550
+3684,Earthquake,att_earth,550
+3685,Giant Claw,att_war,1050
+3686,Legendary Wind,att_legend,550
+3687,Leech,att_dark,650
+3688,Nuclear Hit,att_fire,1050
+3689,Stunning Hit,att_physical,638
+3690,Light Prism,att_light,750
+3691,Legendary Wind,att_legend,550
+3692,Leaf Blast,att_plant,1050
+3693,Paralyzing Spell,att_legend,650
+3694,Magneto,att_metal,650
+3695,Ice Spikes,att_ice,650
+3696,Meteor Shower,att_earth,650
+3697,Hard Charge,att_physical,488
+3698,Rust,att_metal,1050
+3699,Life Drain,att_dark,550
+3700,Earthquake,att_earth,550
+3701,Stunning Hit,att_physical,638
+3702,Sky Cutter,att_wind,1400
+3703,Lava Balls,att_fire,550
+3704,Tornado Drop,att_wind,1600
+3705,Stunning Hit,att_physical,638
+3706,Sky Cutter,att_wind,1400
+3707,Tsunami,att_water,550
+3708,Tornado Drop,att_wind,1600
+3709,Legendary Wind,att_legend,550
+3710,Light Prism,att_light,750
+3711,Lava Balls,att_fire,550
+3712,Meteor Shower,att_earth,650
+3713,Pure Energy,att_pure,1500
+3714,Laser Beam,att_electric,650
+3715,Magneto,att_metal,650
+3716,Frost Nova,att_ice,550
+3717,Primitive Ram,att_primal,1000
+3718,Lava Balls,att_fire,550
+3719,Meteor Shower,att_earth,650
+3720,Giant Mouth,att_war,975
+3721,Paralyzing Spell,att_legend,650
+3722,Slash of Ages,att_primal,1200
+3723,Light Prism,att_light,750
+3724,Flaming Arrows,att_fire,650
+3725,Hypnosis,att_pure,1500
+3726,Light Prism,att_light,750
+3727,Magneto,att_metal,650
+3728,Storm,att_water,1050
+3729,Hard Charge,att_physical,488
+3730,Paralyzing Spell,att_legend,650
+3731,Giant Crack,att_war,638
+3732,Rust,att_metal,1050
+3733,Rainbow,att_legend,1050
+3734,Snow Storm,att_ice,1050
+3735,Giant Mouth,att_war,975
+3736,Lava Balls,att_fire,550
+3737,Paralyzing Spell,att_legend,650
+3738,Nail Rain,att_metal,550
+3739,Ghost Cloud,att_dark,1050
+3740,Giant Claw,att_war,1050
+3741,Paralyzing Spell,att_legend,650
+3742,Light Prism,att_light,750
+3743,Tsunami,att_water,550
+3744,Earthquake,att_earth,550
+3745,Tornado Drop,att_wind,1600
+3746,Ice Spikes,att_ice,650
+3747,Flaming Arrows,att_fire,650
+3748,Head Butt,att_physical,788
+3749,Pure Energy,att_pure,1500
+3750,Giant Claw,att_war,1050
+3751,Light Sword,att_light,650
+3752,Poison Ivy,att_plant,650
+3753,Pure Energy,att_pure,1500
+3754,Light Star,att_light,1050
+3755,Magneto,att_metal,650
+3756,Electric Shock,att_electric,1050
+3757,Light Prism,att_light,750
+3758,Giant Crack,att_war,638
+3759,Paralyzing Spell,att_legend,650
+3760,Stitching Roots,att_plant,550
+3761,Legendary Wind,att_legend,550
+3762,Light Prism,att_light,750
+3763,Tsunami,att_water,550
+3764,Leaf Blast,att_plant,1050
+3765,Basic Powerful wind attack,att_wind,1900
+3766,Electric Shock,att_electric,1050
+3767,Leaf Blast,att_plant,1050
+3768,Rust,att_metal,1050
+3769,Hypnosis,att_pure,1500
+3770,Ice Spikes,att_ice,650
+3771,Storm,att_water,1050
+3772,Light Sword,att_light,650
+3773,Basic Powerful wind attack,att_wind,1900
+3774,Giant Claw,att_war,1050
+3775,Nuclear Hit,att_fire,1050
+3776,Tumbleweed,att_earth,1050
+3777,Giant Claw,att_war,1050
+3778,Nail Rain,att_metal,550
+3779,Storm,att_water,1050
+3780,Ghost Cloud,att_dark,1050
+3781,Snow Storm,att_ice,1050
+3782,Pure Energy,att_pure,1500
+3783,Stitching Roots,att_plant,550
+3784,Leech,att_dark,650
+3785,Ice Spikes,att_ice,650
+3786,Light Prism,att_light,750
+3787,Pure Energy,att_pure,1500
+3788,Slash of Ages,att_primal,1200
+3789,Festive Lights,att_happy,1175
+3790,Pure Light,att_pure,1500
+3791,Light Star,att_light,1050
+3792,Snow Storm,att_ice,1050
+3793,Festive Lights,att_happy,1175
+3794,Legendary Wind,att_legend,550
+3795,Light Star,att_light,1050
+3796,Tumbleweed,att_earth,1050
+3797,Festive Lights,att_happy,1175
+3798,Pure Light,att_pure,1500
+3799,Light Star,att_light,1050
+3800,Storm,att_water,1050
+3801,Festive Lights,att_happy,1175
+3802,Paralyzing Spell,att_legend,650
+3803,Light Prism,att_light,750
+3804,Leaf Blast,att_plant,1050
+3805,Head Butt,att_physical,788
+3806,Festive Lights,att_happy,1175
+3807,Light Star,att_light,1050
+3808,Lava Balls,att_fire,550
+3809,Leech,att_dark,650
+3810,Giant Mouth,att_war,975
+3811,Poison Ivy,att_plant,650
+3812,Meteor Shower,att_earth,650
+3813,Electric Shock,att_electric,1050
+3814,Paralyzing Spell,att_legend,650
+3815,Storm,att_water,1050
+3816,Magneto,att_metal,650
+3817,Legendary Wind,att_legend,550
+3818,Giant Claw,att_war,1050
+3819,Snow Storm,att_ice,1050
+3820,Meteor Shower,att_earth,650
+3821,Pure Energy,att_pure,1500
+3822,Electric Shock,att_electric,1050
+3823,Rust,att_metal,1050
+3824,Nuclear Hit,att_fire,1050
+3825,Primitive Ram,att_primal,1000
+3826,Lava Balls,att_fire,550
+3827,Meteor Shower,att_earth,650
+3828,Tsunami,att_water,550
+3829,Head Butt,att_physical,788
+3830,Leech,att_dark,650
+3831,Flooding,att_water,650
+3832,Earthquake,att_earth,550
+3833,Flooding,att_water,650
+3834,Light Prism,att_light,750
+3835,Hypnosis,att_pure,1500
+3836,Ice Spikes,att_ice,650
+3837,Paralyzing Spell,att_legend,650
+3838,Magneto,att_metal,650
+3839,Light Prism,att_light,750
+3840,Lightning,att_electric,550
+3841,Giant Crack,att_war,638
+3842,Rust,att_metal,1050
+3843,Leech,att_dark,650
+3844,Lava Balls,att_fire,550
+3845,Leech,att_dark,650
+3846,Legendary Wind,att_legend,550
+3847,Lava Balls,att_fire,550
+3848,Lightning,att_electric,550
+3849,Giant Crack,att_war,638
+3850,Paralyzing Spell,att_legend,650
+3851,Lightning,att_electric,550
+3852,Earthquake,att_earth,550
+3853,Ice Spikes,att_ice,650
+3854,Sky Cutter,att_wind,1400
+3855,Life Drain,att_dark,550
+3856,Pure Energy,att_pure,1500
+3857,Frost Nova,att_ice,550
+3858,Earthquake,att_earth,550
+3859,Lightning,att_electric,550
+3860,Magneto,att_metal,650
+3861,Punch,att_physical,338
+3862,Ice Spikes,att_ice,650
+3863,Stitching Roots,att_plant,550
+3864,Flooding,att_water,650
+3865,Magneto,att_metal,650
+3866,Light Prism,att_light,750
+3867,Nuclear Hit,att_fire,1050
+3868,Meteor Shower,att_earth,650
+3869,Giant Mouth,att_war,975
+3870,Life Drain,att_dark,550
+3871,Lava Balls,att_fire,550
+3872,Stitching Roots,att_plant,550
+3873,Slash of Ages,att_primal,1200
+3874,Giant Claw,att_war,1050
+3875,Life Drain,att_dark,550
+3876,Nuclear Hit,att_fire,1050
+3877,Primitive Ram,att_primal,1000
+3878,Life Drain,att_dark,550
+3879,Lava Balls,att_fire,550
+3880,Tsunami,att_water,550
+3881,Ice Spikes,att_ice,650
+3882,Light Prism,att_light,750
+3883,Earthquake,att_earth,550
+3884,Stitching Roots,att_plant,550
+3885,Rainbow,att_legend,1050
+3886,Pure Light,att_pure,1500
+3887,Light Prism,att_light,750
+3888,Storm,att_water,1050
+3889,Electric Shock,att_electric,1050
+3890,Paralyzing Spell,att_legend,650
+3891,Life Drain,att_dark,550
+3892,Poison Ivy,att_plant,650
+3893,Paralyzing Spell,att_legend,650
+3894,Light Star,att_light,1050
+3895,Lava Balls,att_fire,550
+3896,Lightning,att_electric,550
+3897,Electric Shock,att_electric,1050
+3898,Ghost Cloud,att_dark,1050
+3899,Magneto,att_metal,650
+3900,Frost Nova,att_ice,550
+3901,Head Butt,att_physical,788
+3902,Light Prism,att_light,750
+3903,Primitive Ram,att_primal,1000
+3904,Magneto,att_metal,650
+3905,Light Prism,att_light,750
+3906,Paralyzing Spell,att_legend,650
+3907,Flooding,att_water,650
+3908,Lava Balls,att_fire,550
+3909,Light Prism,att_light,750
+3910,Electric Shock,att_electric,1050
+3911,Leaf Blast,att_plant,1050
+3912,Earthquake,att_earth,550
+3913,Paralyzing Spell,att_legend,650
+3914,Meteor Shower,att_earth,650
+3915,Flaming Arrows,att_fire,650
+3916,Light Prism,att_light,750
+3917,Light Prism,att_light,750
+3918,Leaf Blast,att_plant,1050
+3919,Tsunami,att_water,550
+3920,Rainbow,att_legend,1050
+3921,Stunning Hit,att_physical,638
+3922,Stitching Roots,att_plant,550
+3923,Flooding,att_water,650
+3924,Earthquake,att_earth,550
+3925,Electric Shock,att_electric,1050
+3926,Lava Balls,att_fire,550
+3927,Meteor Shower,att_earth,650
+3928,Poison Ivy,att_plant,650
+3929,Pure Energy,att_pure,1500
+3930,Leech,att_dark,650
+3931,Snow Storm,att_ice,1050
+3932,Lava Balls,att_fire,550
+3933,Light Prism,att_light,750
+3934,Sky Cutter,att_wind,1400
+3935,Storm,att_water,1050
+3936,Poison Ivy,att_plant,650
+3937,Pure Energy,att_pure,1500
+3938,Sky Cutter,att_wind,1400
+3939,Leaf Blast,att_plant,1050
+3940,Earthquake,att_earth,550
+3941,Leech,att_dark,650
+3942,Paralyzing Spell,att_legend,650
+3943,Leaf Blast,att_plant,1050
+3944,Giant Crack,att_war,638
+3945,Pure Energy,att_pure,1500
+3946,Light Sword,att_light,650
+3947,Nuclear Hit,att_fire,1050
+3948,Ice Spikes,att_ice,650
+3949,Lava Balls,att_fire,550
+3950,Meteor Shower,att_earth,650
+3951,Light Prism,att_light,750
+3952,Stitching Roots,att_plant,550
+3953,Ice Spikes,att_ice,650
+3954,Flooding,att_water,650
+3955,Life Drain,att_dark,550
+3956,Stitching Roots,att_plant,550
+3957,Lava Balls,att_fire,550
+3958,Leech,att_dark,650
+3959,Meteor Shower,att_earth,650
+3960,Giant Crack,att_war,638
+3961,Ice Spikes,att_ice,650
+3962,Light Prism,att_light,750
+3963,Storm,att_water,1050
+3964,Lightning,att_electric,550
+3965,Hard Charge,att_physical,488
+3966,Stitching Roots,att_plant,550
+3967,Primitive Ram,att_primal,1000
+3968,Light Star,att_light,1050
+3969,Light Star,att_light,1050
+3970,Rainbow,att_legend,1050
+3971,Storm,att_water,1050
+3972,Poison Ivy,att_plant,650
+3973,Leaf Blast,att_plant,1050
+3974,Flooding,att_water,650
+3975,Tumbleweed,att_earth,1050
+3976,Light Star,att_light,1050
+3977,Leaf Blast,att_plant,1050
+3978,Earthquake,att_earth,550
+3979,Tsunami,att_water,550
+3980,Light Prism,att_light,750
+3981,Basic Powerful wind attack,att_wind,1900
+3982,Giant Claw,att_war,1050
+3983,Lightning,att_electric,550
+3984,Flooding,att_water,650
+3985,Light Star,att_light,1050
+3986,Paralyzing Spell,att_legend,650
+3987,Stitching Roots,att_plant,550
+3988,Lava Balls,att_fire,550
+3989,Rainbow,att_legend,1050
+3990,Flaming Arrows,att_fire,650
+3991,Lightning,att_electric,550
+3992,Stitching Roots,att_plant,550
+3993,Ghost Cloud,att_dark,1050
+3994,Rainbow,att_legend,1050
+3995,Laser Beam,att_electric,650
+3996,Flaming Arrows,att_fire,650
+3997,Leaf Blast,att_plant,1050
+3998,Flooding,att_water,650
+3999,Lava Balls,att_fire,550
+4000,Light Sword,att_light,650
+4001,Rainbow,att_legend,1050
+4002,Leech,att_dark,650
+4003,Flaming Arrows,att_fire,650
+4004,Giant Mouth,att_war,975
+4005,Slash of Ages,att_primal,1200
+4006,Nuclear Hit,att_fire,1050
+4007,Meteor Shower,att_earth,650
+4008,Pure Energy,att_pure,1500
+4009,Pure Light,att_pure,1500
+4010,Light Prism,att_light,750
+4011,Magneto,att_metal,650
+4012,Flaming Arrows,att_fire,650
+4013,Head Butt,att_physical,788
+4014,Primitive Ram,att_primal,1000
+4015,Ice Spikes,att_ice,650
+4016,Nail Rain,att_metal,550
+4017,Primitive Ram,att_primal,1000
+4018,Sky Cutter,att_wind,1400
+4019,Flooding,att_water,650
+4020,Stitching Roots,att_plant,550
+4021,Slash of Ages,att_primal,1200
+4022,Tumbleweed,att_earth,1050
+4023,Poison Ivy,att_plant,650
+4024,Pure Energy,att_pure,1500
+4025,Slash of Ages,att_primal,1200
+4026,Laser Beam,att_electric,650
+4027,Nail Rain,att_metal,550
+4028,Light Prism,att_light,750
+4029,Slash of Ages,att_primal,1200
+4030,Ghost Cloud,att_dark,1050
+4031,Flooding,att_water,650
+4032,Pure Energy,att_pure,1500
+4033,Slash of Ages,att_primal,1200
+4034,Giant Claw,att_war,1050
+4035,Ghost Cloud,att_dark,1050
+4036,Pure Energy,att_pure,1500
+4037,Floral Coup,att_beauty,1050
+4038,Flaming Arrows,att_fire,650
+4039,Light Prism,att_light,750
+4040,Poison Ivy,att_plant,650
+4041,Nuclear Hit,att_fire,1050
+4042,Pure Energy,att_pure,1500
+4043,Light Star,att_light,1050
+4044,Rust,att_metal,1050
+4045,Head Butt,att_physical,788
+4046,Light Star,att_light,1050
+4047,Storm,att_water,1050
+4048,Poison Ivy,att_plant,650
+4049,Nuclear Hit,att_fire,1050
+4050,Electric Shock,att_electric,1050
+4051,Light Prism,att_light,750
+4052,Giant Crack,att_war,638
+4053,Typhoon,att_water,1200
+4054,Storm,att_water,1050
+4055,Paralyzing Spell,att_legend,650
+4056,Magneto,att_metal,650
+4057,Celestial Hand,att_soul,1050
+4058,Paralyzing Spell,att_legend,650
+4059,Flooding,att_water,650
+4060,Light Prism,att_light,750
+4061,Ghost Cloud,att_dark,1050
+4062,Sky Cutter,att_wind,1400
+4063,Storm,att_water,1050
+4064,Giant Crack,att_war,638
+4065,Light Star,att_light,1050
+4066,Pure Light,att_pure,1500
+4067,Meteor Shower,att_earth,650
+4068,Poison Ivy,att_plant,650
+4069,Brilliant Fireworks,att_happy,1050
+4070,Light Sword,att_light,650
+4071,Lightning,att_electric,550
+4072,Lava Balls,att_fire,550
+4073,Judo Kick,att_physical,863
+4074,Giant Mouth,att_war,975
+4075,Light Sword,att_light,650
+4076,Magneto,att_metal,650
+4077,Life Drain,att_dark,550
+4078,Magneto,att_metal,650
+4079,Giant Mouth,att_war,975
+4080,Flaming Arrows,att_fire,650
+4081,Storm,att_water,1050
+4082,Ghost Cloud,att_dark,1050
+4083,Rainbow,att_legend,1050
+4084,Snow Storm,att_ice,1050
+4085,Lightning,att_electric,550
+4086,Light Prism,att_light,750
+4087,Slash of Ages,att_primal,1200
+4088,Ice Spikes,att_ice,650
+4089,Nuclear Hit,att_fire,1050
+4090,Electric Shock,att_electric,1050
+4091,Pure Energy,att_pure,1500
+4092,Giant Mouth,att_war,975
+4093,Lava Balls,att_fire,550
+4094,Paralyzing Spell,att_legend,650
+4095,Flooding,att_water,650
+4096,Light Prism,att_light,750
+4097,Nuclear Hit,att_fire,1050
+4098,Light Star,att_light,1050
+4099,Sky Cutter,att_wind,1400
+4100,Life Drain,att_dark,550
+4101,Poison Ivy,att_plant,650
+4102,Giant Mouth,att_war,975
+4103,Snow Storm,att_ice,1050
+4104,Hypnosis,att_pure,1500
+4105,Rainbow,att_legend,1050
+4106,Slash of Ages,att_primal,1200
+4107,Ghost Cloud,att_dark,1050
+4108,Storm,att_water,1050
+4109,Flying Kick,att_physical,413
+4110,Infernal Crack,att_chaos,1050
+4111,Giant Crack,att_war,638
+4112,Nail Rain,att_metal,550
+4113,Leaf Blast,att_plant,1050
+4114,Giant Claw,att_war,1050
+4115,Nail Rain,att_metal,550
+4116,Paralyzing Spell,att_legend,650
+4117,Rainbow,att_legend,1050
+4118,Giant Mouth,att_war,975
+4119,Light Prism,att_light,750
+4120,Hypnosis,att_pure,1500
+4121,Giant Claw,att_war,1050
+4122,Rainbow,att_legend,1050
+4123,Electric Shock,att_electric,1050
+4124,Flaming Arrows,att_fire,650
+4125,Storm,att_water,1050
+4126,Meteor Shower,att_earth,650
+4127,Rust,att_metal,1050
+4128,Tornado Drop,att_wind,1600
+4129,Tornado Drop,att_wind,1600
+4130,Rainbow,att_legend,1050
+4131,Light Star,att_light,1050
+4132,Flaming Arrows,att_fire,650
+4133,Meteor Shower,att_earth,650
+4134,Leech,att_dark,650
+4135,Poison Ivy,att_plant,650
+4136,Lightning,att_electric,550
+4137,Celestial Hand,att_soul,1050
+4138,Electric Shock,att_electric,1050
+4139,Light Prism,att_light,750
+4140,Hypnosis,att_pure,1500
+4141,Ghost Cloud,att_dark,1050
+4142,Stitching Roots,att_plant,550
+4143,Flaming Arrows,att_fire,650
+4144,Giant Claw,att_war,1050
+4145,Nail Rain,att_metal,550
+4146,Lava Balls,att_fire,550
+4147,Life Drain,att_dark,550
+4148,Legendary Wind,att_legend,550
+4149,Ghost Cloud,att_dark,1050
+4150,Magneto,att_metal,650
+4151,Ice Spikes,att_ice,650
+4152,Slash of Ages,att_primal,1200
+4153,Hard Charge,att_physical,488
+4154,Flooding,att_water,650
+4155,Magneto,att_metal,650
+4156,Giant Mouth,att_war,975
+4157,Meteor Shower,att_earth,650
+4158,Lava Balls,att_fire,550
+4159,Giant Crack,att_war,638
+4160,Pure Energy,att_pure,1500
+4161,Tornado Drop,att_wind,1600
+4162,Rainbow,att_legend,1050
+4163,Ghost Cloud,att_dark,1050
+4164,Meteor Shower,att_earth,650
+4165,Pure Energy,att_pure,1500
+4166,Ghost Cloud,att_dark,1050
+4167,Nuclear Hit,att_fire,1050
+4168,Storm,att_water,1050
+4169,Head Butt,att_physical,788
+4170,Nuclear Hit,att_fire,1050
+4171,Light Star,att_light,1050
+4172,Poison Ivy,att_plant,650
+4173,Snow Storm,att_ice,1050
+4174,Tumbleweed,att_earth,1050
+4175,Rust,att_metal,1050
+4176,Laser Beam,att_electric,650
+4177,Flying Kick,att_physical,413
+4178,Sky Cutter,att_wind,1400
+4179,Giant Crack,att_war,638
+4180,Tornado Drop,att_wind,1600
+4181,Punch,att_physical,338
+4182,Stitching Roots,att_plant,550
+4183,Poison Ivy,att_plant,650
+4184,Leaf Blast,att_plant,1050
+4185,Leaf Blast,att_plant,1050
+4186,Giant Claw,att_war,1050
+4187,Rainbow,att_legend,1050
+4188,Snow Storm,att_ice,1050
+4189,Leaf Blast,att_plant,1050
+4190,Poisonous Dream,att_dream,1175
+4191,Giant Claw,att_war,1050
+4192,Light Sword,att_light,650
+4193,Giant Crack,att_war,638
+4194,Primitive Ram,att_primal,1000
+4195,Flaming Arrows,att_fire,650
+4196,Electric Shock,att_electric,1050
+4197,Rainbow,att_legend,1050
+4198,Ghost Cloud,att_dark,1050
+4199,Giant Mouth,att_war,975
+4200,Lava Balls,att_fire,550
+4201,Rainbow,att_legend,1050
+4202,Tsunami,att_water,550
+4203,Leech,att_dark,650
+4204,Earthquake,att_earth,550
+4205,Giant Mouth,att_war,975
+4206,Rust,att_metal,1050
+4207,Snow Storm,att_ice,1050
+4208,Ghost Cloud,att_dark,1050
+4209,Giant Claw,att_war,1050
+4210,Rust,att_metal,1050
+4211,Snow Storm,att_ice,1050
+4212,Light Prism,att_light,750
+4213,Life Drain,att_dark,550
+4214,Ice Spikes,att_ice,650
+4215,Primitive Ram,att_primal,1000
+4216,Giant Mouth,att_war,975
+4217,Giant Claw,att_war,1050
+4218,Snow Storm,att_ice,1050
+4219,Primitive Ram,att_primal,1000
+4220,Ghost Cloud,att_dark,1050
+4221,Tornado Drop,att_wind,1600
+4222,Rainbow,att_legend,1050
+4223,Nuclear Hit,att_fire,1050
+4224,Meteor Shower,att_earth,650
+4225,Sky Cutter,att_wind,1400
+4226,Legendary Wind,att_legend,550
+4227,Twister Of Love,att_happy,1200
+4228,Light Prism,att_light,750
+4229,Head Butt,att_physical,788
+4230,Leaf Blast,att_plant,1050
+4231,Ice Spikes,att_ice,650
+4232,Floral Coup,att_beauty,1050
+4233,Light Star,att_light,1050
+4234,Nuclear Hit,att_fire,1050
+4235,Laser Beam,att_electric,650
+4236,Storm,att_water,1050
+4237,Hypnosis,att_pure,1500
+4238,Light Star,att_light,1050
+4239,Rainbow,att_legend,1050
+4240,Nuclear Hit,att_fire,1050
+4241,Storm,att_water,1050
+4242,Nuclear Hit,att_fire,1050
+4243,Laser Beam,att_electric,650
+4244,Tumbleweed,att_earth,1050
+4245,Tornado Drop,att_wind,1600
+4246,Laser Beam,att_electric,650
+4247,Rainbow,att_legend,1050
+4248,Rust,att_metal,1050
+4249,Hypnosis,att_pure,1500
+4250,Snow Storm,att_ice,1050
+4251,Nuclear Hit,att_fire,1050
+4252,Laser Beam,att_electric,650
+4253,Tsunami,att_water,550
+4254,Lightning,att_electric,550
+4255,Magneto,att_metal,650
+4256,Light Sword,att_light,650
+4257,Light Sword,att_light,650
+4258,Flaming Arrows,att_fire,650
+4259,Lightning,att_electric,550
+4260,Tsunami,att_water,550
+4261,Flying Kick,att_physical,413
+4262,Flooding,att_water,650
+4263,Frost Nova,att_ice,550
+4264,Light Sword,att_light,650
+4265,Head Butt,att_physical,788
+4266,Poison Ivy,att_plant,650
+4267,Magneto,att_metal,650
+4268,Laser Beam,att_electric,650
+4269,Head Butt,att_physical,788
+4270,Lava Balls,att_fire,550
+4271,Leaf Blast,att_plant,1050
+4272,Laser Beam,att_electric,650
+4273,Tornado Drop,att_wind,1600
+4274,Lightning,att_electric,550
+4275,Nail Rain,att_metal,550
+4276,Snow Storm,att_ice,1050
+4277,Hard Charge,att_physical,488
+4278,Laser Beam,att_electric,650
+4279,Light Sword,att_light,650
+4280,Ice Spikes,att_ice,650
+4281,Rainbow,att_legend,1050
+4282,Leech,att_dark,650
+4283,Giant Mouth,att_war,975
+4284,Nuclear Hit,att_fire,1050
+4285,Tornado Drop,att_wind,1600
+4286,Leaf Blast,att_plant,1050
+4287,Storm,att_water,1050
+4288,Primitive Ram,att_primal,1000
+4289,Pure Energy,att_pure,1500
+4290,Nuclear Hit,att_fire,1050
+4291,Giant Mouth,att_war,975
+4292,Slash of Ages,att_primal,1200
+4293,Pure Light,att_pure,1500
+4294,Rainbow,att_legend,1050
+4295,Ghost Cloud,att_dark,1050
+4296,Ice Spikes,att_ice,650
+4297,Leaf Blast,att_plant,1050
+4298,Sky Cutter,att_wind,1400
+4299,Paralyzing Spell,att_legend,650
+4300,Tumbleweed,att_earth,1050
+4301,Light Star,att_light,1050
+4302,Flaming Arrows,att_fire,650
+4303,Pure Light,att_pure,1500
+4304,Laser Beam,att_electric,650
+4305,Head Butt,att_physical,788
+4306,Leaf Blast,att_plant,1050
+4307,Storm,att_water,1050
+4308,Meteor Shower,att_earth,650
+4309,Floral Coup,att_beauty,1050
+4310,Nuclear Hit,att_fire,1050
+4311,Light Star,att_light,1050
+4312,Poison Ivy,att_plant,650
+4313,Giant Claw,att_war,1050
+4314,Slash of Ages,att_primal,1200
+4315,Electric Shock,att_electric,1050
+4316,Flaming Arrows,att_fire,650
+4317,Light Sword,att_light,650
+4318,Festive Lights,att_happy,1175
+4319,Magneto,att_metal,650
+4320,Giant Crack,att_war,638
+4321,Ghost Cloud,att_dark,1050
+4322,Pure Energy,att_pure,1500
+4323,Snow Storm,att_ice,1050
+4324,Sky Cutter,att_wind,1400
+4325,Rust,att_metal,1050
+4326,Storm,att_water,1050
+4327,Tumbleweed,att_earth,1050
+4328,Life Drain,att_dark,550
+4329,Rainbow,att_legend,1050
+4330,Life Drain,att_dark,550
+4331,Ice Spikes,att_ice,650
+4332,Electric Shock,att_electric,1050
+4333,Paralyzing Spell,att_legend,650
+4334,Electric Shock,att_electric,1050
+4335,Magneto,att_metal,650
+4336,Pure Energy,att_pure,1500
+4337,Earthquake,att_earth,550
+4338,Stitching Roots,att_plant,550
+4339,Lava Balls,att_fire,550
+4340,Magneto,att_metal,650
+4341,Flying Kick,att_physical,413
+4342,Nail Rain,att_metal,550
+4343,Light Star,att_light,1050
+4344,Sky Cutter,att_wind,1400
+4345,Tornado Drop,att_wind,1600
+4346,Flaming Arrows,att_fire,650
+4347,Light Prism,att_light,750
+4348,Giant Crack,att_war,638
+4349,Magic Blow,att_magic,1050
+4350,Leech,att_dark,650
+4351,Tsunami,att_water,550
+4352,Poison Ivy,att_plant,650
+4353,Snow Storm,att_ice,1050
+4354,Giant Crack,att_war,638
+4355,Electric Shock,att_electric,1050
+4356,Slash of Ages,att_primal,1200
+4357,Rainbow,att_legend,1050
+4358,Storm,att_water,1050
+4359,Leaf Blast,att_plant,1050
+4360,Pure Energy,att_pure,1500
+4361,Hard Charge,att_physical,488
+4362,Tumbleweed,att_earth,1050
+4363,Rust,att_metal,1050
+4364,Laser Beam,att_electric,650
+4365,Head Butt,att_physical,788
+4366,Slash of Ages,att_primal,1200
+4367,Nuclear Hit,att_fire,1050
+4368,Tumbleweed,att_earth,1050
+4369,Nuclear Hit,att_fire,1050
+4370,Electric Shock,att_electric,1050
+4371,Rust,att_metal,1050
+4372,Tumbleweed,att_earth,1050
+4373,Electric Shock,att_electric,1050
+4374,Flooding,att_water,650
+4375,Rainbow,att_legend,1050
+4376,Rust,att_metal,1050
+4377,Meteor Shower,att_earth,650
+4378,Leaf Blast,att_plant,1050
+4379,Giant Claw,att_war,1050
+4380,Lava Balls,att_fire,550
+4381,Sky Cutter,att_wind,1400
+4382,Lava Balls,att_fire,550
+4383,Giant Mouth,att_war,975
+4384,Ghost Cloud,att_dark,1050
+4385,Leaf Blast,att_plant,1050
+4386,Sky Cutter,att_wind,1400
+4387,Light Prism,att_light,750
+4388,Hypnosis,att_pure,1500
+4389,Hypnosis,att_pure,1500
+4390,Ghost Cloud,att_dark,1050
+4391,Rust,att_metal,1050
+4392,Ice Spikes,att_ice,650
+4393,Tumbleweed,att_earth,1050
+4394,Leaf Blast,att_plant,1050
+4395,Giant Mouth,att_war,975
+4396,Primitive Ram,att_primal,1000
+4397,Iron Shock,att_chaos,1200
+4398,Storm,att_water,1050
+4399,Ghost Cloud,att_dark,1050
+4400,Flaming Arrows,att_fire,650
+4401,Leaf Blast,att_plant,1050
+4402,Earthquake,att_earth,550
+4403,Flooding,att_water,650
+4404,Nuclear Hit,att_fire,1050
+4405,Sky Cutter,att_wind,1400
+4406,Light Sword,att_light,650
+4407,Stitching Roots,att_plant,550
+4408,Snow Storm,att_ice,1050
+4409,Ghost Cloud,att_dark,1050
+4410,Tornado Drop,att_wind,1600
+4411,Nuclear Hit,att_fire,1050
+4412,Paralyzing Spell,att_legend,650
+4413,Giant Claw,att_war,1050
+4414,Light Star,att_light,1050
+4415,Leech,att_dark,650
+4416,Primitive Ram,att_primal,1000
+4417,Pure Energy,att_pure,1500
+4418,Light Star,att_light,1050
+4419,Rust,att_metal,1050
+4420,Ice Spikes,att_ice,650
+4421,Pure Light,att_pure,1500
+4422,Electric Shock,att_electric,1050
+4423,Rust,att_metal,1050
+4424,Meteor Shower,att_earth,650
+4425,Pure Energy,att_pure,1500
+4426,Laser Beam,att_electric,650
+4427,Rust,att_metal,1050
+4428,Poison Ivy,att_plant,650
+4429,Rainbow,att_legend,1050
+4430,Rust,att_metal,1050
+4431,Poison Ivy,att_plant,650
+4432,Storm,att_water,1050
+4433,Electric Shock,att_electric,1050
+4434,Storm,att_water,1050
+4435,Rust,att_metal,1050
+4436,Light Prism,att_light,750
+4437,Tumbleweed,att_earth,1050
+4438,Leaf Blast,att_plant,1050
+4439,Storm,att_water,1050
+4440,Nuclear Hit,att_fire,1050
+4441,Electric Shock,att_electric,1050
+4442,Sky Cutter,att_wind,1400
+4443,Tsunami,att_water,550
+4444,Primitive Ram,att_primal,1000
+4445,Paralyzing Spell,att_legend,650
+4446,Giant Crack,att_war,638
+4447,Light Prism,att_light,750
+4448,Ice Spikes,att_ice,650
+4449,Head Butt,att_physical,788
+4450,Earthquake,att_earth,550
+4451,Lava Balls,att_fire,550
+4452,Flooding,att_water,650
+4453,Head Butt,att_physical,788
+4454,Leech,att_dark,650
+4455,Ice Spikes,att_ice,650
+4456,Flooding,att_water,650
+4457,Light Star,att_light,1050
+4458,Magneto,att_metal,650
+4459,Tsunami,att_water,550
+4460,Laser Beam,att_electric,650
+4461,Tsunami,att_water,550
+4462,Primitive Ram,att_primal,1000
+4463,Giant Mouth,att_war,975
+4464,Nuclear Hit,att_fire,1050
+4465,Stunning Hit,att_physical,638
+4466,Electric Shock,att_electric,1050
+4467,Light Prism,att_light,750
+4468,Flooding,att_water,650
+4469,Stunning Hit,att_physical,638
+4470,Poison Ivy,att_plant,650
+4471,Lava Balls,att_fire,550
+4472,Lightning,att_electric,550
+4473,Slash of Ages,att_primal,1200
+4474,Ghost Cloud,att_dark,1050
+4475,Lightning,att_electric,550
+4476,Tsunami,att_water,550
+4477,Light Sword,att_light,650
+4478,Leaf Blast,att_plant,1050
+4479,Ice Spikes,att_ice,650
+4480,Storm,att_water,1050
+4481,Ghost Cloud,att_dark,1050
+4482,Laser Beam,att_electric,650
+4483,Slash of Ages,att_primal,1200
+4484,Giant Claw,att_war,1050
+4485,Light Star,att_light,1050
+4486,Storm,att_water,1050
+4487,Snow Storm,att_ice,1050
+4488,Laser Beam,att_electric,650
+4489,Nuclear Hit,att_fire,1050
+4490,Electric Shock,att_electric,1050
+4491,Tumbleweed,att_earth,1050
+4492,Poison Ivy,att_plant,650
+4493,Light Star,att_light,1050
+4494,Lava Balls,att_fire,550
+4495,Ghost Cloud,att_dark,1050
+4496,Poison Ivy,att_plant,650
+4497,Confusing Wake,att_dream,1050
+4498,Hypnosis,att_pure,1500
+4499,Snow Storm,att_ice,1050
+4500,Flooding,att_water,650
+4501,Ghost Cloud,att_dark,1050
+4502,Pure Light,att_pure,1500
+4503,Electric Shock,att_electric,1050
+4504,Magneto,att_metal,650

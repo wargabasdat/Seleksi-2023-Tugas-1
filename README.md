@@ -181,32 +181,32 @@ Entitas :
     - rarity_name
 
 Hubungan Antar Entitas:
-  1. Dragon_Element (Many-to-One)
+1. Dragon_Element (Many-to-One)
   
     - Setiap naga hanya dapat memiliki satu elemen
     - Satu elemen dapat dimiliki oleh banyak naga
 
-  2. Dragon_Strength (Many-to-Many)
+2. Dragon_Strength (Many-to-Many)
 
     - Setiap naga dapat memiliki banyak kekuatan
     - Setiap kekuatan dapat dimiliki oleh banyak naga
 
-  3. Dragon_Weakness (Many-to-Many)
+3. Dragon_Weakness (Many-to-Many)
 
     - Setiap naga dapat memiliki banyak kelemahan
     - Setiap kelemahan dapat dimiliki oleh banyak naga
 
-  4. Dragon_Trainable_Attack (Many-to-Many)
+4. Dragon_Trainable_Attack (Many-to-Many)
 
     - Setiap naga dapat memiliki banyak serangan yang dapat dilatih
     - Setiap serangan yang dapat dilatih dapat dimiliki oleh banyak naga
 
-  5. Dragon_Base_Move (Many-to-Many)
+5. Dragon_Base_Move (Many-to-Many)
 
     - Setiap naga dapat memiliki banyak serangan dasar
     - Setiap serangan dasar dapat dimiliki oleh banyak naga
 
-  6. Dragon_Rarity (Many-to-One)
+6. Dragon_Rarity (Many-to-One)
 
     - Setiap naga hanya dapat memiliki satu rarity
     - Satu rarity dapat dimiliki oleh banyak naga
