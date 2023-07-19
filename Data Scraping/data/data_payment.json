@@ -1,0 +1,5054 @@
+[
+  {
+    "listing_id":"333563280818",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"333563280818",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"333563280818",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"333563280818",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"333563280818",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"333563280818",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"333996205343",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"333996205343",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"333996205343",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"333996205343",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"333996205343",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"333996205343",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"295671743764",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"295671743764",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"295671743764",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"295671743764",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"295671743764",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"295671743764",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"295671743764",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"285185433173",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"285185433173",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"285185433173",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"285185433173",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"285185433173",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"285185433173",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"285185433173",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"283560024468",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"283560024468",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"283560024468",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"283560024468",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"283560024468",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"283560024468",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"283560024468",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"125970744067",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"125970744067",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"125970744067",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"125970744067",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"125970744067",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"125970744067",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"125970744067",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"334384327563",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"334384327563",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"334384327563",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"334384327563",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"334384327563",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"334384327563",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"334384327563",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"304954991616",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"304954991616",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"304954991616",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"304954991616",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"304954991616",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"304954991616",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"304954991616",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"265781146667",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"265781146667",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"265781146667",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"265781146667",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"265781146667",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"265781146667",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"265781146667",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"255061480279",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"255061480279",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"255061480279",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"255061480279",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"255061480279",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"255061480279",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"255061480279",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"225143770371",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"225143770371",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"225143770371",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"225143770371",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"225143770371",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"225143770371",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"225143770371",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"225285020534",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"225285020534",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"225285020534",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"225285020534",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"225285020534",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"225285020534",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"225285020534",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"185459965940",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"185459965940",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"185459965940",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"185459965940",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"185459965940",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"185459965940",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"182434051125",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"182434051125",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"182434051125",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"182434051125",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"182434051125",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"182434051125",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"185854363732",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"185854363732",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"185854363732",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"185854363732",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"185854363732",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"185854363732",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"184872918085",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"184872918085",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"184872918085",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"184872918085",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"184872918085",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"184872918085",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"354907151520",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"354907151520",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"354907151520",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"354907151520",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"354907151520",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"354907151520",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"354907151520",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"155421876054",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"155421876054",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"155421876054",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"155421876054",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"155421876054",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"155421876054",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"334875599050",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"334875599050",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"334875599050",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"334875599050",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"334875599050",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"334875599050",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"334838077249",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"334838077249",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"334838077249",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"334838077249",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"334838077249",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"334838077249",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"305015654447",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"305015654447",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"305015654447",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"305015654447",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"305015654447",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"305015654447",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"295806232100",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"295806232100",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"295806232100",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"295806232100",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"295806232100",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"295806232100",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"255969030770",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"255969030770",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"255969030770",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"255969030770",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"255969030770",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"255969030770",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"256132747247",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"256132747247",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"256132747247",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"256132747247",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"256132747247",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"256132747247",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"144833361265",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"144833361265",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"144833361265",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"144833361265",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"144833361265",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"144833361265",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"144833516189",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"144833516189",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"144833516189",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"144833516189",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"144833516189",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"144833516189",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"144833476154",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"144833476154",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"144833476154",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"144833476154",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"144833476154",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"144833476154",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"354420942240",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"354420942240",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"354420942240",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"354420942240",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"354420942240",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"354420942240",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"145048765308",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"145048765308",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"145048765308",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"145048765308",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"145048765308",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"145048765308",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"404022747395",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"404022747395",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"404022747395",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"404022747395",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"404022747395",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"404022747395",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"404106256684",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"404106256684",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"404106256684",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"404106256684",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"404106256684",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"404106256684",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"404054499162",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"404054499162",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"404054499162",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"404054499162",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"404054499162",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"404054499162",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"404048768666",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"404048768666",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"404048768666",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"404048768666",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"404048768666",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"404048768666",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"404240859242",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"404240859242",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"404240859242",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"404240859242",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"404240859242",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"404240859242",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"403973058483",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"403973058483",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"403973058483",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"403973058483",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"403973058483",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"403973058483",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"394198673786",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"394198673786",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"394198673786",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"394198673786",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"394198673786",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"394198673786",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"404042153421",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"404042153421",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"404042153421",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"404042153421",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"404042153421",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"404042153421",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"404147087321",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"404147087321",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"404147087321",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"404147087321",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"404147087321",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"404147087321",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"404284479665",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"404284479665",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"404284479665",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"404284479665",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"404284479665",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"404284479665",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"403973058433",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"403973058433",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"403973058433",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"403973058433",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"403973058433",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"403973058433",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"404088282469",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"404088282469",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"404088282469",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"404088282469",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"404088282469",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"404088282469",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"404291395058",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"404291395058",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"404291395058",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"404291395058",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"404291395058",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"404291395058",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"404103194673",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"404103194673",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"404103194673",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"404103194673",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"404103194673",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"404103194673",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"404036195673",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"404036195673",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"404036195673",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"404036195673",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"404036195673",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"404036195673",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"404089826772",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"404089826772",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"404089826772",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"404089826772",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"404089826772",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"404089826772",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"403962395209",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"403962395209",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"403962395209",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"403962395209",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"403962395209",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"403962395209",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"404214273974",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"404214273974",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"404214273974",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"404214273974",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"404214273974",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"404214273974",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"404185401691",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"404185401691",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"404185401691",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"404185401691",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"404185401691",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"404185401691",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"314549818098",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"314549818098",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"314549818098",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"314549818098",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"314549818098",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"314549818098",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"304947906037",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"304947906037",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"304947906037",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"304947906037",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"304947906037",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"304947906037",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"204160038683",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"204160038683",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"204160038683",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"204160038683",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"204160038683",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"204160038683",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"165591936990",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"165591936990",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"165591936990",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"165591936990",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"165591936990",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"165591936990",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"314579185924",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"314579185924",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"314579185924",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"314579185924",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"314579185924",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"314579185924",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"374467222814",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"374467222814",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"374467222814",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"374467222814",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"374467222814",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"374467222814",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"165543715390",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"165543715390",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"165543715390",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"165543715390",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"165543715390",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"165543715390",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"385617090643",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"385617090643",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"385617090643",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"385617090643",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"385617090643",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"385617090643",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"385649927286",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"385649927286",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"385649927286",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"385649927286",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"385649927286",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"385649927286",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"385645527641",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"385645527641",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"385645527641",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"385645527641",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"385645527641",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"385645527641",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"404233442103",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"404233442103",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"404233442103",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"404233442103",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"404233442103",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"404233442103",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"354527022050",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"354527022050",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"354527022050",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"354527022050",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"354527022050",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"354527022050",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"166100283260",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"166100283260",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"166100283260",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"166100283260",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"166100283260",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"166100283260",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"404333549199",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"404333549199",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"404333549199",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"404333549199",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"404333549199",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"404333549199",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"312511148100",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"312511148100",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"312511148100",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"312511148100",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"312511148100",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"312511148100",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"312511148100",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"183986526985",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"183986526985",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"183986526985",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"183986526985",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"183986526985",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"183986526985",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"183986526985",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"291487951165",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"291487951165",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"291487951165",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"291487951165",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"291487951165",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"291487951165",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"195304573475",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"195304573475",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"195304573475",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"195304573475",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"195304573475",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"195304573475",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"403523596287",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"403523596287",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"403523596287",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"403523596287",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"403523596287",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"403523596287",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"233724282817",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"233724282817",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"233724282817",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"233724282817",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"233724282817",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"233724282817",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"125522449822",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"125522449822",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"125522449822",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"125522449822",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"125522449822",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"125522449822",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"394314363893",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"394314363893",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"394314363893",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"394314363893",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"394314363893",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"394314363893",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"393178266600",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"393178266600",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"393178266600",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"393178266600",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"393178266600",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"393178266600",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"364205923621",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"364205923621",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"364205923621",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"364205923621",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"364205923621",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"364205923621",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"383791923777",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"383791923777",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"383791923777",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"383791923777",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"383791923777",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"383791923777",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"383791923777",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"354829559045",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"354829559045",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"354829559045",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"354829559045",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"354829559045",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"354829559045",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"333767454976",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"333767454976",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"333767454976",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"333767454976",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"333767454976",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"333767454976",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"334294471115",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"334294471115",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"334294471115",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"334294471115",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"334294471115",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"334294471115",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"234857001013",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"234857001013",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"234857001013",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"234857001013",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"234857001013",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"234857001013",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"404296373754",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"404296373754",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"404296373754",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"404296373754",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"404296373754",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"404296373754",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"235033401617",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"235033401617",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"235033401617",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"235033401617",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"235033401617",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"235033401617",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"354845734238",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"354845734238",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"354845734238",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"354845734238",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"354845734238",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"354845734238",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"354826136276",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"354826136276",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"354826136276",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"354826136276",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"354826136276",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"354826136276",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"225222332867",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"225222332867",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"225222332867",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"225222332867",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"225222332867",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"225222332867",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"225222332867",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"363061681562",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"363061681562",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"363061681562",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"363061681562",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"363061681562",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"363061681562",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"363061681562",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"385274330646",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"385274330646",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"385274330646",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"385274330646",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"385274330646",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"385274330646",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"385274330646",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"225050530254",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"225050530254",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"225050530254",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"225050530254",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"225050530254",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"225050530254",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"284983378005",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"284983378005",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"284983378005",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"284983378005",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"284983378005",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"284983378005",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"165545146657",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"165545146657",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"165545146657",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"165545146657",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"165545146657",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"165545146657",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"285356897787",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"285356897787",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"285356897787",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"285356897787",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"285356897787",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"285356897787",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"165514216561",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"165514216561",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"165514216561",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"165514216561",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"165514216561",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"165514216561",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"115756756407",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"115756756407",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"115756756407",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"115756756407",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"115756756407",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"115756756407",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"285177358156",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"285177358156",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"285177358156",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"285177358156",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"285177358156",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"285177358156",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"185796692315",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"185796692315",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"185796692315",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"185796692315",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"185796692315",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"185796692315",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"403852131485",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"403852131485",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"403852131485",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"403852131485",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"403852131485",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"403852131485",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"285197590319",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"285197590319",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"285197590319",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"285197590319",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"285197590319",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"285197590319",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"363923901619",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"363923901619",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"363923901619",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"363923901619",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"363923901619",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"363923901619",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"203481949100",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"203481949100",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"203481949100",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"203481949100",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"203481949100",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"203481949100",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"325368994181",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"325368994181",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"325368994181",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"325368994181",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"325368994181",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"325368994181",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"325368994181",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"364338365213",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"364338365213",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"364338365213",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"364338365213",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"364338365213",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"364338365213",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"364263726790",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"364263726790",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"364263726790",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"364263726790",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"364263726790",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"364263726790",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"334818857843",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"334818857843",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"334818857843",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"334818857843",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"334818857843",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"334818857843",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"225553995775",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"225553995775",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"225553995775",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"225553995775",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"225553995775",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"225553995775",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"364177665428",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"364177665428",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"364177665428",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"364177665428",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"364177665428",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"364177665428",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"285312663335",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"285312663335",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"285312663335",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"285312663335",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"285312663335",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"285312663335",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"225582224623",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"225582224623",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"225582224623",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"225582224623",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"225582224623",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"225582224623",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"334929336396",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"334929336396",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"334929336396",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"334929336396",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"334929336396",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"334929336396",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"225582224789",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"225582224789",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"225582224789",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"225582224789",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"225582224789",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"225582224789",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"225573072206",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"225573072206",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"225573072206",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"225573072206",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"225573072206",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"225573072206",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"304159299186",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"304159299186",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"304159299186",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"304159299186",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"304159299186",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"304159299186",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"175385481038",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"175385481038",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"175385481038",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"175385481038",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"175385481038",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"175385481038",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"334770029196",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"334770029196",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"334770029196",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"334770029196",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"334770029196",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"334770029196",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"174802922966",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"174802922966",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"174802922966",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"174802922966",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"174802922966",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"174802922966",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"174802922933",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"174802922933",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"174802922933",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"174802922933",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"174802922933",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"174802922933",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"225659155348",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"225659155348",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"225659155348",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"225659155348",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"225659155348",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"225659155348",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"364100934469",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"364100934469",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"364100934469",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"364100934469",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"364100934469",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"364100934469",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"225659155339",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"225659155339",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"225659155339",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"225659155339",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"225659155339",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"225659155339",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"285128448590",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"285128448590",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"285128448590",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"285128448590",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"285128448590",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"285128448590",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"225659155194",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"225659155194",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"225659155194",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"225659155194",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"225659155194",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"225659155194",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"225257209061",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"225257209061",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"225257209061",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"225257209061",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"225257209061",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"225257209061",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"134479056498",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"134479056498",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"134479056498",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"134479056498",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"134479056498",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"134479056498",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"185507138558",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"185507138558",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"185507138558",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"185507138558",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"185507138558",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"185507138558",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"225206141519",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"225206141519",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"225206141519",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"225206141519",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"225206141519",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"225206141519",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"225206141519",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"285164489538",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"285164489538",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"285164489538",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"285164489538",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"285164489538",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"285164489538",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"285164489538",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"283619457023",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"283619457023",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"283619457023",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"283619457023",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"283619457023",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"283619457023",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"283619457023",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"284347290788",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"284347290788",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"284347290788",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"284347290788",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"284347290788",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"284347290788",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"284347290788",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"225207283051",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"225207283051",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"225207283051",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"225207283051",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"225207283051",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"225207283051",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"225207283051",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"283596795264",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"283596795264",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"283596795264",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"283596795264",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"283596795264",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"283596795264",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"283596795264",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"372172069343",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"372172069343",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"372172069343",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"372172069343",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"372172069343",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"372172069343",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"372172069343",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"284216426014",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"284216426014",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"284216426014",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"284216426014",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"284216426014",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"284216426014",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"284216426014",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"294111390755",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"294111390755",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"294111390755",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"294111390755",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"294111390755",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"294111390755",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"294111390755",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"183207988245",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"183207988245",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"183207988245",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"183207988245",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"183207988245",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"183207988245",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"183207988245",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"374597576016",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"374597576016",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"374597576016",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"374597576016",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"374597576016",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"374597576016",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"374597576016",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"185663021972",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"185663021972",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"185663021972",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"185663021972",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"185663021972",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"185663021972",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"185663021972",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"185663005479",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"185663005479",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"185663005479",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"185663005479",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"185663005479",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"185663005479",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"185663005479",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"185662973731",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"185662973731",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"185662973731",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"185662973731",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"185662973731",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"185662973731",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"185662973731",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"374597576256",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"374597576256",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"374597576256",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"374597576256",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"374597576256",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"374597576256",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"374597576256",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"374597576251",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"374597576251",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"374597576251",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"374597576251",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"374597576251",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"374597576251",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"374597576251",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"374597576227",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"374597576227",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"374597576227",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"374597576227",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"374597576227",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"374597576227",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"374597576227",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"185662981334",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"185662981334",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"185662981334",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"185662981334",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"185662981334",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"185662981334",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"185662981334",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"393515785233",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"393515785233",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"393515785233",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"393515785233",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"393515785233",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"393515785233",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"284579625585",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"284579625585",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"284579625585",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"284579625585",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"284579625585",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"284579625585",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"284579625585",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"164983644104",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"164983644104",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"164983644104",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"164983644104",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"164983644104",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"164983644104",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"164983644104",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"313969708276",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"313969708276",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"313969708276",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"313969708276",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"313969708276",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"313969708276",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"313969708276",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"304852410569",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"304852410569",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"304852410569",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"304852410569",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"304852410569",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"304852410569",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"304852410569",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"274146735855",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"274146735855",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"274146735855",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"274146735855",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"274146735855",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"274146735855",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"274146735855",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"304736586669",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"304736586669",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"304736586669",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"304736586669",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"304736586669",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"304736586669",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"304736586669",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"314583757070",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"314583757070",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"314583757070",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"314583757070",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"314583757070",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"314583757070",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"314583757070",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"314555594439",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"314555594439",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"314555594439",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"314555594439",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"314555594439",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"314555594439",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"314555594439",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"313831486251",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"313831486251",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"313831486251",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"313831486251",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"313831486251",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"313831486251",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"313831486251",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"313293169130",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"313293169130",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"313293169130",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"313293169130",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"313293169130",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"313293169130",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"313293169130",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"313575258433",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"313575258433",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"313575258433",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"313575258433",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"313575258433",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"313575258433",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"313575258433",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"313292798496",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"313292798496",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"313292798496",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"313292798496",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"313292798496",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"313292798496",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"313292798496",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"314491550846",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"314491550846",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"314491550846",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"314491550846",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"314491550846",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"314491550846",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"314491550846",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"314016357754",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"314016357754",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"314016357754",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"314016357754",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"314016357754",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"314016357754",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"314016357754",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"314008928274",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"314008928274",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"314008928274",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"314008928274",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"314008928274",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"314008928274",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"314008928274",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"383697520458",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"383697520458",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"383697520458",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"383697520458",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"383697520458",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"383697520458",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"363196316215",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"363196316215",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"363196316215",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"363196316215",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"363196316215",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"363196316215",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"125214276662",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"125214276662",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"125214276662",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"125214276662",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"125214276662",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"125214276662",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"125214276662",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"121434373806",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"121434373806",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"121434373806",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"121434373806",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"121434373806",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"121434373806",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"121434373806",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"132751200375",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"132751200375",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"132751200375",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"132751200375",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"132751200375",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"132751200375",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"162002739829",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"162002739829",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"162002739829",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"162002739829",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"162002739829",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"162002739829",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"314045125043",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"314045125043",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"314045125043",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"314045125043",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"314045125043",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"314045125043",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"123834319037",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"123834319037",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"123834319037",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"123834319037",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"123834319037",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"123834319037",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"115836639094",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"115836639094",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"115836639094",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"115836639094",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"115836639094",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"115836639094",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"275776261583",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"275776261583",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"275776261583",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"275776261583",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"275776261583",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"275776261583",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"115836638702",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"115836638702",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"115836638702",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"115836638702",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"115836638702",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"115836638702",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"374199677017",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"374199677017",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"374199677017",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"374199677017",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"374199677017",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"374199677017",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"374651305861",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"374651305861",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"374651305861",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"374651305861",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"374651305861",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"374651305861",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"304719930024",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"304719930024",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"304719930024",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"304719930024",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"304719930024",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"304719930024",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"304719930024",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"303952263935",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"303952263935",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"303952263935",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"303952263935",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"303952263935",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"303952263935",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"303952263935",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"295263280613",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"295263280613",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"295263280613",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"295263280613",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"295263280613",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"295263280613",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"272525246139",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"272525246139",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"272525246139",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"272525246139",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"272525246139",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"272525246139",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"225405193012",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"225405193012",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"225405193012",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"225405193012",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"225405193012",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"225405193012",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"125432338283",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"125432338283",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"125432338283",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"125432338283",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"125432338283",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"125432338283",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"125256673445",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"125256673445",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"125256673445",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"125256673445",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"125256673445",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"125256673445",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"403742792392",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"403742792392",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"403742792392",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"403742792392",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"403742792392",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"403742792392",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"404135959204",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"404135959204",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"404135959204",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"404135959204",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"404135959204",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"404135959204",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"363884195298",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"363884195298",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"363884195298",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"363884195298",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"363884195298",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"363884195298",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"403139727355",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"403139727355",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"403139727355",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"403139727355",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"403139727355",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"403139727355",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"134181784709",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"134181784709",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"134181784709",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"134181784709",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"134181784709",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"134181784709",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"403575544933",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"403575544933",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"403575544933",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"403575544933",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"403575544933",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"403575544933",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"404195413377",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"404195413377",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"404195413377",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"404195413377",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"404195413377",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"404195413377",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"363850436553",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"363850436553",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"363850436553",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"363850436553",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"363850436553",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"363850436553",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"403384248078",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"403384248078",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"403384248078",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"403384248078",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"403384248078",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"403384248078",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"403577427005",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"403577427005",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"403577427005",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"403577427005",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"403577427005",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"403577427005",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"334465834635",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"334465834635",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"334465834635",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"334465834635",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"334465834635",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"334465834635",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"392806621860",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"392806621860",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"392806621860",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"392806621860",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"392806621860",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"392806621860",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"303331203953",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"303331203953",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"303331203953",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"303331203953",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"303331203953",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"303331203953",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"303331203953",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"204352069967",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"204352069967",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"204352069967",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"204352069967",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"204352069967",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"204352069967",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"295297343081",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"295297343081",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"295297343081",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"295297343081",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"295297343081",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"295297343081",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"295297343081",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"125915466240",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"125915466240",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"125915466240",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"125915466240",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"125915466240",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"125915466240",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"125915466240",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"303553942978",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"303553942978",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"303553942978",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"303553942978",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"303553942978",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"303553942978",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"303553942978",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"165398353410",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"165398353410",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"165398353410",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"165398353410",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"165398353410",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"165398353410",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"165398353410",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"175212186150",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"175212186150",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"175212186150",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"175212186150",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"175212186150",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"175212186150",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"175212186150",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"125481825418",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"125481825418",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"125481825418",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"125481825418",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"125481825418",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"125481825418",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"115768945870",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"115768945870",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"115768945870",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"115768945870",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"115768945870",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"115768945870",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"363615671889",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"363615671889",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"363615671889",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"363615671889",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"363615671889",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"363615671889",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"384726527036",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"384726527036",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"384726527036",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"384726527036",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"384726527036",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"384726527036",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"294054556317",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"294054556317",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"294054556317",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"294054556317",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"294054556317",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"294054556317",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"313784767380",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"313784767380",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"313784767380",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"313784767380",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"313784767380",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"313784767380",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"313784767380",
+    "method":"Discover"
+  },
+  {
+    "listing_id":"163642250051",
+    "method":"PayPal"
+  },
+  {
+    "listing_id":"163642250051",
+    "method":"Apple Pay"
+  },
+  {
+    "listing_id":"163642250051",
+    "method":"Google Pay"
+  },
+  {
+    "listing_id":"163642250051",
+    "method":"Visa"
+  },
+  {
+    "listing_id":"163642250051",
+    "method":"Master Card"
+  },
+  {
+    "listing_id":"163642250051",
+    "method":"American Express"
+  },
+  {
+    "listing_id":"163642250051",
+    "method":"Discover"
+  }
+]
