@@ -266,14 +266,10 @@ Proses translasi ERD menjadi relational diagram melibatkan beberapa langkah beri
 <h3 align="center">
   <br>
   Adrian Fahri Affandi
+  18221002
   <br>
 </h3>
 
-<h4 align="center">
-  <br>
-  18221002
-  <br>
-</h4>
 
 <p align="center">
   <i>
