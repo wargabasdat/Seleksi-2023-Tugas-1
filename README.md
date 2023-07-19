@@ -154,13 +154,9 @@ The ERD is translated into a relational model, providing a structured representa
     - ```teamID``` as the primary key (using the team's abbreviation)
     - ```teamName``` as the team's full name
     - ```homeBase``` as the team's home base (city)
-<br>
-<br>
 2. The entity ```Position``` is translated into a table named ```positions```. The table has the following attributes:
     - ```posID``` as the primary key (using the position's abbreviation)
     - ```posName``` as the position's full name
-<br>
-<br>
 3. The entity ```Player``` is translated into a table named ```players```. The table has the following attributes:
     - ```playerID``` as the primary key (using a generated UUID)
     - ```playerName``` as the player's full name
@@ -170,8 +166,6 @@ The ERD is translated into a relational model, providing a structured representa
     - ```overall``` as the player's overall rating
     - ```three``` as the player's three point rating
     - ```dunk``` as the player's dunk rating
-<br>
-<br>
 4. The relationship ```Player``` that can have multiple position ```Position``` is translated into a table named ```playerPositions```. The table has the following attributes:
     - ```playerID``` as the foreign key referencing the ```playerID``` attribute in the ```players``` table
     - ```posID``` as the foreign key referencing the ```posID``` attribute in the ```positions``` table
