@@ -15,6 +15,7 @@
 ![Dragon City](Data%20Storing/screenshot/dragon_city.png)
 <div style="text-align: justify;">
   Dragon City adalah permainan simulasi yang dikembangkan oleh Social Point. Permainan ini dapat dimainkan di Facebook, iOS, Android, dan Windows Phone. Pada permainan ini, pemain dapat membangun kota naga, membiakkan naga, dan bertarung dengan naga lainnya. Pada proyek ini, penulis akan melakukan scraping data naga dari website [deetlist.com/dragoncity/](https://deetlist.com/dragoncity/), menyimpan data tersebut dalam basis data relasional, dan melakukan analisis sederhana terhadap data tersebut.
+</div>
 
 ## Spesifikasi
 
@@ -29,6 +30,7 @@
   - [Author](#author)
 
 ### Description
+<div style="text-align: justify;">
 Data yang digunakan dalam proyek ini berasal dari website deetlist.com/dragoncity/. Data tersebut merupakan informasi tentang naga-naga dalam permainan Dragon City, termasuk detail seperti nama, elemen, statistik, serangan, dan kekuatan/kelemahan.
 
 DBMS yang digunakan dalam proyek ini adalah MySQL yang diakses melalui phpMyAdmin. MySQL dan phpMyAdmin dipilih karena merupakan kombinasi yang populer dan dapat diandalkan untuk mengelola basis data relasional dengan antarmuka pengguna yang intuitif.
@@ -40,9 +42,11 @@ phpMyAdmin adalah aplikasi web berbasis PHP yang menyediakan antarmuka grafis un
 Pemilihan MySQL melalui phpMyAdmin sebagai DBMS yang digunakan memungkinkan penulis untuk membuat skema database yang baik dan efisien, serta melakukan operasi database dengan mudah melalui antarmuka web yang disediakan oleh phpMyAdmin.
 
 Dengan menggunakan MySQL melalui phpMyAdmin, penulis dapat menyimpan, mengelola, dan mengakses data naga Dragon City dengan efisien, memungkinkan pengguna untuk melakukan berbagai operasi dan analisis pada data tersebut.
+</div>
 
 ### Specification
 
+<div style="text-align: justify;">
 Program ini menggunakan Python dan beberapa library sebagai berikut:
 
 - `requests`: Digunakan untuk mengirim permintaan HTTP ke website dan mendapatkan responnya.
@@ -50,6 +54,7 @@ Program ini menggunakan Python dan beberapa library sebagai berikut:
 - `BeautifulSoup`: Digunakan untuk melakukan parsing dan ekstraksi data dari HTML.
 - `urllib.parse`: Digunakan untuk menggabungkan URL dengan benar.
 - `re`: Digunakan untuk melakukan pencocokan pola (pattern matching) menggunakan regular expression.
+</div>
 
 ### How to use
 
@@ -125,9 +130,10 @@ Berikut adalah struktur JSON yang dihasilkan oleh program:
       "Flame",
       "Ice"
     ]
-  }.
+  }
 ]
 ```
+<div style="text-align: justify;">
 Struktur JSON di atas menggambarkan data naga yang diperoleh dari scraping. Setiap objek naga memiliki properti-properti seperti name (nama naga), breed_time (waktu pembiakan), buy_price (harga beli), hatch_time (waktu penetasan), breedable (dapat dipiara), hatch_xp (XP saat menetaskan), description (deskripsi naga), base_moves (serangan dasar), trainable_attacks (serangan yang dapat dilatih), strengths (kekuatan), dan weaknesses (kelemahan).
 
 Bagian base_moves dan trainable_attacks berisi array dari objek-objek serangan dengan properti seperti type (jenis serangan), name (nama serangan), dan damage (jumlah kerusakan yang disebabkan).
@@ -135,7 +141,7 @@ Bagian base_moves dan trainable_attacks berisi array dari objek-objek serangan d
 Bagian strengths dan weaknesses berisi array dari elemen-elemen yang menyatakan kekuatan dan kelemahan naga terhadap elemen-elemen tertentu.
 
 Ini adalah struktur JSON yang dapat digunakan untuk menyimpan data naga hasil scraping.
-
+</div>
 ### Database Structure (ERD and relational diagram)
 
 #### ERD
@@ -258,8 +264,6 @@ Proses translasi ERD menjadi relational diagram melibatkan beberapa langkah beri
 - [PhpMyAdmin](https://www.phpmyadmin.net/)
 - [XAMPP](https://www.apachefriends.org/index.html)
 - [Minimization of ER Diagrams - GeeksforGeeks](https://www.geeksforgeeks.org/minimization-of-er-diagrams/)
-
-</div>
 
 ### Author
 
