@@ -359,6 +359,7 @@ Penulis telah melakukan visualisasi data yang telah disimpan dalam basis data ya
 - [XAMPP](https://www.apachefriends.org/index.html)
 - [Minimization of ER Diagrams - GeeksforGeeks](https://www.geeksforgeeks.org/minimization-of-er-diagrams/)
 - [Dragon City - Deetlist](https://deetlist.com/dragoncity/dragon/)
+- [Goggle Data Studio](https://datastudio.google.com/u/0/navigation/reporting)
 
 ### Author
 
