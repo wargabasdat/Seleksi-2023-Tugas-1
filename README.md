@@ -64,6 +64,8 @@ Program ini menggunakan Python dan beberapa library sebagai berikut:
 6. Anda akan mendapatkan file `all_dragon_data.json` yang berisi data naga-naga Dragon City.
 7. Anda bisa melihat dan memabandingkan data naga-naga Dragon City yang telah discraping dengan data yang ada di website [deetlist.com/dragoncity/](https://deetlist.com/dragoncity/) oleh penulis pada file `Data Scraping/data/all_dragon_data.json`.
 
+Note : Program tidak akan mengambil data naga yang tidak ada informasi detailnya (tidak ada informasi mengenai informasi dasar, serangan, kekuatan, dan lain-lain). Hal ini dikarenakan data tersebut tidak dapat diambil dari website [deetlist.com/dragoncity/](https://deetlist.com/dragoncity/).
+
 ### JSON Structure
 Berikut adalah struktur JSON yang dihasilkan oleh program:
 
