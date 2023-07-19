@@ -142,11 +142,8 @@ def tournament():
                                             WebDriverWait(draw, 10).until(EC.element_to_be_clickable((By.TAG_NAME, 'a')))
                                             time.sleep(2)
                                             draw.find_elements(By.TAG_NAME, 'a')[1].click()
-                                            print('Clicked Draws')
                                             try :
-                                                # print('Waiting for draws')
                                                 WebDriverWait(driver_tourn, 10).until(EC.presence_of_element_located((By.TAG_NAME, 'tbody')))
-                                                # print('Draws found')
                                                 matches = driver_tourn.find_element(By.TAG_NAME, 'tbody').find_elements(By.TAG_NAME, 'tr')
                                                 try :
                                                     for match in matches :
@@ -191,8 +188,6 @@ def tournament():
                                                             except :
                                                                 court = '-'
                                                             winner = player_1
-
-                                                            # print(f'{day} {player_1} {player_2} {player_1_score} {player_2_score} {duration} {court} {winner}')
 
                                                             data_match.append({
                                                                 'day' : day,
