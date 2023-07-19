@@ -145,7 +145,7 @@ Berikut adalah diagram hubungan antar entitas (Entity Relationship Diagram/ERD) 
 Berikut adalah diagram relasional yang menggambarkan tabel-tabel yang akan dibuat:
 
 Entitas : 
-  1. Dragon
+1. Dragon
 
     - id_dragon
     - dragon_name
@@ -156,26 +156,26 @@ Entitas :
     - hatch_xp
     - description
 
-  2. Element
+2. Element
 
     - id_element
     - element_name
 
-  3. Trainable_Attack
+3. Trainable_Attack
 
     - id_trainable_attack
     - trainable_attack_name
     - trainable_attack_type
     - trainable_attack_damage
 
-  4. Base_move
+4. Base_move
 
     - id_base_move
     - base_move_name
     - base_move_type
     - base_move_damage
 
-  5. Rarity
+5. Rarity
 
     - id_rarity
     - rarity_name
