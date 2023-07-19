@@ -175,9 +175,10 @@ Entitas :
 
 Hubungan Antar Entitas:
   1. Dragon_Element (Many-to-One)
-  - Setiap naga hanya dapat memiliki satu elemen
-  - Satu elemen dapat dimiliki oleh banyak naga
   
+    - Setiap naga hanya dapat memiliki satu elemen
+    - Satu elemen dapat dimiliki oleh banyak naga
+
   2. Dragon_Strength (Many-to-Many)
     - Setiap naga dapat memiliki banyak kekuatan
     - Setiap kekuatan dapat dimiliki oleh banyak naga
