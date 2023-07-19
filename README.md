@@ -121,9 +121,9 @@ Berdasarkan ERD dan diagram relasional sebelumnya, maka terdapat beberapa tahapa
 2. __one-to-one relationship__
    Pada ERD, _relationship_ `website`, `detail`, dan `ranking` berjenis _one-to-one_. Untuk itu, proses translasi yang dilakukan adalah menambahkan __primary key__ pada relasi pasangannya dengan dibebaskan _primary key_ milik siapa yang ingin ditambahkan diantara keduanya. _Entity_ dengan _total relationship_ menjadi prioritas untuk dipilih sebagai penyimpan _primary key_ pasangannya. Oleh karena itu, karena semua _one-to-one relationship_ yang terdapat di ERD bersifat total, maka dibebaskan. Maka, atribut yang dipilih adalah university_id yang ditambahkan pada relasi University_website, Info, dan juga Rank.
 <div align="center">
-  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translasi%202.png" alt="Translasi 2" width="300"/>
-  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translasi%203.png" alt="Translasi 3" width="300"/>
-  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translasi%204.png" alt="Translasi 4" width="300"/>
+  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translasi%202.png" alt="Translasi 2" width="250"/>
+  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translasi%203.png" alt="Translasi 3" width="250"/>
+  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translasi%204.png" alt="Translasi 4" width="250"/>
 </div>
    
 ## Screenshot program
@@ -136,9 +136,9 @@ Berdasarkan ERD dan diagram relasional sebelumnya, maka terdapat beberapa tahapa
 
 #### Code Data scraping :
 <div align="center">
-  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/ss%20code%201.png" alt="code 1" width="300"/>
-  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/ss%20code%202.png" alt="code 2" width="300"/>
-  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/ss%20code%203.png" alt="code 3" width="300"/>
+  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/ss%20code%201.png" alt="code 1" width="250"/>
+  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/ss%20code%202.png" alt="code 2" width="250"/>
+  <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/ss%20code%203.png" alt="code 3" width="250"/>
 </div>
 
 #### Code Data storing :
@@ -167,12 +167,30 @@ detail dari setiap tabel :
 <img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/select%20dan%20detail%20university_website.png" alt="Website" width="500">
 </div>
 
+## Data Visualization
+### Hasil visualisasi
+<div align="center">
+<img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Visualization/Visualisasi%20Frekuensi%20Asal%20Negara.png" alt="Frekuensi Asal Negara" width="450">
+</div>
+
+<div align="center">
+<img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Visualization/Visualisasi%20Country%20of%20Top%2050.png" alt="Distribusi Negara Universitas Top 50" width="450">
+</div>
+
+<div align="center">
+<img src="https://github.com/miralistyacahya/Seleksi-2023-Tugas-1/blob/main/Data%20Visualization/Visualisasi%20Kor%20Aspek%20dengan%20World%20Rank.png" alt="Korelasi Ranking Kategori dengan World Ranking" width="450">
+</div>
+
 ## Reference
 #### Library yang digunakan :
 + BeautifulSoup
 + json
 + request
 + pandas
+
+#### Referensi tutorial :
++ [Tutorial Web Scraping - BeautifulSoup](https://www.youtube.com/watch?v=gRLHr664tXA)
++ [Dokumentasi/Tutorial PostgreSQL](https://www.postgresqltutorial.com/)
   
 ## Author
 __Miralistya Cahya Fatimah__
