@@ -159,5 +159,5 @@ for dragon in dragons[:1584]:
         print("Dragon name not found.")
 
 # Menyimpan data ke dalam file JSON
-with open("data/all_dragon_data.json", "w") as json_file:
+with open("all_dragon_data.json", "w") as json_file:
     json.dump(dragon_data, json_file, indent=4)
