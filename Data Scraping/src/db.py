@@ -243,7 +243,7 @@ def insertProductsRecord(_hostname, _database, _username, _pwd, _port_id, cur, c
             port=_port_id
         )
         cur = connection.cursor()
-        with open('Data Scraping/data/products.json', 'r') as file:
+        with open('../data/products.json', 'r') as file:
             json_data = file.read()
             data = json.loads(json_data)
             products = data['products']

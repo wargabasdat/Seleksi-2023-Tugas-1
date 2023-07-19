@@ -111,16 +111,5 @@ def jsonStoring(products_info):
         ]
     }
     products_json = jsonpickle.encode(products)
-    with open("products.json", 'w') as file:
+    with open("../data/products.json", 'w') as file:
         file.write(products_json)
-
-
-# test = [('Kandida', 'Lala', 'Kucing', 'Papi', 'Kudis', 'OK'),
-#         ('Mari', 'Kita', 'Coba', 'Say', 'Ok', 'Mantap')]
-# jsonStoring(test)
-
-# products_names = [name for name in all_products_info.find_a]
-# print(len(all_products_info))
-# product_price = [tag.href for tag in soup.find_all()]
-
-# print(product_name)
