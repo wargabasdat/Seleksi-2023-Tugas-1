@@ -64,7 +64,7 @@ Password : # Masukkan password kalian
 
 6. Setelah melakukan data storing, database dapat di-export agar dapat digunakan untuk keperluan lain. SQL hasil export dapat disimpan di folder ```Data Storing\export```. Apabila sudah pindah folder, jalankan perintah berikut untuk melakukan export.
 ```bash
-> pg_dump -U postgres -d > kkpkcatalogue.sql
+> pg_dump -U postgres -d kkpk > kkpkcatalogue.sql
 ```
 
 ## JSON Structure
@@ -98,6 +98,7 @@ Terdapat 3 file JSON yang digunakan untuk menyimpan hasil scraping, yaitu :
 ## Database Structure
 Berikut merupakan gambar _Entity-Relationship Diagram_ beserta _Relational Model_-nya
 <img src="Data Storing\design\erd-relational.png">
+
 Informasi yang diperoleh dari hasil scraping disusun menjadi atribut-atribut yang ada pada ER Diagram sebelah kiri. Pada website yang digunakan, tidak semua produk buku memiliki informasi mengenai pengarang dan isbn sehingga di dalam DBMS atribut tersebut bisa saja bernilai NULL. Karena terdapat beberapa buku yang dikarang oleh satu dan lebih pengarang, juga ada buku yang memiliki genre lebih dari satu, maka author dan genre dibuat multivalue sehingga transformasi ER Diagram menjadi seperti di gambar bagian sebelah kanan.
 
 ## Screenshot
