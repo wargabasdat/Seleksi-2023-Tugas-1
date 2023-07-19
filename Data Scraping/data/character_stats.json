@@ -1,0 +1,301 @@
+{
+ "character_stats": [
+  {
+   "name": "March 7th",
+   "rarity": "4 star",
+   "element": "Ice",
+   "path": "The Preservation",
+   "hp": 1058,
+   "attack": 511,
+   "defense": 573,
+   "speed": 101,
+   "taunt": 150
+  },
+  {
+   "name": "Trailblazer (Physical)",
+   "rarity": "5 star",
+   "element": "Physical",
+   "path": "The Destruction",
+   "hp": 1203,
+   "attack": 620,
+   "defense": 460,
+   "speed": 100,
+   "taunt": 125
+  },
+  {
+   "name": "Dan Heng",
+   "rarity": "4 star",
+   "element": "Wind",
+   "path": "The Hunt",
+   "hp": 882,
+   "attack": 546,
+   "defense": 396,
+   "speed": 110,
+   "taunt": 75
+  },
+  {
+   "name": "Himeko",
+   "rarity": "5 star",
+   "element": "Fire",
+   "path": "The Erudition",
+   "hp": 1047,
+   "attack": 756,
+   "defense": 436,
+   "speed": 96,
+   "taunt": 75
+  },
+  {
+   "name": "Asta",
+   "rarity": "4 star",
+   "element": "Fire",
+   "path": "The Harmony",
+   "hp": 1023,
+   "attack": 511,
+   "defense": 463,
+   "speed": 106,
+   "taunt": 100
+  },
+  {
+   "name": "Arlan",
+   "rarity": "4 star",
+   "element": "Lightning",
+   "path": "The Destruction",
+   "hp": 1199,
+   "attack": 599,
+   "defense": 330,
+   "speed": 102,
+   "taunt": 125
+  },
+  {
+   "name": "Seele",
+   "rarity": "5 star",
+   "element": "Quantum",
+   "path": "The Hunt",
+   "hp": 931,
+   "attack": 640,
+   "defense": 363,
+   "speed": 115,
+   "taunt": 75
+  },
+  {
+   "name": "Natasha",
+   "rarity": "4 star",
+   "element": "Physical",
+   "path": "The Abundance",
+   "hp": 1164,
+   "attack": 476,
+   "defense": 507,
+   "speed": 98,
+   "taunt": 100
+  },
+  {
+   "name": "Pela",
+   "rarity": "4 star",
+   "element": "Ice",
+   "path": "The Nihility",
+   "hp": 987,
+   "attack": 546,
+   "defense": 463,
+   "speed": 105,
+   "taunt": 100
+  },
+  {
+   "name": "Hook",
+   "rarity": "4 star",
+   "element": "Fire",
+   "path": "The Destruction",
+   "hp": 1340,
+   "attack": 617,
+   "defense": 352,
+   "speed": 94,
+   "taunt": 125
+  },
+  {
+   "name": "Serval",
+   "rarity": "4 star",
+   "element": "Lightning",
+   "path": "The Erudition",
+   "hp": 917,
+   "attack": 652,
+   "defense": 374,
+   "speed": 104,
+   "taunt": 75
+  },
+  {
+   "name": "Qingque",
+   "rarity": "4 star",
+   "element": "Quantum",
+   "path": "The Erudition",
+   "hp": 1023,
+   "attack": 652,
+   "defense": 441,
+   "speed": 98,
+   "taunt": 75
+  },
+  {
+   "name": "Herta",
+   "rarity": "4 star",
+   "element": "Ice",
+   "path": "The Erudition",
+   "hp": 952,
+   "attack": 582,
+   "defense": 396,
+   "speed": 100,
+   "taunt": 75
+  },
+  {
+   "name": "Tingyun",
+   "rarity": "4 star",
+   "element": "Lightning",
+   "path": "The Harmony",
+   "hp": 846,
+   "attack": 529,
+   "defense": 396,
+   "speed": 112,
+   "taunt": 100
+  },
+  {
+   "name": "Sushang",
+   "rarity": "4 star",
+   "element": "Physical",
+   "path": "The Hunt",
+   "hp": 917,
+   "attack": 564,
+   "defense": 418,
+   "speed": 107,
+   "taunt": 75
+  },
+  {
+   "name": "Clara",
+   "rarity": "5 star",
+   "element": "Physical",
+   "path": "The Destruction",
+   "hp": 1241,
+   "attack": 737,
+   "defense": 485,
+   "speed": 90,
+   "taunt": 125
+  },
+  {
+   "name": "Bronya",
+   "rarity": "5 star",
+   "element": "Wind",
+   "path": "The Harmony",
+   "hp": 1241,
+   "attack": 582,
+   "defense": 533,
+   "speed": 99,
+   "taunt": 100
+  },
+  {
+   "name": "Gepard",
+   "rarity": "5 star",
+   "element": "Ice",
+   "path": "The Preservation",
+   "hp": 1397,
+   "attack": 543,
+   "defense": 654,
+   "speed": 92,
+   "taunt": 150
+  },
+  {
+   "name": "Bailu",
+   "rarity": "5 star",
+   "element": "Lightning",
+   "path": "The Abundance",
+   "hp": 1319,
+   "attack": 562,
+   "defense": 485,
+   "speed": 98,
+   "taunt": 100
+  },
+  {
+   "name": "Yanqing",
+   "rarity": "5 star",
+   "element": "Ice",
+   "path": "The Hunt",
+   "hp": 892,
+   "attack": 679,
+   "defense": 412,
+   "speed": 109,
+   "taunt": 75
+  },
+  {
+   "name": "Welt",
+   "rarity": "5 star",
+   "element": "Imaginary",
+   "path": "The Nihility",
+   "hp": 1125,
+   "attack": 620,
+   "defense": 509,
+   "speed": 102,
+   "taunt": 100
+  },
+  {
+   "name": "Sampo",
+   "rarity": "4 star",
+   "element": "Wind",
+   "path": "The Nihility",
+   "hp": 1023,
+   "attack": 617,
+   "defense": 396,
+   "speed": 102,
+   "taunt": 100
+  },
+  {
+   "name": "Trailblazer (Fire)",
+   "rarity": "5 star",
+   "element": "Fire",
+   "path": "The Preservation",
+   "hp": 1241,
+   "attack": 601,
+   "defense": 606,
+   "speed": 95,
+   "taunt": 150
+  },
+  {
+   "name": "Jing Yuan",
+   "rarity": "5 star",
+   "element": "Lightning",
+   "path": "The Erudition",
+   "hp": 1164,
+   "attack": 698,
+   "defense": 485,
+   "speed": 99,
+   "taunt": 75
+  },
+  {
+   "name": "Silver Wolf",
+   "rarity": "5 star",
+   "element": "Quantum",
+   "path": "The Nihility",
+   "hp": 1047,
+   "attack": 640,
+   "defense": 460,
+   "speed": 107,
+   "taunt": 100
+  },
+  {
+   "name": "Luocha",
+   "rarity": "5 star",
+   "element": "Imaginary",
+   "path": "The Abundance",
+   "hp": 1280,
+   "attack": 756,
+   "defense": 363,
+   "speed": 101,
+   "taunt": 100
+  },
+  {
+   "name": "Yukong",
+   "rarity": "4 star",
+   "element": "Imaginary",
+   "path": "The Harmony",
+   "hp": 917,
+   "attack": 599,
+   "defense": 374,
+   "speed": 107,
+   "taunt": 100
+  }
+ ]
+}

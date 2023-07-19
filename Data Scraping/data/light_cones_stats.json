@@ -1,0 +1,548 @@
+{
+ "light_cones": [
+  {
+   "name": "Before Dawn",
+   "rarity": "5 star",
+   "path": "The Erudition",
+   "hp": 1058,
+   "attack": 582,
+   "defense": 463
+  },
+  {
+   "name": "Cruising in the Stellar Sea",
+   "rarity": "5 star",
+   "path": "The Hunt",
+   "hp": 952,
+   "attack": 529,
+   "defense": 463
+  },
+  {
+   "name": "Echoes of the Coffin",
+   "rarity": "5 star",
+   "path": "The Abundance",
+   "hp": 1164,
+   "attack": 582,
+   "defense": 396
+  },
+  {
+   "name": "In the Name of the World",
+   "rarity": "5 star",
+   "path": "The Nihility",
+   "hp": 1058,
+   "attack": 582,
+   "defense": 463
+  },
+  {
+   "name": "In the Night",
+   "rarity": "5 star",
+   "path": "The Hunt",
+   "hp": 1058,
+   "attack": 582,
+   "defense": 463
+  },
+  {
+   "name": "Incessant Rain",
+   "rarity": "5 star",
+   "path": "The Nihility",
+   "hp": 1058,
+   "attack": 582,
+   "defense": 463
+  },
+  {
+   "name": "Moment of Victory",
+   "rarity": "5 star",
+   "path": "The Preservation",
+   "hp": 1058,
+   "attack": 476,
+   "defense": 595
+  },
+  {
+   "name": "Night on the Milky Way",
+   "rarity": "5 star",
+   "path": "The Erudition",
+   "hp": 1164,
+   "attack": 582,
+   "defense": 396
+  },
+  {
+   "name": "On the Fall of an Aeon",
+   "rarity": "5 star",
+   "path": "The Destruction",
+   "hp": 1058,
+   "attack": 529,
+   "defense": 396
+  },
+  {
+   "name": "Sleep Like the Dead",
+   "rarity": "5 star",
+   "path": "The Hunt",
+   "hp": 1058,
+   "attack": 582,
+   "defense": 463
+  },
+  {
+   "name": "Something Irreplaceable",
+   "rarity": "5 star",
+   "path": "The Destruction",
+   "hp": 1164,
+   "attack": 582,
+   "defense": 396
+  },
+  {
+   "name": "Texture of Memories",
+   "rarity": "5 star",
+   "path": "The Preservation",
+   "hp": 1058,
+   "attack": 423,
+   "defense": 529
+  },
+  {
+   "name": "The Battle Isn't Over",
+   "rarity": "5 star",
+   "path": "The Harmony",
+   "hp": 1164,
+   "attack": 529,
+   "defense": 463
+  },
+  {
+   "name": "Time Waits for No One",
+   "rarity": "5 star",
+   "path": "The Abundance",
+   "hp": 1270,
+   "attack": 476,
+   "defense": 463
+  },
+  {
+   "name": "A Secret Vow",
+   "rarity": "4 star",
+   "path": "The Destruction",
+   "hp": 1058,
+   "attack": 476,
+   "defense": 264
+  },
+  {
+   "name": "Before the Tutorial Mission Starts",
+   "rarity": "4 star",
+   "path": "The Nihility",
+   "hp": 952,
+   "attack": 476,
+   "defense": 330
+  },
+  {
+   "name": "Carve the Moon, Weave the Clouds",
+   "rarity": "4 star",
+   "path": "The Harmony",
+   "hp": 952,
+   "attack": 476,
+   "defense": 330
+  },
+  {
+   "name": "Dance! Dance! Dance!",
+   "rarity": "4 star",
+   "path": "The Harmony",
+   "hp": 952,
+   "attack": 423,
+   "defense": 396
+  },
+  {
+   "name": "Day One of My New Life",
+   "rarity": "4 star",
+   "path": "The Preservation",
+   "hp": 952,
+   "attack": 370,
+   "defense": 463
+  },
+  {
+   "name": "Eyes of the Prey",
+   "rarity": "4 star",
+   "path": "The Nihility",
+   "hp": 952,
+   "attack": 476,
+   "defense": 330
+  },
+  {
+   "name": "Fermata",
+   "rarity": "4 star",
+   "path": "The Nihility",
+   "hp": 952,
+   "attack": 476,
+   "defense": 330
+  },
+  {
+   "name": "Geniuses' Repose",
+   "rarity": "4 star",
+   "path": "The Erudition",
+   "hp": 846,
+   "attack": 476,
+   "defense": 396
+  },
+  {
+   "name": "Good Night and Sleep Well",
+   "rarity": "4 star",
+   "path": "The Nihility",
+   "hp": 952,
+   "attack": 476,
+   "defense": 330
+  },
+  {
+   "name": "Landau's Choice",
+   "rarity": "4 star",
+   "path": "The Preservation",
+   "hp": 952,
+   "attack": 423,
+   "defense": 396
+  },
+  {
+   "name": "Make the World Clamor",
+   "rarity": "4 star",
+   "path": "The Erudition",
+   "hp": 846,
+   "attack": 476,
+   "defense": 396
+  },
+  {
+   "name": "Memories of the Past",
+   "rarity": "4 star",
+   "path": "The Harmony",
+   "hp": 952,
+   "attack": 423,
+   "defense": 396
+  },
+  {
+   "name": "Nowhere to Run",
+   "rarity": "4 star",
+   "path": "The Destruction",
+   "hp": 952,
+   "attack": 529,
+   "defense": 264
+  },
+  {
+   "name": "Only Silence Remains",
+   "rarity": "4 star",
+   "path": "The Hunt",
+   "hp": 952,
+   "attack": 476,
+   "defense": 330
+  },
+  {
+   "name": "Past and Future",
+   "rarity": "4 star",
+   "path": "The Harmony",
+   "hp": 952,
+   "attack": 423,
+   "defense": 396
+  },
+  {
+   "name": "Perfect Timing",
+   "rarity": "4 star",
+   "path": "The Abundance",
+   "hp": 952,
+   "attack": 423,
+   "defense": 396
+  },
+  {
+   "name": "Planetary Rendezvous",
+   "rarity": "4 star",
+   "path": "The Harmony",
+   "hp": 1058,
+   "attack": 423,
+   "defense": 330
+  },
+  {
+   "name": "Post-Op Conversation",
+   "rarity": "4 star",
+   "path": "The Abundance",
+   "hp": 1058,
+   "attack": 423,
+   "defense": 330
+  },
+  {
+   "name": "Quid Pro Quo",
+   "rarity": "4 star",
+   "path": "The Abundance",
+   "hp": 952,
+   "attack": 423,
+   "defense": 396
+  },
+  {
+   "name": "Resolution Shines As Pearls of Sweat",
+   "rarity": "4 star",
+   "path": "The Nihility",
+   "hp": 952,
+   "attack": 476,
+   "defense": 330
+  },
+  {
+   "name": "Return to Darkness",
+   "rarity": "4 star",
+   "path": "The Hunt",
+   "hp": 846,
+   "attack": 529,
+   "defense": 330
+  },
+  {
+   "name": "Shared Feeling",
+   "rarity": "4 star",
+   "path": "The Abundance",
+   "hp": 952,
+   "attack": 426,
+   "defense": 396
+  },
+  {
+   "name": "Subscribe for More!",
+   "rarity": "4 star",
+   "path": "The Hunt",
+   "hp": 952,
+   "attack": 476,
+   "defense": 330
+  },
+  {
+   "name": "Swordplay",
+   "rarity": "4 star",
+   "path": "The Hunt",
+   "hp": 952,
+   "attack": 476,
+   "defense": 330
+  },
+  {
+   "name": "The Birth of the Self",
+   "rarity": "4 star",
+   "path": "The Erudition",
+   "hp": 952,
+   "attack": 476,
+   "defense": 330
+  },
+  {
+   "name": "The Moles Welcome You",
+   "rarity": "4 star",
+   "path": "The Destruction",
+   "hp": 1058,
+   "attack": 476,
+   "defense": 264
+  },
+  {
+   "name": "The Seriousness of Breakfast",
+   "rarity": "4 star",
+   "path": "The Erudition",
+   "hp": 846,
+   "attack": 476,
+   "defense": 396
+  },
+  {
+   "name": "This Is Me!",
+   "rarity": "4 star",
+   "path": "The Preservation",
+   "hp": 846,
+   "attack": 370,
+   "defense": 529
+  },
+  {
+   "name": "Today is Another Peaceful Day",
+   "rarity": "4 star",
+   "path": "The Erudition",
+   "hp": 846,
+   "attack": 529,
+   "defense": 330
+  },
+  {
+   "name": "Warmth Shortens Cold Nights",
+   "rarity": "4 star",
+   "path": "The Abundance",
+   "hp": 1058,
+   "attack": 370,
+   "defense": 396
+  },
+  {
+   "name": "We Are Wildfire",
+   "rarity": "4 star",
+   "path": "The Preservation",
+   "hp": 740,
+   "attack": 476,
+   "defense": 463
+  },
+  {
+   "name": "We Will Meet Again",
+   "rarity": "4 star",
+   "path": "The Nihility",
+   "hp": 846,
+   "attack": 529,
+   "defense": 330
+  },
+  {
+   "name": "Woof! Walk Time!",
+   "rarity": "4 star",
+   "path": "The Destruction",
+   "hp": 952,
+   "attack": 476,
+   "defense": 330
+  },
+  {
+   "name": "Adversarial",
+   "rarity": "3 star",
+   "path": "The Hunt",
+   "hp": 740,
+   "attack": 370,
+   "defense": 264
+  },
+  {
+   "name": "Amber",
+   "rarity": "3 star",
+   "path": "The Preservation",
+   "hp": 846,
+   "attack": 264,
+   "defense": 330
+  },
+  {
+   "name": "Arrows",
+   "rarity": "3 star",
+   "path": "The Hunt",
+   "hp": 846,
+   "attack": 317,
+   "defense": 264
+  },
+  {
+   "name": "Chorus",
+   "rarity": "3 star",
+   "path": "The Harmony",
+   "hp": 846,
+   "attack": 317,
+   "defense": 264
+  },
+  {
+   "name": "Collapsing Sky",
+   "rarity": "3 star",
+   "path": "The Destruction",
+   "hp": 846,
+   "attack": 370,
+   "defense": 198
+  },
+  {
+   "name": "Cornucopia",
+   "rarity": "3 star",
+   "path": "The Abundance",
+   "hp": 952,
+   "attack": 264,
+   "defense": 264
+  },
+  {
+   "name": "Darting Arrow",
+   "rarity": "3 star",
+   "path": "The Hunt",
+   "hp": 740,
+   "attack": 370,
+   "defense": 264
+  },
+  {
+   "name": "Data Bank",
+   "rarity": "3 star",
+   "path": "The Erudition",
+   "hp": 740,
+   "attack": 370,
+   "defense": 264
+  },
+  {
+   "name": "Defense",
+   "rarity": "3 star",
+   "path": "The Preservation",
+   "hp": 952,
+   "attack": 264,
+   "defense": 264
+  },
+  {
+   "name": "Fine Fruit",
+   "rarity": "3 star",
+   "path": "The Abundance",
+   "hp": 952,
+   "attack": 317,
+   "defense": 198
+  },
+  {
+   "name": "Hidden Shadow",
+   "rarity": "3 star",
+   "path": "The Nihility",
+   "hp": 846,
+   "attack": 317,
+   "defense": 264
+  },
+  {
+   "name": "Loop",
+   "rarity": "3 star",
+   "path": "The Nihility",
+   "hp": 846,
+   "attack": 317,
+   "defense": 264
+  },
+  {
+   "name": "Meditation",
+   "rarity": "3 star",
+   "path": "The Harmony",
+   "hp": 846,
+   "attack": 317,
+   "defense": 264
+  },
+  {
+   "name": "Meshing Cogs",
+   "rarity": "3 star",
+   "path": "The Harmony",
+   "hp": 846,
+   "attack": 317,
+   "defense": 264
+  },
+  {
+   "name": "Multiplication",
+   "rarity": "3 star",
+   "path": "The Abundance",
+   "hp": 952,
+   "attack": 317,
+   "defense": 198
+  },
+  {
+   "name": "Mutual Demise",
+   "rarity": "3 star",
+   "path": "The Destruction",
+   "hp": 846,
+   "attack": 370,
+   "defense": 198
+  },
+  {
+   "name": "Passkey",
+   "rarity": "3 star",
+   "path": "The Erudition",
+   "hp": 740,
+   "attack": 370,
+   "defense": 264
+  },
+  {
+   "name": "Pioneering",
+   "rarity": "3 star",
+   "path": "The Preservation",
+   "hp": 952,
+   "attack": 264,
+   "defense": 264
+  },
+  {
+   "name": "Sagacity",
+   "rarity": "3 star",
+   "path": "The Erudition",
+   "hp": 740,
+   "attack": 370,
+   "defense": 264
+  },
+  {
+   "name": "Shattered Home",
+   "rarity": "3 star",
+   "path": "The Destruction",
+   "hp": 846,
+   "attack": 370,
+   "defense": 198
+  },
+  {
+   "name": "Void",
+   "rarity": "3 star",
+   "path": "The Nihility",
+   "hp": 846,
+   "attack": 317,
+   "defense": 264
+  }
+ ]
+}

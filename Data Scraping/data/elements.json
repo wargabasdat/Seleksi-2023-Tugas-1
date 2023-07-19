@@ -1,0 +1,25 @@
+{
+ "elements": [
+  {
+   "name": "Fire"
+  },
+  {
+   "name": "Ice"
+  },
+  {
+   "name": "Imaginary"
+  },
+  {
+   "name": "Lightning"
+  },
+  {
+   "name": "Physical"
+  },
+  {
+   "name": "Quantum"
+  },
+  {
+   "name": "Wind"
+  }
+ ]
+}

@@ -1,0 +1,436 @@
+{
+ "character_materials": [
+  {
+   "name": "March 7th",
+   "material": "Thief's Instinct"
+  },
+  {
+   "name": "March 7th",
+   "material": "Endurance of Bronze"
+  },
+  {
+   "name": "March 7th",
+   "material": "Horn of Snow"
+  },
+  {
+   "name": "March 7th",
+   "material": "Destroyer's Final Road"
+  },
+  {
+   "name": "Trailblazer (Physical)",
+   "material": "Thief's Instinct"
+  },
+  {
+   "name": "Trailblazer (Physical)",
+   "material": "Shattered Blade"
+  },
+  {
+   "name": "Trailblazer (Physical)",
+   "material": "Enigmatic Ectostella"
+  },
+  {
+   "name": "Trailblazer (Physical)",
+   "material": "Destroyer's Final Road"
+  },
+  {
+   "name": "Dan Heng",
+   "material": "Extinguished Core"
+  },
+  {
+   "name": "Dan Heng",
+   "material": "Arrow of the Beast Hunter"
+  },
+  {
+   "name": "Dan Heng",
+   "material": "Storm Eye"
+  },
+  {
+   "name": "Dan Heng",
+   "material": "Destroyer's Final Road"
+  },
+  {
+   "name": "Himeko",
+   "material": "Extinguished Core"
+  },
+  {
+   "name": "Himeko",
+   "material": "Key of Inspiration"
+  },
+  {
+   "name": "Himeko",
+   "material": "Endotherm Chitin"
+  },
+  {
+   "name": "Himeko",
+   "material": "Destroyer's Final Road"
+  },
+  {
+   "name": "Asta",
+   "material": "Silvermane Badge"
+  },
+  {
+   "name": "Asta",
+   "material": "Harmonic Tune"
+  },
+  {
+   "name": "Asta",
+   "material": "Endotherm Chitin"
+  },
+  {
+   "name": "Asta",
+   "material": "Destroyer's Final Road"
+  },
+  {
+   "name": "Arlan",
+   "material": "Extinguished Core"
+  },
+  {
+   "name": "Arlan",
+   "material": "Shattered Blade"
+  },
+  {
+   "name": "Arlan",
+   "material": "Lightning Crown of the Past Shadow"
+  },
+  {
+   "name": "Arlan",
+   "material": "Destroyer's Final Road"
+  },
+  {
+   "name": "Seele",
+   "material": "Thief's Instinct"
+  },
+  {
+   "name": "Seele",
+   "material": "Arrow of the Beast Hunter"
+  },
+  {
+   "name": "Seele",
+   "material": "Void Cast Iron"
+  },
+  {
+   "name": "Seele",
+   "material": "Guardian's Lament"
+  },
+  {
+   "name": "Natasha",
+   "material": "Ancient Part"
+  },
+  {
+   "name": "Natasha",
+   "material": "Seed of Abundance"
+  },
+  {
+   "name": "Natasha",
+   "material": "Broken Teeth of Iron Wolf"
+  },
+  {
+   "name": "Natasha",
+   "material": "Guardian's Lament"
+  },
+  {
+   "name": "Pela",
+   "material": "Extinguished Core"
+  },
+  {
+   "name": "Pela",
+   "material": "Obsidian of Dread"
+  },
+  {
+   "name": "Pela",
+   "material": "Horn of Snow"
+  },
+  {
+   "name": "Pela",
+   "material": "Guardian's Lament"
+  },
+  {
+   "name": "Hook",
+   "material": "Ancient Part"
+  },
+  {
+   "name": "Hook",
+   "material": "Shattered Blade"
+  },
+  {
+   "name": "Hook",
+   "material": "Endotherm Chitin"
+  },
+  {
+   "name": "Hook",
+   "material": "Guardian's Lament"
+  },
+  {
+   "name": "Serval",
+   "material": "Silvermane Badge"
+  },
+  {
+   "name": "Serval",
+   "material": "Key of Inspiration"
+  },
+  {
+   "name": "Serval",
+   "material": "Lightning Crown of the Past Shadow"
+  },
+  {
+   "name": "Serval",
+   "material": "Guardian's Lament"
+  },
+  {
+   "name": "Qingque",
+   "material": "Thief's Instinct"
+  },
+  {
+   "name": "Qingque",
+   "material": "Key of Inspiration"
+  },
+  {
+   "name": "Qingque",
+   "material": "Void Cast Iron"
+  },
+  {
+   "name": "Qingque",
+   "material": "Guardian's Lament"
+  },
+  {
+   "name": "Herta",
+   "material": "Extinguished Core"
+  },
+  {
+   "name": "Herta",
+   "material": "Key of Inspiration"
+  },
+  {
+   "name": "Herta",
+   "material": "Horn of Snow"
+  },
+  {
+   "name": "Herta",
+   "material": "Destroyer's Final Road"
+  },
+  {
+   "name": "Tingyun",
+   "material": "Immortal Scionette"
+  },
+  {
+   "name": "Tingyun",
+   "material": "Harmonic Tune"
+  },
+  {
+   "name": "Tingyun",
+   "material": "Lightning Crown of the Past Shadow"
+  },
+  {
+   "name": "Tingyun",
+   "material": "Destroyer's Final Road"
+  },
+  {
+   "name": "Sushang",
+   "material": "Module Machina"
+  },
+  {
+   "name": "Sushang",
+   "material": "Arrow of the Beast Hunter"
+  },
+  {
+   "name": "Sushang",
+   "material": "Broken Teeth of Iron Wolf"
+  },
+  {
+   "name": "Sushang",
+   "material": "Guardian's Lament"
+  },
+  {
+   "name": "Clara",
+   "material": "Ancient Part"
+  },
+  {
+   "name": "Clara",
+   "material": "Shattered Blade"
+  },
+  {
+   "name": "Clara",
+   "material": "Broken Teeth of Iron Wolf"
+  },
+  {
+   "name": "Clara",
+   "material": "Guardian's Lament"
+  },
+  {
+   "name": "Bronya",
+   "material": "Silvermane Badge"
+  },
+  {
+   "name": "Bronya",
+   "material": "Harmonic Tune"
+  },
+  {
+   "name": "Bronya",
+   "material": "Storm Eye"
+  },
+  {
+   "name": "Bronya",
+   "material": "Guardian's Lament"
+  },
+  {
+   "name": "Gepard",
+   "material": "Silvermane Badge"
+  },
+  {
+   "name": "Gepard",
+   "material": "Endurance of Bronze"
+  },
+  {
+   "name": "Gepard",
+   "material": "Horn of Snow"
+  },
+  {
+   "name": "Gepard",
+   "material": "Guardian's Lament"
+  },
+  {
+   "name": "Bailu",
+   "material": "Extinguished Core"
+  },
+  {
+   "name": "Bailu",
+   "material": "Seed of Abundance"
+  },
+  {
+   "name": "Bailu",
+   "material": "Lightning Crown of the Past Shadow"
+  },
+  {
+   "name": "Bailu",
+   "material": "Guardian's Lament"
+  },
+  {
+   "name": "Yanqing",
+   "material": "Thief's Instinct"
+  },
+  {
+   "name": "Yanqing",
+   "material": "Arrow of the Beast Hunter"
+  },
+  {
+   "name": "Yanqing",
+   "material": "Gelid Chitin"
+  },
+  {
+   "name": "Yanqing",
+   "material": "Guardian's Lament"
+  },
+  {
+   "name": "Welt",
+   "material": "Silvermane Badge"
+  },
+  {
+   "name": "Welt",
+   "material": "Obsidian of Dread"
+  },
+  {
+   "name": "Welt",
+   "material": "Golden Crown of the Past Shadow"
+  },
+  {
+   "name": "Welt",
+   "material": "Destroyer's Final Road"
+  },
+  {
+   "name": "Sampo",
+   "material": "Ancient Part"
+  },
+  {
+   "name": "Sampo",
+   "material": "Obsidian of Dread"
+  },
+  {
+   "name": "Sampo",
+   "material": "Storm Eye"
+  },
+  {
+   "name": "Sampo",
+   "material": "Guardian's Lament"
+  },
+  {
+   "name": "Trailblazer (Fire)",
+   "material": "Thief's Instinct"
+  },
+  {
+   "name": "Trailblazer (Fire)",
+   "material": "Endurance of Bronze"
+  },
+  {
+   "name": "Trailblazer (Fire)",
+   "material": "Enigmatic Ectostella"
+  },
+  {
+   "name": "Trailblazer (Fire)",
+   "material": "Destroyer's Final Road"
+  },
+  {
+   "name": "Jing Yuan",
+   "material": "Immortal Scionette"
+  },
+  {
+   "name": "Jing Yuan",
+   "material": "Key of Inspiration"
+  },
+  {
+   "name": "Jing Yuan",
+   "material": "Shape Shifter's Lightning Staff"
+  },
+  {
+   "name": "Jing Yuan",
+   "material": "Destroyer's Final Road"
+  },
+  {
+   "name": "Silver Wolf",
+   "material": "Ancient Part"
+  },
+  {
+   "name": "Silver Wolf",
+   "material": "Obsidian of Dread"
+  },
+  {
+   "name": "Silver Wolf",
+   "material": "Void Cast Iron"
+  },
+  {
+   "name": "Silver Wolf",
+   "material": "Destroyer's Final Road"
+  },
+  {
+   "name": "Luocha",
+   "material": "Seed of Abundance"
+  },
+  {
+   "name": "Luocha",
+   "material": "Artifex's Module"
+  },
+  {
+   "name": "Luocha",
+   "material": "Golden Crown of the Past Shadow"
+  },
+  {
+   "name": "Luocha",
+   "material": "Guardian's Lament"
+  },
+  {
+   "name": "Yukong",
+   "material": "Harmonic Tune"
+  },
+  {
+   "name": "Yukong",
+   "material": "Artifex's Module"
+  },
+  {
+   "name": "Yukong",
+   "material": "Golden Crown of the Past Shadow"
+  },
+  {
+   "name": "Yukong",
+   "material": "Destroyer's Final Road"
+  }
+ ]
+}
