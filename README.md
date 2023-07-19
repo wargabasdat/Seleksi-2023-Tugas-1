@@ -69,4 +69,114 @@ Chrome WebDriver
 Pandas library
 PostgreSQL database
 
+## How to use
+### Pre-Requisites
+1. Installed Python and Jupyter
+2. Installed Postgresql (or have access to cloud based Postgresql)
+3. Installed Chrome WebDriver
+
+### Configure the dependencies
+1. Install this library: selenium, pandas, seaborn, numpy, matplotlib
+2. Use `pip install` to each of the library:
+```
+pip install <library>
+```
+
+### Run the app
+#### Data Scraping
+1. Open `data_scraping.ipynb` in `\Data Scraping\src`
+2. `Run All` 
+
+#### Data Storing
+1. Open `data_storing.ipynb` in `\Data Storing\export`
+2. `Run All` 
+
+#### Data Visualization
+1. Open `dashboard.ipynb` in `\Data Visualization`
+2. `Run All` 
+
+## JSON Structure
+```json
+{
+  "products": [
+    {
+      "brand name": ...,
+      "product name": ...,
+      "review number": ...,
+      "category": ...,
+      "price_before_discount": ...,
+      "discount": ...
+    },
+    ...
+  ],
+  "best_seller": [
+    {
+      "brand name": ...,
+      "product name": ...
+    },
+    ...
+  ],
+  "just_arrived": [
+    {
+      "brand name": ...,
+      "product name": ...
+    },
+    ...
+  ],
+  "brand_list": [
+    {
+      "brand name": ...
+    },
+    ...
+  ],
+  "brand_origins": [
+    {
+      "brand_origins": ...
+    },
+    ...
+  ],
+  "brand_country": [
+    {
+      "country name": ...,
+      "brand name": ...
+    },
+    ...
+  ]
+}
+```
+
+## ERD to Relational Diagram
+
+Dari data yang diambil, dapat dibuat ERD seperti gambar di bawah.
+![ERD](<Data Storing/design/DBMS ER diagram (UML notation) - DBMS ER diagram (UML notation).png>)
+
+Dengan mengikuti aturan: 
+1. One - to - one relation: Menambahkan Primary Key entity One ke entity One yang lain.
+2. One - to - many relation: Menambahkan Primary Key entity Many ke entity One.
+3. Many - to - one relation: Menambahkan Primary Key entity Many ke entity One.
+4. Many - to - many relation: Membuat tabel baru yang terdapat primary key dari kedua entity.
+
+Maka, akan didapatkan Relational Diagram seperti gambar di bawah
+
+![Relational](<Data Storing/design/DBMS ER diagram (UML notation) - Relational Diagram.png>)
+
+## Screenshots
+
+### Data Scraping
+![IPYNB](Data%20Scraping/screenshot/ipynb.png)
+![JSON](Data%20Scraping/screenshot/JSON.png)
+![Website Sociolla](Data%20Scraping/screenshot/website-sociolla.png)
+### Data Storing
+![Brands](Data%20Storing/screenshot/brands.png)
+![Category](Data%20Storing/screenshot/category.png)
+![Country](Data%20Storing/screenshot/country.png)
+![Order Detail](Data%20Storing/screenshot/order_detail.png)
+![Orders](Data%20Storing/screenshot/orders.png)
+![Products](Data%20Storing/screenshot/products.png)
+![Users](Data%20Storing/screenshot/users.png)
+
+## Reference (Library used, etc)
+
+## Author
+> Reswara Trista Aulia C. (18221122)
 
