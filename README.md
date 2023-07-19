@@ -78,13 +78,49 @@ Contoh salah satu record data
   }
 ```
 # Database Structure
-![Description](Data Scraping/screenshot/Import Library, Create Attribute Names.png)
+Dari Entity Relationship Diagram,
+![ERD](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ERD.png)
 
+Di translasikan jadi Relational Diagram
+![Relational Diagram](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Relational.png)
 
 # Translation Process
 
-# Program Snippets
 
+# Program Snippets
+Tampilan singkat program yang digunakan,
+
+## Scraping
+- Import Library, Create Attribute Names
+![1](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Import%20Library%2C%20Create%20Attribute%20Names.png)
+- Scraping, Iterating through the page
+![2](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Scraping%2C%20Iterating%20through%20the%20page.png)
+- Dataframe
+![3](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Dataframe.png)
+- Data preview using pandas
+![4](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Data%20preview%20using%20pandas.png)
+- Checking Null Datas
+![5](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Checking%20Null%20Datas.png)
+- Ensure TV Series Title Unique, and no rank is duplicate
+![6](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Ensure%20TV%20Series%20Title%20Unique%2C%20and%20no%20rank%20is%20duplicate.png)
+- Export data to json and csv
+![7](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/Export%20data%20to%20json%20and%20csv.png)
+
+## Storing
+- Import Library & Open connection with PostgreSQL 
+![1](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Import%20Library%20%26%20Open%20connection%20with%20PostgreSQL.png)
+- Creating tables
+![2](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Creating%20TABLES.png)
+- Executing Create Queries
+![3](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Executing%20Create%20Queries.png)
+- Input data from json to created tables
+![4](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Input%20data%20from%20json%20to%20created%20tables.png)
+- Close connection and commit data
+![5](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Close%20connection%20and%20commit%20data.png)
+- Tables information in database
+![6](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Tables%20information%20in%20database.png)
+- Check insert done
+![7](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Check%20insert%20done.png)
 
 # Library
 1. Beatuifulsoup
