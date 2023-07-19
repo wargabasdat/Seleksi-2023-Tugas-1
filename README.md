@@ -13,8 +13,8 @@
 </h2>
 
 ![Dragon City](Data%20Storing/screenshot/dragon_city.png)
-<sup>: : :</sup>
-Dragon City adalah permainan simulasi yang dikembangkan oleh Social Point. Permainan ini dapat dimainkan di Facebook, iOS, Android, dan Windows Phone. Pada permainan ini, pemain dapat membangun kota naga, membiakkan naga, dan bertarung dengan naga lainnya. Pada proyek ini, penulis akan melakukan scraping data naga dari website [deetlist.com/dragoncity/](https://deetlist.com/dragoncity/), menyimpan data tersebut dalam basis data relasional, dan melakukan analisis sederhana terhadap data tersebut.
+
+Dragon City adalah sebuah permainan simulasi yang telah dikembangkan oleh Social Point. Permainan ini bisa dimainkan di berbagai platform seperti Facebook, iOS, Android, dan Windows Phone. Dalam permainan ini, para pemain memiliki kesempatan untuk membangun sebuah kota yang penuh dengan naga-naga, melakukan pembiakan naga, serta bertarung melawan naga-naga lainnya. Dalam proyek ini, penulis akan melakukan pengambilan data mengenai naga-naga dari situs web [deetlist.com/dragoncity/], menyimpan data tersebut dalam sebuah basis data yang berhubungan, dan kemudian melakukan analisis sederhana terhadap data yang berhasil diperoleh.
 
 
 ## Spesifikasi
@@ -30,7 +30,6 @@ Dragon City adalah permainan simulasi yang dikembangkan oleh Social Point. Perma
   - [Author](#author)
 
 ### Description
-<div style="text-align: justify;">
 Data yang digunakan dalam proyek ini berasal dari website deetlist.com/dragoncity/. Data tersebut merupakan informasi tentang naga-naga dalam permainan Dragon City, termasuk detail seperti nama, elemen, statistik, serangan, dan kekuatan/kelemahan.
 
 DBMS yang digunakan dalam proyek ini adalah MySQL yang diakses melalui phpMyAdmin. MySQL dan phpMyAdmin dipilih karena merupakan kombinasi yang populer dan dapat diandalkan untuk mengelola basis data relasional dengan antarmuka pengguna yang intuitif.
@@ -42,11 +41,9 @@ phpMyAdmin adalah aplikasi web berbasis PHP yang menyediakan antarmuka grafis un
 Pemilihan MySQL melalui phpMyAdmin sebagai DBMS yang digunakan memungkinkan penulis untuk membuat skema database yang baik dan efisien, serta melakukan operasi database dengan mudah melalui antarmuka web yang disediakan oleh phpMyAdmin.
 
 Dengan menggunakan MySQL melalui phpMyAdmin, penulis dapat menyimpan, mengelola, dan mengakses data naga Dragon City dengan efisien, memungkinkan pengguna untuk melakukan berbagai operasi dan analisis pada data tersebut.
-</div>
 
 ### Specification
 
-<div style="text-align: justify;">
 Program ini menggunakan Python dan beberapa library sebagai berikut:
 
 - `requests`: Digunakan untuk mengirim permintaan HTTP ke website dan mendapatkan responnya.
@@ -54,7 +51,7 @@ Program ini menggunakan Python dan beberapa library sebagai berikut:
 - `BeautifulSoup`: Digunakan untuk melakukan parsing dan ekstraksi data dari HTML.
 - `urllib.parse`: Digunakan untuk menggabungkan URL dengan benar.
 - `re`: Digunakan untuk melakukan pencocokan pola (pattern matching) menggunakan regular expression.
-</div>
+
 
 ### How to use
 
@@ -133,7 +130,7 @@ Berikut adalah struktur JSON yang dihasilkan oleh program:
   }
 ]
 ```
-<div style="text-align: justify;">
+
 Struktur JSON di atas menggambarkan data naga yang diperoleh dari scraping. Setiap objek naga memiliki properti-properti seperti name (nama naga), breed_time (waktu pembiakan), buy_price (harga beli), hatch_time (waktu penetasan), breedable (dapat dipiara), hatch_xp (XP saat menetaskan), description (deskripsi naga), base_moves (serangan dasar), trainable_attacks (serangan yang dapat dilatih), strengths (kekuatan), dan weaknesses (kelemahan).
 
 Bagian base_moves dan trainable_attacks berisi array dari objek-objek serangan dengan properti seperti type (jenis serangan), name (nama serangan), dan damage (jumlah kerusakan yang disebabkan).
@@ -141,7 +138,8 @@ Bagian base_moves dan trainable_attacks berisi array dari objek-objek serangan d
 Bagian strengths dan weaknesses berisi array dari elemen-elemen yang menyatakan kekuatan dan kelemahan naga terhadap elemen-elemen tertentu.
 
 Ini adalah struktur JSON yang dapat digunakan untuk menyimpan data naga hasil scraping.
-</div>
+
+
 ### Database Structure (ERD and relational diagram)
 
 #### ERD
@@ -223,9 +221,67 @@ Berikut adalah diagram relasional yang menggambarkan tabel-tabel yang akan dibua
 
 ![Relational Diagram](Data%20Storing/design/Relational_Diagram_Dragon_City.png)
 
+1. Dragon:
+    - id_dragon (Primary Key)
+    - dragon_name
+    - breed_time
+    - buy_price
+    - hatch_time
+    - breedable
+    - hatch_xp
+    - description
+    - id_element (Foreign Key referencing Element)
+    - id_rarity (Foreign Key referencing Rarity)
 
+2. Element:
+    - id_element (Primary Key)
+    - element_name
 
+3. Trainable_Attack:
+    - id_trainable_attack (Primary Key)
+    - trainable_attack_name
+    - trainable_attack_type
+    - trainable_attack_damage
 
+4. Base_move:
+    - id_base_move (Primary Key)
+    - base_move_name
+    - base_move_type
+    - base_move_damage
+
+5. Rarity:
+    - id_rarity (Primary Key)
+    - rarity_name
+
+6. Dragon_Element:
+    - id_dragon (Foreign Key referencing Dragon)
+    - id_element (Foreign Key referencing Element)
+    - Primary Key (id_dragon, id_element)
+
+7. Dragon_Strength:
+    - id_dragon (Foreign Key referencing Dragon)
+    - id_strength (Foreign Key referencing Strength)
+    - Primary Key (id_dragon, id_strength)
+
+8. Dragon_Weakness:
+    - id_dragon (Foreign Key referencing Dragon)
+    - id_weakness (Foreign Key referencing Weakness)
+    - Primary Key (id_dragon, id_weakness)
+
+9. Dragon_Trainable_Attack:
+    - id_dragon (Foreign Key referencing Dragon)
+    - id_trainable_attack (Foreign Key referencing Trainable_Attack)
+    - Primary Key (id_dragon, id_trainable_attack)
+
+10. Dragon_Base_Move:
+    - id_dragon (Foreign Key referencing Dragon)
+    - id_base_move (Foreign Key referencing Base_move)
+    - Primary Key (id_dragon, id_base_move)
+
+11. Dragon_Rarity:
+    - id_dragon (Foreign Key referencing Dragon)
+    - id_rarity (Foreign Key referencing Rarity)
+    - Primary Key (id_dragon, id_rarity)
 
 
 ### Explanation of ERD to relational diagram translation process
