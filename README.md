@@ -93,10 +93,16 @@ Di translasikan jadi Relational Diagram
 ![Relational Diagram](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Relational.png)
 
 # Translation Process
-1. ![1](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translation%201.png)
-2. ![2](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translation%202.png)
-3. ![3](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translation%203.png)
-4. ![4](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translation%204.png)
+1. Many to one - primary key one ditaruh di many
+![1](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translation%201.png)
+2. TV Series - Char : One to many
+Char - Casts : One to One
+![2](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translation%202.png)
+3. User - TV Series : Many to many
+Dibuat entity baru berupa rating yang memiiliki primary key keduanya beserta beberapa atribut tambahan
+![3](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translation%203.png)
+4. Episode - TV Series : Many to one, primary key tv series ditaruh di episode
+![4](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Translation%204.png)
 
 # Program Snippets
 Tampilan singkat program yang digunakan,
@@ -126,7 +132,7 @@ Tampilan singkat program yang digunakan,
 ![3](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Executing%20Create%20Queries.png)
 - Input data from json to created tables
 ![4](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Input%20data%20from%20json%20to%20created%20tables.png)
-- Close connection and commit data
+- Close connection and commit data, mengecek apakah aktor sudah dimasukan satu per-satu, bukan list
 ![5](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Close%20connection%20and%20commit%20data.png)
 - Tables information in database
 ![6](https://github.com/rnakhi/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/Tables%20information%20in%20database.png)
@@ -136,6 +142,7 @@ Tampilan singkat program yang digunakan,
 # Library
 1. Beatuifulsoup
 2. Pandas
+3. Referensi menggunakan python postgreSQL https://www.tutorialspoint.com/python_data_access/python_postgresql_create_database.htm
 
 ```
 by Farah Khairana Haniifah
