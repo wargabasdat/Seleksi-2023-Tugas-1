@@ -119,7 +119,7 @@ contoh isi '.json' file
 ## Database Structure
 Berikut ERD dari database Manhwa
 ```
-![ER Diagram](Data Storing/design/ER Diagram.png)
+![ER Diagram](https://github.com/WanAzis/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/ER%20Diagram.png?raw=true)
 ```
 Database dibuat berdasarkan data yang didapat dari hasil scraping dengan tambahan beberapa entity yang berhubungan. Entity Manhwa merupakan entity utama dari database yang menyimpan sebagian besar dari data hasil scrape. Setiap record pada entity Manhwa dibedakan berdasarkan attribute IDManhwa yang unik. Entity Genre menyimpan IDGenre sebagai primary key dan nama serta deskripsi genre. Entity Serialization menyimpan IDSerialization dan nama serialization dari hasil scrape. Entity Author menyimpan IDAuthor dan nama author yang didapat dari data hasil scrape. Entity User merupakan entity tambahan yang dirasa berhubungan dengan database yang akan dibuat.
 
