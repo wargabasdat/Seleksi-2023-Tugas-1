@@ -138,7 +138,7 @@ Berikut adalah relational diagram dari hasil translasi ER Diagram database Manhw
 1. Pemetaan entity menjadi relasi
 Semua strong entity yang terdapat pada ERD ditranslasi masing-masing menjadi sebuah tabel relasi dengan nama sesuai dengan ERD-nya. Untuk entity User, karena terdapat composite dan multivalued attribute pada atribute 'NoTelp' maka attribute dipecah menjadi relasi sensiri yaitu User_Telp.
 `
-![Translasi ERD1](Data Storing/design/Pemetaan ERD1.png)
+![Translasi ERD1](https://github.com/WanAzis/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/design/Pemetaan%20ERD1.png)
 `
 2. Pemetaan relationship menjadi relasi
 Setiap relationship yang bersifat many-to-many akan ditranslasi menjadi sebuah relasi baru yang menyimpan primary key dari kedua entity yang dihubungkan oleh relationship tersebut. Contoh pada relationship Manhwa dengan Author yang bersifat many-to-many menghasilkan relasi baru Manhwa_Author yang menyimpan IDManhwa dan IDAuthor sebagi primary keynya
