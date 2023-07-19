@@ -16,7 +16,7 @@
 
 
 ## Description
-[MyAnimeList]{https://myanimelist.net/topmanga.php?type=manhwa} merupakan sebuah situs web komunitas yang populer di kalangan penggemar anime dan manga. Situs ini berfungsi sebagai basis data anime dan manga dengan menyediakan informasi lengkap seperti judul, genre, chapter, status, sinopsis, dll serta menjadi platform sosial untuk para penggemar anime dan manga di seluruh dunia. Di MyAnimeList, pengguna dapat menemukan informasi tentang berbagai anime, manga, karakter, staf produksi, dan lainnya. Tak hanya itu, website ini juga mengurutkan berbagai anime dan manga berdasarkan peringkat pengguna yang di-update seriap harinya. Dengan fitur-fitur tersebut, website ini dipercaya oleh oleh para penggemar sebagai referensi dalam mencari anime dan manga serta mencari teman komunitas yang memiliki hobi yang sama.  
+[MyAnimeList](https://myanimelist.net/topmanga.php?type=manhwa) merupakan sebuah situs web komunitas yang populer di kalangan penggemar anime dan manga. Situs ini berfungsi sebagai basis data anime dan manga dengan menyediakan informasi lengkap seperti judul, genre, chapter, status, sinopsis, dll serta menjadi platform sosial untuk para penggemar anime dan manga di seluruh dunia. Di MyAnimeList, pengguna dapat menemukan informasi tentang berbagai anime, manga, karakter, staf produksi, dan lainnya. Tak hanya itu, website ini juga mengurutkan berbagai anime dan manga berdasarkan peringkat pengguna yang di-update seriap harinya. Dengan fitur-fitur tersebut, website ini dipercaya oleh oleh para penggemar sebagai referensi dalam mencari anime dan manga serta mencari teman komunitas yang memiliki hobi yang sama.  
 
 Data yang author coba ambil kali ini adalah 1000 top manhwa berdasarkan rating dari website MyAnimeList. Author mengambil data ini atas dasar hobi author dalam membaca manhwa dan ingin mencoba mengetahui berbagai informasi dari top manhwa yang digemari oleh penggemar seluruh dunia. Data yang author scrape antara lain nama manhwa, chapter, status, published, genres, authors, ranked, members, dan favorites dari setiap manhwa. Dengan data ini, akan banyak yang dapat author explore untuk dijadikan insight menarik untuk author sendiri dan para pembaca. 
 
@@ -137,9 +137,9 @@ Berikut adalah relational diagram dari hasil translasi ER Diagram database Manhw
 ## Translasi ERD ke Relational Model
 1. Pemetaan entity menjadi relasi
 Semua strong entity yang terdapat pada ERD ditranslasi masing-masing menjadi sebuah tabel relasi dengan nama sesuai dengan ERD-nya. Untuk entity User, karena terdapat composite dan multivalued attribute pada atribute 'NoTelp' maka attribute dipecah menjadi relasi sensiri yaitu User_Telp.
-```
+`
 ![Translasi ERD1](Data Storing/design/Pemetaan ERD1.png)
-```
+`
 2. Pemetaan relationship menjadi relasi
 Setiap relationship yang bersifat many-to-many akan ditranslasi menjadi sebuah relasi baru yang menyimpan primary key dari kedua entity yang dihubungkan oleh relationship tersebut. Contoh pada relationship Manhwa dengan Author yang bersifat many-to-many menghasilkan relasi baru Manhwa_Author yang menyimpan IDManhwa dan IDAuthor sebagi primary keynya
 ```
