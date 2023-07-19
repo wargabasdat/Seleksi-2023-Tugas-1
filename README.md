@@ -313,7 +313,6 @@ Proses translasi ERD menjadi relational diagram melibatkan beberapa langkah beri
 
 Berikut adalah query untuk mencari naga dengan info lengkap berdasarkan id atau nama naga
 
-```sql
 
 ```sql
 SELECT dr.dragon_name, e.element_name, r.rarity_name, dr.breed_time, dr.buy_price, dr.hatch_time, dr.breedable, dr.hatch_xp, dr.description,
