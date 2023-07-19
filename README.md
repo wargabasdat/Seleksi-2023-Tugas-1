@@ -66,78 +66,76 @@ Program ini menggunakan Python dan beberapa library sebagai berikut:
 Berikut adalah struktur JSON yang dihasilkan oleh program:
 
 ```json
-[
-  {
-    "name": "Nature Dragon",
-    "breed_time": "20 minutes",
-    "buy_price": 500,
-    "hatch_time": "20 minutes",
-    "breedable": "Yes",
-    "hatch_xp": 1000,
-    "description": "The Nature Dragon is a Common Dragon with the primary typing of Nature. The Nature Dragon loves humans, animals, and all living things - some of them for gastronomic purposes. Even though she hasnt eaten a whole human, a finger or two have been lost...",
-    "base_moves": [
-      {
-        "type": "att_physical",
-        "name": "Punch",
-        "damage": 338
-      },
-      {
-        "type": "att_plant",
-        "name": "Stitching Roots",
-        "damage": 550
-      },
-      {
-        "type": "att_plant",
-        "name": "Poison Ivy",
-        "damage": 650
-      },
-      {
-        "type": "att_plant",
-        "name": "Leaf Blast",
-        "damage": 1050
-      }
-    ],
-    "trainable_attacks": [
-      {
-        "type": "att_physical",
-        "name": "Hard Charge",
-        "damage": 488
-      },
-      {
-        "type": "att_plant",
-        "name": "Rotting Spell",
-        "damage": 1200
-      },
-      {
-        "type": "att_physical",
-        "name": "Stunning Hit",
-        "damage": 638
-      },
-      {
-        "type": "att_plant",
-        "name": "Beehive",
-        "damage": 1350
-      }
-    ],
-    "strengths": [
-      "Sea",
-      "Light"
-    ],
-    "weaknesses": [
-      "Flame",
-      "Ice"
-    ]
-  }
-]
+{
+        "name": "Nature Dragon",
+        "rarity": "Common",
+        "element": "Nature",
+        "breed_time": "20 minutes ",
+        "buy_price": 500,
+        "hatch_time": "20 minutes ",
+        "breedable": "Yes",
+        "hatch_xp": 1000,
+        "description": "The Nature Dragon loves humans, animals, and all living things - some of them for gastronomic purposes. Even though she hasnt eaten a whole human, a finger or two have been lost...",
+        "base_moves": [
+            {
+                "type": "att_physical",
+                "name": "Punch",
+                "damage": 338
+            },
+            {
+                "type": "att_plant",
+                "name": "Stitching Roots",
+                "damage": 550
+            },
+            {
+                "type": "att_plant",
+                "name": "Poison Ivy",
+                "damage": 650
+            },
+            {
+                "type": "att_plant",
+                "name": "Leaf Blast",
+                "damage": 1050
+            }
+        ],
+        "trainable_attacks": [
+            {
+                "type": "att_physical",
+                "name": "Hard Charge",
+                "damage": 488
+            },
+            {
+                "type": "att_plant",
+                "name": "Rotting Spell",
+                "damage": 1200
+            },
+            {
+                "type": "att_physical",
+                "name": "Stunning Hit",
+                "damage": 638
+            },
+            {
+                "type": "att_plant",
+                "name": "Beehive",
+                "damage": 1350
+            }
+        ],
+        "strengths": [
+            "Sea",
+            "Light"
+        ],
+        "weaknesses": [
+            "Flame",
+            "Ice"
+        ]
+    }
 ```
 
-Struktur JSON di atas menggambarkan data naga yang diperoleh dari scraping. Setiap objek naga memiliki properti-properti seperti name (nama naga), breed_time (waktu pembiakan), buy_price (harga beli), hatch_time (waktu penetasan), breedable (dapat dipiara), hatch_xp (XP saat menetaskan), description (deskripsi naga), base_moves (serangan dasar), trainable_attacks (serangan yang dapat dilatih), strengths (kekuatan), dan weaknesses (kelemahan).
+Struktur JSON di atas menggambarkan data naga yang diperoleh dari scraping. Setiap objek naga memiliki properti-properti seperti name (nama naga), rarity (kelangkaan),element (elemen utama yang dikuasai)  , breed_time (waktu pembiakan), buy_price (harga beli), hatch_time (waktu penetasan), breedable (dapat kembang biakan), hatch_xp (XP saat menetaskan), description (deskripsi naga), base_moves (serangan dasar), trainable_attacks (serangan yang dapat dilatih), strengths (kekuatan), dan weaknesses (kelemahan).
 
 Bagian base_moves dan trainable_attacks berisi array dari objek-objek serangan dengan properti seperti type (jenis serangan), name (nama serangan), dan damage (jumlah kerusakan yang disebabkan).
 
 Bagian strengths dan weaknesses berisi array dari elemen-elemen yang menyatakan kekuatan dan kelemahan naga terhadap elemen-elemen tertentu.
-
-Ini adalah struktur JSON yang dapat digunakan untuk menyimpan data naga hasil scraping.
 
 
 ### Database Structure (ERD and relational diagram)
