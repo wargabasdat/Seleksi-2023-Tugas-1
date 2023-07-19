@@ -20,11 +20,10 @@
   - [How to Use](#how-to-use)
   - [JSON Structure](#json-structure)
   - [Database Structure](#database-structure)
-    - [ERD](#erd)
+    - [ER Diagram](#er-diagram)
     - [Relational Diagram](#relational-diagram)
-    - [The Explanation](#the-explanation)
+    - [The Explanation](#the-translation-explanation)
   - [Screenshot of Program](#screenshot-of-program)
-  - [Data Visualization](#data-visualization)
   - [References](#references)
   - [Author](#author)
 
@@ -66,6 +65,9 @@ Diperlukan beberapa libraries dan tools untuk menjalankan program. Berikut adala
 
 * [Traceback](https://docs.python.org/3/library/traceback.html)
 <br>Menyediakan fungsi-fungsi untuk menangani dan memanipulasi traceback (jejak panggilan fungsi) dalam penanganan exception, membantu dalam debug dan pelacakan kesalahan.
+
+* [Psycopg2](https://www.psycopg.org/docs/)
+<br>Menyediakan antarmuka database PostgreSQL untuk Python, memungkinkan program Python untuk berinteraksi dengan database PostgreSQL.
 
 ##### OPTIONAL
 * [Email.Message](https://docs.python.org/3/library/email.message.html)
@@ -148,12 +150,110 @@ Berikut adalah JSON structure untuk data yang diperoleh
 ```
 
 ### Database Structure
+#### ER Diagram
+Berikut adalah Entity-Relationship Diagram dari database yang diperoleh.
+
+![](Data%20Storing/design/ER%20Diagram.png)
+
+#### Relational Diagram
+Berikut adalah Relational Diagram hasil translasi yang diperoleh.
+
+![](Data%20Storing/design/Relational%20Diagram.png)
+
+#### The Translation Explanation
+Secara umum, proses translasi yang dilakukan adalah sebagai berikut.
+1. Setiap strong entity pada ER Diagram akan menjadi tabel pada Relational Diagram.
+2. Setiap relasi one-to-one yang menghubungkan 2 buah entity ditranslasikan dengan penambahan/penyertaan atribut-atribut relasi ke tabel yang mewakili salah satu dari kedua entity tersebut.
+3. Setiap relasi one-to-many yang menghubungkan 2 buah entity juga ditranslasikan dengan pemberian/pencantuman atribut key dari himpunan entitas berderajat 1 ke tabel yang mewakili himpunan entitas berderajat N (many).
+4. Setiap relasi many-to-many yang menghubungkan 2 buah entity ditranslasikan dengan pembentukan tabel yang memiliki field (foreign key) yang berasal dari key-key dari himpunan entity yang dihubungkannya.
+
+Dengan begitu, diperoleh tabel-tabel final sebagai berikut.
+* product = { __brand__, __model_number__, series, gender, colour, luminous, calendar, water_resistant, case_diameter, strap_material }
+* sales = { __product_name__, _brand_, _model_number_, normal_price, discounted_price, discount_percentage, number_of_seen, number_of_sold, offline_stock_status, online_stock_status }
+* review = { __id_review__, _product_name_, _email_, date, time, rating, delivery_review, product_review }
+* customer = { __email__, name, member_status }
+* product_service = { ___brand___, ___model_number___ , ___service_center___ }
+* service_center = { __name__, address, phone_number }
+
+Foreign key yang digunakan adalah sebagai berikut.
+* sales(brand) -> product(brand)
+* sales(model_number) -> product(model_number)
+* review(product_name) -> sales(product_name)
+* review(email) -> customer(email)
+* product_service(brand) -> product(brand)
+* product_service(model_number) -> product(model_number)
+* product_service(service_center) -> service_center(name)
 
 ### Screenshot of Program
 
-### Data Visualization
+* Extract Product Function
+
+![](./Data%20Scraping/screenshot/extract_product.png)
+
+* Extract Sales Function
+
+![](./Data%20Scraping/screenshot/extract_sales.png)
+
+* Extract Customer and Review Function
+
+![](./Data%20Scraping/screenshot/extract_customer_review.png)
+
+* Main Function Definition
+
+![](./Data%20Scraping/screenshot/main_func.png)
+
+* Main Function Execution
+
+![](./Data%20Scraping/screenshot/main_run.png)
+
+* Product Preprocessing Function
+
+![](./Data%20Scraping/screenshot/preprocessing_product.png)
+
+* Sales Preprocessing Function
+
+![](./Data%20Scraping/screenshot/preprocessing_sales.png)
+
+* Customer Preprocessing Function
+
+![](./Data%20Scraping/screenshot/preprocessing_customer.png)
+
+* Review Preprocessing Function
+
+![](./Data%20Scraping/screenshot/preprocessing_review.png)
+
+* Scraping Report Part 1
+
+![](./Data%20Scraping/screenshot/report1.png)
+
+* Scraping Report Part 2
+
+![](./Data%20Scraping/screenshot/report2.png)
+
+* List of Relations
+
+![](./Data%20Storing/screenshot/list_relations.png)
+
+* Product Data
+
+![](./Data%20Storing/screenshot/product.png)
+
+* Sales Data
+
+![](./Data%20Storing/screenshot/sales.png)
+
+* Customer Data
+
+![](./Data%20Storing/screenshot/customer.png)
+
+* Review Data
+
+![](./Data%20Storing/screenshot/review.png)
 
 ### References
+* [https://maoviola.medium.com/a-complete-guide-to-web-scraping-linkedin-job-postings-ad290fcaa97f](https://maoviola.medium.com/a-complete-guide-to-web-scraping-linkedin-job-postings-ad290fcaa97f)
+* [https://www.selenium.dev/documentation/webdriver/waits/](https://www.selenium.dev/documentation/webdriver/waits/)
+
 
 <h3 align="center">
   <br>
