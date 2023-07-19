@@ -3,10 +3,6 @@
   Data Scraping, Database Modelling & Data Storing
   <br>
   <br>
-</h2>
-
-<h2 align="center">
-  <br>
   I Dewa Made Manu Pradnyana / 18221047
   <br>
   <br>
@@ -102,6 +98,17 @@ List of Table
 <p align="center">
   <img src="./Data Storing/screenshot/pendulum.png">
 </p>
+
+### Data Visualization
+<p align="center">
+  <img src="./Data Visualization/yugioh_dashboard.png">
+</p>
+Insight yang didapatkan dari hasil visualisasi data :
+1. Jenis kartu monster terbanyak yang released pada rentang tahun 2018 - 2022 yaitu Effect Monster dengan jumlah sebanyak 1572 kartu
+2. Jenis kartu spell terbanyak yang released pada rentang tahun 2018 - 2022 yaitu Normal Spell dengan jumlah sebanyak 410 kartu
+3. Jenis kartu trap terbanyak yang released pada rentang tahun 2018 - 2022 yaitu Normal Trap dengan jumlah sebanyak 344 kartu
+4. Tahun 2022 merupakan tahun dengan jumlah keluaran boosterpack terbanyak, yaitu sebanyak 12 boosterpack
+5. Ghost from the past: the 2nd haunting merupakan boosterpack dengan jumlah kartu terbanyak, yaitu sebanyak 183 kartu
 
 ## Reference (Library used, etc)
 1. BeautifulSoup
