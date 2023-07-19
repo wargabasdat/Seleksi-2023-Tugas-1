@@ -36,8 +36,8 @@ schema = """
         CREATE TABLE IF NOT EXISTS crypto_currencies(
             Symbol VARCHAR(255) PRIMARY KEY,
             Name VARCHAR(255) NOT NULL,
-            Market_Cap FLOAT NOT NULL,
-            Circulating_Supply FLOAT NOT NULL
+            Market_Cap FLOAT ,
+            Circulating_Supply FLOAT
         );
         CREATE TABLE IF NOT EXISTS price_data (
             Symbol VARCHAR(255) PRIMARY KEY,
