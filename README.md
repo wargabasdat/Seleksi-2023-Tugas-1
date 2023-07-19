@@ -209,9 +209,10 @@ Setelah itu, dilakukan perintah *insert value* untuk memindahkan seluruh isi dar
   <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/ss_storing_insert_data.jpg width=600>
 </div>
 
-Berikut merupakan contoh hasil penyimpanan data pada *database* setelah program dijalankan pada __table match_info__
-<div align=center>
-  <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/ss_match_info.jpg width=500>
+Berikut merupakan beberapa hasil penyimpanan data pada *database* setelah program dijalankan pada __table match_info dan player_stats__
+<div style="display: flex; justify-content: center;">
+  <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/ss_match_info.jpg width=375>
+  <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/ss_table_player_stats.jpg width=450>
 </div>
 
 ## Data Visualization (BONUS)
