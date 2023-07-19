@@ -1,101 +1,56 @@
-<h1 align="center">
-  <br>
-  Seleksi Warga Basdat 2023
-  <br>
-  <br>
-</h1>
+# Seleksi 1 Lab. Basis Data 2023
+## Description of The Data and DBMS
+PostgreSQL is the chosen Database Management System (DBMS) to store and manage the scraped Valorant esports data. PostgreSQL is a powerful, open-source, and highly reliable relational database system that supports advanced features.
 
-<h2 align="center">
-  <br>
-  Data Scraping, Database Modelling & Data Storing
-  <br>
-  <br>
-</h2>
+As a relational database, PostgreSQL follows the relational model, where data is organized into tables, and relationships are established through foreign keys. It supports SQL (Structured Query Language), which allows for efficient querying and manipulation of data.
 
+The choice of PostgreSQL is well-suited for this project due to its robustness, scalability, and support for complex data structures. It provides a solid foundation for storing and querying the structured data related to Valorant tournaments, teams, and players, enabling efficient data retrieval and management.
 
-## Spesifikasi
+## Specification of The Program
+The purpose of this program is to scrape data from Liquipedia's websites, specifically focusing on retrieving information related to Valorant tournaments, teams, and players. It is designed to follow Liquipedia's rules and guidelines, ensuring responsible and authorized access to their content. The program aims to collect valuable data that can be used for analysis and insights within the realm of Valorant esports.
 
-### Data Scraping
+The program is structured into multiple modules, each responsible for retrieving data about specific entities. These modules include **tournaments.js**, which retrieves information about Valorant tournaments, such as their names, prizes, locations, participants, and winner/runner-up details. Another module, **tournamentDetail.js**, focuses on gathering detailed information about a specific tournament, including its tier, start date, and end date.
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
+For data related to Valorant teams, both active and disbanded, the **teams.js** module comes into play. It extracts information about team names, player IDs, statuses (active or disbanded), and regions. Lastly, the **players.js** module is dedicated to obtaining data about Valorant players from various regions. It retrieves player IDs, URLs, full names, teams (if available), countries, and regions.
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
+The main script, **scrap.js**, serves as the orchestrator of the data retrieval process. It coordinates the various modules to collect data from Liquipedia's websites. The program offers the flexibility to work in either online or offline mode, depending on the isOnline flag setting. In online mode, it sends HTTP requests to Liquipedia's websites using the Axios library to fetch the data directly. In offline mode, it reads previously stored HTML files from the local filesystem to retrieve the necessary data.
 
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
+To respect Liquipedia's servers and avoid excessive load, the program incorporates a deliberate delay of 2 seconds between each HTTP request. This ensures responsible data retrieval without overwhelming their infrastructure.
 
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
+Data is stored in JSON format for easy processing and analysis. Each module writes its respective data to separate JSON files. For example, tournament data is saved in **tournaments.json**, teams data in **teams.json**, and players data for each region in individual files like **europe.json**, **americas.json**, and so on. The main script also merges players' data from all regions into a single file named **players.json**.
 
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
+The program includes error handling to gracefully manage any issues that may arise during data parsing or retrieval. If an error occurs, the program logs the error message and continues processing the remaining data entries.
 
-### Database Modelling & Data Storing
+The main function `parse()` in **scrap.js** serves as the entry point of the program. Upon execution, the program starts fetching data for teams, tournaments, and players from Liquipedia's websites and stores the results in the designated JSON files.
 
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
+## How to Use
+1. Run the scraping node using `node Data Scraping/src/scrap.js`.
+2. Convert the JSON files to a single SQL file using `node Data Storing/src/convertsql.js`.
+3. Navigate to the directory where the SQL file is generated by using `cd Data Storing/export`.
+4. Log in to your PostgreSQL user by typing `psql -U <your_user_name>`.
+5. Create a database called "liquipedia" by executing `CREATE DATABASE liquipedia;`.
+6. Exit the PostgreSQL interface (CTRL+D), and then import your SQL file using `psql -U <your_user_name> -d liquipedia < liquipedia.sql`.
+7. Re-login to your PostgreSQL.
+8. Change your active database to "liquipedia" by using `\c liquipedia`.
+9. Enjoy!
 
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
+## JSON Structure
+![JSON structure](Data%20Scraping/screenshot/JSON%20structure.png)
 
-4. Tools yang digunakan __dibebaskan__ pada peserta.
+## Database Structure (ERD and Relational Diagram)
+### ERD
+![Entity Relationship Diagram](Data%20Storing/design/Entity%20Relationship%20Diagram.png)
+### Relational Diagram
+![Relational Diagram](Data%20Storing/design/Relational%20Diagram.png)
 
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
+## Explanation of ERD to Relational Diagram Translation Process
+1. Mapping entities into relations.
+2. Mapping relationships into relations.
 
-
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
-
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
-
-### Pengumpulan
-
-
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
-
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
-
-
-```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
-
-
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
-
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
-
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
-<br>
+## Reference (Library used, etc)
+* [Node.js's file system](https://nodejs.org/api/fs.html)
+* [Axios](https://axios-http.com/docs/intro)
+* [dotenv](https://www.npmjs.com/package/dotenv)
+## Author
+Syafiq Ziyadul Arifin
+(18221048@std.stei.itb.ac.id)

@@ -1,0 +1,3031 @@
+[
+    {
+        "name": "VALORANT Champions 2023",
+        "url": "https://liquipedia.net/valorant/VCT/2023/Champions",
+        "prize": "",
+        "location": "Los Angeles, United States",
+        "participants": 16,
+        "winner": [],
+        "runnerUp": [],
+        "tier": "S",
+        "startDate": "2023-08-06",
+        "endDate": "2023-08-26"
+    },
+    {
+        "name": "VCT 2023: EMEA Last Chance Qualifier",
+        "url": "https://liquipedia.net/valorant/VCT/2023/EMEA_League/Last_Chance_Qualifier",
+        "prize": "",
+        "location": "Berlin, Germany",
+        "participants": 6,
+        "winner": [],
+        "runnerUp": [],
+        "tier": "A",
+        "startDate": "2023-07-19",
+        "endDate": "2023-07-23"
+    },
+    {
+        "name": "VCT 2023: Pacific Last Chance Qualifier",
+        "url": "https://liquipedia.net/valorant/VCT/2023/Pacific_League/Last_Chance_Qualifier",
+        "prize": "",
+        "location": "Seoul, South Korea",
+        "participants": 7,
+        "winner": [],
+        "runnerUp": [],
+        "tier": "A",
+        "startDate": "2023-07-18",
+        "endDate": "2023-07-23"
+    },
+    {
+        "name": "VCT 2023: Americas Last Chance Qualifier",
+        "url": "https://liquipedia.net/valorant/VCT/2023/Americas_League/Last_Chance_Qualifier",
+        "prize": "",
+        "location": "Los Angeles, United States",
+        "participants": 7,
+        "winner": [],
+        "runnerUp": [],
+        "tier": "A",
+        "startDate": "2023-07-15",
+        "endDate": "2023-07-23"
+    },
+    {
+        "name": "VCT 2023: Masters Tokyo",
+        "url": "https://liquipedia.net/valorant/VCT/2023/Masters",
+        "prize": "1000000",
+        "location": "Chiba, Japan",
+        "participants": 12,
+        "winner": [
+            "Fnatic"
+        ],
+        "runnerUp": [
+            "Evil Geniuses"
+        ],
+        "tier": "S",
+        "startDate": "2023-06-11",
+        "endDate": "2023-06-25"
+    },
+    {
+        "name": "VCT 2023: Masters Tokyo - Showmatch",
+        "url": "https://liquipedia.net/valorant/VCT/2023/Masters/Showmatch",
+        "prize": "",
+        "location": "Chiba, Japan",
+        "participants": 2,
+        "winner": [],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2023-06-25",
+        "endDate": "2023-06-25"
+    },
+    {
+        "name": "VCT 2023: EMEA League",
+        "url": "https://liquipedia.net/valorant/VCT/2023/EMEA_League",
+        "prize": "250000",
+        "location": "Berlin, Germany",
+        "participants": 10,
+        "winner": [
+            "Team Liquid"
+        ],
+        "runnerUp": [
+            "Fnatic"
+        ],
+        "tier": "S",
+        "startDate": "2023-03-27",
+        "endDate": "2023-05-28"
+    },
+    {
+        "name": "VCT 2023: Pacific League",
+        "url": "https://liquipedia.net/valorant/VCT/2023/Pacific_League",
+        "prize": "250000",
+        "location": "Seoul, South Korea",
+        "participants": 10,
+        "winner": [
+            "Paper Rex"
+        ],
+        "runnerUp": [
+            "DRX"
+        ],
+        "tier": "S",
+        "startDate": "2023-03-25",
+        "endDate": "2023-05-28"
+    },
+    {
+        "name": "VCT 2023: Americas League",
+        "url": "https://liquipedia.net/valorant/VCT/2023/Americas_League",
+        "prize": "250000",
+        "location": "Los Angeles, United States",
+        "participants": 10,
+        "winner": [
+            "LOUD"
+        ],
+        "runnerUp": [
+            "NRG"
+        ],
+        "tier": "S",
+        "startDate": "2023-04-01",
+        "endDate": "2023-05-28"
+    },
+    {
+        "name": "VCT 2023: Pacific League - Showmatch",
+        "url": "https://liquipedia.net/valorant/VCT/2023/Pacific_League/Showmatch",
+        "prize": "",
+        "location": "Seoul, South Korea",
+        "participants": 2,
+        "winner": [],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2023-05-27",
+        "endDate": "2023-05-27"
+    },
+    {
+        "name": "VCT 2023: LOCK//IN São Paulo",
+        "url": "https://liquipedia.net/valorant/VCT/2023/LOCK_IN_S%C3%A3o_Paulo",
+        "prize": "500000",
+        "location": "São Paulo, Brazil",
+        "participants": 32,
+        "winner": [
+            "Fnatic"
+        ],
+        "runnerUp": [
+            "LOUD"
+        ],
+        "tier": "S",
+        "startDate": "2023-02-13",
+        "endDate": "2023-03-04"
+    },
+    {
+        "name": "VCT 2023: LOCK//IN São Paulo - Showmatch",
+        "url": "https://liquipedia.net/valorant/VCT/2023/LOCK_IN_S%C3%A3o_Paulo/Showmatch",
+        "prize": "",
+        "location": "São Paulo, Brazil",
+        "participants": 2,
+        "winner": [],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2023-03-04",
+        "endDate": "2023-03-04"
+    },
+    {
+        "name": "VALORANT Champions 2022",
+        "url": "https://liquipedia.net/valorant/VCT/2022/Champions",
+        "prize": "1000000",
+        "location": "Istanbul, Turkey",
+        "participants": 16,
+        "winner": [
+            "LOUD"
+        ],
+        "runnerUp": [
+            "OpTic Gaming"
+        ],
+        "tier": "S",
+        "startDate": "2022-08-31",
+        "endDate": "2022-09-18"
+    },
+    {
+        "name": "VCT 2022: EMEA Last Chance Qualifier",
+        "url": "https://liquipedia.net/valorant/VCT/2022/EMEA/Last_Chance_Qualifier",
+        "prize": "50893.38",
+        "location": "Online, Europe",
+        "participants": 8,
+        "winner": [
+            "Team Liquid"
+        ],
+        "runnerUp": [
+            "M3 Champions"
+        ],
+        "tier": "A",
+        "startDate": "2022-08-07",
+        "endDate": "2022-08-14"
+    },
+    {
+        "name": "VCT 2022: East Asia Last Chance Qualifier",
+        "url": "https://liquipedia.net/valorant/VCT/2022/East_Asia/Last_Chance_Qualifier",
+        "prize": "",
+        "location": "Online, East Asia",
+        "participants": 8,
+        "winner": [
+            "EDward Gaming"
+        ],
+        "runnerUp": [
+            "On Sla2ers"
+        ],
+        "tier": "A",
+        "startDate": "2022-08-08",
+        "endDate": "2022-08-14"
+    },
+    {
+        "name": "VCT 2022: North America Last Chance Qualifier",
+        "url": "https://liquipedia.net/valorant/VCT/2022/North_America/Last_Chance_Qualifier",
+        "prize": "",
+        "location": "Online, North America",
+        "participants": 8,
+        "winner": [
+            "100 Thieves"
+        ],
+        "runnerUp": [
+            "The Guard"
+        ],
+        "tier": "A",
+        "startDate": "2022-08-04",
+        "endDate": "2022-08-14"
+    },
+    {
+        "name": "VCT 2022: South America Last Chance Qualifier",
+        "url": "https://liquipedia.net/valorant/VCT/2022/South_America/Last_Chance_Qualifier",
+        "prize": "49396.14",
+        "location": "São Paulo, Brazil",
+        "participants": 8,
+        "winner": [
+            "KRÜ Esports"
+        ],
+        "runnerUp": [
+            "FURIA Esports"
+        ],
+        "tier": "A",
+        "startDate": "2022-08-06",
+        "endDate": "2022-08-14"
+    },
+    {
+        "name": "VCT 2022: APAC Last Chance Qualifier",
+        "url": "https://liquipedia.net/valorant/VCT/2022/APAC/Last_Chance_Qualifier",
+        "prize": "",
+        "location": "Online, Asia-Pacific",
+        "participants": 10,
+        "winner": [
+            "BOOM Esports"
+        ],
+        "runnerUp": [
+            "ONIC Esports"
+        ],
+        "tier": "A",
+        "startDate": "2022-08-01",
+        "endDate": "2022-08-07"
+    },
+    {
+        "name": "VCT 2022: Stage 2 Masters - Copenhagen",
+        "url": "https://liquipedia.net/valorant/VCT/2022/Stage_2/Masters",
+        "prize": "650000",
+        "location": "Copenhagen, Denmark",
+        "participants": 12,
+        "winner": [
+            "FunPlus Phoenix"
+        ],
+        "runnerUp": [
+            "Paper Rex"
+        ],
+        "tier": "S",
+        "startDate": "2022-07-10",
+        "endDate": "2022-07-24"
+    },
+    {
+        "name": "VCT 2022: EMEA Stage 2 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/EMEA/Stage_2/Challengers",
+        "prize": "208727.31",
+        "location": "Online, Europe",
+        "participants": 12,
+        "winner": [
+            "Fnatic"
+        ],
+        "runnerUp": [
+            "FunPlus Phoenix"
+        ],
+        "tier": "A",
+        "startDate": "2022-05-13",
+        "endDate": "2022-06-26"
+    },
+    {
+        "name": "VCT 2022: APAC Stage 2 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/APAC/Stage_2/Challengers",
+        "prize": "150000",
+        "location": "Online, Asia-Pacific",
+        "participants": 20,
+        "winner": [
+            "Paper Rex"
+        ],
+        "runnerUp": [
+            "XERXIA"
+        ],
+        "tier": "A",
+        "startDate": "2022-06-09",
+        "endDate": "2022-06-26"
+    },
+    {
+        "name": "VCT 2022: Korea Stage 2 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/Korea/Stage_2/Challengers",
+        "prize": "80673.65",
+        "location": "Seoul, South Korea",
+        "participants": 8,
+        "winner": [
+            "DRX"
+        ],
+        "runnerUp": [
+            "Maru Gaming"
+        ],
+        "tier": "A",
+        "startDate": "2022-05-21",
+        "endDate": "2022-06-26"
+    },
+    {
+        "name": "VCT 2022: Brazil Stage 2 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/Brazil/Stage_2/Challengers",
+        "prize": "78138.4",
+        "location": "São Paulo, Brazil",
+        "participants": 10,
+        "winner": [
+            "LOUD"
+        ],
+        "runnerUp": [
+            "Ninjas in Pyjamas"
+        ],
+        "tier": "A",
+        "startDate": "2022-05-14",
+        "endDate": "2022-06-26"
+    },
+    {
+        "name": "VCT 2022: North America Stage 2 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/North_America/Stage_2/Challengers",
+        "prize": "200000",
+        "location": "Online, North America",
+        "participants": 12,
+        "winner": [
+            "XSET"
+        ],
+        "runnerUp": [
+            "OpTic Gaming"
+        ],
+        "tier": "A",
+        "startDate": "2022-05-13",
+        "endDate": "2022-06-26"
+    },
+    {
+        "name": "VCT 2022: Japan Stage 2 Challengers Playoffs",
+        "url": "https://liquipedia.net/valorant/VCT/2022/Japan/Stage_2/Challengers",
+        "prize": "14646.23",
+        "location": "Saitama, Japan",
+        "participants": 8,
+        "winner": [
+            "Northeption"
+        ],
+        "runnerUp": [
+            "ZETA DIVISION"
+        ],
+        "tier": "B",
+        "startDate": "2022-06-10",
+        "endDate": "2022-06-26"
+    },
+    {
+        "name": "VCT 2022: LATAM Stage 2 Challengers Playoffs",
+        "url": "https://liquipedia.net/valorant/VCT/2022/Latin_America/Stage_2/Challengers_Playoffs",
+        "prize": "50000",
+        "location": "Buenos Aires, Argentina",
+        "participants": 4,
+        "winner": [
+            "Leviatán"
+        ],
+        "runnerUp": [
+            "KRÜ Esports"
+        ],
+        "tier": "A",
+        "startDate": "2022-06-23",
+        "endDate": "2022-06-26"
+    },
+    {
+        "name": "VCT 2022: LAS Stage 2 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/Latin_America/Stage_2/Challengers/South",
+        "prize": "15000",
+        "location": "Online, Latin America South",
+        "participants": 6,
+        "winner": [
+            "KRÜ Esports"
+        ],
+        "runnerUp": [
+            "Leviatán"
+        ],
+        "tier": "B",
+        "startDate": "2022-05-14",
+        "endDate": "2022-06-12"
+    },
+    {
+        "name": "VCT 2022: LAN Stage 2 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/Latin_America/Stage_2/Challengers/North",
+        "prize": "15000",
+        "location": "Online, Latin America North",
+        "participants": 6,
+        "winner": [
+            "FUSION"
+        ],
+        "runnerUp": [
+            "E-Xolos LAZER"
+        ],
+        "tier": "B",
+        "startDate": "2022-05-12",
+        "endDate": "2022-06-10"
+    },
+    {
+        "name": "VCT 2022: Vietnam Stage 2 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/APAC/Stage_2/Challengers/Vietnam",
+        "prize": "37068.49",
+        "location": "Hà Nội, Vietnam",
+        "participants": 8,
+        "winner": [
+            "Fancy United"
+        ],
+        "runnerUp": [
+            "CERBERUS Esports"
+        ],
+        "tier": "B",
+        "startDate": "2022-05-12",
+        "endDate": "2022-05-29"
+    },
+    {
+        "name": "VCT 2022: Thailand Stage 2 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/APAC/Stage_2/Challengers/Thailand",
+        "prize": "24452.72",
+        "location": "Online, Thailand",
+        "participants": 8,
+        "winner": [
+            "XERXIA"
+        ],
+        "runnerUp": [
+            "FW ESPORTS"
+        ],
+        "tier": "B",
+        "startDate": "2022-05-12",
+        "endDate": "2022-05-29"
+    },
+    {
+        "name": "VCT 2022: Indonesia Stage 2 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/APAC/Stage_2/Challengers/Indonesia",
+        "prize": "25000",
+        "location": "Online, Indonesia",
+        "participants": 8,
+        "winner": [
+            "ONIC Esports"
+        ],
+        "runnerUp": [
+            "Alter Ego"
+        ],
+        "tier": "B",
+        "startDate": "2022-05-12",
+        "endDate": "2022-05-29"
+    },
+    {
+        "name": "VCT 2022: Philippines Stage 2 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/APAC/Stage_2/Challengers/Philippines",
+        "prize": "30000",
+        "location": "Online, Philippines",
+        "participants": 8,
+        "winner": [
+            "Team Secret"
+        ],
+        "runnerUp": [
+            "Oasis Gaming"
+        ],
+        "tier": "B",
+        "startDate": "2022-05-11",
+        "endDate": "2022-05-29"
+    },
+    {
+        "name": "VCT 2022: Hong Kong & Taiwan Stage 2 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/APAC/Stage_2/Challengers/Hong_Kong_and_Taiwan",
+        "prize": "25000",
+        "location": "Online, Hong Kong",
+        "participants": 8,
+        "winner": [
+            "Griffin E-Sports"
+        ],
+        "runnerUp": [
+            "Ghetto Artist"
+        ],
+        "tier": "B",
+        "startDate": "2022-05-11",
+        "endDate": "2022-05-29"
+    },
+    {
+        "name": "VCT 2022: Malaysia & Singapore Stage 2 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/APAC/Stage_2/Challengers/Malaysia_and_Singapore",
+        "prize": "22818.9",
+        "location": "Online, Malaysia",
+        "participants": 8,
+        "winner": [
+            "Paper Rex"
+        ],
+        "runnerUp": [
+            "LaZe"
+        ],
+        "tier": "B",
+        "startDate": "2022-05-12",
+        "endDate": "2022-05-29"
+    },
+    {
+        "name": "VCT 2022: Vietnam Stage 2 Challengers - First Division",
+        "url": "https://liquipedia.net/valorant/VCT/2022/APAC/Stage_2/Challengers/Vietnam/First_Division",
+        "prize": "3299.34",
+        "location": "Online, Vietnam",
+        "participants": 16,
+        "winner": [],
+        "runnerUp": [],
+        "tier": "C",
+        "startDate": "2022-04-28",
+        "endDate": "2022-05-08"
+    },
+    {
+        "name": "VCT 2022: Stage 1 Masters - Reykjavík",
+        "url": "https://liquipedia.net/valorant/VCT/2022/Stage_1/Masters",
+        "prize": "675000",
+        "location": "Reykjavík, Iceland",
+        "participants": 12,
+        "winner": [
+            "OpTic Gaming"
+        ],
+        "runnerUp": [
+            "LOUD"
+        ],
+        "tier": "S",
+        "startDate": "2022-04-10",
+        "endDate": "2022-04-24"
+    },
+    {
+        "name": "VCT 2022: EMEA Challengers Promotion",
+        "url": "https://liquipedia.net/valorant/VCT/2022/EMEA/Stage_1/Challengers_Promotion",
+        "prize": "",
+        "location": "Online, Europe",
+        "participants": 9,
+        "winner": [
+            "FOKUS"
+        ],
+        "runnerUp": [
+            "BIG"
+        ],
+        "tier": "B",
+        "startDate": "2022-04-01",
+        "endDate": "2022-04-09"
+    },
+    {
+        "name": "VCT 2022: LATAM Stage 1 Challengers Playoffs",
+        "url": "https://liquipedia.net/valorant/VCT/2022/Latin_America/Stage_1/Challengers_Playoffs",
+        "prize": "50000",
+        "location": "Mexico City, Mexico",
+        "participants": 4,
+        "winner": [
+            "KRÜ Esports"
+        ],
+        "runnerUp": [
+            "Leviatán"
+        ],
+        "tier": "A",
+        "startDate": "2022-03-24",
+        "endDate": "2022-03-28"
+    },
+    {
+        "name": "VCT 2022: EMEA Stage 1 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/EMEA/Stage_1/Challengers",
+        "prize": "221314.83",
+        "location": "Online, Europe",
+        "participants": 12,
+        "winner": [
+            "FunPlus Phoenix"
+        ],
+        "runnerUp": [
+            "G2 Esports"
+        ],
+        "tier": "A",
+        "startDate": "2022-02-11",
+        "endDate": "2022-03-27"
+    },
+    {
+        "name": "VCT 2022: APAC Stage 1 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/APAC/Stage_1/Challengers",
+        "prize": "150000",
+        "location": "Online, Asia-Pacific",
+        "participants": 20,
+        "winner": [
+            "Paper Rex"
+        ],
+        "runnerUp": [
+            "XERXIA"
+        ],
+        "tier": "A",
+        "startDate": "2022-03-10",
+        "endDate": "2022-03-27"
+    },
+    {
+        "name": "VCT 2022: Korea Stage 1 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/Korea/Stage_1/Challengers",
+        "prize": "86385.12",
+        "location": "Seoul, South Korea",
+        "participants": 8,
+        "winner": [
+            "DRX"
+        ],
+        "runnerUp": [
+            "On Sla2ers"
+        ],
+        "tier": "A",
+        "startDate": "2022-02-23",
+        "endDate": "2022-03-27"
+    },
+    {
+        "name": "VCT 2022: Brazil Stage 1 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/Brazil/Stage_1/Challengers",
+        "prize": "85429.03",
+        "location": "Online, Brazil",
+        "participants": 10,
+        "winner": [
+            "LOUD"
+        ],
+        "runnerUp": [
+            "Ninjas in Pyjamas"
+        ],
+        "tier": "A",
+        "startDate": "2022-02-12",
+        "endDate": "2022-03-27"
+    },
+    {
+        "name": "VCT 2022: North America Stage 1 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/North_America/Stage_1/Challengers",
+        "prize": "200000",
+        "location": "Online, North America",
+        "participants": 12,
+        "winner": [
+            "The Guard"
+        ],
+        "runnerUp": [
+            "OpTic Gaming"
+        ],
+        "tier": "A",
+        "startDate": "2022-02-11",
+        "endDate": "2022-03-27"
+    },
+    {
+        "name": "VCT 2022: Japan Stage 1 Challengers Playoffs",
+        "url": "https://liquipedia.net/valorant/VCT/2022/Japan/Stage_1/Challengers",
+        "prize": "16428.93",
+        "location": "Online, Japan",
+        "participants": 8,
+        "winner": [
+            "ZETA DIVISION"
+        ],
+        "runnerUp": [
+            "Crazy Raccoon"
+        ],
+        "tier": "B",
+        "startDate": "2022-03-24",
+        "endDate": "2022-03-27"
+    },
+    {
+        "name": "VCT 2022: LAS Stage 1 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/Latin_America/Stage_1/Challengers/South",
+        "prize": "15000",
+        "location": "Online, Latin America South",
+        "participants": 6,
+        "winner": [
+            "Leviatán"
+        ],
+        "runnerUp": [
+            "KRÜ Esports"
+        ],
+        "tier": "B",
+        "startDate": "2022-02-12",
+        "endDate": "2022-03-13"
+    },
+    {
+        "name": "VCT 2022: LAN Stage 1 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/Latin_America/Stage_1/Challengers/North",
+        "prize": "15000",
+        "location": "Online, Latin America North",
+        "participants": 6,
+        "winner": [
+            "E-Xolos LAZER"
+        ],
+        "runnerUp": [
+            "FUSION"
+        ],
+        "tier": "B",
+        "startDate": "2022-02-10",
+        "endDate": "2022-03-11"
+    },
+    {
+        "name": "VCT 2022: Vietnam Stage 1 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/APAC/Stage_1/Challengers/Vietnam",
+        "prize": "28055.72",
+        "location": "Online, Vietnam",
+        "participants": 16,
+        "winner": [
+            "CERBERUS Esports"
+        ],
+        "runnerUp": [
+            "Fancy United Esports"
+        ],
+        "tier": "B",
+        "startDate": "2022-02-10",
+        "endDate": "2022-02-27"
+    },
+    {
+        "name": "VCT 2022: Thailand Stage 1 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/APAC/Stage_1/Challengers/Thailand",
+        "prize": "25287.87",
+        "location": "Online, Thailand",
+        "participants": 16,
+        "winner": [
+            "XERXIA"
+        ],
+        "runnerUp": [
+            "Made in Thailand"
+        ],
+        "tier": "B",
+        "startDate": "2022-02-10",
+        "endDate": "2022-02-27"
+    },
+    {
+        "name": "VCT 2022: Indonesia Stage 1 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/APAC/Stage_1/Challengers/Indonesia",
+        "prize": "25000",
+        "location": "Online, Indonesia",
+        "participants": 16,
+        "winner": [
+            "BOOM Esports"
+        ],
+        "runnerUp": [
+            "BOY WITH LOVE"
+        ],
+        "tier": "B",
+        "startDate": "2022-02-11",
+        "endDate": "2022-02-27"
+    },
+    {
+        "name": "VCT 2022: Philippines Stage 1 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/APAC/Stage_1/Challengers/Philippines",
+        "prize": "30000",
+        "location": "Online, Philippines",
+        "participants": 8,
+        "winner": [
+            "South Built Esports"
+        ],
+        "runnerUp": [
+            "NAOS Esports"
+        ],
+        "tier": "B",
+        "startDate": "2022-02-10",
+        "endDate": "2022-02-27"
+    },
+    {
+        "name": "VCT 2022: Malaysia & Singapore Stage 1 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/APAC/Stage_1/Challengers/Malaysia_and_Singapore",
+        "prize": "23909.48",
+        "location": "Online, Malaysia",
+        "participants": 16,
+        "winner": [
+            "Paper Rex"
+        ],
+        "runnerUp": [
+            "Bleed eSports"
+        ],
+        "tier": "B",
+        "startDate": "2022-02-10",
+        "endDate": "2022-02-27"
+    },
+    {
+        "name": "VCT 2022: Hong Kong & Taiwan Stage 1 Challengers",
+        "url": "https://liquipedia.net/valorant/VCT/2022/APAC/Stage_1/Challengers/Hong_Kong_and_Taiwan",
+        "prize": "25000",
+        "location": "Online, Hong Kong",
+        "participants": 6,
+        "winner": [
+            "Oblivion Force"
+        ],
+        "runnerUp": [
+            "Griffin E-Sports"
+        ],
+        "tier": "B",
+        "startDate": "2022-02-10",
+        "endDate": "2022-02-26"
+    },
+    {
+        "name": "VALORANT Champions 2021",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Champions",
+        "prize": "1000000",
+        "location": "Berlin, Germany",
+        "participants": 16,
+        "winner": [
+            "Acend"
+        ],
+        "runnerUp": [
+            "Gambit Esports"
+        ],
+        "tier": "S",
+        "startDate": "2021-12-01",
+        "endDate": "2021-12-12"
+    },
+    {
+        "name": "VCT 2021: North America Last Chance Qualifier",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/North_America/Last_Chance_Qualifier",
+        "prize": "100000",
+        "location": "Los Angeles, United States",
+        "participants": 8,
+        "winner": [
+            "Cloud9 Blue"
+        ],
+        "runnerUp": [
+            "Rise"
+        ],
+        "tier": "A",
+        "startDate": "2021-10-12",
+        "endDate": "2021-10-31"
+    },
+    {
+        "name": "VCT 2021: EMEA Last Chance Qualifier",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/EMEA/Last_Chance_Qualifier",
+        "prize": "",
+        "location": "Online, Europe",
+        "participants": 8,
+        "winner": [
+            "Team Liquid"
+        ],
+        "runnerUp": [
+            "Guild Esports"
+        ],
+        "tier": "A",
+        "startDate": "2021-10-10",
+        "endDate": "2021-10-17"
+    },
+    {
+        "name": "VCT 2021: APAC Last Chance Qualifier",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/APAC/Last_Chance_Qualifier",
+        "prize": "",
+        "location": "Online, Asia",
+        "participants": 10,
+        "winner": [
+            "FULL SENSE"
+        ],
+        "runnerUp": [
+            "Northeption"
+        ],
+        "tier": "A",
+        "startDate": "2021-10-11",
+        "endDate": "2021-10-17"
+    },
+    {
+        "name": "VCT 2021: South America Last Chance Qualifier",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/South_America/Last_Chance_Qualifier",
+        "prize": "45048.09",
+        "location": "São Paulo, Brazil",
+        "participants": 8,
+        "winner": [
+            "FURIA Esports"
+        ],
+        "runnerUp": [
+            "Australs"
+        ],
+        "tier": "A",
+        "startDate": "2021-10-11",
+        "endDate": "2021-10-17"
+    },
+    {
+        "name": "VCT 2021: Stage 3 Masters - Berlin",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Stage_3/Masters",
+        "prize": "700000",
+        "location": "Berlin, Germany",
+        "participants": 15,
+        "winner": [
+            "Gambit Esports"
+        ],
+        "runnerUp": [
+            "Team Envy"
+        ],
+        "tier": "S",
+        "startDate": "2021-09-10",
+        "endDate": "2021-09-19"
+    },
+    {
+        "name": "VCT 2021: EMEA Stage 3 Challengers Playoffs",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/EMEA/Stage_3/Challengers_Playoffs",
+        "prize": "100567.77",
+        "location": "Europe, Europe",
+        "participants": 12,
+        "winner": [
+            "Gambit Esports"
+        ],
+        "runnerUp": [
+            "SuperMassive Blaze"
+        ],
+        "tier": "A",
+        "startDate": "2021-08-12",
+        "endDate": "2021-08-22"
+    },
+    {
+        "name": "VCT 2021: Brazil Stage 3 Challengers Playoffs",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Brazil/Stage_3/Challengers_Playoffs",
+        "prize": "32384.02",
+        "location": "Online, Brazil",
+        "participants": 8,
+        "winner": [
+            "Keyd Stars"
+        ],
+        "runnerUp": [
+            "Havan Liberty"
+        ],
+        "tier": "B",
+        "startDate": "2021-08-12",
+        "endDate": "2021-08-22"
+    },
+    {
+        "name": "VCT 2021: Southeast Asia Stage 3 Challengers Playoffs",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_3/Challengers_Playoffs",
+        "prize": "100000",
+        "location": "Online, Southeast Asia",
+        "participants": 16,
+        "winner": [
+            "Bren Esports"
+        ],
+        "runnerUp": [
+            "Paper Rex"
+        ],
+        "tier": "A",
+        "startDate": "2021-08-13",
+        "endDate": "2021-08-22"
+    },
+    {
+        "name": "VCT 2021: LATAM Stage 3 Challengers Playoffs",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Latin_America/Stage_3/Challengers_Playoffs",
+        "prize": "26000",
+        "location": "Mexico City, Mexico",
+        "participants": 4,
+        "winner": [
+            "KRÜ Esports"
+        ],
+        "runnerUp": [
+            "Australs"
+        ],
+        "tier": "B",
+        "startDate": "2021-08-18",
+        "endDate": "2021-08-20"
+    },
+    {
+        "name": "VCT 2021: Japan Stage 3 Challengers Playoffs",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Japan/Stage_3/Challengers_Playoffs",
+        "prize": "18232.1",
+        "location": "Online, Japan",
+        "participants": 8,
+        "winner": [
+            "ZETA DIVISION"
+        ],
+        "runnerUp": [
+            "Crazy Raccoon"
+        ],
+        "tier": "B",
+        "startDate": "2021-08-12",
+        "endDate": "2021-08-15"
+    },
+    {
+        "name": "VCT 2021: Korea Stage 3 Challengers Playoffs",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Korea/Stage_3/Challengers_Playoffs",
+        "prize": "68865.99",
+        "location": "Offline, Korea",
+        "participants": 8,
+        "winner": [
+            "Vision Strikers"
+        ],
+        "runnerUp": [
+            "F4Q"
+        ],
+        "tier": "A",
+        "startDate": "2021-08-06",
+        "endDate": "2021-08-15"
+    },
+    {
+        "name": "VCT 2021: North America Stage 3 Challengers Playoffs",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/North_America/Stage_3/Challengers_Playoffs",
+        "prize": "100000",
+        "location": "Online, North America",
+        "participants": 8,
+        "winner": [
+            "Sentinels"
+        ],
+        "runnerUp": [
+            "100 Thieves"
+        ],
+        "tier": "A",
+        "startDate": "2021-08-11",
+        "endDate": "2021-08-15"
+    },
+    {
+        "name": "VCT 2021: Brazil Stage 3 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Brazil/Stage_3/Challengers_3",
+        "prize": "9514.4",
+        "location": "Online, Brazil",
+        "participants": 8,
+        "winner": [
+            "FURIA Esports",
+            "Havan Liberty"
+        ],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-07-31",
+        "endDate": "2021-08-08"
+    },
+    {
+        "name": "VCT 2021: Vietnam Stage 3 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_3/Challengers_3/Vietnam",
+        "prize": "6792.65",
+        "location": "Online, Vietnam",
+        "participants": 8,
+        "winner": [
+            "EGO"
+        ],
+        "runnerUp": [
+            "YAMAGAN"
+        ],
+        "tier": "C",
+        "startDate": "2021-08-05",
+        "endDate": "2021-08-08"
+    },
+    {
+        "name": "VCT 2021: Thailand Stage 3 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_3/Challengers_3/Thailand",
+        "prize": "2720.26",
+        "location": "Online, Thailand",
+        "participants": 8,
+        "winner": [
+            "Sharper Esport"
+        ],
+        "runnerUp": [
+            "Need Sponsor"
+        ],
+        "tier": "C",
+        "startDate": "2021-08-05",
+        "endDate": "2021-08-08"
+    },
+    {
+        "name": "VCT 2021: Indonesia Stage 3 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_3/Challengers_3/Indonesia",
+        "prize": "4448.97",
+        "location": "Online, Indonesia",
+        "participants": 8,
+        "winner": [
+            "BOOM Esports"
+        ],
+        "runnerUp": [
+            "RRQ Endeavour"
+        ],
+        "tier": "C",
+        "startDate": "2021-08-05",
+        "endDate": "2021-08-08"
+    },
+    {
+        "name": "VCT 2021: LAN Stage 3 Challengers Playoffs",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Latin_America/Stage_3/Challengers_Playoffs/North",
+        "prize": "3000",
+        "location": "Online, Latin America North",
+        "participants": 4,
+        "winner": [
+            "Infinity"
+        ],
+        "runnerUp": [
+            "Six Karma"
+        ],
+        "tier": "B",
+        "startDate": "2021-08-06",
+        "endDate": "2021-08-08"
+    },
+    {
+        "name": "VCT 2021: Philippines Stage 3 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_3/Challengers_3/Philippines",
+        "prize": "5134.74",
+        "location": "Online, Philippines",
+        "participants": 8,
+        "winner": [
+            "Oasis Gaming"
+        ],
+        "runnerUp": [
+            "SunSparks"
+        ],
+        "tier": "C",
+        "startDate": "2021-08-06",
+        "endDate": "2021-08-08"
+    },
+    {
+        "name": "VCT 2021: Hong Kong & Taiwan Stage 3 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_3/Challengers_3/Hong_Kong_and_Taiwan",
+        "prize": "6000",
+        "location": "Online, Hong Kong",
+        "participants": 8,
+        "winner": [
+            "Five Ace e-Sports"
+        ],
+        "runnerUp": [
+            "Lightning"
+        ],
+        "tier": "C",
+        "startDate": "2021-08-06",
+        "endDate": "2021-08-08"
+    },
+    {
+        "name": "VCT 2021: Malaysia & Singapore Stage 3 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_3/Challengers_3/Malaysia_and_Singapore",
+        "prize": "3013.89",
+        "location": "Online, Malaysia",
+        "participants": 8,
+        "winner": [
+            "Paper Rex"
+        ],
+        "runnerUp": [
+            "Kingsmen"
+        ],
+        "tier": "C",
+        "startDate": "2021-08-06",
+        "endDate": "2021-08-08"
+    },
+    {
+        "name": "VCT 2021: LAS Stage 3 Challengers Playoffs",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Latin_America/Stage_3/Challengers_Playoffs/South",
+        "prize": "3000",
+        "location": "Online, Latin America South",
+        "participants": 4,
+        "winner": [
+            "KRÜ Esports"
+        ],
+        "runnerUp": [
+            "Australs"
+        ],
+        "tier": "B",
+        "startDate": "2021-08-03",
+        "endDate": "2021-08-05"
+    },
+    {
+        "name": "VCT 2021: LAN Stage 3 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Latin_America/Stage_3/Challengers_2/North",
+        "prize": "4500",
+        "location": "Online, Latin America North",
+        "participants": 8,
+        "winner": [
+            "Border Monsters"
+        ],
+        "runnerUp": [
+            "LAZER"
+        ],
+        "tier": "C",
+        "startDate": "2021-07-27",
+        "endDate": "2021-08-01"
+    },
+    {
+        "name": "VCT 2021: Korea Stage 3 Challengers",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Korea/Stage_3/Challengers",
+        "prize": "20998.84",
+        "location": "Offline, Korea",
+        "participants": 8,
+        "winner": [],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-07-08",
+        "endDate": "2021-08-01"
+    },
+    {
+        "name": "VCT 2021: Europe Stage 3 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Europe/Stage_3/Challengers_2",
+        "prize": "41382.7",
+        "location": "Online, Europe",
+        "participants": 8,
+        "winner": [
+            "Team Liquid"
+        ],
+        "runnerUp": [
+            "Giants Gaming"
+        ],
+        "tier": "A",
+        "startDate": "2021-07-28",
+        "endDate": "2021-08-01"
+    },
+    {
+        "name": "VCT 2021: North America Stage 3 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/North_America/Stage_3/Challengers_2",
+        "prize": "50000",
+        "location": "Online, North America",
+        "participants": 8,
+        "winner": [
+            "TSM"
+        ],
+        "runnerUp": [
+            "FaZe Clan"
+        ],
+        "tier": "A",
+        "startDate": "2021-07-29",
+        "endDate": "2021-08-01"
+    },
+    {
+        "name": "VCT 2021: CIS Stage 3 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/CIS/Stage_3/Challengers_2",
+        "prize": "21282.53",
+        "location": "Online, CIS",
+        "participants": 8,
+        "winner": [
+            "forZe"
+        ],
+        "runnerUp": [
+            "One Breath Gaming"
+        ],
+        "tier": "B",
+        "startDate": "2021-07-27",
+        "endDate": "2021-07-31"
+    },
+    {
+        "name": "VCT 2021: Turkey Stage 3 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Turkey/Stage_3/Challengers_2",
+        "prize": "21282.53",
+        "location": "Online, Turkey",
+        "participants": 8,
+        "winner": [
+            "Fire Flux Esports"
+        ],
+        "runnerUp": [
+            "Digital Athletics"
+        ],
+        "tier": "B",
+        "startDate": "2021-07-27",
+        "endDate": "2021-07-31"
+    },
+    {
+        "name": "VCT 2021: LAS Stage 3 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Latin_America/Stage_3/Challengers_2/South",
+        "prize": "4500",
+        "location": "Online, Latin America South",
+        "participants": 8,
+        "winner": [
+            "Kaos Latin Gamers"
+        ],
+        "runnerUp": [
+            "9z Team"
+        ],
+        "tier": "C",
+        "startDate": "2021-07-20",
+        "endDate": "2021-07-25"
+    },
+    {
+        "name": "VCT 2021: Brazil Stage 3 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Brazil/Stage_3/Challengers_2",
+        "prize": "9846.48",
+        "location": "Online, Brazil",
+        "participants": 8,
+        "winner": [
+            "Sharks Esports",
+            "Stars Horizon"
+        ],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-07-17",
+        "endDate": "2021-07-25"
+    },
+    {
+        "name": "VCT 2021: Vietnam Stage 3 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_3/Challengers_2/Vietnam",
+        "prize": "6763.15",
+        "location": "Online, Vietnam",
+        "participants": 8,
+        "winner": [
+            "CERBERUS Esports"
+        ],
+        "runnerUp": [
+            "Fancy United Esports"
+        ],
+        "tier": "C",
+        "startDate": "2021-07-22",
+        "endDate": "2021-07-25"
+    },
+    {
+        "name": "VCT 2021: Thailand Stage 3 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_3/Challengers_2/Thailand",
+        "prize": "2740.61",
+        "location": "Online, Thailand",
+        "participants": 8,
+        "winner": [
+            "FULL SENSE"
+        ],
+        "runnerUp": [
+            "FW ESPORTS"
+        ],
+        "tier": "C",
+        "startDate": "2021-07-22",
+        "endDate": "2021-07-25"
+    },
+    {
+        "name": "VCT 2021: Indonesia Stage 3 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_3/Challengers_2/Indonesia",
+        "prize": "3454.31",
+        "location": "Online, Indonesia",
+        "participants": 8,
+        "winner": [
+            "Alter Ego"
+        ],
+        "runnerUp": [
+            "BOOM Esports"
+        ],
+        "tier": "C",
+        "startDate": "2021-07-23",
+        "endDate": "2021-07-25"
+    },
+    {
+        "name": "VCT 2021: Philippines Stage 3 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_3/Challengers_2/Philippines",
+        "prize": "5167.5",
+        "location": "Online, Philippines",
+        "participants": 8,
+        "winner": [
+            "Galaxy Racer"
+        ],
+        "runnerUp": [
+            "SV Empire"
+        ],
+        "tier": "C",
+        "startDate": "2021-07-23",
+        "endDate": "2021-07-25"
+    },
+    {
+        "name": "VCT 2021: Hong Kong & Taiwan Stage 3 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_3/Challengers_2/Hong_Kong_and_Taiwan",
+        "prize": "5000",
+        "location": "Online, Hong Kong",
+        "participants": 8,
+        "winner": [
+            "CBT Gaming"
+        ],
+        "runnerUp": [
+            "Five Ace e-Sports"
+        ],
+        "tier": "C",
+        "startDate": "2021-07-23",
+        "endDate": "2021-07-25"
+    },
+    {
+        "name": "VCT 2021: Malaysia & Singapore Stage 3 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_3/Challengers_2/Malaysia_and_Singapore",
+        "prize": "3030.02",
+        "location": "Online, Malaysia",
+        "participants": 8,
+        "winner": [
+            "UwU"
+        ],
+        "runnerUp": [
+            "Paper Rex"
+        ],
+        "tier": "C",
+        "startDate": "2021-07-23",
+        "endDate": "2021-07-25"
+    },
+    {
+        "name": "VCT 2021: Japan Stage 3 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Japan/Stage_3/Challengers_2",
+        "prize": "",
+        "location": "Online, Japan",
+        "participants": 8,
+        "winner": [
+            "FENNEL",
+            "REJECT"
+        ],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-07-22",
+        "endDate": "2021-07-23"
+    },
+    {
+        "name": "VCT 2021: LAN Stage 3 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Latin_America/Stage_3/Challengers_1/North",
+        "prize": "4500",
+        "location": "Online, Latin America North",
+        "participants": 8,
+        "winner": [
+            "Six Karma"
+        ],
+        "runnerUp": [
+            "Infinity"
+        ],
+        "tier": "C",
+        "startDate": "2021-07-06",
+        "endDate": "2021-07-11"
+    },
+    {
+        "name": "VCT 2021: Japan Stage 3 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Japan/Stage_3/Challengers_1",
+        "prize": "",
+        "location": "Online, Japan",
+        "participants": 8,
+        "winner": [
+            "Crazy Raccoon",
+            "ZETA DIVISION"
+        ],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-07-10",
+        "endDate": "2021-07-11"
+    },
+    {
+        "name": "VCT 2021: Europe Stage 3 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Europe/Stage_3/Challengers_1",
+        "prize": "41569.52",
+        "location": "Online, Europe",
+        "participants": 8,
+        "winner": [
+            "Acend"
+        ],
+        "runnerUp": [
+            "G2 Esports"
+        ],
+        "tier": "A",
+        "startDate": "2021-07-07",
+        "endDate": "2021-07-11"
+    },
+    {
+        "name": "VCT 2021: Brazil Stage 3 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Brazil/Stage_3/Challengers_1",
+        "prize": "9507.99",
+        "location": "Online, Brazil",
+        "participants": 8,
+        "winner": [
+            "Gamelanders Blue",
+            "Team Vikings"
+        ],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-07-03",
+        "endDate": "2021-07-11"
+    },
+    {
+        "name": "VCT 2021: Vietnam Stage 3 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_3/Challengers_1/Vietnam",
+        "prize": "6749.78",
+        "location": "Online, Vietnam",
+        "participants": 8,
+        "winner": [
+            "Steal Your Glory"
+        ],
+        "runnerUp": [
+            "DivisionX Gaming"
+        ],
+        "tier": "C",
+        "startDate": "2021-07-09",
+        "endDate": "2021-07-11"
+    },
+    {
+        "name": "VCT 2021: Thailand Stage 3 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_3/Challengers_1/Thailand",
+        "prize": "2770.68",
+        "location": "Online, Thailand",
+        "participants": 8,
+        "winner": [
+            "X10 Esports"
+        ],
+        "runnerUp": [
+            "FULL SENSE"
+        ],
+        "tier": "C",
+        "startDate": "2021-07-08",
+        "endDate": "2021-07-11"
+    },
+    {
+        "name": "VCT 2021: Indonesia Stage 3 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_3/Challengers_1/Indonesia",
+        "prize": "3451.31",
+        "location": "Online, Indonesia",
+        "participants": 8,
+        "winner": [
+            "ONIC Esports"
+        ],
+        "runnerUp": [
+            "Bigetron Astro"
+        ],
+        "tier": "C",
+        "startDate": "2021-07-09",
+        "endDate": "2021-07-11"
+    },
+    {
+        "name": "VCT 2021: Philippines Stage 3 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_3/Challengers_1/Philippines",
+        "prize": "5181.04",
+        "location": "Online, Philippines",
+        "participants": 8,
+        "winner": [
+            "Bren Esports"
+        ],
+        "runnerUp": [
+            "Galaxy Racer"
+        ],
+        "tier": "C",
+        "startDate": "2021-07-09",
+        "endDate": "2021-07-11"
+    },
+    {
+        "name": "VCT 2021: North America Stage 3 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/North_America/Stage_3/Challengers_1",
+        "prize": "50000",
+        "location": "Online, North America",
+        "participants": 8,
+        "winner": [
+            "Sentinels"
+        ],
+        "runnerUp": [
+            "XSET"
+        ],
+        "tier": "A",
+        "startDate": "2021-07-08",
+        "endDate": "2021-07-11"
+    },
+    {
+        "name": "VCT 2021: Hong Kong & Taiwan Stage 3 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_3/Challengers_1/Hong_Kong_and_Taiwan",
+        "prize": "5000",
+        "location": "Online, Hong Kong",
+        "participants": 8,
+        "winner": [
+            "Griffin E-Sports"
+        ],
+        "runnerUp": [
+            "Five Ace e-Sports"
+        ],
+        "tier": "C",
+        "startDate": "2021-07-09",
+        "endDate": "2021-07-11"
+    },
+    {
+        "name": "VCT 2021: Malaysia & Singapore Stage 3 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_3/Challengers_1/Malaysia_and_Singapore",
+        "prize": "3030.98",
+        "location": "Online, Malaysia",
+        "participants": 8,
+        "winner": [
+            "Paper Rex"
+        ],
+        "runnerUp": [
+            "UwU"
+        ],
+        "tier": "C",
+        "startDate": "2021-07-09",
+        "endDate": "2021-07-11"
+    },
+    {
+        "name": "VCT 2021: CIS Stage 3 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/CIS/Stage_3/Challengers_1",
+        "prize": "21379.96",
+        "location": "Online, CIS",
+        "participants": 8,
+        "winner": [
+            "Gambit Esports"
+        ],
+        "runnerUp": [
+            "No Pressure"
+        ],
+        "tier": "B",
+        "startDate": "2021-07-06",
+        "endDate": "2021-07-10"
+    },
+    {
+        "name": "VCT 2021: Turkey Stage 3 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Turkey/Stage_3/Challengers_1",
+        "prize": "21379.96",
+        "location": "Online, Turkey",
+        "participants": 8,
+        "winner": [
+            "SuperMassive Blaze"
+        ],
+        "runnerUp": [
+            "Oxygen Esports"
+        ],
+        "tier": "B",
+        "startDate": "2021-07-06",
+        "endDate": "2021-07-10"
+    },
+    {
+        "name": "VCT 2021: LAS Stage 3 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Latin_America/Stage_3/Challengers_1/South",
+        "prize": "4500",
+        "location": "Online, Latin America South",
+        "participants": 8,
+        "winner": [
+            "KRÜ Esports"
+        ],
+        "runnerUp": [
+            "Australs"
+        ],
+        "tier": "C",
+        "startDate": "2021-06-29",
+        "endDate": "2021-07-04"
+    },
+    {
+        "name": "VCT 2021: Stage 2 Masters - Reykjavík",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Stage_2/Masters",
+        "prize": "600000",
+        "location": "Reykjavík, Iceland",
+        "participants": 10,
+        "winner": [
+            "Sentinels"
+        ],
+        "runnerUp": [
+            "Fnatic"
+        ],
+        "tier": "S",
+        "startDate": "2021-05-24",
+        "endDate": "2021-05-30"
+    },
+    {
+        "name": "VCT 2021: Latin America Stage 2 Challengers Finals",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Latin_America/Stage_2/Challengers_Finals",
+        "prize": "20000",
+        "location": "Mexico City, Mexico",
+        "participants": 8,
+        "winner": [
+            "KRÜ Esports"
+        ],
+        "runnerUp": [
+            "Infinity Esports"
+        ],
+        "tier": "B",
+        "startDate": "2021-04-27",
+        "endDate": "2021-05-12"
+    },
+    {
+        "name": "VCT 2021: Brazil Stage 2 Challengers Finals",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Brazil/Stage_2/Challengers_Finals",
+        "prize": "32463.17",
+        "location": "Online, Brazil",
+        "participants": 8,
+        "winner": [
+            "Team Vikings"
+        ],
+        "runnerUp": [
+            "Sharks Esports"
+        ],
+        "tier": "B",
+        "startDate": "2021-04-30",
+        "endDate": "2021-05-09"
+    },
+    {
+        "name": "VCT 2021: Korea Stage 2 Challengers",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Korea/Stage_2/Challengers",
+        "prize": "58152.07",
+        "location": "Korea, South Korea",
+        "participants": 28,
+        "winner": [
+            "NUTURN Gaming"
+        ],
+        "runnerUp": [
+            "DAMWON Gaming"
+        ],
+        "tier": "A",
+        "startDate": "2021-04-03",
+        "endDate": "2021-05-02"
+    },
+    {
+        "name": "VCT 2021: EMEA Stage 2 Challengers Finals",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/EMEA/Stage_2/Challengers_Finals",
+        "prize": "105837.54",
+        "location": "Online, Europe",
+        "participants": 8,
+        "winner": [
+            "Team Liquid"
+        ],
+        "runnerUp": [
+            "Fnatic"
+        ],
+        "tier": "A",
+        "startDate": "2021-04-23",
+        "endDate": "2021-05-02"
+    },
+    {
+        "name": "VCT 2021: Japan Stage 2 Challengers Finals",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Japan/Stage_2/Challengers_Finals",
+        "prize": "18295.5",
+        "location": "Online, Japan",
+        "participants": 8,
+        "winner": [
+            "Crazy Raccoon"
+        ],
+        "runnerUp": [
+            "Absolute JUPITER"
+        ],
+        "tier": "B",
+        "startDate": "2021-04-29",
+        "endDate": "2021-05-02"
+    },
+    {
+        "name": "VCT 2021: North America Stage 2 Challengers Finals",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/North_America/Stage_2/Challengers_Finals",
+        "prize": "100000",
+        "location": "Online, North America",
+        "participants": 8,
+        "winner": [
+            "Sentinels"
+        ],
+        "runnerUp": [
+            "Version1"
+        ],
+        "tier": "A",
+        "startDate": "2021-04-29",
+        "endDate": "2021-05-02"
+    },
+    {
+        "name": "VCT 2021: Southeast Asia Stage 2 Challengers Finals",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_2/Challengers_Finals",
+        "prize": "50000",
+        "location": "Online, Southeast Asia",
+        "participants": 10,
+        "winner": [
+            "X10 Esports"
+        ],
+        "runnerUp": [
+            "FULL SENSE"
+        ],
+        "tier": "A",
+        "startDate": "2021-04-29",
+        "endDate": "2021-05-02"
+    },
+    {
+        "name": "VCT 2021: Brazil Stage 2 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Brazil/Stage_2/Challengers_3",
+        "prize": "9196.41",
+        "location": "Online, Brazil",
+        "participants": 8,
+        "winner": [
+            "INGAMING Esports",
+            "SLICK"
+        ],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-04-23",
+        "endDate": "2021-04-26"
+    },
+    {
+        "name": "VCT 2021: LAS Stage 2 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Latin_America/Stage_2/Challengers_2/South",
+        "prize": "4500",
+        "location": "Online, Latin America South",
+        "participants": 8,
+        "winner": [
+            "ATROPELADOS"
+        ],
+        "runnerUp": [
+            "Meta Gaming"
+        ],
+        "tier": "B",
+        "startDate": "2021-04-20",
+        "endDate": "2021-04-25"
+    },
+    {
+        "name": "VCT 2021: LAN Stage 2 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Latin_America/Stage_2/Challengers_2/North",
+        "prize": "4500",
+        "location": "Online, Latin America North",
+        "participants": 8,
+        "winner": [
+            "Border Monsters"
+        ],
+        "runnerUp": [
+            "Six Karma"
+        ],
+        "tier": "B",
+        "startDate": "2021-04-20",
+        "endDate": "2021-04-25"
+    },
+    {
+        "name": "VCT 2021: Japan Stage 2 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Japan/Stage_2/Challengers_2",
+        "prize": "",
+        "location": "Online, Japan",
+        "participants": 8,
+        "winner": [
+            "FAV gaming",
+            "REJECT"
+        ],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-04-24",
+        "endDate": "2021-04-25"
+    },
+    {
+        "name": "VCT 2021: Vietnam Stage 2 Challengers",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_2/Vietnam",
+        "prize": "23042.29",
+        "location": "Hà Nội, Vietnam",
+        "participants": 12,
+        "winner": [
+            "CERBERUS Esports"
+        ],
+        "runnerUp": [
+            "FearUs"
+        ],
+        "tier": "B",
+        "startDate": "2021-04-20",
+        "endDate": "2021-04-25"
+    },
+    {
+        "name": "VCT 2021: Thailand Stage 2 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_2/Challengers_2/Thailand",
+        "prize": "4296.04",
+        "location": "Online, Thailand",
+        "participants": 8,
+        "winner": [
+            "FULL SENSE"
+        ],
+        "runnerUp": [
+            "Sharper Esport"
+        ],
+        "tier": "C",
+        "startDate": "2021-04-23",
+        "endDate": "2021-04-25"
+    },
+    {
+        "name": "VCT 2021: Indonesia Stage 2 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_2/Challengers_3/Indonesia",
+        "prize": "4333.16",
+        "location": "Online, Indonesia",
+        "participants": 8,
+        "winner": [
+            "BOOM Esports"
+        ],
+        "runnerUp": [
+            "Bigetron Astro"
+        ],
+        "tier": "C",
+        "startDate": "2021-04-23",
+        "endDate": "2021-04-25"
+    },
+    {
+        "name": "VCT 2021: Philippines Stage 2 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_2/Challengers_3/Philippines",
+        "prize": "4246.82",
+        "location": "Online, Philippines",
+        "participants": 8,
+        "winner": [
+            "6045pirates"
+        ],
+        "runnerUp": [
+            "Hashira"
+        ],
+        "tier": "C",
+        "startDate": "2021-04-23",
+        "endDate": "2021-04-25"
+    },
+    {
+        "name": "VCT 2021: North America Stage 2 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/North_America/Stage_2/Challengers_2",
+        "prize": "50000",
+        "location": "Online, North America",
+        "participants": 8,
+        "winner": [
+            "Sentinels"
+        ],
+        "runnerUp": [
+            "Cloud9 Blue"
+        ],
+        "tier": "A",
+        "startDate": "2021-04-22",
+        "endDate": "2021-04-25"
+    },
+    {
+        "name": "VCT 2021: Hong Kong & Taiwan Stage 2 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_2/Challengers_3/Hong_Kong_and_Taiwan",
+        "prize": "10000",
+        "location": "Online, Hong Kong",
+        "participants": 8,
+        "winner": [
+            "CBT Gaming"
+        ],
+        "runnerUp": [
+            "KPC"
+        ],
+        "tier": "C",
+        "startDate": "2021-04-23",
+        "endDate": "2021-04-25"
+    },
+    {
+        "name": "VCT 2021: Malaysia & Singapore Stage 2 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_2/Challengers_3/Malaysia_and_Singapore",
+        "prize": "3084.93",
+        "location": "Online, Malaysia",
+        "participants": 8,
+        "winner": [
+            "Paper Rex"
+        ],
+        "runnerUp": [
+            "Team SMG"
+        ],
+        "tier": "C",
+        "startDate": "2021-04-23",
+        "endDate": "2021-04-25"
+    },
+    {
+        "name": "VCT 2021: CIS Stage 2 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/CIS/Stage_2/Challengers_2",
+        "prize": "21548.71",
+        "location": "Online, CIS",
+        "participants": 8,
+        "winner": [
+            "Gambit Esports"
+        ],
+        "runnerUp": [
+            "One Breath Gaming"
+        ],
+        "tier": "B",
+        "startDate": "2021-04-15",
+        "endDate": "2021-04-18"
+    },
+    {
+        "name": "VCT 2021: Brazil Stage 2 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Brazil/Stage_2/Challengers_2",
+        "prize": "8948.61",
+        "location": "Online, Brazil",
+        "participants": 8,
+        "winner": [
+            "FURIA Esports",
+            "Gamelanders Blue"
+        ],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-04-10",
+        "endDate": "2021-04-18"
+    },
+    {
+        "name": "VCT 2021: Europe Stage 2 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Europe/Stage_2/Challengers_2",
+        "prize": "41900.26",
+        "location": "Online, Europe",
+        "participants": 8,
+        "winner": [
+            "Fnatic"
+        ],
+        "runnerUp": [
+            "Team Liquid"
+        ],
+        "tier": "A",
+        "startDate": "2021-04-15",
+        "endDate": "2021-04-18"
+    },
+    {
+        "name": "VCT 2021: Turkey Stage 2 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Turkey/Stage_2/Challengers_2",
+        "prize": "21548.71",
+        "location": "Online, Turkey",
+        "participants": 8,
+        "winner": [
+            "BBL Esports"
+        ],
+        "runnerUp": [
+            "Anatolia Esports"
+        ],
+        "tier": "B",
+        "startDate": "2021-04-15",
+        "endDate": "2021-04-18"
+    },
+    {
+        "name": "VCT 2021: Indonesia Stage 2 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_2/Challengers_2/Indonesia",
+        "prize": "4327.12",
+        "location": "Online, Indonesia",
+        "participants": 8,
+        "winner": [
+            "Team nxl"
+        ],
+        "runnerUp": [
+            "Bigetron Astro"
+        ],
+        "tier": "C",
+        "startDate": "2021-04-16",
+        "endDate": "2021-04-18"
+    },
+    {
+        "name": "VCT 2021: Philippines Stage 2 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_2/Challengers_2/Philippines",
+        "prize": "4236.86",
+        "location": "Online, Philippines",
+        "participants": 8,
+        "winner": [
+            "Bren Esports"
+        ],
+        "runnerUp": [
+            "SV Empire"
+        ],
+        "tier": "C",
+        "startDate": "2021-04-16",
+        "endDate": "2021-04-18"
+    },
+    {
+        "name": "VCT 2021: Hong Kong & Taiwan Stage 2 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_2/Challengers_2/Hong_Kong_and_Taiwan",
+        "prize": "5000",
+        "location": "Online, Hong Kong",
+        "participants": 8,
+        "winner": [
+            "CBT Gaming"
+        ],
+        "runnerUp": [
+            "KPC"
+        ],
+        "tier": "C",
+        "startDate": "2021-04-16",
+        "endDate": "2021-04-18"
+    },
+    {
+        "name": "VCT 2021: Malaysia & Singapore Stage 2 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_2/Challengers_2/Malaysia_and_Singapore",
+        "prize": "3067.88",
+        "location": "Online, Malaysia",
+        "participants": 8,
+        "winner": [
+            "Paper Rex"
+        ],
+        "runnerUp": [
+            "Louvre"
+        ],
+        "tier": "C",
+        "startDate": "2021-04-16",
+        "endDate": "2021-04-18"
+    },
+    {
+        "name": "VCT 2021: LAN Stage 2 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Latin_America/Stage_2/Challengers_1/North",
+        "prize": "4500",
+        "location": "Online, Latin America North",
+        "participants": 8,
+        "winner": [
+            "Infinity Esports"
+        ],
+        "runnerUp": [
+            "LAZER"
+        ],
+        "tier": "B",
+        "startDate": "2021-04-06",
+        "endDate": "2021-04-11"
+    },
+    {
+        "name": "VCT 2021: LAS Stage 2 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Latin_America/Stage_2/Challengers_1/South",
+        "prize": "4500",
+        "location": "Online, Latin America South",
+        "participants": 8,
+        "winner": [
+            "KRÜ Esports"
+        ],
+        "runnerUp": [
+            "9z Team"
+        ],
+        "tier": "B",
+        "startDate": "2021-04-06",
+        "endDate": "2021-04-11"
+    },
+    {
+        "name": "VCT 2021: Japan Stage 2 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Japan/Stage_2/Challengers_1",
+        "prize": "",
+        "location": "Online, Japan",
+        "participants": 8,
+        "winner": [
+            "Absolute JUPITER",
+            "Northeption"
+        ],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-04-10",
+        "endDate": "2021-04-11"
+    },
+    {
+        "name": "VCT 2021: North America Stage 2 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/North_America/Stage_2/Challengers_1",
+        "prize": "50000",
+        "location": "Online, North America",
+        "participants": 8,
+        "winner": [
+            "100 Thieves"
+        ],
+        "runnerUp": [
+            "XSET"
+        ],
+        "tier": "A",
+        "startDate": "2021-04-08",
+        "endDate": "2021-04-11"
+    },
+    {
+        "name": "VCT 2021: CIS Stage 2 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/CIS/Stage_2/Challengers_1",
+        "prize": "21421.43",
+        "location": "Online, CIS",
+        "participants": 8,
+        "winner": [
+            "forZe"
+        ],
+        "runnerUp": [
+            "CrowCrowd"
+        ],
+        "tier": "B",
+        "startDate": "2021-04-06",
+        "endDate": "2021-04-09"
+    },
+    {
+        "name": "VCT 2021: Europe Stage 2 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Europe/Stage_2/Challengers_1",
+        "prize": "41652.78",
+        "location": "Online, Europe",
+        "participants": 8,
+        "winner": [
+            "FunPlus Phoenix"
+        ],
+        "runnerUp": [
+            "Guild Esports"
+        ],
+        "tier": "A",
+        "startDate": "2021-04-06",
+        "endDate": "2021-04-09"
+    },
+    {
+        "name": "VCT 2021: Turkey Stage 2 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Turkey/Stage_2/Challengers_1",
+        "prize": "21421.43",
+        "location": "Online, Turkey",
+        "participants": 8,
+        "winner": [
+            "Futbolist"
+        ],
+        "runnerUp": [
+            "Oxygen Esports"
+        ],
+        "tier": "B",
+        "startDate": "2021-04-06",
+        "endDate": "2021-04-09"
+    },
+    {
+        "name": "VCT 2021: Philippines Stage 2 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_2/Challengers_1/Philippines",
+        "prize": "2884.51",
+        "location": "Online, Philippines",
+        "participants": 8,
+        "winner": [
+            "Hashira"
+        ],
+        "runnerUp": [
+            "Bren Esports"
+        ],
+        "tier": "C",
+        "startDate": "2021-04-04",
+        "endDate": "2021-04-06"
+    },
+    {
+        "name": "VCT 2021: Brazil Stage 2 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Brazil/Stage_2/Challengers_1",
+        "prize": "8756.85",
+        "location": "Online, Brazil",
+        "participants": 8,
+        "winner": [
+            "FURIA Esports",
+            "Team Vikings"
+        ],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-03-27",
+        "endDate": "2021-04-04"
+    },
+    {
+        "name": "VCT 2021: Thailand Stage 2 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_2/Challengers_1/Thailand",
+        "prize": "4320.39",
+        "location": "Online, Thailand",
+        "participants": 8,
+        "winner": [
+            "X10 Esports"
+        ],
+        "runnerUp": [
+            "Sharper Esport"
+        ],
+        "tier": "C",
+        "startDate": "2021-04-02",
+        "endDate": "2021-04-04"
+    },
+    {
+        "name": "VCT 2021: Indonesia Stage 2 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_2/Challengers_1/Indonesia",
+        "prize": "1651.35",
+        "location": "Online, Indonesia",
+        "participants": 8,
+        "winner": [
+            "BOOM Esports"
+        ],
+        "runnerUp": [
+            "Alter Ego"
+        ],
+        "tier": "C",
+        "startDate": "2021-04-02",
+        "endDate": "2021-04-04"
+    },
+    {
+        "name": "VCT 2021: Hong Kong & Taiwan Stage 2 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_2/Challengers_1/Hong_Kong_and_Taiwan",
+        "prize": "5000",
+        "location": "Online, Hong Kong",
+        "participants": 8,
+        "winner": [
+            "CBT Gaming"
+        ],
+        "runnerUp": [
+            "KPC"
+        ],
+        "tier": "C",
+        "startDate": "2021-04-02",
+        "endDate": "2021-04-04"
+    },
+    {
+        "name": "VCT 2021: Malaysia & Singapore Stage 2 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_2/Challengers_1/Malaysia_and_Singapore",
+        "prize": "3041.42",
+        "location": "Online, Malaysia",
+        "participants": 8,
+        "winner": [
+            "Kingsmen"
+        ],
+        "runnerUp": [
+            "Paper Rex"
+        ],
+        "tier": "C",
+        "startDate": "2021-04-02",
+        "endDate": "2021-04-04"
+    },
+    {
+        "name": "VCT 2021: CIS Stage 1 Masters",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/CIS/Stage_1/Masters",
+        "prize": "75000",
+        "location": "Online, CIS",
+        "participants": 8,
+        "winner": [
+            "Gambit Esports"
+        ],
+        "runnerUp": [
+            "forZe"
+        ],
+        "tier": "A",
+        "startDate": "2021-03-12",
+        "endDate": "2021-03-21"
+    },
+    {
+        "name": "VCT 2021: Korea  Stage 1 Masters",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Korea/Stage_1/Masters",
+        "prize": "100000",
+        "location": "Seoul, South Korea",
+        "participants": 8,
+        "winner": [
+            "Vision Strikers"
+        ],
+        "runnerUp": [
+            "NUTURN Gaming"
+        ],
+        "tier": "A",
+        "startDate": "2021-03-12",
+        "endDate": "2021-03-21"
+    },
+    {
+        "name": "VCT 2021: Japan  Stage 1 Masters",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Japan/Stage_1/Masters",
+        "prize": "45921.27",
+        "location": "Online, Japan",
+        "participants": 8,
+        "winner": [
+            "Crazy Raccoon"
+        ],
+        "runnerUp": [
+            "Absolute JUPITER"
+        ],
+        "tier": "A",
+        "startDate": "2021-03-13",
+        "endDate": "2021-03-21"
+    },
+    {
+        "name": "VCT 2021: Europe Stage 1 Masters",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Europe/Stage_1/Masters",
+        "prize": "150000",
+        "location": "Online, Europe",
+        "participants": 8,
+        "winner": [
+            "Acend"
+        ],
+        "runnerUp": [
+            "Team Heretics"
+        ],
+        "tier": "A",
+        "startDate": "2021-03-12",
+        "endDate": "2021-03-21"
+    },
+    {
+        "name": "VCT 2021: Turkey Stage 1 Masters",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Turkey/Stage_1/Masters",
+        "prize": "75000",
+        "location": "Online, Turkey",
+        "participants": 8,
+        "winner": [
+            "Futbolist"
+        ],
+        "runnerUp": [
+            "BBL Esports"
+        ],
+        "tier": "A",
+        "startDate": "2021-03-12",
+        "endDate": "2021-03-21"
+    },
+    {
+        "name": "VCT 2021: Brazil  Stage 1 Masters",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Brazil/Stage_1/Masters",
+        "prize": "45538.03",
+        "location": "Online, Brazil",
+        "participants": 8,
+        "winner": [
+            "Team Vikings"
+        ],
+        "runnerUp": [
+            "Gamelanders Blue"
+        ],
+        "tier": "A",
+        "startDate": "2021-03-13",
+        "endDate": "2021-03-21"
+    },
+    {
+        "name": "VCT 2021: LATAM South Stage 1 Masters",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Latin_America/Stage_1/Masters/South",
+        "prize": "30000",
+        "location": "Online, Latin America South",
+        "participants": 8,
+        "winner": [
+            "Australs"
+        ],
+        "runnerUp": [
+            "Wygers Argentina"
+        ],
+        "tier": "B",
+        "startDate": "2021-03-15",
+        "endDate": "2021-03-21"
+    },
+    {
+        "name": "VCT 2021: North America  Stage 1 Masters",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/North_America/Stage_1/Masters",
+        "prize": "150000",
+        "location": "Online, North America",
+        "participants": 8,
+        "winner": [
+            "Sentinels"
+        ],
+        "runnerUp": [
+            "FaZe Clan"
+        ],
+        "tier": "A",
+        "startDate": "2021-03-11",
+        "endDate": "2021-03-21"
+    },
+    {
+        "name": "VCT 2021: Southeast Asia  Stage 1 Masters",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_1/Masters",
+        "prize": "50000",
+        "location": "Online, Southeast Asia",
+        "participants": 8,
+        "winner": [
+            "X10 Esports"
+        ],
+        "runnerUp": [
+            "Team SMG"
+        ],
+        "tier": "A",
+        "startDate": "2021-03-19",
+        "endDate": "2021-03-21"
+    },
+    {
+        "name": "VCT 2021: LATAM North Stage 1 Masters",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Latin_America/Stage_1/Masters/North",
+        "prize": "30000",
+        "location": "Online, Latin America North",
+        "participants": 8,
+        "winner": [
+            "LDM Esports"
+        ],
+        "runnerUp": [
+            "LAZER"
+        ],
+        "tier": "B",
+        "startDate": "2021-03-08",
+        "endDate": "2021-03-14"
+    },
+    {
+        "name": "VCT 2021: Thailand Stage 1 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_1/Challengers_3/Thailand",
+        "prize": "2929.78",
+        "location": "Online, Thailand",
+        "participants": 8,
+        "winner": [
+            "X10 Esports"
+        ],
+        "runnerUp": [
+            "Made in Thailand"
+        ],
+        "tier": "C",
+        "startDate": "2021-03-12",
+        "endDate": "2021-03-14"
+    },
+    {
+        "name": "VCT 2021: Indonesia Stage 1 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_1/Challengers_3/Indonesia",
+        "prize": "5506.35",
+        "location": "Online, Indonesia",
+        "participants": 8,
+        "winner": [
+            "BOOM Esports"
+        ],
+        "runnerUp": [
+            "Alter Ego"
+        ],
+        "tier": "C",
+        "startDate": "2021-03-12",
+        "endDate": "2021-03-14"
+    },
+    {
+        "name": "VCT 2021: Hong Kong & Taiwan Stage 1 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_1/Challengers_3/Hong_Kong_and_Taiwan",
+        "prize": "12000",
+        "location": "Online, Hong Kong",
+        "participants": 8,
+        "winner": [
+            "Looking For Sponsor"
+        ],
+        "runnerUp": [
+            "Five Ace e-Sports"
+        ],
+        "tier": "C",
+        "startDate": "2021-03-12",
+        "endDate": "2021-03-14"
+    },
+    {
+        "name": "VCT 2021: Malaysia & Singapore Stage 1 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_1/Challengers_3/Malaysia_and_Singapore",
+        "prize": "2464.49",
+        "location": "Online, Malaysia",
+        "participants": 8,
+        "winner": [
+            "Timing Monster Gaming"
+        ],
+        "runnerUp": [
+            "Team SMG"
+        ],
+        "tier": "C",
+        "startDate": "2021-03-12",
+        "endDate": "2021-03-14"
+    },
+    {
+        "name": "VCT 2021: CIS Stage 1 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/CIS/Stage_1/Challengers_3",
+        "prize": "20859.58",
+        "location": "Online, CIS",
+        "participants": 8,
+        "winner": [],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-03-06",
+        "endDate": "2021-03-07"
+    },
+    {
+        "name": "VCT 2021: Korea Stage 1 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Korea/Stage_1/Challengers_3",
+        "prize": "17728.65",
+        "location": "Online, South Korea",
+        "participants": 8,
+        "winner": [
+            "APEX PEOPLE",
+            "DAMWON Gaming"
+        ],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-03-04",
+        "endDate": "2021-03-07"
+    },
+    {
+        "name": "VCT 2021: Japan Stage 1 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Japan/Stage_1/Challengers_3",
+        "prize": "",
+        "location": "Online, Japan",
+        "participants": 8,
+        "winner": [
+            "FENNEL",
+            "REJECT"
+        ],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-03-06",
+        "endDate": "2021-03-07"
+    },
+    {
+        "name": "VCT 2021: Europe Stage 1 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Europe/Stage_1/Challengers_3",
+        "prize": "41719.16",
+        "location": "Online, Europe",
+        "participants": 8,
+        "winner": [],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-03-06",
+        "endDate": "2021-03-07"
+    },
+    {
+        "name": "VCT 2021: Turkey Stage 1 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Turkey/Stage_1/Challengers_3",
+        "prize": "20859.58",
+        "location": "Online, Turkey",
+        "participants": 8,
+        "winner": [],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-03-06",
+        "endDate": "2021-03-07"
+    },
+    {
+        "name": "VCT 2021: Philippines Stage 1 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_1/Challengers_3/Philippines",
+        "prize": "2674.84",
+        "location": "Online, Philippines",
+        "participants": 8,
+        "winner": [
+            "ArkAngel"
+        ],
+        "runnerUp": [
+            "The First Order"
+        ],
+        "tier": "C",
+        "startDate": "2021-03-05",
+        "endDate": "2021-03-07"
+    },
+    {
+        "name": "VCT 2021: North America Stage 1 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/North_America/Stage_1/Challengers_3",
+        "prize": "50000",
+        "location": "Online, North America",
+        "participants": 8,
+        "winner": [
+            "FaZe Clan"
+        ],
+        "runnerUp": [
+            "100 Thieves"
+        ],
+        "tier": "A",
+        "startDate": "2021-03-04",
+        "endDate": "2021-03-07"
+    },
+    {
+        "name": "VCT 2021: Brazil Stage 1 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Brazil/Stage_1/Challengers_3",
+        "prize": "8785.65",
+        "location": "Online, Brazil",
+        "participants": 8,
+        "winner": [
+            "Imperial Esports",
+            "Squad5"
+        ],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-02-27",
+        "endDate": "2021-03-06"
+    },
+    {
+        "name": "VCT 2021: LAN Stage 1 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Latin_America/Stage_1/Challengers_3/North",
+        "prize": "4500",
+        "location": "Online, Latin America North",
+        "participants": 8,
+        "winner": [
+            "Akave Esports"
+        ],
+        "runnerUp": [
+            "Kaizen Esports"
+        ],
+        "tier": "B",
+        "startDate": "2021-02-23",
+        "endDate": "2021-02-28"
+    },
+    {
+        "name": "VCT 2021: LAS Stage 1 Challengers 3",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Latin_America/Stage_1/Challengers_3/South",
+        "prize": "4500",
+        "location": "Online, Latin America South",
+        "participants": 8,
+        "winner": [
+            "Stampede Gaming"
+        ],
+        "runnerUp": [
+            "9z Team"
+        ],
+        "tier": "B",
+        "startDate": "2021-02-23",
+        "endDate": "2021-02-28"
+    },
+    {
+        "name": "VCT 2021: CIS Stage 1 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/CIS/Stage_1/Challengers_2",
+        "prize": "21132.48",
+        "location": "Online, CIS",
+        "participants": 8,
+        "winner": [],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-02-27",
+        "endDate": "2021-02-28"
+    },
+    {
+        "name": "VCT 2021: Japan Stage 1 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Japan/Stage_1/Challengers_2",
+        "prize": "",
+        "location": "Online, Japan",
+        "participants": 8,
+        "winner": [
+            "Absolute JUPITER",
+            "Crazy Raccoon"
+        ],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-02-27",
+        "endDate": "2021-02-28"
+    },
+    {
+        "name": "VCT 2021: Turkey Stage 1 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Turkey/Stage_1/Challengers_2",
+        "prize": "21132.48",
+        "location": "Online, Turkey",
+        "participants": 8,
+        "winner": [],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-02-27",
+        "endDate": "2021-02-28"
+    },
+    {
+        "name": "VCT 2021: Thailand Stage 1 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_1/Challengers_2/Thailand",
+        "prize": "2953.73",
+        "location": "Online, Thailand",
+        "participants": 8,
+        "winner": [
+            "NG.Black"
+        ],
+        "runnerUp": [
+            "X10 Esports"
+        ],
+        "tier": "C",
+        "startDate": "2021-02-26",
+        "endDate": "2021-02-28"
+    },
+    {
+        "name": "VCT 2021: Indonesia Stage 1 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_1/Challengers_2/Indonesia",
+        "prize": "5525.76",
+        "location": "Online, Indonesia",
+        "participants": 8,
+        "winner": [
+            "Team nxl"
+        ],
+        "runnerUp": [
+            "BOOM Esports"
+        ],
+        "tier": "C",
+        "startDate": "2021-02-26",
+        "endDate": "2021-02-28"
+    },
+    {
+        "name": "VCT 2021: Hong Kong & Taiwan Stage 1 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_1/Challengers_2/Hong_Kong_and_Taiwan",
+        "prize": "5000",
+        "location": "Online, Hong Kong",
+        "participants": 8,
+        "winner": [
+            "Anti Eco Eco Club"
+        ],
+        "runnerUp": [
+            "Looking For Sponsor"
+        ],
+        "tier": "C",
+        "startDate": "2021-02-26",
+        "endDate": "2021-02-28"
+    },
+    {
+        "name": "VCT 2021: Malaysia & Singapore Stage 1 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_1/Challengers_2/Malaysia_and_Singapore",
+        "prize": "2488.63",
+        "location": "Online, Malaysia",
+        "participants": 8,
+        "winner": [
+            "JustLose"
+        ],
+        "runnerUp": [
+            "Reality Rift"
+        ],
+        "tier": "C",
+        "startDate": "2021-02-26",
+        "endDate": "2021-02-28"
+    },
+    {
+        "name": "VCT 2021: North America Stage 1 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/North_America/Stage_1/Challengers_2",
+        "prize": "50000",
+        "location": "Online, North America",
+        "participants": 8,
+        "winner": [
+            "Team Envy"
+        ],
+        "runnerUp": [
+            "Sentinels"
+        ],
+        "tier": "A",
+        "startDate": "2021-02-20",
+        "endDate": "2021-02-23"
+    },
+    {
+        "name": "VCT 2021: Japan Stage 1 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Japan/Stage_1/Challengers_1",
+        "prize": "",
+        "location": "Online, Japan",
+        "participants": 8,
+        "winner": [
+            "Absolute JUPITER",
+            "REJECT"
+        ],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-02-20",
+        "endDate": "2021-02-21"
+    },
+    {
+        "name": "VCT 2021: Korea Stage 1 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Korea/Stage_1/Challengers_2",
+        "prize": "18088.45",
+        "location": "Online, South Korea",
+        "participants": 8,
+        "winner": [
+            "Team MUYAHO",
+            "Vision Strikers"
+        ],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-02-18",
+        "endDate": "2021-02-21"
+    },
+    {
+        "name": "VCT 2021: Brazil Stage 1 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Brazil/Stage_1/Challengers_2",
+        "prize": "9288.65",
+        "location": "Online, Brazil",
+        "participants": 8,
+        "winner": [
+            "Gamelanders Blue",
+            "Vorax"
+        ],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-02-13",
+        "endDate": "2021-02-21"
+    },
+    {
+        "name": "VCT 2021: Europe Stage 1 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Europe/Stage_1/Challengers_2",
+        "prize": "42435.2",
+        "location": "Online, Europe",
+        "participants": 8,
+        "winner": [],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-02-20",
+        "endDate": "2021-02-21"
+    },
+    {
+        "name": "VCT 2021: Philippines Stage 1 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_1/Challengers_2/Philippines",
+        "prize": "4332.18",
+        "location": "Online, Philippines",
+        "participants": 8,
+        "winner": [
+            "Bren Esports"
+        ],
+        "runnerUp": [
+            "ArkAngel"
+        ],
+        "tier": "C",
+        "startDate": "2021-02-19",
+        "endDate": "2021-02-21"
+    },
+    {
+        "name": "VCT 2021: Turkey Stage 1 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Turkey/Stage_1/Challengers_1",
+        "prize": "12128.97",
+        "location": "Online, Turkey",
+        "participants": 8,
+        "winner": [],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-02-13",
+        "endDate": "2021-02-15"
+    },
+    {
+        "name": "VCT 2021: LAN Stage 1 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Latin_America/Stage_1/Challengers_2/North",
+        "prize": "4500",
+        "location": "Online, Latin America North",
+        "participants": 8,
+        "winner": [
+            "LDM Esports"
+        ],
+        "runnerUp": [
+            "LazerKlan"
+        ],
+        "tier": "B",
+        "startDate": "2021-02-09",
+        "endDate": "2021-02-14"
+    },
+    {
+        "name": "VCT 2021: LAS Stage 1 Challengers 2",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Latin_America/Stage_1/Challengers_2/South",
+        "prize": "4500",
+        "location": "Online, Latin America South",
+        "participants": 8,
+        "winner": [
+            "Australs"
+        ],
+        "runnerUp": [
+            "Wygers Argentina"
+        ],
+        "tier": "B",
+        "startDate": "2021-02-09",
+        "endDate": "2021-02-14"
+    },
+    {
+        "name": "VCT 2021: CIS Stage 1 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/CIS/Stage_1/Challengers_1",
+        "prize": "12124.18",
+        "location": "Online, CIS",
+        "participants": 8,
+        "winner": [],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-02-13",
+        "endDate": "2021-02-14"
+    },
+    {
+        "name": "VCT 2021: Korea Stage 1 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Korea/Stage_1/Challengers_1",
+        "prize": "17890.17",
+        "location": "Online, South Korea",
+        "participants": 8,
+        "winner": [
+            "DAMWON Gaming",
+            "Vision Strikers"
+        ],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-02-04",
+        "endDate": "2021-02-07"
+    },
+    {
+        "name": "VCT 2021: Europe Stage 1 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Europe/Stage_1/Challengers_1",
+        "prize": "21076.64",
+        "location": "Online, Europe",
+        "participants": 8,
+        "winner": [],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-02-06",
+        "endDate": "2021-02-07"
+    },
+    {
+        "name": "VCT 2021: Brazil Stage 1 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Brazil/Stage_1/Challengers_1",
+        "prize": "9308.86",
+        "location": "Online, Brazil",
+        "participants": 8,
+        "winner": [
+            "FURIA Esports",
+            "Team Vikings"
+        ],
+        "runnerUp": [],
+        "tier": "B",
+        "startDate": "2021-01-30",
+        "endDate": "2021-02-07"
+    },
+    {
+        "name": "VCT 2021: Thailand Stage 1 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_1/Challengers_1/Thailand",
+        "prize": "2997.11",
+        "location": "Online, Thailand",
+        "participants": 8,
+        "winner": [
+            "X10 Esports"
+        ],
+        "runnerUp": [
+            "Foxy Araikordai"
+        ],
+        "tier": "C",
+        "startDate": "2021-02-05",
+        "endDate": "2021-02-07"
+    },
+    {
+        "name": "VCT 2021: Indonesia Stage 1 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_1/Challengers_1/Indonesia",
+        "prize": "2996.3",
+        "location": "Online, Indonesia",
+        "participants": 8,
+        "winner": [
+            "BOOM Esports"
+        ],
+        "runnerUp": [
+            "Alter Ego"
+        ],
+        "tier": "C",
+        "startDate": "2021-02-05",
+        "endDate": "2021-02-07"
+    },
+    {
+        "name": "VCT 2021: Philippines Stage 1 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_1/Challengers_1/Philippines",
+        "prize": "728.32",
+        "location": "Online, Philippines",
+        "participants": 8,
+        "winner": [
+            "Bren Esports"
+        ],
+        "runnerUp": [
+            "SV Empire"
+        ],
+        "tier": "C",
+        "startDate": "2021-02-05",
+        "endDate": "2021-02-07"
+    },
+    {
+        "name": "VCT 2021: North America Stage 1 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/North_America/Stage_1/Challengers_1",
+        "prize": "50000",
+        "location": "Online, North America",
+        "participants": 8,
+        "winner": [
+            "Sentinels"
+        ],
+        "runnerUp": [
+            "Immortals"
+        ],
+        "tier": "A",
+        "startDate": "2021-02-04",
+        "endDate": "2021-02-07"
+    },
+    {
+        "name": "VCT 2021: Hong Kong & Taiwan Stage 1 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_1/Challengers_1/Hong_Kong_and_Taiwan",
+        "prize": "5000",
+        "location": "Online, Hong Kong",
+        "participants": 8,
+        "winner": [
+            "Only One Word"
+        ],
+        "runnerUp": [
+            "Looking For Sponsor"
+        ],
+        "tier": "C",
+        "startDate": "2021-02-05",
+        "endDate": "2021-02-07"
+    },
+    {
+        "name": "VCT 2021: Malaysia & Singapore Stage 1 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Southeast_Asia/Stage_1/Challengers_1/Malaysia_and_Singapore",
+        "prize": "2484.49",
+        "location": "Online, Malaysia",
+        "participants": 8,
+        "winner": [
+            "Reality Rift"
+        ],
+        "runnerUp": [
+            "Team SMG"
+        ],
+        "tier": "C",
+        "startDate": "2021-02-05",
+        "endDate": "2021-02-07"
+    },
+    {
+        "name": "VCT 2021: LAS Stage 1 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Latin_America/Stage_1/Challengers_1/South",
+        "prize": "4500",
+        "location": "Online, Latin America South",
+        "participants": 8,
+        "winner": [
+            "Wygers Argentina"
+        ],
+        "runnerUp": [
+            "KRÜ Esports"
+        ],
+        "tier": "B",
+        "startDate": "2021-01-26",
+        "endDate": "2021-01-31"
+    },
+    {
+        "name": "VCT 2021: LAN Stage 1 Challengers 1",
+        "url": "https://liquipedia.net/valorant/VALORANT_Champions_Tour/2021/Latin_America/Stage_1/Challengers_1/North",
+        "prize": "4500",
+        "location": "Online, Latin America North",
+        "participants": 8,
+        "winner": [
+            "LazerKlan"
+        ],
+        "runnerUp": [
+            "LDM Esports"
+        ],
+        "tier": "B",
+        "startDate": "2021-01-26",
+        "endDate": "2021-01-31"
+    }
+]

@@ -1,0 +1,1 @@
+psql liquipedia < /home/safiqq/Seleksi-2023-Tugas-1/Data\ Storing/export/liquipedia.sql
