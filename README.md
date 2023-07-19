@@ -50,6 +50,12 @@ CREATE DATABASE IF NOT EXISTS seleksi_basdat
 Berikut contoh data JSON dari products.json
 ```json
 {
+  "Product_Code": "I-TSKBSC523O606",
+  "Product_Name": "Basic Short Sleeve Crop T-Shirt",
+  "Image_Link": "//colorbox.co.id/cdn/shop/products/I-TSKBSC523O606_BROWN_1_T.jpg?v=1688058751&width=320",
+  "Color": "Brown",
+  "Price": "59900",
+  "Details": "T-shirt lengan pendek,  Round neck,  Unfinished hemline details,  Crop length,  Regular Crop,  Material: TC,  Model menggunakan ukuran  S,  HEIGHT: 174 cm,  BUST: 84 cm,  WAIST: 60 cm,  HIPS: 89 cm"
 
 }
 
@@ -57,20 +63,55 @@ Berikut contoh data JSON dari products.json
 ```
 
 ## Struktur Basis Data (ERD and relational diagram)
-## Penjelasan Proses ERD - Relational 
+
+Sistem basis data online shop Colorbox ini disusun untuk dapat menyimpan informasi Customer (pengguna website). Customer bisa saja belum pernah melakukan transaksi ataupun mengisi keranjang (cart), hanya memiliki akun saja. Sistem basis data juga menyimpan data cart yang merupakan keranjang yang berisi total semua produk yang ingin dibeli pada session tertentu oleh suatu customer tertentu. Pada relasi cart, terdapat pula informasi mengenai order status, yang mengindikasikan apakah barang sudah dibayar, sedang dalam proses pengiriman, atau sudah terkirim. Terdapat juga relasi cart_product yang merupakan weak entity dari cart, kehadiran cart_product bergantung pada kehadiran cart. Bisa saja terdapat cart yang kosong, namun setiap cart_product pasti merujuk pada suatu cart tertentu. Setiap cart_product memiliki urutannya sendiri (dimulai dari 1) pada cart tertentu. Relasi produk berisi informasi mengenai setiap clothing items yang dijual pada situs colorbox. Barang-barang yang dapat dimasukkan ke dalam cart hanyalah barang-barang yang terdata pada relasi product saja. Berikutnya, terdapat pula relasi payment yang terbagi menjadi 3 secara disjoint yaitu e_wallet, credit card, ataupun bank_transfer. Payment hanya dapat dilakukan pada cart yang statusnya unpaid. 
+
+Berikut ini merupakan gambar dari ERD:
+
+<img src="Data Storing\design\seleksi-ERD.png">
+
+Dilakukan proses reduction untuk mengubah bentuk ERD di atas menjadi bentuk relational.
+1. Pada relasi Customer terdapat atribut address yang terdiri dari street, ward, subdistrict, city, province, dan postal code. Yang akan tercatat pada relational hanyalah penyusun dari address itu saja.
+2. Pada relasi Cart, terdapat Price_Total() yang merupakan atribut turunan. Atribut ini akan dihapus pada relational
+3. Hubungan antara cart dan customer adalah many to one dengan partisipasi total pada Cart. Oleh karena itu, pada relasi Cart, ditambahkan atribut Customer_ID yang merupakan primary key pada Customer
+4. Relasi Cart_Product merupakan weak entity dari Cart sehingga pada model relational, relasi Cart_Product akan ketambahan atribut Car_ID yang merupakan primary key dari Cart. Atribut Cart_ID ikut menjadi primary key pada relasi Cart_Product, selain Order_Number
+5. Relasi Cart_Product memiliki hubungan many to one dengan relasi Product, dengan partisipasi total pada Cart_Product. Oleh karena itu, relasi Cart_Product ketambahan 1 atribut baru yaitu Product_Code yang merupakan primary key dari Product
+6. Relasi Cart memiliki hubungan one to one dengan relasi Payment dengan partisipasi total pada Payment. Hal ini membuat pada model relational, relasi payment ketambahan 1 atribut baru yaitu Cart_ID yang merupakan primary key dari Cart.
+7. Relasi Credit_Cart, E_Wallet, dan Bank_Transfer berturut-turut akan ketambahan 1 atribut baru yaitu Payment_ID yang merupakan primary key dari Payment.
+
+Berikut ini merupakan model relational yang terbentuk:
+
+<img src = "Data Storing\design\seleksi-Relational.png">
+
 ## Screenshot program
+
+Berikut ini merupakan beberapa screenshot code scraping yang code lengkapnya dapat dilihat pada `Data Scraping/src/scrape_lib.py` dan `Data Scraping/src/scrape_main.py`
+
+<img src = "Data Scraping\screenshot\getHTMLText.png">
+<img src = "Data Scraping\screenshot\getListOfTupleDatta.png">
+<img src = "Data Scraping\screenshot\jsonStoring.png">
+
+
+Berikut ini beberapa screenshot ketika code `scrape_main.py` dijalankan
+
+<img src = "Data Scraping\screenshot\scraping1.png">
+<img src = "Data Scraping\screenshot\scraping2.png">
+
+
+Berikut screenshot table product pada DBMS yang telah dibuat
+<img src = "Data Storing\screenshot\product.png">
+
+Code untuk storing data selengkapnya dapat ditemukan pada `Data Scraping/src/db.py`
+
+
+
 ## Reference
--BeautifulSoup
-
--jsonpickle
-
--time
-
--selenium
-
--json
-
--psycopg2
+1. BeautifulSoup
+2. jsonpickle
+3. time
+4. selenium
+5. json
+6. psycopg2
 
 ## Author
 Kandida Edgina Gunawan (13521155)
