@@ -170,5 +170,20 @@ The ERD is translated into a relational model, providing a structured representa
     - ```playerID``` as the foreign key referencing the ```playerID``` attribute in the ```players``` table
     - ```posID``` as the foreign key referencing the ```posID``` attribute in the ```positions``` table
 
+## Player's Colour Type View
+The player's colour type view is created to make it easier to identify the player rating's category. 
+
+<img src="Data Storing\screenshot\playercolour.png" alt="Player's Colour">
+
+## Screenshots
+### Data Scraping
+<img src="Data Scraping\screenshot\scraping.png" alt="Scraping Data">
+
+### Data Storing
+<img src="Data Storing\screenshot\playerposition.png" alt="Player's Position">
+<img src="Data Storing\screenshot\players.png" alt="Players">
+<img src="Data Storing\screenshot\positions.png" alt="Positions">
+<img src="Data Storing\screenshot\teams.png" alt="Teams">
+
 ## Author
 [Kenny Benaya Nathan](https://github.com/kennypanjaitan) - 13521023
