@@ -48,7 +48,7 @@ Visualisasi data dapat dilihat pada gambar di bawah ini.
 
 Visualisasi data yang terdapat pada gambar di atas dibuat menggunakan *tools* tableau yang disediakan di internet (**Catatan**: *trial* 13 hari muehehe).
 
-1. *Dashboard* visualisasi ini menjelaskan apa?
+1. ***Dashboard* visualisasi ini menjelaskan apa?**
    
    *Dashboard* ini menjelaskan
 2. 
