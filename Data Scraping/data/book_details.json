@@ -1,0 +1,518 @@
+[
+  {
+    "Book ID":"BOOK001",
+    "Book Title":"1001 Naskah Alesha",
+    "Price":39000,
+    "ISBN":"978-623-254-317-1"
+  },
+  {
+    "Book ID":"BOOK002",
+    "Book Title":"Adventure in Kitty Kingdom",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK003",
+    "Book Title":"Aurora's Tales",
+    "Price":39000,
+    "ISBN":"978-623-254-311-9"
+  },
+  {
+    "Book ID":"BOOK004",
+    "Book Title":"Besties Forever",
+    "Price":39000,
+    "ISBN":"978-623-254-300-3"
+  },
+  {
+    "Book ID":"BOOK005",
+    "Book Title":"Bundaku Guruku",
+    "Price":39000,
+    "ISBN":"978-623-254-284-6"
+  },
+  {
+    "Book ID":"BOOK006",
+    "Book Title":"Comic Fest Day",
+    "Price":39000,
+    "ISBN":"978-623-254-223-5"
+  },
+  {
+    "Book ID":"BOOK007",
+    "Book Title":"DIAMOND GIRLS",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK008",
+    "Book Title":"Doa Untuk Mama",
+    "Price":39000,
+    "ISBN":"978-623-254-231-0"
+  },
+  {
+    "Book ID":"BOOK009",
+    "Book Title":"FAIRYLAND ADVENTURE",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK010",
+    "Book Title":"Fake Account!",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK011",
+    "Book Title":"Gaun Kenangan Mama",
+    "Price":39000,
+    "ISBN":"978-623-254-264-8"
+  },
+  {
+    "Book ID":"BOOK012",
+    "Book Title":"Glitchy World",
+    "Price":39000,
+    "ISBN":"978-623-254-279-2"
+  },
+  {
+    "Book ID":"BOOK013",
+    "Book Title":"Hafalan Al-Quran Namira",
+    "Price":39000,
+    "ISBN":"978-623-254-302-7"
+  },
+  {
+    "Book ID":"BOOK014",
+    "Book Title":"Happy Content Creator",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK015",
+    "Book Title":"Home Alone",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK016",
+    "Book Title":"It's a Channel",
+    "Price":39000,
+    "ISBN":"978-623-254-255-6"
+  },
+  {
+    "Book ID":"BOOK017",
+    "Book Title":"It's Time to Sing",
+    "Price":39000,
+    "ISBN":"978-623-254-200-6"
+  },
+  {
+    "Book ID":"BOOK018",
+    "Book Title":"Jam Penghenti Waktu",
+    "Price":39000,
+    "ISBN":"978-623-254-241-9"
+  },
+  {
+    "Book ID":"BOOK019",
+    "Book Title":"K-Pop Fan Mail",
+    "Price":39000,
+    "ISBN":"978-623-254-225-9"
+  },
+  {
+    "Book ID":"BOOK020",
+    "Book Title":"K-Pop Multifandom",
+    "Price":39000,
+    "ISBN":"978-623-254-222-8"
+  },
+  {
+    "Book ID":"BOOK021",
+    "Book Title":"Kembar Tidak Akur",
+    "Price":39000,
+    "ISBN":"978-623-254-268-6"
+  },
+  {
+    "Book ID":"BOOK022",
+    "Book Title":"Komikus Cilik",
+    "Price":39000,
+    "ISBN":"978-623-254-280-8"
+  },
+  {
+    "Book ID":"BOOK023",
+    "Book Title":"Komikus Misterius",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK024",
+    "Book Title":"Let's Play with Teddy",
+    "Price":39000,
+    "ISBN":"978-623-254-291-4"
+  },
+  {
+    "Book ID":"BOOK025",
+    "Book Title":"LITTLE PHOTOGRAPHER",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK026",
+    "Book Title":"ME VS MYSELF",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK027",
+    "Book Title":"Mirror, Mirror on the Wall",
+    "Price":39000,
+    "ISBN":"978-623-254-248-8"
+  },
+  {
+    "Book ID":"BOOK028",
+    "Book Title":"Misteri Denting Jam Tua",
+    "Price":39000,
+    "ISBN":"978-623-254-203-7"
+  },
+  {
+    "Book ID":"BOOK029",
+    "Book Title":"Misteri Kucing dalam Lukisan",
+    "Price":39000,
+    "ISBN":"978-623-254-288-4"
+  },
+  {
+    "Book ID":"BOOK030",
+    "Book Title":"Misteri Malam Berkemah",
+    "Price":39000,
+    "ISBN":"978-623-254-265-5"
+  },
+  {
+    "Book ID":"BOOK031",
+    "Book Title":"Misteri Pantai Buaya",
+    "Price":39000,
+    "ISBN":"978-623-254-312-6"
+  },
+  {
+    "Book ID":"BOOK032",
+    "Book Title":"Misteri Rawon Setan",
+    "Price":39000,
+    "ISBN":"978-623-254-298-3"
+  },
+  {
+    "Book ID":"BOOK033",
+    "Book Title":"Misteri Tangga Nada",
+    "Price":39000,
+    "ISBN":"978-623-254-250-1"
+  },
+  {
+    "Book ID":"BOOK034",
+    "Book Title":"Mom_s Special Cupcake",
+    "Price":39000,
+    "ISBN":"978-623-254-249-5"
+  },
+  {
+    "Book ID":"BOOK035",
+    "Book Title":"My Aesthetic Note",
+    "Price":39000,
+    "ISBN":"978-623-254-283-9"
+  },
+  {
+    "Book ID":"BOOK036",
+    "Book Title":"My Cool Teacher",
+    "Price":39000,
+    "ISBN":"978-623-254-297-6"
+  },
+  {
+    "Book ID":"BOOK037",
+    "Book Title":"My First Skincare",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK038",
+    "Book Title":"My Little Online Shop",
+    "Price":39000,
+    "ISBN":"978-623-254-251-8"
+  },
+  {
+    "Book ID":"BOOK039",
+    "Book Title":"MY SPECIAL SISTER",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK040",
+    "Book Title":"My Twin, My Best Friend",
+    "Price":39000,
+    "ISBN":"978-623-254-224-2"
+  },
+  {
+    "Book ID":"BOOK041",
+    "Book Title":"Mystery Funtime",
+    "Price":39000,
+    "ISBN":"978-623-254-237-2"
+  },
+  {
+    "Book ID":"BOOK042",
+    "Book Title":"Our Little Brother",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK043",
+    "Book Title":"PARA PEMBURU HANTU",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK044",
+    "Book Title":"PETAKA JURIT MALAM",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK045",
+    "Book Title":"Rahasia Monalisa",
+    "Price":39000,
+    "ISBN":"978-623-254-292-1"
+  },
+  {
+    "Book ID":"BOOK046",
+    "Book Title":"RAHASIA PENULIS CILIK",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK047",
+    "Book Title":"Rainbow Sparkle Adventure",
+    "Price":39000,
+    "ISBN":"978-623-254-239-6"
+  },
+  {
+    "Book ID":"BOOK048",
+    "Book Title":"Ramadhan in Seoul",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK049",
+    "Book Title":"Reading Challenge",
+    "Price":39000,
+    "ISBN":"978-623-254-290-7"
+  },
+  {
+    "Book ID":"BOOK050",
+    "Book Title":"Sahabat Beda Sifat",
+    "Price":39000,
+    "ISBN":"978-623-254-080-4"
+  },
+  {
+    "Book ID":"BOOK051",
+    "Book Title":"Sahabat Juara",
+    "Price":39000,
+    "ISBN":"978-623-254-315-7"
+  },
+  {
+    "Book ID":"BOOK052",
+    "Book Title":"Sahabat Pena Istimewa",
+    "Price":39000,
+    "ISBN":"978-623-254-240-2"
+  },
+  {
+    "Book ID":"BOOK053",
+    "Book Title":"Sahabat Pengingat Shalat",
+    "Price":39000,
+    "ISBN":"978-623-254-258-7"
+  },
+  {
+    "Book ID":"BOOK054",
+    "Book Title":"Sang Influencer",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK055",
+    "Book Title":"Science vs Art",
+    "Price":39000,
+    "ISBN":"978-623-254-318-8"
+  },
+  {
+    "Book ID":"BOOK056",
+    "Book Title":"Seoul Mates",
+    "Price":39000,
+    "ISBN":"978-623-254-204-4"
+  },
+  {
+    "Book ID":"BOOK057",
+    "Book Title":"Shena dan Lompatan Waktu",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK058",
+    "Book Title":"Si Paling Konten",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK059",
+    "Book Title":"SLEEPING CONTEST",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK060",
+    "Book Title":"Stargazer",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK061",
+    "Book Title":"Stroberi Pahit Mama",
+    "Price":39000,
+    "ISBN":"978-623-254-267-9"
+  },
+  {
+    "Book ID":"BOOK062",
+    "Book Title":"Tabungan Amalku",
+    "Price":39000,
+    "ISBN":"978-623-254-256-3"
+  },
+  {
+    "Book ID":"BOOK063",
+    "Book Title":"Tangisan MIsterius",
+    "Price":39000,
+    "ISBN":"978-623-254-269-3"
+  },
+  {
+    "Book ID":"BOOK064",
+    "Book Title":"Teka-teki di Sekolah Baru",
+    "Price":39000,
+    "ISBN":"978-623-254-262-4"
+  },
+  {
+    "Book ID":"BOOK065",
+    "Book Title":"The Archer Girl",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK066",
+    "Book Title":"The Brave Princess",
+    "Price":39000,
+    "ISBN":"978-623-254-289-1"
+  },
+  {
+    "Book ID":"BOOK067",
+    "Book Title":"The Butterfly Garden",
+    "Price":39000,
+    "ISBN":"978-623-254-266-2"
+  },
+  {
+    "Book ID":"BOOK068",
+    "Book Title":"THE EIGHT TIME",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK069",
+    "Book Title":"The Girls Beat",
+    "Price":39000,
+    "ISBN":"978-623-254-219-8"
+  },
+  {
+    "Book ID":"BOOK070",
+    "Book Title":"THE HALLOWEEN CAFE",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK071",
+    "Book Title":"The Haunted House",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK072",
+    "Book Title":"The Huntsmen",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK073",
+    "Book Title":"The Incredible Six",
+    "Price":39000,
+    "ISBN":"978-623-254-293-8"
+  },
+  {
+    "Book ID":"BOOK074",
+    "Book Title":"The Makeup Artist",
+    "Price":39000,
+    "ISBN":"978-623-254-257-0"
+  },
+  {
+    "Book ID":"BOOK075",
+    "Book Title":"The Missing Pendant",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK076",
+    "Book Title":"The Mysterious Message",
+    "Price":39000,
+    "ISBN":"978-623-254-230-3"
+  },
+  {
+    "Book ID":"BOOK077",
+    "Book Title":"The Mysterious Student",
+    "Price":39000,
+    "ISBN":"978-623-254-316-4"
+  },
+  {
+    "Book ID":"BOOK078",
+    "Book Title":"The Rapper Girl",
+    "Price":39000,
+    "ISBN":"978-623-254-199-3"
+  },
+  {
+    "Book ID":"BOOK079",
+    "Book Title":"Tiga Sahabat Pantun",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK080",
+    "Book Title":"Tugu Pahlawan",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK081",
+    "Book Title":"Unicorn Milkshake",
+    "Price":39000,
+    "ISBN":"978-623-254-236-5"
+  },
+  {
+    "Book ID":"BOOK082",
+    "Book Title":"Virtual Best Friends",
+    "Price":39000,
+    "ISBN":"978-623-254-310-2"
+  },
+  {
+    "Book ID":"BOOK083",
+    "Book Title":"Voice Note Terakhir Bunda",
+    "Price":39000,
+    "ISBN":"978-623-254-263-1"
+  },
+  {
+    "Book ID":"BOOK084",
+    "Book Title":"Welcome to Unicorn World",
+    "Price":39000,
+    "ISBN":"978-623-254-205-1"
+  },
+  {
+    "Book ID":"BOOK085",
+    "Book Title":"Winny Si Anak Mami",
+    "Price":39000,
+    "ISBN":null
+  },
+  {
+    "Book ID":"BOOK086",
+    "Book Title":"Writer vs Writer",
+    "Price":39000,
+    "ISBN":"978-623-254-235-8"
+  }
+]

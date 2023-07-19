@@ -1,0 +1,414 @@
+[
+  {
+    "Book ID":"BOOK001",
+    "Author":"Naila Aini Bahri"
+  },
+  {
+    "Book ID":"BOOK002",
+    "Author":"Patricia Ammabelle Derwanto"
+  },
+  {
+    "Book ID":"BOOK003",
+    "Author":"Faizah Adila Husna Dalimunthe"
+  },
+  {
+    "Book ID":"BOOK004",
+    "Author":"Fatimah Azzahra"
+  },
+  {
+    "Book ID":"BOOK005",
+    "Author":"Mutiara Sya'bani"
+  },
+  {
+    "Book ID":"BOOK006",
+    "Author":"Zazkiya Nurul Aini"
+  },
+  {
+    "Book ID":"BOOK007",
+    "Author":"Maryam Tazkia M."
+  },
+  {
+    "Book ID":"BOOK008",
+    "Author":"Najla Nurdiany Putri"
+  },
+  {
+    "Book ID":"BOOK009",
+    "Author":"Acitya Resthimahening A."
+  },
+  {
+    "Book ID":"BOOK010",
+    "Author":"Naila Wafa' Syakira"
+  },
+  {
+    "Book ID":"BOOK010",
+    "Author":"Hilya Faizzati M."
+  },
+  {
+    "Book ID":"BOOK010",
+    "Author":"Fatimah Azzahra"
+  },
+  {
+    "Book ID":"BOOK010",
+    "Author":"Nafisa Mahdiya"
+  },
+  {
+    "Book ID":"BOOK010",
+    "Author":"dan Ayranee Deweey"
+  },
+  {
+    "Book ID":"BOOK011",
+    "Author":"Almira Annalia"
+  },
+  {
+    "Book ID":"BOOK012",
+    "Author":"Ahmad Zayd al-Malik"
+  },
+  {
+    "Book ID":"BOOK013",
+    "Author":"Syifa Tsabita Wiangga"
+  },
+  {
+    "Book ID":"BOOK014",
+    "Author":"Naura Athaya"
+  },
+  {
+    "Book ID":"BOOK015",
+    "Author":"Freya Alzena"
+  },
+  {
+    "Book ID":"BOOK016",
+    "Author":"Aysha Faustine Tirtayasa"
+  },
+  {
+    "Book ID":"BOOK017",
+    "Author":"Amallia Lovyna"
+  },
+  {
+    "Book ID":"BOOK018",
+    "Author":"Fariza Audree Kancana"
+  },
+  {
+    "Book ID":"BOOK019",
+    "Author":"Naura Nuraqila Hafidzah"
+  },
+  {
+    "Book ID":"BOOK020",
+    "Author":"Naura Nuraqila Hafidzah"
+  },
+  {
+    "Book ID":"BOOK021",
+    "Author":"Rayya Izarra Abqary"
+  },
+  {
+    "Book ID":"BOOK022",
+    "Author":"Arfan Syarif Prabowo"
+  },
+  {
+    "Book ID":"BOOK023",
+    "Author":"Syifa Tsabita Wiangga"
+  },
+  {
+    "Book ID":"BOOK025",
+    "Author":"Nafisa Mahdiya"
+  },
+  {
+    "Book ID":"BOOK025",
+    "Author":"Zahwa Fathiya Dini"
+  },
+  {
+    "Book ID":"BOOK025",
+    "Author":"Annara Salian Nanda Salombe"
+  },
+  {
+    "Book ID":"BOOK025",
+    "Author":"Faiza Karimatuz Zahida"
+  },
+  {
+    "Book ID":"BOOK025",
+    "Author":"Naila Wafa' Syakira"
+  },
+  {
+    "Book ID":"BOOK026",
+    "Author":"Kalila Tyara Semarang"
+  },
+  {
+    "Book ID":"BOOK027",
+    "Author":"Queennara Zahra S. J."
+  },
+  {
+    "Book ID":"BOOK028",
+    "Author":"Mutiara Sya'bani"
+  },
+  {
+    "Book ID":"BOOK029",
+    "Author":"Naila Zhafira Prameswari"
+  },
+  {
+    "Book ID":"BOOK030",
+    "Author":"Dafa Pasya Khadafi"
+  },
+  {
+    "Book ID":"BOOK031",
+    "Author":"Dahayu Erinna W."
+  },
+  {
+    "Book ID":"BOOK032",
+    "Author":"Ilma Ma'qul Istima"
+  },
+  {
+    "Book ID":"BOOK033",
+    "Author":"Khayla Nazwa"
+  },
+  {
+    "Book ID":"BOOK034",
+    "Author":"Naza Auly Nurrahman"
+  },
+  {
+    "Book ID":"BOOK035",
+    "Author":"Dimitria Nareswari"
+  },
+  {
+    "Book ID":"BOOK036",
+    "Author":"Rahmi Fitriyah"
+  },
+  {
+    "Book ID":"BOOK037",
+    "Author":"Syaira Rahma Fazila"
+  },
+  {
+    "Book ID":"BOOK039",
+    "Author":"Nafisa Mahdiya"
+  },
+  {
+    "Book ID":"BOOK040",
+    "Author":"Dieza Kayla Zivanka"
+  },
+  {
+    "Book ID":"BOOK041",
+    "Author":"Fariza Audree Kancana"
+  },
+  {
+    "Book ID":"BOOK042",
+    "Author":"Zharifah Zora"
+  },
+  {
+    "Book ID":"BOOK044",
+    "Author":"Nafisa Mahdiya"
+  },
+  {
+    "Book ID":"BOOK045",
+    "Author":"Nur Anisa Nidatul Haq"
+  },
+  {
+    "Book ID":"BOOK046",
+    "Author":"Dhiyaa Khaira Alisha"
+  },
+  {
+    "Book ID":"BOOK047",
+    "Author":"Hafizha Qoulan Tsaqila"
+  },
+  {
+    "Book ID":"BOOK048",
+    "Author":"Syifa Tsabita W."
+  },
+  {
+    "Book ID":"BOOK048",
+    "Author":"Freya Alzena"
+  },
+  {
+    "Book ID":"BOOK048",
+    "Author":"Ruruh Naindra A."
+  },
+  {
+    "Book ID":"BOOK048",
+    "Author":"Nafisa Mahdiya"
+  },
+  {
+    "Book ID":"BOOK048",
+    "Author":"dan Naila Wafa' Syakira"
+  },
+  {
+    "Book ID":"BOOK049",
+    "Author":"Quennarra Zahra"
+  },
+  {
+    "Book ID":"BOOK050",
+    "Author":"Mutiara Sya'bani"
+  },
+  {
+    "Book ID":"BOOK051",
+    "Author":"Hilya Faizzati Mardliyah"
+  },
+  {
+    "Book ID":"BOOK052",
+    "Author":"Aisya Najwa Kirana Alenty"
+  },
+  {
+    "Book ID":"BOOK053",
+    "Author":"Khanza Khairiyah Azahra"
+  },
+  {
+    "Book ID":"BOOK054",
+    "Author":"Zahra Luthfiya"
+  },
+  {
+    "Book ID":"BOOK055",
+    "Author":"Zaskia Talita Sasikirani"
+  },
+  {
+    "Book ID":"BOOK056",
+    "Author":"Hati Bening Asy-Syahiidah"
+  },
+  {
+    "Book ID":"BOOK057",
+    "Author":"Azka Rahilah"
+  },
+  {
+    "Book ID":"BOOK057",
+    "Author":"Nafisa Mahdiya"
+  },
+  {
+    "Book ID":"BOOK057",
+    "Author":"Faidza Alya"
+  },
+  {
+    "Book ID":"BOOK057",
+    "Author":"Rafisqy Abqory"
+  },
+  {
+    "Book ID":"BOOK057",
+    "Author":"dan Ghaissani Queenzabina"
+  },
+  {
+    "Book ID":"BOOK058",
+    "Author":"Kamila Dewi"
+  },
+  {
+    "Book ID":"BOOK058",
+    "Author":"Qinasti Annordia"
+  },
+  {
+    "Book ID":"BOOK058",
+    "Author":"Maritza Safira"
+  },
+  {
+    "Book ID":"BOOK058",
+    "Author":"Mahatma Ali"
+  },
+  {
+    "Book ID":"BOOK058",
+    "Author":"Nada Chavela"
+  },
+  {
+    "Book ID":"BOOK059",
+    "Author":"Naila Wafa' Syakira"
+  },
+  {
+    "Book ID":"BOOK060",
+    "Author":"Hana Fahiratul"
+  },
+  {
+    "Book ID":"BOOK062",
+    "Author":"Rayqha Lubna Z. S. A."
+  },
+  {
+    "Book ID":"BOOK063",
+    "Author":"Zahra Luthfiya"
+  },
+  {
+    "Book ID":"BOOK065",
+    "Author":"Khansa Humaira Dyfka"
+  },
+  {
+    "Book ID":"BOOK066",
+    "Author":"Fildzah Hanifa Syukra"
+  },
+  {
+    "Book ID":"BOOK067",
+    "Author":"Meghan Alesha"
+  },
+  {
+    "Book ID":"BOOK068",
+    "Author":"Dhiyaa Khaira Alisha"
+  },
+  {
+    "Book ID":"BOOK069",
+    "Author":"Annisa Maharani"
+  },
+  {
+    "Book ID":"BOOK071",
+    "Author":"Nafisa Mahdiya"
+  },
+  {
+    "Book ID":"BOOK071",
+    "Author":"Faiza Karimatuz Z."
+  },
+  {
+    "Book ID":"BOOK071",
+    "Author":"Freya Alzena P."
+  },
+  {
+    "Book ID":"BOOK071",
+    "Author":"Aisha Ghaziya"
+  },
+  {
+    "Book ID":"BOOK071",
+    "Author":"Yudha Opri Yansyah"
+  },
+  {
+    "Book ID":"BOOK072",
+    "Author":"Najla Nurdiany"
+  },
+  {
+    "Book ID":"BOOK073",
+    "Author":"Dhifa Sephi Parameswari"
+  },
+  {
+    "Book ID":"BOOK074",
+    "Author":"Muthi'aturrochmah"
+  },
+  {
+    "Book ID":"BOOK075",
+    "Author":"Kaira Alisha"
+  },
+  {
+    "Book ID":"BOOK076",
+    "Author":"Mutiara Sya'bani"
+  },
+  {
+    "Book ID":"BOOK077",
+    "Author":"Jihan Lathifah"
+  },
+  {
+    "Book ID":"BOOK078",
+    "Author":"Rane Kiran Anjali"
+  },
+  {
+    "Book ID":"BOOK079",
+    "Author":"Zahwa Fathiya Dini"
+  },
+  {
+    "Book ID":"BOOK080",
+    "Author":"Princessa Carisma"
+  },
+  {
+    "Book ID":"BOOK081",
+    "Author":"Syifa Tsabita Wiangga"
+  },
+  {
+    "Book ID":"BOOK082",
+    "Author":"Naila Wafa' Syakira"
+  },
+  {
+    "Book ID":"BOOK083",
+    "Author":"Kirana Riris Santosa"
+  },
+  {
+    "Book ID":"BOOK084",
+    "Author":"Naura Nuraqila Nurhafidzah"
+  },
+  {
+    "Book ID":"BOOK085",
+    "Author":"Najwa Fitriani Dewi"
+  }
+]
