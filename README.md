@@ -43,7 +43,7 @@ python main.py
 ### Data Storing
 1. Masuk ke PostgreSQL dan buat sebuah database baru yang kosong.
 2. Lakukan change directory ke folder `Data Storing/export`
-3. Import file SQL dump pada folder tersebut ke PostgreSQL dengan memasukkan perintah `psql -U {username} -d {database < bwf.sql}`
+3. Import file SQL dump pada folder tersebut ke PostgreSQL dengan memasukkan perintah `psql -U {username} -d {database} < bwf.sql`
 4. Data-data tersebut akan terimpan dalam database tersebut
 
 ## JSON Structure
