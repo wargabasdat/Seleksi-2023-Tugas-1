@@ -1,0 +1,302 @@
+[
+  {
+    "Standing": 1,
+    "City": "MIL",
+    "Name": "Milwaukee Bucks",
+    "Conference": "Eastern Conference",
+    "Pct": 70.7,
+    "Ppg": 116.9,
+    "OppPpg": 113.3,
+    "Coach": "Adrian Griffin"
+  },
+  {
+    "Standing": 2,
+    "City": "BOS",
+    "Name": "Boston Celtics",
+    "Conference": "Eastern Conference",
+    "Pct": 69.5,
+    "Ppg": 117.9,
+    "OppPpg": 111.4,
+    "Coach": "Joe Mazzulla"
+  },
+  {
+    "Standing": 3,
+    "City": "PHI",
+    "Name": "Philadelphia 76ers",
+    "Conference": "Eastern Conference",
+    "Pct": 65.9,
+    "Ppg": 115.2,
+    "OppPpg": 110.9,
+    "Coach": "Nick Nurse"
+  },
+  {
+    "Standing": 4,
+    "City": "CLE",
+    "Name": "Cleveland Cavaliers",
+    "Conference": "Eastern Conference",
+    "Pct": 62.2,
+    "Ppg": 112.3,
+    "OppPpg": 106.9,
+    "Coach": "J.B. Bickerstaff"
+  },
+  {
+    "Standing": 5,
+    "City": "NY",
+    "Name": "New York Knicks",
+    "Conference": "Eastern Conference",
+    "Pct": 57.3,
+    "Ppg": 116.0,
+    "OppPpg": 113.1,
+    "Coach": "Tom Thibodeau"
+  },
+  {
+    "Standing": 6,
+    "City": "BKN",
+    "Name": "Brooklyn Nets",
+    "Conference": "Eastern Conference",
+    "Pct": 54.9,
+    "Ppg": 113.4,
+    "OppPpg": 112.5,
+    "Coach": "Jacque Vaughn"
+  },
+  {
+    "Standing": 7,
+    "City": "MIA",
+    "Name": "Miami Heat",
+    "Conference": "Eastern Conference",
+    "Pct": 53.7,
+    "Ppg": 109.5,
+    "OppPpg": 109.8,
+    "Coach": "Erik Spoelstra"
+  },
+  {
+    "Standing": 8,
+    "City": "ATL",
+    "Name": "Atlanta Hawks",
+    "Conference": "Eastern Conference",
+    "Pct": 50.0,
+    "Ppg": 118.4,
+    "OppPpg": 118.1,
+    "Coach": "Quin Snyder"
+  },
+  {
+    "Standing": 9,
+    "City": "TOR",
+    "Name": "Toronto Raptors",
+    "Conference": "Eastern Conference",
+    "Pct": 50.0,
+    "Ppg": 112.9,
+    "OppPpg": 111.4,
+    "Coach": "Darko Rajakovic"
+  },
+  {
+    "Standing": 10,
+    "City": "CHI",
+    "Name": "Chicago Bulls",
+    "Conference": "Eastern Conference",
+    "Pct": 48.8,
+    "Ppg": 113.1,
+    "OppPpg": 111.8,
+    "Coach": null
+  },
+  {
+    "Standing": 11,
+    "City": "IND",
+    "Name": "Indiana Pacers",
+    "Conference": "Eastern Conference",
+    "Pct": 42.7,
+    "Ppg": 116.3,
+    "OppPpg": 119.5,
+    "Coach": "Rick Carlisle"
+  },
+  {
+    "Standing": 12,
+    "City": "WSH",
+    "Name": "Washington Wizards",
+    "Conference": "Eastern Conference",
+    "Pct": 42.7,
+    "Ppg": 113.2,
+    "OppPpg": 114.4,
+    "Coach": "Wes Unseld Jr."
+  },
+  {
+    "Standing": 13,
+    "City": "ORL",
+    "Name": "Orlando Magic",
+    "Conference": "Eastern Conference",
+    "Pct": 41.5,
+    "Ppg": 111.4,
+    "OppPpg": 114.0,
+    "Coach": "Jamahl Mosley"
+  },
+  {
+    "Standing": 14,
+    "City": "CHA",
+    "Name": "Charlotte Hornets",
+    "Conference": "Eastern Conference",
+    "Pct": 32.9,
+    "Ppg": 111.0,
+    "OppPpg": 117.2,
+    "Coach": "Steve Clifford"
+  },
+  {
+    "Standing": 15,
+    "City": "DET",
+    "Name": "Detroit Pistons",
+    "Conference": "Eastern Conference",
+    "Pct": 20.7,
+    "Ppg": 110.3,
+    "OppPpg": 118.5,
+    "Coach": "Monty Williams"
+  },
+  {
+    "Standing": 1,
+    "City": "DEN",
+    "Name": "Denver Nuggets",
+    "Conference": "Western Conference",
+    "Pct": 64.6,
+    "Ppg": 115.8,
+    "OppPpg": 112.5,
+    "Coach": "Michael Malone"
+  },
+  {
+    "Standing": 2,
+    "City": "MEM",
+    "Name": "Memphis Grizzlies",
+    "Conference": "Western Conference",
+    "Pct": 62.2,
+    "Ppg": 116.9,
+    "OppPpg": 113.0,
+    "Coach": "Taylor Jenkins"
+  },
+  {
+    "Standing": 3,
+    "City": "SAC",
+    "Name": "Sacramento Kings",
+    "Conference": "Western Conference",
+    "Pct": 58.5,
+    "Ppg": 120.7,
+    "OppPpg": 118.1,
+    "Coach": "Mike Brown"
+  },
+  {
+    "Standing": 4,
+    "City": "PHX",
+    "Name": "Phoenix Suns",
+    "Conference": "Western Conference",
+    "Pct": 54.9,
+    "Ppg": 113.6,
+    "OppPpg": 111.6,
+    "Coach": "Frank Vogel"
+  },
+  {
+    "Standing": 5,
+    "City": "LAC",
+    "Name": "LA Clippers",
+    "Conference": "Western Conference",
+    "Pct": 53.7,
+    "Ppg": 113.6,
+    "OppPpg": 113.1,
+    "Coach": "Tyronn Lue"
+  },
+  {
+    "Standing": 6,
+    "City": "GS",
+    "Name": "Golden State Warriors",
+    "Conference": "Western Conference",
+    "Pct": 53.7,
+    "Ppg": 118.9,
+    "OppPpg": 117.1,
+    "Coach": "Steve Kerr"
+  },
+  {
+    "Standing": 7,
+    "City": "LAL",
+    "Name": "Los Angeles Lakers",
+    "Conference": "Western Conference",
+    "Pct": 52.4,
+    "Ppg": 117.2,
+    "OppPpg": 116.6,
+    "Coach": "Darvin Ham"
+  },
+  {
+    "Standing": 8,
+    "City": "MIN",
+    "Name": "Minnesota Timberwolves",
+    "Conference": "Western Conference",
+    "Pct": 51.2,
+    "Ppg": 115.8,
+    "OppPpg": 115.8,
+    "Coach": "Chris Finch"
+  },
+  {
+    "Standing": 9,
+    "City": "NO",
+    "Name": "New Orleans Pelicans",
+    "Conference": "Western Conference",
+    "Pct": 51.2,
+    "Ppg": 114.4,
+    "OppPpg": 112.5,
+    "Coach": "Willie Green"
+  },
+  {
+    "Standing": 10,
+    "City": "OKC",
+    "Name": "Oklahoma City Thunder",
+    "Conference": "Western Conference",
+    "Pct": 48.8,
+    "Ppg": 117.5,
+    "OppPpg": 116.4,
+    "Coach": "Mark Daigneault"
+  },
+  {
+    "Standing": 11,
+    "City": "DAL",
+    "Name": "Dallas Mavericks",
+    "Conference": "Western Conference",
+    "Pct": 46.3,
+    "Ppg": 114.2,
+    "OppPpg": 114.1,
+    "Coach": "Jason Kidd"
+  },
+  {
+    "Standing": 12,
+    "City": "UTAH",
+    "Name": "Utah Jazz",
+    "Conference": "Western Conference",
+    "Pct": 45.1,
+    "Ppg": 117.1,
+    "OppPpg": 118.0,
+    "Coach": "Will Hardy"
+  },
+  {
+    "Standing": 13,
+    "City": "POR",
+    "Name": "Portland Trail Blazers",
+    "Conference": "Western Conference",
+    "Pct": 40.2,
+    "Ppg": 113.4,
+    "OppPpg": 117.4,
+    "Coach": "Chauncey Billups"
+  },
+  {
+    "Standing": 14,
+    "City": "HOU",
+    "Name": "Houston Rockets",
+    "Conference": "Western Conference",
+    "Pct": 26.8,
+    "Ppg": 110.7,
+    "OppPpg": 118.6,
+    "Coach": "Ime Udoka"
+  },
+  {
+    "Standing": 15,
+    "City": "SA",
+    "Name": "San Antonio Spurs",
+    "Conference": "Western Conference",
+    "Pct": 26.8,
+    "Ppg": 113.0,
+    "OppPpg": 123.1,
+    "Coach": "Gregg Popovich"
+  }
+]
