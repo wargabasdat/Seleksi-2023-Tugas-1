@@ -137,17 +137,77 @@ Ini adalah struktur JSON yang dapat digunakan untuk menyimpan data naga hasil sc
 
 ### Database Structure (ERD and relational diagram)
 
-![ERD](Data%20Storing/design/ERD_Dragon_City.png)
-
+#### ERD
 Berikut adalah diagram hubungan antar entitas (Entity Relationship Diagram/ERD) berdasarkan poin-poin yang telah disebutkan:
 
+![ERD](Data%20Storing/design/ERD_Dragon_City.png)
+
+
+
+Berikut adalah diagram relasional yang menggambarkan tabel-tabel yang akan dibuat:
+
+Entitas : 
+  1. Dragon
+    - id_dragon
+    - dragon_name
+    - breed_time
+    - buy_price
+    - hatch_time
+    - breedable
+    - hatch_xp
+    - description
+  2. Element
+    - id_element
+    - element_name
+  3. Trainable_Attack
+    - id_trainable_attack
+    - trainable_attack_name
+    - trainable_attack_type
+    - trainable_attack_damage
+  4. Base_move
+    - id_base_move
+    - base_move_name
+    - base_move_type
+    - base_move_damage
+  5. Rarity
+    - id_rarity
+    - rarity_name
+
+Hubungan Antar Entitas:
+  1. Dragon_Element (Many-to-One)
+    - Setiap naga hanya dapat memiliki satu elemen
+    - Satu elemen dapat dimiliki oleh banyak naga
+  2. Dragon_Strength (Many-to-Many)
+    - Setiap naga dapat memiliki banyak kekuatan
+    - Setiap kekuatan dapat dimiliki oleh banyak naga
+  3. Dragon_Weakness (Many-to-Many)
+    - Setiap naga dapat memiliki banyak kelemahan
+    - Setiap kelemahan dapat dimiliki oleh banyak naga
+  4. Dragon_Trainable_Attack (Many-to-Many)
+    - Setiap naga dapat memiliki banyak serangan yang dapat dilatih
+    - Setiap serangan yang dapat dilatih dapat dimiliki oleh banyak naga
+  5. Dragon_Base_Move (Many-to-Many)
+    - Setiap naga dapat memiliki banyak serangan dasar
+    - Setiap serangan dasar dapat dimiliki oleh banyak naga
+  6. Dragon_Rarity (Many-to-One)
+    - Setiap naga hanya dapat memiliki satu rarity
+    - Satu rarity dapat dimiliki oleh banyak naga
+
+####  Relational Diagram
+Berikut adalah diagram relasional yang menggambarkan tabel-tabel yang akan dibuat:
 
 ![Relational Diagram](Data%20Storing/design/Relational_Diagram_Dragon_City.png)
 
 
 
 
+
+
 ### Explanation of ERD to relational diagram translation process
+
+Proses translasi ERD menjadi relational diagram melibatkan beberapa langkah berikut:
+
+1. 
 ### Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
 ### Reference (Library used, etc)
 ### Author
