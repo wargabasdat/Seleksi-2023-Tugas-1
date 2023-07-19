@@ -159,65 +159,85 @@ player(confederation_id) -> confederation(confederation_id)
 ## Screenshot
 ### Data Scraping
 - Berikut adalah kode lengkap dari `main.py`:
+
 ![main](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/main_program.png)
 
 - Berikut adalah kode lengkap dari `scrap.py`:
+
 ![scrap](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/full_scraping_program.png)
 
 - Berikut adalah preprocessing untuk data-data terkait pemain:
+
 ![preprocess_player](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/preprocessing_player_data.png)
 
 - Berikut adalah preprocessing untuk data-data terkait turnamen:
+
 ![preprocess_tournament](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/preprocessing_tournament_data.png)
 
 - Berikut adalah proses scraping untuk data-data terkait player:
+
 ![scraping_player](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/scraping_player_data.png)
 
 - Berikut adalah proses scraping untuk data-data terkait turnamen:
+
 ![scraping_tournament](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/scraping_tournament_data.png)
 
 ### Data Storing
 - Berikut adalah keseluruhan tabel dalam database:
+
 ![all_tables](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/all_tables.png)
 
 - Berikut adalah tabel city:
+
 ![city_table](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/city_table.png)
 
 - Berikut adalah tabel coach:
+
 ![coach_table](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/coach_table.png)
 
 - Berikut adalah tabel confederation:
+
 ![confederation_table](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/confederation_table.png)
 
 - Berikut adalah tabel country:
+
 ![country_table](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/country_table.png)
 
 - Berikut adalah tabel match:
+
 ![match_table](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/match_table.png)
 
 - Berikut adalah tabel organization:
+
 ![organization_table](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/organization_table.png)
 
 - Berikut adalah tabel player_performance:
+
 ![player_performance_table](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/match_table.png)
 
 - Berikut adalah tabel player_prize:
+
 ![player_prize_table](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/player_prize_table.png)
 
 - Berikut adalah tabel player_rank:
+
 ![player_rank_table](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/player_rank_table.png)
 
 - Berikut adalah tabel player:
+
 ![player_table](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/player_table.png)
 
 - Berikut adalah tabel tournament:
+
 ![tournament_table](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/tournament_table.png)
 
 - Berikut adalah tabel umpire:
+
 ![umpire_table](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/umpire_table.png)
 
 ## Dashboard
 Berikut adalah tampilan dari dashboard interaktif yang menyajikan visualisasi data terkait BWF Men's Singles:
+
 ![dashboard](https://github.com/imanuelraditya/Seleksi-2023-Tugas-1/blob/main/Data%20Visualization/Dashboard.png)
 
 Dashboard tersebut dapat diakses pada link <a href=https://public.tableau.com/app/profile/imanuel.raditya/viz/BWFMensSinglesData/OverallData><strong>berikut</strong></a>.
@@ -251,5 +271,7 @@ Beberapa contoh insight yang bisa diperoleh berdasarkan visualisasi tersebut ada
 
 ## Author
 Imanuel Raditya (18221112)
+
 Sistem dan Teknologi Informasi
+
 Institut Teknologi Bandung
