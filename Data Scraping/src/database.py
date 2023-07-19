@@ -4,7 +4,7 @@ import psycopg2
 conn = psycopg2.connect(
     database="badminton",
     user="postgres",
-    password="",
+    password="postgres",
     host="localhost",
     port=5432,
 )
