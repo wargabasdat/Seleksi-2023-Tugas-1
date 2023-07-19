@@ -1,0 +1,10 @@
+{
+  "games": [
+    {
+      "game_id": "hl2",
+      "game_name": "Half-Life 2",
+      "release_year": "2004",
+      "platform": "PC"
+    }
+  ]
+}

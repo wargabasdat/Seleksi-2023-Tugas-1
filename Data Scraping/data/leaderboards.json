@@ -1,0 +1,116 @@
+{
+  "leaderboards": [
+    {
+      "game_id": "hl2",
+      "level_id": "full_game",
+      "leaderboard_id": "9d8x7el2-5ly7j1gl.gq7g67dq",
+      "category_name": "New Engine",
+      "subcategory_name": "Any% No Voidclip"
+    },
+    {
+      "game_id": "hl2",
+      "level_id": "full_game",
+      "leaderboard_id": "9d8x7el2-5ly7j1gl.21gg3x81",
+      "category_name": "New Engine",
+      "subcategory_name": "Any%"
+    },
+    {
+      "game_id": "hl2",
+      "level_id": "full_game",
+      "leaderboard_id": "l824pw25-onv4p5nm.zqomgv41",
+      "category_name": "Old Engine",
+      "subcategory_name": "With Scripts"
+    },
+    {
+      "game_id": "hl2",
+      "level_id": "full_game",
+      "leaderboard_id": "l824pw25-onv4p5nm.814zpeld",
+      "category_name": "Old Engine",
+      "subcategory_name": "Scriptless"
+    },
+    {
+      "game_id": "hl2",
+      "level_id": "l_r9gzojkd",
+      "leaderboard_id": "l_r9gzojkd-824x05nd",
+      "category_name": "New Engine",
+      "subcategory_name": null
+    },
+    {
+      "game_id": "hl2",
+      "level_id": "l_r9gzojkd",
+      "leaderboard_id": "l_r9gzojkd-jdz7n16k",
+      "category_name": "New Engine (SS)",
+      "subcategory_name": null
+    },
+    {
+      "game_id": "hl2",
+      "level_id": "l_r9gzojkd",
+      "leaderboard_id": "l_r9gzojkd-ndx8661k",
+      "category_name": "Old Engine with Scripts",
+      "subcategory_name": null
+    },
+    {
+      "game_id": "hl2",
+      "level_id": "l_r9gzojkd",
+      "leaderboard_id": "l_r9gzojkd-9d8p31lk",
+      "category_name": "Old Engine",
+      "subcategory_name": null
+    },
+    {
+      "game_id": "hl2",
+      "level_id": "l_o9x2vz1w",
+      "leaderboard_id": "l_o9x2vz1w-824x05nd",
+      "category_name": "New Engine",
+      "subcategory_name": null
+    },
+    {
+      "game_id": "hl2",
+      "level_id": "l_o9x2vz1w",
+      "leaderboard_id": "l_o9x2vz1w-jdz7n16k",
+      "category_name": "New Engine (SS)",
+      "subcategory_name": null
+    },
+    {
+      "game_id": "hl2",
+      "level_id": "l_o9x2vz1w",
+      "leaderboard_id": "l_o9x2vz1w-ndx8661k",
+      "category_name": "Old Engine with Scripts",
+      "subcategory_name": null
+    },
+    {
+      "game_id": "hl2",
+      "level_id": "l_o9x2vz1w",
+      "leaderboard_id": "l_o9x2vz1w-9d8p31lk",
+      "category_name": "Old Engine",
+      "subcategory_name": null
+    },
+    {
+      "game_id": "hl2",
+      "level_id": "l_495j0rjw",
+      "leaderboard_id": "l_495j0rjw-824x05nd",
+      "category_name": "New Engine",
+      "subcategory_name": null
+    },
+    {
+      "game_id": "hl2",
+      "level_id": "l_495j0rjw",
+      "leaderboard_id": "l_495j0rjw-jdz7n16k",
+      "category_name": "New Engine (SS)",
+      "subcategory_name": null
+    },
+    {
+      "game_id": "hl2",
+      "level_id": "l_495j0rjw",
+      "leaderboard_id": "l_495j0rjw-ndx8661k",
+      "category_name": "Old Engine with Scripts",
+      "subcategory_name": null
+    },
+    {
+      "game_id": "hl2",
+      "level_id": "l_495j0rjw",
+      "leaderboard_id": "l_495j0rjw-9d8p31lk",
+      "category_name": "Old Engine",
+      "subcategory_name": null
+    }
+  ]
+}

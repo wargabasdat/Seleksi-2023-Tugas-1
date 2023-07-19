@@ -12,90 +12,96 @@
   <br>
 </h2>
 
+## Description
 
-## Spesifikasi
+_Author (NIM):_ Rinaldy Adin (13521134)
+_Data Source:_ https://www.speedrun.com/hl2
+_Chosen Data:_ Half Life 2 speedrun records
+_Chosen DBMS:_ PostgreSQL
 
-### Data Scraping
+From the Half-Life 2 leaderboard on https://www.speedrun.com, I chose to scrape the top 3 records for the game, including the different categories and subcategories, and likewise for the records of the first 3 levels of the game. The program also crawls the series page of Half Life, each player and moderator found, and each page of the scraped records.
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
+## Specifications
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
+The program in `main.py` crawls and scrapes https://www.speedrun.com/hl2, using selenium to take control of a chrome web browser in order to be able to generate the needed data in the page, as a single GET request won't be able to generate the needed data. The program will then scrape the needed information for the page, store the data, and then continue to crawl the website until all needed data is scraped. Finally, the program will generate `.json` files containing the data for each relation/table.
 
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
+In order to easily import the generated data into an Postgres Database, `to_csv.py` could be run in order to generate `.csv` files from the prior `.json` files.
 
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
+## How to Use
 
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
+1. Create a python virtual environment in the root of this project, using the following commands
+   `python -m venv`
 
-### Database Modelling & Data Storing
+2. Install required packages from `requirements.txt` into the virtual environment
+   `pip i -r requirements.txt`
 
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
+3. Move the current directory into the `src` folder
+   `cd Data\ Scraping/src/`
 
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
+4. Run the main scraping program
+   `python main.py`
 
-4. Tools yang digunakan __dibebaskan__ pada peserta.
+5. Run the json to csv converter
+   `python to_csv.py`
 
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
+6. Import csv files into database
 
+## JSON Structure (Some Examples)
 
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
-
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
-
-### Pengumpulan
-
-
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
-
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
-
+#### Record
 
 ```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
+...
+{
+    "record_id": "zq1r359m",
+    "submitter_id": "SpeedyQ",
+    "leaderboard_id": "l824pw25-onv4p5nm.zqomgv41",
+    "rank": 4,
+    "platform": "PC",
+    "lrt_time": "46m 19s 096ms",
+    "rta_time": "59m 04s 033ms",
+    "build": ""
+},
+...
 ```
 
+#### Game
 
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
+```
+{
+  "games": [
+    {
+      "game_id": "hl2",
+      "game_name": "Half-Life 2",
+      "release_year": "2004",
+      "platform": "PC"
+    }
+  ]
+}
+```
 
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
+## Database Structure
 
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
-<br>
+### ER Diagram
+
+![ER Diagram](./Data%20Storing/design/ER%20Diagram.jpg)
+
+### Relational Diagram
+
+![Relational Diagram](./Data%20Storing/design/Relational%20Diagram.jpg)
+
+#### ERD to Relational translation process
+
+Based on the developed ER Diagram, the first step in the translation process is removing total many-to-one relations and substituting the relation into an attribute on the enity on the many side. That translation process was applied to the relation `record_comment`, `record_commenter`, `record_submitter`, `leaderboard_record`, `level_leaderboard`, `game_moderator`, and `series_moderator`. The other step to do is to convert the weak entity `level` by doing a similar process to the first step. Finally, the remaining entities and relations are converted into tables.
+
+## Screenshots
+
+![](./Data%20Scraping/screenshot/screenshot.png)
+![](./Data%20Storing/screenshot/Data%20Screenshot.png)
+![](./Data%20Storing/screenshot/Relational%20Diagram%20Screenshot.png)
+![](./Data%20Storing/screenshot/Shell%20Screenshot.png)
+
+## References
+
+![How to use selenium with python](https://selenium-python.readthedocs.io/index.html)
+![Beautiful soup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)

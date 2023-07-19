@@ -1,0 +1,564 @@
+{
+  "records": [
+    {
+      "record_id": "ydw2ggvm",
+      "submitter_id": "maltemller",
+      "leaderboard_id": "9d8x7el2-5ly7j1gl.gq7g67dq",
+      "rank": 1,
+      "platform": "PC",
+      "lrt_time": "43m 02s ",
+      "rta_time": "49m 46s ",
+      "build": "Ghosting (4104)"
+    },
+    {
+      "record_id": "zx3gqr5z",
+      "submitter_id": "PenPerson",
+      "leaderboard_id": "9d8x7el2-5ly7j1gl.gq7g67dq",
+      "rank": 2,
+      "platform": "PC",
+      "lrt_time": "44m 09s 490ms",
+      "rta_time": "52m 45s 470ms",
+      "build": "Unpack (5135)"
+    },
+    {
+      "record_id": "z1qg9gry",
+      "submitter_id": "Wilbo__",
+      "leaderboard_id": "9d8x7el2-5ly7j1gl.gq7g67dq",
+      "rank": 3,
+      "platform": "PC",
+      "lrt_time": "45m 13s 480ms",
+      "rta_time": "51m 01s 430ms",
+      "build": "Unpack (5135)"
+    },
+    {
+      "record_id": "z0jxp18y",
+      "submitter_id": "Eold",
+      "leaderboard_id": "9d8x7el2-5ly7j1gl.gq7g67dq",
+      "rank": 4,
+      "platform": "PC",
+      "lrt_time": "46m 26s 290ms",
+      "rta_time": "55m 36s ",
+      "build": "Unpack (5135)"
+    },
+    {
+      "record_id": "zp1l48gz",
+      "submitter_id": "maltemller",
+      "leaderboard_id": "9d8x7el2-5ly7j1gl.21gg3x81",
+      "rank": 1,
+      "platform": "PC",
+      "lrt_time": "40m 42s ",
+      "rta_time": "1h 04m 02s ",
+      "build": ""
+    },
+    {
+      "record_id": "y966jory",
+      "submitter_id": "PenPerson",
+      "leaderboard_id": "9d8x7el2-5ly7j1gl.21gg3x81",
+      "rank": 2,
+      "platform": "PC",
+      "lrt_time": "45m 53s 850ms",
+      "rta_time": "56m 08s 870ms",
+      "build": "Unpack (5135)"
+    },
+    {
+      "record_id": "m7539n0z",
+      "submitter_id": "qv2b",
+      "leaderboard_id": "9d8x7el2-5ly7j1gl.21gg3x81",
+      "rank": 3,
+      "platform": "PC",
+      "lrt_time": "58m 45s ",
+      "rta_time": "\u2014",
+      "build": ""
+    },
+    {
+      "record_id": "z51pp1nm",
+      "submitter_id": "deathwingua",
+      "leaderboard_id": "9d8x7el2-5ly7j1gl.21gg3x81",
+      "rank": 4,
+      "platform": "PC",
+      "lrt_time": "1h 04m 25s 300ms",
+      "rta_time": "1h 14m 23s 400ms",
+      "build": ""
+    },
+    {
+      "record_id": "m3qno96y",
+      "submitter_id": "iNSM",
+      "leaderboard_id": "l824pw25-onv4p5nm.zqomgv41",
+      "rank": 1,
+      "platform": "PC",
+      "lrt_time": "41m 07s 799ms",
+      "rta_time": "52m 57s ",
+      "build": "OE 2733"
+    },
+    {
+      "record_id": "y80g51xm",
+      "submitter_id": "jorikgrozniy",
+      "leaderboard_id": "l824pw25-onv4p5nm.zqomgv41",
+      "rank": 2,
+      "platform": "PC",
+      "lrt_time": "43m 05s 190ms",
+      "rta_time": "\u2014",
+      "build": "OE 2733"
+    },
+    {
+      "record_id": "y8d3k2dz",
+      "submitter_id": "maddavid123",
+      "leaderboard_id": "l824pw25-onv4p5nm.zqomgv41",
+      "rank": 3,
+      "platform": "PC",
+      "lrt_time": "45m 09s 940ms",
+      "rta_time": "53m 20s 650ms",
+      "build": ""
+    },
+    {
+      "record_id": "zq1r359m",
+      "submitter_id": "SpeedyQ",
+      "leaderboard_id": "l824pw25-onv4p5nm.zqomgv41",
+      "rank": 4,
+      "platform": "PC",
+      "lrt_time": "46m 19s 096ms",
+      "rta_time": "59m 04s 033ms",
+      "build": ""
+    },
+    {
+      "record_id": "y4o2j5dz",
+      "submitter_id": "FiR3_47",
+      "leaderboard_id": "l824pw25-onv4p5nm.814zpeld",
+      "rank": 1,
+      "platform": "PC",
+      "lrt_time": "58m 49s 120ms",
+      "rta_time": "1h 46m 18s 700ms",
+      "build": "OE 4044"
+    },
+    {
+      "record_id": "y218ew6z",
+      "submitter_id": "iNSM",
+      "leaderboard_id": "l824pw25-onv4p5nm.814zpeld",
+      "rank": 2,
+      "platform": "PC",
+      "lrt_time": "1h 33m 54s ",
+      "rta_time": "1h 56m 35s ",
+      "build": ""
+    },
+    {
+      "record_id": "1zxw04qm",
+      "submitter_id": "deathwingua",
+      "leaderboard_id": "l824pw25-onv4p5nm.814zpeld",
+      "rank": 3,
+      "platform": "PC",
+      "lrt_time": "1h 40m 11s 290ms",
+      "rta_time": "1h 56m 58s ",
+      "build": ""
+    },
+    {
+      "record_id": "pyd27kqm",
+      "submitter_id": "Maxxuss",
+      "leaderboard_id": "l824pw25-onv4p5nm.814zpeld",
+      "rank": 4,
+      "platform": "PC",
+      "lrt_time": "1h 47m 52s ",
+      "rta_time": "1h 55m 07s ",
+      "build": ""
+    },
+    {
+      "record_id": "y813g51z",
+      "submitter_id": "maltemller",
+      "leaderboard_id": "l_r9gzojkd-824x05nd",
+      "rank": 1,
+      "platform": "PC",
+      "lrt_time": "2m 18s ",
+      "rta_time": "\u2014",
+      "build": ""
+    },
+    {
+      "record_id": "8yvd6poy",
+      "submitter_id": "deathwingua",
+      "leaderboard_id": "l_r9gzojkd-824x05nd",
+      "rank": 2,
+      "platform": "PC",
+      "lrt_time": "3m 36s 360ms",
+      "rta_time": "3m 50s 210ms",
+      "build": ""
+    },
+    {
+      "record_id": "yolpo91y",
+      "submitter_id": "ferret_irl",
+      "leaderboard_id": "l_r9gzojkd-824x05nd",
+      "rank": 3,
+      "platform": "PC",
+      "lrt_time": "3m 50s 560ms",
+      "rta_time": "\u2014",
+      "build": "Unpack (5135)"
+    },
+    {
+      "record_id": "y2pv5g5z",
+      "submitter_id": "mirskiy",
+      "leaderboard_id": "l_r9gzojkd-824x05nd",
+      "rank": 4,
+      "platform": "PC",
+      "lrt_time": "3m 55s 200ms",
+      "rta_time": "\u2014",
+      "build": ""
+    },
+    {
+      "record_id": "yw306lnm",
+      "submitter_id": "Dirtch",
+      "leaderboard_id": "l_r9gzojkd-jdz7n16k",
+      "rank": 1,
+      "platform": "PC",
+      "lrt_time": "4m 06s 330ms",
+      "rta_time": "4m 08s 980ms",
+      "build": ""
+    },
+    {
+      "record_id": "me3o8qqz",
+      "submitter_id": "PenPerson",
+      "leaderboard_id": "l_r9gzojkd-jdz7n16k",
+      "rank": 2,
+      "platform": "PC",
+      "lrt_time": "4m 07s 570ms",
+      "rta_time": "4m 10s 450ms",
+      "build": ""
+    },
+    {
+      "record_id": "y8edkvwy",
+      "submitter_id": "owerfloww",
+      "leaderboard_id": "l_r9gzojkd-jdz7n16k",
+      "rank": 3,
+      "platform": "PC",
+      "lrt_time": "5m 14s 460ms",
+      "rta_time": "5m 20s 820ms",
+      "build": ""
+    },
+    {
+      "record_id": "yj5r7r7m",
+      "submitter_id": "eljest",
+      "leaderboard_id": "l_r9gzojkd-jdz7n16k",
+      "rank": 4,
+      "platform": "PC",
+      "lrt_time": "5m 26s 625ms",
+      "rta_time": "\u2014",
+      "build": ""
+    },
+    {
+      "record_id": "znjqvolm",
+      "submitter_id": "PenPerson",
+      "leaderboard_id": "l_r9gzojkd-ndx8661k",
+      "rank": 1,
+      "platform": "PC",
+      "lrt_time": "1m 35s 140ms",
+      "rta_time": "4m 34s 940ms",
+      "build": "OE 4044"
+    },
+    {
+      "record_id": "pm3p7o6z",
+      "submitter_id": "Corkysek",
+      "leaderboard_id": "l_r9gzojkd-ndx8661k",
+      "rank": 2,
+      "platform": "PC",
+      "lrt_time": "4m 46s 110ms",
+      "rta_time": "\u2014",
+      "build": ""
+    },
+    {
+      "record_id": "pzg5g8ey",
+      "submitter_id": "vladix123",
+      "leaderboard_id": "l_r9gzojkd-ndx8661k",
+      "rank": 3,
+      "platform": "PC",
+      "lrt_time": "5m 01s 180ms",
+      "rta_time": "\u2014",
+      "build": ""
+    },
+    {
+      "record_id": "y97qrqnm",
+      "submitter_id": "xZempty_",
+      "leaderboard_id": "l_r9gzojkd-ndx8661k",
+      "rank": 4,
+      "platform": "PC",
+      "lrt_time": "5m 15s 450ms",
+      "rta_time": "5m 50s ",
+      "build": ""
+    },
+    {
+      "record_id": "yo6wr8dy",
+      "submitter_id": "VehicleRonald",
+      "leaderboard_id": "l_r9gzojkd-9d8p31lk",
+      "rank": 1,
+      "platform": "PC",
+      "lrt_time": "1m 49s 990ms",
+      "rta_time": "5m 34s 570ms",
+      "build": ""
+    },
+    {
+      "record_id": "z1xrk69m",
+      "submitter_id": "owerfloww",
+      "leaderboard_id": "l_r9gzojkd-9d8p31lk",
+      "rank": 2,
+      "platform": "PC",
+      "lrt_time": "3m 52s 180ms",
+      "rta_time": "8m 33s 620ms",
+      "build": ""
+    },
+    {
+      "record_id": "z5o3q3jy",
+      "submitter_id": "Moonstruck",
+      "leaderboard_id": "l_r9gzojkd-9d8p31lk",
+      "rank": 3,
+      "platform": "PC",
+      "lrt_time": "4m 48s ",
+      "rta_time": "\u2014",
+      "build": ""
+    },
+    {
+      "record_id": "emk6525z",
+      "submitter_id": "vladix123",
+      "leaderboard_id": "l_r9gzojkd-9d8p31lk",
+      "rank": 4,
+      "platform": "PC",
+      "lrt_time": "5m 17s 530ms",
+      "rta_time": "\u2014",
+      "build": ""
+    },
+    {
+      "record_id": "nz17rggz",
+      "submitter_id": "hoboken",
+      "leaderboard_id": "l_o9x2vz1w-824x05nd",
+      "rank": 1,
+      "platform": "PC",
+      "lrt_time": "8m 01s 950ms",
+      "rta_time": "\u2014",
+      "build": ""
+    },
+    {
+      "record_id": "yoddg35m",
+      "submitter_id": "ArkanLite",
+      "leaderboard_id": "l_o9x2vz1w-824x05nd",
+      "rank": 2,
+      "platform": "PC",
+      "lrt_time": "8m 15s 450ms",
+      "rta_time": "8m 17s ",
+      "build": ""
+    },
+    {
+      "record_id": "z0o48l9z",
+      "submitter_id": "Eold",
+      "leaderboard_id": "l_o9x2vz1w-824x05nd",
+      "rank": 3,
+      "platform": "PC",
+      "lrt_time": "8m 21s 840ms",
+      "rta_time": "\u2014",
+      "build": ""
+    },
+    {
+      "record_id": "nz17rn9z",
+      "submitter_id": "vladix123",
+      "leaderboard_id": "l_o9x2vz1w-824x05nd",
+      "rank": 4,
+      "platform": "PC",
+      "lrt_time": "8m 25s 320ms",
+      "rta_time": "\u2014",
+      "build": ""
+    },
+    {
+      "record_id": "yleonlkz",
+      "submitter_id": "hoboken",
+      "leaderboard_id": "l_o9x2vz1w-jdz7n16k",
+      "rank": 1,
+      "platform": "PC",
+      "lrt_time": "8m 01s 950ms",
+      "rta_time": "\u2014",
+      "build": ""
+    },
+    {
+      "record_id": "zxoqrpez",
+      "submitter_id": "timurkazz",
+      "leaderboard_id": "l_o9x2vz1w-jdz7n16k",
+      "rank": 2,
+      "platform": "PC",
+      "lrt_time": "8m 52s 160ms",
+      "rta_time": "8m 58s 030ms",
+      "build": ""
+    },
+    {
+      "record_id": "y47d7rqy",
+      "submitter_id": "KomyDaTb",
+      "leaderboard_id": "l_o9x2vz1w-jdz7n16k",
+      "rank": 3,
+      "platform": "PC",
+      "lrt_time": "9m 05s 190ms",
+      "rta_time": "\u2014",
+      "build": ""
+    },
+    {
+      "record_id": "9mr51k4y",
+      "submitter_id": "vladix123",
+      "leaderboard_id": "l_o9x2vz1w-ndx8661k",
+      "rank": 1,
+      "platform": "PC",
+      "lrt_time": "5m 25s 960ms",
+      "rta_time": "\u2014",
+      "build": ""
+    },
+    {
+      "record_id": "oy2o7qwm",
+      "submitter_id": "JonatanDevil",
+      "leaderboard_id": "l_o9x2vz1w-ndx8661k",
+      "rank": 2,
+      "platform": "PC",
+      "lrt_time": "8m 30s 700ms",
+      "rta_time": "8m 33s 200ms",
+      "build": ""
+    },
+    {
+      "record_id": "m37e0d4z",
+      "submitter_id": "VehicleRonald",
+      "leaderboard_id": "l_o9x2vz1w-9d8p31lk",
+      "rank": 1,
+      "platform": "PC",
+      "lrt_time": "1m 28s 990ms",
+      "rta_time": "9m 11s ",
+      "build": ""
+    },
+    {
+      "record_id": "y2d0r1jz",
+      "submitter_id": "iNSM",
+      "leaderboard_id": "l_o9x2vz1w-9d8p31lk",
+      "rank": 2,
+      "platform": "PC",
+      "lrt_time": "4m 16s 900ms",
+      "rta_time": "11m 20s ",
+      "build": ""
+    },
+    {
+      "record_id": "y2d70rjz",
+      "submitter_id": "notabigbagofpotatoes",
+      "leaderboard_id": "l_o9x2vz1w-9d8p31lk",
+      "rank": 3,
+      "platform": "PC",
+      "lrt_time": "\u2014",
+      "rta_time": "9m 00s ",
+      "build": ""
+    },
+    {
+      "record_id": "mr7ev07z",
+      "submitter_id": "Juest",
+      "leaderboard_id": "l_o9x2vz1w-9d8p31lk",
+      "rank": 4,
+      "platform": "PC",
+      "lrt_time": "\u2014",
+      "rta_time": "9m 34s 746ms",
+      "build": ""
+    },
+    {
+      "record_id": "zg2p5ony",
+      "submitter_id": "Wilbo__",
+      "leaderboard_id": "l_495j0rjw-824x05nd",
+      "rank": 1,
+      "platform": "PC",
+      "lrt_time": "4m 11s 015ms",
+      "rta_time": "\u2014",
+      "build": "Unpack (5135)"
+    },
+    {
+      "record_id": "me7grw3y",
+      "submitter_id": "PenPerson",
+      "leaderboard_id": "l_495j0rjw-824x05nd",
+      "rank": 2,
+      "platform": "PC",
+      "lrt_time": "4m 21s 520ms",
+      "rta_time": "6m 38s 830ms",
+      "build": ""
+    },
+    {
+      "record_id": "m3g06jqz",
+      "submitter_id": "qv2b",
+      "leaderboard_id": "l_495j0rjw-824x05nd",
+      "rank": 3,
+      "platform": "PC",
+      "lrt_time": "4m 22s 900ms",
+      "rta_time": "\u2014",
+      "build": ""
+    },
+    {
+      "record_id": "y95867vz",
+      "submitter_id": "Lyren",
+      "leaderboard_id": "l_495j0rjw-824x05nd",
+      "rank": 4,
+      "platform": "PC",
+      "lrt_time": "5m 35s 220ms",
+      "rta_time": "9m 26s 150ms",
+      "build": ""
+    },
+    {
+      "record_id": "y9xekjry",
+      "submitter_id": "Dirtch",
+      "leaderboard_id": "l_495j0rjw-jdz7n16k",
+      "rank": 1,
+      "platform": "PC",
+      "lrt_time": "4m 44s 310ms",
+      "rta_time": "4m 47s 800ms",
+      "build": ""
+    },
+    {
+      "record_id": "ywpl290z",
+      "submitter_id": "waezone",
+      "leaderboard_id": "l_495j0rjw-jdz7n16k",
+      "rank": 2,
+      "platform": "PC",
+      "lrt_time": "5m 06s 210ms",
+      "rta_time": "\u2014",
+      "build": ""
+    },
+    {
+      "record_id": "y895g45m",
+      "submitter_id": "maltemller",
+      "leaderboard_id": "l_495j0rjw-jdz7n16k",
+      "rank": 3,
+      "platform": "PC",
+      "lrt_time": "5m 10s 630ms",
+      "rta_time": "\u2014",
+      "build": ""
+    },
+    {
+      "record_id": "zx4exp5y",
+      "submitter_id": "eljest",
+      "leaderboard_id": "l_495j0rjw-jdz7n16k",
+      "rank": 4,
+      "platform": "PC",
+      "lrt_time": "6m 00s ",
+      "rta_time": "\u2014",
+      "build": ""
+    },
+    {
+      "record_id": "zxn8368m",
+      "submitter_id": "PenPerson",
+      "leaderboard_id": "l_495j0rjw-ndx8661k",
+      "rank": 1,
+      "platform": "PC",
+      "lrt_time": "2m 58s 540ms",
+      "rta_time": "5m 30s 920ms",
+      "build": "OE 4044"
+    },
+    {
+      "record_id": "nz17r1jz",
+      "submitter_id": "vladix123",
+      "leaderboard_id": "l_495j0rjw-ndx8661k",
+      "rank": 2,
+      "platform": "PC",
+      "lrt_time": "4m 46s 330ms",
+      "rta_time": "\u2014",
+      "build": ""
+    },
+    {
+      "record_id": "y483292m",
+      "submitter_id": "VehicleRonald",
+      "leaderboard_id": "l_495j0rjw-9d8p31lk",
+      "rank": 1,
+      "platform": "PC",
+      "lrt_time": "3m 46s 130ms",
+      "rta_time": "6m 38s 570ms",
+      "build": ""
+    }
+  ]
+}
