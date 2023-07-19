@@ -339,7 +339,7 @@ Berikut adalah hasil query untuk mencari naga dengan info lengkap berdasarkan id
 
 ![Query Find Dragon](Data%20Storing/screenshot/query_info_dragon_by_id.png)
 
-Seperti yang kita lihat pada gambar di atas, query tersebut menghasilkan info lengkap dari naga dengan id 1, yaitu naga Nature Dragon. Jika anda ingin mengquery berdasarkan nama naga, anda dapat mengganti `dr.id_dragon = <dragon_id>` dengan `dr.dragon_name = <dragon_name>`.
+Seperti yang kita lihat pada gambar di atas, query tersebut menghasilkan info lengkap dari naga dengan id 1, yaitu naga Nature Dragon. Jangan lupa untuk mengganti `<dragon_id>` dengan id naga yang ingin dicari. Jika anda ingin melakukan query berdasarkan nama naga, anda dapat mengganti `dr.id_dragon = <dragon_id>` dengan `dr.dragon_name = <dragon_name>`. Begitu juga jika ingin mencari berdasarkan element, rarity, atau atribut lainnya anda tinggal menyesuaikan kondisi pada `WHERE` query tersebut.
 
 ### Reference (Library used, etc)
 
