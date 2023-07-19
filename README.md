@@ -208,15 +208,26 @@ Relasi ini merupakan relasi yang menghubungkan entitas books dan customer yang m
 &nbsp;
 
 ## __Program Screenshots__
-\
-&nbsp;
-\
+Berikut beberapa Screenshot dari Program. Untuk screenshot dari keseluruhan program dapat dilihat pada folder `Data Scraping/screenshot/` & `Data Storing/screenshot`.
+<p align="center">
+  <img src="./Data Scraping/screenshot/1.png" />
+  <img src="./Data Scraping/screenshot/5.png" />
+  <img src="./Data Scraping/screenshot/7.png" />
+  <img src="./Data Scraping/screenshot/12.png" />
+  <img src="./Data Scraping/screenshot/15.png" />
+  <img src="./Data Scraping/screenshot/19.png" />
+  <img src="./Data Storing/screenshot/0.png" />
+  <img src="./Data Storing/screenshot/1.png" />
+  <img src="./Data Storing/screenshot/2.png" />
+  <img src="./Data Storing/screenshot/dump.png" />
+</p>
 &nbsp;
 
 ### _References_
-- a
-- b
-\
+- BeautifulSoup4
+- Selenium
+- JSON & JSONB
+- More Ref. on the `ScrapingScript.ipynb` & `Data Storing/src/ files.`
 &nbsp;
 
 ### __Author__
