@@ -60,7 +60,7 @@ Program ini menggunakan Python dan beberapa library sebagai berikut:
 3. Pastikan Python sudah terinstall di komputer Anda. Jika belum, silakan install Python terlebih dahulu.
 4. Install library yang dibutuhkan dengan menjalankan perintah `pip install <library>`.
 5. Jalankan program file `scrapping_dc_json` pada `Data Scraping/src`.
-( Anda bisa menyesuaikan jumlah data naga yang berusaha diambil dengan mengubah nilai `dragons[:1584]` file `Data Scraping/src/scrapping_dc_json.py` )
+( Anda bisa menyesuaikan jumlah data naga yang berusaha diambil dengan mengubah nilai `1584` pada `dragons[:1584]` file `Data Scraping/src/scrapping_dc_json.py` )
 6. Anda akan mendapatkan file `all_dragon_data.json` yang berisi data naga-naga Dragon City.
 7. Anda bisa melihat dan memabandingkan data naga-naga Dragon City yang telah discraping dengan data yang ada di website [deetlist.com/dragoncity/](https://deetlist.com/dragoncity/) oleh penulis pada file `Data Scraping/data/all_dragon_data.json`.
 
