@@ -13,9 +13,9 @@
 </h2>
 
 ![Dragon City](Data%20Storing/screenshot/dragon_city.png)
-<p style="text-align: justify;">
-  Dragon City adalah permainan simulasi yang dikembangkan oleh Social Point. Permainan ini dapat dimainkan di Facebook, iOS, Android, dan Windows Phone. Pada permainan ini, pemain dapat membangun kota naga, membiakkan naga, dan bertarung dengan naga lainnya. Pada proyek ini, penulis akan melakukan scraping data naga dari website [deetlist.com/dragoncity/](https://deetlist.com/dragoncity/), menyimpan data tersebut dalam basis data relasional, dan melakukan analisis sederhana terhadap data tersebut.
-</p>
+<sup>: : :</sup>
+Dragon City adalah permainan simulasi yang dikembangkan oleh Social Point. Permainan ini dapat dimainkan di Facebook, iOS, Android, dan Windows Phone. Pada permainan ini, pemain dapat membangun kota naga, membiakkan naga, dan bertarung dengan naga lainnya. Pada proyek ini, penulis akan melakukan scraping data naga dari website [deetlist.com/dragoncity/](https://deetlist.com/dragoncity/), menyimpan data tersebut dalam basis data relasional, dan melakukan analisis sederhana terhadap data tersebut.
+
 
 ## Spesifikasi
 
