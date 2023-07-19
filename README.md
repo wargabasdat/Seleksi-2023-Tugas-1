@@ -12,90 +12,106 @@
   <br>
 </h2>
 
+## Deskripsi dari Data dan DBMS
+DBMS : PostgreSQL
 
-## Spesifikasi
+Data yang dipilih : data clothing dari https://colorbox.co.id/collections/clothing
 
-### Data Scraping
+Data yang diambil bukan hanya informasi mengenai nama produk dan harga saja, melainkan juga informasi mengenai warna, kode produk, dan detail dari produk sehingga dilakukan pula data scraping untuk tiap link penjelasan produk. Total produk yang datanya berhasil diambil per tanggal 17 Juli 2023 adalah 643 produk dengan 6 atribut, yaitu kode produk, nama produk, image-link, harga, warna, dan details dari produk tersebut. 
+Data clothing ini saya gunakan sebagai bahan analisis karena industri fashion merupakan salah satu industri yang sangat berkembang saat ini. Untuk mempelajari trend yang ada pada dunia fashion, saya mengambil contoh kecil dengan mengulas tren koleksi pada toko dengan brand Colorbox, salah satu brand ramah kantong favorit saya. Dengan melakukan data scraping, data modelling, data storing, dan data visualization, kita dapat melihat kategori pakaian apa yang sedang banyak diperjualbelikan, warna apa yang mendominasi pasar pakaian, serta berapa rata-rata harga pakaian yang dijual dalam suatu website (dalam kasus ini adalah pada website Colorbox).
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
+## Spesifikasi Program
+Program ini dibuat dengan menggunakan bahasa pemrograman Python 3.10.11 dengan menggunakan beberapa library seperti selenium karena data diambil dari website yang sifatnya dinamis. Selain itu, digunakan pula library BeautifulSoup untuk membantu proses ekstraksi HTML dan parsing informasi dari website Colorbox. Kemudian, dilakukan proses cleaning dari data yang berhasil diproleh dari website tersebut. Salah satu proses cleaning yang dilakukan adalah menghapus tulisan "IDR" dari value atribut Price agar atribut Price dapat disimpan dalam bentuk numeric pada database nantinya. Dilakukan pula proses imputasi pada null value, misalnya dengan mengganti null value menjadi N/A pada data details product yang kosong. Data yang telah melewati proses cleaning kemudian akan melalui proses serializing untuk diubah ke bentuk JSON. 
 
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
+Sebelum melakukan proses pembuatan skema database, database terlebih dahulu harus dibuat pada sistem DBMS PostgreSQL, seperti di bawah ini
 
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
-
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
+```sql
+CREATE DATABASE IF NOT EXISTS seleksi_basdat
 ```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
+Kemudian, dibuat beberapa tabel sesuai dengan ERD dan Relational Diagram yang telah dibuat pada bagian design. Setelah skema lengkap dan seluruh constraint dan trigger telah dimasukkan, data JSON dapat dimasukkan ke database.
+
+## Cara Menggunakan
+1. User harus terlebih dahulu menginstal library yang digunakan pada program ini, yaitu `numpy', 'matplotlib', 'json', 'jsonpickle', 'BeautifulSoup', 'seleniun', dan 'psycopg2'.
+2. Clone repository ini
+3. Berada pada dir src
+4. Run `python scrape_main.py` untuk melakukan proses scraping dan serializing data to json file
+5. Membuat database pada sistem PostgreSQL dengan:
+```sql
+CREATE DATABASE IF NOT EXISTS seleksi_basdat
 ```
+6. Memodifikasi koneksi pada file db.py agar sesuai dengan konfigurasi sistem PostgreSQL masing-masing
+7. Run `python db.py` untuk proses pembuatan skema dan storing data
+8. Database PostgreSQL kemudian dapat diexport ke dalam bentuk .sql dengan perintah
+   `pg_dump -U <username> -d <database_name> -s > <output_file.sql>`
 
-### Database Modelling & Data Storing
-
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
    
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
+## Struktur JSON
+Berikut contoh data JSON dari products.json
+```json
+{
+  "Product_Code": "I-TSKBSC523O606",
+  "Product_Name": "Basic Short Sleeve Crop T-Shirt",
+  "Image_Link": "//colorbox.co.id/cdn/shop/products/I-TSKBSC523O606_BROWN_1_T.jpg?v=1688058751&width=320",
+  "Color": "Brown",
+  "Price": "59900",
+  "Details": "T-shirt lengan pendek,  Round neck,  Unfinished hemline details,  Crop length,  Regular Crop,  Material: TC,  Model menggunakan ukuran  S,  HEIGHT: 174 cm,  BUST: 84 cm,  WAIST: 60 cm,  HIPS: 89 cm"
 
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
-
-4. Tools yang digunakan __dibebaskan__ pada peserta.
-
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
-
-
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
-
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
-
-### Pengumpulan
-
-
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
-
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
+}
 
 
 ```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
+
+## Struktur Basis Data (ERD and relational diagram)
+
+Sistem basis data online shop Colorbox ini disusun untuk dapat menyimpan informasi Customer (pengguna website). Customer bisa saja belum pernah melakukan transaksi ataupun mengisi keranjang (cart), hanya memiliki akun saja. Sistem basis data juga menyimpan data cart yang merupakan keranjang yang berisi total semua produk yang ingin dibeli pada session tertentu oleh suatu customer tertentu. Pada relasi cart, terdapat pula informasi mengenai order status, yang mengindikasikan apakah barang sudah dibayar, sedang dalam proses pengiriman, atau sudah terkirim. Terdapat juga relasi cart_product yang merupakan weak entity dari cart, kehadiran cart_product bergantung pada kehadiran cart. Bisa saja terdapat cart yang kosong, namun setiap cart_product pasti merujuk pada suatu cart tertentu. Setiap cart_product memiliki urutannya sendiri (dimulai dari 1) pada cart tertentu. Relasi produk berisi informasi mengenai setiap clothing items yang dijual pada situs colorbox. Barang-barang yang dapat dimasukkan ke dalam cart hanyalah barang-barang yang terdata pada relasi product saja. Berikutnya, terdapat pula relasi payment yang terbagi menjadi 3 secara disjoint yaitu e_wallet, credit card, ataupun bank_transfer. Payment hanya dapat dilakukan pada cart yang statusnya unpaid. 
+
+Berikut ini merupakan gambar dari ERD:
+
+<img src="Data Storing\design\seleksi-ERD.png">
+
+Dilakukan proses reduction untuk mengubah bentuk ERD di atas menjadi bentuk relational.
+1. Pada relasi Customer terdapat atribut address yang terdiri dari street, ward, subdistrict, city, province, dan postal code. Yang akan tercatat pada relational hanyalah penyusun dari address itu saja.
+2. Pada relasi Cart, terdapat Price_Total() yang merupakan atribut turunan. Atribut ini akan dihapus pada relational
+3. Hubungan antara cart dan customer adalah many to one dengan partisipasi total pada Cart. Oleh karena itu, pada relasi Cart, ditambahkan atribut Customer_ID yang merupakan primary key pada Customer
+4. Relasi Cart_Product merupakan weak entity dari Cart sehingga pada model relational, relasi Cart_Product akan ketambahan atribut Car_ID yang merupakan primary key dari Cart. Atribut Cart_ID ikut menjadi primary key pada relasi Cart_Product, selain Order_Number
+5. Relasi Cart_Product memiliki hubungan many to one dengan relasi Product, dengan partisipasi total pada Cart_Product. Oleh karena itu, relasi Cart_Product ketambahan 1 atribut baru yaitu Product_Code yang merupakan primary key dari Product
+6. Relasi Cart memiliki hubungan one to one dengan relasi Payment dengan partisipasi total pada Payment. Hal ini membuat pada model relational, relasi payment ketambahan 1 atribut baru yaitu Cart_ID yang merupakan primary key dari Cart.
+7. Relasi Credit_Cart, E_Wallet, dan Bank_Transfer berturut-turut akan ketambahan 1 atribut baru yaitu Payment_ID yang merupakan primary key dari Payment.
+
+Berikut ini merupakan model relational yang terbentuk:
+
+<img src = "Data Storing\design\seleksi-Relational.png">
+
+## Screenshot program
+
+Berikut ini merupakan beberapa screenshot code scraping yang code lengkapnya dapat dilihat pada `Data Scraping/src/scrape_lib.py` dan `Data Scraping/src/scrape_main.py`
+
+<img src = "Data Scraping\screenshot\getHTMLText.png">
+<img src = "Data Scraping\screenshot\getListOfTupleDatta.png">
+<img src = "Data Scraping\screenshot\jsonStoring.png">
 
 
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
+Berikut ini beberapa screenshot ketika code `scrape_main.py` dijalankan
 
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
+<img src = "Data Scraping\screenshot\scraping1.png">
+<img src = "Data Scraping\screenshot\scraping2.png">
 
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
-<br>
+
+Berikut screenshot table product pada DBMS yang telah dibuat
+<img src = "Data Storing\screenshot\product.png">
+
+Code untuk storing data selengkapnya dapat ditemukan pada `Data Scraping/src/db.py`
+
+
+
+## Reference
+1. BeautifulSoup
+2. jsonpickle
+3. time
+4. selenium
+5. json
+6. psycopg2
+
+## Author
+Kandida Edgina Gunawan (13521155)
