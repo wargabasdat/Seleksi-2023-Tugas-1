@@ -38,7 +38,7 @@ Program untuk melakukan *data scraping* dan *data storing* ditulis menggunakan b
 5. *create database* terlebih dahulu di __PostgreSQL__. Ganti nama __database, user, dan password yang sesuai__ pada file __store.py__.
 6. Jalankan program dengan mengetikkan __python3 store.py__ pada CMD
 
-## JSON Structure {#JSON-structure}
+## JSON Structure
 Contoh *instance* data JSON:
 ```
 { "school": [
@@ -215,12 +215,15 @@ Berikut merupakan contoh hasil penyimpanan data pada *database* setelah program 
 </div>
 
 ## Data Visualization (BONUS)
-Visualisasi data digunakan untuk memudahkan analisis data dalam mendapatkan suatu *insight* yang berguna. Berikut merupakan contoh visualisasi data dalam bentuk *pie chart* mengenai statistik hasil pertandingan dari SMA GLORIA 1 SURABAYA (GIRLS) yang merupakan juara DBL *Season 2022 East Java Series North Region* dan telah menjadi juara dalam 3 season berturut-turut. 
-<div align=center>
-  <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Visualization/visualisasi/Visualisasi_Pertandingan_Gloria1.png width=450>
+Visualisasi data digunakan untuk memudahkan analisis data dalam mendapatkan suatu *insight* yang berguna. *Insight* yang didapatkan berupa kekuatan dan kelemahan team serta strategi untuk melawannya. Berikut merupakan contoh visualisasi data dalam bentuk *pie chart* dan *stacked bar chart* mengenai statistik hasil pertandingan dari SMA GLORIA 1 SURABAYA (GIRLS) yang merupakan juara DBL *Season 2022 East Java Series North Region* dan telah menjadi juara dalam 3 season berturut-turut. Berikut merupakan hasil statistik pertandingan SMA GLORIA 1 SURABAYA Season 2022.  
+<div style="display: flex; justify-content: center;">
+  <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Visualization/visualisasi/Visualisasi_Skor_Gloria1.png width=510>
+  <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Visualization/visualisasi/Visualisasi_Pertandingan_Gloria1.png width=310>
 </div>
 
-*Pie chart* berisi total __assist, steal, block, turnover, dan points off turnover__ oleh SMA GLORIA 1 SURABAYA selama season 2022. Terlihat bahwa 31.7% 
+__*Stacked bar chart*__ berisi poin __TO(turnover), 2 points, 3 points, dan free throw__ yang berhasil dihasilkan oleh SMA GLORIA 1 SURABAYA dalam setiap pertandingan. Terlihat bahwa mayoritas poin didapatkan dari turnover. Ini berarti SMA GLORIA 1 SURABAYA memiliki *defense* yang sangat bagus sehingga lawan sering melakukan turnover. Selain itu, tidak hanya berhasil melakukan turnover, SMA GLORIA 1 SURABAYA juga berhasil mencetak poin dari turnover tersebut. Hal ini berarti SMA GLORIA 1 SURABAYA memiliki kecepatan dan ketepatan dalam melakukan *fast break* yang tidak dimiliki oleh semua team. Banyak pemain yang cepat melakukan *fast break* tetapi kurang tepat dalam melakukan poin sehingga turnover sia-sia. Hal ini membutuhkan kekuatan fisik yang bagus. Namun, SMA GLORIA 1 SURABAYA memiliki kelemahan dalam mencetak 3 point, yang berarti *defense* paling tepat untuk melawan hal tersebut adalah *defense* di dalam garis 3 point.
+
+__*Pie chart*__ berisi total __assist, steal, block, turnover__ oleh SMA GLORIA 1 SURABAYA selama season 2022. Terlihat bahwa angka tertinggi terletak pada *steal* yang dilakukan oleh SMA GLORIA 1 SURABAYA. Hal ini selaras dengan yang sudah dibahas sebelumnya bahwa poin terbanyak yang dicetak oleh SMA GLORIA 1 SURABAYA berasal dari *turnover*. Hal ini bisa diatasi dengan *ball handling* yang bagus, tetap tenang walaupun lawan melakukan *man-to-man defense*. Selain itu, assist juga banyak dilakukan oleh SMA GLORIA 1 SURABAYA yang berarti pemainnya terus bergerak selama jalannya pertandingan dan saling oper hingga ada kesempatan untuk memasukkan bola. Hal ini dapat dicegah dengan cara *man-to-man defense* dengan memastikan tidak ada celah untuk lawan mengoper bola ke orang yang kosong dan mencetak poin.
 
 
 ## Reference 
