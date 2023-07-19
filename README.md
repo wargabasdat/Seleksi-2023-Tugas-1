@@ -141,18 +141,6 @@ Ini adalah struktur JSON yang dapat digunakan untuk menyimpan data naga hasil sc
 
 Berikut adalah diagram hubungan antar entitas (Entity Relationship Diagram/ERD) berdasarkan poin-poin yang telah disebutkan:
 
-```mermaid
-erDiagram
-    DRAGON ||--o{ ELEMENT : has
-    DRAGON ||--|{ TRAINABLE_ATTACK : has
-    DRAGON ||--|{ BASE_MOVE : has
-    DRAGON ||--|{ RARITY : has
-
-    DRAGON_STRENGTH ||--|| DRAGON : has
-    DRAGON_WEAKNESS ||--|| DRAGON : has
-    DRAGON_TRAINABLE_ATTACK ||--|| DRAGON : has
-    DRAGON_BASE_MOVE ||--|| DRAGON : has
-    DRAGON ||--|{ DRAGON_RARITY : belongs to
 
 ![Relational Diagram](Data%20Storing/design/Relational_Diagram_Dragon_City.png)
 
