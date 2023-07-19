@@ -14,7 +14,7 @@
 
 ![Dragon City](Data%20Storing/screenshot/dragon_city.png)
 
-Dragon City adalah sebuah permainan simulasi yang telah dikembangkan oleh Social Point. Permainan ini bisa dimainkan di berbagai platform seperti Facebook, iOS, Android, dan Windows Phone. Dalam permainan ini, para pemain memiliki kesempatan untuk membangun sebuah kota yang penuh dengan naga-naga, melakukan pembiakan naga, serta bertarung melawan naga-naga lainnya. Dalam proyek ini, penulis akan melakukan pengambilan data mengenai naga-naga dari situs web deetlist.com/dragoncity/, menyimpan data tersebut dalam sebuah basis data yang berhubungan menggunakan MySQL, dan melakukan analisis sederhana terhadap data yang telah disimpan.
+[Dragon City](https://www.dragoncitygame.com/) adalah sebuah permainan simulasi yang telah dikembangkan oleh Social Point. Permainan ini bisa dimainkan di berbagai platform seperti Facebook, iOS, Android, dan Windows Phone. Dalam permainan ini, para pemain memiliki kesempatan untuk membangun sebuah kota yang penuh dengan naga-naga, melakukan pembiakan naga, serta bertarung melawan naga-naga lainnya. Dalam proyek ini, penulis akan melakukan pengambilan data mengenai naga-naga dari situs web [deetlist.com/dragoncity/](https://deetlist.com/dragoncity/), menyimpan data tersebut dalam sebuah basis data yang berhubungan menggunakan MySQL, dan melakukan analisis sederhana terhadap data yang telah disimpan.
 
 
 ## Spesifikasi
@@ -30,7 +30,7 @@ Dragon City adalah sebuah permainan simulasi yang telah dikembangkan oleh Social
   - [Author](#author)
 
 ### Description
-Data yang digunakan dalam proyek ini berasal dari website deetlist.com/dragoncity/. Data tersebut merupakan informasi tentang naga-naga dalam permainan Dragon City, termasuk detail seperti nama, elemen, statistik, serangan, dan kekuatan/kelemahan.
+Data yang digunakan dalam proyek ini berasal dari website [deetlist.com/dragoncity/](https://deetlist.com/dragoncity/). Data tersebut merupakan informasi tentang naga-naga dalam permainan Dragon City, termasuk detail seperti nama, elemen, statistik, serangan, dan kekuatan/kelemahan.
 
 DBMS yang digunakan dalam proyek ini adalah MySQL yang diakses melalui phpMyAdmin. MySQL dan phpMyAdmin dipilih karena merupakan kombinasi yang populer dan dapat diandalkan untuk mengelola basis data relasional dengan antarmuka pengguna yang intuitif.
 
@@ -322,6 +322,7 @@ Proses translasi ERD menjadi relational diagram melibatkan beberapa langkah beri
 - [PhpMyAdmin](https://www.phpmyadmin.net/)
 - [XAMPP](https://www.apachefriends.org/index.html)
 - [Minimization of ER Diagrams - GeeksforGeeks](https://www.geeksforgeeks.org/minimization-of-er-diagrams/)
+- [Dragon City - Deetlist](https://deetlist.com/dragoncity/dragon/)
 
 ### Author
 
