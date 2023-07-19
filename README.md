@@ -27,12 +27,14 @@ Setelah memperoleh data tersebut, dilakukan _database modelling_. Kemudian, data
 
 Penulis memilih data _event_ pada eventkampus.com karena pada saat pembuatan, penulis sedang bertugas untuk mengurus _media partner_ pada suatu organisasi. Tak hanya itu, penulis ingin mengetahui jenis-jenis _event_ yang diadakan serta persebaran rentang harga dari tiket yang dijual pada website tersebut. Data tersebut berguna untuk mengetahui tren dari _event_ yang diadakan dan dapat dijadikan _benchmark_ untuk _event_ yang mungkin penulis rancang di masa depan. Selain itu, penulis memilih PostgreSQL sebagai DBMS untuk menguji kemampuan penulis dalam mengoperasikan PostgreSQL berdasarkan yang telah dipelajari pada mata kuliah Manajemen Basis Data dan untuk mengeksplorasi lebih lanjut. PostgreSQL juga memiliki fungsi-fungsi yang tidak terdapat pada MySQL.
 
+<br>
 
 ### Specification of the program
 Program ini terdiri dari dua bagian, yaitu _data scraping_ dan _data storing_ sesuai dengan folder yang terdapat pada _repository_ ini. Pada folder `Data Scraping`, terdapat kode untuk menjalankan _data scraping_ dari website eventkampus.com serta file JSON berisi data-data hasil _data scraping_ yang telah dilakukan. File kode terdiri dari kode untuk mendapatkan data event, kategori, kota, tag, dan tiket. Kode disusun dengan memanfaatkan bahasa pemrograman `Python` dengan `BeautifulSoup` untuk melakukan _data scraping_. _Data scraping_ dimulai dengan mengidentifikasi data-data yang ingin diperoleh dari website. Kemudian, lakukan _import library_ yang akan digunakan yaitu `requests`, `BeautifulSoup`, dan `json`. Selanjutnya, mencari data-data yang diinginkan berdasarkan URL dari halaman data tersebut. Lakukan _looping_ atau algoritma lainnya bila diperlukan. _Data preprocessing_ dilakukan pada tahap ini untuk memperoleh data bersih untuk disimpan. Data-data yang diperoleh kemudian disimpan ke dalam sebuah _dictionary_. _Dictionary_ tersebut kemudian dimasukkan ke dalam file JSON yang dituju.
 
 Pada folder `Data Storing`, terdapat file-file dari proses _database modelling_ dan _data storing_ berupa ERD, _relational diagram_, dan SQL _dump_. Pada proses ini, pemodelan basis data dalam bentuk `Entity-Relationship Diagram` (ERD) dilakukan berdasarkan data-data yang telah diperoleh. Beberapa tabel dan atribut pun ditambahkan sesuai dengan proses yang terjadi pada website. Pada tahap ini, tabel-tabel yang digambarkan adalah tabel kota, event, tiket (_weak entity_), pembelian, profil, dan pengguna. Setelah keterhubungan masing-masing tabel dan atribut telah terdefinisi dengan baik, ERD ditranslasikan menjadi sebuah skema relasional. Translasi tersebut menghasilkan tabel baru (seperti tabel tag) dan penyisipan atribut pada tabel lain. Skema relasional tersebut kemudian digambarkan dalam bentuk `Relational Diagram` untuk memperjelas model dari basis data yang akan dikembangkan. Model basis data tersebut kemudian dikembangkan menjadi sebuah basis data menggunakan PostgreSQL. Pada pengembangannya, dibentuk sebuah basis data baru yang berisi tabel-tabel sesuai dengan _relational diagram_ yang telah dibentuk. Selain itu, ditambahkan _constraints_ yang sesuai dengan ketentuan dari data serta proses yang berlangsung dari data tersebut. Beberapa _constraints_ yang digunakan pada basis data ini adalah CHECK, NOT NULL, UNIQUE. Selain itu, pendefinisian _primary key_, _foreign key_, dan tipe data juga dilakukan dalam proses pembentukan tabel. Setelah tabel-tabel terbentuk, dilakukan proses _data storing_ ke dalam tabel-tabel pada basis data tersebut. Sebelum melakukan _import_ data, file JSON yang diperoleh dari _data scraping_ diubah bentuknya menjadi file CSV untuk memudahkan proses _data storing_. Kemudian, masing-masing file di-_import_ ke dalam tabel yang bersesuaian. Setelah semua data berhasil tersimpan, basis data telah siap digunakan. Dari basis data yang telah terbentuk, dapat dilakukan proses analisis data dan manipulasi data untuk mendapatkan _insight_ terkait data _event_ yang terdapat pada website eventkampus.com.
 
+<br>
 
 ### How to use
 Cara menggunakan `Program Data Scraping`:
@@ -49,6 +51,7 @@ Cara menggunakan `File SQL`:
 4. Pemrosesan data pada database dapat dilakukan dengan memanfaatkan _relational diagram_ sebagai referensi dari keterhubungan masing-masing tabel
 5. Jika ingin melakukan _dump_ basis data ke file eksternal, keluar dari PostgreSQL lalu tuliskan pada terminal: `pg_dump -U {username} -d {database_name} > {external_file_name}.sql`
 
+<br>
 
 ### JSON Structure
 <b>Berikut merupakan struktur JSON dari file event.json:</b>
@@ -119,14 +122,16 @@ Cara menggunakan `File SQL`:
 * `id_kota`: kode unik untuk suatu kota
 * `kota`: nama kota yang diperoleh dari _list_ kota pada website eventkampus.com
 
+<br>
 
 ### Database Structure
 Berikut merupakan Entity-Relationship Diagram (ERD) dari database eventkampus:
-<img src='/Data Scraping/design/ERD.png'>
+<img src='/Data Storing/design/ERD.png'>
 
 Berikut merupakan Relational Diagram dari database eventkampus:
-<img src='/Data Scraping/design/RelationalDiagram.png'>
+<img src='/Data Storing/design/RelationalDiagram.png'>
 
+<br>
 
 ### Explanation of ERD to relational diagram translation process
 Secara umum, translasi _ERD_ menjadi _relational diagram_ dilakukan dengan langkah berikut ini:
@@ -139,6 +144,7 @@ Secara umum, translasi _ERD_ menjadi _relational diagram_ dilakukan dengan langk
 
 Untuk penjelasan lebih lengkap terkait translasi untuk basis data eventkampus dapat dilihat pada file berikut ini: [ERD to Relational Schema](https://docs.google.com/document/d/1PS7cbDnv4UT22VyY_nF02hs6hviYrJblZLIoEShyvYk/edit?usp=sharing)
 
+<br>
 
 ### Screenshot program
 #### Data Scraping
@@ -190,6 +196,7 @@ Data pada tabel profil:
 Detail terkait tabel profil:
 <img src='/Data Storing/screenshot/detail_profil.png'>
 
+<br>
 
 ### Reference
 #### Libraries used
@@ -200,6 +207,7 @@ Detail terkait tabel profil:
 1. PostgreSQL Documentation
 2. pgAdmin
 
+<br>
 
 ### Author
 #### Marcheline Fanni Hidayat Putri - 18221090
