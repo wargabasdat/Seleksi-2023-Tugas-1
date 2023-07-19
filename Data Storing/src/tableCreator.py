@@ -3,6 +3,7 @@ import sys
 
 line = '=' * 50
 
+
 def createTeam(cur: mariadb.Cursor, conn: mariadb.Connection):
     """
     Creating Team Table
