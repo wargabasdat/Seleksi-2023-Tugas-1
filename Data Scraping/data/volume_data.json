@@ -1,0 +1,390 @@
+[
+    {
+        "Symbol": "BTC-USD",
+        "Total Volume All Currencies in 24hr (in M)": 14738.0
+    },
+    {
+        "Symbol": "ETH-USD",
+        "Total Volume All Currencies in 24hr (in M)": 7389.0
+    },
+    {
+        "Symbol": "USDT-USD",
+        "Total Volume All Currencies in 24hr (in M)": 28747.0
+    },
+    {
+        "Symbol": "BNB-USD",
+        "Total Volume All Currencies in 24hr (in M)": 535.403
+    },
+    {
+        "Symbol": "XRP-USD",
+        "Total Volume All Currencies in 24hr (in M)": 4657.0
+    },
+    {
+        "Symbol": "USDC-USD",
+        "Total Volume All Currencies in 24hr (in M)": 3384.0
+    },
+    {
+        "Symbol": "STETH-USD",
+        "Total Volume All Currencies in 24hr (in M)": 13.672
+    },
+    {
+        "Symbol": "ADA-USD",
+        "Total Volume All Currencies in 24hr (in M)": 394.988
+    },
+    {
+        "Symbol": "SOL-USD",
+        "Total Volume All Currencies in 24hr (in M)": 1586.0
+    },
+    {
+        "Symbol": "DOGE-USD",
+        "Total Volume All Currencies in 24hr (in M)": 959.055
+    },
+    {
+        "Symbol": "WTRX-USD",
+        "Total Volume All Currencies in 24hr (in M)": 1.061
+    },
+    {
+        "Symbol": "MATIC-USD",
+        "Total Volume All Currencies in 24hr (in M)": 365.29
+    },
+    {
+        "Symbol": "TRX-USD",
+        "Total Volume All Currencies in 24hr (in M)": 206.14
+    },
+    {
+        "Symbol": "LTC-USD",
+        "Total Volume All Currencies in 24hr (in M)": 714.813
+    },
+    {
+        "Symbol": "DOT-USD",
+        "Total Volume All Currencies in 24hr (in M)": 98.532
+    },
+    {
+        "Symbol": "WKAVA-USD",
+        "Total Volume All Currencies in 24hr (in M)": null
+    },
+    {
+        "Symbol": "AVAX-USD",
+        "Total Volume All Currencies in 24hr (in M)": 327.549
+    },
+    {
+        "Symbol": "BCH-USD",
+        "Total Volume All Currencies in 24hr (in M)": 481.154
+    },
+    {
+        "Symbol": "WBTC-USD",
+        "Total Volume All Currencies in 24hr (in M)": 119.597
+    },
+    {
+        "Symbol": "DAI-USD",
+        "Total Volume All Currencies in 24hr (in M)": 98.419
+    },
+    {
+        "Symbol": "TON11419-USD",
+        "Total Volume All Currencies in 24hr (in M)": 8.379
+    },
+    {
+        "Symbol": "SHIB-USD",
+        "Total Volume All Currencies in 24hr (in M)": 74.179
+    },
+    {
+        "Symbol": "BUSD-USD",
+        "Total Volume All Currencies in 24hr (in M)": 1884.0
+    },
+    {
+        "Symbol": "LINK-USD",
+        "Total Volume All Currencies in 24hr (in M)": 240.012
+    },
+    {
+        "Symbol": "LEO-USD",
+        "Total Volume All Currencies in 24hr (in M)": null
+    },
+    {
+        "Symbol": "UNI7083-USD",
+        "Total Volume All Currencies in 24hr (in M)": 51.28
+    },
+    {
+        "Symbol": "XMR-USD",
+        "Total Volume All Currencies in 24hr (in M)": 68.799
+    },
+    {
+        "Symbol": "TUSD-USD",
+        "Total Volume All Currencies in 24hr (in M)": 1616.0
+    },
+    {
+        "Symbol": "ETC-USD",
+        "Total Volume All Currencies in 24hr (in M)": 198.326
+    },
+    {
+        "Symbol": "OKB-USD",
+        "Total Volume All Currencies in 24hr (in M)": 2.274
+    },
+    {
+        "Symbol": "CNX-USD",
+        "Total Volume All Currencies in 24hr (in M)": 1.847
+    },
+    {
+        "Symbol": "FGC-USD",
+        "Total Volume All Currencies in 24hr (in M)": null
+    },
+    {
+        "Symbol": "FIL-USD",
+        "Total Volume All Currencies in 24hr (in M)": 167.643
+    },
+    {
+        "Symbol": "ICP-USD",
+        "Total Volume All Currencies in 24hr (in M)": 13.704
+    },
+    {
+        "Symbol": "HEX-USD",
+        "Total Volume All Currencies in 24hr (in M)": 1.562
+    },
+    {
+        "Symbol": "HBAR-USD",
+        "Total Volume All Currencies in 24hr (in M)": 35.051
+    },
+    {
+        "Symbol": "LDO-USD",
+        "Total Volume All Currencies in 24hr (in M)": 17.605
+    },
+    {
+        "Symbol": "WHBAR-USD",
+        "Total Volume All Currencies in 24hr (in M)": null
+    },
+    {
+        "Symbol": "BTCB-USD",
+        "Total Volume All Currencies in 24hr (in M)": 16.527
+    },
+    {
+        "Symbol": "ARB11841-USD",
+        "Total Volume All Currencies in 24hr (in M)": 558.538
+    },
+    {
+        "Symbol": "APT21794-USD",
+        "Total Volume All Currencies in 24hr (in M)": 165.44
+    },
+    {
+        "Symbol": "CRO-USD",
+        "Total Volume All Currencies in 24hr (in M)": 12.615
+    },
+    {
+        "Symbol": "VET-USD",
+        "Total Volume All Currencies in 24hr (in M)": 41.722
+    },
+    {
+        "Symbol": "NEAR-USD",
+        "Total Volume All Currencies in 24hr (in M)": 78.556
+    },
+    {
+        "Symbol": "QNT-USD",
+        "Total Volume All Currencies in 24hr (in M)": 18.403
+    },
+    {
+        "Symbol": "AAVE-USD",
+        "Total Volume All Currencies in 24hr (in M)": 83.582
+    },
+    {
+        "Symbol": "GRT6719-USD",
+        "Total Volume All Currencies in 24hr (in M)": 29.424
+    },
+    {
+        "Symbol": "FRAX-USD",
+        "Total Volume All Currencies in 24hr (in M)": 5.141
+    },
+    {
+        "Symbol": "XLM-USD",
+        "Total Volume All Currencies in 24hr (in M)": 259.258
+    },
+    {
+        "Symbol": "OP-USD",
+        "Total Volume All Currencies in 24hr (in M)": 293.337
+    },
+    {
+        "Symbol": "EGLD-USD",
+        "Total Volume All Currencies in 24hr (in M)": 10.46
+    },
+    {
+        "Symbol": "STX4847-USD",
+        "Total Volume All Currencies in 24hr (in M)": 46.725
+    },
+    {
+        "Symbol": "ALGO-USD",
+        "Total Volume All Currencies in 24hr (in M)": 69.846
+    },
+    {
+        "Symbol": "MKR-USD",
+        "Total Volume All Currencies in 24hr (in M)": 54.078
+    },
+    {
+        "Symbol": "EOS-USD",
+        "Total Volume All Currencies in 24hr (in M)": 178.618
+    },
+    {
+        "Symbol": "XTZ-USD",
+        "Total Volume All Currencies in 24hr (in M)": 18.385
+    },
+    {
+        "Symbol": "WEOS-USD",
+        "Total Volume All Currencies in 24hr (in M)": null
+    },
+    {
+        "Symbol": "IMX10603-USD",
+        "Total Volume All Currencies in 24hr (in M)": 17.823
+    },
+    {
+        "Symbol": "THETA-USD",
+        "Total Volume All Currencies in 24hr (in M)": 18.867
+    },
+    {
+        "Symbol": "SAND-USD",
+        "Total Volume All Currencies in 24hr (in M)": 43.859
+    },
+    {
+        "Symbol": "MANA-USD",
+        "Total Volume All Currencies in 24hr (in M)": 58.759
+    },
+    {
+        "Symbol": "FTM-USD",
+        "Total Volume All Currencies in 24hr (in M)": 125.761
+    },
+    {
+        "Symbol": "RNDR-USD",
+        "Total Volume All Currencies in 24hr (in M)": 45.231
+    },
+    {
+        "Symbol": "USDD-USD",
+        "Total Volume All Currencies in 24hr (in M)": 16.526
+    },
+    {
+        "Symbol": "AXS-USD",
+        "Total Volume All Currencies in 24hr (in M)": 38.784
+    },
+    {
+        "Symbol": "SNX-USD",
+        "Total Volume All Currencies in 24hr (in M)": 198.496
+    },
+    {
+        "Symbol": "BSV-USD",
+        "Total Volume All Currencies in 24hr (in M)": 58.147
+    },
+    {
+        "Symbol": "RPL-USD",
+        "Total Volume All Currencies in 24hr (in M)": 4.601
+    },
+    {
+        "Symbol": "APE18876-USD",
+        "Total Volume All Currencies in 24hr (in M)": 54.364
+    },
+    {
+        "Symbol": "CRV-USD",
+        "Total Volume All Currencies in 24hr (in M)": 24.38
+    },
+    {
+        "Symbol": "BGB-USD",
+        "Total Volume All Currencies in 24hr (in M)": 13.174
+    },
+    {
+        "Symbol": "NEO-USD",
+        "Total Volume All Currencies in 24hr (in M)": 36.143
+    },
+    {
+        "Symbol": "XRD-USD",
+        "Total Volume All Currencies in 24hr (in M)": 4.533
+    },
+    {
+        "Symbol": "BIT11221-USD",
+        "Total Volume All Currencies in 24hr (in M)": 33.335
+    },
+    {
+        "Symbol": "XEC-USD",
+        "Total Volume All Currencies in 24hr (in M)": 37.645
+    },
+    {
+        "Symbol": "FLOW-USD",
+        "Total Volume All Currencies in 24hr (in M)": 35.716
+    },
+    {
+        "Symbol": "TNC5524-USD",
+        "Total Volume All Currencies in 24hr (in M)": null
+    },
+    {
+        "Symbol": "USDP-USD",
+        "Total Volume All Currencies in 24hr (in M)": 1.316
+    },
+    {
+        "Symbol": "KCS-USD",
+        "Total Volume All Currencies in 24hr (in M)": 1.786
+    },
+    {
+        "Symbol": "COMP5692-USD",
+        "Total Volume All Currencies in 24hr (in M)": 244.943
+    },
+    {
+        "Symbol": "KAVA-USD",
+        "Total Volume All Currencies in 24hr (in M)": 25.545
+    },
+    {
+        "Symbol": "CFX-USD",
+        "Total Volume All Currencies in 24hr (in M)": 47.133
+    },
+    {
+        "Symbol": "CHZ-USD",
+        "Total Volume All Currencies in 24hr (in M)": 34.643
+    },
+    {
+        "Symbol": "WBNB-USD",
+        "Total Volume All Currencies in 24hr (in M)": 66.901
+    },
+    {
+        "Symbol": "GUSD-USD",
+        "Total Volume All Currencies in 24hr (in M)": 1.043
+    },
+    {
+        "Symbol": "KLAY-USD",
+        "Total Volume All Currencies in 24hr (in M)": 14.996
+    },
+    {
+        "Symbol": "KAS-USD",
+        "Total Volume All Currencies in 24hr (in M)": 16.063
+    },
+    {
+        "Symbol": "MIOTA-USD",
+        "Total Volume All Currencies in 24hr (in M)": 12.217
+    },
+    {
+        "Symbol": "GALA-USD",
+        "Total Volume All Currencies in 24hr (in M)": 39.293
+    },
+    {
+        "Symbol": "FTT-USD",
+        "Total Volume All Currencies in 24hr (in M)": 27.81
+    },
+    {
+        "Symbol": "ZEC-USD",
+        "Total Volume All Currencies in 24hr (in M)": 25.453
+    },
+    {
+        "Symbol": "GMX11857-USD",
+        "Total Volume All Currencies in 24hr (in M)": 17.696
+    },
+    {
+        "Symbol": "LUNC-USD",
+        "Total Volume All Currencies in 24hr (in M)": 35.283
+    },
+    {
+        "Symbol": "PAXG-USD",
+        "Total Volume All Currencies in 24hr (in M)": 10.17
+    },
+    {
+        "Symbol": "XAUT-USD",
+        "Total Volume All Currencies in 24hr (in M)": 4.653
+    },
+    {
+        "Symbol": "FXS-USD",
+        "Total Volume All Currencies in 24hr (in M)": 15.078
+    },
+    {
+        "Symbol": "BTTOLD-USD",
+        "Total Volume All Currencies in 24hr (in M)": null
+    }
+]
