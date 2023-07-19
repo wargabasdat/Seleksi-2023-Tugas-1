@@ -26929,96 +26929,72 @@
     },
     {
         "id_trainable_attack": 4489,
-        "trainable_attack_name": "Magma Storm+",
-        "trainable_attack_type": "att_fire",
-        "trainable_attack_damage": 1950
-    },
-    {
-        "id_trainable_attack": 4490,
-        "trainable_attack_name": "Tesla Ray",
-        "trainable_attack_type": "att_electric",
-        "trainable_attack_damage": 1350
-    },
-    {
-        "id_trainable_attack": 4491,
-        "trainable_attack_name": "Asteroid+",
-        "trainable_attack_type": "att_earth",
-        "trainable_attack_damage": 1800
-    },
-    {
-        "id_trainable_attack": 4492,
-        "trainable_attack_name": "Rotting Spell",
-        "trainable_attack_type": "att_plant",
-        "trainable_attack_damage": 1200
-    },
-    {
-        "id_trainable_attack": 4493,
         "trainable_attack_name": "Enlightenment+",
         "trainable_attack_type": "att_light",
         "trainable_attack_damage": 1800
     },
     {
-        "id_trainable_attack": 4494,
+        "id_trainable_attack": 4490,
         "trainable_attack_name": "Magma Storm+",
         "trainable_attack_type": "att_fire",
         "trainable_attack_damage": 1950
     },
     {
-        "id_trainable_attack": 4495,
+        "id_trainable_attack": 4491,
         "trainable_attack_name": "Black Hole",
         "trainable_attack_type": "att_dark",
         "trainable_attack_damage": 1350
     },
     {
-        "id_trainable_attack": 4496,
+        "id_trainable_attack": 4492,
         "trainable_attack_name": "Beehive",
         "trainable_attack_type": "att_plant",
         "trainable_attack_damage": 1350
     },
     {
-        "id_trainable_attack": 4497,
+        "id_trainable_attack": 4493,
         "trainable_attack_name": "Trance",
         "trainable_attack_type": "att_dream",
         "trainable_attack_damage": 1350
     },
     {
-        "id_trainable_attack": 4498,
+        "id_trainable_attack": 4494,
         "trainable_attack_name": "Hypnosis+",
         "trainable_attack_type": "att_pure",
         "trainable_attack_damage": 2100
     },
     {
-        "id_trainable_attack": 4499,
+        "id_trainable_attack": 4495,
         "trainable_attack_name": "Cryogenic Freeze",
         "trainable_attack_type": "att_ice",
         "trainable_attack_damage": 1350
     },
     {
-        "id_trainable_attack": 4500,
+        "id_trainable_attack": 4496,
         "trainable_attack_name": "Acid Rain+",
         "trainable_attack_type": "att_water",
         "trainable_attack_damage": 1800
     },
     {
-        "id_trainable_attack": 4501,
+        "id_trainable_attack": 4497,
         "trainable_attack_name": "Black Hole+",
         "trainable_attack_type": "att_dark",
         "trainable_attack_damage": 1950
     },
     {
-        "id_trainable_attack": 4502,
+        "id_trainable_attack": 4498,
         "trainable_attack_name": "Pure Light+",
         "trainable_attack_type": "att_pure",
         "trainable_attack_damage": 2100
     },
     {
-        "id_trainable_attack": 4503,
+        "id_trainable_attack": 4499,
         "trainable_attack_name": "Tesla Ray+",
         "trainable_attack_type": "att_electric",
         "trainable_attack_damage": 1950
     },
     {
-        "id_trainable_attack": 4504,
+        "id_trainable_attack": 4500,
         "trainable_attack_name": "Cannon Balls",
         "trainable_attack_type": "att_metal",
         "trainable_attack_damage": 1200

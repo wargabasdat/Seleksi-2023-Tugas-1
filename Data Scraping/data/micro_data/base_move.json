@@ -26929,20 +26929,20 @@
     },
     {
         "id_base_move": 4489,
-        "base_move_name": "Nuclear Hit",
-        "base_move_type": "att_fire",
+        "base_move_name": "Light Star",
+        "base_move_type": "att_light",
         "base_move_damage": 1050
     },
     {
         "id_base_move": 4490,
-        "base_move_name": "Electric Shock",
-        "base_move_type": "att_electric",
-        "base_move_damage": 1050
+        "base_move_name": "Lava Balls",
+        "base_move_type": "att_fire",
+        "base_move_damage": 550
     },
     {
         "id_base_move": 4491,
-        "base_move_name": "Tumbleweed",
-        "base_move_type": "att_earth",
+        "base_move_name": "Ghost Cloud",
+        "base_move_type": "att_dark",
         "base_move_damage": 1050
     },
     {
@@ -26953,72 +26953,48 @@
     },
     {
         "id_base_move": 4493,
-        "base_move_name": "Light Star",
-        "base_move_type": "att_light",
-        "base_move_damage": 1050
-    },
-    {
-        "id_base_move": 4494,
-        "base_move_name": "Lava Balls",
-        "base_move_type": "att_fire",
-        "base_move_damage": 550
-    },
-    {
-        "id_base_move": 4495,
-        "base_move_name": "Ghost Cloud",
-        "base_move_type": "att_dark",
-        "base_move_damage": 1050
-    },
-    {
-        "id_base_move": 4496,
-        "base_move_name": "Poison Ivy",
-        "base_move_type": "att_plant",
-        "base_move_damage": 650
-    },
-    {
-        "id_base_move": 4497,
         "base_move_name": "Confusing Wake",
         "base_move_type": "att_dream",
         "base_move_damage": 1050
     },
     {
-        "id_base_move": 4498,
+        "id_base_move": 4494,
         "base_move_name": "Hypnosis",
         "base_move_type": "att_pure",
         "base_move_damage": 1500
     },
     {
-        "id_base_move": 4499,
+        "id_base_move": 4495,
         "base_move_name": "Snow Storm",
         "base_move_type": "att_ice",
         "base_move_damage": 1050
     },
     {
-        "id_base_move": 4500,
+        "id_base_move": 4496,
         "base_move_name": "Flooding",
         "base_move_type": "att_water",
         "base_move_damage": 650
     },
     {
-        "id_base_move": 4501,
+        "id_base_move": 4497,
         "base_move_name": "Ghost Cloud",
         "base_move_type": "att_dark",
         "base_move_damage": 1050
     },
     {
-        "id_base_move": 4502,
+        "id_base_move": 4498,
         "base_move_name": "Pure Light",
         "base_move_type": "att_pure",
         "base_move_damage": 1500
     },
     {
-        "id_base_move": 4503,
+        "id_base_move": 4499,
         "base_move_name": "Electric Shock",
         "base_move_type": "att_electric",
         "base_move_damage": 1050
     },
     {
-        "id_base_move": 4504,
+        "id_base_move": 4500,
         "base_move_name": "Magneto",
         "base_move_type": "att_metal",
         "base_move_damage": 650

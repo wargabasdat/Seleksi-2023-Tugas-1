@@ -1,0 +1,27 @@
+[
+    {
+        "id_rarity" : 1,
+        "name" : "Common"
+        
+    },
+    {
+        "id_rarity" : 2,
+        "name" : "Rare"
+    },
+    {
+        "id_rarity" : 3,
+        "name" : "Very Rare"
+    },
+    {
+        "id_rarity" : 4,
+        "name" : "Epic"
+    },
+    {
+        "id_rarity" : 5,
+        "name" : "Legendary"
+    },
+    {
+        "id_rarity" : 6,
+        "name" : "Heroic"
+    }
+]
