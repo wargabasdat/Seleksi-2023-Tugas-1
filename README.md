@@ -1,13 +1,13 @@
 <h1 align="center">
   <br>
-  Seleksi Warga Basdat 2023
+  Data Naga Dragon City
   <br>
   <br>
 </h1>
 
 <h2 align="center">
   <br>
-  Data Scraping, Database Modelling & Data Storing
+  Data Scraping, Database Modelling & Data Storing : Website deetlist.com/dragoncity/
   <br>
   <br>
 </h2>
@@ -15,87 +15,152 @@
 
 ## Spesifikasi
 
-### Data Scraping
+### Table of Content
+  - [Desciption](#description)
+  - [Specification of the program](#specification-of-the-program)
+  - [How to use](#how-to-use)
+  - [JSON Structure](#json-structure)
+  - [Database Structure (ERD and relational diagram)](#database-structure-erd-and-relational-diagram)
+  - [Explanation of ERD to relational diagram translation process](#explanation-of-erd-to-relational-diagram-translation-process)
+  - [Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)](#screenshot-program-di-upload-pada-folder-screenshots-di-upload-file-image-nya-dan-ditampilkan-di-dalam-readme)
+  - [Reference (Library used, etc)](#reference-library-used-etc)
+  - [Author](#author)
 
-1. Lakukan _data scraping_ dari sebuah laman web untuk memperoleh data atau informasi tertentu __TANPA MENGGUNAKAN API__. Hasil _data scraping_ ini nantinya akan disimpan dalam RDBMS.
+### Description
+Data yang digunakan dalam proyek ini berasal dari website deetlist.com/dragoncity/. Data tersebut merupakan informasi tentang naga-naga dalam permainan Dragon City, termasuk detail seperti nama, elemen, statistik, serangan, dan kekuatan/kelemahan.
 
-2. Daftarkan judul topik yang akan dijadikan bahan _data scraping_ dan DBMS yang akan digunakan pada spreadsheet berikut: [Topik Data Scraping](https://docs.google.com/spreadsheets/d/1D49SykkryzOAI1Fk9YI_-YpEV2lBw-p0_ZiRieGe0xQ/edit?usp=sharing). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal __1 Juli 2023 pukul 21.40 WIB.__
+DBMS yang digunakan dalam proyek ini adalah MySQL yang diakses melalui phpMyAdmin. MySQL dan phpMyAdmin dipilih karena merupakan kombinasi yang populer dan dapat diandalkan untuk mengelola basis data relasional dengan antarmuka pengguna yang intuitif.
 
-3. Pada folder `Data Scraping`, calon warga basdat harus mengumpulkan _file script_, json hasil _data scraping_. Folder `Data Scraping` terdiri dari _folder_ `src`, `data` dan `screenshots`. 
-    - _Folder_ `src` berisi _file script_/kode yang __*WELL DOCUMENTED* dan *CLEAN CODE*__.
-    - _Folder_ `data` berisi _file_ json hasil _scraper_.
-    - _Folder_ `screenshot` berisi tangkapan layar program.
+MySQL adalah sistem manajemen basis data relasional yang tangguh, stabil, dan populer di kalangan pengembang. Selain itu, MySQL juga mendukung bahasa SQL yang sangat kuat untuk mengelola dan memanipulasi data.
 
-4. Sebagai referensi untuk mengenal _data scraping_, asisten menyediakan dokumen "_Short Guidance To Data Scraping_" yang dapat diakses pada link berikut: [Data Scraping Guidance](https://docs.google.com/document/d/1vEyAK1HIkM792oIuwR4Li2xOodmAcCXxentCCivxxkw/edit?usp=sharing). Peserta diharapkan untuk memperhatikan etika dalam melakukan _scraping_.
+phpMyAdmin adalah aplikasi web berbasis PHP yang menyediakan antarmuka grafis untuk mengelola dan mengakses basis data MySQL. Dengan menggunakan phpMyAdmin, pengguna dapat dengan mudah membuat, mengubah, dan menghapus tabel, menjalankan kueri SQL, mengelola indeks dan kunci asing, serta melakukan tugas administrasi lainnya terkait basis data.
 
-5. Data yang diperoleh harus di-_preprocessing_ terlebih dahulu.
+Pemilihan MySQL melalui phpMyAdmin sebagai DBMS yang digunakan memungkinkan penulis untuk membuat skema database yang baik dan efisien, serta melakukan operasi database dengan mudah melalui antarmuka web yang disediakan oleh phpMyAdmin.
+
+Dengan menggunakan MySQL melalui phpMyAdmin, penulis dapat menyimpan, mengelola, dan mengakses data naga Dragon City dengan efisien, memungkinkan pengguna untuk melakukan berbagai operasi dan analisis pada data tersebut.
+
+### Specification
+
+Program ini menggunakan Python dan beberapa library sebagai berikut:
+
+- `requests`: Digunakan untuk mengirim permintaan HTTP ke website dan mendapatkan responnya.
+- `json`: Digunakan untuk memanipulasi data dalam format JSON.
+- `BeautifulSoup`: Digunakan untuk melakukan parsing dan ekstraksi data dari HTML.
+- `urllib.parse`: Digunakan untuk menggabungkan URL dengan benar.
+- `re`: Digunakan untuk melakukan pencocokan pola (pattern matching) menggunakan regular expression.
+
+### How to use
+
+1. Clone repository ini.
+2. Buka terminal dan arahkan ke direktori repository ini.
+3. Pastikan Python sudah terinstall di komputer Anda. Jika belum, silakan install Python terlebih dahulu.
+4. Install library yang dibutuhkan dengan menjalankan perintah `pip install <library>`.
+5. Jalankan program file `scrapping_dc_json` pada `Data Scraping/src`
+6. Anda akan mendapatkan file `all_dragon_data.json` pada `Data Scraping/data`
+
+### JSON Structure
+Berikut adalah struktur JSON yang dihasilkan oleh program:
+
+```json
+[
+  {
+    "name": "Nature Dragon",
+    "breed_time": "20 minutes",
+    "buy_price": 500,
+    "hatch_time": "20 minutes",
+    "breedable": "Yes",
+    "hatch_xp": 1000,
+    "description": "The Nature Dragon is a Common Dragon with the primary typing of Nature. The Nature Dragon loves humans, animals, and all living things - some of them for gastronomic purposes. Even though she hasnt eaten a whole human, a finger or two have been lost...",
+    "base_moves": [
+      {
+        "type": "att_physical",
+        "name": "Punch",
+        "damage": 338
+      },
+      {
+        "type": "att_plant",
+        "name": "Stitching Roots",
+        "damage": 550
+      },
+      {
+        "type": "att_plant",
+        "name": "Poison Ivy",
+        "damage": 650
+      },
+      {
+        "type": "att_plant",
+        "name": "Leaf Blast",
+        "damage": 1050
+      }
+    ],
+    "trainable_attacks": [
+      {
+        "type": "att_physical",
+        "name": "Hard Charge",
+        "damage": 488
+      },
+      {
+        "type": "att_plant",
+        "name": "Rotting Spell",
+        "damage": 1200
+      },
+      {
+        "type": "att_physical",
+        "name": "Stunning Hit",
+        "damage": 638
+      },
+      {
+        "type": "att_plant",
+        "name": "Beehive",
+        "damage": 1350
+      }
+    ],
+    "strengths": [
+      "Sea",
+      "Light"
+    ],
+    "weaknesses": [
+      "Flame",
+      "Ice"
+    ]
+  },
+  // Data naga lainnya...
+]
 ```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
+Struktur JSON di atas menggambarkan data naga yang diperoleh dari scraping. Setiap objek naga memiliki properti-properti seperti name (nama naga), breed_time (waktu pembiakan), buy_price (harga beli), hatch_time (waktu penetasan), breedable (dapat dipiara), hatch_xp (XP saat menetaskan), description (deskripsi naga), base_moves (serangan dasar), trainable_attacks (serangan yang dapat dilatih), strengths (kekuatan), dan weaknesses (kelemahan).
 
-### Database Modelling & Data Storing
+Bagian base_moves dan trainable_attacks berisi array dari objek-objek serangan dengan properti seperti type (jenis serangan), name (nama serangan), dan damage (jumlah kerusakan yang disebabkan).
 
-1. Dari data _scraping_ yang sudah dilakukan, lakukan __pengembangan *database*__ dalam bentuk ERD kemudian __translasi ERD tersebut menjadi diagram relasional.__ Tambahkan tabel lain yang sekiranya berkaitan dengan tabel-tabel yang didapatkan dari _data scraping_ yang dilakukan.
-   
-2. Implementasikan skema relational diagram tersebut ke __RDBMS__ sesuai pilihan peserta. __DBMS No-SQL tidak akan diterima.__ Jangan lupa implementasikan _constraints (primary key, foreign key,_ dsb) pada _database_ yang dibuat.
+Bagian strengths dan weaknesses berisi array dari elemen-elemen yang menyatakan kekuatan dan kelemahan naga terhadap elemen-elemen tertentu.
 
-3. Masukkan data hasil _scraping_ ke dalam RDBMS yang sudah dibuat. Tambahan tabel pada skema yang dibuat tidak perlu diisi dengan data _dummy_ (cukup dibiarkan kosong).
+Ini adalah struktur JSON yang dapat digunakan untuk menyimpan data naga hasil scraping.
 
-4. Tools yang digunakan __dibebaskan__ pada peserta.
+### Database Structure (ERD and relational diagram)
 
-5. Pada folder `Data Storing`, Calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _Folder_ `Data Storing` terdiri dari folder `screenshots`, `export`, dan `design`.
-    - _Folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke RDBMS.
-    - _Folder_ `export` berisi _file_ hasil _export_ dari DBMS dengan format `.sql`.
-    -  _Folder_ `design` berisi ER Diagram dan diagram relasional yang disimpan dalam format `.png`
+![ERD](Data%20Storing/design/ERD_Dragon_City.png)
 
+Berikut adalah diagram hubungan antar entitas (Entity Relationship Diagram/ERD) berdasarkan poin-poin yang telah disebutkan:
 
-### Bonus
-Task berikut bersifat tidak wajib (__BONUS__), boleh dikerjakan sebagian atau seluruhnya.
+```mermaid
+erDiagram
+    DRAGON ||--o{ ELEMENT : has
+    DRAGON ||--|{ TRAINABLE_ATTACK : has
+    DRAGON ||--|{ BASE_MOVE : has
+    DRAGON ||--|{ RARITY : has
 
-- Buatlah visualisasi data dalam bentuk _dashboard_ (dari data hasil _scraping_ saja) dan jelaskan apa _insights_ yang didapatkan dari visualisasi data tersebut. _Tools_ untuk melakukan visualisasi data ini dibebaskan pada peserta.
+    DRAGON_STRENGTH ||--|| DRAGON : has
+    DRAGON_WEAKNESS ||--|| DRAGON : has
+    DRAGON_TRAINABLE_ATTACK ||--|| DRAGON : has
+    DRAGON_BASE_MOVE ||--|| DRAGON : has
+    DRAGON ||--|{ DRAGON_RARITY : belongs to
 
-### Pengumpulan
-
-
-1. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: [Seleksi-2023-Tugas-1](https://github.com/wargabasdat/Seleksi-2023-Tugas-1). Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_1_[NIM]```
-
-2. Tambahkan juga `.gitignore` pada _file_ atau _folder_ yang tidak perlu di-_upload_. __NB: BINARY TIDAK DIUPLOAD__
-
-3. Berikan satu buah file `README` yang __WELL DOCUMENTED__ dengan cara __override__ _file_ `README.md` ini. `README` harus minimal memuat konten :
+![Relational Diagram](Data%20Storing/design/Relational_Diagram_Dragon_City.png)
 
 
-```
-- Description of the data and DBMS (Why you choose it)
-- Specification of the program
-- How to use
-- JSON Structure
-- Database Structure (ERD and relational diagram)
-- Explanation of ERD to relational diagram translation process
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
 
 
-4. Deadline pengumpulan tugas 1 adalah <span style="color:red">__17 Juli 2023 Pukul 22.40 WIB__</span>
+### Explanation of ERD to relational diagram translation process
+### Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
+### Reference (Library used, etc)
+### Author
 
-<h3 align="center">
-  <br>
-  Selamat Mengerjakan!
-  <br>
-</h3>
-
-<p align="center">
-  <i>
-  Happiness does not come from doing easy work
-  but from the afterglow of satisfaction that
-  comes after the achievement of a difficult
-  task that demanded our best.<br><br>
-  - Theodore Isaac Rubin
-  </i>
-</p>
-<br>
