@@ -1,0 +1,14 @@
+{
+  "name": "data_storing",
+  "version": "1.0.0",
+  "description": "Store the JSON data into local mariaDB",
+  "main": "index.js",
+  "scripts": {
+    "store": "node store.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mariadb": "^3.2.0"
+  }
+}
