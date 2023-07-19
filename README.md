@@ -163,7 +163,7 @@ Setelah pemetaan *Entity-Relationship Diagram*, didapatkan *Relational Diagram* 
 Berikut merupakan beberapa *screenshot* program beserta penjelasannya.  
 Website yang digunakan:
 <div align=center>
-  <img src=>
+  <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/ss_website.jpg width=600>
 </div>
 
 ### Data Scraping
@@ -173,15 +173,18 @@ Dalam 1 *season*, terdapat beberapa games yang dipisahkan dalam beberapa hari da
   <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/ss_scraping_urlgame.jpg width=450>
 </div>
 
+  
 Sebelum melakukan *scraping*, dibuat fungsi untuk melakukan *data cleaning* sehingga data yang didapatkan bersih dan tidak ada *null value* maupun data yang redundan
 <div align=center>
   <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/ss_scraping_data_cleaning.jpg width=400>
 </div>
+
   
 Setelah itu, dilakukan iterasi untuk setiap *match* yang dilaksanakan. Website menggunakan button yang harus diklik untuk melihat *summary* dan *boxscore* dari tiap team. Dilakukan *scraping* untuk mendapatkan informasi umum tentang *match* dan *summary* yang merupakan tampilan *default* setelah link dibuka untuk mendapatkan statistik team. Kemudian, dilakukan klik pada *button boxscore* terlebih dahulu. Teamm A merupakan *default* tampilan setelah *button* diklik, kemudian dilakukan *scraping* terhadap statistik pemain team A. Setelah itu, dilakukan klik pada button *team B* untuk melakukan *scraping* statistik pemain team B.
 <div align=center>
   <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/ss_scraping_team.jpg width=500>
 </div>
+
   
 Lalu, dilakukan *scraping* untuk mendapatkan data umum sekolah. Link telah didapatkan dari *scraping game detail* yang sebelumnya.
 <div align=center>
@@ -203,6 +206,12 @@ Setelah itu, dilakukan perintah *insert value* untuk memindahkan seluruh isi dar
 <div align=center>
   <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Scraping/screenshot/ss_storing_insert_data.jpg width=600>
 </div>
+
+Berikut merupakan contoh hasil penyimpanan data pada *database* setelah program dijalankan pada __table match_info__
+<div align=center>
+  <img src=https://github.com/raniakiranaa/Seleksi-2023-Tugas-1/blob/main/Data%20Storing/screenshot/ss_match_info.jpg width=500>
+</div>
+
 
 ## Reference 
 1. [Website DBL](https://www.dbl.id/)
