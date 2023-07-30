@@ -59,7 +59,7 @@ _**note :** File hasil scrapping dituliskan pada file di direktori `"Data Scrapp
 Hasil scrapping disimpan di dalam 2 jenis file JSON, yaitu:
 
 1. `kurs_pajak.json` : berisi data kurs pajak yang masih bersarang berdasarkan tanggal kurs pajak berlaku
-    ```
+    ```json
     [
       {
         "doc_id": "35/KM.10/2023",
@@ -80,7 +80,7 @@ Hasil scrapping disimpan di dalam 2 jenis file JSON, yaitu:
     ]
    ```
 2. `kurs_pajak_normalized.json` : berisi data kurs pajak yang sudah dinormalisasi menjadi bentuk relasional. Terdapat 3 relasi pada file ini, yaitu `currency`, `kurs_pajak_document` dan `nilai_kurs`.
-    ```
+    ```json
     {
       "currency": [
         {
