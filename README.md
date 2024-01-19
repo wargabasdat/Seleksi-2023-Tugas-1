@@ -39,7 +39,7 @@ Proyek kali ini dibagi menjadi 4 tahap, yaitu Data Scrapping, Data Pre-Processin
 Untuk melihat proses data scrapping hingga normalization dapat menjalankan source code yang terdapat pada folder Data Scraping/src dan menjalankan seluruh code block yang terdapat pada source code tersebut. 
 
 ### SQL
-Cara untuk menjalankan SQL yang sudah dibuat, pertama membuka terminal dan pindah direktori menjadi DataStoring/export. Setelah itu jalankan kode berikut pg_dump -U {nama_user} -d {nama_database}> NBA_RegularSeason22_23.sql
+Cara untuk menjalankan SQL yang sudah dibuat, pertama membuka terminal dan pindah direktori menjadi DataStoring/export. Setelah itu jalankan kode berikut psql -U {nama_user} -d {nama_database} < NBA_RegularSeason22_23.sql
 
 # JSON Structure 
 Dari data yang telah di scrape, data dipindahkan menjadi bentuk JSON, sebagai berikut   
