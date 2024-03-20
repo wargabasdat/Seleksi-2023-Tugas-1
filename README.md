@@ -1,9 +1,9 @@
-<h2 align="center">
+<h1 align="center">
   <br>
   Grab Food Data Scraping, Database Modelling & Data Storing
   <br>
   <br>
-</h2>
+</h1>
 
 
 # Description of the data and DBMS 
