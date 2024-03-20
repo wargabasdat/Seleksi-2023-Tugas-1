@@ -1,10 +1,3 @@
-<h1 align="center">
-  <br>
-  Seleksi Warga Basdat 2023
-  <br>
-  <br>
-</h1>
-
 <h2 align="center">
   <br>
   Grab Food Data Scraping, Database Modelling & Data Storing
